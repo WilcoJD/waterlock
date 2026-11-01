@@ -33,3 +33,5 @@ node_modules
 
 # testfiles
 _testapp/
+# Claude Code agent worktrees
+.claude/
