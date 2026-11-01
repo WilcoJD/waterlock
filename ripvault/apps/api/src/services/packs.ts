@@ -152,7 +152,18 @@ export function openPack(deps: Deps, caller: UserRow, packId: string, rawBody: u
     const cards = new Map(
       all<CardRow>(db, `SELECT * FROM cards WHERE id IN (${placeholders(ids.length)})`, ...ids).map((c) => [c.id, c]),
     );
-    if (ids.some((id) => cards.get(id)?.stock === 0)) throw soldOut();
+    // Decide sold_out BEFORE drawing: every tracked card must have stock for the whole batch. Failing
+    // mid-loop would roll back without consuming nonces and so tell the player something about their
+    // upcoming rolls, which they could then spend on a different pack.
+    const lowest = Math.min(...ids.map((id) => cards.get(id)?.stock ?? Number.POSITIVE_INFINITY));
+    if (lowest === 0) throw soldOut();
+    if (lowest < quantity) {
+      throw new ApiError(
+        409,
+        'sold_out',
+        `Only ${lowest} of a card in this pack ${lowest === 1 ? 'is' : 'are'} left, so you can open at most ${lowest} at a time`,
+      );
+    }
     if (user.balance_pence < cost) throw insufficientFunds();
 
     const batchId = newId('bat');
@@ -188,6 +199,7 @@ export function openPack(deps: Deps, caller: UserRow, packId: string, rawBody: u
       if (!card) throw new Error(`pack ${pack.id} revision ${revisionId} references missing card ${cardId}`);
       if (card.stock !== null) {
         const r = takeStock.run(at, card.id);
+        // Cannot happen after the check above (same transaction); kept as a defensive assertion.
         if (Number(r.changes) === 0) throw soldOut();
       }
       const itemId = newId('itm');

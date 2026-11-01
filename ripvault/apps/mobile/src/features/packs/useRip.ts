@@ -1,12 +1,15 @@
 /**
  * State machine for one visit to the rip screen.
  *
+ *   confirm -> (start) opening                        (not started by an in-app Rip button)
  *   opening -> tearing -> revealing -> summary        (success)
  *   opening -> error -> (retry) opening               (failure)
  *   summary -> (ripAgain) opening                     (new action, new Idempotency-Key)
  *
  * - POST /packs/:id/open is sent exactly once per action: the effect is guarded by a ref, so React
  *   StrictMode's double effects and re-renders never send it twice.
+ * - It is only sent on mount when `autoStart` is true (the player just pressed Rip in the app).
+ *   Otherwise the screen starts in `confirm` and nothing is bought until `start()` is called.
  * - Retries (network error, "Try again") reuse the SAME Idempotency-Key, so a rip that actually went
  *   through is replayed by the server instead of charging again. "Rip again" makes a new key.
  * - Selling uses one key per set of items; a retry of the same sale reuses it.
@@ -25,6 +28,7 @@ import { idsSignature } from './packData.ts';
 import type { PullRowState } from './packData.ts';
 
 export type RipPhase =
+  | { kind: 'confirm' }
   | { kind: 'opening' }
   | { kind: 'error'; error: ApiError }
   | { kind: 'tearing'; result: OpenPackResponse }
@@ -60,6 +64,8 @@ export interface RipController {
   rows: Readonly<Record<string, PullRowState>>;
   /** A sale is in flight (sell buttons pause). */
   selling: boolean;
+  /** Start the rip after the player confirmed it (confirm phase). */
+  start: () => void;
   /** Re-send the same rip (same Idempotency-Key). */
   retry: () => void;
   /** Start a brand-new rip of the same pack/quantity (new Idempotency-Key). */
@@ -73,11 +79,21 @@ export interface RipController {
   keep: (pull: Pull) => void;
 }
 
-export function useRip(packId: string, quantity: number): RipController {
+export interface UseRipOptions {
+  /**
+   * Buy as soon as the screen opens. Only true when the player pressed a Rip button in the app just
+   * now (see issueRipTicket); a link from outside the app must show the confirm step instead.
+   */
+  autoStart: boolean;
+}
+
+export function useRip(packId: string, quantity: number, { autoStart }: UseRipOptions): RipController {
   const { setBalance, refreshUser } = useSession();
   const toast = useToast();
 
-  const [phase, setPhase] = useState<RipPhase>({ kind: 'opening' });
+  // Decided once, on mount.
+  const autoStartRef = useRef(autoStart);
+  const [phase, setPhase] = useState<RipPhase>(() => (autoStartRef.current ? { kind: 'opening' } : { kind: 'confirm' }));
   const [rows, setRows] = useState<Record<string, PullRowState>>({});
   const [selling, setSelling] = useState(false);
 
@@ -116,10 +132,9 @@ export function useRip(packId: string, quantity: number): RipController {
       setPhase({ kind: 'tearing', result });
     } catch (e) {
       const error = toApiError(e);
-      if (error.code === 'cooling_off' || error.code === 'spend_limit_reached' || error.code === 'insufficient_funds') {
-        // Fresh limits / balance for the explanation.
-        void refreshUser();
-      }
+      // Fresh limits / balance for the explanation, and the real balance when the outcome is unknown
+      // (network error, timeout, 5xx: the rip may have gone through). Never rejects.
+      void refreshUser();
       const elapsed = Date.now() - startedAt;
       if (elapsed < MIN_ERROR_MS) await wait(MIN_ERROR_MS - elapsed);
       if (attempt !== attemptRef.current) return;
@@ -129,9 +144,14 @@ export function useRip(packId: string, quantity: number): RipController {
     }
   }, [packId, quantity, setBalance, refreshUser]);
 
-  // Send the rip once when the screen opens (StrictMode-safe).
+  // Send the rip once when the screen opens (StrictMode-safe), if the player started it in the app.
   useEffect(() => {
     if (startedRef.current) return;
+    startedRef.current = true;
+    if (autoStartRef.current) void run();
+  }, [run]);
+
+  const start = useCallback(() => {
     startedRef.current = true;
     void run();
   }, [run]);
@@ -255,5 +275,5 @@ export function useRip(packId: string, quantity: number): RipController {
     [setBalance, toast, syncRows],
   );
 
-  return { phase, rows, selling, retry, ripAgain, finishTear, finishReveal, sell, keep };
+  return { phase, rows, selling, start, retry, ripAgain, finishTear, finishReveal, sell, keep };
 }

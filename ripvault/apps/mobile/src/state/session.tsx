@@ -19,7 +19,7 @@ import { AppState } from 'react-native';
 import type { AppStateStatus } from 'react-native';
 import * as SecureStore from 'expo-secure-store';
 import type { Me, RegisterRequest } from '@ripvault/shared';
-import { getMe, login, onUnauthorized, register, setAuthToken, toApiError } from '../api/client.ts';
+import { getMe, login, markAuthRestored, onUnauthorized, register, setAuthToken, toApiError } from '../api/client.ts';
 import type { ApiError } from '../api/client.ts';
 import { useToast } from '../components/Toast.tsx';
 
@@ -90,6 +90,7 @@ export function SessionProvider({ children }: { children?: ReactNode }) {
   const applySignedIn = useCallback((token: string, me: Me) => {
     epochRef.current += 1;
     setAuthToken(token);
+    markAuthRestored();
     setUserState(me);
     setRestoreError(null);
     setStatus('signedIn');
@@ -99,6 +100,7 @@ export function SessionProvider({ children }: { children?: ReactNode }) {
   const signOut = useCallback(async () => {
     epochRef.current += 1;
     setAuthToken(null);
+    markAuthRestored();
     setUserState(null);
     setRestoreError(null);
     setStatus('signedOut');
@@ -112,10 +114,13 @@ export function SessionProvider({ children }: { children?: ReactNode }) {
     const token = await readToken();
     if (epoch !== epochRef.current) return;
     if (!token) {
+      markAuthRestored();
       setStatus('signedOut');
       return;
     }
     setAuthToken(token);
+    // Requests held back at launch now go out with the saved token.
+    markAuthRestored();
     try {
       const me = await getMe();
       if (epoch !== epochRef.current) return;

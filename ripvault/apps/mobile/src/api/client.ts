@@ -125,6 +125,23 @@ function isErrorBody(x: unknown): x is ApiErrorBody {
 let authToken: string | null = null;
 const unauthorizedListeners = new Set<() => void>();
 
+/**
+ * Authenticated requests wait until SessionProvider has read the saved token at launch. Without this
+ * a screen opened by a link on a cold start would send its first request with no token and get a
+ * 401 (shown as an error) while the player is actually signed in.
+ */
+let resolveAuthRestored: () => void = () => undefined;
+let authRestored: Promise<void> | null = new Promise<void>((resolve) => {
+  resolveAuthRestored = resolve;
+});
+
+/** The saved token has been read (or there is none). Called by SessionProvider only. Idempotent. */
+export function markAuthRestored(): void {
+  if (!authRestored) return;
+  authRestored = null;
+  resolveAuthRestored();
+}
+
 /** Set (or clear with null) the bearer token sent with every request. Called by SessionProvider only. */
 export function setAuthToken(token: string | null): void {
   authToken = token;
@@ -191,6 +208,9 @@ function buildUrl(path: string, query?: QueryParams): string {
  */
 export async function apiRequest<T>(path: string, options: RequestOptions = {}): Promise<T> {
   const { method = 'GET', body, query, idempotencyKey, auth = true, signal, timeoutMs = REQUEST_TIMEOUT_MS } = options;
+
+  if (auth && authRestored) await authRestored;
+  if (signal?.aborted) throw new ApiError(0, 'aborted', 'Request cancelled.');
 
   const headers: Record<string, string> = { Accept: 'application/json' };
   if (body !== undefined) headers['Content-Type'] = 'application/json';

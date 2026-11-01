@@ -53,11 +53,13 @@ export interface NewUserInput {
 export function insertUser(db: Db, input: NewUserInput, at: string): UserRow {
   const id = newId('usr');
   const serverSeed = newServerSeed();
+  const nextServerSeed = newServerSeed();
   try {
     db.prepare(
       `INSERT INTO users (id, email, password_hash, display_name, date_of_birth, role, balance_pence,
-         server_seed, server_seed_hash, client_seed, nonce, terms_accepted_at, created_at, updated_at)
-       VALUES (?, ?, ?, ?, ?, ?, 0, ?, ?, ?, 0, ?, ?, ?)`,
+         server_seed, server_seed_hash, client_seed, nonce, next_server_seed, next_server_seed_hash,
+         terms_accepted_at, created_at, updated_at)
+       VALUES (?, ?, ?, ?, ?, ?, 0, ?, ?, ?, 0, ?, ?, ?, ?, ?)`,
     ).run(
       id,
       normaliseEmail(input.email),
@@ -68,6 +70,8 @@ export function insertUser(db: Db, input: NewUserInput, at: string): UserRow {
       serverSeed,
       hashServerSeed(serverSeed),
       newClientSeed(),
+      nextServerSeed,
+      hashServerSeed(nextServerSeed),
       at,
       at,
       at,
@@ -113,7 +117,7 @@ export async function register(deps: Deps, rawBody: unknown): Promise<AuthRespon
   const at = deps.now().toISOString();
   const user = tx(deps.db, () => insertUser(deps.db, { email, passwordHash, displayName, dateOfBirth: dob }, at));
   deps.logger.info('user registered', { userId: user.id });
-  return { token: signToken(user.id, deps.config.jwtSecret, deps.now()), user: buildMe(deps, user.id) };
+  return { token: signToken(user.id, deps.config.jwtSecret, deps.now(), undefined, user.token_version), user: buildMe(deps, user.id) };
 }
 
 const INVALID_CREDENTIALS = () => new ApiError(401, 'invalid_credentials', 'Email or password is incorrect');
@@ -129,7 +133,7 @@ export async function login(deps: Deps, rawBody: unknown): Promise<AuthResponse>
   const ok = await verifyPassword(password, user?.password_hash ?? (await getDummyHash()));
   if (!user || !ok) throw INVALID_CREDENTIALS();
   if (deps.config.env === 'production' && user.email === DEMO_USER_EMAIL) throw INVALID_CREDENTIALS();
-  return { token: signToken(user.id, deps.config.jwtSecret, deps.now()), user: buildMe(deps, user.id) };
+  return { token: signToken(user.id, deps.config.jwtSecret, deps.now(), undefined, user.token_version), user: buildMe(deps, user.id) };
 }
 
 // ---------------------------------------------------------------------------

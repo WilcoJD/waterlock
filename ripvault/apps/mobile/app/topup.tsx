@@ -11,7 +11,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { AppState, StyleSheet, View } from 'react-native';
 import type { AppStateStatus } from 'react-native';
-import { router } from 'expo-router';
+import { router, useNavigation } from 'expo-router';
 import * as WebBrowser from 'expo-web-browser';
 import { Ionicons } from '@expo/vector-icons';
 import { formatPence } from '@ripvault/shared';
@@ -41,6 +41,7 @@ import type { ErrorCopy } from '../src/features/account/errors.ts';
 import { isCoolingOff, limitLabel, remainingToday } from '../src/features/account/limits.ts';
 import { useActionKey, useMountedRef } from '../src/features/account/hooks.ts';
 import { ChoiceChips, Note } from '../src/features/account/ui.tsx';
+import { leaveModalsTo } from '../src/features/packs/nav.ts';
 import type { ChoiceOption } from '../src/features/account/ui.tsx';
 
 type Choice = number | 'custom';
@@ -58,6 +59,7 @@ export default function TopUpScreen() {
   const toast = useToast();
   const actionKey = useActionKey();
   const mounted = useMountedRef();
+  const navigation = useNavigation();
 
   const { minPence, maxPence, presetsPence, stripeEnabled, devTopupsEnabled } = config.topup;
   const presets = useMemo(() => presetsPence.filter((p) => p >= minPence && p <= maxPence), [presetsPence, minPence, maxPence]);
@@ -66,6 +68,8 @@ export default function TopUpScreen() {
   const [custom, setCustom] = useState('');
   const [showErrors, setShowErrors] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  /** Synchronous guard: a fast double tap runs submit twice before `submitting` re-renders. */
+  const submittingRef = useRef(false);
   const [failure, setFailure] = useState<ErrorCopy | null>(null);
   const [unavailable, setUnavailable] = useState(false);
   const [phase, setPhase] = useState<Phase>({ kind: 'form' });
@@ -153,13 +157,14 @@ export default function TopUpScreen() {
   // ---------------------------------------------------------------------------
 
   const submit = async () => {
-    if (submitting) return;
+    if (submitting || submittingRef.current) return;
     if (amount.pence === null || amount.error) {
       setShowErrors(true);
       haptic.error();
       return;
     }
     const pence = amount.pence;
+    submittingRef.current = true;
     setSubmitting(true);
     setFailure(null);
     const key = actionKey.keyFor(`topup:${pence}`);
@@ -169,12 +174,15 @@ export default function TopUpScreen() {
       if (res.kind === 'credited') {
         setBalance(res.balancePence);
         toast.success(`${formatPence(pence)} added to your balance`, 'Top-up complete');
-        router.back();
+        // The sheet may already be closed (swiped down while this was in flight): then going back
+        // would close whatever screen is showing now.
+        if (mounted.current) router.back();
         return;
       }
       const next = { kind: 'checkout' as const, paymentId: res.paymentId, checkoutUrl: res.checkoutUrl, amountPence: pence };
       if (!mounted.current) return;
       setPhase(next);
+      submittingRef.current = false;
       setSubmitting(false);
       await openCheckout(next);
     } catch (e) {
@@ -193,6 +201,7 @@ export default function TopUpScreen() {
         setFailure(copy);
       }
     } finally {
+      submittingRef.current = false;
       if (mounted.current) setSubmitting(false);
     }
   };
@@ -429,7 +438,7 @@ export default function TopUpScreen() {
               title={limits.dailySpendLimitPence === null ? 'Set limit' : 'Limits'}
               variant="ghost"
               size="sm"
-              onPress={() => router.push('/limits')}
+              onPress={() => leaveModalsTo(navigation, 'limits')}
             />
           }
         >

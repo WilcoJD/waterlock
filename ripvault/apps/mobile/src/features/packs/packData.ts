@@ -40,8 +40,18 @@ export function toPackSummary(pack: PackSummary | PackDetail): PackSummary {
   return { id, name, tagline, pricePence, minPullPence, maxPullPence, hitChance, cardCount, theme, featuredCards, soldOut };
 }
 
-export function rememberPacks(packs: readonly (PackSummary | PackDetail)[]): void {
+/**
+ * Cache these packs. With `replace` (the shop's full list of active packs) packs that are no longer
+ * listed are dropped, so a pack taken off the shelf is not shown from the cache any more.
+ */
+export function rememberPacks(packs: readonly (PackSummary | PackDetail)[], options: { replace?: boolean } = {}): void {
+  if (options.replace) packCache.clear();
   for (const pack of packs) packCache.set(pack.id, toPackSummary(pack));
+}
+
+/** Drop a pack the API says no longer exists (GET /packs/:id -> 404). */
+export function forgetPack(packId: string): void {
+  packCache.delete(packId);
 }
 
 export function getRememberedPack(packId: string): PackSummary | undefined {
@@ -88,9 +98,66 @@ export function ripLabel(quantity: number, pricePence: number): string {
   return quantity === 1 ? `Rip for ${total}` : `Rip ${quantity} for ${total}`;
 }
 
-/** Route to the rip screen for a pack and quantity. */
+// ---------------------------------------------------------------------------
+// Rip tickets
+// ---------------------------------------------------------------------------
+//
+// The rip screen buys packs. Every route can be opened from outside the app (ripvault:// links), so
+// the rip screen only starts a purchase on its own when the player pressed a "Rip" button inside the
+// app: that button issues a single-use, short-lived ticket held in memory and passes it as a route
+// param. Without a valid ticket (a link, a restored screen) the rip screen asks for confirmation.
+
+const RIP_TICKET_TTL_MS = 60_000;
+const ripTickets = new Map<string, { packId: string; quantity: number; expiresAt: number }>();
+
+function randomTicket(): string {
+  let out = '';
+  for (let i = 0; i < 4; i++) out += Math.floor(Math.random() * 0x100000000).toString(36).padStart(7, '0');
+  return out;
+}
+
+/** Issue a ticket for "the player just pressed Rip on this pack and quantity". */
+export function issueRipTicket(packId: string, quantity: number, now: number = Date.now()): string {
+  for (const [ticket, entry] of ripTickets) if (entry.expiresAt <= now) ripTickets.delete(ticket);
+  const ticket = randomTicket();
+  ripTickets.set(ticket, { packId, quantity, expiresAt: now + RIP_TICKET_TTL_MS });
+  return ticket;
+}
+
+/** True when `ticket` is live and was issued for exactly this pack and quantity. Does not use it up. */
+export function isValidRipTicket(ticket: string | undefined, packId: string, quantity: number, now: number = Date.now()): boolean {
+  if (!ticket) return false;
+  const entry = ripTickets.get(ticket);
+  return entry !== undefined && entry.expiresAt > now && entry.packId === packId && entry.quantity === quantity;
+}
+
+/** Use a ticket up (single use). Returns whether it was valid. */
+export function consumeRipTicket(ticket: string | undefined, packId: string, quantity: number, now: number = Date.now()): boolean {
+  const valid = isValidRipTicket(ticket, packId, quantity, now);
+  if (ticket) ripTickets.delete(ticket);
+  return valid;
+}
+
+/**
+ * Route to the rip screen for a pack and quantity, for a "Rip" button the player just pressed: it
+ * carries a fresh ticket, so the rip starts straight away. Build it in the press handler only.
+ */
 export function openHref(packId: string, quantity: number): string {
-  return `/open/${encodeURIComponent(packId)}?qty=${quantity}`;
+  const ticket = issueRipTicket(packId, quantity);
+  return `/open/${encodeURIComponent(packId)}?qty=${quantity}&ticket=${ticket}`;
+}
+
+/**
+ * Route rewrite for links that arrive from outside the app (app/+native-intent.tsx). A link to the
+ * rip screen (`ripvault://open/<pack>?qty=N`) must never buy anything by itself, so it is sent to
+ * the pack's odds sheet, where the player sees the price and presses Rip. Anything else is unchanged.
+ */
+export function redirectExternalPath(path: string): string {
+  const rest = path.replace(/^[a-z][a-z0-9+.-]*:(?:\/\/)?/i, '');
+  const match = /(?:^|\/)open\/([^/?#]*)/i.exec(rest);
+  if (!match) return path;
+  const packId = match[1] ?? '';
+  return packId === '' ? '/' : `/pack/${packId}`;
 }
 
 /** Route to the odds sheet (qty is carried so its "Rip" button matches the shop's selection). */

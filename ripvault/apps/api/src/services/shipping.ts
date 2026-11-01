@@ -276,10 +276,14 @@ export function cancelShipment(deps: Deps, user: UserRow, id: string): CancelShi
   return tx(deps.db, () => {
     const row = getShipmentRow(deps.db, user.id, id);
     if (!row) throw notFound('Shipment');
-    if (row.status !== 'requested') {
-      throw new ApiError(409, 'invalid_state', 'This shipment is already being processed and can no longer be cancelled');
+    // Already cancelled (a retry after a lost response, or an admin cancelled it): idempotent success
+    // with the current state, so the app shows the refund instead of a false failure.
+    if (row.status !== 'cancelled') {
+      if (row.status !== 'requested') {
+        throw new ApiError(409, 'invalid_state', 'This shipment is already being processed and can no longer be cancelled');
+      }
+      cancelShipmentRow(deps, row, ['requested']);
     }
-    cancelShipmentRow(deps, row, ['requested']);
     return {
       shipment: shipmentDto(deps.db, getShipmentRow(deps.db, user.id, id)!, deps.config.buybackBps),
       balancePence: balanceOf(deps.db, user.id),

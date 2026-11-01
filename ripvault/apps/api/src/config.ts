@@ -34,6 +34,11 @@ export interface Config {
   withdrawals: { enabled: boolean; minPence: number };
   adminEmail: string | null;
   adminPassword: string | null;
+  /**
+   * Allow the seed to turn an EXISTING player account with ADMIN_EMAIL into the admin (resets its
+   * password and signs out its sessions). Off by default: anyone can register any email.
+   */
+  adminPromoteExisting: boolean;
   seedDemoUser: boolean;
   pokemontcgApiKey: string | null;
   priceSource: PriceSource;
@@ -41,8 +46,12 @@ export interface Config {
   fxUsdGbp: number;
   /** Requests per IP per minute on /auth/*. */
   authRateLimitPerMinute: number;
-  /** Use the first X-Forwarded-For entry as the client IP (only behind a trusted proxy). */
-  trustProxy: boolean;
+  /**
+   * Number of trusted reverse proxies in front of the API (0 = none: use the socket address). With N,
+   * the client IP is the Nth X-Forwarded-For entry from the RIGHT (the address the outermost trusted
+   * proxy appended); entries further left are client-controlled and ignored.
+   */
+  trustProxy: number;
   logRequests: boolean;
 }
 
@@ -110,6 +119,18 @@ export function loadConfig(env: Env = process.env): Config {
     if (['0', 'false', 'no', 'off'].includes(v)) return false;
     problems.push(`${name} must be 1/0 or true/false (got "${raw}")`);
     return fallback;
+  };
+
+  /** 0/false/no/off = 0, 1/true/yes/on = 1, otherwise a whole number of proxy hops (0-10). */
+  const proxyHops = (name: string): number => {
+    const raw = get(name);
+    if (raw === undefined) return 0;
+    const v = raw.toLowerCase();
+    if (['true', 'yes', 'on'].includes(v)) return 1;
+    if (['false', 'no', 'off'].includes(v)) return 0;
+    if (/^\d{1,2}$/.test(v) && Number(v) <= 10) return Number(v);
+    problems.push(`${name} must be the number of trusted proxies (0-10), or true/false (got "${raw}")`);
+    return 0;
   };
 
   const port = int('PORT', 4000, 0, 65_535);
@@ -209,13 +230,14 @@ export function loadConfig(env: Env = process.env): Config {
     withdrawals: { enabled: withdrawalsEnabled, minPence: withdrawalMin },
     adminEmail,
     adminPassword,
+    adminPromoteExisting: bool('ADMIN_PROMOTE_EXISTING', false),
     seedDemoUser,
     pokemontcgApiKey: get('POKEMONTCG_API_KEY') ?? null,
     priceSource,
     fxEurGbp: decimal('FX_EUR_GBP', 0.86),
     fxUsdGbp: decimal('FX_USD_GBP', 0.79),
     authRateLimitPerMinute: int('AUTH_RATE_LIMIT_PER_MINUTE', 10, 1, 100_000),
-    trustProxy: bool('TRUST_PROXY', false),
+    trustProxy: proxyHops('TRUST_PROXY'),
     logRequests: bool('LOG_REQUESTS', nodeEnv !== 'test'),
   };
 

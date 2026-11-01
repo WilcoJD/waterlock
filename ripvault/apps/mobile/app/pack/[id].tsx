@@ -31,6 +31,7 @@ import { leaveModalTo } from '../../src/features/packs/nav.ts';
 import { useNavLock } from '../../src/features/packs/useNavLock.ts';
 import {
   firstParam,
+  forgetPack,
   getRememberedPack,
   groupDigits,
   groupOddsByTier,
@@ -50,12 +51,18 @@ export default function PackOddsScreen() {
   const navigateOnce = useNavLock();
 
   const q = useQuery(() => getPack(packId), [packId], { enabled: packId !== '' });
-  const remembered = getRememberedPack(packId);
-  const pack: PackSummary | undefined = q.data ? toPackSummary(q.data) : remembered;
+  // 404: the pack was taken off the shelf (the shop's cached copy is out of date).
+  const gone = q.error?.code === 'not_found' || q.error?.code === 'pack_unavailable';
+  const remembered = gone ? undefined : getRememberedPack(packId);
+  const pack: PackSummary | undefined = q.data && !gone ? toPackSummary(q.data) : remembered;
 
   useEffect(() => {
     if (q.data) rememberPacks([q.data]);
   }, [q.data]);
+
+  useEffect(() => {
+    if (gone) forgetPack(packId);
+  }, [gone, packId]);
 
   // A failed pull-to-refresh keeps the odds on screen; say so with a toast.
   const toast = useToast();
@@ -72,6 +79,13 @@ export default function PackOddsScreen() {
     return (
       <Screen modal header={header}>
         <EmptyState icon="help-circle-outline" title="Pack not found" message="This link doesn't point to a pack." actionLabel="Back to packs" onAction={goBackOrHome} />
+      </Screen>
+    );
+  }
+  if (gone) {
+    return (
+      <Screen modal header={<AppHeader title="Pack odds" back="close" />}>
+        <EmptyState icon="close-circle-outline" title="Pack unavailable" message="This pack isn't on the shelf right now." actionLabel="Back to packs" onAction={goBackOrHome} />
       </Screen>
     );
   }

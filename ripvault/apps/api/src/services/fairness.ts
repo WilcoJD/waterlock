@@ -1,6 +1,8 @@
 /**
- * Provably-fair seeds, rotation and opening history. The current (unrevealed) server seed never
- * leaves this module: only its hash is returned until the player rotates.
+ * Provably-fair seeds, rotation and opening history. The current (unrevealed) server seed and the
+ * pre-committed next server seed never leave this module: only their hashes are returned until the
+ * player rotates. Rotation promotes the next seed, whose hash the player saw before choosing the client
+ * seed it is paired with, so the server can never pick a server seed after seeing the client seed.
  */
 import { hashServerSeed, isValidClientSeed } from '@ripvault/shared';
 import type {
@@ -52,6 +54,7 @@ export function getFairness(deps: Deps, userId: string): FairnessState {
     serverSeedHash: user.server_seed_hash,
     clientSeed: user.client_seed,
     nonce: user.nonce,
+    nextServerSeedHash: user.next_server_seed_hash,
     revealed: history.map(revealed),
   };
 }
@@ -78,10 +81,16 @@ export function rotateSeed(deps: Deps, caller: UserRow, rawBody: unknown): Rotat
          VALUES (?, ?, ?, ?, ?, ?)`,
       )
       .run(user.id, user.server_seed, user.server_seed_hash, user.client_seed, user.nonce, at);
-    const next = newServerSeed();
+    // Promote the seed whose hash was already published as nextServerSeedHash BEFORE this request
+    // (so before the player chose the client seed), and commit a fresh next seed for the rotation after.
+    const promoted = user.next_server_seed ?? newServerSeed();
+    const upcoming = newServerSeed();
     deps.db
-      .prepare('UPDATE users SET server_seed = ?, server_seed_hash = ?, client_seed = ?, nonce = 0, updated_at = ? WHERE id = ?')
-      .run(next, hashServerSeed(next), clientSeed ?? newClientSeed(), at, user.id);
+      .prepare(
+        `UPDATE users SET server_seed = ?, server_seed_hash = ?, client_seed = ?, nonce = 0,
+           next_server_seed = ?, next_server_seed_hash = ?, updated_at = ? WHERE id = ?`,
+      )
+      .run(promoted, hashServerSeed(promoted), clientSeed ?? newClientSeed(), upcoming, hashServerSeed(upcoming), at, user.id);
     return {
       serverSeed: user.server_seed,
       serverSeedHash: user.server_seed_hash,

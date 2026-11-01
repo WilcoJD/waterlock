@@ -405,6 +405,12 @@ export interface FairnessState {
   clientSeed: string;
   /** Next nonce to be used. */
   nonce: number;
+  /**
+   * SHA-256 of the server seed the NEXT rotation will switch to. It is committed (and shown here)
+   * before the player picks the client seed it will be paired with, so after rotating the new
+   * `serverSeedHash` must equal the `nextServerSeedHash` seen before rotating. Optional for older servers.
+   */
+  nextServerSeedHash?: string;
   revealed: RevealedSeed[];
 }
 

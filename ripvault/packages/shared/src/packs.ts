@@ -77,6 +77,22 @@ export function packStats(entries: readonly ValuedEntry[], packPricePence?: numb
   };
 }
 
+/**
+ * True when the pack's exact expected value / price is above `maxRtpBps` (basis points).
+ * Uses the unrounded weighted mean (sum(weight × value) / totalWeight), not the floored `evPence`, so a
+ * pack can never sit up to 1p of EV above the cap. BigInt keeps the products exact beyond 2^53.
+ */
+export function exceedsMaxRtp(entries: readonly ValuedEntry[], packPricePence: number, maxRtpBps: number): boolean {
+  let totalWeight = BigInt(0);
+  let weightedValue = BigInt(0);
+  for (const e of entries) {
+    totalWeight += BigInt(e.weight);
+    weightedValue += BigInt(e.weight) * BigInt(e.valuePence);
+  }
+  if (totalWeight === BigInt(0)) return false;
+  return weightedValue * BigInt(10_000) > totalWeight * BigInt(packPricePence) * BigInt(maxRtpBps);
+}
+
 /** weight / total as a probability in [0, 1]. */
 export function chanceOf(weight: number, totalWeight: number): number {
   return totalWeight > 0 ? weight / totalWeight : 0;

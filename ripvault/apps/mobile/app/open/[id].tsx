@@ -1,6 +1,9 @@
 /**
- * The rip (full-screen modal, swipe-to-dismiss off). Params: id (pack), qty.
+ * The rip (full-screen modal, swipe-to-dismiss off). Params: id (pack), qty, ticket.
  *
+ *   confirm   only when not opened by an in-app Rip button (no valid ticket, e.g. a link from
+ *             outside the app): pack, quantity, cost and balance, and nothing is bought until the
+ *             player presses Rip
  *   opening   POST /packs/:id/open (exactly once per action); the pack trembles and glows
  *   tearing   the pack tears open, white flash
  *   revealing cards one by one: flip, tier glow, value count-up, haptics; Skip reveals all
@@ -22,7 +25,7 @@ import { useAppConfig } from '../../src/state/config.tsx';
 import { colors, spacing, withAlpha } from '../../src/theme.ts';
 import { haptic } from '../../src/lib/haptics.ts';
 import { plural } from '../../src/lib/format.ts';
-import { AppHeader, AppText, EmptyState, Screen, goBackOrHome } from '../../src/components/index.ts';
+import { AppHeader, AppText, Button, EmptyState, ErrorState, LoadingState, Screen, goBackOrHome } from '../../src/components/index.ts';
 import { PACK_ASPECT, PackBody } from '../../src/features/packs/PackArt.tsx';
 import { RipStage } from '../../src/features/packs/RipStage.tsx';
 import { RevealStage } from '../../src/features/packs/RevealStage.tsx';
@@ -34,33 +37,46 @@ import { useRip } from '../../src/features/packs/useRip.ts';
 import { useNavLock } from '../../src/features/packs/useNavLock.ts';
 import { leaveModalTo } from '../../src/features/packs/nav.ts';
 import {
+  consumeRipTicket,
   firstParam,
   getRememberedPack,
+  isValidRipTicket,
   parseQuantityParam,
   revealOrder,
+  ripLabel,
   safePackTheme,
   shipHref,
   toPackSummary,
 } from '../../src/features/packs/packData.ts';
 
 export default function OpenPackScreen() {
-  const params = useLocalSearchParams<{ id: string; qty?: string }>();
+  const params = useLocalSearchParams<{ id: string; qty?: string; ticket?: string }>();
   const packId = firstParam(params.id) ?? '';
   const { config } = useAppConfig();
-  const { user } = useSession();
+  const { user, refreshUser } = useSession();
   const insets = useSafeAreaInsets();
   const { width: windowWidth, height: windowHeight } = useWindowDimensions();
   const navigateOnce = useNavLock();
 
   // Fixed for the life of the screen ("Rip again" repeats the same pack and quantity).
   const [quantity] = useState(() => parseQuantityParam(params.qty, config.maxOpenQuantity));
-  const rip = useRip(packId, quantity);
+  // Buy straight away only when an in-app Rip button sent the player here (single-use ticket).
+  // Checking is side-effect free (safe to run twice); the ticket is used up in the effect below.
+  const ticket = firstParam(params.ticket);
+  const [autoStart] = useState(() => packId !== '' && isValidRipTicket(ticket, packId, quantity));
+  useEffect(() => {
+    consumeRipTicket(ticket, packId, quantity);
+    // Mount only: the ticket belongs to this visit.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+  const rip = useRip(packId, quantity, { autoStart });
   const { phase } = rip;
 
-  // Pack art: from the shop's cache, or fetched when the screen was opened directly (deep link).
+  // Pack art: from the shop's cache, or fetched when the screen was opened directly. The confirm step
+  // always fetches, so the price it shows is current.
   const remembered = getRememberedPack(packId);
-  const packQ = useQuery(() => getPack(packId), [packId], { enabled: remembered === undefined && packId !== '' });
-  const packInfo = remembered ?? (packQ.data ? toPackSummary(packQ.data) : undefined);
+  const packQ = useQuery(() => getPack(packId), [packId], { enabled: packId !== '' && (remembered === undefined || !autoStart) });
+  const packInfo = (packQ.data ? toPackSummary(packQ.data) : undefined) ?? remembered;
   const result = phase.kind === 'tearing' || phase.kind === 'revealing' || phase.kind === 'summary' ? phase.result : null;
   const packName = result?.pack.name ?? packInfo?.name ?? '';
   const theme = safePackTheme(packInfo?.theme);
@@ -105,7 +121,11 @@ export default function OpenPackScreen() {
     if (action === 'retry') rip.retry();
     else if (action === 'topup') navigateOnce(() => router.push('/topup'));
     else if (action === 'limits') navigateOnce(() => leaveModalTo('/limits'));
-    else goBackOrHome();
+    else {
+      // The rip may have gone through (network error, timeout): show the real balance afterwards.
+      void refreshUser();
+      goBackOrHome();
+    }
   };
 
   const confirmSellAll = (pulls: Pull[], totalPence: number) => {
@@ -122,10 +142,10 @@ export default function OpenPackScreen() {
   };
 
   const subtitle = `${plural(quantity, 'pack')}${costPence !== null ? ` · ${formatPence(costPence)}` : ''}`;
-  const closable = phase.kind === 'error' || phase.kind === 'summary';
+  const closable = phase.kind === 'confirm' || phase.kind === 'error' || phase.kind === 'summary';
   const header = (
     <AppHeader
-      title={phase.kind === 'summary' ? 'Your pulls' : packName || 'Ripping'}
+      title={phase.kind === 'summary' ? 'Your pulls' : packName || (phase.kind === 'confirm' ? 'Rip' : 'Ripping')}
       subtitle={phase.kind === 'summary' ? packName : subtitle}
       back={closable ? 'close' : false}
       onBack={goBackOrHome}
@@ -153,7 +173,64 @@ export default function OpenPackScreen() {
     ) : null;
 
   let screen: ReactNode;
-  if (phase.kind === 'opening' || phase.kind === 'tearing') {
+  if (phase.kind === 'confirm') {
+    const unavailable = packQ.error?.code === 'not_found' || packQ.error?.code === 'pack_unavailable';
+    if (unavailable) {
+      screen = (
+        <Screen header={header}>
+          <EmptyState icon="close-circle-outline" title="Pack unavailable" message="This pack isn't on the shelf right now." actionLabel="Back to packs" onAction={goBackOrHome} />
+        </Screen>
+      );
+    } else if (!packInfo || pricePence === undefined || costPence === null) {
+      screen = (
+        <Screen header={header}>
+          {packQ.error ? <ErrorState error={packQ.error} onRetry={packQ.refetch} /> : <LoadingState label="Loading pack" />}
+        </Screen>
+      );
+    } else {
+      const soldOut = packInfo.soldOut;
+      const balance = user?.balancePence ?? null;
+      const shortfall = balance !== null && balance < costPence ? costPence - balance : 0;
+      screen = (
+        <Screen
+          header={header}
+          scroll
+          contentStyle={styles.errorContent}
+          footer={
+            <View>
+              <Button
+                title={soldOut ? 'Sold out' : ripLabel(quantity, pricePence)}
+                variant="holo"
+                size="lg"
+                block
+                icon={soldOut ? 'close-circle-outline' : 'flash'}
+                haptic="medium"
+                disabled={soldOut || !user}
+                onPress={rip.start}
+                accessibilityLabel={soldOut ? `${packName} is sold out` : `Rip ${plural(quantity, 'pack')} of ${packName} for ${formatPence(costPence)}`}
+              />
+              <Button title="Not now" variant="ghost" size="md" block onPress={goBackOrHome} style={styles.confirmSecondary} />
+            </View>
+          }
+        >
+          {backdrop}
+          <View style={styles.errorPack}>
+            <PackBody name={packName} theme={theme} width={120} pricePence={pricePence} soldOut={soldOut} shimmer={false} />
+          </View>
+          <View style={styles.caption}>
+            <AppText variant="title" size={24} align="center">
+              {`Rip ${plural(quantity, 'pack')}?`}
+            </AppText>
+            <AppText variant="body" tone="muted" align="center" style={styles.captionSub}>
+              {`${plural(quantity, `${packName} pack`)} for ${formatPence(costPence)}.`}
+              {balance !== null ? ` Your balance is ${formatPence(balance)}.` : ''}
+              {shortfall > 0 ? ` You need ${formatPence(shortfall)} more to rip.` : ''}
+            </AppText>
+          </View>
+        </Screen>
+      );
+    }
+  } else if (phase.kind === 'opening' || phase.kind === 'tearing') {
     screen = (
       <Screen header={header}>
         {backdrop}
@@ -254,6 +331,7 @@ const styles = StyleSheet.create({
   center: { flex: 1, alignItems: 'center', justifyContent: 'center', paddingBottom: spacing.xxxl },
   caption: { marginTop: spacing.xxl, alignItems: 'center', paddingHorizontal: spacing.xl },
   captionSub: { marginTop: spacing.xs },
+  confirmSecondary: { marginTop: spacing.sm },
   errorContent: { flexGrow: 1, justifyContent: 'center', paddingTop: spacing.xl },
   errorPack: { alignItems: 'center', marginBottom: spacing.xl },
   errorPackArt: { opacity: 0.7 },

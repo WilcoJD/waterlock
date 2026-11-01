@@ -10,6 +10,8 @@ import { mkdirSync } from 'node:fs';
 import { dirname, resolve } from 'node:path';
 import { DatabaseSync } from 'node:sqlite';
 import type { SQLInputValue, SQLOutputValue } from 'node:sqlite';
+import { hashServerSeed } from '@ripvault/shared';
+import { newServerSeed } from './ids.ts';
 
 export type Db = DatabaseSync;
 export type Row = Record<string, SQLOutputValue>;
@@ -75,7 +77,10 @@ export function placeholders(n: number): string {
 // Migrations (versioned with PRAGMA user_version)
 // ---------------------------------------------------------------------------
 
-const MIGRATIONS: string[] = [
+/** A migration is plain SQL, or a function for steps that need JS (e.g. hashing during a backfill). */
+export type Migration = string | ((db: Db) => void);
+
+export const MIGRATIONS: readonly Migration[] = [
   // 1: initial schema
   `
   CREATE TABLE users (
@@ -302,6 +307,21 @@ const MIGRATIONS: string[] = [
   );
   CREATE INDEX idempotency_created ON idempotency_keys(created_at);
   `,
+  // 2: pre-committed next server seed (its hash is published before the player picks the client seed
+  //    it will be paired with), and a per-user token version so sessions can be revoked.
+  (db) => {
+    db.exec(`
+      ALTER TABLE users ADD COLUMN next_server_seed TEXT;
+      ALTER TABLE users ADD COLUMN next_server_seed_hash TEXT;
+      ALTER TABLE users ADD COLUMN token_version INTEGER NOT NULL DEFAULT 0 CHECK (token_version >= 0);
+    `);
+    const ids = db.prepare('SELECT id FROM users WHERE next_server_seed IS NULL').all() as { id: string }[];
+    const set = db.prepare('UPDATE users SET next_server_seed = ?, next_server_seed_hash = ? WHERE id = ?');
+    for (const { id } of ids) {
+      const seed = newServerSeed();
+      set.run(seed, hashServerSeed(seed), id);
+    }
+  },
 ];
 
 export const SCHEMA_VERSION = MIGRATIONS.length;
@@ -312,8 +332,10 @@ export function migrate(db: Db): void {
     throw new Error(`Database schema version ${current} is newer than this build supports (${MIGRATIONS.length})`);
   }
   for (let v = current; v < MIGRATIONS.length; v++) {
+    const step = MIGRATIONS[v]!;
     tx(db, () => {
-      db.exec(MIGRATIONS[v]!);
+      if (typeof step === 'string') db.exec(step);
+      else step(db);
       db.exec(`PRAGMA user_version = ${v + 1}`);
     });
   }

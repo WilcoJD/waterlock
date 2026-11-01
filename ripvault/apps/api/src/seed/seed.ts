@@ -6,16 +6,24 @@
 import { canonicalEntries, validateEntries } from '@ripvault/shared';
 import type { SeedCard, SeedPack } from '@ripvault/shared';
 import { DEMO_USER_BALANCE_PENCE, DEMO_USER_EMAIL, DEMO_USER_PASSWORD, isEmailLike } from '../config.ts';
-import { hashPassword } from '../auth/password.ts';
+import { hashPassword, verifyPassword } from '../auth/password.ts';
 import { all, tx } from '../db.ts';
 import type { Deps } from '../deps.ts';
-import { exceedsMaxRtp, writePackRevision } from '../services/admin.ts';
+import { RTP_DEACTIVATED_PREFIX, exceedsMaxRtp, rtpPercent, writePackRevision } from '../services/admin.ts';
 import { credit } from '../services/ledger.ts';
-import { evOf, getPackEntriesWithValues } from '../services/packs.ts';
+import { getPackEntriesWithValues } from '../services/packs.ts';
 import type { PackRow } from '../services/rows.ts';
 import { getUserByEmail, insertUser } from '../services/users.ts';
 import { SeedFileError } from './load.ts';
 import type { SeedData } from './load.ts';
+
+/** The seed refused to create/update the admin account (see ADMIN_PROMOTE_EXISTING). */
+export class SeedAdminError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = 'SeedAdminError';
+  }
+}
 
 export interface SeedReport {
   cardsInserted: number;
@@ -93,8 +101,21 @@ export async function seedDatabase(deps: Deps, data: SeedData): Promise<SeedRepo
 
   const wantAdmin = config.adminEmail !== null && config.adminPassword !== null;
   const wantDemo = config.seedDemoUser && config.env !== 'production';
+  // Never silently hand admin rights to an account someone else may have registered (registration has no
+  // email verification): promoting an existing player needs ADMIN_PROMOTE_EXISTING=1.
+  const existingAdmin = wantAdmin ? getUserByEmail(db, config.adminEmail!) : undefined;
+  if (existingAdmin && existingAdmin.role !== 'admin' && !config.adminPromoteExisting) {
+    throw new SeedAdminError(
+      `ADMIN_EMAIL ${config.adminEmail} belongs to an existing player account. Refusing to make it an admin: ` +
+        'use a different ADMIN_EMAIL, or set ADMIN_PROMOTE_EXISTING=1 if you own that account ' +
+        '(its password is reset and every existing session for it is signed out).',
+    );
+  }
+  // Only write (and sign out existing sessions) when the role or the password actually changes.
+  const adminUnchanged =
+    existingAdmin?.role === 'admin' && (await verifyPassword(config.adminPassword!, existingAdmin.password_hash));
   // Hash outside the transaction: never await inside tx().
-  const adminHash = wantAdmin ? await hashPassword(config.adminPassword!) : null;
+  const adminHash = wantAdmin && !adminUnchanged ? await hashPassword(config.adminPassword!) : null;
   const demoHash = wantDemo && !getUserByEmail(db, DEMO_USER_EMAIL) ? await hashPassword(DEMO_USER_PASSWORD) : null;
 
   const at = deps.now().toISOString();
@@ -154,10 +175,10 @@ export async function seedDatabase(deps: Deps, data: SeedData): Promise<SeedRepo
       }
       const pack = db.prepare('SELECT * FROM packs WHERE id = ?').get(p.id) as unknown as PackRow;
       if (pack.active === 1) {
-        const stats = evOf(getPackEntriesWithValues(db, p.id), pack.price_pence);
-        if (exceedsMaxRtp(stats.evPence, pack.price_pence, config.maxPackRtpBps)) {
+        const entries = getPackEntriesWithValues(db, p.id);
+        if (exceedsMaxRtp(entries, pack.price_pence, config.maxPackRtpBps)) {
           db.prepare('UPDATE packs SET active = 0, deactivated_reason = ?, updated_at = ? WHERE id = ?').run(
-            `RTP ${((stats.rtp ?? 0) * 100).toFixed(2)}% above maximum at seed values`,
+            `${RTP_DEACTIVATED_PREFIX}${rtpPercent(entries, pack.price_pence)}% above maximum at seed values`,
             at,
             p.id,
           );
@@ -166,10 +187,18 @@ export async function seedDatabase(deps: Deps, data: SeedData): Promise<SeedRepo
       }
     }
 
-    if (adminHash && config.adminEmail && isEmailLike(config.adminEmail)) {
+    if (adminUnchanged) {
+      report.admin = 'updated';
+    } else if (adminHash && config.adminEmail && isEmailLike(config.adminEmail)) {
       const admin = getUserByEmail(db, config.adminEmail);
       if (admin) {
-        db.prepare("UPDATE users SET password_hash = ?, role = 'admin', updated_at = ? WHERE id = ?").run(adminHash, at, admin.id);
+        if (admin.role !== 'admin' && !config.adminPromoteExisting) {
+          throw new SeedAdminError(`ADMIN_EMAIL ${config.adminEmail} belongs to an existing player account`);
+        }
+        // Bumping token_version signs out every session issued before the password/role change.
+        db.prepare(
+          "UPDATE users SET password_hash = ?, role = 'admin', token_version = token_version + 1, updated_at = ? WHERE id = ?",
+        ).run(adminHash, at, admin.id);
         report.admin = 'updated';
       } else {
         insertUser(db, { email: config.adminEmail, passwordHash: adminHash, displayName: 'Admin', dateOfBirth: '1970-01-01', role: 'admin' }, at);

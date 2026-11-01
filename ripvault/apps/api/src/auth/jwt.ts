@@ -11,6 +11,8 @@ export interface TokenClaims {
   sub: string;
   iat: number;
   exp: number;
+  /** The user's token_version when issued (0 when absent, for tokens issued before versions existed). */
+  ver: number;
 }
 
 function b64url(input: Buffer | string): string {
@@ -21,10 +23,10 @@ function sign(data: string, secret: string): Buffer {
   return createHmac('sha256', secret).update(data).digest();
 }
 
-export function signToken(userId: string, secret: string, now: Date, ttlSeconds = TOKEN_TTL_SECONDS): string {
+export function signToken(userId: string, secret: string, now: Date, ttlSeconds = TOKEN_TTL_SECONDS, tokenVersion = 0): string {
   const iat = Math.floor(now.getTime() / 1000);
   const header = b64url(JSON.stringify({ alg: 'HS256', typ: 'JWT' }));
-  const payload = b64url(JSON.stringify({ sub: userId, iat, exp: iat + ttlSeconds }));
+  const payload = b64url(JSON.stringify({ sub: userId, iat, exp: iat + ttlSeconds, ver: tokenVersion }));
   const signature = sign(`${header}.${payload}`, secret).toString('base64url');
   return `${header}.${payload}.${signature}`;
 }
@@ -57,7 +59,8 @@ export function verifyToken(token: string, secret: string, now: Date): TokenClai
     return null;
   }
   if (!claims || typeof claims !== 'object') return null;
-  const { sub, iat, exp } = claims as Record<string, unknown>;
+  const { sub, iat, exp, ver = 0 } = claims as Record<string, unknown>;
+  if (typeof ver !== 'number' || !Number.isSafeInteger(ver) || ver < 0) return null;
   if (typeof sub !== 'string' || sub === '') return null;
   if (typeof exp !== 'number' || !Number.isFinite(exp)) return null;
   if (typeof iat !== 'number' || !Number.isFinite(iat)) return null;
@@ -65,5 +68,5 @@ export function verifyToken(token: string, secret: string, now: Date): TokenClai
   if (nowSeconds >= exp) return null;
   // Reject tokens issued in the future (beyond a minute of clock skew).
   if (iat > nowSeconds + 60) return null;
-  return { sub, iat, exp };
+  return { sub, iat, exp, ver };
 }

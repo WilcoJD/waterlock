@@ -80,12 +80,23 @@ export default function FairnessScreen() {
   const doRotate = async (seed: string) => {
     setRotating(true);
     try {
+      const committed = state.nextServerSeedHash;
       const res = await rotateSeed(seed);
       if (!mounted.current) return;
       q.setData(res.current);
       setJustRevealed(res.revealed);
       setSeedInput(randomClientSeed());
       setSeedError(null);
+      if (committed !== undefined && res.current.serverSeedHash !== committed) {
+        // The server must use the seed it committed to before we chose the client seed.
+        haptic.error();
+        toast.show({
+          type: 'error',
+          title: 'Commitment mismatch',
+          message: "Your new server seed hash doesn't match the one shown before rotating. Please contact support.",
+        });
+        return;
+      }
       toast.success('Your old server seed is revealed and a new pair is ready.', 'Seeds rotated');
     } catch (e) {
       if (!mounted.current) return;
@@ -143,8 +154,8 @@ export default function FairnessScreen() {
       <SectionHeader title="How a pull is decided" style={styles.section} />
       <Panel>
         <Step n={1} title="We commit first">
-          We create a secret server seed and show you its SHA-256 hash before you open anything. The hash locks the seed in
-          without giving it away.
+          We create a secret server seed and show you its SHA-256 hash before you open anything, and the hash of the next
+          one before you pick a new client seed. The hash locks the seed in without giving it away.
         </Step>
         <Step n={2} title="You add your own randomness">
           You choose the client seed. Every pack you open uses the next nonce: 0, 1, 2 and so on.
@@ -189,6 +200,14 @@ export default function FairnessScreen() {
           Rotating reveals your current server seed so you can verify past pulls, then starts a fresh pair with the nonce back
           at 0.
         </AppText>
+        {state.nextServerSeedHash ? (
+          <>
+            <CopyField label="Next server seed hash" value={state.nextServerSeedHash} what="Next server seed hash" style={styles.fieldGap} />
+            <AppText variant="caption" tone="faint" style={styles.caption}>
+              Already locked in. After you rotate it becomes your server seed hash, whatever client seed you choose.
+            </AppText>
+          </>
+        ) : null}
         <TextField
           label="New client seed"
           value={seedInput}

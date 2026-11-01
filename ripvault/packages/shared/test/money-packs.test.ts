@@ -108,3 +108,19 @@ test('shipping fee and transitions', () => {
   assert.equal(canTransitionShipment('requested', 'shipped'), false);
   assert.equal(canTransitionShipment('delivered', 'cancelled'), false);
 });
+
+test('exceedsMaxRtp compares the exact (unfloored) EV with the cap, using exact integer maths', async () => {
+  const { exceedsMaxRtp } = await import('../src/index.ts');
+  // EV 95.5p on a 100p pack: floored EV (95p) sits exactly on a 95% cap, the true EV is above it.
+  assert.equal(exceedsMaxRtp([{ weight: 1, valuePence: 95 }, { weight: 1, valuePence: 96 }], 100, 9_500), true);
+  assert.equal(exceedsMaxRtp([{ weight: 1, valuePence: 95 }, { weight: 1, valuePence: 95 }], 100, 9_500), false);
+  assert.equal(exceedsMaxRtp([{ weight: 1, valuePence: 95 }, { weight: 1, valuePence: 96 }], 100, 9_550), false);
+  // Products beyond 2^53 stay exact.
+  const big = [
+    { weight: 1_000_000_000, valuePence: 10_000_000_000 },
+    { weight: 999_999_999, valuePence: 10_000_000_001 },
+  ];
+  assert.equal(exceedsMaxRtp(big, 10_000_000_000, 10_000), true);
+  assert.equal(exceedsMaxRtp([{ weight: 3, valuePence: 10_000_000_000 }], 10_000_000_000, 10_000), false);
+  assert.equal(exceedsMaxRtp([], 100, 9_500), false);
+});

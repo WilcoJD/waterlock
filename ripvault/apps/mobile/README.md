@@ -58,7 +58,7 @@ npm run typecheck -w @ripvault/mobile    # tsc --noEmit
 | `/wallet` | `(tabs)/wallet.tsx` | tab "Wallet" | Balance, transactions, top-up, withdraw |
 | `/profile` | `(tabs)/profile.tsx` | tab "Profile" | Stats, limits, fairness, settings |
 | `/pack/[id]` | `pack/[id].tsx` | modal | Pack detail + odds + open button |
-| `/open/[id]` | `open/[id].tsx` | fullScreenModal, no swipe-dismiss | Rip animation + reveal |
+| `/open/[id]` | `open/[id].tsx` | fullScreenModal, no swipe-dismiss | Rip animation + reveal (confirm step without an in-app ticket) |
 | `/item/[id]` | `item/[id].tsx` | card | Inventory item detail |
 | `/ship` | `ship.tsx` | card | Choose cards + address, request shipment |
 | `/addresses` | `addresses.tsx` | card | Saved addresses |
@@ -75,7 +75,11 @@ npm run typecheck -w @ripvault/mobile    # tsc --noEmit
 Auth gating: `(tabs)/_layout.tsx` shows a spinner while the saved session is checked and redirects
 to `/login` when signed out; `app/_layout.tsx` also sends signed-out players on any other non-auth
 route to `/login`. Deep link scheme: `ripvault://` (the Stripe return page links to
-`ripvault://wallet?topup=success|cancel`).
+`ripvault://wallet?topup=success|cancel`). Links never buy packs: `app/+native-intent.tsx` sends
+`ripvault://open/<pack>` to the odds sheet `/pack/<pack>`, and the rip screen only starts a purchase
+on its own when an in-app Rip button sent the player there (single-use in-memory ticket); otherwise
+it shows a confirm step with the cost and balance. Authenticated requests wait until the saved token
+has been read at launch, so a screen opened by a link on a cold start does not get a 401.
 
 ## Folder structure
 

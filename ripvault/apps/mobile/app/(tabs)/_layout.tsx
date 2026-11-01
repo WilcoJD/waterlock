@@ -28,7 +28,7 @@ function tabIcon(active: IconName, inactive: IconName) {
 function TabBarBackground() {
   return (
     <LinearGradient
-      colors={['#100D2A', colors.bg]}
+      colors={[colors.bgAlt, colors.bg]}
       start={{ x: 0, y: 0 }}
       end={{ x: 0, y: 1 }}
       style={StyleSheet.absoluteFill}

@@ -24,7 +24,7 @@ export function registerAdminRoutes(router: Router, deps: Deps): void {
   );
   router.get('/admin/packs/:id/report', (ctx) => ({ status: 200, body: packReport(deps, ctx.params.id!) }), admin);
   router.put('/admin/packs/:id/odds', (ctx) => ({ status: 200, body: setPackOdds(deps, ctx.user!, ctx.params.id!, ctx.body) }), admin);
-  // Not in docs/API.md: re-enable a pack that price sync switched off (refused while it is over max RTP).
+  // Switch a pack on/off (e.g. re-enable one the RTP guard switched off; refused while it is over max RTP).
   router.put('/admin/packs/:id/active', (ctx) => ({ status: 200, body: setPackActive(deps, ctx.params.id!, ctx.body) }), admin);
   router.put('/admin/cards/:id/stock', (ctx) => ({ status: 200, body: setCardStock(deps, ctx.params.id!, ctx.body) }), admin);
   router.post('/admin/prices/sync', async () => ({ status: 200, body: await syncPrices(deps) }), admin);

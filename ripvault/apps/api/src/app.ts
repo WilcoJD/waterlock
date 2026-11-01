@@ -74,10 +74,16 @@ export function createApp(options: CreateAppOptions): App {
   void getDummyHash();
 
   function clientIp(req: IncomingMessage): string {
-    if (config.trustProxy) {
+    if (config.trustProxy > 0) {
+      // Proxies APPEND the address they received the request from, so only the rightmost
+      // `trustProxy` entries were written by proxies we trust; anything further left is whatever the
+      // client sent and must never pick the rate-limit bucket.
       const xff = req.headers['x-forwarded-for'];
-      const first = (Array.isArray(xff) ? xff[0] : xff)?.split(',')[0]?.trim();
-      if (first) return first;
+      const entries = (Array.isArray(xff) ? xff.join(',') : xff ?? '')
+        .split(',')
+        .map((e) => e.trim())
+        .filter((e) => e !== '');
+      if (entries.length > 0) return entries[Math.max(0, entries.length - config.trustProxy)]!;
     }
     return req.socket.remoteAddress ?? 'unknown';
   }

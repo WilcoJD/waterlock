@@ -12,7 +12,8 @@ export function authenticate(deps: Deps, authorization: string | undefined, role
   const claims = verifyToken(match[1]!, deps.config.jwtSecret, deps.now());
   if (!claims) throw unauthorized('Your session has expired. Please sign in again.');
   const user = getUser(deps.db, claims.sub);
-  if (!user) throw unauthorized('Your session has expired. Please sign in again.');
+  // A token issued before the account's token_version was bumped (password/role reset) is revoked.
+  if (!user || user.token_version !== claims.ver) throw unauthorized('Your session has expired. Please sign in again.');
   if (deps.config.env === 'production' && user.email === DEMO_USER_EMAIL) throw unauthorized();
   if (role === 'admin' && user.role !== 'admin') throw forbidden('Admins only');
   return user;

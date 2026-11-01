@@ -120,14 +120,21 @@ for (const p of JSON.parse(readFileSync('apps/api/seed/packs.json', 'utf8'))) {
 of about 9–11% across its cards before it reaches the 95% `MAX_PACK_RTP_BPS` ceiling. Price sync
 deactivates a pack automatically above that ceiling.
 
-**If a pack drifts,** re-tune it:
+**If a pack drifts,** re-tune it with `PUT /admin/packs/:id/odds`:
 
 - **RTP too high:** move weight from the hit cards to the floor cards.
 - **RTP too low:** move weight the other way.
 
+A pack that price sync (or the seed) switched off for being over `MAX_PACK_RTP_BPS` goes back on sale
+automatically once new odds within the cap are accepted. To switch a pack on or off by hand use
+`PUT /admin/packs/:id/active` with `{ "active": true | false }` (switching on is refused with
+`409 invalid_state` while the pack is over the cap at current prices). A pack an admin switched off stays
+off when its odds change.
+
 ## Per-pack stats at placeholder values
 
-`packStats` floors EV to whole pence, and RTP is computed from that floored EV.
+`packStats` floors EV to whole pence, and RTP is computed from that floored EV. The `MAX_PACK_RTP_BPS`
+check itself uses the exact, unrounded EV (`exceedsMaxRtp` in `@ripvault/shared`).
 
 | Pack | Price | Cards | EV | RTP | Hit chance (≥ price) | Min pull | Max pull | Top card | Top card chance |
 |---|---:|---:|---:|---:|---:|---:|---:|---|---:|

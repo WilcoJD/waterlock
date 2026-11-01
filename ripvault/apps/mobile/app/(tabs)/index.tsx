@@ -51,7 +51,7 @@ export default function PacksScreen() {
   const qty = clampQuantity(quantity, maxQuantity);
 
   useEffect(() => {
-    if (packsQ.data) rememberPacks(packsQ.data);
+    if (packsQ.data) rememberPacks(packsQ.data, { replace: true });
   }, [packsQ.data]);
 
   useEffect(() => {

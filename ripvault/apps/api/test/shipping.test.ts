@@ -127,7 +127,11 @@ describe('shipments', () => {
     assert.equal((app.db.prepare('SELECT status, shipment_id FROM inventory_items WHERE id = ?').get(ids[0]!) as { status: string }).status, 'vaulted');
     // Cancelled shipments still list their items (history).
     assert.equal(cancel.body.shipment.items.length, 1);
-    assert.equal((await app.request('POST', `/shipments/${created.body.shipment.id}/cancel`, { token: u.token })).body.error.code, 'invalid_state');
+    // Cancelling again is an idempotent success (no second refund).
+    const again = await app.request('POST', `/shipments/${created.body.shipment.id}/cancel`, { token: u.token });
+    assert.equal(again.status, 200);
+    assert.equal(again.body.shipment.status, 'cancelled');
+    assert.equal(again.body.balancePence, start);
 
     // The re-vaulted card can be shipped again; once processing it cannot be cancelled by the player.
     const admin = app.admin();

@@ -4,7 +4,9 @@
  * Every player has:
  *   - a secret server seed (random 32 bytes, hex). Only its SHA-256 hash is shown
  *     before they open anything, so the server is committed to it.
- *   - a client seed they can change at any time.
+ *   - the hash of the NEXT server seed, also published in advance. Rotating promotes that seed, so
+ *     the seed paired with a newly chosen client seed was committed before the player chose it.
+ *   - a client seed they can change at any time (by rotating).
  *   - a nonce that goes up by one for every pack they open.
  *
  * roll = first 52 bits of HMAC_SHA256(key = serverSeed, msg = `${clientSeed}:${nonce}:${cursor}`) / 2^52

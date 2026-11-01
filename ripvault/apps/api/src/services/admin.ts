@@ -1,7 +1,14 @@
 /**
  * Admin operations. Never exposes unrevealed server seeds or password hashes.
  */
-import { SHIPMENT_STATUSES, WITHDRAWAL_STATUSES, canTransitionShipment, canonicalEntries, validateEntries } from '@ripvault/shared';
+import {
+  SHIPMENT_STATUSES,
+  WITHDRAWAL_STATUSES,
+  canTransitionShipment,
+  canonicalEntries,
+  exceedsMaxRtp as exceedsMaxRtpExact,
+  validateEntries,
+} from '@ripvault/shared';
 import type {
   AdminPackReport,
   CardSummary,
@@ -171,9 +178,36 @@ export function packReport(deps: Deps, packId: string): AdminPackReport {
   };
 }
 
-/** True when EV / price is above the configured maximum return-to-player. */
-export function exceedsMaxRtp(evPence: number, pricePence: number, maxRtpBps: number): boolean {
-  return evPence * 10_000 > pricePence * maxRtpBps;
+export const ADMIN_DEACTIVATED_REASON = 'Deactivated by admin';
+/** Every automatic RTP deactivation reason (price sync, seed) starts with this. */
+export const RTP_DEACTIVATED_PREFIX = 'RTP ';
+
+export function isRtpDeactivation(reason: string | null): boolean {
+  return reason !== null && reason.startsWith(RTP_DEACTIVATED_PREFIX);
+}
+
+/**
+ * True when the exact (unfloored) EV / price is above the configured maximum return-to-player.
+ * `entries` are pack entries with their current card values.
+ */
+export function exceedsMaxRtp(
+  entries: readonly { weight: number; card_value_pence: number }[],
+  pricePence: number,
+  maxRtpBps: number,
+): boolean {
+  return exceedsMaxRtpExact(
+    entries.map((e) => ({ weight: e.weight, valuePence: e.card_value_pence })),
+    pricePence,
+    maxRtpBps,
+  );
+}
+
+/** Exact RTP as a percentage string with 2 decimals (for messages; never used for the cap check). */
+export function rtpPercent(entries: readonly { weight: number; card_value_pence: number }[], pricePence: number): string {
+  const total = entries.reduce((s, e) => s + e.weight, 0);
+  if (total === 0 || pricePence <= 0) return '0.00';
+  const weighted = entries.reduce((s, e) => s + e.weight * e.card_value_pence, 0);
+  return ((weighted / total / pricePence) * 100).toFixed(2);
 }
 
 /**
@@ -235,16 +269,18 @@ export function setPackOdds(deps: Deps, admin: UserRow, packId: string, rawBody:
     const values = new Map(cards.map((c) => [c.id, c.market_value_pence]));
     const unknown = ids.filter((id) => !values.has(id));
     if (unknown.length > 0) throw validationFailed({ entries: `Unknown card ids: ${unknown.slice(0, 10).join(', ')}` });
-    const stats = evOf(
-      entries.map((e) => ({ weight: e.weight, card_value_pence: values.get(e.cardId)! })),
-      pack.price_pence,
-    );
-    if (exceedsMaxRtp(stats.evPence, pack.price_pence, deps.config.maxPackRtpBps)) {
+    const valued = entries.map((e) => ({ weight: e.weight, card_value_pence: values.get(e.cardId)! }));
+    if (exceedsMaxRtp(valued, pack.price_pence, deps.config.maxPackRtpBps)) {
       throw validationFailed({
-        entries: `These odds give an RTP of ${((stats.rtp ?? 0) * 100).toFixed(2)}%, above the ${(deps.config.maxPackRtpBps / 100).toFixed(2)}% maximum`,
+        entries: `These odds give an RTP of ${rtpPercent(valued, pack.price_pence)}%, above the ${(deps.config.maxPackRtpBps / 100).toFixed(2)}% maximum`,
       });
     }
     writePackRevision(db, packId, entries, admin.id, at);
+    // A pack the RTP guard (price sync or seed) switched off goes back on sale once its odds are within
+    // the cap again. A pack an admin switched off by hand stays off (PUT /admin/packs/:id/active).
+    if (pack.active === 0 && isRtpDeactivation(pack.deactivated_reason)) {
+      db.prepare('UPDATE packs SET active = 1, deactivated_reason = NULL, updated_at = ? WHERE id = ?').run(at, packId);
+    }
   });
   deps.logger.info('admin set pack odds', { packId, adminId: admin.id });
   return getPackDetail(deps, packId, true);
@@ -259,14 +295,13 @@ export function setPackActive(deps: Deps, packId: string, rawBody: unknown): Pac
     const pack = getPackRow(db, packId);
     if (!pack || pack.current_revision_id === null) throw notFound('Pack');
     if (body.active) {
-      const stats = evOf(getPackEntriesWithValues(db, packId), pack.price_pence);
-      if (exceedsMaxRtp(stats.evPence, pack.price_pence, deps.config.maxPackRtpBps)) {
+      if (exceedsMaxRtp(getPackEntriesWithValues(db, packId), pack.price_pence, deps.config.maxPackRtpBps)) {
         throw new ApiError(409, 'invalid_state', 'This pack is above the maximum RTP at current prices; fix its odds first');
       }
     }
     db.prepare('UPDATE packs SET active = ?, deactivated_reason = ?, updated_at = ? WHERE id = ?').run(
       body.active ? 1 : 0,
-      body.active ? null : 'Deactivated by admin',
+      body.active ? null : ADMIN_DEACTIVATED_REASON,
       at,
       packId,
     );

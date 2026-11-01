@@ -6,7 +6,7 @@ import { ConfigError, loadConfig } from '../config.ts';
 import { openDatabase } from '../db.ts';
 import { silentLogger } from '../http/logger.ts';
 import { SeedFileError, loadSeedFiles } from '../seed/load.ts';
-import { seedDatabase } from '../seed/seed.ts';
+import { SeedAdminError, seedDatabase } from '../seed/seed.ts';
 
 try {
   const config = loadConfig(process.env);
@@ -25,7 +25,7 @@ try {
     console.log(`  WARNING: inactive because EV is above MAX_PACK_RTP_BPS: ${report.deactivatedPacks.join(', ')}`);
   }
 } catch (err) {
-  if (err instanceof ConfigError || err instanceof SeedFileError) {
+  if (err instanceof ConfigError || err instanceof SeedFileError || err instanceof SeedAdminError) {
     console.error(err.message);
     process.exit(1);
   }

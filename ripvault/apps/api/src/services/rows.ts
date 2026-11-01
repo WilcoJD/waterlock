@@ -16,6 +16,11 @@ export interface UserRow {
   server_seed_hash: string;
   client_seed: string;
   nonce: number;
+  /** Secret seed the next rotation will promote; only its hash is ever shown before then. */
+  next_server_seed: string;
+  next_server_seed_hash: string;
+  /** Bumped to sign out every session issued before (tokens carry it as `ver`). */
+  token_version: number;
   daily_spend_limit_pence: number | null;
   pending_daily_spend_limit_pence: number | null;
   pending_limit_effective_at: string | null;
