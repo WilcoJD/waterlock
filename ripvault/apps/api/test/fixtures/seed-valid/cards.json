@@ -1,0 +1,5 @@
+[
+  { "id": "fx-1", "name": "Fixture Card", "setId": "fx", "setName": "Fixture Set", "number": "1", "rarity": "Common",
+    "imageSmall": "https://images.example.test/fx-1.png", "imageLarge": "https://images.example.test/fx-1_hires.png",
+    "marketValuePence": 80, "stock": null }
+]

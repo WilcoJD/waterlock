@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "RipVault",
+    "slug": "ripvault",
+    "scheme": "ripvault",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#07061A",
+    "splash": {
+      "backgroundColor": "#07061A"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ripvault.app",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.ripvault.app"
+    },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}

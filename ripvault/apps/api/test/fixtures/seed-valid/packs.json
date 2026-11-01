@@ -1,0 +1,5 @@
+[
+  { "id": "fixture", "name": "Fixture Pack", "tagline": "For tests", "pricePence": 100, "sortOrder": 1,
+    "theme": { "from": "#111111", "to": "#222222", "accent": "#333333" },
+    "entries": [{ "cardId": "fx-1", "weight": 1 }] }
+]
