@@ -1,0 +1,48 @@
+name: platform-ci
+on:
+  push:
+    paths: ['tinybox/**', '.github/workflows/platform-ci.yml']
+  pull_request:
+    paths: ['tinybox/**']
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    defaults: { run: { working-directory: tinybox/backend } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22', cache: npm, cache-dependency-path: tinybox/backend/package-lock.json }
+      - run: npm ci
+      - run: npm test
+      - name: Production config guard
+        run: |
+          # The server must refuse to boot with dev-only switches in production.
+          NODE_ENV=production JWT_SECRET=x ALLOW_FAUCET=true node -e "try{require('./src/config');process.exit(1)}catch(e){console.log('ok:',e.message)}"
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Syntax-check browser modules
+        run: for f in tinybox/web/js/*.js tinybox/gateway/agent.js; do node --check "$f"; done
+  mobile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Bundle-check the Expo app (no native build)
+        working-directory: tinybox/mobile
+        run: npx -y esbuild@0.24.0 App.js --bundle --loader:.js=jsx --external:react --external:react-native --external:'@react-navigation/*' --external:'expo*' --external:'react-native-*' --log-level=error > /dev/null
+  gateway-dry-run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Gateway agent renders rules in DRY_RUN
+        run: |
+          cd tinybox/gateway
+          (DRY_RUN=1 LISTEN=127.0.0.1:8788 STATE_FILE=/tmp/gw.json timeout 5 node agent.js > /tmp/gw.log 2>&1 &) ; sleep 1
+          curl -sf -X PUT localhost:8788/routes/s1 -d '{"target_ip":"10.88.0.5","subdomain":"web1-1"}' | grep ssh_port
