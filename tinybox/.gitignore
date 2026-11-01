@@ -1,0 +1,8 @@
+node_modules/
+backend/data/
+backend/.env
+mobile/.expo/
+mobile/android/
+mobile/ios/
+*.db
+*.db-*

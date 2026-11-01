@@ -1,0 +1,19 @@
+[Unit]
+Description=TinyBox API + website
+After=network-online.target
+
+[Service]
+Type=simple
+User=tinybox
+WorkingDirectory=/opt/tinybox/backend
+Environment=NODE_ENV=production
+EnvironmentFile=/opt/tinybox/backend/.env
+ExecStart=/usr/bin/node --disable-warning=ExperimentalWarning src/server.js
+Restart=always
+RestartSec=3
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=/opt/tinybox/backend/data
+
+[Install]
+WantedBy=multi-user.target

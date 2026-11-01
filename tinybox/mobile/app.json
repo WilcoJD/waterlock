@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "TinyBox",
+    "slug": "tinybox",
+    "scheme": "tinybox",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0b0f17",
+    "ios": {
+      "bundleIdentifier": "com.example.tinybox",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSUserTrackingUsageDescription": "This lets us show you more relevant ads, which keep free servers free."
+      }
+    },
+    "android": {
+      "package": "com.example.tinybox",
+      "adaptiveIcon": { "backgroundColor": "#0b0f17" }
+    },
+    "plugins": [
+      ["react-native-google-mobile-ads", {
+        "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+        "iosAppId": "ca-app-pub-3940256099942544~1458002511",
+        "delayAppMeasurementInit": true,
+        "userTrackingUsageDescription": "This lets us show you more relevant ads, which keep free servers free."
+      }],
+      "expo-secure-store",
+      ["expo-build-properties", { "ios": { "useFrameworks": "static" } }]
+    ],
+    "extra": {
+      "apiUrl": "http://10.0.2.2:8080",
+      "ads": {
+        "androidBanner": "",
+        "iosBanner": "",
+        "androidRewarded": "",
+        "iosRewarded": ""
+      }
+    }
+  }
+}
