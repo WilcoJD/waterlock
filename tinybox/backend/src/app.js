@@ -146,7 +146,7 @@ function createApp(config, overrides = {}) {
     const status = err.status || err.statusCode || 500;
     if (status >= 500) log.error?.('[error]', req.method, req.originalUrl, err);
     const safe = err instanceof HttpError || (err.expose && status < 500);
-    res.status(status).json({ error: safe ? err.message : 'Something went wrong' });
+    res.status(status).json({ error: safe ? err.message : 'Something went wrong', ...(safe && err.code ? { code: err.code } : {}), ...(safe && err.data !== undefined ? { data: err.data } : {}) });
   });
 
   // ---- background jobs ----

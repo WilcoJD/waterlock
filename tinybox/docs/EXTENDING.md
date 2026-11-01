@@ -127,7 +127,7 @@ Plain JS, no build step, loaded after `web/js/core.js`. Everything is on `window
 })();
 ```
 
-Helpers: `api(method, path, body)` (adds the JWT, throws `Error(message)`), `fmt` (`usd`, `num`, `pct`, `money`, `left`, `date`, `bytes`), `busy(button, asyncFn)` (spinner + error toast), `modal(html, (root, close) => {})`, `every(ms, fn)` (cleared on navigation), `S` (`user`, `token`, `prices`, `spark`, `site`), `App.sparkline(values)`, `App.bookHtml/orderFormHtml/mountOrderForm` (order book widgets), `App.render()` to re-render the current page. Auth pages call `App.authChallenge(response, creds)` when login returns no token (for 2FA) and `App.authPageMounted(mode, form)` after rendering (to add fields such as a captcha).
+Helpers: `api(method, path, body, { headers })` (adds the JWT; throws `Error` with `.status`, `.code`, `.data`; `HttpError(401, msg, { code: 'STEP_UP_REQUIRED' })` on the server is the convention for "retry with an `x-2fa-code` header"), `fmt` (`usd`, `num`, `pct`, `money`, `left`, `date`, `bytes`), `busy(button, asyncFn)` (spinner + error toast), `modal(html, (root, close) => {})`, `every(ms, fn)` (cleared on navigation), `S` (`user`, `token`, `prices`, `spark`, `site`), `App.sparkline(values)`, `App.bookHtml/orderFormHtml/mountOrderForm` (order book widgets), `App.render()` to re-render the current page. Auth pages call `App.authChallenge(response, creds)` when login returns no token (for 2FA) and `App.authPageMounted(mode, form)` after rendering (to add fields such as a captcha).
 
 Styling: reuse classes from `web/styles.css` (`card`, `btn primary|blue|danger|small`, `tabs`, `table.t`, `badge`, `kv`, `notice`, `section-head`, `grid`). Dark theme only; must work at 390px width (no horizontal scroll).
 

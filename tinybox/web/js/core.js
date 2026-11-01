@@ -30,15 +30,18 @@
     site: null,
     prices: {},
   };
-  async function api(method, path, body) {
+  /** api(method, path, body, { headers, raw }) – throws Error with .status, .code and .data on failure. */
+  async function api(method, path, body, opts = {}) {
+    const isForm = typeof FormData !== 'undefined' && body instanceof FormData;
     const res = await fetch('/api' + path, {
       method,
-      headers: { 'content-type': 'application/json', ...(S.token ? { authorization: `Bearer ${S.token}` } : {}) },
-      body: body ? JSON.stringify(body) : undefined,
+      headers: { ...(isForm ? {} : { 'content-type': 'application/json' }), ...(S.token ? { authorization: `Bearer ${S.token}` } : {}), ...(opts.headers || {}) },
+      body: body ? (isForm ? body : JSON.stringify(body)) : undefined,
     });
+    if (opts.raw) return res;
     const data = await res.json().catch(() => ({}));
-    if (res.status === 401 && S.token) logout(false);
-    if (!res.ok) throw new Error(data.error || `Request failed (${res.status})`);
+    if (res.status === 401 && S.token && data.code !== 'STEP_UP_REQUIRED' && data.code !== 'TWO_FACTOR_REQUIRED') logout(false);
+    if (!res.ok) { const e = new Error(data.error || `Request failed (${res.status})`); e.status = res.status; e.code = data.code; e.data = data.data; throw e; }
     return data;
   }
   function setSession(t, u) { S.token = t; S.user = u; localStorage.setItem('tb_token', t); localStorage.setItem('tb_user', JSON.stringify(u)); renderHeader(); }

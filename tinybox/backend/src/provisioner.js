@@ -12,7 +12,8 @@ const DAY = 24 * HOUR;
 const PAID_GRACE_DAYS = 7; // suspended (stopped) paid servers are deleted after this
 
 class HttpError extends Error {
-  constructor(status, message) { super(message); this.status = status; }
+  /** extra: { code?: 'MACHINE_READABLE_CODE', data?: any } – both are returned to the client. */
+  constructor(status, message, extra = {}) { super(message); this.status = status; if (extra.code) this.code = extra.code; if (extra.data !== undefined) this.data = extra.data; }
 }
 
 function randomPassword() {
