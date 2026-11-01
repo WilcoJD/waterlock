@@ -3,23 +3,35 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>TinyBox – free tiny Linux servers</title>
-  <meta name="description" content="Spin up a tiny Linux container in seconds. Free with ads, or grab a faster one from the shop." />
+  <title>Platform</title>
+  <meta name="description" content="Cloud servers, crypto exchange, futures & options and a trading-card exchange – one account, one wallet." />
   <link rel="stylesheet" href="styles.css" />
-  <!-- Google AdSense: replace ca-pub-XXXXXXXXXXXXXXXX with your publisher id (also in app.js) -->
+  <!-- Google AdSense: replace ca-pub-XXXXXXXXXXXXXXXX with your publisher id (also in js/core.js) -->
   <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
 </head>
 <body>
-  <header class="top">
-    <a href="#/" class="logo"><span class="cube">▣</span> <span id="brand">TinyBox</span></a>
-    <nav id="nav"></nav>
+  <header class="top" id="top">
+    <a href="#/" class="logo"><span class="cube">▣</span> <span class="brand-name">Platform</span></a>
+    <nav class="mega" id="mega" aria-label="Main"></nav>
+    <div class="right" id="right"></div>
+    <button class="burger" id="burger" aria-label="Menu" aria-expanded="false">☰</button>
   </header>
+  <div class="mega-panel" id="megaPanel" role="region" aria-live="polite"></div>
+  <div class="ticker" id="ticker"></div>
   <main id="view" aria-live="polite"></main>
+  <div id="modal" class="modal" hidden></div>
   <div id="toast" role="status"></div>
   <footer class="foot">
-    <span>© <span id="year"></span> <span class="brand-name">TinyBox</span></span>
-    <a href="#/terms">Terms &amp; fair use</a>
+    <span>© <span id="year"></span> <span class="brand-name">Platform</span></span>
+    <span class="row"><a href="#/terms">Terms &amp; risk</a><a href="#/fees">Fees</a></span>
   </footer>
-  <script src="app.js"></script>
+  <script src="js/core.js"></script>
+  <script src="js/cloud.js"></script>
+  <script src="js/wallet.js"></script>
+  <script src="js/exchange.js"></script>
+  <script src="js/derivatives.js"></script>
+  <script src="js/cards.js"></script>
+  <script src="js/admin.js"></script>
+  <script>App.start();</script>
 </body>
 </html>

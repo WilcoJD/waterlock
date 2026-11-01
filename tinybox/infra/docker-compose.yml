@@ -1,0 +1,19 @@
+# Platform next to an OPEX deployment.
+# 1. Start OPEX from github.com/opexdev/core (its docker-compose files) – it creates the "opex" network.
+# 2. cp backend/.env.example backend/.env, set OPEX_ENABLED=true and the OPEX_* values.
+# 3. docker compose -f infra/docker-compose.yml up -d --build   (run from tinybox/)
+services:
+  platform:
+    build: { context: .., dockerfile: backend/Dockerfile }
+    env_file: ../backend/.env
+    environment: { NODE_ENV: production, DB_PATH: /data/platform.db }
+    volumes: [platform-data:/data]
+    ports: ["127.0.0.1:8080:8080"]      # put Caddy/nginx with TLS in front
+    networks: [default, opex]
+    restart: unless-stopped
+volumes:
+  platform-data:
+networks:
+  opex:
+    external: true
+    name: ${OPEX_NETWORK:-opex_default}

@@ -1,0 +1,272 @@
+/* Platform website core: api, session, mega menu, router, helpers. No dependencies. */
+(() => {
+  'use strict';
+  const ADSENSE_CLIENT = ''; // e.g. 'ca-pub-XXXXXXXXXXXXXXXX'
+  const ADSENSE_SLOT = '';
+
+  const $ = (sel, root = document) => root.querySelector(sel);
+  const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const fmt = {
+    money: (c) => (c === 0 ? 'Free' : `$${(c / 100).toFixed(2)}`),
+    usd: (v, d = 2) => (v === null || v === undefined || v === '' ? '—' : Number(v).toLocaleString(undefined, { minimumFractionDigits: d, maximumFractionDigits: d })),
+    num: (v, d = 8) => (v === null || v === undefined || v === '' ? '—' : Number(v).toLocaleString(undefined, { maximumFractionDigits: d })),
+    pct: (v) => (v === null || v === undefined ? '—' : `<span class="${v >= 0 ? 'up' : 'down'}">${v >= 0 ? '+' : ''}${Number(v).toFixed(2)}%</span>`),
+    mb: (m) => (m >= 1024 ? `${m / 1024} GB` : `${m} MB`),
+    bytes: (b) => { if (!b) return '0 B'; const u = ['B', 'KB', 'MB', 'GB', 'TB']; const i = Math.floor(Math.log(b) / Math.log(1024)); return `${(b / 1024 ** i).toFixed(1)} ${u[i]}`; },
+    left: (iso) => {
+      const ms = new Date(iso) - Date.now(); if (ms <= 0) return 'expired';
+      const h = Math.floor(ms / 3600e3), d = Math.floor(h / 24), m = Math.floor((ms % 3600e3) / 60e3);
+      return d >= 2 ? `${d} days` : h ? `${h}h ${m}m` : `${m}m`;
+    },
+    uptime: (s) => { const d = Math.floor(s / 86400), h = Math.floor((s % 86400) / 3600), m = Math.floor((s % 3600) / 60); return d ? `${d}d ${h}h` : h ? `${h}h ${m}m` : `${m}m`; },
+    date: (s) => new Date(String(s).includes('T') ? s : String(s).replace(' ', 'T') + 'Z').toLocaleString(),
+  };
+
+  // ---------- session & api ----------
+  const S = {
+    token: localStorage.getItem('tb_token'),
+    user: JSON.parse(localStorage.getItem('tb_user') || 'null'),
+    site: null,
+    prices: {},
+  };
+  async function api(method, path, body) {
+    const res = await fetch('/api' + path, {
+      method,
+      headers: { 'content-type': 'application/json', ...(S.token ? { authorization: `Bearer ${S.token}` } : {}) },
+      body: body ? JSON.stringify(body) : undefined,
+    });
+    const data = await res.json().catch(() => ({}));
+    if (res.status === 401 && S.token) logout(false);
+    if (!res.ok) throw new Error(data.error || `Request failed (${res.status})`);
+    return data;
+  }
+  function setSession(t, u) { S.token = t; S.user = u; localStorage.setItem('tb_token', t); localStorage.setItem('tb_user', JSON.stringify(u)); renderHeader(); }
+  function logout(redirect = true) {
+    S.token = null; S.user = null; localStorage.removeItem('tb_token'); localStorage.removeItem('tb_user');
+    renderHeader(); if (redirect) location.hash = '#/';
+  }
+
+  let toastTimer;
+  function toast(msg, err = false) {
+    const t = $('#toast'); t.textContent = msg; t.className = 'show' + (err ? ' err' : '');
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => (t.className = ''), 3500);
+  }
+  async function busy(btn, fn) {
+    const label = btn.innerHTML; btn.disabled = true; btn.innerHTML = '<span class="spinner"></span>';
+    try { await fn(); } catch (e) { toast(e.message, true); } finally { if (btn.isConnected) { btn.disabled = false; btn.innerHTML = label; } }
+  }
+  function modal(html, onMount) {
+    const m = $('#modal');
+    m.innerHTML = `<div class="card">${html}</div>`; m.hidden = false;
+    const close = () => { m.hidden = true; m.innerHTML = ''; };
+    m.onclick = (e) => { if (e.target === m || e.target.closest('[data-close]')) close(); };
+    onMount?.(m, close);
+    return close;
+  }
+  function adSlot() {
+    if (!ADSENSE_CLIENT) return '<div class="ad-slot">Advertisement</div>';
+    setTimeout(() => { try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch {} }, 0);
+    return `<ins class="adsbygoogle" style="display:block;margin:24px 0" data-ad-client="${ADSENSE_CLIENT}" data-ad-slot="${ADSENSE_SLOT}" data-ad-format="auto" data-full-width-responsive="true"></ins>`;
+  }
+  function sparkline(values, { w = 600, h = 160 } = {}) {
+    if (!values || values.length < 2) return '<p class="muted">Collecting price data…</p>';
+    const min = Math.min(...values), max = Math.max(...values), span = max - min || 1;
+    const pts = values.map((v, i) => `${(i / (values.length - 1)) * w},${h - 8 - ((v - min) / span) * (h - 16)}`).join(' ');
+    const up = values[values.length - 1] >= values[0];
+    return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" role="img" aria-label="price chart"><polyline fill="none" stroke="${up ? 'var(--up)' : 'var(--down)'}" stroke-width="2" points="${pts}"/></svg>`;
+  }
+
+  // ---------- mega menu ----------
+  const SECTIONS = [
+    { id: 'cloud', label: 'Cloud', match: /^(cloud|dashboard|server|order|vpn)/, cols: [
+      { h: 'Compute', links: [['#/cloud', 'Tiny containers', 'Free with ads, from $1.99'], ['#/cloud?tab=vm', 'Cloud VMs', 'Dedicated vCPU & RAM'], ['#/cloud?tab=all', 'All pricing', 'Compare every plan']] },
+      { h: 'Manage', links: [['#/dashboard', 'My servers', 'Start, stop, renew, upgrade'], ['#/vpn', 'Private network', 'WireGuard VPN to your servers'], ['#/dashboard', 'Custom domains', 'Point your domain at a server']] },
+      { h: 'White-label', links: [['#/cloud', 'Your brand only', 'SSH, web & IPs under our name'], ['#/terms', 'Fair use', 'What you can run']] },
+    ], feature: () => '<h3>Free Linux server</h3><p class="muted">Root shell in seconds. Keep it alive by watching a short ad in our app.</p><a class="btn primary small" href="#/cloud">Launch free</a>' },
+    { id: 'exchange', label: 'Exchange', match: /^(markets|trade|wallet)/, cols: [
+      { h: 'Spot markets', links: [['#/trade/BTC_USDT', 'BTC / USDT', 'Bitcoin'], ['#/trade/ETH_USDT', 'ETH / USDT', 'Ethereum'], ['#/markets', 'All markets', 'Prices & 24h volume']] },
+      { h: 'Wallet', links: [['#/wallet', 'Balances', 'One wallet for everything'], ['#/wallet?tab=deposit', 'Deposit', 'Crypto deposit addresses'], ['#/wallet?tab=withdraw', 'Withdraw', 'Send to an external wallet']] },
+      { h: 'Account', links: [['#/wallet?tab=history', 'History', 'Every movement, every product'], ['#/fees', 'Fees', 'Maker 0% · taker 0.1%']] },
+    ], feature: () => `<h3>Live prices</h3>${['BTC', 'ETH', 'SOL'].map((s) => `<div class="row" style="justify-content:space-between"><b>${s}</b><span class="mono">$${fmt.usd(S.prices[s])}</span></div>`).join('')}` },
+    { id: 'derivatives', label: 'Derivatives', match: /^(futures|options)/, cols: [
+      { h: 'Perpetual futures', links: [['#/futures/BTC', 'BTC-PERP', 'Up to 20x leverage'], ['#/futures/ETH', 'ETH-PERP', 'USDT-margined'], ['#/futures/SOL', 'SOL-PERP', 'Isolated margin']] },
+      { h: 'Options', links: [['#/options/BTC', 'BTC options', 'Daily & weekly expiries'], ['#/options/ETH', 'ETH options', 'Calls and puts'], ['#/options/SOL', 'SOL options', 'Cash-settled in USDT']] },
+      { h: 'Positions', links: [['#/futures/BTC?tab=positions', 'Futures positions', 'P&L and liquidation prices'], ['#/options/BTC?tab=positions', 'Options positions', 'Value and expiry']] },
+    ], feature: () => '<h3>Risk warning</h3><p class="muted">Leveraged products can lose all of your margin quickly. Only trade what you can afford to lose.</p>' },
+    { id: 'cards', label: 'Cards', match: /^cards/, cols: [], feature: () => '<h3>Vaulted trading cards</h3><p class="muted">Ship cards to our vault, trade them instantly, ship out any time.</p><a class="btn small" href="#/cards/collection">My collection</a>' },
+  ];
+  let cardCatalog = null;
+  async function cardsCols() {
+    try { cardCatalog ||= (await api('GET', '/cards/catalog')).games; } catch { cardCatalog = []; }
+    return [
+      ...cardCatalog.slice(0, 2).map((g) => ({ h: g.name, links: g.series.map((s) => [`#/cards/series/${s.id}`, s.name, `${s.code} · packs, boxes & singles`]) })),
+      { h: 'My cards', links: [['#/cards/collection', 'Collection', 'Holdings & value'], ['#/cards/collection?tab=orders', 'Open orders', 'Bids and asks'], ['#/cards/collection?tab=vault', 'Ship in / out', 'Vault & pack breaks']] },
+    ];
+  }
+
+  let openSection = null, hoverTimer;
+  async function showMega(id) {
+    const sec = SECTIONS.find((s) => s.id === id);
+    const panel = $('#megaPanel');
+    if (!sec) { panel.classList.remove('open'); openSection = null; $$('#mega button').forEach((b) => b.setAttribute('aria-expanded', 'false')); return; }
+    openSection = id;
+    $$('#mega button').forEach((b) => b.setAttribute('aria-expanded', String(b.dataset.sec === id)));
+    const cols = id === 'cards' ? await cardsCols() : sec.cols;
+    if (openSection !== id) return;
+    panel.innerHTML = `<div class="mega-inner">${cols.map((c) => `<div class="mega-col"><h4>${esc(c.h)}</h4>${c.links.map(([h, t, d]) => `<a href="${h}">${esc(t)}<small>${esc(d)}</small></a>`).join('')}</div>`).join('')}${cols.length < 3 ? '<div></div>'.repeat(3 - cols.length) : ''}<div class="mega-feature">${sec.feature()}</div></div>`;
+    panel.classList.add('open');
+  }
+  function renderHeader() {
+    const route = (location.hash.slice(2) || '').split('?')[0];
+    $('#mega').innerHTML = SECTIONS.map((s) => `<button data-sec="${s.id}" aria-expanded="false" aria-haspopup="true" class="${s.match.test(route) ? 'cur' : ''}">${s.label} ▾</button>`).join('');
+    $$('#mega button').forEach((b) => {
+      b.onclick = () => showMega(openSection === b.dataset.sec ? null : b.dataset.sec);
+      b.onmouseenter = () => { clearTimeout(hoverTimer); if (matchMedia('(min-width: 901px)').matches) hoverTimer = setTimeout(() => showMega(b.dataset.sec), 120); };
+    });
+    const u = S.user;
+    $('#right').innerHTML = u
+      ? `<a href="#/wallet" class="chip" id="walletChip">Wallet</a><a href="#/dashboard">Servers</a><a href="#/account">Account</a>${u.is_admin ? '<a href="#/admin">Admin</a>' : ''}<button id="logout">Log out</button>`
+      : '<a href="#/login">Log in</a><a class="btn small primary" href="#/register">Sign up</a>';
+    const lo = $('#logout'); if (lo) lo.onclick = () => logout();
+    if (u) refreshWalletChip();
+  }
+  async function refreshWalletChip() {
+    try {
+      const w = await api('GET', '/wallet');
+      const usdt = w.balances.find((b) => b.asset === 'USDT');
+      const chip = $('#walletChip'); if (chip) chip.textContent = `Wallet · ${fmt.usd(usdt?.balance || 0)} USDT`;
+    } catch {}
+  }
+
+  async function refreshTicker() {
+    try {
+      const p = await api('GET', '/prices');
+      const prev = { ...S.prices }; S.prices = p.prices; S.spark = p.spark;
+      $('#ticker').innerHTML = Object.entries(p.prices).map(([k, v]) => {
+        const sp = p.spark[k] || []; const ch = sp.length > 1 ? ((v - sp[0]) / sp[0]) * 100 : 0;
+        return `<a href="#/futures/${k}" style="color:inherit">${k}/USD <b class="${prev[k] && v < prev[k] ? 'down' : prev[k] && v > prev[k] ? 'up' : ''}">${fmt.usd(v)}</b> ${fmt.pct(ch)}</a>`;
+      }).join('') + (p.source === 'mock' ? '<span class="muted">· demo prices</span>' : '');
+    } catch {}
+  }
+
+  // ---------- router ----------
+  const routes = [];
+  const timers = new Set();
+  function route(pattern, fn) { routes.push([pattern, fn]); }
+  function every(ms, fn) { const t = setInterval(fn, ms); timers.add(t); return t; }
+  function query() { return new URLSearchParams(location.hash.split('?')[1] || ''); }
+  const needAuth = (fn) => async (...a) => { if (!S.user) { sessionStorage.setItem('tb_after_login', location.hash); location.hash = '#/login'; return; } return fn(...a); };
+
+  async function render() {
+    for (const t of timers) clearInterval(t); timers.clear();
+    showMega(null);
+    $('#top').classList.remove('open');
+    const path = (location.hash.slice(1) || '/').split('?')[0];
+    renderHeader();
+    const view = $('#view');
+    for (const [re, fn] of routes) {
+      const m = re.exec(path);
+      if (m) {
+        try { await fn(view, ...m.slice(1).map(decodeURIComponent)); } catch (e) { view.innerHTML = `<div class="card"><h2>Oops</h2><p class="muted">${esc(e.message)}</p></div>`; }
+        window.scrollTo(0, 0);
+        return;
+      }
+    }
+    view.innerHTML = '<div class="card"><h2>Page not found</h2><a href="#/">Home</a></div>';
+  }
+
+  // ---------- shared pages ----------
+  route(/^\/$/, async (view) => {
+    view.innerHTML = `
+      <section class="hero">
+        <h1>Cloud, crypto &amp; collectibles.<br><span class="grad">One account. One wallet.</span></h1>
+        <p>Launch Linux servers, trade spot crypto, futures and options, and buy and sell vaulted trading cards – all paid from the same balance.</p>
+        <div class="row" style="justify-content:center"><a class="btn primary" href="#/${S.user ? 'wallet' : 'register'}">${S.user ? 'Open wallet' : 'Create free account'}</a><a class="btn" href="#/markets">View markets</a></div>
+      </section>
+      <section class="grid" style="grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+        <a class="card tile" href="#/cloud"><div class="ic">▣</div><h3>Cloud</h3><p class="muted">Tiny containers free with ads, full VMs from $9/mo. Private VPN and custom domains.</p></a>
+        <a class="card tile" href="#/markets"><div class="ic">⇄</div><h3>Exchange</h3><p class="muted">Spot BTC, ETH and SOL against USDT. Deposit and withdraw on-chain.</p></a>
+        <a class="card tile" href="#/futures/BTC"><div class="ic">↗</div><h3>Derivatives</h3><p class="muted">USDT-margined perpetuals up to 20x, and daily/weekly options.</p></a>
+        <a class="card tile" href="#/cards"><div class="ic">🂠</div><h3>Cards</h3><p class="muted">Sealed boxes, packs and graded singles, grouped by game and series.</p></a>
+      </section>`;
+  });
+
+  function authPage(mode) {
+    return async (view) => {
+      if (S.user) { location.hash = '#/wallet'; return; }
+      const reg = mode === 'register';
+      view.innerHTML = `
+        <form class="auth card">
+          <h2>${reg ? 'Create your account' : 'Welcome back'}</h2>
+          <label>Email</label><input name="email" type="email" autocomplete="email" required />
+          <label>Password</label><input name="password" type="password" minlength="8" autocomplete="${reg ? 'new-password' : 'current-password'}" required />
+          <div class="row" style="margin-top:18px"><button class="btn primary" type="submit">${reg ? 'Sign up' : 'Log in'}</button></div>
+          <p class="muted">${reg ? 'Already have an account? <a href="#/login">Log in</a>' : 'New here? <a href="#/register">Create an account</a>'}</p>
+        </form>`;
+      const form = $('form', view);
+      form.onsubmit = (e) => {
+        e.preventDefault();
+        busy($('button', form), async () => {
+          const r = await api('POST', `/auth/${mode}`, { email: form.email.value, password: form.password.value });
+          setSession(r.token, r.user);
+          const next = sessionStorage.getItem('tb_after_login'); sessionStorage.removeItem('tb_after_login');
+          location.hash = next || '#/wallet';
+        });
+      };
+    };
+  }
+  route(/^\/login$/, authPage('login'));
+  route(/^\/register$/, authPage('register'));
+
+  route(/^\/account$/, needAuth(async (view) => {
+    const { orders } = await api('GET', '/shop/orders');
+    view.innerHTML = `
+      <div class="section-head"><h1>Account</h1></div>
+      <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
+        <form class="card" id="pwf"><h3>Change password</h3><p class="muted">${esc(S.user.email)}</p>
+          <label>Current password</label><input type="password" name="current" required />
+          <label>New password</label><input type="password" name="password" minlength="8" required />
+          <div style="margin-top:14px"><button class="btn">Update</button></div></form>
+        <div class="card"><h3>Cloud orders</h3>
+          ${orders.length ? `<table class="t">${orders.map((o) => `<tr><td>#${o.id}</td><td>${esc(o.kind)} ${esc(o.plan_id)}</td><td>${fmt.money(o.amount_cents)}</td><td><span class="badge ${o.status === 'fulfilled' ? 'active' : o.status === 'failed' ? 'error' : ''}">${esc(o.status)}</span></td></tr>`).join('')}</table>` : '<p class="muted">No orders yet.</p>'}
+        </div>
+      </div>`;
+    const f = $('#pwf');
+    f.onsubmit = (e) => { e.preventDefault(); busy($('button', f), async () => { await api('POST', '/auth/change-password', { current: f.current.value, password: f.password.value }); f.reset(); toast('Password updated'); }); };
+  }));
+
+  route(/^\/terms$/, async (view) => {
+    view.innerHTML = `<div class="card" style="max-width:820px"><h1>Terms, fair use &amp; risk</h1>
+      <h3>Cloud</h3><p>Servers are provided as-is. Free servers are deleted at expiry with their data; paid servers are stopped at expiry and deleted 7 days later unless renewed. No mining, spam, scanning, attacks, abuse proxies or illegal content.</p>
+      <h3>Exchange &amp; derivatives</h3><p>Crypto prices are volatile. Futures use leverage and positions are liquidated automatically when losses reach the margin. Options can expire worthless. Derivatives may not be available in your country; you are responsible for complying with local law.</p>
+      <h3>Cards</h3><p>Items are held in our vault on your behalf. Condition and authenticity are checked on arrival; items that fail checks are returned. Shipping and break requests are handled by staff.</p></div>`;
+  });
+  route(/^\/fees$/, async (view) => {
+    view.innerHTML = `<div class="card" style="max-width:720px"><h1>Fees</h1><table class="t">
+      <tr><td>Spot</td><td>Maker 0% · Taker 0.10%</td></tr>
+      <tr><td>Perpetual futures</td><td>0.05% of notional on open and close</td></tr>
+      <tr><td>Options</td><td>0.03% of underlying notional (max 12.5% of premium)</td></tr>
+      <tr><td>Card exchange</td><td>Maker 0% · Taker 3%</td></tr>
+      <tr><td>Withdrawals</td><td>Network fee shown in the withdraw form</td></tr>
+      <tr><td>Cloud</td><td>Plan price only – pay by card or from your wallet</td></tr></table></div>`;
+  });
+
+  function start() {
+    $('#year').textContent = new Date().getFullYear();
+    $('#burger').onclick = () => { const t = $('#top'); t.classList.toggle('open'); $('#burger').setAttribute('aria-expanded', t.classList.contains('open')); };
+    $('#megaPanel').onmouseleave = () => { if (matchMedia('(min-width: 901px)').matches) showMega(null); };
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { showMega(null); $('#modal').hidden = true; } });
+    document.addEventListener('click', (e) => { if (openSection && !e.target.closest('#megaPanel') && !e.target.closest('#mega')) showMega(null); });
+    window.addEventListener('hashchange', render);
+    api('GET', '/site').then((s) => {
+      S.site = s;
+      $$('.brand-name').forEach((el) => (el.textContent = s.brand));
+      document.title = s.brand;
+    }).catch(() => {});
+    refreshTicker(); setInterval(refreshTicker, 3000);
+    render();
+  }
+
+  window.App = { $, $$, esc, fmt, api, S, toast, busy, modal, adSlot, sparkline, route, every, query, needAuth, setSession, refreshWalletChip, render, start };
+})();

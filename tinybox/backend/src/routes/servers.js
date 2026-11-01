@@ -37,6 +37,13 @@ module.exports = function serverRoutes({ db, auth, prov }) {
     res.json({ ok: true, live: await prov.liveStatus(s) });
   });
 
+  // White-label custom domain (CNAME it to the apps domain)
+  r.put('/:id/domain', async (req, res) => {
+    const s = own(req);
+    await prov.setCustomDomain(s, req.body.domain || null);
+    res.json({ server: prov.present(prov.server(s.id)) });
+  });
+
   r.delete('/:id', async (req, res) => {
     const s = own(req);
     await prov.destroyServer(s);

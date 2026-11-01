@@ -2,7 +2,9 @@
 const express = require('express');
 const { HttpError } = require('../provisioner');
 
-module.exports = function adminRoutes({ db, auth, prov }) {
+const { toUnits, fromUnits } = require('../money');
+
+module.exports = function adminRoutes({ db, auth, prov, wallet, cards }) {
   const r = express.Router();
   r.use(auth.requireAdmin);
 
@@ -14,6 +16,12 @@ module.exports = function adminRoutes({ db, auth, prov }) {
       servers_by_plan: db.prepare("SELECT plan_id, COUNT(*) n FROM servers WHERE state IN ('active','provisioning','suspended') GROUP BY plan_id").all(),
       revenue_cents_30d: one("SELECT COALESCE(SUM(amount_cents),0) n FROM orders WHERE status='fulfilled' AND created_at >= datetime('now','-30 day')").n,
       ad_rewards_24h: one("SELECT COUNT(*) n FROM ad_rewards WHERE created_at >= datetime('now','-1 day')").n,
+      fees_usdt: fromUnits(db.prepare("SELECT COALESCE(SUM(balance),0) n FROM wallet_balances WHERE owner='sys:fees' AND asset='USDT'").get().n),
+      open_perps: one("SELECT COUNT(*) n FROM perp_positions WHERE status='open'").n,
+      open_options: one("SELECT COUNT(*) n FROM option_positions WHERE status='open'").n,
+      card_trades_24h: one("SELECT COUNT(*) n FROM book_fills WHERE market LIKE 'CARD:%' AND created_at >= datetime('now','-1 day')").n,
+      spot_trades_24h: one("SELECT COUNT(*) n FROM book_fills WHERE market NOT LIKE 'CARD:%' AND created_at >= datetime('now','-1 day')").n,
+      pending_card_requests: one("SELECT COUNT(*) n FROM card_requests WHERE status='pending'").n,
     });
   });
 
@@ -36,6 +44,25 @@ module.exports = function adminRoutes({ db, auth, prov }) {
     }
     res.json({ ok: true });
   });
+
+  // ---- wallet ----
+  r.get('/wallet', async (req, res) => {
+    const house = db.prepare("SELECT owner, asset, balance FROM wallet_balances WHERE owner LIKE 'sys:%' ORDER BY owner, asset").all().map((b) => ({ ...b, balance: fromUnits(b.balance) }));
+    const pending = db.prepare("SELECT w.*, u.email FROM withdrawals w JOIN users u ON u.id=w.user_id WHERE w.status='pending' ORDER BY w.id").all().map((w) => ({ ...w, amount: fromUnits(w.amount), fee: fromUnits(w.fee) }));
+    const outbox = db.prepare('SELECT * FROM wallet_outbox ORDER BY id').all().map((o) => ({ ...o, amount: fromUnits(o.amount) }));
+    res.json({ backend: wallet.kind, house, pending_withdrawals: pending, outbox });
+  });
+  r.post('/wallet/credit', async (req, res) => {
+    const a = wallet.asset(req.body.asset);
+    await wallet.credit(Number(req.body.user_id), a.symbol, toUnits(String(req.body.amount)), String(req.body.ref || 'manual deposit'));
+    res.json({ ok: true });
+  });
+  r.post('/withdrawals/:id/approve', async (req, res) => { await wallet.approveWithdrawal(Number(req.params.id), req.body.txid); res.json({ ok: true }); });
+  r.post('/withdrawals/:id/reject', async (req, res) => { await wallet.rejectWithdrawal(Number(req.params.id)); res.json({ ok: true }); });
+
+  // ---- cards vault ----
+  r.get('/cards/requests', (req, res) => res.json({ requests: cards.requests(null) }));
+  r.post('/cards/requests/:id/complete', (req, res) => res.json({ request: cards.complete(Number(req.params.id), req.body) }));
 
   r.delete('/servers/:id', async (req, res) => {
     const s = prov.server(Number(req.params.id));

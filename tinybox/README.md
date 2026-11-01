@@ -1,77 +1,106 @@
-# TinyBox
+# Platform (codename TinyBox)
 
-Free and paid tiny Linux containers on Proxmox, with a website, a REST backend and a mobile app.
+One account and one wallet for four products, all on the same website. A tabbed mega menu in the header links the four sections:
 
-* **Free tier.** One tiny Alpine container per user (128 MB RAM, 1 GB disk, 25% CPU, 1 Mbit/s). It starts with 4 hours. Each rewarded ad watched in the app adds 1 hour, up to 24 hours ahead and 12 ads a day. The container is deleted when the time runs out.
-* **Shop.** Paid plans (Nano, Micro, Small, Medium) are bought with Stripe Checkout and last 30 days. Users can buy, renew, or upgrade a free or paid server; an upgrade keeps the server's files. Expired paid servers are stopped and deleted after 7 days unless renewed.
-* **Ads.** AdMob rewarded and banner ads in the app, with server-side verification so rewards can't be faked. The website shows AdSense to free users.
+| Section | What users can do | Built on |
+|---|---|---|
+| **Cloud** | Free ad-supported tiny containers, paid containers, full VMs resold from **UpCloud**. Everything is white-labelled: SSH, websites, IPs and a private WireGuard VPN all carry your brand. | Proxmox LXC, UpCloud API, the gateway agent in this repo |
+| **Exchange** | Spot BTC, ETH and SOL against USDT, crypto deposits and withdrawals | [OPEX core](https://github.com/opexdev/core) (MIT). There is also a built-in order book for development. |
+| **Derivatives** | USDT-margined perpetual futures (up to 20x), daily and weekly European options | Our own engine, modelled on [Opex-v2 perpetuals](https://github.com/hrshtdotme/Opex-Perpetuals-Trading-Platform) |
+| **Cards** | Trading-card exchange grouped by game, then series, then box, pack or single (raw or graded). There is an order book per item, plus vault ship-in, ship-out and pack-break requests. | Shared order book in this repo |
+
+Every money movement in every product goes through one wallet interface (`backend/src/wallet`). There are two backends:
+
+* **`opex`** (production). The OPEX wallet is the single wallet of record. Each user gets a shadow OPEX account. Deposits and withdrawals use OPEX's blockchain gateway, and spot orders go to the OPEX matching engine. Cloud, derivatives and cards charge and pay users through OPEX internal transfers.
+* **`local`** (development, or operators who don't run OPEX). This is a double-entry ledger in SQLite with the built-in order book. Admins credit deposits by hand and send withdrawals themselves.
 
 ```
 tinybox/
-├── backend/   Node 22 + Express 5 + SQLite (node:sqlite). API, Proxmox driver, Stripe, AdMob SSV, expiry job
-├── web/       Website (plain HTML/CSS/JS, served by the backend): landing, pricing/shop, dashboard, admin
-├── mobile/    Expo / React Native app: servers, rewarded ads, banners, shop, account
-└── infra/     Proxmox host setup script, systemd unit, Caddyfile
+├── backend/        Node 22 + Express 5 + SQLite – API for every section, engines, adapters, tests
+│   └── src/
+│       ├── wallet/       local ledger + OPEX adapter (one wallet for everything)
+│       ├── trading/      order book, spot (local/OPEX), perps, options, cards, price oracle, demo market maker
+│       ├── cloud/        UpCloud client, providers, cloud-init, gateway client, VPN
+│       └── routes/       REST API
+├── web/            Website (plain JS, no build step): mega-menu header, all four sections, wallet, admin
+├── gateway/        White-label edge agent (SSH forwards, HTTPS subdomains/custom domains, WireGuard, egress SNAT)
+├── mobile/         Expo app (cloud section; see "Not built yet")
+└── infra/          Proxmox setup, gateway setup, docker-compose next to OPEX, systemd, Caddy
 ```
 
-## Quick start (no Proxmox needed)
+## Run it locally (everything mocked)
 
 ```bash
 cd tinybox/backend
-cp .env.example .env          # PROXMOX_MOCK=true, Stripe empty = mock checkout
+cp .env.example .env     # mocks: Proxmox, UpCloud, Stripe, prices; faucet + demo market maker on
 npm install
-npm run dev                   # http://localhost:8080
-npm test                      # end-to-end API tests
+npm run dev              # http://localhost:8080
+npm test                 # 8 end-to-end suites, including ledger-conservation checks
 ```
 
-In mock mode the containers are fake, checkout completes immediately and the "+1h (dev reward)" button stands in for an ad. Any email listed in `ADMIN_EMAILS` gets the admin page when it registers.
+Sign up and press **Get test funds** in the wallet. You can then trade spot, open futures, buy options, buy cards, and buy a VM paid from the wallet. Set `GATEWAY_MOCK=true` to see the white-label SSH addresses, subdomains and VPN configs. Any email listed in `ADMIN_EMAILS` gets the admin console, which covers withdrawals, manual deposits, the card vault queue, house balances, servers and users.
 
-### Mobile app
+## Production setup
 
-```bash
-cd tinybox/mobile
-npm install
-npx expo install --fix        # align native module versions with your Expo SDK
-npx expo prebuild
-npx expo run:android          # or run:ios. Ads need a dev build; Expo Go won't work.
-```
+### 1. White-label gateway (UpCloud)
+1. In UpCloud, create a **private SDN network** (for example `10.88.0.0/16`) and an Ubuntu 24.04 VM that has a public IP and is attached to that network.
+2. Set the public IP's reverse DNS to your brand.
+3. On that VM, run `PUBLIC_HOST=ssh.yourbrand.com APPS_DOMAIN=apps.yourbrand.com bash infra/gateway-setup.sh`. It installs WireGuard, Caddy and the agent, and prints `GATEWAY_URL` and `GATEWAY_TOKEN`.
+4. Add DNS records: `ssh.yourbrand.com` and `*.apps.yourbrand.com` → the gateway IP.
+5. In the backend `.env`, set `UPCLOUD_MOCK=false`, an API token (or sub-account), `UPCLOUD_ZONE`, `UPCLOUD_NETWORK` (the SDN UUID) and `UPCLOUD_TEMPLATE` (a cloud-init template's storage UUID).
 
-Set `extra.apiUrl` in `app.json` to your backend. `10.0.2.2:8080` reaches your computer from the Android emulator. In development the app uses Google's test ad units.
+Customer VMs are created **with no public IP**. Here is what customers see:
+* SSH: `ssh root@ssh.yourbrand.com -p 40xxx`
+* Websites: `https://name-id.apps.yourbrand.com`, or their own domain via a CNAME with automatic HTTPS
+* Private access: their own WireGuard config, which can only reach their own servers
+* Outbound traffic from their servers leaves through the gateway's IP (SNAT)
 
-## Going live
+cloud-init sets the hostname and an MOTD with your brand, and blocks the provider metadata endpoint after the first boot.
 
-1. **Proxmox host.** Run `WAN_IF=vmbr0 bash infra/proxmox-setup.sh` on the host. It creates the NAT bridge `vmbr1`, the SSH port forwards (port `20000+i` goes to container `i`), SMTP and host-access blocks, a least-privilege API token and the Alpine template. Copy the values it prints into `.env` and set `PROXMOX_MOCK=false`.
-2. **Backend.** Copy it to `/opt/tinybox`, then `npm ci --omit=dev`, install `infra/tinybox.service` and put `infra/Caddyfile` in front of it for HTTPS. You can use Docker instead: `docker build -f backend/Dockerfile .` from `tinybox/`.
-   Set `NODE_ENV=production`, a long random `JWT_SECRET`, `ALLOW_DEV_REWARDS=false` and `PUBLIC_URL`.
-3. **Stripe.** Set `STRIPE_SECRET_KEY`. Add a webhook to `https://YOUR_DOMAIN/api/stripe/webhook` for `checkout.session.completed` and `checkout.session.async_payment_succeeded`, then put its signing secret in `STRIPE_WEBHOOK_SECRET`.
-4. **AdMob.** Create an app, a rewarded unit and a banner unit. Put the app IDs in the `app.json` plugin config and the unit IDs in `extra.ads`. On the rewarded unit, turn on server-side verification with the callback `https://YOUR_DOMAIN/api/ads/admob-ssv`. You can also put the unit ID in `ADMOB_AD_UNIT_IDS` so only that unit is accepted.
-5. **AdSense (web).** Uncomment the script in `web/index.html` and set `ADSENSE_CLIENT` and `ADSENSE_SLOT` in `web/app.js`.
-6. **Brand.** "TinyBox" is a placeholder. Change `BRAND_NAME`, the `app.json` name, slug, bundle IDs and scheme, and the logo text.
+To keep the cheap tiny containers, run Proxmox on one or more UpCloud VMs. LXC doesn't need nested virtualisation. Run `infra/proxmox-setup.sh` on each, and pass `PROXMOX_ROUTE="10.77.0.0/16 via <node private IP>"` to the gateway setup.
 
-## How it works
+### 2. OPEX (wallet, deposits, spot)
+1. Deploy [opexdev/core](https://github.com/opexdev/core) with its docker-compose files, then configure currencies, chains and gateways in OPEX.
+2. Create a platform account in OPEX for the house. Put its UUID in `OPEX_SYSTEM_ACCOUNTS`. You can add separate UUIDs for `fees`, `perps`, `options`, `cards`, `escrow` and `cloud`.
+3. Set `OPEX_ENABLED=true` and the other `OPEX_*` values, and map deposit networks in `OPEX_GATEWAYS`.
+4. Run the platform next to OPEX with `docker compose -f infra/docker-compose.yml up -d --build`.
 
-* **Provisioning** (`backend/src/provisioner.js`) picks the online node with the most free RAM and allocates a VMID in `VMID_MIN..VMID_MAX`. It then creates an unprivileged LXC from the template. The container gets a static IP derived from its VMID (`10.77.x.y`), CPU and network limits, and a random root password that is shown to the user once. The user can also supply an SSH key. The NAT rules are generated ahead of time for the whole VMID range, so the backend never needs shell access to the host.
-* **Expiry job.** Every minute it deletes expired free servers, stops expired paid ones (state `suspended`) and deletes suspended servers after 7 days. Renewing a suspended server starts it again.
-* **Ad rewards.** The app shows a rewarded ad with `userId` and `customData = serverId`. Google calls `/api/ads/admob-ssv`, and the backend checks the ECDSA signature against Google's published keys before adding time. Each transaction is only counted once, and rewards are capped per day.
-* **Payments.** Each purchase is first saved as an order. The Stripe webhook then fulfils it, and fulfilment is idempotent, so a webhook delivered twice doesn't apply twice. In the app, checkout opens in an in-app browser and returns to `tinybox://order`.
+> **Security:** OPEX's wallet service accepts `/v2/transfer/**` and `/deposit/**` on its internal port without a user token. Never expose the wallet service publicly. Only the platform backend should be able to reach it.
 
-### API summary
+The OPEX adapter (`wallet/opex.js`, `trading/spot.js`) was written against OPEX's current controllers: `/opex/v1/wallet/asset`, `/wallet/deposit/address`, `/opex/v1/withdraw`, `/opex/v1/order`, `/opex/v1/market/depth|trades|ticker`, and wallet `/v2/transfer`. It also uses the standard Keycloak admin API. **It has not been run against a live OPEX deployment yet.** Test it on staging before real money touches it.
 
-| | |
-|---|---|
-| `POST /api/auth/register` `login`, `GET /api/auth/me`, `POST /api/auth/change-password` | accounts (JWT) |
-| `GET /api/servers`, `POST /api/servers/free`, `GET/DELETE /api/servers/:id`, `POST /api/servers/:id/{start,stop,shutdown,reboot}` | servers |
-| `GET /api/shop/plans`, `POST /api/shop/checkout {kind:new\|renew\|upgrade}`, `GET /api/shop/orders[/:id]` | shop |
-| `GET /api/ads/status`, `GET /api/ads/admob-ssv`, `POST /api/ads/dev-reward` | ads |
-| `GET /api/admin/{stats,users,servers}`, `POST /api/admin/users/:id/ban`, `DELETE /api/admin/servers/:id` | admin |
+### 3. Payments, ads, prices
+* Cloud can be paid **from the wallet** (USDT) or **by card** through Stripe (`STRIPE_*`).
+* Ads use AdMob in the app and AdSense on the website, as before.
+* Set `ORACLE_SOURCE=coinbase` for real index prices. Derivatives pause automatically if the feed goes stale for 60 seconds.
+* Production refuses to start if `ALLOW_FAUCET`, `MARKET_MAKER` or `ALLOW_DEV_REWARDS` is on.
 
-## Things to decide before launch
+## How the pieces work
 
-* **App store payments.** Apple and Google usually require their own in-app purchase system for digital goods bought inside an app. Hosting that is used outside the app is a grey area. The safest route is to add IAP (for example through RevenueCat) and fulfil orders through the same `fulfillOrder` path, or to sell only on the website. Check current store rules first.
-* **Abuse.** Free servers attract crypto miners and spammers. The defaults are a CPU cap, a 1 Mbit/s network limit, SMTP blocked, one free server per account and a global cap (`FREE_MAX_TOTAL`). For more protection, add email verification, a captcha on signup, and PVE firewall rules that isolate containers from each other.
-* **Not built yet:**
-  * password reset by email
-  * a browser console (proxy Proxmox `termproxy`/`vncwebsocket`)
-  * IPv6 per container
-  * backups for paid plans
-  * subscriptions that auto-renew (switch Checkout to `mode: 'subscription'`)
+* **Order book** (`trading/book.js`): price-time priority with limit and market orders and self-trade prevention. Makers pay no fee and takers pay one. Funds are moved into escrow *before* an order touches the book, so a fill can never fail halfway. Any payout that does fail goes into a retry queue (`wallet_outbox`). The tests check after every scenario that each asset's ledger sums to zero and that escrow equals the open orders.
+* **Perpetuals** (`trading/perps.js`): isolated margin, entry and exit at index ± spread, liquidation at margin minus maintenance, and take-profit/stop-loss. The platform is the counterparty (`sys:perps`). Per-user notional caps limit how much the house can lose.
+* **Options** (`trading/options.js`): Black-Scholes quotes at the configured implied volatility plus a spread. Users buy calls and puts and can sell them back at the bid. Expired options are cash-settled automatically at 08:00 UTC. The platform is the counterparty (`sys:options`), and there's a per-user premium cap.
+* **Cards** (`trading/cards.js`): each item SKU has its own book. Holdings are locked while listed or while a ship-out or break is pending. Staff complete vault requests in the admin console; for a break, they enter the cards that were pulled. The seeded catalogue (Aetherbound, Kaiju Clash) is fictional, so replace it with your real inventory.
+
+## Before you launch: decisions that are yours
+
+1. **Licensing and KYC.** Holding customer crypto, running an exchange, and especially offering leveraged futures and options to retail users is regulated almost everywhere. Examples are VASP/CASP registration (MiCA in the EU), money-transmitter licences in the US, and the UK's ban on retail crypto derivatives. **This code has no KYC/AML, geo-blocking or travel-rule handling.** You need these, and probably legal advice, before taking real deposits. `DERIVATIVES_ENABLED=false` turns derivatives off entirely.
+2. **House risk.** In this design the platform takes the other side of every futures and options trade. Either fund `sys:perps` and `sys:options` and hedge, or later replace them with a matched book.
+3. **Limits of the white-labelling.**
+   * A WHOIS lookup on the gateway IP still shows UpCloud's network unless you bring your own IP range.
+   * Servers on the shared SDN network can reach each other directly. For strict isolation, use one SDN network per customer or add host firewalls.
+   * Check UpCloud's terms on reselling. They have a partner programme.
+4. **The perpetuals repo has no LICENSE file.** Only its package.json says "ISC". I modelled the engine on its design but didn't copy any code. Ask the author for a licence before reusing their code directly. OPEX is MIT, so you may use it with attribution.
+5. **App stores.** Store payment rules (previous README section) still apply to the mobile app, and crypto features in apps have extra store requirements.
+
+## Not built yet
+* KYC, 2FA, email verification and password reset
+* the mobile app only covers Cloud (no wallet, trading or cards screens)
+* websocket streaming (pages poll every 3–5 seconds)
+* candlestick charts (pages show a sparkline)
+* funding rates on perps
+* user-written options
+* partial closes
+* card images and price history
+* a browser console for servers
+* backups

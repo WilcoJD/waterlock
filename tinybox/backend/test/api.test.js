@@ -8,47 +8,9 @@ const { createApp } = require('../src/app');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-function makeConfig() {
-  return {
-    port: 0, publicUrl: 'http://localhost', jwtSecret: 'test', dbPath: ':memory:', brand: 'TinyBox', adminEmails: ['admin@x.io'],
-    proxmox: { mock: true, vmidMin: 10000, vmidMax: 10002, natPrefix: '10.77', natGateway: '10.77.0.1', publicHost: 'pve.test', sshPortBase: 20000, nodes: [] },
-    free: { hoursInitial: 4, hoursPerAd: 1, maxHoursAhead: 24, maxAdsPerDay: 3, maxTotal: 100 },
-    stripe: { secretKey: '', webhookSecret: '' },
-    admob: { adUnitIds: [], allowDevRewards: true },
-  };
-}
+const { setup, waitActive } = require('./helpers');
 
-async function setup() {
-  const config = makeConfig();
-  const pve = new MockProxmox(config.proxmox); pve.delayMs = 5;
-  const { privateKey, publicKey } = crypto.generateKeyPairSync('ec', { namedCurve: 'prime256v1' });
-  const ssvKeys = new Map([['42', publicKey.export({ type: 'spki', format: 'pem' })]]);
-  const silent = { info() {}, warn() {}, error: console.error };
-  const ctx = createApp(config, { db: dbm.open(':memory:'), pve, stripe: null, ssvKeys, log: silent });
-  const srv = ctx.app.listen(0);
-  const base = `http://127.0.0.1:${srv.address().port}`;
-  const call = async (method, path, body, token) => {
-    const res = await fetch(base + path, { method, headers: { 'content-type': 'application/json', ...(token ? { authorization: `Bearer ${token}` } : {}) }, body: body ? JSON.stringify(body) : undefined });
-    const text = await res.text();
-    let json; try { json = JSON.parse(text); } catch { json = text; }
-    return { status: res.status, body: json };
-  };
-  const signSsv = (fields) => {
-    const q = new URLSearchParams(fields).toString();
-    const sig = crypto.sign('sha256', Buffer.from(q), privateKey).toString('base64url');
-    return `${q}&signature=${sig}&key_id=42`;
-  };
-  return { ...ctx, srv, call, signSsv, close: () => srv.close() };
-}
 
-async function waitActive(call, id, token) {
-  for (let i = 0; i < 50; i++) {
-    const r = await call('GET', `/api/servers/${id}`, null, token);
-    if (r.body.server.state !== 'provisioning') return r.body;
-    await sleep(10);
-  }
-  throw new Error('never became active');
-}
 
 test('full user journey', async (t) => {
   const s = await setup();
@@ -74,10 +36,11 @@ test('full user journey', async (t) => {
   const created = await call('POST', '/api/servers/free', { hostname: 'mybox' }, token);
   assert.equal(created.status, 201);
   assert.ok(created.body.root_password.length >= 12);
-  assert.equal(created.body.server.ssh.port, 20000);
   assert.equal(created.body.server.private_ip, '10.77.0.2');
   const freeId = created.body.server.id;
   const detail = await waitActive(call, freeId, token);
+  assert.equal(detail.server.ssh.port, 20000, 'no gateway: direct proxmox port forward');
+  assert.equal(detail.server.ssh.host, 'pve.test');
   assert.equal(detail.server.state, 'active');
   assert.equal(detail.live.status, 'running');
   assert.equal((await call('POST', '/api/servers/free', {}, token)).status, 409, 'only one free server');

@@ -5,7 +5,7 @@
  */
 const crypto = require('node:crypto');
 const { toSql, fromSql } = require('./db');
-const { ipForVmid, sshPortForVmid } = require('./proxmox');
+const { ipForVmid } = require('./proxmox');
 
 const HOUR = 3600 * 1000;
 const DAY = 24 * HOUR;
@@ -23,10 +23,13 @@ const HOSTNAME_RE = /^[a-z0-9]([a-z0-9-]{0,30}[a-z0-9])?$/;
 const SSH_KEY_RE = /^(ssh-(ed25519|rsa)|ecdsa-sha2-nistp(256|384|521)|sk-ssh-ed25519@openssh\.com) [A-Za-z0-9+/=]+( [^\r\n]{0,200})?$/;
 
 class Provisioner {
-  constructor({ db, pve, config, log = console }) {
-    this.db = db; this.pve = pve; this.config = config; this.log = log;
+  constructor({ db, pve, providers, gateway, config, log = console }) {
+    this.db = db; this.pve = pve; this.providers = providers; this.gateway = gateway; this.config = config; this.log = log;
     this.lock = Promise.resolve(); // serialises VMID allocation
+    this.onServersChanged = async () => {}; // set by the VPN service
   }
+
+  provider(s) { return this.providers[s.provider || 'proxmox']; }
 
   plan(id) {
     const p = this.db.prepare('SELECT * FROM plans WHERE id = ?').get(id);
@@ -42,12 +45,20 @@ class Provisioner {
     return {
       id: s.id, hostname: s.hostname, plan: { id: plan.id, name: plan.name, cores: plan.cores, memory_mb: plan.memory_mb, disk_gb: plan.disk_gb },
       state: s.state, error: s.error, vmid: s.vmid,
-      ssh: s.ssh_port ? { host: this.config.proxmox.publicHost, port: s.ssh_port, user: 'root', command: `ssh root@${this.config.proxmox.publicHost} -p ${s.ssh_port}` } : null,
+      ssh: s.ssh_port ? this._ssh(s) : null,
+      web_url: s.subdomain && this.gateway ? `https://${s.subdomain}.${this.config.gateway.appsDomain}` : null,
+      custom_domain: s.custom_domain,
+      provider_kind: s.provider === 'upcloud' ? 'vm' : 'container',
       private_ip: s.ip,
       expires_at: fromSql(s.expires_at).toISOString(),
       created_at: fromSql(s.created_at).toISOString(),
       is_free: plan.price_cents === 0,
     };
+  }
+
+  _ssh(s) {
+    const host = this.gateway ? this.config.gateway.publicHost : (s.direct_host || this.config.proxmox.publicHost);
+    return { host, port: s.ssh_port, user: 'root', command: s.ssh_port === 22 ? `ssh root@${host}` : `ssh root@${host} -p ${s.ssh_port}` };
   }
 
   async allocateVmid() {
@@ -85,46 +96,76 @@ class Provisioner {
     }
     if (!expiresAt) expiresAt = new Date(Date.now() + plan.days * DAY);
 
-    const vmid = await this.allocateVmid();
-    const info = this.db.prepare(`INSERT INTO servers (user_id, plan_id, vmid, hostname, ip, ssh_port, state, expires_at)
-      VALUES (?,?,?,?,?,?, 'provisioning', ?)`).run(userId, plan.id, vmid, hostname, ipForVmid(this.config.proxmox, vmid), sshPortForVmid(this.config.proxmox, vmid), toSql(expiresAt));
+    const provider = this.providers[plan.provider];
+    if (!provider) throw new HttpError(500, `Provider ${plan.provider} not configured`);
+    const vmid = provider.needsVmid ? await this.allocateVmid() : null;
+    const info = this.db.prepare(`INSERT INTO servers (user_id, plan_id, provider, vmid, hostname, ip, state, expires_at)
+      VALUES (?,?,?,?,?,?, 'provisioning', ?)`).run(userId, plan.id, plan.provider, vmid, hostname, vmid ? ipForVmid(this.config.proxmox, vmid) : null, toSql(expiresAt));
     const id = Number(info.lastInsertRowid);
     const rootPassword = randomPassword();
 
     // Fire and forget; client polls server state.
-    this._provision(id, { vmid, hostname, password: rootPassword, sshKey, plan }).catch(() => {});
+    this._provision(id, { password: rootPassword, sshKey, plan }).catch(() => {});
     return { server: this.server(id), rootPassword };
   }
 
-  async _provision(id, { vmid, hostname, password, sshKey, plan }) {
+  async _provision(id, { password, sshKey, plan }) {
+    const server = this.server(id);
     try {
-      const node = await this.pve.pickNode();
-      this.db.prepare('UPDATE servers SET node=? WHERE id=?').run(node, id);
-      await this.pve.createContainer({ node, vmid, hostname, password, sshKey, plan });
+      const r = await this.provider(server).create({ server, plan, password, sshKey });
+      this.db.prepare('UPDATE servers SET node=?, provider_id=?, ip=?, target_ssh_port=?, target_http_port=?, direct_host=? WHERE id=?')
+        .run(r.node, r.provider_id, r.ip, r.target_ssh_port, r.target_http_port, r.direct_host || null, id);
+      await this._expose(this.server(id), r);
       this.db.prepare("UPDATE servers SET state='active', error=NULL WHERE id=? AND state='provisioning'").run(id);
-      this.log.info?.(`[provision] server ${id} vmid ${vmid} ready on ${node}`);
+      this.log.info?.(`[provision] server ${id} (${server.provider}) ready on ${r.node}`);
+      await this.onServersChanged(server.user_id).catch((e) => this.log.error?.('[vpn]', e.message));
     } catch (e) {
       this.log.error?.(`[provision] server ${id} failed:`, e.message);
       this.db.prepare("UPDATE servers SET state='error', error=? WHERE id=?").run('Provisioning failed. Delete and try again, or contact support.', id);
     }
   }
 
+  /** Publish the server under our brand via the gateway (or directly if there is none). */
+  async _expose(s, r = {}) {
+    if (!this.gateway) {
+      this.db.prepare('UPDATE servers SET ssh_port=? WHERE id=?').run(r.direct_ssh_port || 22, s.id);
+      return;
+    }
+    const subdomain = s.subdomain || `${s.hostname}-${s.id}`.toLowerCase();
+    const g = await this.gateway.expose(`s${s.id}`, {
+      target_ip: s.ip, ssh_target_port: s.target_ssh_port || 22, http_target_port: s.target_http_port || 80,
+      subdomain, custom_domain: s.custom_domain || null, owner: `u${s.user_id}`,
+    });
+    this.db.prepare('UPDATE servers SET ssh_port=?, subdomain=? WHERE id=?').run(g.ssh_port, subdomain, s.id);
+  }
+
+  async setCustomDomain(s, domain) {
+    if (!this.gateway) throw new HttpError(400, 'Custom domains need the gateway');
+    domain = domain ? String(domain).trim().toLowerCase() : null;
+    if (domain && !/^(?=.{4,253}$)([a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}$/.test(domain)) throw new HttpError(400, 'Enter a valid domain name');
+    if (domain && this.db.prepare("SELECT 1 FROM servers WHERE custom_domain=? AND id!=? AND state!='deleted'").get(domain, s.id)) throw new HttpError(409, 'That domain is already in use');
+    this.db.prepare('UPDATE servers SET custom_domain=? WHERE id=?').run(domain, s.id);
+    await this._expose(this.server(s.id));
+  }
+
   async power(server, action) {
     if (server.state !== 'active') throw new HttpError(409, `Server is ${server.state}`);
-    await this.pve.action(server.node, server.vmid, action);
+    await this.provider(server).action(server, action);
   }
 
   async liveStatus(server) {
     if (server.state !== 'active') return null;
-    try { return await this.pve.status(server.node, server.vmid); } catch (e) { return { status: 'unknown', error: e.message }; }
+    try { return await this.provider(server).status(server); } catch (e) { return { status: 'unknown', error: e.message }; }
   }
 
   async destroyServer(server) {
     if (server.state === 'deleted') return;
     this.db.prepare("UPDATE servers SET state='deleting' WHERE id=?").run(server.id);
     try {
-      if (server.node && server.vmid) await this.pve.destroy(server.node, server.vmid);
+      await this.provider(server).destroy(server);
+      if (this.gateway) await this.gateway.unexpose(`s${server.id}`);
       this.db.prepare("UPDATE servers SET state='deleted', deleted_at=datetime('now'), vmid=NULL WHERE id=?").run(server.id);
+      await this.onServersChanged(server.user_id).catch(() => {});
     } catch (e) {
       this.log.error?.(`[destroy] server ${server.id}:`, e.message);
       this.db.prepare("UPDATE servers SET state='error', error='Delete failed, will retry' WHERE id=?").run(server.id);
@@ -154,14 +195,15 @@ class Provisioner {
     try {
       if (order.kind === 'new') {
         const meta = order.meta ? JSON.parse(order.meta) : {};
-        const { server, rootPassword } = await this.createServer(order.user_id, plan.id, meta);
+        const { server, rootPassword } = await this.createServer(order.user_id, plan.id, meta, {});
         this.db.prepare('UPDATE orders SET server_id=?, root_password_once=? WHERE id=?').run(server.id, rootPassword, orderId);
       } else {
         const s = this.server(order.server_id);
         if (!s || s.state === 'deleted') throw new Error('server no longer exists');
         if (order.kind === 'upgrade') {
           const oldPlan = this.plan(s.plan_id);
-          await this.pve.applyPlan(s.node, s.vmid, plan, oldPlan);
+          if (oldPlan.provider !== plan.provider) throw new Error('cannot move between containers and VMs');
+          await this.provider(s).applyPlan(s, plan, oldPlan);
           const wasFree = oldPlan.price_cents === 0;
           const exp = wasFree ? new Date(Date.now() + plan.days * DAY) : fromSql(s.expires_at);
           this.db.prepare('UPDATE servers SET plan_id=?, expires_at=? WHERE id=?').run(plan.id, toSql(exp), s.id);
@@ -170,7 +212,7 @@ class Provisioner {
           this.db.prepare('UPDATE servers SET expires_at=? WHERE id=?').run(toSql(new Date(base + plan.days * DAY)), s.id);
         }
         if (s.state === 'suspended') {
-          await this.pve.action(s.node, s.vmid, 'start');
+          await this.provider(s).action(s, 'start');
           this.db.prepare("UPDATE servers SET state='active' WHERE id=?").run(s.id);
         }
       }
@@ -196,7 +238,7 @@ class Provisioner {
           await this.destroyServer(s);
           this.log.info?.(`[reaper] deleted server ${s.id}`);
         } else if (s.state === 'active') {
-          await this.pve.action(s.node, s.vmid, 'stop').catch(() => {});
+          await this.provider(s).action(s, 'stop').catch(() => {});
           this.db.prepare("UPDATE servers SET state='suspended' WHERE id=?").run(s.id);
           this.log.info?.(`[reaper] suspended server ${s.id}`);
         }

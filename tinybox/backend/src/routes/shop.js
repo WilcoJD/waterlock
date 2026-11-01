@@ -2,17 +2,17 @@
 const express = require('express');
 const { HttpError } = require('../provisioner');
 
-module.exports = function shopRoutes({ db, config, auth, prov, stripe }) {
+module.exports = function shopRoutes({ db, config, auth, prov, stripe, wallet }) {
   const r = express.Router();
 
   const publicPlan = (p) => ({
     id: p.id, name: p.name, cores: p.cores, cpulimit: p.cpulimit, memory_mb: p.memory_mb, swap_mb: p.swap_mb,
-    disk_gb: p.disk_gb, net_rate_mbps: p.net_rate_mbps, price_cents: p.price_cents, days: p.days, is_free: p.price_cents === 0,
+    disk_gb: p.disk_gb, net_rate_mbps: p.net_rate_mbps, price_cents: p.price_cents, days: p.days, is_free: p.price_cents === 0, kind: p.provider === 'upcloud' ? 'vm' : 'container',
   });
 
   r.get('/plans', (req, res) => {
     const plans = db.prepare('SELECT * FROM plans WHERE active=1 ORDER BY sort').all();
-    res.json({ plans: plans.map(publicPlan), free: { ...config.free }, currency: 'usd', brand: config.brand });
+    res.json({ plans: plans.map(publicPlan), free: { ...config.free }, currency: 'usd', brand: config.brand, white_label: { gateway: !!prov.gateway, ssh_host: prov.gateway ? config.gateway.publicHost : null, apps_domain: prov.gateway ? config.gateway.appsDomain : null } });
   });
 
   r.post('/checkout', auth.requireAuth, async (req, res) => {
@@ -37,6 +37,8 @@ module.exports = function shopRoutes({ db, config, auth, prov, stripe }) {
         plan = current;
       } else if (plan.price_cents <= current.price_cents) {
         throw new HttpError(400, 'Pick a bigger plan to upgrade');
+      } else if (plan.provider !== current.provider) {
+        throw new HttpError(400, 'Containers can only be upgraded to container plans, and VMs to VM plans');
       }
       serverId = s.id;
     }
@@ -45,9 +47,23 @@ module.exports = function shopRoutes({ db, config, auth, prov, stripe }) {
     let amount = plan.price_cents;
     if (kind === 'upgrade') amount = Math.max(50, plan.price_cents - prov.plan(prov.server(serverId).plan_id).price_cents);
 
-    const info = db.prepare('INSERT INTO orders (user_id, plan_id, server_id, kind, amount_cents, meta) VALUES (?,?,?,?,?,?)')
-      .run(req.user.id, plan.id, serverId, kind, amount, meta);
+    const payWith = body.pay_with === 'wallet' ? 'wallet' : 'card';
+    const info = db.prepare('INSERT INTO orders (user_id, plan_id, server_id, kind, amount_cents, meta, pay_with) VALUES (?,?,?,?,?,?,?)')
+      .run(req.user.id, plan.id, serverId, kind, amount, meta, payWith);
     const orderId = Number(info.lastInsertRowid);
+
+    // Pay from the unified wallet (USDT, 1 USDT = 1 USD).
+    if (payWith === 'wallet') {
+      try {
+        await wallet.transfer({ src: `u:${req.user.id}`, dst: 'sys:cloud', asset: 'USDT', amount: amount * 1e6, kind: 'cloud', ref: `order #${orderId}` });
+      } catch (e) {
+        db.prepare("UPDATE orders SET status='failed' WHERE id=?").run(orderId);
+        throw e;
+      }
+      const o = await prov.fulfillOrder(orderId);
+      if (o.status === 'failed') await wallet.payout({ src: 'sys:cloud', dst: `u:${req.user.id}`, asset: 'USDT', amount: amount * 1e6, kind: 'cloud_refund', ref: `order #${orderId}` });
+      return res.json({ order_id: orderId, paid: true, status: o.status });
+    }
     // Mobile apps pass their deep link (e.g. tinybox://order); web uses PUBLIC_URL.
     // http(s) return URLs are only accepted on our own domain (no open redirects).
     const ru = typeof body.return_url === 'string' ? body.return_url : '';
