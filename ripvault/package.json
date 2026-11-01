@@ -1,0 +1,21 @@
+{
+  "name": "ripvault",
+  "private": true,
+  "version": "0.1.0",
+  "description": "RipVault: buy and rip digital packs of real trading cards, see live values, vault, ship or sell back.",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "dev:api": "npm run dev -w @ripvault/api",
+    "mobile": "npm run start -w @ripvault/mobile",
+    "seed": "npm run seed -w @ripvault/api",
+    "prices:sync": "npm run prices:sync -w @ripvault/api",
+    "test": "npm test -w @ripvault/shared && npm test -w @ripvault/api",
+    "typecheck": "npm run typecheck -w @ripvault/shared && npm run typecheck -w @ripvault/api && npm run typecheck -w @ripvault/mobile"
+  }
+}
