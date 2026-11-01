@@ -113,3 +113,28 @@
     }
   }));
 })();
+
+/* Admin: card vault queue tab */
+(() => {
+  'use strict';
+  const { $, esc, api, busy, modal, registerAdminTab } = App;
+  registerAdminTab({ id: 'vault', label: 'Card vault', order: 40, async render(pane) {
+    const { requests } = await api('GET', '/admin/cards/requests');
+    pane.innerHTML = `<div class="card" style="overflow:auto"><table class="t"><tr><th>#</th><th>User</th><th>Type</th><th>Item</th><th class="num">Qty</th><th>Address / note</th><th>Status</th><th></th></tr>
+      ${requests.map((r) => `<tr><td>${r.id}</td><td>${esc(r.email)}</td><td>${esc(r.kind.replace('_', ' '))}</td><td>${esc(r.sku)}</td><td class="num">${r.qty}</td><td class="muted">${esc(r.address || '')} ${esc(r.note || '')}</td><td><span class="badge ${r.status === 'completed' ? 'active' : r.status === 'rejected' ? 'error' : 'provisioning'}">${esc(r.status)}</span></td>
+        <td>${r.status === 'pending' ? `<button class="btn small primary" data-done="${r.id}" data-kind="${esc(r.kind)}">Complete</button> <button class="btn small danger" data-rej="${r.id}">Reject</button>` : ''}</td></tr>`).join('')}</table></div>`;
+    pane.querySelectorAll('[data-done]').forEach((b) => (b.onclick = () => {
+      const kind = b.dataset.kind;
+      modal(`<h2>Complete request #${b.dataset.done}</h2>${kind === 'ship_out' ? '<label>Tracking number</label><input id="tr" />' : ''}${kind === 'break' ? '<label>Pulled cards (one per line: SKU qty)</label><textarea id="pl" placeholder="AEG-001 1\nAEG-058 9"></textarea>' : ''}${kind === 'ship_in' ? '<p class="muted">Confirm the items arrived and passed inspection.</p>' : ''}
+        <div class="row" style="margin-top:12px"><button class="btn primary" id="cgo">Complete</button><button class="btn" data-close>Cancel</button></div>`, (m, close) => {
+        $('#cgo', m).onclick = (e) => busy(e.currentTarget, async () => {
+          const body = {};
+          if ($('#tr', m)) body.tracking = $('#tr', m).value;
+          if ($('#pl', m)) body.pulls = $('#pl', m).value.split('\n').map((l) => l.trim().split(/\s+/)).filter((x) => x[0]).map(([sku, q]) => ({ sku, qty: Number(q || 1) }));
+          await api('POST', `/admin/cards/requests/${b.dataset.done}/complete`, body); close(); App.render();
+        });
+      });
+    }));
+    pane.querySelectorAll('[data-rej]').forEach((b) => (b.onclick = () => confirm('Reject this request?') && busy(b, async () => { await api('POST', `/admin/cards/requests/${b.dataset.rej}/complete`, { reject: true }); App.render(); })));
+  } });
+})();

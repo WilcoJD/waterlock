@@ -11,8 +11,9 @@ const { userOwner } = require('../wallet/base');
 const { KeyedMutex } = require('../atomic');
 
 class PerpsEngine {
-  constructor({ db, wallet, oracle, config, log = console }) {
+  constructor({ db, wallet, oracle, config, log = console, events = null }) {
     this.db = db; this.wallet = wallet; this.oracle = oracle; this.log = log;
+    this.events = events || { emit() {} };
     this.c = config.perps;
     this.mutex = new KeyedMutex();
     this.unsub = oracle.onPrice((sym, price) => this._onPrice(sym, price).catch((e) => log.error?.('[perps]', e)));
@@ -51,7 +52,9 @@ class PerpsEngine {
       if (fee) await this.wallet.payout({ src: 'sys:perps', dst: 'sys:fees', asset: 'USDT', amount: fee, kind: 'fee', ref: 'perps' });
       const id = Number(this.db.prepare('INSERT INTO perp_positions (user_id,symbol,side,qty,entry,leverage,margin,liq_price,tp,sl) VALUES (?,?,?,?,?,?,?,?,?,?)')
         .run(userId, symbol, side, qty, entry, leverage, marginU, liq, tp ? Number(tp) : null, sl ? Number(sl) : null).lastInsertRowid);
-      return this.present(this.db.prepare('SELECT * FROM perp_positions WHERE id=?').get(id));
+      const pos = this.present(this.db.prepare('SELECT * FROM perp_positions WHERE id=?').get(id));
+      this.events.emit('perps.opened', { position: pos, userId });
+      return pos;
     });
   }
 
@@ -71,7 +74,9 @@ class PerpsEngine {
       await this.wallet.payout({ src: 'sys:perps', dst: userOwner(p.user_id), asset: 'USDT', amount: back, kind: 'perps', ref: `close ${p.symbol}` });
       const feeTaken = Math.min(fee, Math.max(0, p.margin + pnl));
       if (feeTaken) await this.wallet.payout({ src: 'sys:perps', dst: 'sys:fees', asset: 'USDT', amount: feeTaken, kind: 'fee', ref: 'perps' });
-      return this.present(this.db.prepare('SELECT * FROM perp_positions WHERE id=?').get(id));
+      const pos = this.present(this.db.prepare('SELECT * FROM perp_positions WHERE id=?').get(id));
+      this.events.emit('perps.closed', { position: pos, userId: p.user_id, reason });
+      return pos;
     });
   }
 
@@ -82,6 +87,7 @@ class PerpsEngine {
       if (long ? price <= p.liq_price : price >= p.liq_price) {
         this.db.prepare("UPDATE perp_positions SET status='liquidated', exit_price=?, pnl=?, closed_at=datetime('now') WHERE id=? AND status='open'").run(price, -p.margin, p.id);
         this.log.info?.(`[perps] liquidated #${p.id}`);
+        this.events.emit('perps.liquidated', { position: this.present(this.db.prepare('SELECT * FROM perp_positions WHERE id=?').get(p.id)), userId: p.user_id, price });
       } else if ((p.tp && (long ? price >= p.tp : price <= p.tp)) || (p.sl && (long ? price <= p.sl : price >= p.sl))) {
         await this.close(null, p.id, 'closed').catch(() => {});
       }

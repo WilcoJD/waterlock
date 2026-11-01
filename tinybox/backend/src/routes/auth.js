@@ -3,7 +3,7 @@ const express = require('express');
 const bcrypt = require('bcryptjs');
 const rateLimit = require('express-rate-limit');
 
-module.exports = function authRoutes({ db, config, auth }) {
+module.exports = function authRoutes({ db, config, auth, hooks, events }) {
   const r = express.Router();
   const limiter = rateLimit({ windowMs: 15 * 60 * 1000, limit: 30, standardHeaders: true, legacyHeaders: false });
   const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -16,10 +16,12 @@ module.exports = function authRoutes({ db, config, auth }) {
     if (!EMAIL_RE.test(email)) return res.status(400).json({ error: 'Enter a valid email' });
     if (password.length < 8) return res.status(400).json({ error: 'Password must be at least 8 characters' });
     if (db.prepare('SELECT 1 FROM users WHERE email=?').get(email)) return res.status(409).json({ error: 'Email already registered' });
+    await hooks.run('auth.register.before', { email, req, ip: req.ip });
     const hash = await bcrypt.hash(password, 11);
     const isAdmin = config.adminEmails.includes(email) ? 1 : 0;
     const info = db.prepare('INSERT INTO users (email, password_hash, is_admin) VALUES (?,?,?)').run(email, hash, isAdmin);
     const user = db.prepare('SELECT * FROM users WHERE id=?').get(Number(info.lastInsertRowid));
+    events.emit('user.registered', { user: me(user), ip: req.ip });
     res.status(201).json({ token: auth.sign(user), user: me(user) });
   });
 
@@ -29,7 +31,10 @@ module.exports = function authRoutes({ db, config, auth }) {
     const ok = user && (await bcrypt.compare(String(req.body.password || ''), user.password_hash));
     if (!ok) return res.status(401).json({ error: 'Wrong email or password' });
     if (user.banned) return res.status(403).json({ error: 'Account suspended' });
-    res.json({ token: auth.sign(user), user: me(user) });
+    const payload = { user: me(user), req, ip: req.ip, extra: {} };
+    await hooks.run('auth.login.after', payload);
+    events.emit('user.login', { user: me(user), ip: req.ip });
+    res.json({ token: auth.sign(user), user: me(user), ...payload.extra });
   });
 
   r.get('/me', auth.requireAuth, (req, res) => res.json({ user: me(req.user) }));

@@ -18,7 +18,7 @@ const DEFAULT_PLANS = [
   { id: 'vm-8', name: 'Cloud VM 8', cores: 4, cpulimit: 4, memory_mb: 8192,  swap_mb: 0, disk_gb: 160, net_rate_mbps: 1000, price_cents: 5500, days: 30, sort: 13, provider: 'upcloud', provider_plan: '4xCPU-8GB' },
 ].map((p) => ({ provider: 'proxmox', provider_plan: null, ...p }));
 
-function open(dbPath) {
+function open(dbPath, { schemas = [], migrations = [], log = console, strict = false } = {}) {
   if (dbPath !== ':memory:') fs.mkdirSync(path.dirname(path.resolve(dbPath)), { recursive: true });
   const db = new DatabaseSync(dbPath);
   db.exec(`
@@ -236,6 +236,19 @@ function open(dbPath) {
       qty INTEGER NOT NULL DEFAULT 0, locked INTEGER NOT NULL DEFAULT 0,
       PRIMARY KEY (user_id, sku)
     );
+    -- Audit trail of sensitive actions (admin changes, security events). Use ctx.audit().
+    CREATE TABLE IF NOT EXISTS audit_log (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      actor_id INTEGER,                            -- user who did it (NULL = system)
+      target_id INTEGER,                           -- affected user, if any
+      action TEXT NOT NULL,                        -- e.g. 'admin.plan.update', 'auth.2fa.enabled'
+      details TEXT,                                -- JSON
+      ip TEXT,
+      created_at TEXT NOT NULL DEFAULT (datetime('now'))
+    );
+    CREATE INDEX IF NOT EXISTS audit_actor ON audit_log(actor_id, id);
+    CREATE INDEX IF NOT EXISTS audit_action ON audit_log(action, id);
+
     CREATE TABLE IF NOT EXISTS card_requests (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       user_id INTEGER NOT NULL REFERENCES users(id),
@@ -260,6 +273,14 @@ function open(dbPath) {
     ON CONFLICT(id) DO NOTHING`);
   for (const p of DEFAULT_PLANS) upsert.run(p);
   require('./seed').seed(db);
+
+  // Plugin schemas and migrations (each must be idempotent).
+  for (const { name, sql } of schemas) {
+    try { db.exec(sql); } catch (e) { if (strict) throw new Error(`schema for plugin ${name}: ${e.message}`); log.error?.(`[db] plugin ${name} schema failed: ${e.message}`); }
+  }
+  for (const { name, fn } of migrations) {
+    try { fn(db, { addCols, cols }); } catch (e) { if (strict) throw new Error(`migration for plugin ${name}: ${e.message}`); log.error?.(`[db] plugin ${name} migration failed: ${e.message}`); }
+  }
   return db;
 }
 

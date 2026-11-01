@@ -47,7 +47,9 @@ class LocalWallet extends WalletBase {
 
   /** Admin manual deposit (e.g. after checking a bank/crypto transfer). */
   async credit(userId, asset, amount, ref) {
-    return this.transferSync({ src: 'sys:deposits', dst: `u:${userId}`, asset, amount, kind: 'deposit', ref });
+    const tx = this.transferSync({ src: 'sys:deposits', dst: `u:${userId}`, asset, amount, kind: 'deposit', ref });
+    this.events.emit('deposit.credited', { userId, asset, amount, ref, tx });
+    return tx;
   }
 
   async requestWithdraw(userId, req) {
@@ -55,6 +57,7 @@ class LocalWallet extends WalletBase {
     return atomic(this.db, () => {
       this.transferSync({ src: `u:${userId}`, dst: 'sys:withdrawals', asset: a.symbol, amount: req.amount + a.withdraw_fee, kind: 'withdraw', ref: req.address });
       const info = this.db.prepare('INSERT INTO withdrawals (user_id, asset, chain, address, amount, fee) VALUES (?,?,?,?,?,?)').run(userId, a.symbol, req.chain, req.address, req.amount, a.withdraw_fee);
+      this.events.emit('withdraw.requested', { userId, id: Number(info.lastInsertRowid), asset: a.symbol, chain: req.chain, address: req.address, amount: req.amount, fee: a.withdraw_fee });
       return Number(info.lastInsertRowid);
     });
   }
@@ -63,6 +66,7 @@ class LocalWallet extends WalletBase {
     const w = this.db.prepare("SELECT * FROM withdrawals WHERE id=? AND status='pending'").get(id);
     if (!w) throw new HttpError(404, 'No pending withdrawal');
     this.db.prepare("UPDATE withdrawals SET status='sent', txid=? WHERE id=?").run(txid || null, id);
+    this.events.emit('withdraw.sent', { userId: w.user_id, id, asset: w.asset, amount: w.amount, txid });
   }
   async rejectWithdrawal(id) {
     atomic(this.db, () => {
@@ -70,6 +74,7 @@ class LocalWallet extends WalletBase {
       if (!w) throw new HttpError(404, 'No pending withdrawal');
       this.db.prepare("UPDATE withdrawals SET status='rejected' WHERE id=?").run(id);
       this.transferSync({ src: 'sys:withdrawals', dst: `u:${w.user_id}`, asset: w.asset, amount: w.amount + w.fee, kind: 'withdraw_refund', ref: String(id) });
+      this.events.emit('withdraw.rejected', { userId: w.user_id, id, asset: w.asset, amount: w.amount });
     });
   }
 

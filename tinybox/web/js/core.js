@@ -79,23 +79,49 @@
 
   // ---------- mega menu ----------
   const SECTIONS = [
-    { id: 'cloud', label: 'Cloud', match: /^(cloud|dashboard|server|order|vpn)/, cols: [
+    { id: 'cloud', label: 'Cloud', order: 10, match: /^(cloud|dashboard|server|order|vpn)/, cols: [
       { h: 'Compute', links: [['#/cloud', 'Tiny containers', 'Free with ads, from $1.99'], ['#/cloud?tab=vm', 'Cloud VMs', 'Dedicated vCPU & RAM'], ['#/cloud?tab=all', 'All pricing', 'Compare every plan']] },
       { h: 'Manage', links: [['#/dashboard', 'My servers', 'Start, stop, renew, upgrade'], ['#/vpn', 'Private network', 'WireGuard VPN to your servers'], ['#/dashboard', 'Custom domains', 'Point your domain at a server']] },
       { h: 'White-label', links: [['#/cloud', 'Your brand only', 'SSH, web & IPs under our name'], ['#/terms', 'Fair use', 'What you can run']] },
     ], feature: () => '<h3>Free Linux server</h3><p class="muted">Root shell in seconds. Keep it alive by watching a short ad in our app.</p><a class="btn primary small" href="#/cloud">Launch free</a>' },
-    { id: 'exchange', label: 'Exchange', match: /^(markets|trade|wallet)/, cols: [
+    { id: 'exchange', label: 'Exchange', order: 20, match: /^(markets|trade|wallet)/, cols: [
       { h: 'Spot markets', links: [['#/trade/BTC_USDT', 'BTC / USDT', 'Bitcoin'], ['#/trade/ETH_USDT', 'ETH / USDT', 'Ethereum'], ['#/markets', 'All markets', 'Prices & 24h volume']] },
       { h: 'Wallet', links: [['#/wallet', 'Balances', 'One wallet for everything'], ['#/wallet?tab=deposit', 'Deposit', 'Crypto deposit addresses'], ['#/wallet?tab=withdraw', 'Withdraw', 'Send to an external wallet']] },
       { h: 'Account', links: [['#/wallet?tab=history', 'History', 'Every movement, every product'], ['#/fees', 'Fees', 'Maker 0% · taker 0.1%']] },
     ], feature: () => `<h3>Live prices</h3>${['BTC', 'ETH', 'SOL'].map((s) => `<div class="row" style="justify-content:space-between"><b>${s}</b><span class="mono">$${fmt.usd(S.prices[s])}</span></div>`).join('')}` },
-    { id: 'derivatives', label: 'Derivatives', match: /^(futures|options)/, cols: [
+    { id: 'derivatives', label: 'Derivatives', order: 30, match: /^(futures|options)/, cols: [
       { h: 'Perpetual futures', links: [['#/futures/BTC', 'BTC-PERP', 'Up to 20x leverage'], ['#/futures/ETH', 'ETH-PERP', 'USDT-margined'], ['#/futures/SOL', 'SOL-PERP', 'Isolated margin']] },
       { h: 'Options', links: [['#/options/BTC', 'BTC options', 'Daily & weekly expiries'], ['#/options/ETH', 'ETH options', 'Calls and puts'], ['#/options/SOL', 'SOL options', 'Cash-settled in USDT']] },
       { h: 'Positions', links: [['#/futures/BTC?tab=positions', 'Futures positions', 'P&L and liquidation prices'], ['#/options/BTC?tab=positions', 'Options positions', 'Value and expiry']] },
     ], feature: () => '<h3>Risk warning</h3><p class="muted">Leveraged products can lose all of your margin quickly. Only trade what you can afford to lose.</p>' },
-    { id: 'cards', label: 'Cards', match: /^cards/, cols: [], feature: () => '<h3>Vaulted trading cards</h3><p class="muted">Ship cards to our vault, trade them instantly, ship out any time.</p><a class="btn small" href="#/cards/collection">My collection</a>' },
+    { id: 'cards', label: 'Cards', order: 40, match: /^cards/, cols: [], feature: () => '<h3>Vaulted trading cards</h3><p class="muted">Ship cards to our vault, trade them instantly, ship out any time.</p><a class="btn small" href="#/cards/collection">My collection</a>' },
   ];
+  // Registries that plugin modules extend (see docs/EXTENDING.md)
+  const registries = {
+    sections: SECTIONS,
+    adminTabs: [],
+    accountPanels: [],
+    headerWidgets: [],
+    homeTiles: [
+      { href: '#/cloud', icon: '▣', title: 'Cloud', text: 'Tiny containers free with ads, full VMs from $9/mo. Private VPN and custom domains.', order: 10 },
+      { href: '#/markets', icon: '⇄', title: 'Exchange', text: 'Spot BTC, ETH and SOL against USDT. Deposit and withdraw on-chain.', order: 20 },
+      { href: '#/futures/BTC', icon: '↗', title: 'Derivatives', text: 'USDT-margined perpetuals up to 20x, and daily/weekly options.', order: 30 },
+      { href: '#/cards', icon: '🂠', title: 'Cards', text: 'Sealed boxes, packs and graded singles, grouped by game and series.', order: 40 },
+    ],
+  };
+  const byOrder = (a, b) => (a.order ?? 100) - (b.order ?? 100);
+  function registerSection(sec) { const i = SECTIONS.findIndex((s) => s.id === sec.id); if (i >= 0) SECTIONS[i] = { ...SECTIONS[i], ...sec }; else SECTIONS.push(sec); SECTIONS.sort(byOrder); }
+  function addMenuColumn(sectionId, col) { const sec = SECTIONS.find((s) => s.id === sectionId); if (!sec) return; (sec.cols ||= []).push(col); sec.cols.sort(byOrder); }
+  function addMenuLink(sectionId, heading, link) {
+    const sec = SECTIONS.find((s) => s.id === sectionId); if (!sec) return;
+    let col = (sec.cols ||= []).find((c) => c.h === heading); if (!col) { col = { h: heading, links: [] }; sec.cols.push(col); }
+    col.links.push(link);
+  }
+  function registerAdminTab(tab) { const i = registries.adminTabs.findIndex((t) => t.id === tab.id); if (i >= 0) registries.adminTabs[i] = tab; else registries.adminTabs.push(tab); registries.adminTabs.sort(byOrder); }
+  function registerAccountPanel(p) { registries.accountPanels.push(p); registries.accountPanels.sort(byOrder); }
+  function registerHeaderWidget(w) { registries.headerWidgets.push(w); registries.headerWidgets.sort(byOrder); }
+  function registerHomeTile(t) { registries.homeTiles.push(t); registries.homeTiles.sort(byOrder); }
+
   let cardCatalog = null;
   async function cardsCols() {
     try { cardCatalog ||= (await api('GET', '/cards/catalog')).games; } catch { cardCatalog = []; }
@@ -112,7 +138,7 @@
     if (!sec) { panel.classList.remove('open'); openSection = null; $$('#mega button').forEach((b) => b.setAttribute('aria-expanded', 'false')); return; }
     openSection = id;
     $$('#mega button').forEach((b) => b.setAttribute('aria-expanded', String(b.dataset.sec === id)));
-    const cols = id === 'cards' ? await cardsCols() : sec.cols;
+    const cols = id === 'cards' ? [...(await cardsCols()), ...(sec.cols || [])] : (sec.cols || []);
     if (openSection !== id) return;
     panel.innerHTML = `<div class="mega-inner">${cols.map((c) => `<div class="mega-col"><h4>${esc(c.h)}</h4>${c.links.map(([h, t, d]) => `<a href="${h}">${esc(t)}<small>${esc(d)}</small></a>`).join('')}</div>`).join('')}${cols.length < 3 ? '<div></div>'.repeat(3 - cols.length) : ''}<div class="mega-feature">${sec.feature()}</div></div>`;
     panel.classList.add('open');
@@ -125,11 +151,12 @@
       b.onmouseenter = () => { clearTimeout(hoverTimer); if (matchMedia('(min-width: 901px)').matches) hoverTimer = setTimeout(() => showMega(b.dataset.sec), 120); };
     });
     const u = S.user;
+    const widgets = u ? registries.headerWidgets.map((w) => `<span class="hw" data-hw="${esc(w.id)}">${w.render ? w.render() : ''}</span>`).join('') : '';
     $('#right').innerHTML = u
-      ? `<a href="#/wallet" class="chip" id="walletChip">Wallet</a><a href="#/dashboard">Servers</a><a href="#/account">Account</a>${u.is_admin ? '<a href="#/admin">Admin</a>' : ''}<button id="logout">Log out</button>`
+      ? `<a href="#/wallet" class="chip" id="walletChip">Wallet</a>${widgets}<a href="#/dashboard">Servers</a><a href="#/account">Account</a>${u.is_admin ? '<a href="#/admin">Admin</a>' : ''}<button id="logout">Log out</button>`
       : '<a href="#/login">Log in</a><a class="btn small primary" href="#/register">Sign up</a>';
     const lo = $('#logout'); if (lo) lo.onclick = () => logout();
-    if (u) refreshWalletChip();
+    if (u) { refreshWalletChip(); for (const w of registries.headerWidgets) { try { w.mount?.($(`[data-hw="${w.id}"]`)); } catch (e) { console.error(e); } } }
   }
   async function refreshWalletChip() {
     try {
@@ -185,56 +212,9 @@
         <div class="row" style="justify-content:center"><a class="btn primary" href="#/${S.user ? 'wallet' : 'register'}">${S.user ? 'Open wallet' : 'Create free account'}</a><a class="btn" href="#/markets">View markets</a></div>
       </section>
       <section class="grid" style="grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
-        <a class="card tile" href="#/cloud"><div class="ic">▣</div><h3>Cloud</h3><p class="muted">Tiny containers free with ads, full VMs from $9/mo. Private VPN and custom domains.</p></a>
-        <a class="card tile" href="#/markets"><div class="ic">⇄</div><h3>Exchange</h3><p class="muted">Spot BTC, ETH and SOL against USDT. Deposit and withdraw on-chain.</p></a>
-        <a class="card tile" href="#/futures/BTC"><div class="ic">↗</div><h3>Derivatives</h3><p class="muted">USDT-margined perpetuals up to 20x, and daily/weekly options.</p></a>
-        <a class="card tile" href="#/cards"><div class="ic">🂠</div><h3>Cards</h3><p class="muted">Sealed boxes, packs and graded singles, grouped by game and series.</p></a>
+        ${registries.homeTiles.map((t) => `<a class="card tile" href="${esc(t.href)}"><div class="ic">${t.icon || ''}</div><h3>${esc(t.title)}</h3><p class="muted">${esc(t.text)}</p></a>`).join('')}
       </section>`;
   });
-
-  function authPage(mode) {
-    return async (view) => {
-      if (S.user) { location.hash = '#/wallet'; return; }
-      const reg = mode === 'register';
-      view.innerHTML = `
-        <form class="auth card">
-          <h2>${reg ? 'Create your account' : 'Welcome back'}</h2>
-          <label>Email</label><input name="email" type="email" autocomplete="email" required />
-          <label>Password</label><input name="password" type="password" minlength="8" autocomplete="${reg ? 'new-password' : 'current-password'}" required />
-          <div class="row" style="margin-top:18px"><button class="btn primary" type="submit">${reg ? 'Sign up' : 'Log in'}</button></div>
-          <p class="muted">${reg ? 'Already have an account? <a href="#/login">Log in</a>' : 'New here? <a href="#/register">Create an account</a>'}</p>
-        </form>`;
-      const form = $('form', view);
-      form.onsubmit = (e) => {
-        e.preventDefault();
-        busy($('button', form), async () => {
-          const r = await api('POST', `/auth/${mode}`, { email: form.email.value, password: form.password.value });
-          setSession(r.token, r.user);
-          const next = sessionStorage.getItem('tb_after_login'); sessionStorage.removeItem('tb_after_login');
-          location.hash = next || '#/wallet';
-        });
-      };
-    };
-  }
-  route(/^\/login$/, authPage('login'));
-  route(/^\/register$/, authPage('register'));
-
-  route(/^\/account$/, needAuth(async (view) => {
-    const { orders } = await api('GET', '/shop/orders');
-    view.innerHTML = `
-      <div class="section-head"><h1>Account</h1></div>
-      <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr))">
-        <form class="card" id="pwf"><h3>Change password</h3><p class="muted">${esc(S.user.email)}</p>
-          <label>Current password</label><input type="password" name="current" required />
-          <label>New password</label><input type="password" name="password" minlength="8" required />
-          <div style="margin-top:14px"><button class="btn">Update</button></div></form>
-        <div class="card"><h3>Cloud orders</h3>
-          ${orders.length ? `<table class="t">${orders.map((o) => `<tr><td>#${o.id}</td><td>${esc(o.kind)} ${esc(o.plan_id)}</td><td>${fmt.money(o.amount_cents)}</td><td><span class="badge ${o.status === 'fulfilled' ? 'active' : o.status === 'failed' ? 'error' : ''}">${esc(o.status)}</span></td></tr>`).join('')}</table>` : '<p class="muted">No orders yet.</p>'}
-        </div>
-      </div>`;
-    const f = $('#pwf');
-    f.onsubmit = (e) => { e.preventDefault(); busy($('button', f), async () => { await api('POST', '/auth/change-password', { current: f.current.value, password: f.password.value }); f.reset(); toast('Password updated'); }); };
-  }));
 
   route(/^\/terms$/, async (view) => {
     view.innerHTML = `<div class="card" style="max-width:820px"><h1>Terms, fair use &amp; risk</h1>
@@ -252,21 +232,36 @@
       <tr><td>Cloud</td><td>Plan price only – pay by card or from your wallet</td></tr></table></div>`;
   });
 
-  function start() {
+  function loadScript(src) {
+    return new Promise((resolve) => { const el = document.createElement('script'); el.src = src; el.onload = resolve; el.onerror = () => { console.error('failed to load module', src); resolve(); }; document.head.appendChild(el); });
+  }
+  function applyBranding(site) {
+    if (!site) return;
+    $$('.brand-name').forEach((el) => (el.textContent = site.brand));
+    document.title = site.brand;
+    if (site.branding) {
+      const b = site.branding;
+      for (const [k, v] of Object.entries(b.colors || {})) document.documentElement.style.setProperty(`--${k}`, v);
+      if (b.logo_url) $('.logo .cube').outerHTML = `<img src="${esc(b.logo_url)}" alt="" style="height:22px;vertical-align:middle">`;
+    }
+  }
+
+  async function start() {
     $('#year').textContent = new Date().getFullYear();
     $('#burger').onclick = () => { const t = $('#top'); t.classList.toggle('open'); $('#burger').setAttribute('aria-expanded', t.classList.contains('open')); };
     $('#megaPanel').onmouseleave = () => { if (matchMedia('(min-width: 901px)').matches) showMega(null); };
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { showMega(null); $('#modal').hidden = true; } });
     document.addEventListener('click', (e) => { if (openSection && !e.target.closest('#megaPanel') && !e.target.closest('#mega')) showMega(null); });
     window.addEventListener('hashchange', render);
-    api('GET', '/site').then((s) => {
-      S.site = s;
-      $$('.brand-name').forEach((el) => (el.textContent = s.brand));
-      document.title = s.brand;
-    }).catch(() => {});
+    try { S.site = await api('GET', '/site'); applyBranding(S.site); } catch {}
+    // Plugin front-end modules (declared by backend plugins) load before the first render.
+    for (const m of S.site?.modules || []) await loadScript(m.startsWith('/') ? m : '/' + m);
     refreshTicker(); setInterval(refreshTicker, 3000);
     render();
   }
 
-  window.App = { $, $$, esc, fmt, api, S, toast, busy, modal, adSlot, sparkline, route, every, query, needAuth, setSession, refreshWalletChip, render, start };
+  window.App = {
+    $, $$, esc, fmt, api, S, toast, busy, modal, adSlot, sparkline, route, every, query, needAuth, setSession, logout, refreshWalletChip, render, start,
+    registries, registerSection, addMenuColumn, addMenuLink, registerAdminTab, registerAccountPanel, registerHeaderWidget, registerHomeTile, applyBranding,
+  };
 })();

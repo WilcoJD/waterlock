@@ -14,7 +14,7 @@ const { atomic } = require('../atomic');
 const { parseOrderInput } = require('./book');
 
 class CardsExchange {
-  constructor({ db, book }) { this.db = db; this.book = book; }
+  constructor({ db, book, events = null }) { this.db = db; this.book = book; this.events = events || { emit() {} }; }
 
   catalog() {
     const games = this.db.prepare('SELECT * FROM card_games ORDER BY sort').all();
@@ -73,7 +73,9 @@ class CardsExchange {
         if (!r.changes) throw new HttpError(400, "You don't own enough of this item");
       }
       const id = Number(this.db.prepare('INSERT INTO card_requests (user_id, kind, sku, qty, address, note) VALUES (?,?,?,?,?,?)').run(userId, kind, sku, qty, address || null, note || null).lastInsertRowid);
-      return this.db.prepare('SELECT * FROM card_requests WHERE id=?').get(id);
+      const row = this.db.prepare('SELECT * FROM card_requests WHERE id=?').get(id);
+      this.events.emit('cards.request.created', { request: row, userId });
+      return row;
     });
   }
   requests(userId) {
@@ -107,7 +109,9 @@ class CardsExchange {
       }
       this.db.prepare('UPDATE card_requests SET status=?, tracking=?, note=COALESCE(?, note), result=? WHERE id=?')
         .run(reject ? 'rejected' : 'completed', tracking || null, note || null, pulls ? JSON.stringify(pulls) : null, id);
-      return this.db.prepare('SELECT * FROM card_requests WHERE id=?').get(id);
+      const row = this.db.prepare('SELECT * FROM card_requests WHERE id=?').get(id);
+      this.events.emit('cards.request.completed', { request: row, userId: r.user_id, rejected: !!reject });
+      return row;
     });
   }
 }

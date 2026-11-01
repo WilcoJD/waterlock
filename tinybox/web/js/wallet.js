@@ -74,3 +74,21 @@
     }
   }));
 })();
+
+/* Admin: wallet operations tab */
+(() => {
+  'use strict';
+  const { $, esc, fmt, api, toast, busy, registerAdminTab } = App;
+  registerAdminTab({ id: 'wallet', label: 'Wallet', order: 30, async render(pane) {
+    const w = await api('GET', '/admin/wallet');
+    pane.innerHTML = `<div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(340px,1fr))">
+      <div class="card"><h3>Platform accounts</h3><p class="muted">Backend: ${esc(w.backend)}. Negative house balances = paid out more than collected.</p><table class="t">${w.house.map((h) => `<tr><td class="mono">${esc(h.owner)}</td><td>${esc(h.asset)}</td><td class="num mono ${Number(h.balance) < 0 ? 'down' : ''}">${fmt.num(h.balance)}</td></tr>`).join('')}</table></div>
+      <div class="card"><h3>Manual deposit</h3><label>User ID</label><input id="cu" type="number" /><label>Asset</label><input id="ca" value="USDT" /><label>Amount</label><input id="cm" /><label>Reference</label><input id="cr" placeholder="tx hash / bank ref" /><div style="margin-top:12px"><button class="btn" id="cgo">Credit</button></div></div>
+    </div>
+    <div class="card" style="margin-top:14px"><h3>Pending withdrawals</h3>${w.pending_withdrawals.length ? `<table class="t"><tr><th>#</th><th>User</th><th>Amount</th><th>Network</th><th>Address</th><th></th></tr>${w.pending_withdrawals.map((x) => `<tr><td>${x.id}</td><td>${esc(x.email)}</td><td>${fmt.num(x.amount)} ${esc(x.asset)}</td><td>${esc(x.chain)}</td><td class="mono">${esc(x.address)}</td><td class="num"><button class="btn small primary" data-ok="${x.id}">Mark sent</button> <button class="btn small danger" data-no="${x.id}">Reject</button></td></tr>`).join('')}</table>` : '<p class="muted">None.</p>'}</div>
+    ${w.outbox.length ? `<div class="card" style="margin-top:14px"><h3>Payout retry queue</h3><table class="t">${w.outbox.map((o) => `<tr><td>${esc(o.src)} → ${esc(o.dst)}</td><td>${fmt.num(o.amount)} ${esc(o.asset)}</td><td>${o.attempts} tries</td><td class="muted">${esc(o.last_error)}</td></tr>`).join('')}</table></div>` : ''}`;
+    $('#cgo').onclick = (e) => busy(e.currentTarget, async () => { await api('POST', '/admin/wallet/credit', { user_id: Number($('#cu').value), asset: $('#ca').value, amount: $('#cm').value, ref: $('#cr').value }); toast('Credited'); App.render(); });
+    pane.querySelectorAll('[data-ok]').forEach((b) => (b.onclick = () => { const txid = prompt('Transaction hash (optional)'); busy(b, async () => { await api('POST', `/admin/withdrawals/${b.dataset.ok}/approve`, { txid }); App.render(); }); }));
+    pane.querySelectorAll('[data-no]').forEach((b) => (b.onclick = () => confirm('Reject and refund?') && busy(b, async () => { await api('POST', `/admin/withdrawals/${b.dataset.no}/reject`); App.render(); })));
+  } });
+})();

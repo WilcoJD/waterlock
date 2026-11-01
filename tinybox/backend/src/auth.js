@@ -22,11 +22,20 @@ function makeAuth({ db, config }) {
     }
   }
 
+  /** Returns the user for a JWT, or null. Used by WebSocket upgrades and plugins. */
+  function verifyToken(token) {
+    try {
+      const { sub } = jwt.verify(token, config.jwtSecret);
+      const user = db.prepare('SELECT id, email, is_admin, banned FROM users WHERE id=?').get(sub);
+      return user && !user.banned ? user : null;
+    } catch { return null; }
+  }
+
   function requireAdmin(req, res, next) {
     requireAuth(req, res, () => (req.user.is_admin ? next() : res.status(403).json({ error: 'Admins only' })));
   }
 
-  return { sign, requireAuth, requireAdmin };
+  return { sign, verifyToken, requireAuth, requireAdmin };
 }
 
 module.exports = { makeAuth };

@@ -19,8 +19,9 @@ const ESCROW = 'sys:escrow';
 const FEES = 'sys:fees';
 
 class OrderBook {
-  constructor({ db, wallet, log = console }) {
+  constructor({ db, wallet, log = console, events = null }) {
     this.db = db; this.wallet = wallet; this.log = log;
+    this.events = events || { emit() {} };
     this.mutex = new KeyedMutex();
     this.listeners = new Set();
   }
@@ -125,7 +126,10 @@ class OrderBook {
       }
       for (const p of pay) await this.wallet.payout(p);
       this._emit(m.id);
-      return this.present(order, m);
+      const presented = this.present(order, m);
+      this.events.emit('order.placed', { order: presented, userId, market: m });
+      if (order.filled > 0) this.events.emit('order.filled', { order: presented, userId, market: m, fills: this.db.prepare('SELECT * FROM book_fills WHERE market=? AND (buy_order=? OR sell_order=?) ORDER BY id DESC').all(m.id, order.id, order.id) });
+      return presented;
     });
   }
 
@@ -189,6 +193,7 @@ class OrderBook {
       });
       for (const p of pay) await this.wallet.payout(p);
       this._emit(m.id);
+      this.events.emit('order.cancelled', { orderId, userId: o0.user_id, market: m });
       return { ok: true };
     });
   }

@@ -2,7 +2,7 @@
 const express = require('express');
 const { HttpError } = require('../provisioner');
 
-module.exports = function shopRoutes({ db, config, auth, prov, stripe, wallet }) {
+module.exports = function shopRoutes({ db, config, auth, prov, stripe, wallet, hooks, events }) {
   const r = express.Router();
 
   const publicPlan = (p) => ({
@@ -48,6 +48,7 @@ module.exports = function shopRoutes({ db, config, auth, prov, stripe, wallet })
     if (kind === 'upgrade') amount = Math.max(50, plan.price_cents - prov.plan(prov.server(serverId).plan_id).price_cents);
 
     const payWith = body.pay_with === 'wallet' ? 'wallet' : 'card';
+    await hooks.run('cloud.checkout.before', { userId: req.user.id, user: req.user, plan, kind, serverId, amountCents: amount, payWith, req });
     const info = db.prepare('INSERT INTO orders (user_id, plan_id, server_id, kind, amount_cents, meta, pay_with) VALUES (?,?,?,?,?,?,?)')
       .run(req.user.id, plan.id, serverId, kind, amount, meta, payWith);
     const orderId = Number(info.lastInsertRowid);

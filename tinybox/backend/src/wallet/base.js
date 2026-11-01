@@ -12,7 +12,7 @@ const userOwner = (userId) => (userId === 0 ? 'sys:mm' : `u:${userId}`);
  * retry outbox so a temporary failure never loses a user's money.
  */
 class WalletBase {
-  constructor({ db, log = console }) { this.db = db; this.log = log; }
+  constructor({ db, log = console }) { this.db = db; this.log = log; this.events = { emit() {} }; }
 
   assets() {
     return this.db.prepare('SELECT * FROM assets ORDER BY sort').all().map((a) => ({
@@ -28,6 +28,7 @@ class WalletBase {
   /** Audit log of every movement we initiate (and the ledger itself for the local backend). */
   _log(tx, owner, asset, delta, kind, ref) {
     this.db.prepare('INSERT INTO wallet_entries (tx, owner, asset, delta, kind, ref) VALUES (?,?,?,?,?,?)').run(tx, owner, asset, delta, kind, ref || null);
+    if (owner.startsWith('u:')) this.events.emit('wallet.transfer', { userId: Number(owner.slice(2)), asset, delta, kind, ref, tx });
   }
   newTx() { return crypto.randomUUID(); }
 

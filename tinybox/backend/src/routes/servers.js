@@ -3,7 +3,7 @@ const express = require('express');
 const rateLimit = require('express-rate-limit');
 const { HttpError } = require('../provisioner');
 
-module.exports = function serverRoutes({ db, auth, prov }) {
+module.exports = function serverRoutes({ db, auth, prov, hooks }) {
   const r = express.Router();
   r.use(auth.requireAuth);
   const createLimiter = rateLimit({ windowMs: 60 * 60 * 1000, limit: 10, keyGenerator: (req) => String(req.user.id) });
@@ -21,6 +21,7 @@ module.exports = function serverRoutes({ db, auth, prov }) {
 
   // Only the free plan can be created directly; paid plans go through the shop.
   r.post('/free', createLimiter, async (req, res) => {
+    await hooks.run('cloud.free.before', { userId: req.user.id, user: req.user, body: req.body, req });
     const { server, rootPassword } = await prov.createServer(req.user.id, 'free', { hostname: req.body.hostname, sshKey: req.body.ssh_key });
     res.status(201).json({ server: prov.present(server), root_password: rootPassword });
   });

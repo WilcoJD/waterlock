@@ -29,8 +29,9 @@ function blackScholes(kind, S, K, T, vol) {
 const YEAR_MS = 365 * 24 * 3600e3;
 
 class OptionsEngine {
-  constructor({ db, wallet, oracle, config, log = console }) {
+  constructor({ db, wallet, oracle, config, log = console, events = null }) {
     this.db = db; this.wallet = wallet; this.oracle = oracle; this.log = log;
+    this.events = events || { emit() {} };
     this.c = config.options;
   }
 
@@ -94,7 +95,9 @@ class OptionsEngine {
     await this.wallet.transfer({ src: userOwner(userId), dst: 'sys:options', asset: 'USDT', amount: premium + fee, kind: 'options', ref: `buy ${symbol} ${strike} ${kind}` });
     if (fee) await this.wallet.payout({ src: 'sys:options', dst: 'sys:fees', asset: 'USDT', amount: fee, kind: 'fee', ref: 'options' });
     const id = Number(this.db.prepare('INSERT INTO option_positions (user_id,symbol,kind,strike,expiry,qty,premium) VALUES (?,?,?,?,?,?,?)').run(userId, symbol, kind, strike, expiry, qty, premium).lastInsertRowid);
-    return this.present(this.db.prepare('SELECT * FROM option_positions WHERE id=?').get(id));
+    const pos = this.present(this.db.prepare('SELECT * FROM option_positions WHERE id=?').get(id));
+    this.events.emit('options.bought', { position: pos, userId });
+    return pos;
   }
 
   /** Sell back to the platform at the current bid. */
@@ -107,7 +110,9 @@ class OptionsEngine {
     const r = this.db.prepare("UPDATE option_positions SET status='closed', payout=?, settle_price=?, closed_at=datetime('now') WHERE id=? AND status='open'").run(value, q.spot, id);
     if (!r.changes) throw new HttpError(409, 'Already closed');
     await this.wallet.payout({ src: 'sys:options', dst: userOwner(userId), asset: 'USDT', amount: value, kind: 'options', ref: `close #${id}` });
-    return this.present(this.db.prepare('SELECT * FROM option_positions WHERE id=?').get(id));
+    const pos = this.present(this.db.prepare('SELECT * FROM option_positions WHERE id=?').get(id));
+    this.events.emit('options.closed', { position: pos, userId });
+    return pos;
   }
 
   /** Cash-settle everything past expiry at the current index. Run every minute. */
@@ -119,6 +124,7 @@ class OptionsEngine {
       const payout = Math.round(intrinsic * p.qty * 1e8);
       const r = this.db.prepare("UPDATE option_positions SET status='settled', payout=?, settle_price=?, closed_at=datetime('now') WHERE id=? AND status='open'").run(payout, S, p.id);
       if (r.changes && payout > 0) await this.wallet.payout({ src: 'sys:options', dst: userOwner(p.user_id), asset: 'USDT', amount: payout, kind: 'options', ref: `settle #${p.id}` });
+      if (r.changes) this.events.emit('options.settled', { position: this.present(this.db.prepare('SELECT * FROM option_positions WHERE id=?').get(p.id)), userId: p.user_id, payout });
     }
   }
 

@@ -116,6 +116,8 @@ const config = {
     maxPremiumPerUser: num(env.OPTIONS_MAX_PREMIUM, 10000),
   },
 
+  plugins: { strict: bool(env.PLUGINS_STRICT, process.env.NODE_ENV === 'production') },
+
   admob: {
     adUnitIds: list(env.ADMOB_AD_UNIT_IDS),
     allowDevRewards: bool(env.ALLOW_DEV_REWARDS, false),
@@ -130,3 +132,4 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 module.exports = config;
+module.exports.helpers = { num, bool, list };

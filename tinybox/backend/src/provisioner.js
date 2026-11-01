@@ -23,8 +23,9 @@ const HOSTNAME_RE = /^[a-z0-9]([a-z0-9-]{0,30}[a-z0-9])?$/;
 const SSH_KEY_RE = /^(ssh-(ed25519|rsa)|ecdsa-sha2-nistp(256|384|521)|sk-ssh-ed25519@openssh\.com) [A-Za-z0-9+/=]+( [^\r\n]{0,200})?$/;
 
 class Provisioner {
-  constructor({ db, pve, providers, gateway, config, log = console }) {
+  constructor({ db, pve, providers, gateway, config, log = console, events = null }) {
     this.db = db; this.pve = pve; this.providers = providers; this.gateway = gateway; this.config = config; this.log = log;
+    this.events = events || { emit() {} };
     this.lock = Promise.resolve(); // serialises VMID allocation
     this.onServersChanged = async () => {}; // set by the VPN service
   }
@@ -105,6 +106,7 @@ class Provisioner {
     const rootPassword = randomPassword();
 
     // Fire and forget; client polls server state.
+    this.events.emit('server.created', { server: this.server(id), userId, planId: plan.id });
     this._provision(id, { password: rootPassword, sshKey, plan }).catch(() => {});
     return { server: this.server(id), rootPassword };
   }
@@ -118,10 +120,12 @@ class Provisioner {
       await this._expose(this.server(id), r);
       this.db.prepare("UPDATE servers SET state='active', error=NULL WHERE id=? AND state='provisioning'").run(id);
       this.log.info?.(`[provision] server ${id} (${server.provider}) ready on ${r.node}`);
+      this.events.emit('server.ready', { server: this.server(id), userId: server.user_id });
       await this.onServersChanged(server.user_id).catch((e) => this.log.error?.('[vpn]', e.message));
     } catch (e) {
       this.log.error?.(`[provision] server ${id} failed:`, e.message);
       this.db.prepare("UPDATE servers SET state='error', error=? WHERE id=?").run('Provisioning failed. Delete and try again, or contact support.', id);
+      this.events.emit('server.error', { server: this.server(id), userId: server.user_id, error: e.message });
     }
   }
 
@@ -165,6 +169,7 @@ class Provisioner {
       await this.provider(server).destroy(server);
       if (this.gateway) await this.gateway.unexpose(`s${server.id}`);
       this.db.prepare("UPDATE servers SET state='deleted', deleted_at=datetime('now'), vmid=NULL WHERE id=?").run(server.id);
+      this.events.emit('server.deleted', { server: { ...server, state: 'deleted' }, userId: server.user_id });
       await this.onServersChanged(server.user_id).catch(() => {});
     } catch (e) {
       this.log.error?.(`[destroy] server ${server.id}:`, e.message);
@@ -220,7 +225,9 @@ class Provisioner {
       this.log.error?.(`[order] ${orderId} fulfilment failed:`, e.message);
       this.db.prepare("UPDATE orders SET status='failed' WHERE id=?").run(orderId);
     }
-    return this.db.prepare('SELECT * FROM orders WHERE id=?').get(orderId);
+    const done = this.db.prepare('SELECT * FROM orders WHERE id=?').get(orderId);
+    this.events.emit('order.fulfilled', { order: done, userId: done.user_id });
+    return done;
   }
 
   /**
@@ -241,6 +248,7 @@ class Provisioner {
           await this.provider(s).action(s, 'stop').catch(() => {});
           this.db.prepare("UPDATE servers SET state='suspended' WHERE id=?").run(s.id);
           this.log.info?.(`[reaper] suspended server ${s.id}`);
+          this.events.emit('server.suspended', { server: this.server(s.id), userId: s.user_id });
         }
       } catch (e) {
         this.log.error?.(`[reaper] server ${s.id}:`, e.message);

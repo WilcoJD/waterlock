@@ -4,7 +4,7 @@ const rateLimit = require('express-rate-limit');
 const { HttpError } = require('../provisioner');
 const { toUnits, fromUnits } = require('../money');
 
-module.exports = function walletRoutes({ db, config, auth, wallet, perps, options, cards }) {
+module.exports = function walletRoutes({ db, config, auth, wallet, perps, options, cards, hooks }) {
   const r = express.Router();
   r.use(auth.requireAuth);
   const wdLimit = rateLimit({ windowMs: 60 * 60 * 1000, limit: 20, keyGenerator: (req) => String(req.user.id) });
@@ -40,7 +40,9 @@ module.exports = function walletRoutes({ db, config, auth, wallet, perps, option
 
   r.post('/withdraw', wdLimit, async (req, res) => {
     const a = wallet.asset(req.body.asset);
-    const id = await wallet.requestWithdraw(req.user.id, { asset: a.symbol, chain: String(req.body.chain || ''), address: String(req.body.address || '').trim(), amount: toUnits(String(req.body.amount)) });
+    const payload = { userId: req.user.id, user: req.user, asset: a.symbol, chain: String(req.body.chain || ''), address: String(req.body.address || '').trim(), amount: toUnits(String(req.body.amount)), req };
+    await hooks.run('withdraw.before', payload);
+    const id = await wallet.requestWithdraw(req.user.id, { asset: payload.asset, chain: payload.chain, address: payload.address, amount: payload.amount });
     res.status(201).json({ id, withdrawals: wallet.withdrawals(req.user.id) });
   });
   r.get('/withdrawals', (req, res) => res.json({ withdrawals: wallet.withdrawals(req.user.id) }));
