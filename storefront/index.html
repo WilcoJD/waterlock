@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kestrel Hosting</title>
+  <meta name="description" content="Domains, VPS, web hosting and email with a fast, simple checkout.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="topbar">
+    <div class="wrap topbar-inner">
+      <span>UK-based support 24/7 · 0800 000 0000</span>
+      <label class="vat-toggle"><input type="checkbox" id="vatToggle"> Show prices inc. VAT</label>
+    </div>
+  </div>
+
+  <header class="header">
+    <div class="wrap header-inner">
+      <a href="#/" class="logo" aria-label="Kestrel Hosting home">
+        <svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true"><path d="M4 22 L16 6 L28 22 L22 22 L16 14 L10 22 Z" fill="currentColor"/><rect x="4" y="24" width="24" height="3" rx="1.5" fill="currentColor" opacity=".5"/></svg>
+        <span>Kestrel</span>
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">☰</button>
+      <nav class="nav" id="nav">
+        <a href="#/domains">Domains</a>
+        <a href="#/hosting">Web Hosting</a>
+        <a href="#/vps">VPS</a>
+        <a href="#/dedicated">Dedicated</a>
+        <a href="#/email">Email</a>
+        <a href="#/ssl">SSL</a>
+      </nav>
+      <div class="header-actions">
+        <a href="#/login" class="link-muted">Log in</a>
+        <button class="cart-btn" id="cartBtn" aria-label="Open basket">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6h15l-1.5 9h-12z"/><path d="M6 6 5 3H2"/><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/></svg>
+          <span class="cart-count" id="cartCount">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="footer">
+    <div class="wrap footer-grid">
+      <div>
+        <div class="logo logo-footer"><span>Kestrel</span></div>
+        <p class="muted">Domains, hosting and servers from UK data centres.</p>
+      </div>
+      <div><h4>Products</h4><a href="#/domains">Domains</a><a href="#/hosting">Web Hosting</a><a href="#/vps">VPS</a><a href="#/dedicated">Dedicated Servers</a></div>
+      <div><h4>More</h4><a href="#/email">Business Email</a><a href="#/ssl">SSL Certificates</a><a href="#/domains">Domain Transfers</a></div>
+      <div><h4>Help</h4><a href="#/">Support centre</a><a href="#/">Contact us</a><a href="#/">Service status</a></div>
+    </div>
+    <div class="wrap footer-base muted">© <span id="year"></span> Kestrel Hosting (demo storefront). Prices shown ex. VAT unless toggled.</div>
+  </footer>
+
+  <!-- Basket drawer -->
+  <div class="drawer-backdrop" id="drawerBackdrop" hidden></div>
+  <aside class="drawer" id="drawer" aria-label="Basket" aria-hidden="true">
+    <div class="drawer-head">
+      <h3>Your basket</h3>
+      <button class="icon-btn" id="drawerClose" aria-label="Close basket">✕</button>
+    </div>
+    <div class="drawer-body" id="drawerBody"></div>
+    <div class="drawer-foot" id="drawerFoot"></div>
+  </aside>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
