@@ -1,0 +1,442 @@
+3D Printers	Original Prusa i3	prusa3d/Original-Prusa-i3	Sell assembled i3-style printers and spare parts kits to schools and makers
+3D Printers	Prusa Firmware Buddy	prusa3d/Prusa-Firmware-Buddy	Offer printer refurbishment and firmware upgrade service for MK4/XL fleets; NC terms in repo, license before selling
+3D Printers	Voron 2.4	VoronDesign/Voron-2	Sell sourced Voron 2.4 kits plus paid build-and-tune service
+3D Printers	Voron Trident	VoronDesign/Voron-Trident	Build turnkey Trident printers for small print farms with warranty
+3D Printers	Voron 0	VoronDesign/Voron-0	Sell compact V0 kits and printed-parts packs to hobbyists
+3D Printers	Voron Switchwire	VoronDesign/Voron-Switchwire	Offer Ender-to-Switchwire conversion kits and installation
+3D Printers	Voron Stealthburner	VoronDesign/Voron-Stealthburner	Sell printed toolhead kits with LEDs and wiring harnesses
+3D Printers	Klipper	Klipper3d/klipper	Retrofit customer printers with Klipper boards for speed upgrades
+3D Printers	Marlin	MarlinFirmware/Marlin	Local printer repair shop flashing and upgrading Marlin machines
+3D Printers	Bear Upgrade	gregsaun/prusa_i3_bear_upgrade	Sell aluminum Bear frame kits for Prusa MK3 owners
+3D Printers	Enraged Rabbit Carrot Feeder	EtteGit/EnragedRabbitProject	Sell multi-material ERCF kits and install them on Vorons
+3D Printers	Box Turtle	ArmoredTurtle/BoxTurtle	Sell assembled multi-filament changers for Klipper printers
+3D Printers	Happy Hare	moggieuk/Happy-Hare	Offer MMU setup and calibration service for print farms
+3D Printers	OctoPrint	OctoPrint/OctoPrint	Sell plug-and-play Pi print servers with cameras preinstalled
+3D Printers	Mainsail	mainsail-crew/mainsail	Bundle touchscreen control units with Mainsail for printer retrofits
+3D Printers	RatOS	Rat-OS/RatOS	Sell preconfigured control boards for Rat Rig style printers
+CNC & Laser Cutters	GRBL	gnea/grbl	Sell small desktop CNC routers with GRBL controllers for sign shops
+CNC & Laser Cutters	grblHAL	grblHAL/core	Retrofit old industrial mills with grblHAL controller boards
+CNC & Laser Cutters	FluidNC	bdring/FluidNC	Sell WiFi CNC controller boards with config support
+CNC & Laser Cutters	MPCNC Primo	V1EngineeringInc/MPCNC_Primo	Sell MPCNC hardware kits and run local CNC build workshops; NC terms in repo, license before selling
+CNC & Laser Cutters	PrintNC	threedesigns/printNC	Fabricate steel PrintNC frames to order for small machine shops
+CNC & Laser Cutters	LinuxCNC	LinuxCNC/linuxcnc	Retrofit legacy lathes and mills with LinuxCNC control cabinets
+CNC & Laser Cutters	Lasersaur	nortd/lasersaur	Build large-format laser cutters for makerspaces and schools
+CNC & Laser Cutters	LaserDuo	fab-machines/LaserDuo	Manufacture dual laser cutters for fab labs
+CNC & Laser Cutters	MeerK40t	meerk40t/meerk40t	Upgrade and service cheap K40 lasers for small engraving businesses
+CNC & Laser Cutters	LaserGRBL	arkypita/LaserGRBL	Run a custom laser engraving shop for gifts and signage
+CNC & Laser Cutters	Maslow CNC	MaslowCNC/Firmware	Sell vertical sheet-goods CNC kits to woodworkers
+CNC & Laser Cutters	Deepnest	Jack000/Deepnest	Offer nesting-optimized laser/plasma cutting job service
+CNC & Laser Cutters	Universal G-code Sender	winder/Universal-G-Code-Sender	Bundle CNC machines with preconfigured control laptops and training
+3D Printable Designs	Gridfinity Rebuilt	kennetek/gridfinity-rebuilt-openscad	Sell printed custom Gridfinity storage bins and drawer inserts
+3D Printable Designs	Gridfinity Extended	ostat/gridfinity_extended_openscad	Print-on-demand workshop organizer sets for tradespeople
+3D Printable Designs	cq-gridfinity	michaelgale/cq-gridfinity	Generate custom-fit toolbox inserts as a paid service
+3D Printable Designs	BOSL2	BelfrySCAD/BOSL2	Offer parametric replacement-part printing service
+3D Printable Designs	NopSCADlib	nophead/NopSCADlib	Design and print custom electronics enclosures for small firms
+3D Printable Designs	threads-scad	rcolyer/threads-scad	Print custom threaded caps and fittings on demand
+3D Printable Designs	CadQuery	CadQuery/cadquery	Sell parametric configurable products made to customer dimensions
+3D Printable Designs	build123d	gumyr/build123d	Run a custom part design-and-print bureau
+3D Printable Designs	OpenSCAD	openscad/openscad	Sell personalized printed products via online customizer storefront
+Furniture & Housing	WikiHouse Skylark	wikihouseproject/Skylark	CNC-cut Skylark building kits and offer local self-build assembly
+Furniture & Housing	WikiHouse Wren	wikihouseproject/Wren	Fabricate garden studios from plywood frame kits
+Furniture & Housing	Hyperwood	jo/hyperwood	Sell flat-pack slat furniture made from standard lumber
+Furniture & Housing	Open Source Furniture	steiza/open_source_furniture	Build and sell simple plywood furniture in a local workshop
+Furniture & Housing	SketchChair	DiatomStudio/SketchChair	Sell customer-designed CNC-cut chairs
+Furniture & Housing	Panelizer	pelletier197/Panelizer	Offer custom cabinet panel cutting service for DIY renovators
+Furniture & Housing	WikiHouse Plugin	tav/wikihouse-plugin	Design-and-cut service for custom WikiHouse sheds
+Tiny Homes & Shelters	Open Source Tiny Home	EddieOne/open-source-tiny-home	Build tiny homes on trailers to order using open plans
+Tiny Homes & Shelters	Scaffold Tiny House	NicklasVraa/Scaffold	Sell tiny-house shell builds and plan customization
+Tiny Homes & Shelters	Pionierswoning WikiHouse	VincentMuller/Pionierswoning-WikiHouse	Develop small affordable WikiHouse-based starter homes
+Tiny Homes & Shelters	Alex Wikished	WikihouseUS/Alex-Wikished	Sell flat-pack backyard sheds and offices
+Solar & Energy Systems	emonPi	openenergymonitor/emonpi	Install home energy monitors for solar owners with subscription support
+Solar & Energy Systems	EmonLib	openenergymonitor/EmonLib	Sell energy-monitoring clamp kits to small businesses
+Solar & Energy Systems	emonhub	openenergymonitor/emonhub	Offer energy audits with installed monitoring gateways
+Solar & Energy Systems	Libre Solar MPPT	LibreSolar/mppt-2420-hc	Manufacture MPPT charge controllers for off-grid kits
+Solar & Energy Systems	Libre Solar Charge Firmware	LibreSolar/charge-controller-firmware	Sell off-grid solar home systems in rural markets
+Solar & Energy Systems	OpenDTU	tbnobody/OpenDTU	Sell preflashed micro-inverter monitoring gateways for balcony solar
+Solar & Energy Systems	AhoyDTU	lumapu/ahoy	Sell plug-in balcony solar kits with local monitoring; CC-BY-NC: get permission for commercial sale
+Solar & Energy Systems	Freifunk Open MPPT	elektra42/freifunk-open-mppt	Build solar-powered mesh router stations for villages
+Solar & Energy Systems	SkyeTracker	ClassicDIY/SkyeTracker	Install dual-axis solar trackers for farms
+Solar & Energy Systems	Arduino MPPT	aplavins/Arduino-MPPT	Sell DIY MPPT controller kits for education
+Solar & Energy Systems	Victron Venus OS	victronenergy/venus	Install and monitor off-grid battery systems for cabins and boats
+Solar & Energy Systems	mpp-solar	jblance/mpp-solar	Offer remote monitoring for hybrid inverter installations
+Batteries & Storage	diyBMS v4	stuartpittaway/diyBMSv4ESP32	Build second-life battery packs with diyBMS for home storage; CC-BY-NC: get permission for commercial sale
+Batteries & Storage	foxBMS 2	foxBMS/foxbms-2	Develop custom BMS for small EV and storage OEMs
+Batteries & Storage	Battery Emulator	dalathegreat/Battery-Emulator	Repurpose used EV batteries into home storage with installation
+Batteries & Storage	dbus-serialbattery	Louisvdw/dbus-serialbattery	Integrate cheap BMS packs into Victron systems as a service
+Batteries & Storage	Arduino Spot Welder V3	KaeptnBalu/Arduino_Spot_Welder_V3	Sell battery spot welder kits to pack builders
+Batteries & Storage	Battery Pack Architect	LMF5000/battery-pack-architect	Offer custom 18650 pack building service
+EV Charging	OpenEVSE	OpenEVSE/open_evse	Assemble and install EV chargers with local electrician partnership
+EV Charging	OpenEVSE WiFi	OpenEVSE/openevse_esp32_firmware	Sell smart charging upgrades for existing EVSEs
+EV Charging	SmartEVSE 3	SmartEVSE/SmartEVSE-3	Install load-balanced chargers for apartment buildings
+EV Charging	evcc	evcc-io/evcc	Install solar-surplus EV charging systems for homeowners
+E-Bikes & EV Conversion	TSDZ2 Smart EBike	OpenSourceEBike/TSDZ2-Smart-EBike	Sell e-bike conversion kits with tuned open firmware installed
+E-Bikes & EV Conversion	TSDZ2 860C	emmebrusa/TSDZ2-Smart-EBike-860C	Offer TSDZ2 display flashing and tuning at a bike shop
+E-Bikes & EV Conversion	Bafang BBS02 Firmware	OpenSourceEBike/Bafang_BBS02_BBSHB	Convert customer bikes to Bafang mid-drives with custom tuning
+E-Bikes & EV Conversion	EBiCS	EBiCS/EBiCS_Firmware	Sell quiet FOC e-bike controllers for hub motors
+E-Bikes & EV Conversion	VESC Firmware	vedderb/bldc	Build electric skateboards and scooters with VESC controllers
+E-Bikes & EV Conversion	VESC Hardware	vedderb/bldc-hardware	Manufacture motor controllers for light EVs
+E-Bikes & EV Conversion	OpenInverter	jsphuebner/stm32-sine	Convert classic cars to electric with salvaged Tesla drive units
+E-Bikes & EV Conversion	Hoverboard FOC	EFeru/hoverboard-firmware-hack-FOC	Turn salvaged hoverboards into carts and mobility kits
+E-Bikes & EV Conversion	M365 Firmware Patcher	BotoX/xiaomi-m365-firmware-patcher	Run e-scooter repair and upgrade shop
+E-Bikes & EV Conversion	SavvyCAN	collin80/SavvyCAN	Offer CAN-bus diagnostics for EV conversion builders
+Motor Control	ODrive	odriverobotics/ODrive	Sell servo motor driver boards to robotics builders
+Motor Control	SimpleFOC	simplefoc/Arduino-FOC	Sell gimbal-motor FOC driver boards and kits
+Motor Control	moteus	mjbots/moteus	Sell high-torque actuators for legged robots
+Drones	PX4 Autopilot	PX4/PX4-Autopilot	Build survey drones for agriculture mapping services
+Drones	ArduPilot	ArduPilot/ardupilot	Sell crop-spraying drones with setup and pilot training
+Drones	Betaflight	betaflight/betaflight	Sell custom FPV racing quads and repair service
+Drones	INAV	iNavFlight/inav	Build long-range fixed-wing inspection drones
+Drones	ExpressLRS	ExpressLRS/ExpressLRS	Manufacture long-range radio receivers and modules
+Drones	EdgeTX	EdgeTX/edgetx	Sell preconfigured RC transmitters for drone beginners
+Drones	Crazyflie	bitcraze/crazyflie-firmware	Sell micro-drone swarm kits to universities
+Drones	QGroundControl	mavlink/qgroundcontrol	Offer drone inspection services with rugged ground stations
+Drones	OpenHD	OpenHD/OpenHD	Sell long-range HD video links for drones
+Drones	Bluejay ESC	bird-sanctuary/bluejay	Sell preflashed ESCs for FPV builders
+Robotics & Robot Arms	SO-ARM100	TheRobotStudio/SO-ARM100	Sell assembled low-cost robot arms for AI research labs
+Robotics & Robot Arms	LeRobot	huggingface/lerobot	Sell teleoperation arm kits with training data collection service
+Robotics & Robot Arms	Koch v1.1	jess-moss/koch-v1-1	Sell leader-follower arm kits to schools
+Robotics & Robot Arms	PAROL6	Source-Robotics/PAROL6-Desktop-robot-arm	Sell desktop 6-axis arms for light automation
+Robotics & Robot Arms	Thor	AngelLM/Thor	Sell printed robot arm kits for STEM programs
+Robotics & Robot Arms	BCN3D Moveo	BCN3D/BCN3D-Moveo	Sell educational robot arm kits to vocational schools
+Robotics & Robot Arms	OpenArm	enactic/openarm	Build humanoid-arm platforms for robotics startups
+Robotics & Robot Arms	XLeRobot	Vector-Wangel/XLeRobot	Sell low-cost home mobile manipulator kits
+Robotics & Robot Arms	ALOHA	tonyzhaozh/aloha	Build bimanual teleoperation rigs for labs
+Robotics & Robot Arms	ToddlerBot	hshi74/toddlerbot	Sell small humanoid research robots; NC terms in repo, license before selling
+Robotics & Robot Arms	Stanford Pupper	stanfordroboticsclub/StanfordQuadruped	Sell quadruped robot kits to classrooms
+Robotics & Robot Arms	Petoi OpenCat	PetoiCamp/OpenCat-Quadruped-Robot	Sell robot pet kits and coding workshops
+Robotics & Robot Arms	Poppy Humanoid	poppy-project/poppy-humanoid	Rent humanoid robots for exhibitions and education
+Robotics & Robot Arms	TurtleBot3	ROBOTIS-GIT/turtlebot3	Sell mobile robot platforms to universities
+Robotics & Robot Arms	Open Robot Actuator	open-dynamic-robot-initiative/open_robot_actuator_hardware	Manufacture brushless actuator modules for legged robots
+Farm Robots	FarmBot OS	FarmBot/farmbot_os	Install FarmBot gardens at schools with maintenance contracts
+Farm Robots	FarmBot Web App	FarmBot/Farmbot-Web-App	Offer managed FarmBot gardens for restaurants
+Farm Robots	FarmBot Arduino Firmware	FarmBot/farmbot-arduino-firmware	Sell replacement FarmBot electronics and parts
+Farm Robots	Acorn Robot	Twisted-Fields/acorn-robot-electronics	Build solar farm rovers for small vegetable farms
+Farm Robots	Autonomous Farm Robot	Dhruv2012/Autonomous-Farm-Robot	Develop weeding robots for local market growers
+Farm Robots	Open Autonomous Tractor	chobabo/open-autonomous-tractor	Retrofit small tractors for autonomous mowing service
+Agriculture Machinery	AgOpenGPS	AgOpenGPS-Official/AgOpenGPS	Install low-cost tractor autosteer kits for farmers
+Agriculture Machinery	AgOpenGPS Hardware	GormR/HW_for_AgOpenGPS	Assemble and sell RTK autosteer boxes to farms; NC terms in repo, license before selling
+Agriculture Machinery	AOG GPS ESP32	mtz8302/AOG_GPS_ESP32	Sell dual-GNSS heading receivers for tractors
+Agriculture Machinery	AOG Rate Control	SK21/AOG_RC	Install variable-rate fertilizer control on sprayers
+Agriculture Machinery	Tractor Fred Governor	philhoward/Tractor-Fred	Retrofit electronic governors on older tractors
+Agriculture Machinery	SIP Irrigation	Dan-in-CA/SIP	Install smart irrigation controllers for orchards
+Agriculture Machinery	Automated Garden	calvinmclean/automated-garden	Install weather-based irrigation for landscapers
+Hydroponics & Greenhouses	Mycodo	kizniche/Mycodo	Sell mushroom grow-room environmental controllers
+Hydroponics & Greenhouses	Hydruino	NachtRaveVL/Simple-Hydroponics-Arduino	Sell hydroponic dosing controllers to hobby growers
+Hydroponics & Greenhouses	GardenPi	rjsears/GardenPi	Install hydroponic and aquaponic automation for small farms
+Hydroponics & Greenhouses	OpenHydroponics	evandavey/OpenHydroponics	Build and sell aeroponic tower systems
+Hydroponics & Greenhouses	ESPonics	jjensn/esponics	Sell Home Assistant-ready hydroponic kits
+Hydroponics & Greenhouses	Hydroponics Controller ESP32	pcboy/hydroponics-controller	Sell nutrient monitoring kits for container farms
+Hydroponics & Greenhouses	Chiumanfu Aquaponic Controller	Chiumanfu/Chiumanfu-Aquaponic-Controller	Install aquaponic systems for schools and restaurants
+Hydroponics & Greenhouses	Melon Green	mhgolkar/Melon_Green	Sell greenhouse climate controllers to small growers
+Hydroponics & Greenhouses	ALG-1 Photobioreactor	sector07-dev/ALG-1-Photobioreactor	Sell desktop algae/spirulina cultivators
+Hydroponics & Greenhouses	PiPonics	mhajda/PiPonics	Run aquaponics kits plus monitoring subscription
+Beekeeping & Livestock	BEEP	beepnl/BEEP	Sell hive monitoring systems to commercial beekeepers
+Beekeeping & Livestock	BEEP Measurement System	beepnl/measurement-system-v3	Manufacture hive scales and rent them per season
+Beekeeping & Livestock	Hiveeyes Terkin	hiveeyes/terkin-datalogger	Sell hive weight dataloggers to beekeeping clubs
+Beekeeping & Livestock	BeeMoS	Hackuarium/beemos	Offer hive health monitoring service for pollination contracts
+Beekeeping & Livestock	Tanen LoRaWAN Hive	hmd83/tanen	Sell LoRaWAN hive scales to remote apiaries
+Beekeeping & Livestock	Hornet3000	vespCV/hornet3000	Sell Asian hornet detection cameras to beekeepers
+Beekeeping & Livestock	ESP32 Coop	ESP32-COOP/ESP32-COOP-DOC	Sell automatic chicken coop doors to homesteaders
+Beekeeping & Livestock	OpenCoopControl	OpenCoopControl/coop-controller	Sell coop controllers with lights and feeder automation
+Beekeeping & Livestock	COTS GPS Collars	jkarl/COTS_GPS_Collars	Assemble livestock GPS collars for ranchers
+Beekeeping & Livestock	Chicken Coop dbrgn	dbrgn/chicken-coop	Sell coop door retrofit kits at farm stores
+Weather Stations	WeeWX	weewx/weewx	Install farm weather stations with hosted dashboards
+Weather Stations	ESPHome Weather Station	hugokernel/esphome-weather-station	Sell solar weather station kits for vineyards
+Weather Stations	rtl_433	merbanan/rtl_433	Sell receivers that integrate cheap weather sensors into smart homes
+Weather Stations	ESP32 Weather EPD	lmarzen/esp32-weather-epd	Sell e-paper weather displays as gifts
+Weather Stations	Raspberry Pi Weather Station	RaspberryPiFoundation/weather-station	Sell school weather station kits with curriculum
+Weather Stations	ThingPulse Weather Station	ThingPulse/esp32-weather-station-touch	Sell desk weather displays assembled
+Weather Stations	Volna42BW	NC22/Volna42BW	Sell e-ink home weather clocks
+Air Quality Sensors	Sensor.Community	opendata-stuttgart/sensors-software	Sell preassembled particulate sensors to citizens and councils
+Air Quality Sensors	AirGradient	MallocArray/airgradient_esphome	Sell indoor air monitors to schools; CC-BY-SA hardware allows sale
+Air Quality Sensors	OpenAir Firmware	Open-Air-Foundation/firmware-one-openair	Install outdoor AQ monitors for municipalities
+Air Quality Sensors	Vindriktning Hack	Hypfer/esp8266-vindriktning-particle-sensor	Sell WiFi-upgraded IKEA air sensors
+Air Quality Sensors	CO2 Gadget	melkati/CO2-Gadget	Sell CO2 meters to classrooms and offices
+Air Quality Sensors	Klimerko	DesconBelgrade/Klimerko	Sell DIY air quality kits to community groups
+Air Quality Sensors	ESPHome Air Quality Monitor	koenvervloesem/ESPHome-Air-Quality-Monitor	Sell smart-home-ready air monitors
+Air Quality Sensors	Halo	yashmulgaonkar/halo	Sell designer air quality lamps; NC terms in repo, license before selling
+Air Quality Sensors	Smart Citizen Kit	fablabbcn/smartcitizen-kit-2x	Deploy environmental sensor networks for cities
+Water Monitoring & Purification	EnviroDIY ModularSensors	EnviroDIY/ModularSensors	Sell stream monitoring stations to watershed groups
+Water Monitoring & Purification	OpenCTD	OceanographyforEveryone/OpenCTD	Sell low-cost ocean CTD probes to researchers
+Water Monitoring & Purification	Tubby	mzakharo/tubby	Sell hot tub water-quality monitors to pool services
+Water Monitoring & Purification	sensors.AFRICA	CodeForAfrica/sensors.AFRICA	Deploy community water and air sensors with NGOs
+Water Monitoring & Purification	EzoGateway	100prznt/EzoGateway	Sell aquaculture water probes integrated with dashboards
+Water Monitoring & Purification	IoT-WQMS	pkErbynn/IoT-WQMS	Install water monitoring for fish ponds
+Medical Devices	OpenAPS oref0	openaps/oref0	Offer DIY loop setup support and hardware rigs (not regulated device)
+Medical Devices	AndroidAPS	nightscout/AndroidAPS	Sell compatible phone and accessory bundles for DIY loopers
+Medical Devices	Loop	LoopKit/Loop	Provide RileyLink accessories and setup help to loop community
+Medical Devices	Nightscout	nightscout/cgm-remote-monitor	Sell CGM display devices for caregivers
+Medical Devices	xDrip+	NightscoutFoundation/xDrip	Sell CGM watch faces and bridge hardware
+Medical Devices	OpenBCI GUI	OpenBCI/OpenBCI_GUI	Sell EEG headset kits to researchers
+Medical Devices	MakAir Ventilator	makers-for-life/makair	Manufacture emergency ventilators for humanitarian NGOs (needs certification)
+Medical Devices	Low-Cost Ventilator/PAPR	jcl5m1/ventilator	Build powered air-purifying respirators for clinics
+Medical Devices	HeartyPatch	patchinc/heartypatch	Sell ECG patch dev kits to health startups
+Prosthetics & Assistive Devices	OpenBionics Hands	OpenBionics/Prosthetic-Hands	Fabricate low-cost prosthetic hands for clinics
+Prosthetics & Assistive Devices	TactHand	pslade2/TactHand	Produce myoelectric hands for low-income markets
+Prosthetics & Assistive Devices	X-Limb	MelbourneUniHRL/X-Limb	Print soft prosthetic hands fitted locally; NC terms in repo, license before selling
+Prosthetics & Assistive Devices	OpenAT Joysticks	makersmakingchange/OpenAT-Joysticks	Sell adaptive joysticks to OT clinics
+Prosthetics & Assistive Devices	Forest Joystick Mouse Hub	makersmakingchange/Forest-Joystick-Mouse-Hub	Sell assistive computer access devices
+Prosthetics & Assistive Devices	Open R-Net	redragonx/open-rnet	Offer power wheelchair customization and repair
+Prosthetics & Assistive Devices	SuperHouse WMC	SuperHouse/WMC	Build wheelchair motor controller retrofits
+Prosthetics & Assistive Devices	Myo-electric Hand	TheForgotensoul/3D-printed_Myo-electric-prosthetic-hand	Run prosthetic printing workshops for NGOs
+Lab Equipment	Opentrons	Opentrons/opentrons	Resell and service liquid-handling robots to small labs
+Lab Equipment	UC2 Microscopy	openUC2/UC2-GIT	Sell modular microscope kits to universities
+Lab Equipment	PlanktoScope	fairscope/PlanktoScope	Sell plankton imagers to marine researchers
+Lab Equipment	Poseidon Syringe Pumps	pachterlab/poseidon	Sell syringe pump systems for microfluidics labs
+Lab Equipment	Open Syringe Pump	manimino/OpenSyringePump	Sell low-cost syringe pumps to teaching labs
+Lab Equipment	Multi-channel Pipette	Its-Triggy/multi-channel-pipette	Sell 96-well pipetting devices to biotech startups
+Lab Equipment	qPocketPCR	GaudiLabs/qPocketPCR	Sell portable qPCR machines to schools and field labs
+Lab Equipment	Chai Open qPCR	chaibio/chaipcr	Refurbish and support open qPCR instruments
+Lab Equipment	Rodeostat	iorodeo/potentiostat	Sell potentiostats to electrochemistry courses
+Lab Equipment	Nanostat	PeterJBurke/Nanostat	Sell WiFi potentiostats for sensor startups
+Lab Equipment	OpenStage	raacampbell/openstage	Sell motorized microscope stage upgrades
+Lab Equipment	Ardufocus	jbrazio/ardufocus	Sell motorized focusers for microscopes and telescopes; NC terms in repo, license before selling
+Test & Measurement	HackRF	greatscottgadgets/hackrf	Manufacture SDR boards for RF testing labs
+Test & Measurement	Glasgow	GlasgowEmbedded/glasgow	Sell electronics debug multitools to engineers
+Test & Measurement	NanoVNA	ttrftech/NanoVNA	Sell calibrated antenna analyzers to ham operators
+Test & Measurement	OpenHantek6022	OpenHantek/OpenHantek6022	Bundle USB scopes with open software for schools
+Test & Measurement	Flipper Zero Firmware	flipperdevices/flipperzero-firmware	Sell custom accessory boards for multi-tool devices
+Test & Measurement	GreatFET	greatscottgadgets/greatfet	Sell hardware hacking kits for security trainers
+Electronics Manufacturing	OpenPnP	openpnp/openpnp	Run small-batch PCB assembly service with open pick-and-place
+Electronics Manufacturing	LumenPnP	opulo-inc/lumenpnp	Sell desktop pick-and-place machines to hardware startups
+Electronics Manufacturing	T-962 Improvements	UnifiedEngineering/T-962-improvements	Upgrade and resell reflow ovens to makers
+Electronics Manufacturing	Reflow Master	UnexpectedMaker/ReflowMaster	Sell toaster-oven reflow controller kits
+Electronics Manufacturing	picoReflow	apollo-ng/picoReflow	Retrofit kilns and ovens with web controllers
+Electronics Manufacturing	Controleo3	engineertype/Controleo3	Sell reflow oven conversion kits
+Plastic Recycling	Precious Plastic Kit	ONEARMY/precious-plastic-kit	Build shredders and extruders; sell recycled plastic products
+Plastic Recycling	Precious Plastic Shredder Starterkit	ONEARMY/precious-plastic-starterkit-shredder	Run community plastic shredding workspace
+Plastic Recycling	OSE Extruder	OpenSourceEcology/Extruder	Sell filament recyclers to print farms
+Plastic Recycling	Open Shredder	specollective/Open-Shredder	Sell desktop plastic shredders to schools
+Plastic Recycling	PET Bottle Extruder	Craft3D/Recycled-PET-Bottle-Extruder-for-3D-Printing-	Sell bottle-to-filament machines
+Plastic Recycling	Buster Beagle MK4	BusterBeagle3D/MK4_Automation	Sell benchtop injection molding machines to small makers
+Sewing & Fashion Patterns	FreeSewing	freesewing/freesewing	Sell made-to-measure garments from parametric patterns
+Sewing & Fashion Patterns	Seamly2D	FashionFreedom/Seamly2D	Offer custom pattern drafting service for indie designers
+Sewing & Fashion Patterns	Ink/Stitch	inkstitch/inkstitch	Run custom embroidery shop for merch and uniforms
+Sewing & Fashion Patterns	Embroidermodder	Embroidermodder/Embroidermodder	Offer embroidery digitizing service
+Sewing & Fashion Patterns	pyembroidery	EmbroidePy/pyembroidery	Sell personalized embroidered goods via online configurator
+Knitting & Textile Machines	AYAB Firmware	AllYarnsAreBeautiful/ayab-firmware	Sell AYAB interface boards for vintage Brother knitting machines
+Knitting & Textile Machines	AYAB Desktop	AllYarnsAreBeautiful/ayab-desktop	Sell custom-patterned knitwear produced on modded machines
+Knitting & Textile Machines	OpenKnit	g3rard/OpenKnit	Build digital knitting machines for on-demand knitwear
+Knitting & Textile Machines	Circular Knitic	var-mar/circular_knitic	Sell circular knitting machines for scarves and hats
+Knitting & Textile Machines	Knitic	mcanet/knitic	Retrofit electronic knitting machines for textile studios
+Knitting & Textile Machines	knitlib	fossasia/knitlib	Run custom knit-on-demand printing service
+Knitting & Textile Machines	IDDA Knitting Machine	jonnor/idda-knitting-machine	Sell printable circular knitting machine kits
+Knitting & Textile Machines	AdaCAD	UnstableDesign/AdaCAD-UI	Offer custom woven textile production with jacquard looms
+Keyboards & Input Devices	QMK Firmware	qmk/qmk_firmware	Sell custom mechanical keyboards with QMK
+Keyboards & Input Devices	ZMK	zmkfirmware/zmk	Sell wireless split keyboards
+Keyboards & Input Devices	Corne	foostan/crkbd	Sell Corne split keyboard kits and assembled boards
+Keyboards & Input Devices	Lily58	kata0510/Lily58	Sell assembled Lily58 split keyboards
+Keyboards & Input Devices	Sofle	josefadamcik/SofleKeyboard	Sell Sofle kits with cases
+Keyboards & Input Devices	Dactyl	adereth/dactyl-keyboard	Print and hand-wire ergonomic Dactyl keyboards to order
+Keyboards & Input Devices	Dactyl Manuform	abstracthat/dactyl-manuform	Sell custom-fit ergonomic keyboards for RSI sufferers; NC terms in repo, license before selling
+Keyboards & Input Devices	Ferris	pierrechevalier83/ferris	Sell minimalist 34-key boards
+Keyboards & Input Devices	Kaleidoscope	keyboardio/Kaleidoscope	Sell programmable ergonomic keyboards
+Keyboards & Input Devices	KMK	KMKfw/kmk_firmware	Sell CircuitPython macro pads
+Keyboards & Input Devices	Vial	vial-kb/vial-qmk	Sell plug-and-play remappable keyboards
+Keyboards & Input Devices	Charybdis	Bastardkb/Charybdis	Sell trackball split keyboards; NC terms in repo, license before selling
+Keyboards & Input Devices	Ploopy Classic Trackball	ploopyco/classic-trackball	Manufacture open trackballs; CERN-OHL permits sale
+Synthesizers & Audio Gear	Mutable Instruments Eurorack	pichenettes/eurorack	Build Eurorack module clones; CC-BY-SA, avoid trademark names
+Synthesizers & Audio Gear	Ornament & Crime	mxmxmx/O_C	Sell assembled O_C modules to modular synth users
+Synthesizers & Audio Gear	Turing Machine	TomWhitwell/TuringMachine	Sell Turing Machine DIY kits
+Synthesizers & Audio Gear	Radio Music	TomWhitwell/RadioMusic	Sell sample-player module kits
+Synthesizers & Audio Gear	Daisy libDaisy	daisyaudio/libDaisy	Design and sell DSP effect pedals on Daisy
+Synthesizers & Audio Gear	DaisySP	daisyaudio/DaisySP	Sell custom synth voice modules
+Synthesizers & Audio Gear	Teensy Audio	PaulStoffregen/Audio	Sell small-batch digital synths
+Synthesizers & Audio Gear	Zynthian	zynthian/zynthian-ui	Sell open synth boxes for live musicians
+Synthesizers & Audio Gear	MOD UI	mod-audio/mod-ui	Build multi-effects pedalboards for guitarists
+Synthesizers & Audio Gear	NeuralPi	GuitarML/NeuralPi	Sell AI amp-modeling pedals
+Synthesizers & Audio Gear	Mozzi	sensorium/Mozzi	Sell Arduino synth kits for workshops
+Synthesizers & Audio Gear	norns	monome/norns	Sell norns shield sound computers
+Synthesizers & Audio Gear	Teletype	monome/teletype	Build and sell Eurorack scripting modules
+Synthesizers & Audio Gear	OtterCastAmp	Ottercast/OtterCastAmp	Sell WiFi speaker amplifiers for multiroom audio installs
+Synthesizers & Audio Gear	squeezelite-esp32	sle118/squeezelite-esp32	Install multiroom audio streamers in homes
+Musical Instruments	OpenTheremin V4	GaudiLabs/OpenThereminV4	Sell theremin kits and workshops
+Musical Instruments	16n Faderbank	16n-faderbank/16n	Sell MIDI fader controllers
+Musical Instruments	HelloDrum	RyoKosaka/HelloDrum-arduino-Library	Build and sell electronic drum kits from mesh pads
+Musical Instruments	OpenDeck	shanteacontrols/OpenDeck	Build custom MIDI controllers for DJs
+Musical Instruments	LMN-3	FundamentalFrequency/LMN-3-Build-Guide	Sell portable DAW groovebox kits
+Musical Instruments	Bela	BelaPlatform/Bela	Build interactive sound installations for museums
+Musical Instruments	Prusacaster Glow	andywarburton/prusacaster-glow	Sell 3D-printed electric guitar bodies
+Musical Instruments	LOOM-8	charlesvestal/fm1-loom	Sell groovebox builds to electronic musicians
+Cameras & Telescopes	OnStep	hjd1964/OnStep	Sell GoTo telescope mount conversion kits
+Cameras & Telescopes	OpenAstroTracker	OpenAstroTech/OpenAstroTracker-Firmware	Sell printed star tracker mounts for astrophotographers
+Cameras & Telescopes	INDI	indilib/indi	Sell preconfigured astronomy control boxes
+Cameras & Telescopes	Skyward150	TenTelescopes/Skyward150	Sell printed Newtonian telescope kits; NC terms in repo, license before selling
+Cameras & Telescopes	ArcBlue HMT Lite	guansk/ArcBlue-HMT-Lite	Fabricate large truss Dobsonian telescopes to order
+Cameras & Telescopes	ASCOM Telescope Cover	jlecomte/ascom-telescope-cover	Sell motorized telescope covers for remote observatories
+Cameras & Telescopes	OpenMV	openmv/openmv	Sell machine-vision camera modules for factories; NC terms in repo, license before selling
+Cameras & Telescopes	ESP32 Camera	espressif/esp32-camera	Sell cheap wildlife/trail cameras
+Cameras & Telescopes	3D Printed Film Video Camera	jyjblrd/3D-Printed-Film-Video-Camera	Sell novelty film camera kits
+Cameras & Telescopes	OpenSlider	Adamslab/OpenSlider	Sell motorized camera sliders to videographers
+Cameras & Telescopes	Tarina	rbckman/tarina	Sell Raspberry Pi indie film cameras
+Smart Home Devices	Tasmota	arendst/Tasmota	Sell preflashed cloud-free smart plugs and switches
+Smart Home Devices	ESPHome	esphome/esphome	Install local smart home sensors for homeowners
+Smart Home Devices	Home Assistant	home-assistant/core	Sell installed Home Assistant hubs with support plans
+Smart Home Devices	OpenMQTTGateway	1technophile/OpenMQTTGateway	Sell RF/BLE gateways for smart homes
+Smart Home Devices	Zigbee2MQTT	Koenkk/zigbee2mqtt	Sell Zigbee coordinator sticks and setup service
+Smart Home Devices	OpenBeken	openshwprojects/OpenBK7231T_App	Reflash and resell cheap smart devices cloud-free
+Smart Home Devices	OpenTherm Library	ihormelnyk/opentherm_library	Sell smart boiler thermostats
+Smart Home Devices	ratgdo	ratgdo/esphome-ratgdo	Install local garage door controllers
+Smart Home Devices	Everything Presence One	EverythingSmartHome/everything-presence-one	Sell mmWave presence sensors
+Smart Home Devices	ESPurna	xoseperez/espurna	Sell custom firmware smart relays to electricians
+Smart Home Devices	InkyPi	fatihak/InkyPi	Sell e-ink smart home dashboards
+Smart Home Devices	HomePlate	lanrat/homeplate	Sell wall-mounted e-paper home panels
+Wearables	InfiniTime	InfiniTimeOrg/InfiniTime	Sell open smartwatches preloaded for privacy users
+Wearables	Bangle.js Apps	espruino/BangleApps	Sell hackable smartwatches with custom apps
+Wearables	Watchy	sqfmi/Watchy	Sell e-paper watch kits and custom cases
+Wearables	ZSWatch	jakkra/ZSWatch	Manufacture open Zephyr smartwatches
+Wearables	Open-Smartwatch	Open-Smartwatch/open-smartwatch-os	Sell DIY smartwatch kits
+Wearables	AsteroidOS	AsteroidOS/asteroid	Refurbish old smartwatches with AsteroidOS
+Wearables	OpenEarable	OpenEarable/open-earable	Sell sensing earbuds to research labs
+Wearables	OpenGlass	BasedHardware/OpenGlass	Sell AI camera glasses clip-ons
+Wearables	Omi	BasedHardware/omi	Sell AI wearable pendants
+Phones & Handhelds	Precursor	betrusted-io/betrusted-hardware	Build secure communication handhelds
+Phones & Handhelds	Retro-Go	ducalex/retro-go	Sell retro handheld consoles with firmware
+Phones & Handhelds	Game and Watch Retro-Go	kbeckmann/game-and-watch-retro-go	Offer Game & Watch modding service
+Phones & Handhelds	uConsole	clockworkpi/uConsole	Sell handheld cyberdeck accessories
+Phones & Handhelds	DevTerm	clockworkpi/DevTerm	Sell portable terminal kits
+Phones & Handhelds	T-Deck	Xinyuan-LilyGO/T-Deck	Sell off-grid messenger handhelds
+Phones & Handhelds	Pwnagotchi	evilsocket/pwnagotchi	Sell assembled WiFi audit gadgets to security trainers
+Phones & Handhelds	PicoSystem	pimoroni/picosystem	Sell game dev handheld kits to schools
+Phones & Handhelds	Arduboy	MLXXXp/Arduboy2	Sell credit-card game consoles as promotional merch
+Laptops & Single-Board Computers	Framework Laptop 13	FrameworkComputer/Framework-Laptop-13	Sell custom expansion cards and repurposed mainboard cases
+Laptops & Single-Board Computers	Framework EC	FrameworkComputer/EmbeddedController	Offer laptop repair and upgrade services
+Laptops & Single-Board Computers	Olimex OLinuXino	OLIMEX/OLINUXINO	Manufacture industrial Linux SBCs
+Laptops & Single-Board Computers	BeagleBone Black	beagleboard/beaglebone-black	Build industrial controllers on BeagleBone designs
+Laptops & Single-Board Computers	PiKVM	pikvm/pikvm	Sell IP-KVM appliances to IT departments
+Laptops & Single-Board Computers	Raspberry Pi Pico SDK	raspberrypi/pico-sdk	Design custom RP2040 boards for clients
+LED Lighting & Signage	WLED	wled/WLED	Install addressable LED lighting for homes and venues
+LED Lighting & Signage	FastLED	FastLED/FastLED	Sell custom LED art pieces
+LED Lighting & Signage	RPi RGB LED Matrix	hzeller/rpi-rgb-led-matrix	Build LED scoreboards and storefront signs
+LED Lighting & Signage	ESP32 HUB75 DMA	mrcodetastic/ESP32-HUB75-MatrixPanel-DMA	Sell LED matrix signs for cafes
+LED Lighting & Signage	AWTRIX 3	Blueforcer/awtrix3	Sell pixel clocks for smart homes; NC terms in repo, license before selling
+LED Lighting & Signage	Clockwise	jnthas/clockwise	Sell LED matrix wall clocks
+LED Lighting & Signage	Hyperion	hyperion-project/hyperion.ng	Install TV ambient lighting kits
+LED Lighting & Signage	xLights	xLightsSequencer/xLights	Design and install Christmas light shows for businesses
+LED Lighting & Signage	Falcon Player	FalconChristmas/fpp	Sell holiday light show controllers
+LED Lighting & Signage	QLC+	mcallegari/qlcplus	Rent stage lighting with DMX control for events
+LED Lighting & Signage	LedFx	LedFx/LedFx	Rent sound-reactive LED setups for parties
+Vending & Kiosk Machines	MDB ESP32 Cashless	nodestark/mdb-esp32-cashless	Retrofit vending machines with cashless payments
+Vending & Kiosk Machines	Vender	temoto/vender	Build and operate open-controller vending machines
+Vending & Kiosk Machines	Bitcoin Vend	arcbtc/bitcoinVend	Install bitcoin-accepting vending machines
+Vending & Kiosk Machines	LightningATM	21isenough/LightningATM	Sell small bitcoin ATMs to shops
+Vending & Kiosk Machines	CocktailPi	alex9849/CocktailPi	Rent cocktail robots for weddings and events
+Vending & Kiosk Machines	CocktailBerry	AndreWohnsland/CocktailBerry	Sell cocktail machines to bars
+Vending & Kiosk Machines	pibooth	pibooth/pibooth	Rent photo booths for events
+Vending & Kiosk Machines	Photobooth Project	PhotoboothProject/photobooth	Build and sell photo booth kiosks
+Vending & Kiosk Machines	photobooth-app	photobooth-app/photobooth-app	Operate photo booth rental service
+Coffee & Espresso	Gaggiuino	Zer0-bit/gaggiuino	Offer Gaggia Classic mod installs; CC-BY-NC: get permission for commercial sale
+Coffee & Espresso	GaggiMate	jniebuhr/gaggimate	Sell espresso machine smart-control install service; CC-BY-NC: get permission for commercial sale
+Coffee & Espresso	Decent DE1 App	decentespresso/de1app	Offer espresso profiling service for cafes
+Coffee & Espresso	Artisan	artisan-roaster-scope/artisan	Run a small-batch coffee roastery with logged profiles
+Coffee & Espresso	Silvia-Pi	brycesub/silvia-pi	Sell Rancilio Silvia PID retrofit kits
+Coffee & Espresso	CleverCoffee	rancilio-pid/clevercoffee	Sell PID upgrade kits for home espresso machines
+Coffee & Espresso	Skywalker Roaster	jmoore52/SkywalkerRoaster	Sell roaster control mods for home roasters
+Coffee & Espresso	TC4+ Roaster Shield	mgerstgrasser/tc4plus-coffee-roaster-shield	Sell roaster thermocouple shields; NC terms in repo, license before selling
+Coffee & Espresso	Koffie	mwood77/koffie	Sell plug-in espresso PID kits
+Brewing & Distilling	BrewPi Firmware	BrewPi/firmware	Sell fermentation controllers to homebrewers
+Brewing & Distilling	Fermentrack	thorrak/fermentrack	Install fermentation monitoring for craft breweries
+Brewing & Distilling	iSpindel	universam1/iSpindel	Sell wireless hydrometers to homebrewers
+Brewing & Distilling	BrewPiLess	vitotai/BrewPiLess	Sell ESP fermentation fridge controllers
+Brewing & Distilling	CraftBeerPi 4	craftbeerpi/craftbeerpi4	Build automated brewing systems for brewpubs
+Brewing & Distilling	RasPiBrew	steve71/RasPiBrew	Sell mash temperature controllers
+Brewing & Distilling	RPi Smart Still	larry-athey/rpi-smart-still	Sell still controllers to licensed craft distillers
+Brewing & Distilling	Boilermaker	larry-athey/boilermaker	Sell boiler power controllers for stills
+Cooking & Sous-Vide	Sous Viduino	adafruit/Sous_Viduino	Sell sous-vide controller kits
+Cooking & Sous-Vide	Sous Vide Adaptive	egiust/SousVideAdaptativeArduino	Build sous-vide baths for restaurants
+Cooking & Sous-Vide	HeaterMeter	CapnBry/HeaterMeter	Sell BBQ pit controllers to competition teams
+Cooking & Sous-Vide	WLANThermo ESP32	WLANThermo-nano/WLANThermo_ESP32_Software	Sell wireless BBQ thermometers
+Cooking & Sous-Vide	Smokey the Barrel	willblev/SmokeyTheBarrel	Sell drum smoker temperature controllers
+Cooking & Sous-Vide	BBQer	abuharsky/BBQer	Sell smart smoker retrofit kits
+Cooking & Sous-Vide	Pitclaw	MrMatt57/pitclaw	Sell touchscreen BBQ controllers
+Food & Beverage Recipes	Cherry Cola	LemonardoSoftDrinks/CherryCola	Produce craft cola under own brand from open recipe
+Food & Beverage Recipes	Cola Recipe	RichardAntalik/Cola-recipe	Sell craft soda syrups to cafes
+Food & Beverage Recipes	IBA Cocktails	teijo/iba-cocktails	Sell premixed cocktail kits and bar menus
+Food & Beverage Recipes	Brauhaus.js	homebrewing/brauhausjs	Sell recipe-based homebrew ingredient kits
+Food & Beverage Recipes	Brewcalc	brewcomputer/brewcalc	Run brew-on-premise shop with recipe library
+Food & Beverage Recipes	Beer Recipes	mattsah/beer-recipes	Brew and sell small-batch beer from open recipes
+Food & Beverage Recipes	BeerXML Go	stone/beerxml	Sell all-grain kits matched to shared recipes
+Cosmetics & Soap	Soap Calc	blastomussa/soap_calc	Run handmade soap brand with calculated lye recipes
+Cosmetics & Soap	Saponify	alexroussos/saponify	Teach soap-making classes and sell kits
+Cosmetics & Soap	Lye Calculator	cristventcode/LyeCalculator	Sell cold-process soap starter kits
+Cosmetics & Soap	SoapOpera	okhin/SoapOpera	Small-batch soap maker inventory and recipe production
+Cosmetics & Soap	Formularium	lampros-polyzos/formularium	Sell home cosmetics formulation kits
+Cosmetics & Soap	Kevin's Soap Recipes	thekevinday/soap	Produce artisan soaps from open recipes
+Bicycles & Cargo Bikes	Cargo Bike Parametric	pwnage101/cargo_bike	Weld upcycled long-john cargo bikes to order
+Bicycles & Cargo Bikes	Tricycle Cargo Bike	boucettaabdelkhalek2/Tricycle_Cargo_Bike_Original-1	Fabricate cargo trikes for delivery businesses
+Bicycles & Cargo Bikes	Framebuild	guy153/framebuild	Offer custom bicycle frame building
+Bicycles & Cargo Bikes	Pi Zero Bike Computer	hishizuka/pizero_bikecomputer	Sell open GPS bike computers
+Bicycles & Cargo Bikes	OpenTrailPaper	RaemondBW/OpenTrailPaper	Sell e-ink bike computers
+Bicycles & Cargo Bikes	Bike Computer 32	lspr98/bike-computer-32	Sell ESP32 cycling computers
+Bicycles & Cargo Bikes	Radforschung Lock	radforschung/lock	Sell smart locks for bike-sharing fleets
+Bicycles & Cargo Bikes	Ebike Wireless Remote	OpenSourceEBike/ebike_wireless_remote	Sell wireless e-bike handlebar remotes
+Boats & Marine Electronics	Signal K Server	SignalK/signalk-server	Install boat data servers with dashboards for yachts
+Boats & Marine Electronics	SensESP	SignalK/SensESP	Sell marine sensors for bilge and tank monitoring
+Boats & Marine Electronics	OpenCPN	OpenCPN/OpenCPN	Sell marine navigation PCs for sailors
+Boats & Marine Electronics	pypilot	pypilot/pypilot	Sell and install sailboat autopilots
+Boats & Marine Electronics	ESP32 Sailboat Autopilot	jeff-burright/Autopilot_ESP32_wifi	Sell tiller autopilot kits
+Boats & Marine Electronics	BlueOS	bluerobotics/BlueOS	Offer underwater ROV inspection services
+Boats & Marine Electronics	FinsROV	IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform	Sell low-cost underwater ROVs for aquaculture
+Boats & Marine Electronics	OpenROV	OpenROV/openrov-software	Offer hull and dock inspection with ROVs
+Boats & Marine Electronics	OpenTransat	OpenTransat/OpenTransat-CAD-Design	Build autonomous sailing drones for ocean data
+Boats & Marine Electronics	boatCalc	McNeight/boatCalc	Offer small boat design and build service
+Toys & Educational Kits	Otto DIY	OttoDIY/OttoDIYLib	Sell biped robot kits for coding camps
+Toys & Educational Kits	micro:bit v2 Hardware	microbit-foundation/microbit-v2-hardware	Sell micro:bit accessory kits to schools
+Toys & Educational Kits	Aseba Thymio	Mobsya/aseba	Run educational robotics workshops
+Toys & Educational Kits	Pybricks	pybricks/pybricks-micropython	Teach LEGO robotics classes
+Toys & Educational Kits	Phoniebox	MiczFlor/RPi-Jukebox-RFID	Sell RFID music boxes for kids
+Toys & Educational Kits	TonUINO	tonuino/TonUINO-TNG	Sell handcrafted children's audio boxes
+Toys & Educational Kits	CubeSatSim	alanbjohnston/CubeSatSim	Sell CubeSat simulator kits to schools
+Toys & Educational Kits	CircuitPython	adafruit/circuitpython	Sell beginner electronics kits
+Tools & Workshop	IronOS	Ralim/IronOS	Sell smart soldering irons with upgraded firmware
+Tools & Workshop	Arduino Spot Welder V4	KaeptnBalu/Arduino_Spot_Welder_V4	Sell spot welder controller kits
+Tools & Workshop	Deepnest Next	deepnest-next/deepnest	Offer material-optimized cutting for woodshops
+Tools & Workshop	Visual Box Designer	MIDILLI-Tech/visual-box-designer	Sell laser-cut custom boxes and packaging
+Tools & Workshop	OpenBuilds CONTROL	OpenBuilds/OpenBuilds-CONTROL	Sell CNC workbench machines to woodworkers
+Tools & Workshop	bCNC	vlachoudis/bCNC	Offer PCB milling service
+Tools & Workshop	Smoothieware	Smoothieware/Smoothieware	Sell controller boards for workshop machines
+Satellites & Ham Radio	Hermes-Lite 2	softerhardware/Hermes-Lite2	Sell assembled SDR transceivers to hams
+Satellites & Ham Radio	Direwolf	wb2osz/direwolf	Sell APRS iGate boxes
+Satellites & Ham Radio	OpenWebRX	jketterl/openwebrx	Sell web SDR receiver kits for clubs
+Satellites & Ham Radio	TinyGS	tinygs/tinyGS	Sell satellite ground station kits
+Satellites & Ham Radio	libcsp	libcsp/libcsp	Build CubeSat subsystems for university missions
+Satellites & Ham Radio	OpenSatKit	OpenSatKit/OpenSatKit	Offer CubeSat flight software integration
+Satellites & Ham Radio	Mercury GS	Open-Source-Satellite/Mercury-GS	Operate ground station as a service
+Satellites & Ham Radio	CygnusRFI	0xCoto/CygnusRFI	Offer RFI surveys for ground station sites
+LoRa & Mesh Networks	Meshtastic Firmware	meshtastic/firmware	Sell preflashed Meshtastic radios for hikers and events
+LoRa & Mesh Networks	MeshCore	meshcore-dev/MeshCore	Deploy community repeater networks with solar nodes
+LoRa & Mesh Networks	RNode Firmware	markqvist/RNode_Firmware	Sell RNode radios for off-grid comms
+LoRa & Mesh Networks	Reticulum	markqvist/Reticulum	Install resilient off-grid networks for NGOs
+LoRa & Mesh Networks	ChirpStack	chirpstack/chirpstack	Install private LoRaWAN networks for farms
+LoRa & Mesh Networks	The Things Stack	TheThingsNetwork/lorawan-stack	Sell LoRaWAN gateways with managed service
+LoRa & Mesh Networks	Makerfabs LoRa Soil Sensor	Makerfabs/Lora-Soil-Moisture-Sensor	Sell soil moisture sensor networks to orchards
+Security Cameras & Doorbells	Frigate	blakeblackshear/frigate	Install local AI NVR systems for small businesses
+Security Cameras & Doorbells	OpenIPC	OpenIPC/firmware	Reflash and resell cloud-free IP cameras
+Security Cameras & Doorbells	Thingino	themactep/thingino-firmware	Sell open-firmware Wyze-style cameras
+Security Cameras & Doorbells	Dafang Hacks	EliasKotlyar/Xiaomi-Dafang-Hacks	Offer camera de-clouding service
+Security Cameras & Doorbells	motionEyeOS	motioneye-project/motioneyeos	Sell Pi security camera kits
+Security Cameras & Doorbells	ZoneMinder	ZoneMinder/zoneminder	Install CCTV systems for shops
+Security Cameras & Doorbells	FingerprintDoorbell	frickelzeugs/FingerprintDoorbell	Sell fingerprint doorbells with door opener install
+Security Cameras & Doorbells	ESP32 SIP Call	chrta/sip_call	Retrofit doorbells to ring phones
+Security Cameras & Doorbells	ESP32 Doorbell Bus Interface	Mat931/esp32-doorbell-bus-interface	Sell smart intercom adapters for apartments
+Security Cameras & Doorbells	Video Doorbell Voice Response	ronschaeffer/video_doorbell_voice_response	Sell ESP32 video doorbells
+Security & Access Control	ESP-RFID	omersiar/esp-rfid	Install RFID access control for makerspaces and gyms
+Security & Access Control	Nuki Hub	technyon/nuki_hub	Offer smart lock local integration installs
+Security & Access Control	Ultrawidelock	ultrawidelock/ultrawidelock	Sell wallet-key smart locks
+Security & Access Control	SmartLock vogler	vogler/SmartLock	Sell retrofit door lock motors
+Pet Devices	Robokitty	rachelnicole/robokitty	Sell DIY pet feeder kits
+Pet Devices	Multisensor Cat Feeder	Molecule5537/diy-multisensor-cat-feeder	Sell smart cat feeders with weight sensing
+Pet Devices	Cloud Cat Feeder 3D Models	piotrwest/TheUltimateCloudCatFeeder-3DModels	Print and sell automated cat feeders
+Pet Devices	Petnet Feeder Service	feedernet/petnet-feeder-service	Revive bricked Petnet feeders as a service
+Pet Devices	CatGenius	CatGenius/catgenius	Repair and upgrade CatGenie litter boxes
+Pet Devices	Surepy	benleb/surepy	Install smart pet door integrations
+Pet Devices	WiFi Pet Feeder	oziavci/cat-dog-feeder-wifi	Sell WiFi pet feeders
+Pet Devices	IoT Kitty Litter Box	JoeKarlsson/iot-kitty-litter-box	Sell litter usage monitors for cat health
+Arcade & Pinball	Visual Pinball	vpinball/vpinball	Build and sell virtual pinball cabinets
+Arcade & Pinball	PinMAME	vpinball/pinmame	Restore pinball machines with emulation boards
+Arcade & Pinball	Mission Pinball Framework	missionpinball/mpf	Build custom pinball machines for bars
+Arcade & Pinball	Bartop Arcade	SnaKKo/Bartop-2-Players-with-Raspberry-Pi	Sell bartop arcade cabinets
+Arcade & Pinball	TinyCade	retrobuiltRyan/TinyCade_13in	Sell mini arcade cabinets
+Arcade & Pinball	Leigh Hackspace Arcade	leigh-hackspace/arcade-cabinet	Build arcade cabinets for venues
+Arcade & Pinball	openCreditIC	UiharuKazari2008/openCreditIC	Install NFC payment readers on arcade machines
+Arcade & Pinball	RetroPie	RetroPie/RetroPie-Setup	Sell plug-and-play retro consoles

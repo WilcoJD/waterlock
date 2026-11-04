@@ -1,0 +1,565 @@
+PaaS & Self-Hosted Heroku Alternatives	Coolify	coollabsio/coolify	Managed white-label PaaS for agencies, per-app monthly pricing
+PaaS & Self-Hosted Heroku Alternatives	Dokku	dokku/dokku	Budget Heroku-style hosting with git push deploys, per-app plans
+PaaS & Self-Hosted Heroku Alternatives	CapRover	caprover/caprover	One-click app hosting for SMBs, tiered server plans
+PaaS & Self-Hosted Heroku Alternatives	Dokploy	Dokploy/dokploy	Rebranded deployment platform sold to freelancers, per-seat subscription
+PaaS & Self-Hosted Heroku Alternatives	Kubero	kubero-dev/kubero	Kubernetes-native PaaS for enterprises, managed install plus support contract
+PaaS & Self-Hosted Heroku Alternatives	Piku	piku/piku	Ultra-cheap micro-PaaS on small VPS, per-app hosting fees
+PaaS & Self-Hosted Heroku Alternatives	Akamai App Platform (APL)	linode/apl-core	Turnkey developer platform on Kubernetes, enterprise licensing
+PaaS & Self-Hosted Heroku Alternatives	Epinio	epinio/epinio	Push-to-deploy Kubernetes for dev teams, managed cluster pricing
+PaaS & Self-Hosted Heroku Alternatives	Cloud Foundry Korifi	cloudfoundry/korifi	Enterprise Cloud Foundry migration service on Kubernetes
+PaaS & Self-Hosted Heroku Alternatives	Kamal	basecamp/kamal	Deployment consulting and managed Kamal setups for Rails shops
+Hosting Control Panels	HestiaCP	hestiacp/hestiacp	Reseller web hosting with white-label panel, per-account pricing
+Hosting Control Panels	CyberPanel	usmannasir/cyberpanel	LiteSpeed-powered WordPress hosting with branded panel
+Hosting Control Panels	aaPanel	aaPanel/aaPanel	Budget shared hosting in emerging markets, monthly plans
+Hosting Control Panels	CloudPanel	cloudpanel-io/cloudpanel-ce	Managed PHP/Node hosting on cloud VMs, per-site pricing
+Hosting Control Panels	Froxlor	froxlor/froxlor	Lightweight reseller hosting for small ISPs, per-customer billing
+Hosting Control Panels	Virtualmin	virtualmin/virtualmin-gpl	Shared hosting with white-labeled Webmin panel, account tiers
+Hosting Control Panels	Webmin	webmin/webmin	Server administration as managed service, monthly retainer
+Hosting Control Panels	Ajenti	ajenti/ajenti	Branded server management panel bundled with VPS plans
+Hosting Control Panels	1Panel	1Panel-dev/1Panel	Modern Linux panel bundled with VPS, app-store revenue share
+Hosting Control Panels	Cockpit	cockpit-project/cockpit	Branded server dashboard bundled with managed VPS
+Hosting Billing & Automation	Paymenter	Paymenter/Paymenter	White-label hosting billing SaaS for small hosts, monthly fee
+Hosting Billing & Automation	FOSSBilling	FOSSBilling/FOSSBilling	Managed WHMCS alternative for hosting startups, per-client pricing
+Hosting Billing & Automation	Invoice Ninja	invoiceninja/invoiceninja	White-label invoicing portal for hosting providers, tiered SaaS
+Hosting Billing & Automation	Kill Bill	killbill/killbill	Subscription billing engine as managed service for SaaS hosts
+Hosting Billing & Automation	Lago	getlago/lago	Usage-based metering for cloud providers, hosted billing fee
+Hosting Billing & Automation	OpenMeter	openmeterio/openmeter	Usage metering for infra startups, managed per-event pricing
+Hosting Billing & Automation	Flexprice	flexprice/flexprice	Usage-based billing for AI and infra companies, hosted plans
+Hosting Billing & Automation	Crater	crater-invoice/crater	Simple invoicing portal for freelance hosters, SaaS subscription
+Hosting Billing & Automation	Hyperswitch	juspay/hyperswitch	Payment orchestration for hosting companies, transaction fee
+VPS & Cloud Management	Apache CloudStack	apache/cloudstack	Public cloud for regional providers, managed CloudStack deployments
+VPS & Cloud Management	OpenNebula	OpenNebula/one	Private cloud as service for enterprises, support subscription
+VPS & Cloud Management	Convoy	ConvoyPanel/panel	White-label VPS reseller panel on Proxmox, per-VM billing
+VPS & Cloud Management	Incus	lxc/incus	Container/VM hosting provider backend, per-instance pricing
+VPS & Cloud Management	Harvester	harvester/harvester	HCI cloud for edge datacenters, managed support contracts
+VPS & Cloud Management	OpenStack Nova	openstack/nova	Sovereign public cloud for regional telcos, consumption billing
+VPS & Cloud Management	oVirt	oVirt/ovirt-engine	Managed virtualization for SMB datacenters, per-host fee
+VPS & Cloud Management	KubeVirt	kubevirt/kubevirt	VMs-on-Kubernetes hosting platform, per-VM monthly pricing
+VPS & Cloud Management	Xen Orchestra	vatesfr/xen-orchestra	Managed XCP-ng clusters for MSPs, per-host support
+VPS & Cloud Management	Proxmox VE Helper Scripts	community-scripts/ProxmoxVE	Proxmox setup consulting and managed homelab services
+Game Server Panels	Pterodactyl	pterodactyl/panel	White-label game server hosting, per-slot monthly pricing
+Game Server Panels	Pelican Panel	pelican-dev/panel	Branded game hosting reseller platform, per-server billing
+Game Server Panels	Pterodactyl Wings	pterodactyl/wings	Node agent for multi-location game hosting network
+Game Server Panels	PufferPanel	PufferPanel/PufferPanel	Lightweight game hosting for communities, cheap monthly plans
+Game Server Panels	LinuxGSM	GameServerManagers/LinuxGSM	Managed dedicated game servers, setup plus monthly fee
+Game Server Panels	MCSManager	MCSManager/MCSManager	Minecraft hosting panel for Asian market resellers
+Game Server Panels	Pufferfish	pufferfish-gg/Pufferfish	Performance Minecraft hosting with tuned server builds
+Game Server Panels	Agones	googleforgames/agones	Multiplayer game server orchestration service for studios
+Game Server Panels	Open Match	googleforgames/open-match	Matchmaking as a service for indie studios
+Game Server Panels	Calagopus Panel	calagopus/panel	Modern game hosting panel for resellers
+Game Server Panels	Nakama	heroiclabs/nakama	Managed game backend for indie studios, MAU pricing
+Object Storage	MinIO	minio/minio	S3-compatible storage hosting, per-TB monthly pricing
+Object Storage	Garage	deuxfleurs-org/garage	Geo-distributed S3 for small providers, per-GB pricing
+Object Storage	SeaweedFS	seaweedfs/seaweedfs	High-volume blob storage service for media companies
+Object Storage	Ceph	ceph/ceph	Managed storage clusters for enterprises, support contracts
+Object Storage	Rook	rook/rook	Ceph-on-Kubernetes managed storage offering
+Object Storage	Zenko CloudServer	scality/cloudserver	Multi-cloud S3 gateway service for compliance customers
+Object Storage	RustFS	rustfs/rustfs	Cheap S3-compatible storage hosting, per-TB plans
+Object Storage	Apache Ozone	apache/ozone	Big-data object storage for analytics firms, managed clusters
+Object Storage	JuiceFS	juicedata/juicefs	POSIX filesystem over S3 for ML teams, managed metadata
+Object Storage	Longhorn	longhorn/longhorn	Kubernetes block storage support for edge clusters
+Object Storage	OpenEBS	openebs/openebs	Container-attached storage consulting for K8s shops
+Reverse Proxy & Load Balancers	Caddy	caddyserver/caddy	Managed HTTPS edge for custom domains, per-domain pricing
+Reverse Proxy & Load Balancers	Traefik	traefik/traefik	Ingress-as-a-service for container platforms
+Reverse Proxy & Load Balancers	Nginx Proxy Manager	NginxProxyManager/nginx-proxy-manager	Branded reverse proxy dashboard for homelab/SMB hosting
+Reverse Proxy & Load Balancers	HAProxy	haproxy/haproxy	Managed load balancing for high-traffic sites, monthly fee
+Reverse Proxy & Load Balancers	Envoy	envoyproxy/envoy	Managed edge proxy and service mesh consulting
+Reverse Proxy & Load Balancers	Pingora	cloudflare/pingora	Build a custom CDN/proxy service in Rust, bandwidth pricing
+Reverse Proxy & Load Balancers	Zoraxy	tobychui/zoraxy	Homelab reverse proxy appliance with branded UI
+Reverse Proxy & Load Balancers	Angie	webserver-llc/angie	Nginx-compatible managed web server hosting
+Reverse Proxy & Load Balancers	Katran	facebookincubator/katran	L4 load balancing service for large hosting providers
+Reverse Proxy & Load Balancers	Pangolin	fosrl/pangolin	Self-hosted tunneled reverse proxy sold as managed access
+Reverse Proxy & Load Balancers	OpenResty	openresty/openresty	Programmable edge platform for custom CDN services
+CDN & Edge Caching	Apache Traffic Control	apache/trafficcontrol	Build a telco-grade CDN, bandwidth resale
+CDN & Edge Caching	Apache Traffic Server	apache/trafficserver	Regional CDN for ISPs, bandwidth-based pricing
+CDN & Edge Caching	Varnish Cache	varnishcache/varnish-cache	Managed HTTP caching for publishers, per-request pricing
+CDN & Edge Caching	imgproxy	imgproxy/imgproxy	Image optimization CDN, per-transformation pricing
+CDN & Edge Caching	Thumbor	thumbor/thumbor	Smart image resizing service for e-commerce sites
+CDN & Edge Caching	imaginary	h2non/imaginary	Image processing API, metered request pricing
+CDN & Edge Caching	Squid	squid-cache/squid	Forward-proxy caching service for schools and ISPs
+CDN & Edge Caching	GoEdge	TeaOSLab/EdgeAdmin	White-label CDN management for regional resellers
+CDN & Edge Caching	wsrv.nl Images	weserv/images	Image proxy service with branded endpoints, metered pricing
+DNS Servers & Managed DNS	PowerDNS Authoritative	PowerDNS/pdns	Managed authoritative DNS for registrars, per-zone pricing
+DNS Servers & Managed DNS	PowerDNS-Admin	PowerDNS-Admin/PowerDNS-Admin	White-label DNS management portal for hosting customers
+DNS Servers & Managed DNS	Technitium DNS	TechnitiumSoftware/DnsServer	Filtered DNS for families and schools, monthly subscription
+DNS Servers & Managed DNS	CoreDNS	coredns/coredns	Custom managed DNS platform with plugins, per-query pricing
+DNS Servers & Managed DNS	Knot DNS	CZ-NIC/knot	High-performance authoritative DNS for TLD operators
+DNS Servers & Managed DNS	BIND 9	isc-projects/bind9	Managed DNS hosting for enterprises, support contracts
+DNS Servers & Managed DNS	Pi-hole	pi-hole/pi-hole	Hosted ad-blocking DNS subscription for households
+DNS Servers & Managed DNS	AdGuard Home	AdguardTeam/AdGuardHome	Branded family-safe DNS service, per-device pricing
+DNS Servers & Managed DNS	Blocky	0xERR0R/blocky	Business DNS filtering service for SMBs
+DNS Servers & Managed DNS	Unbound	NLnetLabs/unbound	Private recursive DNS for ISPs, managed resolver fee
+DNS Servers & Managed DNS	Poweradmin	poweradmin/poweradmin	Reseller DNS panel for small hosts
+DNS Servers & Managed DNS	RouteDNS	folbricht/routedns	Encrypted DNS proxy service for privacy customers
+Email Servers & Mail Hosting	Mailcow	mailcow/mailcow-dockerized	White-label business email hosting, per-mailbox pricing
+Email Servers & Mail Hosting	Mail-in-a-Box	mail-in-a-box/mailinabox	Turnkey email for small businesses, setup plus monthly
+Email Servers & Mail Hosting	Mailu	Mailu/Mailu	Managed email hosting for agencies, per-domain pricing
+Email Servers & Mail Hosting	Stalwart Mail	stalwartlabs/stalwart	Modern mail hosting SaaS, per-user pricing
+Email Servers & Mail Hosting	Docker Mailserver	docker-mailserver/docker-mailserver	Budget email hosting bundled with web hosting
+Email Servers & Mail Hosting	Modoboa	modoboa/modoboa	Reseller mail hosting panel, per-mailbox billing
+Email Servers & Mail Hosting	iRedMail	iredmail/iRedMail	Managed mail servers for SMBs, annual support
+Email Servers & Mail Hosting	Maddy	foxcpp/maddy	Lightweight email hosting for niche communities
+Email Servers & Mail Hosting	Mox	mjl-/mox	Simple all-in-one email hosting for small orgs
+Email Servers & Mail Hosting	Roundcube	roundcube/roundcubemail	Branded webmail bundled with mail hosting
+Email Servers & Mail Hosting	SnappyMail	the-djmaze/snappymail	White-label webmail for ISPs
+Email Servers & Mail Hosting	SOGo	Alinto/sogo	Groupware email/calendar hosting for schools
+Email Servers & Mail Hosting	Rspamd	rspamd/rspamd	Spam filtering gateway service, per-mailbox pricing
+Email Servers & Mail Hosting	Proxmox Mail Gateway	proxmox/pmg-api	Email security gateway as managed service
+Transactional Email & SMTP Relays	Postal	postalserver/postal	Mailgun-style transactional email service, per-1k emails
+Transactional Email & SMTP Relays	Listmonk	knadh/listmonk	Hosted newsletter platform, per-subscriber pricing
+Transactional Email & SMTP Relays	BillionMail	aaPanel/BillionMail	Email marketing SaaS for SMBs, tiered sending volume
+Transactional Email & SMTP Relays	Mautic	mautic/mautic	White-label marketing automation for agencies
+Transactional Email & SMTP Relays	Keila	pentacent/keila	Hosted newsletter tool for EU privacy-minded customers
+Transactional Email & SMTP Relays	useSend	usesend/useSend	Resend-style email API on SES, per-email pricing
+Transactional Email & SMTP Relays	Mailpit	axllent/mailpit	Hosted email testing sandbox for dev teams
+Transactional Email & SMTP Relays	Notifuse	Notifuse/notifuse	Transactional plus marketing email SaaS, per-contact pricing
+Transactional Email & SMTP Relays	Plunk	useplunk/plunk	Email platform for SaaS startups, usage pricing
+Transactional Email & SMTP Relays	KumoMTA	KumoCorp/kumomta	High-volume MTA hosting for senders, per-million pricing
+Transactional Email & SMTP Relays	Haraka	haraka/Haraka	Custom SMTP relay service with plugins
+Databases & DBaaS	Supabase Postgres	supabase/postgres	Managed Postgres hosting, per-instance pricing
+Databases & DBaaS	Neon	neondatabase/neon	Serverless Postgres DBaaS with branching, usage billing
+Databases & DBaaS	CloudNativePG	cloudnative-pg/cloudnative-pg	Postgres-as-a-service on Kubernetes for enterprises
+Databases & DBaaS	StackGres	ongres/stackgres	Managed Postgres platform for regulated industries
+Databases & DBaaS	Percona Everest	percona/everest	Private DBaaS platform, managed support subscription
+Databases & DBaaS	Vitess	vitessio/vitess	Scalable MySQL hosting like PlanetScale, usage pricing
+Databases & DBaaS	Valkey	valkey-io/valkey	Managed Redis-compatible cache, per-GB pricing
+Databases & DBaaS	Dragonfly	dragonflydb/dragonfly	High-performance cache hosting, memory-based pricing
+Databases & DBaaS	ClickHouse	ClickHouse/ClickHouse	Managed analytics database, compute plus storage billing
+Databases & DBaaS	CockroachDB	cockroachdb/cockroach	Distributed SQL hosting for global apps
+Databases & DBaaS	TiDB	pingcap/tidb	Managed HTAP MySQL-compatible database service
+Databases & DBaaS	YugabyteDB	yugabyte/yugabyte-db	Distributed Postgres DBaaS for fintech
+Databases & DBaaS	SurrealDB	surrealdb/surrealdb	Multi-model database hosting for startups
+Databases & DBaaS	libSQL	tursodatabase/libsql	Edge SQLite DBaaS, per-database pricing
+Databases & DBaaS	pgAdmin	pgadmin-org/pgadmin4	Hosted DB admin console bundled with DBaaS
+Databases & DBaaS	CloudBeaver	dbeaver/cloudbeaver	Web database IDE for teams, per-seat SaaS
+Databases & DBaaS	Autobase	vitabaks/autobase	Self-hosted DBaaS console for Postgres, support plans
+Databases & DBaaS	PgBouncer	pgbouncer/pgbouncer	Connection pooling add-on for managed Postgres
+Databases & DBaaS	Bytebase	bytebase/bytebase	Database change management SaaS for teams
+Databases & DBaaS	Qdrant	qdrant/qdrant	Managed vector database for AI apps, per-GB pricing
+Databases & DBaaS	Milvus	milvus-io/milvus	Vector search hosting for enterprises
+Databases & DBaaS	Weaviate	weaviate/weaviate	Managed vector DB with hybrid search, usage pricing
+Backups & Disaster Recovery	Restic	restic/restic	Encrypted backup service for SMB servers, per-TB pricing
+Backups & Disaster Recovery	BorgBackup	borgbackup/borg	Borg-compatible offsite backup hosting, per-GB plans
+Backups & Disaster Recovery	Borgmatic	borgmatic-collective/borgmatic	Managed server backup service with monitoring
+Backups & Disaster Recovery	Kopia	kopia/kopia	Branded desktop and server backup subscription
+Backups & Disaster Recovery	Duplicati	duplicati/duplicati	White-label backup client for MSPs, per-device fee
+Backups & Disaster Recovery	UrBackup	uroni/urbackup_backend	Managed endpoint backup for small offices
+Backups & Disaster Recovery	Velero	vmware-tanzu/velero	Kubernetes backup-as-a-service, per-cluster pricing
+Backups & Disaster Recovery	Bareos	bareos/bareos	Managed backup for datacenters, annual subscription
+Backups & Disaster Recovery	Rclone	rclone/rclone	Cloud-to-cloud migration and sync service
+Backups & Disaster Recovery	Proxmox Backup Server	proxmox/proxmox-backup	Offsite Proxmox backup targets, per-TB pricing
+Backups & Disaster Recovery	pgBackRest	pgbackrest/pgbackrest	Postgres backup and PITR service for DB customers
+Backups & Disaster Recovery	WAL-G	wal-g/wal-g	Database backup to object storage as managed add-on
+Backups & Disaster Recovery	Zerobyte	nicotsx/zerobyte	Restic-based backup dashboard for homelab customers
+Backups & Disaster Recovery	Backrest	garethgeorge/backrest	Branded restic web UI bundled with storage plans
+Monitoring & Observability	Prometheus	prometheus/prometheus	Managed metrics hosting, per-active-series pricing
+Monitoring & Observability	Grafana	grafana/grafana	White-label dashboards for MSPs, per-seat pricing
+Monitoring & Observability	VictoriaMetrics	VictoriaMetrics/VictoriaMetrics	Cost-efficient metrics SaaS, per-ingested-sample pricing
+Monitoring & Observability	Netdata	netdata/netdata	Managed real-time monitoring for SMB servers
+Monitoring & Observability	Zabbix	zabbix/zabbix	Monitoring-as-a-service for MSPs, per-host fee
+Monitoring & Observability	SigNoz	SigNoz/signoz	Datadog alternative SaaS, usage-based pricing
+Monitoring & Observability	OpenObserve	openobserve/openobserve	Low-cost observability platform, per-GB ingestion
+Monitoring & Observability	HyperDX	hyperdxio/hyperdx	Developer-friendly observability SaaS for startups
+Monitoring & Observability	Checkmk	Checkmk/checkmk	IT infrastructure monitoring for MSPs, per-host billing
+Monitoring & Observability	LibreNMS	librenms/librenms	Network monitoring for ISPs, managed service fee
+Monitoring & Observability	Icinga 2	Icinga/icinga2	Enterprise monitoring support and hosting
+Monitoring & Observability	Jaeger	jaegertracing/jaeger	Hosted distributed tracing, per-span pricing
+Monitoring & Observability	Grafana Tempo	grafana/tempo	Managed tracing backend on object storage
+Monitoring & Observability	Grafana Mimir	grafana/mimir	Multi-tenant Prometheus hosting for agencies
+Monitoring & Observability	Thanos	thanos-io/thanos	Long-term metrics retention service
+Monitoring & Observability	Beszel	henrygd/beszel	Lightweight server monitoring SaaS for VPS owners
+Monitoring & Observability	Coroot	coroot/coroot	eBPF-based APM for SMBs, per-node pricing
+Monitoring & Observability	Pyroscope	grafana/pyroscope	Continuous profiling service for performance teams
+Monitoring & Observability	OpenTelemetry Collector	open-telemetry/opentelemetry-collector	Telemetry pipeline management service
+Monitoring & Observability	Uptrace	uptrace/uptrace	OpenTelemetry APM SaaS, per-GB pricing
+Logging & Log Management	Grafana Loki	grafana/loki	Hosted log aggregation, per-GB ingestion pricing
+Logging & Log Management	Graylog	Graylog2/graylog2-server	Managed log management for compliance customers
+Logging & Log Management	OpenSearch	opensearch-project/OpenSearch	Managed search and logging clusters, per-node pricing
+Logging & Log Management	Quickwit	quickwit-oss/quickwit	Cheap log search on object storage SaaS
+Logging & Log Management	Vector	vectordotdev/vector	Log pipeline management service for enterprises
+Logging & Log Management	Fluent Bit	fluent/fluent-bit	Edge log shipping as managed add-on
+Logging & Log Management	Fluentd	fluent/fluentd	Log routing consulting and managed pipelines
+Logging & Log Management	Parseable	parseablehq/parseable	Log analytics SaaS on S3, usage pricing
+Logging & Log Management	VictoriaLogs	VictoriaMetrics/VictoriaLogs	Low-cost log storage service for SMBs
+Logging & Log Management	Dozzle	amir20/dozzle	Container log viewer bundled with hosting plans
+Logging & Log Management	Logstash	elastic/logstash	Managed ELK pipeline service
+Logging & Log Management	rsyslog	rsyslog/rsyslog	Centralized syslog hosting for network gear
+Logging & Log Management	Wazuh	wazuh/wazuh	Managed SIEM/XDR for SMBs, per-agent pricing
+Logging & Log Management	GreptimeDB	GreptimeTeam/greptimedb	Unified metrics/logs DB hosting, usage pricing
+Uptime Monitoring & Status Pages	Uptime Kuma	louislam/uptime-kuma	White-label uptime monitoring SaaS, per-monitor pricing
+Uptime Monitoring & Status Pages	Gatus	TwiN/gatus	Status page plus health checks for dev teams
+Uptime Monitoring & Status Pages	Cachet	cachethq/cachet	Hosted status pages, per-page subscription
+Uptime Monitoring & Status Pages	Upptime	upptime/upptime	GitHub-powered status pages setup service
+Uptime Monitoring & Status Pages	OneUptime	OneUptime/oneuptime	Full incident management SaaS, per-seat pricing
+Uptime Monitoring & Status Pages	OpenStatus	openstatusHQ/openstatus	Global synthetic monitoring SaaS, usage pricing
+Uptime Monitoring & Status Pages	Kener	rajnandan1/kener	Beautiful hosted status pages for startups
+Uptime Monitoring & Status Pages	Healthchecks	healthchecks/healthchecks	Cron job monitoring SaaS, per-check pricing
+Uptime Monitoring & Status Pages	cState	cstate/cstate	Static status page hosting for agencies
+Uptime Monitoring & Status Pages	Peekaping	0xfurai/peekaping	Uptime monitoring SaaS with branded status pages
+Uptime Monitoring & Status Pages	Vigil	valeriansaliou/vigil	Microservices status page service
+Uptime Monitoring & Status Pages	Kuvasz	kuvasz-uptime/kuvasz	Uptime and SSL monitoring SaaS
+CI/CD	Woodpecker CI	woodpecker-ci/woodpecker	Hosted CI for small teams, per-pipeline-minute pricing
+CI/CD	Drone	harness/drone	Managed container-native CI, per-runner pricing
+CI/CD	Jenkins	jenkinsci/jenkins	Managed Jenkins hosting and migration service
+CI/CD	Argo CD	argoproj/argo-cd	GitOps-as-a-service for K8s teams, per-cluster pricing
+CI/CD	Flux	fluxcd/flux2	Managed GitOps delivery for enterprises
+CI/CD	Tekton	tektoncd/pipeline	Kubernetes-native CI platform consulting
+CI/CD	Concourse	concourse/concourse	Hosted pipeline service for platform teams
+CI/CD	GoCD	gocd/gocd	Managed continuous delivery for enterprises
+CI/CD	Buildbot	buildbot/buildbot	Custom CI for embedded/hardware teams
+CI/CD	Dagger	dagger/dagger	Portable CI pipelines consulting and managed runners
+CI/CD	Act	nektos/act	Local GitHub Actions runner tooling for consultancies
+CI/CD	Actions Runner Controller	actions/actions-runner-controller	Cheaper hosted GitHub Actions runners, per-minute billing
+CI/CD	Spinnaker	spinnaker/spinnaker	Multi-cloud deployment platform as managed service
+CI/CD	Argo Workflows	argoproj/argo-workflows	Workflow execution platform for ML teams
+Git Hosting	Gitea	go-gitea/gitea	Managed private git hosting, per-user pricing
+Git Hosting	GitLab CE	gitlabhq/gitlabhq	Managed GitLab instances for regulated companies
+Git Hosting	Gogs	gogs/gogs	Lightweight git hosting for schools
+Git Hosting	Gerrit	GerritCodeReview/gerrit	Code review hosting for large engineering orgs
+Git Hosting	Soft Serve	charmbracelet/soft-serve	SSH-first git hosting for developers
+Git Hosting	Radicle Heartwood	radicle-dev/heartwood	Peer-to-peer code hosting seed nodes, subscription
+Git Hosting	Harness Open Source	harness/harness	Git plus CI platform for SMB dev teams
+Git Hosting	GitBucket	gitbucket/gitbucket	JVM git hosting for enterprise intranets
+Git Hosting	Phorge	phorgeit/phorge	Managed Phabricator successor for dev teams
+Git Hosting	OneDev	theonedev/onedev	All-in-one git plus CI SaaS for small teams
+Container Registries	Harbor	goharbor/harbor	Private container registry SaaS, per-GB storage
+Container Registries	Distribution	distribution/distribution	Simple managed Docker registry hosting
+Container Registries	Zot	project-zot/zot	OCI registry for edge deployments, managed service
+Container Registries	Quay	quay/quay	Enterprise registry with security scanning
+Container Registries	Dragonfly P2P	dragonflyoss/dragonfly	P2P image distribution for large clusters
+Container Registries	Kraken	uber/kraken	High-scale image distribution for enterprises
+Container Registries	Pulp	pulp/pulpcore	Managed artifact repository for Linux packages
+Container Registries	Reposilite	dzikoysk/reposilite	Hosted Maven repository for Java teams
+Container Registries	Verdaccio	verdaccio/verdaccio	Private npm registry SaaS, per-seat pricing
+Container Registries	Spegel	spegel-org/spegel	Cluster-local registry mirroring consulting
+Container Registries	Trivy	aquasecurity/trivy	Container vulnerability scanning service
+Container Registries	Docker Registry UI	Joxit/docker-registry-ui	Branded registry dashboard bundled with storage
+Kubernetes Platforms & Dashboards	Rancher	rancher/rancher	Managed multi-cluster Kubernetes for MSPs
+Kubernetes Platforms & Dashboards	k3s	k3s-io/k3s	Edge Kubernetes hosting, per-node pricing
+Kubernetes Platforms & Dashboards	Talos Linux	siderolabs/talos	Managed immutable Kubernetes clusters
+Kubernetes Platforms & Dashboards	Kubernetes Dashboard	kubernetes/dashboard	Branded cluster UI for managed K8s customers
+Kubernetes Platforms & Dashboards	Headlamp	kubernetes-sigs/headlamp	White-label Kubernetes UI with plugins
+Kubernetes Platforms & Dashboards	Portainer	portainer/portainer	Container management for SMBs, per-node licensing
+Kubernetes Platforms & Dashboards	KubeSphere	kubesphere/kubesphere	Enterprise container platform, support subscription
+Kubernetes Platforms & Dashboards	vCluster	loft-sh/vcluster	Multi-tenant virtual clusters as a service
+Kubernetes Platforms & Dashboards	Kamaji	clastix/kamaji	Hosted control planes for Kubernetes providers
+Kubernetes Platforms & Dashboards	Cluster API	kubernetes-sigs/cluster-api	Managed Kubernetes offering for hosting companies
+Kubernetes Platforms & Dashboards	Gardener	gardener/gardener	Kubernetes-as-a-service platform for clouds
+Kubernetes Platforms & Dashboards	k0s	k0sproject/k0s	Simple managed Kubernetes for SMB customers
+Kubernetes Platforms & Dashboards	Backstage	backstage/backstage	Internal developer portal as managed service
+Kubernetes Platforms & Dashboards	Cozystack	cozystack/cozystack	Build-your-own-cloud platform for hosting providers
+Kubernetes Platforms & Dashboards	Komodo	moghtech/komodo	Docker fleet management for small hosts
+Kubernetes Platforms & Dashboards	Dockge	louislam/dockge	Compose stack manager bundled with VPS
+Kubernetes Platforms & Dashboards	k9s	derailed/k9s	Kubernetes ops training and support packages
+Kubernetes Platforms & Dashboards	Sidero Omni	siderolabs/omni	Managed Talos bare-metal clusters
+Serverless & FaaS	OpenFaaS	openfaas/faas	Managed functions platform, per-invocation pricing
+Serverless & FaaS	Knative Serving	knative/serving	Scale-to-zero app hosting, usage billing
+Serverless & FaaS	Fission	fission/fission	Kubernetes FaaS for enterprises
+Serverless & FaaS	Apache OpenWhisk	apache/openwhisk	Regional serverless cloud offering
+Serverless & FaaS	Nuclio	nuclio/nuclio	Real-time data functions for analytics teams
+Serverless & FaaS	Fn Project	fnproject/fn	Container-native functions hosting
+Serverless & FaaS	Windmill	windmill-labs/windmill	Scripts-to-apps platform SaaS, per-execution pricing
+Serverless & FaaS	Trigger.dev	triggerdotdev/trigger.dev	Background jobs platform, usage-based pricing
+Serverless & FaaS	Inngest	inngest/inngest	Durable functions hosting for app developers
+Serverless & FaaS	Firecracker	firecracker-microvm/firecracker	MicroVM hosting platform, per-second billing
+Serverless & FaaS	Unikraft	unikraft/unikraft	Unikernel cloud for low-latency apps
+Edge & WebAssembly Runtimes	Wasmtime	bytecodealliance/wasmtime	Wasm plugin hosting for SaaS extensibility
+Edge & WebAssembly Runtimes	WasmEdge	WasmEdge/WasmEdge	Edge AI inference hosting, per-request pricing
+Edge & WebAssembly Runtimes	Spin	spinframework/spin	Wasm serverless hosting, per-request billing
+Edge & WebAssembly Runtimes	wasmCloud	wasmCloud/wasmCloud	Distributed Wasm platform for enterprises
+Edge & WebAssembly Runtimes	workerd	cloudflare/workerd	Self-hosted Workers-compatible edge platform
+Edge & WebAssembly Runtimes	Deno	denoland/deno	Managed Deno app hosting
+Edge & WebAssembly Runtimes	Wasmer	wasmerio/wasmer	Wasm app hosting marketplace
+Edge & WebAssembly Runtimes	Extism	extism/extism	Plugin system consulting for SaaS vendors
+Edge & WebAssembly Runtimes	SpinKube Operator	spinframework/spin-operator	Wasm-on-Kubernetes managed service
+Edge & WebAssembly Runtimes	Bun	oven-sh/bun	Fast JS hosting runtime for managed app plans
+VPN & Mesh Networking	Headscale	juanfont/headscale	Hosted Tailscale control server, per-device pricing
+VPN & Mesh Networking	NetBird	netbirdio/netbird	Zero-trust mesh VPN SaaS for SMBs, per-user pricing
+VPN & Mesh Networking	Netmaker	gravitl/netmaker	WireGuard network management for MSPs
+VPN & Mesh Networking	wg-easy	wg-easy/wg-easy	Personal VPN hosting, monthly subscription
+VPN & Mesh Networking	Firezone	firezone/firezone	Zero-trust access for remote teams, per-seat
+VPN & Mesh Networking	OpenVPN	OpenVPN/openvpn	Branded VPN service, per-user monthly pricing
+VPN & Mesh Networking	Pritunl	pritunl/pritunl	Enterprise VPN server hosting
+VPN & Mesh Networking	Nebula	slackhq/nebula	Overlay networking for IoT fleets
+VPN & Mesh Networking	ZeroTier	zerotier/ZeroTierOne	Self-hosted SD-WAN for branch offices
+VPN & Mesh Networking	Outline Server	Jigsaw-Code/outline-server	Censorship-resistant VPN service for NGOs
+VPN & Mesh Networking	Algo VPN	trailofbits/algo	Turnkey private VPN deployment service
+VPN & Mesh Networking	innernet	tonarino/innernet	Private network setup for dev teams
+VPN & Mesh Networking	WireGuard Portal	h44z/wg-portal	White-label WireGuard portal for ISPs
+VPN & Mesh Networking	SoftEther VPN	SoftEtherVPN/SoftEtherVPN	Multi-protocol VPN hosting for enterprises
+VPN & Mesh Networking	Defguard	DefGuard/defguard	WireGuard VPN with MFA for regulated companies
+Identity, SSO & Auth	Keycloak	keycloak/keycloak	Managed SSO for B2B SaaS, per-MAU pricing
+Identity, SSO & Auth	Authentik	goauthentik/authentik	White-label identity provider for MSPs
+Identity, SSO & Auth	Authelia	authelia/authelia	SSO gateway bundled with hosting plans
+Identity, SSO & Auth	Zitadel	zitadel/zitadel	Multi-tenant auth SaaS, per-MAU pricing
+Identity, SSO & Auth	Ory Kratos	ory/kratos	Headless identity service for app builders
+Identity, SSO & Auth	Ory Hydra	ory/hydra	OAuth2 provider as a service
+Identity, SSO & Auth	Casdoor	casdoor/casdoor	Branded IAM portal for Asian SaaS market
+Identity, SSO & Auth	Logto	logto-io/logto	Auth0 alternative SaaS for startups
+Identity, SSO & Auth	SuperTokens	supertokens/supertokens-core	Managed auth backend, per-MAU pricing
+Identity, SSO & Auth	Kanidm	kanidm/kanidm	Identity management for small orgs
+Identity, SSO & Auth	LLDAP	lldap/lldap	Hosted lightweight LDAP for SMB tools
+Identity, SSO & Auth	FreeIPA	freeipa/freeipa	Managed Linux identity for enterprises
+Identity, SSO & Auth	Dex	dexidp/dex	Federated OIDC connector service for Kubernetes
+Identity, SSO & Auth	Pocket ID	pocket-id/pocket-id	Passkey-only SSO for small teams
+Identity, SSO & Auth	Better Auth	better-auth/better-auth	Auth integration consulting for TypeScript apps
+Identity, SSO & Auth	SAML Jackson	boxyhq/jackson	Enterprise SAML SSO add-on for SaaS vendors
+Identity, SSO & Auth	Teleport	gravitational/teleport	Managed infrastructure access, per-resource pricing
+Secrets Management	OpenBao	openbao/openbao	Managed Vault-compatible secrets service
+Secrets Management	Infisical	Infisical/infisical	Secrets manager SaaS for dev teams, per-seat pricing
+Secrets Management	Vaultwarden	dani-garcia/vaultwarden	Hosted password manager for families and SMBs
+Secrets Management	Bitwarden Server	bitwarden/server	Managed password manager for MSP clients
+Secrets Management	Passbolt	passbolt/passbolt_api	Team password manager SaaS for agencies
+Secrets Management	External Secrets Operator	external-secrets/external-secrets	Secrets sync consulting for K8s teams
+Secrets Management	Sealed Secrets	bitnami-labs/sealed-secrets	GitOps secrets management service
+Secrets Management	SOPS	getsops/sops	Encrypted config workflow consulting
+Secrets Management	Phase	phasehq/console	Developer secrets platform SaaS
+Secrets Management	Psono	psono/psono-server	Enterprise password management hosting
+Secrets Management	Teller	tellerops/teller	Multi-provider secrets tooling for consultancies
+Secrets Management	Conjur	cyberark/conjur	Machine identity secrets for enterprises
+API Gateways	Kong	Kong/kong	Managed API gateway, per-request pricing
+API Gateways	Apache APISIX	apache/apisix	API gateway SaaS for microservices teams
+API Gateways	Tyk	TykTechnologies/tyk	API management platform for enterprises
+API Gateways	KrakenD	krakend/krakend-ce	High-performance API aggregation service
+API Gateways	Gravitee	gravitee-io/gravitee-api-management	API management with developer portal, tiered plans
+API Gateways	WSO2 API Manager	wso2/product-apim	Enterprise API management hosting
+API Gateways	Lura	luraproject/lura	Custom API gateway builds for clients
+API Gateways	Envoy Gateway	envoyproxy/gateway	Kubernetes gateway managed service
+API Gateways	Unkey	unkeyed/unkey	API key management and rate limiting SaaS
+API Gateways	Fusio	apioo/fusio	API monetization platform for data providers
+API Gateways	LiteLLM	BerriAI/litellm	LLM API gateway SaaS, per-token markup
+API Gateways	Portkey Gateway	Portkey-AI/gateway	AI gateway with routing, usage pricing
+API Gateways	Hoppscotch	hoppscotch/hoppscotch	Hosted API testing workspace for teams
+Message Queues & Streaming	RabbitMQ	rabbitmq/rabbitmq-server	Managed message broker, per-instance pricing
+Message Queues & Streaming	Apache Kafka	apache/kafka	Managed Kafka clusters, throughput-based pricing
+Message Queues & Streaming	Redpanda	redpanda-data/redpanda	Kafka-compatible streaming service
+Message Queues & Streaming	NATS	nats-io/nats-server	Managed messaging for IoT and edge
+Message Queues & Streaming	Apache Pulsar	apache/pulsar	Multi-tenant streaming service for enterprises
+Message Queues & Streaming	EMQX	emqx/emqx	Managed MQTT broker for IoT, per-connection pricing
+Message Queues & Streaming	Mosquitto	eclipse-mosquitto/mosquitto	Hosted MQTT for hobbyist IoT
+Message Queues & Streaming	AutoMQ	AutoMQ/automq	Cost-efficient Kafka on S3 service
+Message Queues & Streaming	Apache RocketMQ	apache/rocketmq	Messaging service for e-commerce platforms
+Message Queues & Streaming	LavinMQ	cloudamqp/lavinmq	High-throughput AMQP hosting
+Message Queues & Streaming	ElasticMQ	softwaremill/elasticmq	SQS-compatible queue for dev environments
+Realtime & Webhooks	Centrifugo	centrifugal/centrifugo	Realtime WebSocket hosting, per-connection pricing
+Realtime & Webhooks	Soketi	soketi/soketi	Pusher-compatible realtime service, cheaper plans
+Realtime & Webhooks	Svix	svix/svix-webhooks	Webhooks-as-a-service, per-message pricing
+Realtime & Webhooks	Hook0	hook0/hook0	Webhook delivery SaaS for API companies
+Realtime & Webhooks	Convoy Webhooks	frain-dev/convoy	Webhook gateway SaaS, per-event pricing
+Search Engines	Meilisearch	meilisearch/meilisearch	Hosted instant search for e-commerce, per-document pricing
+Search Engines	Typesense	typesense/typesense	Algolia alternative SaaS, per-node pricing
+Search Engines	Elasticsearch	elastic/elasticsearch	Managed search clusters for enterprises
+Search Engines	Manticore Search	manticoresoftware/manticoresearch	Full-text search hosting for publishers
+Search Engines	ZincSearch	zincsearch/zincsearch	Lightweight search hosting for small apps
+Search Engines	Sonic	valeriansaliou/sonic	Low-resource search backend service
+Search Engines	Tantivy	quickwit-oss/tantivy	Custom search engine builds for clients
+Search Engines	Vespa	vespa-engine/vespa	Large-scale search and recommendation service
+Search Engines	Apache Solr	apache/solr	Managed Solr hosting for legacy apps
+Search Engines	SearXNG	searxng/searxng	Private metasearch subscription for privacy users
+Search Engines	ParadeDB	paradedb/paradedb	Postgres full-text search DBaaS
+Search Engines	Orama	oramasearch/orama	Edge search for docs sites, usage pricing
+WAF & Security	ModSecurity	owasp-modsecurity/ModSecurity	Managed WAF for hosting customers
+WAF & Security	OWASP Coraza	corazawaf/coraza	Go WAF embedded in managed proxy service
+WAF & Security	SafeLine	chaitin/SafeLine	Branded WAF appliance for SMB websites
+WAF & Security	BunkerWeb	bunkerity/bunkerweb	Managed security reverse proxy, per-site pricing
+WAF & Security	CrowdSec	crowdsecurity/crowdsec	Collaborative IPS for hosting fleets
+WAF & Security	Fail2ban	fail2ban/fail2ban	Server hardening packages for VPS customers
+WAF & Security	Suricata	OISF/suricata	Managed IDS/IPS for SMB networks
+WAF & Security	Zeek	zeek/zeek	Network security monitoring service
+WAF & Security	Falco	falcosecurity/falco	Runtime container security for K8s hosts
+WAF & Security	Anubis	TecharoHQ/anubis	AI-scraper protection service for websites
+WAF & Security	open-appsec	openappsec/openappsec	ML-based WAF for API-heavy customers
+WAF & Security	Nuclei	projectdiscovery/nuclei	Vulnerability scanning SaaS for agencies
+WAF & Security	OpenVAS Scanner	greenbone/openvas-scanner	Managed vulnerability assessment for SMBs
+WAF & Security	Pomerium	pomerium/pomerium	Identity-aware proxy for zero-trust access
+WAF & Security	OAuth2 Proxy	oauth2-proxy/oauth2-proxy	SSO protection add-on for hosted apps
+Backend-as-a-Service	Supabase	supabase/supabase	Managed Firebase alternative, per-project pricing
+Backend-as-a-Service	Appwrite	appwrite/appwrite	White-label BaaS for agencies building apps
+Backend-as-a-Service	PocketBase	pocketbase/pocketbase	Cheap single-binary backend hosting
+Backend-as-a-Service	Parse Server	parse-community/parse-server	Managed Parse hosting for legacy apps
+Backend-as-a-Service	Nhost	nhost/nhost	GraphQL BaaS for startups
+Backend-as-a-Service	Convex	get-convex/convex-backend	Reactive backend hosting, usage pricing
+Backend-as-a-Service	Directus	directus/directus	Headless data platform for agencies
+Backend-as-a-Service	Hasura	hasura/graphql-engine	Managed GraphQL APIs on databases
+Backend-as-a-Service	InsForge	InsForge/InsForge	AI-agent backend platform SaaS
+Backend-as-a-Service	Encore	encoredev/encore	Backend framework with managed cloud deployment
+Backend-as-a-Service	Instant	instantdb/instant	Realtime client-side database hosting
+Backend-as-a-Service	NocoDB	nocodb/nocodb	Airtable alternative SaaS on customer databases
+Backend-as-a-Service	Teable	teableio/teable	No-code database SaaS for teams
+Backend-as-a-Service	PostgREST	PostgREST/postgrest	Instant REST API hosting on Postgres
+Backend-as-a-Service	Manifest	mnfst/manifest	Tiny BaaS for prototypes and MVPs
+File Sync & Cloud Drives	Nextcloud	nextcloud/server	White-label cloud drive for SMBs, per-user pricing
+File Sync & Cloud Drives	ownCloud Infinite Scale	owncloud/ocis	Enterprise file sync hosting
+File Sync & Cloud Drives	Seafile	haiwen/seafile	High-performance file sync hosting for teams
+File Sync & Cloud Drives	Syncthing	syncthing/syncthing	Managed relay and backup nodes for sync users
+File Sync & Cloud Drives	File Browser	filebrowser/filebrowser	Branded file manager bundled with storage plans
+File Sync & Cloud Drives	Pydio Cells	pydio/cells	Secure document sharing for regulated firms
+File Sync & Cloud Drives	Cloudreve	cloudreve/cloudreve	Multi-backend cloud drive SaaS
+File Sync & Cloud Drives	SFTPGo	drakkan/sftpgo	Managed SFTP/FTP hosting for B2B file exchange
+File Sync & Cloud Drives	PsiTransfer	psi-4ward/psitransfer	WeTransfer-style file transfer service
+File Sync & Cloud Drives	Pingvin Share	stonith404/pingvin-share	Branded file sharing for agencies
+File Sync & Cloud Drives	Immich	immich-app/immich	Hosted Google Photos alternative, per-TB pricing
+File Sync & Cloud Drives	AList	AlistGo/alist	Unified cloud storage portal service
+File Sync & Cloud Drives	OpenCloud	opencloud-eu/opencloud	EU sovereign cloud drive hosting
+File Sync & Cloud Drives	Zipline	diced/zipline	ShareX upload host for creators
+Remote Desktop & VDI	Apache Guacamole	apache/guacamole-server	Browser-based remote access SaaS for MSPs
+Remote Desktop & VDI	RustDesk	rustdesk/rustdesk	White-label remote support tool, per-technician pricing
+Remote Desktop & VDI	RustDesk Server	rustdesk/rustdesk-server	Hosted relay servers for remote support
+Remote Desktop & VDI	MeshCentral	Ylianst/MeshCentral	RMM and remote management for MSPs
+Remote Desktop & VDI	KasmVNC	kasmtech/KasmVNC	Browser-streamed desktops, per-user pricing
+Remote Desktop & VDI	Selkies	selkies-project/selkies	GPU cloud desktops for creative teams
+Remote Desktop & VDI	Sunshine	LizardByte/Sunshine	Cloud gaming PCs, hourly rental
+Remote Desktop & VDI	Neko	m1k1o/neko	Shared virtual browser rooms service
+Remote Desktop & VDI	Tactical RMM	amidaware/tacticalrmm	MSP remote monitoring and management, per-agent
+Remote Desktop & VDI	xrdp	neutrinolabs/xrdp	Linux VDI hosting for developers
+Remote Desktop & VDI	Webtop	linuxserver/docker-webtop	Desktop-in-browser hosting subscription
+Cloud Dev Environments	Coder	coder/coder	Cloud development environments, per-seat pricing
+Cloud Dev Environments	code-server	coder/code-server	Hosted VS Code for bootcamps and schools
+Cloud Dev Environments	DevPod	loft-sh/devpod	Dev environment provisioning service
+Cloud Dev Environments	Eclipse Che	eclipse-che/che	Enterprise cloud IDE platform
+Cloud Dev Environments	E2B	e2b-dev/E2B	AI code sandbox hosting, per-second pricing
+Cloud Dev Environments	Daytona	daytonaio/daytona	AI agent sandbox infrastructure SaaS
+Tunneling (ngrok Alternatives)	frp	fatedier/frp	Hosted tunneling service, per-tunnel pricing
+Tunneling (ngrok Alternatives)	Rathole	rapiz1/rathole	Lightweight NAT traversal service for IoT
+Tunneling (ngrok Alternatives)	bore	ekzhang/bore	Simple TCP tunnel SaaS for developers
+Tunneling (ngrok Alternatives)	sish	antoniomika/sish	SSH-based ngrok alternative, subscription
+Tunneling (ngrok Alternatives)	zrok	openziti/zrok	Zero-trust sharing service, usage tiers
+Tunneling (ngrok Alternatives)	OpenZiti	openziti/ziti	Zero-trust overlay network for app vendors
+Tunneling (ngrok Alternatives)	Chisel	jpillora/chisel	HTTP tunneling service through firewalls
+Tunneling (ngrok Alternatives)	Expose	beyondcode/expose	PHP-dev tunneling SaaS, per-seat
+Tunneling (ngrok Alternatives)	Tunnelmole	robbie-cahill/tunnelmole-client	Developer tunnel service, freemium plans
+Tunneling (ngrok Alternatives)	boringproxy	boringproxy/boringproxy	Self-hosted tunnels for home servers
+Tunneling (ngrok Alternatives)	Piko	andydunstall/piko	Reverse proxy tunneling for SaaS on-prem agents
+Feature Flags	Unleash	Unleash/unleash	Feature flag SaaS, per-seat pricing
+Feature Flags	Flagsmith	Flagsmith/flagsmith	Feature flags and remote config hosting
+Feature Flags	GrowthBook	growthbook/growthbook	Experimentation platform SaaS for product teams
+Feature Flags	Flipt	flipt-io/flipt	Git-native feature flags for enterprises
+Feature Flags	FeatBit	featbit/featbit	Feature flags for .NET shops, managed hosting
+Feature Flags	GO Feature Flag	thomaspoignant/go-feature-flag	Lightweight flag service, flat monthly fee
+Feature Flags	flagd	open-feature/flagd	Flag evaluation service consulting
+Feature Flags	Flagr	openflagr/flagr	A/B testing service for e-commerce
+Feature Flags	PostHog	PostHog/posthog	Product analytics plus flags, usage pricing
+Feature Flags	Bucketeer	bucketeer-io/bucketeer	Mobile feature flags SaaS
+Error Tracking & Session Replay	Sentry	getsentry/sentry	Managed error tracking, per-event pricing
+Error Tracking & Session Replay	Sentry Self-Hosted	getsentry/self-hosted	Managed self-hosted Sentry for regulated clients
+Error Tracking & Session Replay	Bugsink	bugsink/bugsink	Cheap Sentry-compatible error tracking SaaS
+Error Tracking & Session Replay	Exceptionless	exceptionless/Exceptionless	.NET error reporting hosting
+Error Tracking & Session Replay	Errbit	errbit/errbit	Airbrake-compatible error hosting
+Error Tracking & Session Replay	Highlight	highlight/highlight	Session replay plus errors SaaS
+Error Tracking & Session Replay	OpenReplay	openreplay/openreplay	Session replay hosting for privacy-sensitive firms
+Error Tracking & Session Replay	rrweb	rrweb-io/rrweb	Session recording service build for agencies
+Error Tracking & Session Replay	Grafana Faro	grafana/faro-web-sdk	Frontend observability service
+Error Tracking & Session Replay	Errsole	errsole/errsole.js	Node.js logging and error dashboard SaaS
+Cron & Job Schedulers	Cronicle	jhuckaby/Cronicle	Hosted cron scheduler with web UI
+Cron & Job Schedulers	Temporal	temporalio/temporal	Durable workflow hosting, per-action pricing
+Cron & Job Schedulers	Apache Airflow	apache/airflow	Managed Airflow for data teams
+Cron & Job Schedulers	Kestra	kestra-io/kestra	Orchestration platform SaaS, per-execution pricing
+Cron & Job Schedulers	Prefect	PrefectHQ/prefect	Data workflow orchestration hosting
+Cron & Job Schedulers	Dagu	dagu-org/dagu	Lightweight DAG scheduler service for SMBs
+Cron & Job Schedulers	Rundeck	rundeck/rundeck	Runbook automation for ops teams
+Cron & Job Schedulers	Ofelia	mcuadros/ofelia	Docker cron management add-on
+Cron & Job Schedulers	Hatchet	hatchet-dev/hatchet	Task queue platform SaaS for developers
+Cron & Job Schedulers	Dkron	distribworks/dkron	Distributed cron service for enterprises
+Cron & Job Schedulers	Camunda	camunda/camunda	BPMN process orchestration hosting
+Cron & Job Schedulers	Conductor	conductor-oss/conductor	Microservices orchestration service
+Cron & Job Schedulers	Dagster	dagster-io/dagster	Data asset orchestration hosting
+Workflow Automation	n8n	n8n-io/n8n	White-label workflow automation for agencies
+Workflow Automation	Activepieces	activepieces/activepieces	Zapier alternative SaaS, per-task pricing
+Infrastructure as Code & Config	OpenTofu	opentofu/opentofu	Managed IaC state and runs, per-resource pricing
+Infrastructure as Code & Config	Terrakube	AzBuilder/terrakube	Terraform Cloud alternative SaaS
+Infrastructure as Code & Config	Atlantis	runatlantis/atlantis	Hosted Terraform PR automation
+Infrastructure as Code & Config	Pulumi	pulumi/pulumi	IaC consulting and managed state
+Infrastructure as Code & Config	Ansible	ansible/ansible	Automation consulting retainers for SMB infra
+Infrastructure as Code & Config	AWX	ansible/awx	Managed Ansible automation platform
+Infrastructure as Code & Config	Semaphore UI	semaphoreui/semaphore	Ansible/Terraform UI SaaS for small teams
+Infrastructure as Code & Config	Crossplane	crossplane/crossplane	Internal cloud control planes for enterprises
+Infrastructure as Code & Config	Salt	saltstack/salt	Config management support for large fleets
+Infrastructure as Code & Config	Digger	diggerhq/digger	Terraform CI orchestration service
+Infrastructure as Code & Config	Terragrunt	gruntwork-io/terragrunt	Multi-env IaC consulting packages
+Infrastructure as Code & Config	Terramate	terramate-io/terramate	IaC stack orchestration service
+Web Servers & App Hosting	Nginx	nginx/nginx	Managed web hosting stacks, per-site pricing
+Web Servers & App Hosting	Apache HTTP Server	apache/httpd	Legacy app hosting with support
+Web Servers & App Hosting	OpenLiteSpeed	litespeedtech/openlitespeed	Fast WordPress hosting plans
+Web Servers & App Hosting	FrankenPHP	php/frankenphp	Modern PHP app hosting, per-app pricing
+Web Servers & App Hosting	NGINX Unit	nginx/unit	Polyglot app server hosting
+Web Servers & App Hosting	WordOps	WordOps/WordOps	Managed WordPress VPS hosting
+Web Servers & App Hosting	EasyEngine	EasyEngine/easyengine	WordPress hosting for agencies, per-site
+Web Servers & App Hosting	Static Web Server	static-web-server/static-web-server	Static site hosting service
+Web Servers & App Hosting	Lighttpd	lighttpd/lighttpd1.4	Low-resource hosting for embedded devices
+Web Servers & App Hosting	H2O	h2o/h2o	HTTP/3 optimized hosting tier
+Web Servers & App Hosting	WP-CLI	wp-cli/wp-cli	WordPress maintenance service for agencies
+Certificates & PKI	Certbot	certbot/certbot	SSL management service for small sites
+Certificates & PKI	acme.sh	acmesh-official/acme.sh	Automated SSL as part of hosting plans
+Certificates & PKI	cert-manager	cert-manager/cert-manager	Certificate automation for managed K8s
+Certificates & PKI	Boulder	letsencrypt/boulder	Private ACME CA for enterprises
+Certificates & PKI	EJBCA	Keyfactor/ejbca-ce	Managed PKI for enterprises
+Certificates & PKI	Lego	go-acme/lego	ACME client integration for hosting platforms
+Certificates & PKI	CFSSL	cloudflare/cfssl	Internal PKI toolkit consulting
+Certificates & PKI	Certimate	certimate-go/certimate	SSL certificate management SaaS for resellers
+Certificates & PKI	step-ca	smallstep/certificates	Private certificate authority as a service
+Network Management & IPAM	NetBox	netbox-community/netbox	Managed source of truth for datacenters
+Network Management & IPAM	phpIPAM	phpipam/phpipam	IP address management for ISPs
+Network Management & IPAM	Nautobot	nautobot/nautobot	Network automation platform hosting
+Network Management & IPAM	OPNsense	opnsense/core	Managed firewall service for SMBs
+Network Management & IPAM	VyOS	vyos/vyos-1x	Virtual router service for cloud networks
+Network Management & IPAM	Oxidized	ytti/oxidized	Network config backup service for MSPs
+Network Management & IPAM	FRRouting	FRRouting/frr	BGP routing consulting for hosting providers
+Network Management & IPAM	Kea DHCP	isc-projects/kea	Managed DHCP for ISPs
+Network Management & IPAM	OpenWISP	openwisp/openwisp-controller	Managed WiFi networks for venues
+Network Management & IPAM	Cilium	cilium/cilium	Kubernetes networking and security support
+Network Management & IPAM	Calico	projectcalico/calico	Network policy consulting for K8s platforms
+Network Management & IPAM	MetalLB	metallb/metallb	Bare-metal load balancing for K8s hosts
+Bare Metal Provisioning	MAAS	canonical/maas	Bare-metal cloud for hosting providers
+Bare Metal Provisioning	Tinkerbell	tinkerbell/tinkerbell	Bare-metal provisioning service
+Bare Metal Provisioning	Foreman	theforeman/foreman	Server lifecycle management for datacenters
+Bare Metal Provisioning	Metal3	metal3-io/baremetal-operator	Bare-metal Kubernetes hosting
+Bare Metal Provisioning	netboot.xyz	netbootxyz/netboot.xyz	PXE boot service for datacenters
+Bare Metal Provisioning	Cobbler	cobbler/cobbler	Server provisioning consulting
+Bare Metal Provisioning	OpenStack Ironic	openstack/ironic	Bare-metal-as-a-service for regional clouds
+Bare Metal Provisioning	Matchbox	poseidon/matchbox	Network boot automation for fleets
+Service Mesh & Orchestration	Istio	istio/istio	Service mesh consulting and managed control planes
+Service Mesh & Orchestration	Linkerd	linkerd/linkerd2	Lightweight mesh support subscriptions
+Service Mesh & Orchestration	Consul	hashicorp/consul	Service discovery hosting for enterprises
+Service Mesh & Orchestration	Kuma	kumahq/kuma	Multi-zone mesh for enterprises
+Service Mesh & Orchestration	Nomad	hashicorp/nomad	Managed workload orchestration for SMBs
+Service Mesh & Orchestration	etcd	etcd-io/etcd	Managed key-value store for platforms
+Web Analytics	Plausible	plausible/analytics	Privacy analytics SaaS, per-pageview pricing
+Web Analytics	Umami	umami-software/umami	White-label web analytics for agencies
+Web Analytics	Matomo	matomo-org/matomo	GDPR analytics hosting for EU firms
+Web Analytics	GoatCounter	arp242/goatcounter	Simple analytics for blogs
+Web Analytics	Rybbit	rybbit-io/rybbit	Modern analytics SaaS, tiered pricing
+Web Analytics	OpenPanel	Openpanel-dev/openpanel	Product analytics SaaS for startups
+Web Analytics	Ackee	electerious/Ackee	Minimal analytics hosting
+Web Analytics	GoAccess	allinurl/goaccess	Server log analytics for hosting customers
+Container Runtimes & Tools	Docker Compose	docker/compose	Compose hosting service for small apps
+Container Runtimes & Tools	Podman	containers/podman	Rootless container hosting
+Container Runtimes & Tools	containerd	containerd/containerd	Container infrastructure consulting
+Container Runtimes & Tools	Swarmpit	swarmpit/swarmpit	Docker Swarm management for SMBs
+Container Runtimes & Tools	Watchtower	containrrr/watchtower	Auto-updating managed container hosting
+Container Runtimes & Tools	gVisor	google/gvisor	Sandboxed multi-tenant container hosting
+Container Runtimes & Tools	Kata Containers	kata-containers/kata-containers	Secure VM-isolated container hosting
+Homelab & Self-Hosting Platforms	Homepage	gethomepage/homepage	Branded dashboards for managed homelabs
+Homelab & Self-Hosting Platforms	Homarr	homarr-labs/homarr	Self-hosted app dashboard for hosting customers
+Homelab & Self-Hosting Platforms	CasaOS	IceWhaleTech/CasaOS	Personal cloud appliances, hardware plus subscription
+Homelab & Self-Hosting Platforms	Umbrel	getumbrel/umbrel	Home server OS sold with hardware
+Homelab & Self-Hosting Platforms	YunoHost	YunoHost/yunohost	Managed self-hosting for nonprofits
+Homelab & Self-Hosting Platforms	Cosmos Server	azukaar/Cosmos-Server	Secure home server platform with subscription
+Homelab & Self-Hosting Platforms	Runtipi	runtipi/runtipi	One-click app server for hobbyists
+Homelab & Self-Hosting Platforms	Sandstorm	sandstorm-io/sandstorm	Secure app platform for small orgs
+Homelab & Self-Hosting Platforms	Dashy	Lissy93/dashy	Custom dashboards for MSP clients
+Homelab & Self-Hosting Platforms	OpenMediaVault	openmediavault/openmediavault	NAS appliances with managed support
+Load Testing & Performance	k6	grafana/k6	Load testing SaaS, per-virtual-user pricing
+Load Testing & Performance	Locust	locustio/locust	Hosted distributed load testing
+Load Testing & Performance	Gatling	gatling/gatling	Performance testing consulting
+Load Testing & Performance	Vegeta	tsenart/vegeta	HTTP benchmarking service
+Load Testing & Performance	Artillery	artilleryio/artillery	Load testing for Node shops
+Load Testing & Performance	Apache JMeter	apache/jmeter	Managed performance testing for enterprises
+Incident Management & Alerting	Grafana OnCall	grafana/oncall	On-call scheduling SaaS, per-user pricing
+Incident Management & Alerting	Keep	keephq/keep	AIOps alert management platform
+Incident Management & Alerting	Alertmanager	prometheus/alertmanager	Alert routing as managed service
+Incident Management & Alerting	ntfy	binwiederhier/ntfy	Push notification service, tiered plans
+Incident Management & Alerting	Gotify	gotify/server	Self-hosted push notifications for hosting customers
+Incident Management & Alerting	Apprise	caronc/apprise	Multi-channel notification API service
+Incident Management & Alerting	Novu	novuhq/novu	Notification infrastructure SaaS, per-event pricing
+Incident Management & Alerting	Dispatch	Netflix/dispatch	Incident response platform for enterprises
+Incident Management & Alerting	Versus Incident	VersusControl/versus-incident	Incident alert routing service

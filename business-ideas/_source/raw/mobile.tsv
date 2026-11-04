@@ -1,0 +1,430 @@
+Mobile App Starter Kits	Ignite	infinitered/ignite	Agency boilerplate to ship client React Native apps faster
+Mobile App Starter Kits	Obytes RN Template	obytes/react-native-template-obytes	Sell fixed-price MVP builds on a production RN stack
+Mobile App Starter Kits	Expo Router	expo/router	Build universal white-label apps for web and mobile clients
+Mobile App Starter Kits	Very Good CLI	VeryGoodOpenSource/very_good_cli	Flutter agency template for enterprise client apps
+Mobile App Starter Kits	Flutter Samples	flutter/samples	Reference architectures to package as paid app templates
+Mobile App Starter Kits	Tamagui	tamagui/tamagui	Cross-platform UI kit for themed white-label apps
+Mobile App Starter Kits	T3 Turbo	t3-oss/create-t3-turbo	Monorepo SaaS + mobile starter for client projects
+Mobile App Starter Kits	Ionic Framework	ionic-team/ionic-framework	Hybrid app shell for rebranded client apps
+Mobile App Starter Kits	Capacitor	ionic-team/capacitor	Wrap client web apps into store-ready native apps
+Mobile App Starter Kits	React Native Boilerplate	thecodingmachine/react-native-boilerplate	Starter for agency-built RN apps
+Mobile App Starter Kits	Supabase Flutter	supabase/supabase-flutter	Backend-backed Flutter MVPs for startups
+E-commerce Mobile Apps	saleor	saleor/saleor	Headless commerce backend for branded shopping apps
+E-commerce Mobile Apps	Medusa	medusajs/medusa	Headless commerce for white-label store apps
+E-commerce Mobile Apps	Vendure	vendure-ecommerce/vendure	Multi-channel commerce backend for agency clients
+E-commerce Mobile Apps	Bagisto	bagisto/bagisto	Multi-vendor marketplace with mobile app add-on
+E-commerce Mobile Apps	Medusa Expo Storefront	medusajs/nextjs-starter-medusa	Branded storefront for merchants
+E-commerce Mobile Apps	Spree Commerce	spree/spree	Marketplace platform with mobile storefronts
+E-commerce Mobile Apps	Evershop	evershopcommerce/evershop	Lean store builder sold as hosted SaaS
+E-commerce Mobile Apps	Sylius	Sylius/Sylius	B2B commerce with custom mobile apps
+E-commerce Mobile Apps	Mercur Marketplace	mercurjs/mercur	Launch niche multi-vendor marketplaces
+E-commerce Mobile Apps	Saleor Dashboard	saleor/saleor-dashboard	Merchant admin bundled with branded store app
+Food Delivery	Enatega Multivendor	enatega/food-delivery-multivendor	Sell white-label food delivery app to local restaurants
+Food Delivery	TastyIgniter	tastyigniter/TastyIgniter	Online ordering SaaS for independent restaurants
+Food Delivery	Open Food Network	openfoodfoundation/openfoodnetwork	Local farm-to-table marketplace hosting for co-ops
+Food Delivery	food-delivery-singlevendor	enatega/food-delivery-singlevendor	Single-restaurant branded ordering app
+Food Delivery	Grocy	grocy/grocy	Grocery inventory SaaS for households
+Ride-Hailing & Taxi	OpenTripPlanner	opentripplanner/OpenTripPlanner	Multimodal routing engine for mobility apps
+Ride-Hailing & Taxi	Valhalla	valhalla/valhalla	Routing and ETA engine for ride-hailing platforms
+Ride-Hailing & Taxi	OSRM	Project-OSRM/osrm-backend	Self-hosted routing for dispatch and fare estimates
+Ride-Hailing & Taxi	GraphHopper	graphhopper/graphhopper	Route optimization API for taxi dispatch
+Ride-Hailing & Taxi	Beckn Protocol	beckn/protocol-specifications	Open mobility network for driver-owned ride platforms
+Ride-Hailing & Taxi	Namma Yatri	nammayatri/nammayatri	Zero-commission ride-hailing for driver cooperatives
+Ride-Hailing & Taxi	Fleetbase	fleetbase/fleetbase	Logistics and ride dispatch platform for operators
+Ride-Hailing & Taxi	Fleetbase Navigator App	fleetbase/navigator-app	White-label driver app for dispatch clients
+Ride-Hailing & Taxi	Fleetbase Storefront App	fleetbase/storefront-app	Branded on-demand ordering app for merchants
+On-Demand Services	Easy!Appointments	alextselegidis/easyappointments	Booking SaaS for salons and clinics
+On-Demand Services	Cal.com	calcom/cal.com	White-label scheduling for service marketplaces
+On-Demand Services	Rallly	lukevella/rallly	Group scheduling SaaS for event planners
+On-Demand Services	QloApps	Qloapps/QloApps	Hotel booking engine for independent hotels
+On-Demand Services	Sharetribe Go	sharetribe/sharetribe	Rental and services marketplace hosting
+On-Demand Services	Sharetribe Web Template	sharetribe/web-template	Branded service marketplace builds
+On-Demand Services	Invoice Ninja	invoiceninja/invoiceninja	Invoicing for freelancers and service providers
+On-Demand Services	Invoice Ninja Flutter	invoiceninja/admin-portal	White-label invoicing mobile app
+On-Demand Services	LibreBooking	LibreBooking/librebooking	Resource booking for coworking and rentals
+Fitness & Workout	wger	wger-project/wger	Hosted workout tracker for gyms and trainers
+Fitness & Workout	wger Flutter	wger-project/flutter	Branded gym member app
+Fitness & Workout	OpenTracks	OpenTracksApp/OpenTracks	Privacy-first sports tracker for clubs
+Fitness & Workout	Endurain	joaovitoriasilva/endurain	Self-hosted Strava alternative for running clubs
+Fitness & Workout	FitTrackee	SamR1/FitTrackee	Hosted workout tracking for athletic communities
+Fitness & Workout	Liftosaur	astashov/liftosaur	Programmable lifting app for coaches
+Fitness & Workout	Workout.lol	Vincenius/workout-lol	Workout generator as freemium web app
+Fitness & Workout	Flexify	brandonp2412/Flexify	Gym tracker resold as gym-branded app
+Health & Telemedicine	OpenEMR	openemr/openemr	Hosted EHR and patient portal for clinics
+Health & Telemedicine	OpenMRS Core	openmrs/openmrs-core	Medical record platform for NGOs and hospitals
+Health & Telemedicine	Bahmni	Bahmni/openmrs-module-bahmniapps	Hospital system deployment for emerging markets
+Health & Telemedicine	HospitalRun	HospitalRun/hospitalrun-frontend	Offline-first clinic management SaaS
+Health & Telemedicine	Jitsi Meet	jitsi/jitsi-meet	White-label video consultations for telehealth
+Health & Telemedicine	Medplum	medplum/medplum	FHIR backend for building telehealth apps
+Health & Telemedicine	Ottehr	masslight/ottehr	Urgent care telemedicine platform for clinics
+Health & Telemedicine	Fasten Health	fastenhealth/fasten-onprem	Personal health record app for families
+Health & Telemedicine	HAPI FHIR	hapifhir/hapi-fhir	Interoperability backend for health app vendors
+Health & Telemedicine	Open Hospital	informatici/openhospital	Hospital management for low-resource clinics
+Health & Telemedicine	Medic CHT	medic/cht-core	Community health worker apps for NGOs
+Fintech Wallets	Mifos Mobile	openMF/mifos-mobile	Branded banking app for microfinance institutions
+Fintech Wallets	Mojaloop Central Ledger	mojaloop/central-ledger	Interoperable mobile money for regulators and banks
+Fintech Wallets	Hyperswitch	juspay/hyperswitch	Payment orchestration SaaS for merchants
+Fintech Wallets	Lago	getlago/lago	Usage-based billing for fintech SaaS
+Fintech Wallets	Kill Bill	killbill/killbill	Subscription billing platform for operators
+Fintech Wallets	Mobile Wallet	openMF/mobile-wallet	White-label mobile wallet for MFIs
+Fintech Wallets	BTCPay Server	btcpayserver/btcpayserver	Hosted crypto payment processing for merchants
+Fintech Wallets	Blnk	blnkfinance/blnk	Ledger backend for wallet and payout apps
+Fintech Wallets	Formance Ledger	formancehq/ledger	Programmable ledger for fintech startups
+Core Banking	Apache Fineract	apache/fineract	Hosted core banking for credit unions and MFIs
+Core Banking	Mifos Web App	openMF/web-app	Back-office portal for lenders
+Core Banking	Mifos Android Client	openMF/android-client	Field officer app for microlenders
+Core Banking	Moov ACH	moov-io/ach	ACH file processing for payment startups
+Core Banking	Moov Watchman	moov-io/watchman	Sanctions screening SaaS for fintechs
+Core Banking	Marble	checkmarble/marble	Transaction monitoring for neobanks
+Core Banking	OBP-API	openbankproject/OBP-API	Open banking API layer for banks
+Core Banking	Frappe Lending	frappe/lending	Loan management SaaS for NBFCs
+Personal Budgeting	Actual Budget	actualbudget/actual	Hosted envelope budgeting subscription
+Personal Budgeting	Firefly III	firefly-iii/firefly-iii	Managed personal finance hosting
+Personal Budgeting	Maybe Finance	maybe-finance/maybe	Wealth dashboard for advisors' clients
+Personal Budgeting	Budget Zen	BrunoBernardino/budgetzen-web	Simple encrypted budgeting subscription
+Personal Budgeting	Ezbookkeeping	mayswind/ezbookkeeping	Lightweight bookkeeping app for families
+Personal Budgeting	Cashew	jameskokoska/Cashew	Rebranded budgeting app with premium tier
+Personal Budgeting	MoneyManagerEx Android	moneymanagerex/android-money-manager-ex	Expense tracker with paid sync
+Personal Budgeting	Ivy Wallet	Ivy-Apps/ivy-wallet	Budgeting app white-labeled for banks
+Personal Budgeting	Spliit	spliit-app/spliit	Group expense sharing with premium features
+Personal Budgeting	Wealthfolio	afadil/wealthfolio	Investment tracker for advisors
+Personal Budgeting	Ghostfolio	ghostfolio/ghostfolio	Hosted portfolio tracker subscription
+Crypto Wallets	BlueWallet	BlueWallet/BlueWallet	Branded Bitcoin wallet for exchanges
+Crypto Wallets	Unstoppable Wallet Android	horizontalsystems/unstoppable-wallet-android	Multi-chain wallet with swap fees
+Crypto Wallets	Trust Wallet Core	trustwallet/wallet-core	Wallet SDK for custom crypto apps
+Crypto Wallets	Rainbow	rainbow-me/rainbow	Ethereum wallet with swap revenue
+Crypto Wallets	Electrum	spesmilo/electrum	Branded Bitcoin wallet for communities
+Crypto Wallets	Zeus	ZeusLN/zeus	Lightning wallet for merchants
+Crypto Wallets	Phoenix	ACINQ/phoenix	Lightning wallet with channel fees
+Crypto Wallets	Rabby	RabbyHub/Rabby	Browser wallet with swap integrations
+Crypto Wallets	Cake Wallet	cake-tech/cake_wallet	Privacy wallet with exchange fees
+Crypto Wallets	MetaMask Mobile	MetaMask/metamask-mobile	Reference wallet for custom Web3 apps
+Dating	Duolicious	duolicious/duolicious-backend	Niche dating app for specific communities
+Dating	Duolicious Frontend	duolicious/duolicious-frontend	Branded dating app frontend
+Social Apps	Mastodon	mastodon/mastodon	Managed community social network hosting
+Social Apps	Mastodon iOS	mastodon/mastodon-ios	Branded app for hosted instances
+Social Apps	Mastodon Android	mastodon/mastodon-android	Branded Android app for instances
+Social Apps	Pixelfed	pixelfed/pixelfed	Photo-sharing network for creators
+Social Apps	Lemmy	LemmyNet/lemmy	Reddit-style forums for communities
+Social Apps	Misskey	misskey-dev/misskey	Hosted fediverse instance for fandoms
+Social Apps	Bluesky Social App	bluesky-social/social-app	Custom AT Protocol client for communities
+Social Apps	HumHub	humhub/humhub	Branded social intranet for companies
+Social Apps	Discourse	discourse/discourse	Hosted community forum for brands
+Social Apps	Friendica	friendica/friendica	Community social network for organizations
+Social Apps	Tusky	tuskyapp/Tusky	Rebranded Mastodon client for instance owners
+Social Apps	Elk	elk-zone/elk	Branded web client for hosted instances
+Social Apps	Loops	joinloops/loops-server	Short-video social app for communities
+Secure Messaging	Element Web	element-hq/element-web	White-label secure chat for enterprises
+Secure Messaging	Element X Android	element-hq/element-x-android	Branded secure messenger for organizations
+Secure Messaging	Element X iOS	element-hq/element-x-ios	Branded iOS messenger for clients
+Secure Messaging	Synapse	element-hq/synapse	Managed Matrix homeserver hosting
+Secure Messaging	Tuwunel	matrix-construct/tuwunel	Lightweight Matrix hosting for SMBs
+Secure Messaging	Signal Android	signalapp/Signal-Android	Fork as private-label secure messenger
+Secure Messaging	Signal Server	signalapp/Signal-Server	Private secure messaging backend
+Secure Messaging	Rocket.Chat	RocketChat/Rocket.Chat	White-label team chat for regulated industries
+Secure Messaging	Zulip	zulip/zulip	Hosted team chat for communities
+Secure Messaging	Mattermost	mattermost/mattermost	Self-hosted chat for compliance-heavy clients
+Secure Messaging	SimpleX Chat	simplex-chat/simplex-chat	Privacy messenger with premium relays
+Secure Messaging	FluffyChat	krille-chan/fluffychat	Branded Matrix chat app
+Secure Messaging	Tinode	tinode/chat	White-label messaging backend for apps
+Secure Messaging	Delta Chat Android	deltachat/deltachat-android	Email-based messenger for organizations
+Maps & Navigation	Organic Maps	organicmaps/organicmaps	Offline maps app for tourism boards
+Maps & Navigation	OsmAnd	osmandapp/OsmAnd	Custom offline navigation for field teams
+Maps & Navigation	MapLibre GL JS	maplibre/maplibre-gl-js	Map SDK for custom location apps
+Maps & Navigation	MapLibre Native	maplibre/maplibre-native	Native map SDK for white-label apps
+Maps & Navigation	Protomaps	protomaps/PMTiles	Cheap self-hosted map tiles for apps
+Maps & Navigation	Nominatim	osm-search/Nominatim	Self-hosted geocoding API service
+Maps & Navigation	Photon	komoot/photon	Search-as-you-type geocoder API
+Maps & Navigation	Headway	headwaymaps/headway	Self-hosted maps stack for privacy clients
+Maps & Navigation	StreetComplete	streetcomplete/StreetComplete	Gamified mapping for municipalities
+Maps & Navigation	OpenMapTiles	openmaptiles/openmaptiles	Branded vector tile hosting
+Maps & Navigation	TileServer GL	maptiler/tileserver-gl	Map tile hosting service
+Travel & Trip Planning	AdventureLog	seanmorley15/AdventureLog	Travel journal SaaS for travelers
+Travel & Trip Planning	Wanderer	Flomp/wanderer	Hiking trail database for outdoor brands
+Travel & Trip Planning	Dawarich	Freika/dawarich	Self-hosted location history subscription
+Travel & Trip Planning	Surmai	rohitkumbhar/surmai	Trip planner for travel agencies
+Travel & Trip Planning	Hauk	bilde2910/Hauk	Live location sharing for tour operators
+Travel & Trip Planning	Transportr	grote/Transportr	Public transit app for regional agencies
+Travel & Trip Planning	Motis	motis-project/motis	Journey planner for transit operators
+Weather	Breezy Weather	breezy-weather/breezy-weather	Branded weather app for media outlets
+Weather	Open-Meteo	open-meteo/open-meteo	Weather API reseller for apps
+Weather	Rain	DarkMooNight/Rain	Material weather app with premium
+Weather	Geometric Weather	WangDaYeeeeee/GeometricWeather	Customizable weather app white-label
+Weather	WeeWX	weewx/weewx	Weather station dashboards for farms
+Weather	WeatherMaster	PranshulGG/WeatherMaster	Premium weather app reskin
+Weather	Pirate Weather	Pirate-Weather/pirateweather	Hosted weather API subscriptions
+Weather	MagicMirror	MagicMirrorOrg/MagicMirror	Smart mirror weather displays for hotels
+Home Automation & IoT	Home Assistant	home-assistant/core	Installed smart home packages for homeowners
+Home Automation & IoT	Home Assistant Android	home-assistant/android	Branded smart home companion app
+Home Automation & IoT	Home Assistant iOS	home-assistant/iOS	Branded iOS app for installers
+Home Automation & IoT	openHAB	openhab/openhab-core	Smart building integration services
+Home Automation & IoT	ThingsBoard	thingsboard/thingsboard	White-label IoT dashboards for industries
+Home Automation & IoT	Node-RED	node-red/node-red	IoT automation consulting
+Home Automation & IoT	ESPHome	esphome/esphome	Branded smart devices firmware
+Home Automation & IoT	Zigbee2MQTT	Koenkk/zigbee2mqtt	Vendor-neutral smart home hubs
+Home Automation & IoT	Domoticz	domoticz/domoticz	Low-cost home automation installs
+Home Automation & IoT	Tasmota	arendst/Tasmota	Rebranded smart plugs and switches
+Home Automation & IoT	Gladys	GladysAssistant/Gladys	Privacy smart home hub product
+Home Automation & IoT	Mainflux/Magistrala	absmach/magistrala	IoT platform as a service
+Fleet & GPS Tracking	Traccar	traccar/traccar	White-label GPS tracking SaaS for fleets
+Fleet & GPS Tracking	Traccar Manager Android	traccar/traccar-manager-android	Branded fleet manager app
+Fleet & GPS Tracking	Traccar Client Android	traccar/traccar-client-android	Driver tracking app for fleets
+Fleet & GPS Tracking	Traccar Web	traccar/traccar-web	Rebranded tracking dashboard
+Fleet & GPS Tracking	OwnTracks Recorder	owntracks/recorder	Family and staff location tracking
+Fleet & GPS Tracking	OwnTracks Android	owntracks/android	Branded location sharing app
+Fleet & GPS Tracking	Fleetbase FleetOps	fleetbase/fleetops	Fleet operations module for logistics clients
+Fleet & GPS Tracking	LubeLogger	hargata/lubelog	Vehicle maintenance tracking for fleets
+Fleet & GPS Tracking	Hammond	AlfHou/hammond	Fuel and expense tracking for fleets
+Fleet & GPS Tracking	PhoneTrack	julien-nc/phonetrack	Nextcloud location tracking for teams
+Logistics & Delivery	Karrio	karrioapi/karrio	Multi-carrier shipping API for merchants
+Logistics & Delivery	OpenBoxes	openboxes/openboxes	Supply chain management for NGOs
+Logistics & Delivery	Odoo	odoo/odoo	ERP with delivery modules for SMBs
+Logistics & Delivery	VROOM	VROOM-Project/vroom	Route optimization API for delivery firms
+Logistics & Delivery	Jsprit	graphhopper/jsprit	Vehicle routing for courier companies
+Logistics & Delivery	ModernWMS	fjykTec/ModernWMS	Warehouse management SaaS for 3PLs
+Logistics & Delivery	InvenTree	inventree/InvenTree	Inventory system for small manufacturers
+Logistics & Delivery	Snipe-IT	grokability/snipe-it	Asset tracking SaaS for companies
+Logistics & Delivery	Shelf	Shelf-nu/shelf.nu	Asset tracking with QR for SMBs
+Logistics & Delivery	OpenRouteService	GIScience/openrouteservice	Isochrone and routing APIs for logistics
+Logistics & Delivery	Timefold Solver	TimefoldAI/timefold-solver	Delivery scheduling optimization consulting
+Parking	ParkAPI	offenesdresden/ParkAPI	Parking availability API for cities
+Parking	OpenALPR	openalpr/openalpr	License plate recognition for parking lots
+Parking	Frigate	blakeblackshear/frigate	Camera-based lot monitoring for parking operators
+Parking	fast-alpr	ankandrew/fast-alpr	ALPR engine for parking access control
+Parking	CitrineOS	citrineos/citrineos-core	EV charging management for parking operators
+Parking	SteVe	steve-community/steve	OCPP charging backend for garages
+Parking	EVerest	EVerest/everest-core	EV charger firmware for parking hardware
+Parking	Open e-Mobility	sap-labs-france/ev-server	EV charging station SaaS
+Digital Signage	Screenly OSE (Anthias)	Screenly/Anthias	Managed digital signage for retail
+Digital Signage	Xibo CMS	xibosignage/xibo-cms	Signage CMS reseller for agencies
+Digital Signage	piSignage	colloqi/piSignage	Low-cost signage subscription
+Digital Signage	Concerto	concerto/concerto	Campus signage for schools
+Digital Signage	ScreenLite	screenlite/screenlite	Signage SaaS for restaurants
+Digital Signage	FullPageOS	guysoft/FullPageOS	Kiosk dashboards for offices
+Digital Signage	Garlic Player	sagiadinos/garlic-player	SMIL signage player for vendors
+Digital Signage	Dashy	Lissy93/dashy	Office wall dashboards
+Kiosk	WPE	Igalia/cog	Embedded kiosk browser for hardware vendors
+Kiosk	Ubuntu Frame	canonical/ubuntu-frame	Kiosk OS for self-service terminals
+Kiosk	Cage	cage-kiosk/cage	Kiosk compositor for appliance builders
+Kiosk	Tauri	tauri-apps/tauri	Build kiosk check-in apps for clinics
+Kiosk	Electron	electron/electron	Self-service kiosk app development
+Kiosk	Open Source POS	opensourcepos/opensourcepos	Retail POS and self-checkout SaaS
+Language Learning & Flashcards	Anki	ankitects/anki	Branded flashcard decks for exam prep
+Language Learning & Flashcards	AnkiDroid	ankidroid/Anki-Android	Rebranded study app for schools
+Language Learning & Flashcards	LibreLingo	LibreLingo/LibreLingo	Duolingo-style courses for minority languages
+Language Learning & Flashcards	Fsrs	open-spaced-repetition/ts-fsrs	Spaced repetition engine for edtech apps
+Language Learning & Flashcards	LinguaCafe	simjanos-dev/LinguaCafe	Reading-based language school platform
+Language Learning & Flashcards	LWT	HugoFara/lwt	Hosted reading tutor for language schools
+Language Learning & Flashcards	Lute	LuteOrg/lute-v3	Language reading app subscription
+Language Learning & Flashcards	Vocabsieve	FreeLanguageTools/vocabsieve	Vocabulary mining tool for learners
+Kids & Education	Moodle	moodle/moodle	Hosted LMS for schools
+Kids & Education	Moodle App	moodlehq/moodleapp	Branded mobile LMS app for institutions
+Kids & Education	Kolibri	learningequality/kolibri	Offline learning platform for NGOs
+Kids & Education	Canvas LMS	instructure/canvas-lms	Managed LMS hosting
+Kids & Education	Oppia	oppia/oppia	Interactive lessons for nonprofits
+Kids & Education	Oppia Android	oppia/oppia-android	Branded kids learning app
+Kids & Education	GCompris	gcompris/GCompris-qt	Kids educational games bundles for schools
+Kids & Education	Open edX	openedx/edx-platform	White-label course platform for businesses
+Kids & Education	Frappe LMS	frappe/lms	Course platform for coaches
+Kids & Education	ClassroomIO	classroomio/classroomio	LMS SaaS for bootcamps
+Kids & Education	Chamilo	chamilo/chamilo-lms	Hosted e-learning for training companies
+Kids & Education	Gibbon	GibbonEdu/core	School management SaaS
+Recipe & Meal Planning	Mealie	mealie-recipes/mealie	Hosted recipe manager for food bloggers
+Recipe & Meal Planning	Tandoor Recipes	TandoorRecipes/recipes	Meal planning SaaS for dietitians
+Recipe & Meal Planning	KitchenOwl	TomBursch/kitchenowl	Family grocery and meal app
+Recipe & Meal Planning	RecipeSage	julianpoy/RecipeSage	Recipe keeper with premium tier
+Recipe & Meal Planning	Recipya	reaper47/recipya	Recipe manager hosting
+Recipe & Meal Planning	Cooklang CLI	cooklang/cookcli	Recipe publishing tool for chefs
+Recipe & Meal Planning	Grocy Android	patzly/grocy-android	Branded pantry companion app
+Recipe & Meal Planning	OpenFoodFacts Server	openfoodfacts/openfoodfacts-server	Nutrition data API for food apps
+Recipe & Meal Planning	Open Food Facts App	openfoodfacts/smooth-app	Branded food scanner for retailers
+Recipe & Meal Planning	OpenNutriTracker	simonoppowa/OpenNutriTracker	Calorie tracker for nutritionists
+Habit Trackers	Loop Habit Tracker	iSoron/uhabits	Branded habit app for coaches
+Habit Trackers	Beaver Habit Tracker	daya0576/beaverhabits	Hosted habit tracker subscription
+Habit Trackers	HabitRPG Habitica	HabitRPG/habitica	Gamified habit platform for teams
+Habit Trackers	Habitica Android	HabitRPG/habitica-android	Branded gamified habit app
+Habit Trackers	Super Productivity	johannesjo/super-productivity	Productivity app for agencies
+Habit Trackers	Track & Graph	SamAmco/track-and-graph	Data tracking app for coaches
+Habit Trackers	Table Habit	FriesI23/mhabit	Habit app reskin with premium
+Habit Trackers	Vikunja	go-vikunja/vikunja	Hosted task and habit lists
+Journaling	Memos	usememos/memos	Hosted micro-journal subscription
+Journaling	jrnl	jrnl-org/jrnl	CLI journaling with paid sync
+Journaling	Monica	monicahq/monica	Personal CRM and journal SaaS
+Journaling	Logseq	logseq/logseq	Hosted knowledge journal for teams
+Journaling	StandardNotes App	standardnotes/app	Encrypted journal with subscription
+Journaling	DailyTxT	PhiTux/DailyTxT	Encrypted diary hosting
+Journaling	Trilium Notes	TriliumNext/Trilium	Hosted personal knowledge journal
+Photo Backup	Immich	immich-app/immich	Managed Google Photos alternative for families
+Photo Backup	PhotoPrism	photoprism/photoprism	Hosted AI photo library for photographers
+Photo Backup	Ente	ente-io/ente	E2EE photo storage subscription
+Photo Backup	LibrePhotos	LibrePhotos/librephotos	Self-hosted photo cloud for families
+Photo Backup	Piwigo	Piwigo/Piwigo	Photo gallery hosting for photographers
+Photo Backup	Lychee	LycheeOrg/Lychee	Portfolio galleries for photographers
+Photo Backup	PhotoView	photoview/photoview	Photo gallery for NAS vendors
+Photo Backup	Nextcloud Server	nextcloud/server	Managed file and photo cloud for SMBs
+Photo Backup	Nextcloud Android	nextcloud/android	Branded file sync app
+Photo Backup	Memories	pulsejet/memories	Photo app bundled with Nextcloud hosting
+Photo Backup	PiGallery2	bpatrik/pigallery2	Lightweight gallery for event photographers
+Ebook, Comic & Audiobook	Kavita	Kareadita/Kavita	Hosted reading server for book clubs
+Ebook, Comic & Audiobook	Komga	gotson/komga	Comic server for publishers
+Ebook, Comic & Audiobook	Audiobookshelf	advplyr/audiobookshelf	Audiobook hosting for indie publishers
+Ebook, Comic & Audiobook	Audiobookshelf App	advplyr/audiobookshelf-app	Branded audiobook player app
+Ebook, Comic & Audiobook	Calibre-Web	janeczku/calibre-web	Ebook library for schools
+Ebook, Comic & Audiobook	Calibre	kovidgoyal/calibre	Ebook conversion services for authors
+Ebook, Comic & Audiobook	KOReader	koreader/koreader	Custom reader firmware for e-ink devices
+Ebook, Comic & Audiobook	Readest	readest/readest	Branded ebook reader app with sync
+Ebook, Comic & Audiobook	Mihon	mihonapp/mihon	Comic reader for webtoon platforms
+Ebook, Comic & Audiobook	Booklore	booklore-app/booklore	Hosted digital library for families
+Ebook, Comic & Audiobook	Thorium Reader	edrlab/thorium-reader	Branded EPUB reader for libraries
+Ebook, Comic & Audiobook	Readium Kotlin Toolkit	readium/kotlin-toolkit	Reader SDK for publisher apps
+Podcast Apps	AntennaPod	AntennaPod/AntennaPod	Branded podcast app for networks
+Podcast Apps	Pocket Casts Android	Automattic/pocket-casts-android	Reference podcast app for media brands
+Podcast Apps	Pocket Casts iOS	Automattic/pocket-casts-ios	Branded iOS podcast player
+Podcast Apps	Podgrab	akhilrex/podgrab	Podcast archiving service
+Podcast Apps	Kasts	KDE/kasts	Desktop/mobile podcast app reskin
+Podcast Apps	Podverse	podverse/podverse-rn	Podcast app with Value4Value payments
+Podcast Apps	Pinepods	madeofpendletonwool/PinePods	Hosted podcast management for households
+Podcast Apps	gPodder	gpodder/gpodder	Podcast sync service
+Podcast Apps	Navidrome	navidrome/navidrome	Music streaming server for labels
+Podcast Apps	Jellyfin	jellyfin/jellyfin	Branded media server for hotels
+Browsers	Brave Browser	brave/brave-browser	Rebranded privacy browser with ads revenue
+Browsers	Cromite	uazo/cromite	Hardened browser for enterprises
+Browsers	Ungoogled Chromium	ungoogled-software/ungoogled-chromium	Private-label secure browser
+Browsers	Zen Browser	zen-browser/desktop	Branded productivity browser
+Browsers	Ladybird	LadybirdBrowser/ladybird	Embedded browser engine consulting
+Browsers	Floorp	Floorp-Projects/Floorp	Custom Firefox fork for companies
+Browsers	Thorium	Alex313031/thorium	Performance browser builds
+Browsers	DuckDuckGo Android	duckduckgo/Android	Privacy browser reference for brands
+Browsers	Min	minbrowser/min	Minimal browser for kiosks
+Browsers	Iceraven	fork-maintainers/iceraven-browser	Mobile browser with add-ons
+Keyboards	FlorisBoard	florisboard/florisboard	Branded keyboard for brands and languages
+Keyboards	HeliBoard	Helium314/HeliBoard	Privacy keyboard white-label
+Keyboards	AnySoftKeyboard	AnySoftKeyboard/AnySoftKeyboard	Language-pack keyboards for regions
+Keyboards	Indic Keyboard	smc/Indic-Keyboard	Regional language keyboard apps
+Keyboards	Simple Keyboard	rkkr/simple-keyboard	Lightweight keyboard for OEMs
+Keyboards	Thumb-Key	dessalines/thumb-key	Accessible keyboard for niche users
+Keyboards	OpenBoard	openboard-team/openboard	OEM keyboard customization
+Keyboards	Fcitx5 Android	fcitx5-android/fcitx5-android	Input method for Asian language apps
+Keyboards	Unexpected Keyboard	Julow/Unexpected-Keyboard	Developer keyboard with premium themes
+Launchers	Lawnchair	LawnchairLauncher/lawnchair	OEM-branded launcher for device makers
+Launchers	Kvaesitso	MM2-0/Kvaesitso	Search-first launcher for enterprises
+Launchers	Neo Launcher	NeoApplications/Neo-Launcher	Branded launcher for tablets
+Launchers	Olauncher	tanujnotes/Olauncher	Minimal launcher with premium themes
+Launchers	KISS Launcher	Neamar/KISS	Lightweight launcher for budget devices
+Launchers	µLauncher	jrpie/launcher	Minimalist focus launcher
+Launchers	Headwind MDM	h-mdm/hmdm-server	Kiosk launcher and MDM for enterprises
+Launchers	Headwind MDM Launcher	h-mdm/hmdm-android	Locked-down launcher for field devices
+Launchers	Discreet Launcher	falzonv/discreet-launcher	Simplified launcher for seniors
+Authenticator & 2FA	Aegis	beemdevelopment/Aegis	Branded authenticator for enterprises
+Authenticator & 2FA	2FAS Android	twofas/2fas-android	White-label 2FA app
+Authenticator & 2FA	2FAS iOS	twofas/2fas-ios	Branded iOS authenticator
+Authenticator & 2FA	Authelia	authelia/authelia	SSO and 2FA gateway as managed service
+Authenticator & 2FA	Authentik	goauthentik/authentik	Hosted identity provider for SMBs
+Authenticator & 2FA	Keycloak	keycloak/keycloak	Managed IAM for client apps
+Authenticator & 2FA	privacyIDEA	privacyidea/privacyidea	MFA server for enterprises
+Authenticator & 2FA	Zitadel	zitadel/zitadel	Identity SaaS for B2B apps
+Authenticator & 2FA	Bitwarden Server	bitwarden/server	Managed password manager hosting
+Authenticator & 2FA	Vaultwarden	dani-garcia/vaultwarden	Lightweight password vault hosting
+Authenticator & 2FA	FreeOTP Plus	helloworld1/FreeOTPPlus	Open authenticator for organizations
+Authenticator & 2FA	Stratum	stratumauth/app	Branded authenticator app
+Notes Apps	Joplin	laurent22/joplin	Hosted note sync subscription
+Notes Apps	Standard Notes Server	standardnotes/server	Encrypted notes hosting
+Notes Apps	AppFlowy	AppFlowy-IO/AppFlowy	Notion alternative for teams
+Notes Apps	AFFiNE	toeverything/AFFiNE	Hosted workspace for agencies
+Notes Apps	Notesnook	streetwriters/notesnook	E2EE notes with premium tier
+Notes Apps	SiYuan	siyuan-note/siyuan	Personal knowledge base with sync
+Notes Apps	Outline	outline/outline	Team wiki as managed service
+Notes Apps	Docmost	docmost/docmost	Branded wiki for companies
+Notes Apps	BookStack	BookStackApp/BookStack	Documentation hosting for SMBs
+Notes Apps	Markor	gsantner/markor	Branded Markdown note app
+Notes Apps	Blinko	blinko-space/blinko	AI note capture subscription
+Notes Apps	Karakeep	karakeep-app/karakeep	Bookmark and notes hosting
+Period & Health Trackers	drip	bloodyhealth/drip	Privacy cycle tracker for clinics
+Period & Health Trackers	Medito	meditohq/medito-app	Meditation app for wellness brands
+Period & Health Trackers	MedTimer	Futsch1/medTimer	Medication reminder app for pharmacies
+Period & Health Trackers	xDrip	NightscoutFoundation/xDrip	Diabetes monitoring for care providers
+Period & Health Trackers	Nightscout	nightscout/cgm-remote-monitor	Hosted CGM monitoring for families
+Period & Health Trackers	OpenScale	oliexdev/openScale	Body metrics app for gyms
+Period & Health Trackers	Blood Pressure Monitor	derdilla/blood-pressure-monitor-fl	BP tracker for clinics
+Period & Health Trackers	AndroidAPS	nightscout/AndroidAPS	Diabetes care app support
+Pet Care	Spring Petclinic	spring-projects/spring-petclinic	Starter for vet clinic SaaS
+Pet Care	Animal Shelter Manager	bobintetley/asm3	Hosted shelter management for rescues
+Agriculture & Farm	farmOS	farmOS/farmOS	Hosted farm records for growers
+Agriculture & Farm	farmOS Field Kit	farmOS/field-kit	Branded field app for agronomists
+Agriculture & Farm	FarmBot Web App	FarmBot/Farmbot-Web-App	Robotic garden SaaS
+Agriculture & Farm	Tania	usetania/tania-core	Small farm planner subscription
+Agriculture & Farm	Mycodo	kizniche/Mycodo	Greenhouse automation installs
+Agriculture & Farm	Hortusfox	danielbrendel/hortusfox-web	Plant care app for nurseries
+Agriculture & Farm	ODK Collect	getodk/collect	Field surveys for agri NGOs
+Agriculture & Farm	ODK Central	getodk/central	Hosted data collection for agri projects
+Agriculture & Farm	KoboToolbox	kobotoolbox/kpi	Managed survey platform for NGOs
+Agriculture & Farm	Plant-it	MDeLuise/plant-it	Plant care tracker for garden centers
+Smart City & Civic Tech	FixMyStreet	mysociety/fixmystreet	Pothole reporting SaaS for councils
+Smart City & Civic Tech	Decidim	decidim/decidim	Participatory budgeting for municipalities
+Smart City & Civic Tech	CONSUL Democracy	consuldemocracy/consuldemocracy	Citizen participation portal for cities
+Smart City & Civic Tech	CKAN	ckan/ckan	Open data portals for governments
+Smart City & Civic Tech	FIWARE Orion	telefonicaid/fiware-orion	Smart city context broker deployments
+Smart City & Civic Tech	Ushahidi Platform	ushahidi/platform	Crisis reporting deployments for NGOs
+Smart City & Civic Tech	Ushahidi Client	ushahidi/platform-client-mzima	Branded crisis mapping app
+Smart City & Civic Tech	OpenStreetMap Website	openstreetmap/openstreetmap-website	Local mapping portal for cities
+Smart City & Civic Tech	openSenseMap	sensebox/openSenseMap-API	Air quality sensor network for cities
+Smart City & Civic Tech	Polis	compdemocracy/polis	Public opinion consultation service
+Smart City & Civic Tech	Mark-a-Spot	markaspot/mark-a-spot	311 citizen service platform
+Smart City & Civic Tech	Loomio	loomio/loomio	Collaborative decision-making for councils
+Citizen Reporting	Tella	Horizontal-org/Tella-Android	Secure evidence documentation for journalists
+Citizen Reporting	GlobaLeaks	globaleaks/globaleaks	Whistleblowing platform for compliance
+Citizen Reporting	SecureDrop	freedomofpress/securedrop	Secure tip line for newsrooms
+Citizen Reporting	ProofMode	guardianproject/proofmode-android	Verified media capture for NGOs
+Citizen Reporting	Formbricks	formbricks/formbricks	Survey and feedback SaaS
+Citizen Reporting	HeyForm	heyform/heyform	Form builder SaaS for agencies
+Citizen Reporting	Fider	getfider/fider	Feedback portal for public services
+Citizen Reporting	LimeSurvey	LimeSurvey/LimeSurvey	Hosted survey platform for governments
+Citizen Reporting	Enketo	enketo/enketo	Offline web forms for field reporting
+Accessibility	NVDA	nvaccess/nvda	Screen reader training and support
+Accessibility	axe-core	dequelabs/axe-core	WCAG compliance scanning SaaS
+Accessibility	Pa11y	pa11y/pa11y	Accessibility monitoring service
+Accessibility	eSpeak NG	espeak-ng/espeak-ng	Multilingual TTS for accessibility apps
+Accessibility	Piper TTS	rhasspy/piper	Offline voice for assistive apps
+Accessibility	Whisper	openai/whisper	Captioning service for deaf users
+Accessibility	Vosk	alphacep/vosk-api	Offline speech recognition for accessibility apps
+Accessibility	Cboard	cboard-org/cboard	AAC communication app for special-needs schools
+Accessibility	Asterics Grid	asterics/AsTeRICS-Grid	AAC grid boards for therapists
+Accessibility	Project Gameface	google/project-gameface	Hands-free control for disabled users
+Video Streaming & Media	Jellyfin Android TV	jellyfin/jellyfin-androidtv	Branded TV app for IPTV clients
+Video Streaming & Media	PeerTube	Chocobozzz/PeerTube	Hosted video platform for creators
+Video Streaming & Media	Owncast	owncast/owncast	Live streaming platform for creators
+Video Streaming & Media	NewPipe	TeamNewPipe/NewPipe	Lightweight video client reskin
+Video Streaming & Media	Kodi	xbmc/xbmc	Branded media center for set-top boxes
+Video Streaming & Media	Tube Archivist	tubearchivist/tubearchivist	Video archiving for educators
+Video Streaming & Media	Stremio Web	Stremio/stremio-web	Media aggregation app with addons
+Video Streaming & Media	Streamyfin	streamyfin/streamyfin	Branded Jellyfin mobile client
+Video Streaming & Media	Findroid	jarnedemeulemeester/findroid	Native Jellyfin client for media hosts
+Music Streaming	Tempo	CappielloAntonio/tempo	Subsonic client for music hosts
+Music Streaming	Ampache	ampache/ampache	Hosted music library for labels
+Music Streaming	Koel	koel/koel	Personal music streaming SaaS
+Music Streaming	Gonic	sentriz/gonic	Lightweight music server for NAS vendors
+Music Streaming	Feishin	jeffvli/feishin	Desktop music player for hosted servers
+Music Streaming	Supersonic	dweymouth/supersonic	Branded desktop music client
+Music Streaming	Lidarr	Lidarr/Lidarr	Music collection management
+Music Streaming	Mopidy	mopidy/mopidy	Music server for hospitality audio
+Music Streaming	Snapcast	badaix/snapcast	Multiroom audio for venues
+Event & Ticketing	pretix	pretix/pretix	Ticketing SaaS for event organizers
+Event & Ticketing	Hi.Events	HiEventsDev/hi.events	White-label ticketing for venues
+Event & Ticketing	Indico	indico/indico	Conference management for associations
+Event & Ticketing	Attendize	Attendize/Attendize	Event ticketing for small venues
+Event & Ticketing	Open Event Server	fossasia/open-event-server	Event platform for meetups
+Event & Ticketing	pretalx	pretalx/pretalx	Call-for-papers SaaS for conferences
+Event & Ticketing	Alf.io	alfio-event/alf.io	Ticket reservation for nonprofits
+Event & Ticketing	Eventyay Frontend	fossasia/open-event-frontend	Branded event microsites
+Real Estate & Property	Homebox	sysadminsmedia/homebox	Home inventory for insurers
+Real Estate & Property	Microrealestate	microrealestate/microrealestate	Landlord management SaaS
+Real Estate & Property	Condo	open-condo-software/condo	Property management SaaS for HOAs
+Real Estate & Property	Paperless-ngx	paperless-ngx/paperless-ngx	Document archive for property managers
+Hotel & Hospitality	Erpnext	frappe/erpnext	Restaurant and hotel ERP for SMBs
+Hotel & Hospitality	NexoPOS	Blair2004/NexoPOS	POS SaaS for cafes and shops
+Hotel & Hospitality	Krayin CRM	krayin/laravel-crm	Guest CRM for hospitality
+Hotel & Hospitality	Opennds	openNDS/openNDS	Guest WiFi captive portal for hotels
+Church & Community	ChurchCRM	ChurchCRM/CRM	Hosted church management SaaS
+Church & Community	Rock RMS	SparkDevNetwork/Rock	Church platform deployments
+Church & Community	CiviCRM	civicrm/civicrm-core	Nonprofit CRM hosting
+Church & Community	OpenPetra	openpetra/openpetra	Charity donor management SaaS

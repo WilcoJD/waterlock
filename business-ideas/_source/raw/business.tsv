@@ -1,0 +1,431 @@
+CRM	Twenty	twentyhq/twenty	Niche CRM for roofing contractors, $49/seat/mo, hosted
+CRM	EspoCRM	espocrm/espocrm	Managed EspoCRM for insurance agencies with custom entities
+CRM	SuiteCRM	SuiteCRM/SuiteCRM	Salesforce-migration service plus hosted SuiteCRM for mid-market firms
+CRM	Krayin CRM	krayin/laravel-crm	White-label CRM bundled with web agency retainers
+CRM	Monica	monicahq/monica	Personal relationship manager subscription for networkers and coaches
+CRM	Atomic CRM	marmelab/atomic-crm	Lightweight CRM template sold as starter kit for startups
+CRM	Corteza	cortezaproject/corteza	Low-code CRM for government agencies, sovereign hosting
+CRM	Django CRM	DjangoCRM/django-crm	Hosted CRM for B2B distributors with sales pipelines
+CRM	Frappe CRM	frappe/crm	Managed Frappe CRM for SMB sales teams, $15/user/mo
+CRM	Horilla CRM	horilla/horilla-crm	Branded CRM for Indian SMB sales teams, hosted
+ERP	Odoo Community	odoo/odoo	Odoo implementation agency for manufacturers, fixed-fee rollouts
+ERP	ERPNext	frappe/erpnext	Vertical ERPNext hosting for food distributors, $300/mo
+ERP	Dolibarr	Dolibarr/dolibarr	Turnkey ERP for French-speaking freelancers and TPEs
+ERP	Tryton	tryton/tryton	Accounting-grade ERP hosting for EU logistics firms
+ERP	iDempiere	idempiere/idempiere	Regional ERP partner offering localization and support contracts
+ERP	Apache OFBiz	apache/ofbiz-framework	Custom ERP/e-commerce builds for wholesale businesses
+ERP	metasfresh	metasfresh/metasfresh	Managed ERP for food and pharma wholesalers with traceability
+ERP	Axelor Open Suite	axelor/axelor-open-suite	Low-code ERP customization agency for service businesses
+ERP	Carbon	crbnos/carbon	Manufacturing ERP SaaS for job shops, $99/user/mo
+ERP	Ever Gauzy	ever-co/ever-gauzy	All-in-one business platform for agencies, hosted per seat
+ERP	Flectra	flectra-hq/flectra	Hosted Odoo-fork ERP for SMEs avoiding enterprise licenses
+Accounting & Invoicing	Invoice Ninja	invoiceninja/invoiceninja	White-label invoicing portal for bookkeepers' clients
+Accounting & Invoicing	Akaunting	akaunting/akaunting	Hosted accounting for micro-businesses in emerging markets
+Accounting & Invoicing	Crater	crater-invoice-inc/crater	Invoicing app for freelancers sold via mobile app stores
+Accounting & Invoicing	InvoiceShelf	InvoiceShelf/InvoiceShelf	Branded invoicing SaaS for contractors, $9/mo
+Accounting & Invoicing	Bigcapital	bigcapitalhq/bigcapital	Cloud accounting for MENA SMBs with local tax rules
+Accounting & Invoicing	GnuCash	Gnucash/gnucash	Bookkeeping consulting and setup service for sole proprietors
+Accounting & Invoicing	LedgerSMB	ledgersmb/LedgerSMB	Managed double-entry accounting for accounting firms
+Accounting & Invoicing	SolidInvoice	SolidInvoice/SolidInvoice	Simple quote-to-invoice SaaS for tradespeople
+Accounting & Invoicing	Midday	midday-ai/midday	Business finance assistant for freelancers, hosted subscription
+Accounting & Invoicing	Fava	beancount/fava	Plain-text accounting hosting for tech-savvy small firms
+Accounting & Invoicing	Firefly III	firefly-iii/firefly-iii	Managed budgeting server for families and financial coaches
+Billing & Subscriptions	Lago	getlago/lago	Usage-based billing implementation service for API startups
+Billing & Subscriptions	Kill Bill	killbill/killbill	Subscription billing platform hosting for telcos and ISPs
+Billing & Subscriptions	OpenMeter	openmeterio/openmeter	Metering-as-a-service for AI API resellers
+Billing & Subscriptions	Flexprice	flexprice/flexprice	Hosted usage pricing engine for AI SaaS vendors
+Billing & Subscriptions	Hyperswitch	juspay/hyperswitch	Payment orchestration hosting for regional merchants
+Billing & Subscriptions	BTCPay Server	btcpayserver/btcpayserver	Managed crypto payment processing for online merchants
+Billing & Subscriptions	Laravel Cashier	laravel/cashier-stripe	Productized SaaS billing setup service for Laravel apps
+HR & Payroll	OrangeHRM	orangehrm/orangehrm	HR SaaS for SMBs in South Asia, $2/employee/mo
+HR & Payroll	Frappe HR	frappe/hrms	Payroll and HR hosting with country-specific salary rules
+HR & Payroll	Horilla HR	horilla/horilla-hr	Branded HRMS for staffing agencies, hosted
+HR & Payroll	IceHrm	gamonoid/icehrm	HR portal for schools and clinics, per-employee pricing
+HR & Payroll	Jorani	jorani/jorani	Leave management SaaS for small offices, $1/user/mo
+HR & Payroll	TimeOff.Management	timeoff-management/timeoff-management-application	Absence tracking app white-labeled for HR consultants
+HR & Payroll	OpenHRMS	CybroOdoo/OpenHRMS	Odoo-based HR implementation packages for mid-size firms
+Applicant Tracking	OpenCATS	opencats/OpenCATS	Hosted ATS for boutique recruiting agencies, $39/recruiter/mo
+Applicant Tracking	YAWIK	cross-solution/YAWIK	White-label job portal for regional chambers of commerce
+Applicant Tracking	Reactive Resume	reactive-resume/reactive-resume	Branded resume builder for universities' career services
+Applicant Tracking	Open Resume	xitanggg/open-resume	Resume builder plus ATS-score upsell for job seekers
+Applicant Tracking	Ever Gauzy	ever-co/ever-gauzy	Recruitment plus HR suite for outsourcing firms
+Applicant Tracking	Frappe HR	frappe/hrms	Recruitment module hosting for mid-size employers
+Project Management	OpenProject	opf/openproject	Hosted OpenProject for construction PMOs with Gantt focus
+Project Management	Plane	makeplane/plane	Managed Jira alternative for regulated industries, on-prem
+Project Management	Taiga	taigaio/taiga-back	Agile PM hosting for dev agencies, per-project pricing
+Project Management	Leantime	Leantime/leantime	PM tool for neurodivergent-friendly teams, hosted subscription
+Project Management	Redmine	redmine/redmine	Redmine hosting with plugins for engineering firms
+Project Management	Huly	hcengineering/platform	All-in-one workspace SaaS for small software teams
+Project Management	Worklenz	Worklenz/worklenz	Agency project management SaaS with client portal
+Project Management	Vikunja	go-vikunja/vikunja	Task management for households and small teams, freemium
+Project Management	Focalboard	mattermost-community/focalboard	Notion-style boards hosting for schools
+Kanban	WeKan	wekan/wekan	Private Trello alternative for law firms, managed hosting
+Kanban	Planka	plankanban/planka	Branded kanban for agencies to share with clients
+Kanban	Kanboard	kanboard/kanboard	Minimal kanban hosting for nonprofits, $5/mo
+Kanban	Restyaboard	RestyaPlatform/board	Trello-import kanban SaaS for SMBs
+Kanban	Kan	kanbn/kan	Hosted Trello alternative with templates marketplace
+Kanban	Tasks.md	BaldissaraMatheus/Tasks.md	Markdown kanban appliance for dev teams on NAS
+Kanban	4ga Boards	RARgames/4gaBoards	Kanban for manufacturing shop floors, self-hosted support
+Kanban	Taiga Front	taigaio/taiga-front	White-label kanban UI for consulting firms
+Time Tracking	Kimai	kimai/kimai	Time tracking and invoicing for freelancers, $5/user/mo
+Time Tracking	solidtime	solidtime-io/solidtime	Hosted time tracker for agencies with client billing
+Time Tracking	Traggo	traggo/server	Tag-based time tracking for consultants, hosted
+Time Tracking	ActivityWatch	ActivityWatch/activitywatch	Productivity analytics for remote teams, managed dashboards
+Time Tracking	Wakapi	muety/wakapi	Coding-time analytics SaaS for dev bootcamps
+Time Tracking	TimeTagger	almarklein/timetagger	Simple timer SaaS for therapists and lawyers
+Time Tracking	Super Productivity	super-productivity/super-productivity	Branded productivity app with sync subscription
+Time Tracking	Anuko Time Tracker	anuko/timetracker	Hosted timesheets for small engineering firms
+Time Tracking	Cattr	cattr-app/server-application	Employee monitoring SaaS for outsourcing companies
+Helpdesk & Ticketing	Zammad	zammad/zammad	Managed helpdesk for e-commerce brands, $15/agent/mo
+Helpdesk & Ticketing	osTicket	osTicket/osTicket	Hosted ticketing for schools and municipalities
+Helpdesk & Ticketing	FreeScout	freescout-help-desk/freescout	Help Scout alternative hosting with module bundles
+Helpdesk & Ticketing	UVdesk	uvdesk/community-skeleton	Helpdesk for marketplace sellers, white-labeled
+Helpdesk & Ticketing	Frappe Helpdesk	frappe/helpdesk	Customer support portal for SaaS startups, hosted
+Helpdesk & Ticketing	Trudesk	polonel/trudesk	Helpdesk for MSPs with per-client branding
+Helpdesk & Ticketing	Request Tracker	bestpractical/rt	RT hosting for universities and research labs
+Helpdesk & Ticketing	OTOBO	RotherOSS/otobo	ITSM service desk for German Mittelstand, managed
+Helpdesk & Ticketing	Znuny	znuny/Znuny	OTRS migration and hosting service
+Helpdesk & Ticketing	Libredesk	abhinavxd/libredesk	Omnichannel support desk for D2C brands
+Live Chat & Messaging	Chatwoot	chatwoot/chatwoot	White-label omnichannel inbox for WhatsApp agencies
+Live Chat & Messaging	Papercups	papercups-io/papercups	Embeddable live chat for Shopify stores
+Live Chat & Messaging	Tiledesk	Tiledesk/tiledesk	Chat plus bot platform for customer service BPOs
+Live Chat & Messaging	Mibew	Mibew/mibew	Simple website chat hosting for local businesses
+Live Chat & Messaging	Chaskiq	chaskiq/chaskiq	Intercom alternative for SaaS startups, hosted
+Live Chat & Messaging	Live Helper Chat	LiveHelperChat/livehelperchat	Multi-tenant live chat for web hosting resellers
+Live Chat & Messaging	Hexabot	hexabot-ai/Hexabot	Multilingual chatbot builder for African telcos
+AI Chatbot Builders	Typebot	baptisteArno/typebot.io	Lead-gen chatbot agency for real estate brokers
+AI Chatbot Builders	Botpress	botpress/botpress	Chatbot development agency with retainer pricing
+AI Chatbot Builders	Rasa	RasaHQ/rasa	On-prem conversational AI for banks and insurers
+AI Chatbot Builders	Dify	langgenius/dify	Private LLM app platform for enterprises, managed
+AI Chatbot Builders	AnythingLLM	Mintplex-Labs/anything-llm	Private document chatbot appliance for law firms
+AI Chatbot Builders	LibreChat	LibreChat-AI/LibreChat	Branded ChatGPT for companies, per-seat hosting
+AI Chatbot Builders	Open WebUI	open-webui/open-webui	Managed internal AI portal for schools
+Wiki	BookStack	BookStackApp/BookStack	Managed SOP wiki for franchises, $29/location/mo
+Wiki	Wiki.js	requarks/wiki	Documentation hosting for IT departments
+Wiki	DokuWiki	dokuwiki/dokuwiki	Simple intranet wiki for small offices, hosted
+Wiki	XWiki	xwiki/xwiki-platform	Confluence migration service for enterprises
+Wiki	MediaWiki	wikimedia/mediawiki	Fandom-style wiki hosting for game communities
+Wiki	Docmost	docmost/docmost	Confluence alternative for startups, per-seat SaaS
+Wiki	Outline	outline/outline	Team knowledge base hosting with SSO for agencies
+Wiki	An Otter Wiki	redimp/otterwiki	Minimal wiki for clubs and makerspaces
+Wiki	Gollum	gollum/gollum	Git-backed docs hosting for engineering teams
+Wiki	TiddlyWiki	TiddlyWiki/TiddlyWiki5	Personal knowledge templates sold to students
+Knowledge Base & Docs Sites	Docusaurus	meta/docusaurus	Docs-site-as-a-service for developer tools companies
+Knowledge Base & Docs Sites	Raneto	ryanlelek/Raneto	Markdown help center for SaaS products
+Knowledge Base & Docs Sites	Starlight	withastro/starlight	Documentation theme agency for open-source companies
+Knowledge Base & Docs Sites	Material for MkDocs	squidfunk/mkdocs-material	Internal handbook sites for companies, setup service
+Knowledge Base & Docs Sites	Docsify	docsifyjs/docsify	Instant product docs hosting for indie SaaS
+Knowledge Base & Docs Sites	Fumadocs	fuma-nama/fumadocs	Mintlify-style docs hosting for API startups
+Knowledge Base & Docs Sites	Nextra	shuding/nextra	Branded documentation sites built for fixed fee
+Knowledge Base & Docs Sites	Documize	documize/community	Knowledge base for customer support teams
+Email Marketing	listmonk	knadh/listmonk	Mailchimp alternative hosting for newsletters, $19/mo
+Email Marketing	Keila	pentacent/keila	EU-hosted newsletter tool for GDPR-sensitive brands
+Email Marketing	Sendportal	mettle/sendportal	White-label email campaigns for marketing agencies
+Email Marketing	phpList	phpList/phplist3	Bulk email hosting for nonprofits and associations
+Email Marketing	Mailtrain	Mailtrain-org/mailtrain	Newsletter platform for publishers on own SES
+Email Marketing	Postal	postalserver/postal	Transactional email relay for web hosting customers
+Email Marketing	BillionMail	Billionmail/BillionMail	Self-hosted mail and newsletter server for agencies
+Email Marketing	Plunk	useplunk/plunk	Email platform for SaaS onboarding emails
+Email Marketing	Ghost	TryGhost/Ghost	Paid newsletter hosting for creators
+Email Marketing	Notifuse	Notifuse/notifuse	Email automation for e-commerce, hosted
+Marketing Automation	Mautic	mautic/mautic	HubSpot alternative agency, setup plus monthly management
+Marketing Automation	Dittofeed	dittofeed/dittofeed	Customer engagement automation for B2C apps
+Marketing Automation	Laudspeaker	laudspeaker/laudspeaker	Journey orchestration for mobile apps, hosted
+Marketing Automation	Novu	novuhq/novu	Notification infrastructure hosting for SaaS
+Marketing Automation	Formbricks	formbricks/formbricks	In-app survey and NPS for product teams
+Marketing Automation	Mautic Docker	mautic/docker-mautic	One-click Mautic hosting for SMB marketers
+Workflow Automation	n8n	n8n-io/n8n	Automation agency building workflows for SMBs on retainer
+Workflow Automation	Activepieces	activepieces/activepieces	White-label Zapier alternative for SaaS vendors
+Workflow Automation	Automatisch	automatisch/automatisch	EU-hosted Zapier alternative for GDPR clients
+Workflow Automation	Huginn	huginn/huginn	Monitoring and alert agents for e-commerce sellers
+Workflow Automation	Windmill	windmill-labs/windmill	Internal scripts platform hosting for ops teams
+Workflow Automation	Node-RED	node-red/node-red	IoT automation consulting for factories
+Workflow Automation	Kestra	kestra-io/kestra	Data orchestration managed service for analytics teams
+Workflow Automation	Trigger.dev	triggerdotdev/trigger.dev	Background jobs hosting for developers
+Forms & Surveys	LimeSurvey	LimeSurvey/LimeSurvey	Survey hosting for universities and research firms
+Forms & Surveys	HeyForm	heyform/heyform	Conversational forms SaaS for lead generation
+Forms & Surveys	OpnForm	OpnForm/OpnForm	Hosted form builder for schools, freemium
+Forms & Surveys	SurveyJS	surveyjs/survey-library	Embedded survey builder in vertical SaaS products
+Forms & Surveys	Form.io	formio/formio	Form backend for government digital services
+Forms & Surveys	KoboToolbox	kobotoolbox/kpi	Field data collection hosting for NGOs
+Forms & Surveys	ODK Central	getodk/central	Managed ODK servers for public health surveys
+Forms & Surveys	Formbricks	formbricks/formbricks	Qualtrics alternative for mid-market experience teams
+Feedback & Roadmaps	Fider	getfider/fider	Hosted feature-voting boards for SaaS, $29/mo
+Feedback & Roadmaps	LogChimp	logchimp/logchimp	Canny alternative for indie SaaS
+Feedback & Roadmaps	ClearFlask	clearflask/clearflask	Feedback and roadmap SaaS for product teams
+Scheduling & Booking	Cal.diy	calcom/cal.diy	Vertical booking SaaS for tutors, $12/mo
+Scheduling & Booking	Easy!Appointments	alextselegidis/easyappointments	Appointment booking for barbershops, hosted
+Scheduling & Booking	Rallly	lukevella/rallly	Doodle alternative for teams, premium tier
+Scheduling & Booking	LibreBooking	LibreBooking/librebooking	Resource booking for labs and meeting rooms
+Scheduling & Booking	Croodle	jelhan/croodle	Privacy-first poll scheduling for EU public sector
+Scheduling & Booking	Seatsurfing	seatsurfing/seatsurfing	Desk booking SaaS for hybrid offices
+Scheduling & Booking	Radicale	Kozea/Radicale	Managed CalDAV/CardDAV for small firms
+Scheduling & Booking	Leihs	leihs/leihs	Equipment lending system for universities
+Events & Ticketing	Hi.Events	HiEventsDev/Hi.Events	White-label ticketing for venues, per-ticket fee
+Events & Ticketing	pretix	pretix/pretix	Ticket shop hosting for festivals and conferences
+Events & Ticketing	Indico	indico/indico	Conference management hosting for scientific societies
+Events & Ticketing	Attendize	Attendize/Attendize	Event ticketing for community organizers
+Events & Ticketing	pretalx	pretalx/pretalx	Call-for-papers hosting for tech conferences
+Events & Ticketing	alf.io	alfio-event/alf.io	Ticket reservation system for nonprofit events
+E-Signature	Documenso	documenso/documenso	DocuSign alternative for real estate agents, $15/mo
+E-Signature	DocuSeal	docusealco/docuseal	Embedded e-signature in HR and rental SaaS
+E-Signature	OpenSign	OpenSignLabs/OpenSign	Branded e-sign for law firms, hosted
+E-Signature	LibreSign	LibreSign/libresign	Nextcloud e-signature integration for public agencies
+E-Signature	Signature PDF	24eme/signaturepdf	Simple PDF signing service for municipalities
+E-Signature	Stirling-PDF	Stirling-Tools/Stirling-PDF	Private PDF toolkit for enterprises, managed
+E-Signature	Papermark	papermark/papermark	DocSend alternative for startup fundraising decks
+Document Management	Paperless-ngx	paperless-ngx/paperless-ngx	Paperless office setup for accountants and dentists
+Document Management	Mayan EDMS	mayan-edms/mayan-edms	Records management hosting for regulated firms
+Document Management	Docspell	eikek/docspell	Personal document archive service for households
+Document Management	Teedy	sismics/docs	Lightweight DMS for small businesses, hosted
+Document Management	Papra	papra-hq/papra	Document archiving SaaS for freelancers
+Document Management	Alfresco Community	Alfresco/alfresco-community-repo	ECM integration services for enterprises
+Document Management	Docling	docling-project/docling	Document parsing pipeline service for legal tech
+File Sync & Sharing	Nextcloud	nextcloud/server	Managed Nextcloud for SMBs as Google Workspace alternative
+File Sync & Sharing	Seafile	haiwen/seafile	High-performance file sync hosting for media agencies
+File Sync & Sharing	ownCloud Infinite Scale	owncloud/ocis	Sovereign cloud storage for EU public sector
+File Sync & Sharing	Pydio Cells	pydio/cells	Secure file sharing for law and finance firms
+File Sync & Sharing	Filestash	mickael-kerjean/filestash	Web file manager over S3/SFTP for MSP clients
+File Sync & Sharing	PsiTransfer	psi-4ward/psitransfer	Large file transfer service for video studios
+File Sync & Sharing	Zipline	diced/zipline	ShareX upload host for creators, subscription
+Password Managers	Vaultwarden	dani-garcia/vaultwarden	Managed password vaults for MSP clients, $3/user/mo
+Password Managers	Bitwarden Server	bitwarden/server	Self-hosted Bitwarden deployment and support for enterprises
+Password Managers	Passbolt	passbolt/passbolt_api	Team password manager hosting for agencies
+Password Managers	Padloc	padloc/padloc	Branded password manager for families
+Password Managers	KeeWeb	keeweb/keeweb	KeePass web access hosting for small teams
+Password Managers	TeamPass	nilsteampassnet/TeamPass	Shared credentials vault for IT departments
+Password Managers	Infisical	Infisical/infisical	Secrets management hosting for dev teams
+Password Managers	OpenBao	openbao/openbao	Managed Vault-compatible secrets service
+Identity & SSO	Keycloak	keycloak/keycloak	Managed SSO for B2B SaaS vendors
+Identity & SSO	authentik	goauthentik/authentik	Identity provider hosting for MSPs
+Identity & SSO	Authelia	authelia/authelia	2FA gateway setup for homelab and SMB
+Identity & SSO	ZITADEL	zitadel/zitadel	Multi-tenant auth for SaaS builders
+Identity & SSO	Logto	logto-io/logto	Auth0 alternative hosting for startups
+Identity & SSO	SuperTokens	supertokens/supertokens-core	Managed auth for mobile apps
+Identity & SSO	Ory Kratos	ory/kratos	Identity infrastructure consulting for fintechs
+Identity & SSO	Casdoor	casdoor/casdoor	SSO portal for Asian enterprises
+Identity & SSO	Hanko	teamhanko/hanko	Passkey login service for e-commerce sites
+Team Chat	Mattermost	mattermost/mattermost	Secure team chat for defense contractors, managed
+Team Chat	Rocket.Chat	RocketChat/Rocket.Chat	White-label chat for healthcare networks
+Team Chat	Zulip	zulip/zulip	Threaded chat hosting for open-source communities
+Team Chat	Synapse	element-hq/synapse	Matrix homeserver hosting for governments
+Team Chat	Element Web	element-hq/element-web	Branded Matrix client for enterprises
+Team Chat	Once Campfire	basecamp/once-campfire	Simple group chat hosted for small companies
+Team Chat	Spacebar	spacebarchat/server	Discord-compatible chat for gaming communities
+Team Chat	Tinode	tinode/chat	Embeddable messaging backend for marketplace apps
+Team Chat	Wire Server	wireapp/wire-server	Encrypted messaging for law firms
+Video Conferencing	Jitsi Meet	jitsi/jitsi-meet	Branded video meetings for telehealth clinics
+Video Conferencing	BigBlueButton	bigbluebutton/bigbluebutton	Virtual classroom hosting for schools, per-seat
+Video Conferencing	LiveKit	livekit/livekit	Real-time video infrastructure for app developers
+Video Conferencing	MiroTalk P2P	miroslavpejic85/mirotalk	White-label video calls for coaches
+Video Conferencing	MiroTalk SFU	miroslavpejic85/mirotalksfu	Webinar platform for small event hosts
+Video Conferencing	Galene	jech/galene	Lightweight videoconference for universities
+Video Conferencing	OpenVidu	OpenVidu/openvidu	Video platform for telemedicine startups
+Video Conferencing	plugNmeet	mynaparrot/plugNmeet-server	Branded meeting rooms for online tutors
+Video Conferencing	Cap	CapSoftware/Cap	Loom alternative for sales teams
+Video Hosting & Streaming	PeerTube	Chocobozzz/PeerTube	Private video platform for corporate training
+Video Hosting & Streaming	Owncast	owncast/owncast	Live-stream hosting for churches and creators
+Video Hosting & Streaming	MediaCMS	mediacms-io/mediacms	YouTube-like portal for universities
+Video Hosting & Streaming	Jellyfin	jellyfin/jellyfin	Managed media servers for hotels and venues
+Notes & Collaborative Docs	AFFiNE	toeverything/AFFiNE	Notion alternative hosting for privacy-focused teams
+Notes & Collaborative Docs	AppFlowy	AppFlowy-IO/AppFlowy	Branded workspace app for enterprises
+Notes & Collaborative Docs	Etherpad	ether/etherpad	Real-time collaborative notes for classrooms
+Notes & Collaborative Docs	HedgeDoc	hedgedoc/hedgedoc	Markdown collaboration for engineering teams
+Notes & Collaborative Docs	CryptPad	cryptpad/cryptpad	End-to-end encrypted office for NGOs and journalists
+Notes & Collaborative Docs	Joplin	laurent22/joplin	Note sync server hosting subscription
+Notes & Collaborative Docs	Trilium Notes	TriliumNext/Trilium	Hosted personal knowledge base subscription
+Notes & Collaborative Docs	Memos	usememos/memos	Microblog-style notes for teams, hosted
+Notes & Collaborative Docs	Logseq	logseq/logseq	Research knowledge graph tools for academics
+Notes & Collaborative Docs	SiYuan	siyuan-note/siyuan	Local-first notes with paid cloud sync
+Notes & Collaborative Docs	La Suite Docs	suitenumerique/docs	Sovereign collaborative docs for public administrations
+Whiteboards & Diagrams	Excalidraw	excalidraw/excalidraw	Collaborative whiteboard SaaS for remote workshops
+Whiteboards & Diagrams	draw.io	jgraph/drawio	Diagramming embedded in internal portals
+Whiteboards & Diagrams	Penpot	penpot/penpot	Managed design collaboration for agencies
+Whiteboards & Diagrams	WBO	lovasoa/whitebophir	Online whiteboard for tutoring platforms
+Office Suites	ONLYOFFICE Docs	ONLYOFFICE/DocumentServer	Hosted office suite for SMBs with Nextcloud
+Office Suites	Collabora Online	CollaboraOnline/online	Sovereign document editing for governments
+Spreadsheets & No-Code DB	Grist	gristlabs/grist-core	Airtable alternative for government data teams
+Spreadsheets & No-Code DB	NocoDB	nocodb/nocodb	No-code database app builder for SMB ops
+Spreadsheets & No-Code DB	Baserow	baserow/baserow	EU-hosted Airtable alternative
+Spreadsheets & No-Code DB	Teable	teableio/teable	Postgres-backed spreadsheet DB for analysts
+Spreadsheets & No-Code DB	APITable	apitable/apitable	Visual database SaaS for project teams
+Spreadsheets & No-Code DB	Univer	dream-num/univer	Embedded spreadsheet engine for vertical SaaS
+Internal Tools & Low-Code	Appsmith	appsmithorg/appsmith	Internal tool building agency for ops teams
+Internal Tools & Low-Code	ToolJet	ToolJet/ToolJet	White-label app builder for consultancies
+Internal Tools & Low-Code	Budibase	Budibase/budibase	Low-code apps for IT departments, managed
+Internal Tools & Low-Code	Directus	directus/directus	Headless data platform for agencies' client backends
+Internal Tools & Low-Code	Refine	refinedev/refine	Admin panel development agency
+Internal Tools & Low-Code	Saltcorn	saltcorn/saltcorn	No-code app hosting for small businesses
+Internal Tools & Low-Code	Lowcoder	lowcoder-org/lowcoder	Retool alternative hosting for startups
+Inventory & Warehouse	InvenTree	inventree/InvenTree	Parts inventory SaaS for electronics manufacturers
+Inventory & Warehouse	Part-DB	Part-DB/Part-DB-server	Hosted parts database for hardware startups
+Inventory & Warehouse	Grocy	grocy/grocy	Stock management for small food businesses
+Inventory & Warehouse	Homebox	sysadminsmedia/homebox	Home inventory service for insurance documentation
+Inventory & Warehouse	OpenBoxes	openboxes/openboxes	Supply chain management for clinics and NGOs
+Inventory & Warehouse	ModernWMS	fjykTec/ModernWMS	Warehouse management SaaS for 3PLs
+Inventory & Warehouse	OpenWMS	openwms/org.openwms	WMS integration consulting for logistics centers
+Inventory & Warehouse	OCA WMS	OCA/wms	Odoo warehouse modules implementation for distributors
+Inventory & Warehouse	Shelf	Shelf-nu/shelf.nu	Asset tracking for equipment rental companies
+Point of Sale	Open Source POS	opensourcepos/opensourcepos	Hosted POS for small retail shops, $29/mo
+Point of Sale	NexoPOS	Blair2004/NexoPOS	POS and inventory for pharmacies in Africa
+Point of Sale	POS Awesome	ucraft-com/POS-Awesome	ERPNext POS front for retail chains
+Point of Sale	Store POS	tngoman/Store-POS	Desktop POS for kiosks, sold with hardware
+Point of Sale	Laravel POS	angkosal/laravel-pos	Branded POS for minimarts, hosted
+Point of Sale	URY	ury-erp/ury	Restaurant POS on ERPNext for cafe chains
+Restaurant Management	TastyIgniter	tastyigniter/TastyIgniter	Online ordering sites for independent restaurants, $49/mo
+Restaurant Management	URY	ury-erp/ury	Full restaurant ERP for multi-outlet chains
+Restaurant Management	Nodedr Restaurant POS	Raktim94/nodedr-restaurant-pos	Table-service POS for cafes, hosted
+Restaurant Management	Grocy	grocy/grocy	Kitchen inventory tracking for small restaurants
+Restaurant Management	Tandoor Recipes	TandoorRecipes/recipes	Recipe costing and menu planning for caterers
+Restaurant Management	Mealie	mealie-recipes/mealie	Meal planning service for nutritionists
+Hotel & Property PMS	QloApps	Qloapps/QloApps	Booking engine and PMS for boutique hotels, $79/mo
+Hotel & Property PMS	HAIP	TelivityAI/haip	AI-native hotel PMS for independent properties
+Hotel & Property PMS	Movin' In	aelassas/movinin	Rental property booking platform for agencies
+Property Management	MicroRealEstate	microrealestate/microrealestate	Landlord rent management SaaS, per-unit pricing
+Property Management	Condo	open-condo-software/condo	HOA and building management SaaS
+Property Management	MicroCommunity	java110/MicroCommunity	Residential community management for property firms
+Property Management	ResidenceCMS	Coderberg/ResidenceCMS	Real estate listing sites for brokers
+Property Management	Real Estate CRM	prolinkinfo/RealEstateCRM	Lead management for real estate brokerages
+Car Rental & Fleet	BookCars	aelassas/bookcars	White-label car rental booking for local agencies
+Car Rental & Fleet	Hammond	akhilrex/hammond	Vehicle expense tracking for small fleets
+Car Rental & Fleet	LubeLogger	hargata/lubelog	Fleet maintenance records for repair shops
+Car Rental & Fleet	Fleetbase	fleetbase/fleetbase	Logistics and delivery management platform for couriers
+Car Rental & Fleet	Traccar	traccar/traccar	GPS tracking SaaS for fleet operators
+Field Service	OCA Field Service	OCA/field-service	Field service on Odoo for HVAC contractors
+Field Service	Fleetbase	fleetbase/fleetbase	Dispatch and route management for field crews
+Field Service	Traccar	traccar/traccar	Technician tracking for service companies
+Field Service	ERPNext	frappe/erpnext	Maintenance visits module hosting for equipment dealers
+Field Service	Open Field Pro	niko4244/openfieldpro	Field service app for small trades businesses
+IT Asset Management	Snipe-IT	grokability/snipe-it	Hosted IT asset management for schools, $39/mo
+IT Asset Management	GLPI	glpi-project/glpi	ITSM and asset management for MSPs
+IT Asset Management	Ralph	allegro/ralph	Data center asset management for hosting providers
+IT Asset Management	NetBox	netbox-community/netbox	Network source of truth hosting for ISPs
+IT Asset Management	OCS Inventory	OCSInventory-NG/OCSInventory-Server	Automated hardware inventory for MSP clients
+IT Asset Management	iTop	Combodo/iTop	CMDB and ITSM implementation services
+IT Asset Management	Fleet	fleetdm/fleet	Device management for remote-first companies
+IT Asset Management	Shelf	Shelf-nu/shelf.nu	Equipment check-out tracking for film production
+RMM & Remote Support	MeshCentral	Ylianst/MeshCentral	Remote management platform for MSPs, per-device pricing
+RMM & Remote Support	Tactical RMM	amidaware/tacticalrmm	Managed RMM for small IT shops
+RMM & Remote Support	RustDesk	rustdesk/rustdesk	Branded remote support tool for IT providers
+RMM & Remote Support	NetAlertX	netalertx/NetAlertX	Network intrusion alerts for small offices
+Procurement & Purchasing	ERPNext	frappe/erpnext	Procurement module rollout for mid-size buyers
+Procurement & Purchasing	Odoo Community	odoo/odoo	Purchase workflow implementation for manufacturers
+Procurement & Purchasing	metasfresh	metasfresh/metasfresh	Procurement hosting for wholesale distributors
+Procurement & Purchasing	iDempiere	idempiere/idempiere	Requisition and PO management for public agencies
+Procurement & Purchasing	Tryton	tryton/tryton	Purchase request approvals for SMEs, hosted
+Legal & Practice Management	ArkCase	ArkCase/ArkCase	Case management for FOIA offices and legal departments
+Legal & Practice Management	Clerk	AnikaLegal/clerk	Legal aid case management for community legal centers
+Legal & Practice Management	LawLink	lawflow-boop/LawLink	Practice management for small law firms, hosted
+Legal & Practice Management	Docassemble	jhpyle/docassemble	Legal document automation for law firms and courts
+Legal & Practice Management	OpenSign	OpenSignLabs/OpenSign	Engagement-letter signing for solo attorneys
+Contracts & CLM	Docassemble	jhpyle/docassemble	Contract template automation for in-house legal
+Contracts & CLM	DocuSeal	docusealco/docuseal	Contract signing for staffing agencies
+Contracts & CLM	Documenso	documenso/documenso	Contract signing SaaS for freelancers
+Contracts & CLM	Papermark	papermark/papermark	Secure contract data rooms for M&A advisors
+Contracts & CLM	Accord Project	accordproject/template-archive	Smart legal contract templates for legal tech
+Quoting & CPQ	Invoice Ninja	invoiceninja/invoiceninja	Quote-to-cash for contractors with client portal
+Quoting & CPQ	Crater	crater-invoice-inc/crater	Estimates and invoicing app for tradespeople
+Quoting & CPQ	Krayin CRM	krayin/laravel-crm	Quote generation module for B2B sales teams
+Quoting & CPQ	Dolibarr	Dolibarr/dolibarr	Proposals and orders hosting for SMB distributors
+Quoting & CPQ	SolidInvoice	SolidInvoice/SolidInvoice	Quote approval workflow for agencies
+Church Management	ChurchCRM	ChurchCRM/CRM	Hosted church CRM, $20/congregation/mo
+Church Management	Rock RMS	SparkDevNetwork/Rock	Rock RMS hosting and consulting for megachurches
+Church Management	ChurchApps B1	ChurchApps/B1Admin	Free church platform with paid setup and support
+Church Management	EcclesiaCRM	phili67/ecclesiacrm	French-language church management hosting
+Nonprofit & Donor CRM	CiviCRM	civicrm/civicrm-core	CiviCRM hosting for charities, $99/mo
+Nonprofit & Donor CRM	Open Collective	opencollective/opencollective	Fiscal hosting platform for community groups
+Nonprofit & Donor CRM	GiveWP	impress-org/givewp	Donation site builds for nonprofits
+Nonprofit & Donor CRM	Liberapay	liberapay/liberapay.com	Recurring donations platform for creators
+Nonprofit & Donor CRM	Sahana Eden	sahana/eden	Disaster response management for humanitarian NGOs
+Membership & Clubs	ClubMaster	clubmaster/clubmaster	Club membership management for sports clubs
+Membership & Clubs	Arooo	doubleunion/arooo	Membership application system for associations
+Membership & Clubs	Groups	itthinx/groups	WordPress membership sites for professional bodies
+Membership & Clubs	s2Member	wpsharks/s2member	Paid membership sites for course creators
+Gym & Fitness	wger	wger-project/wger	White-label workout and nutrition app for personal trainers
+Gym & Fitness	Laragym	johndavedecano/laragym	Gym membership management SaaS, $49/mo per gym
+Gym & Fitness	GYM One	mayerbalintdev/GYM-One	Gym check-in and billing for small fitness studios
+LMS & E-Learning	Moodle	moodle/moodle	Moodle hosting for corporate compliance training
+LMS & E-Learning	Canvas LMS	instructure/canvas-lms	Managed Canvas for private schools
+LMS & E-Learning	Open edX	openedx/openedx-platform	MOOC platform hosting for universities
+LMS & E-Learning	Chamilo	chamilo/chamilo-lms	LMS for Latin American training centers
+LMS & E-Learning	ILIAS	ILIAS-eLearning/ILIAS	Enterprise LMS for German public sector
+LMS & E-Learning	Frappe LMS	frappe/lms	Course platform for coaches, branded
+LMS & E-Learning	Sakai	sakaiproject/sakai	Higher-ed LMS hosting and support
+LMS & E-Learning	ClassroomIO	classroomio/classroomio	Bootcamp LMS SaaS, per-student pricing
+LMS & E-Learning	Oppia	oppia/oppia	Interactive lessons platform for NGOs
+LMS & E-Learning	CourseLit	codelitdev/courselit	Teachable alternative for course creators
+School Management & SIS	openSIS	OS4ED/openSIS-Classic	Student information system for K-12 schools, hosted
+School Management & SIS	Gibbon	GibbonEdu/core	School platform for international schools
+School Management & SIS	Frappe Education	frappe/education	Education ERP for colleges, managed
+School Management & SIS	RosarioSIS	francoisjacquet/rosariosis	SIS hosting for small private schools
+School Management & SIS	OpenEduCat	openeducat/openeducat_erp	Odoo-based school management implementations
+School Management & SIS	LAV SMS	4jean/lav_sms	School management SaaS for African schools
+School Management & SIS	Laravel School Management	hrshadhin/school-management-system	Branded school portal for academies
+School Management & SIS	Django School Management	TareqMonwer/Django-School-Management	Hosted school admin portal for private schools
+School Management & SIS	Koha	Koha-Community/Koha	Library management hosting for schools and libraries
+Healthcare EMR & Clinic	OpenEMR	openemr/openemr	Certified EHR hosting for small practices
+Healthcare EMR & Clinic	OpenMRS	openmrs/openmrs-core	EMR implementations for global health programs
+Healthcare EMR & Clinic	Bahmni	Bahmni/openmrs-module-bahmniapps	Hospital system deployments in emerging markets
+Healthcare EMR & Clinic	Medplum	medplum/medplum	FHIR backend for digital health startups
+Healthcare EMR & Clinic	HAPI FHIR	hapifhir/hapi-fhir	Managed FHIR servers for health IT integrators
+Healthcare EMR & Clinic	Ottehr	masslight/ottehr	Urgent care EHR SaaS for clinics
+Healthcare EMR & Clinic	OpenEyes	AppertaFoundation/openeyes	Ophthalmology EPR hosting for eye clinics
+Healthcare EMR & Clinic	Apexo	alexcorvi/apexo	Dental practice management for small clinics
+Veterinary	Yosemite Crew	YosemiteCrew/Yosemite-Crew	Vet practice management SaaS for independent clinics
+Veterinary	OpenVPM	evangauer/openvpm	Veterinary PMS hosting for small animal practices
+Social Media Scheduling	Postiz	gitroomhq/postiz-app	White-label social scheduler for marketing agencies
+Social Media Scheduling	Mixpost	inovector/mixpost	Buffer alternative for agencies, flat fee
+Social Media Scheduling	Socioboard	Socioboard-developers/Socioboard-5.0	Social media management for SMBs
+Social Media Scheduling	TryPost	trypostit/trypost	Social posting SaaS for creators
+Social Media Scheduling	Mastodon	mastodon/mastodon	Managed Mastodon instances for brands and communities
+OKRs & Goals	Operately	operately/operately	OKR and company operating system SaaS for startups
+OKRs & Goals	Ever Gauzy	ever-co/ever-gauzy	Goals and KPIs module for agencies
+OKRs & Goals	Leantime	Leantime/leantime	Strategy and goals tracking for small teams
+OKRs & Goals	OpenProject	opf/openproject	Portfolio objectives tracking for PMOs
+Expense & Personal Finance	Actual Budget	actualbudget/actual	Budgeting app with hosted sync subscription
+Expense & Personal Finance	IHateMoney	spiral-project/ihatemoney	Shared expense splitting for travel groups
+Expense & Personal Finance	Spliit	spliit-app/spliit	Splitwise alternative with premium features
+Expense & Personal Finance	Ghostfolio	ghostfolio/ghostfolio	Portfolio tracker subscription for investors
+Expense & Personal Finance	Hammond	akhilrex/hammond	Mileage and vehicle expense tracking for gig drivers
+Expense & Personal Finance	Firefly III	firefly-iii/firefly-iii	Expense tracking service for small business owners
+E-Commerce	Saleor	saleor/saleor	Headless commerce agency for DTC brands
+E-Commerce	Medusa	medusajs/medusa	Custom commerce builds for marketplaces
+E-Commerce	Bagisto	bagisto/bagisto	Multi-vendor marketplace SaaS for local sellers
+E-Commerce	PrestaShop	PrestaShop/PrestaShop	Managed PrestaShop hosting for EU merchants
+E-Commerce	WooCommerce	woocommerce/woocommerce	WooCommerce store builds and maintenance plans
+E-Commerce	Sylius	Sylius/Sylius	B2B commerce implementations for wholesalers
+E-Commerce	Shopware	shopware/shopware	Shopware agency for mid-market retailers
+E-Commerce	Vendure	vendurehq/vendure	Headless commerce for subscription boxes
+E-Commerce	EverShop	evershopcommerce/evershop	Shopify alternative hosting for small stores
+E-Commerce	Solidus	solidusio/solidus	Ruby commerce development for DTC brands
+E-Commerce	OpenCart	opencart/opencart	Cheap hosted stores for emerging-market merchants
+CMS & Website Builders	Strapi	strapi/strapi	Headless CMS agency for marketing sites
+CMS & Website Builders	Payload	payloadcms/payload	Custom CMS builds for enterprises
+CMS & Website Builders	WordPress	WordPress/WordPress	Managed WordPress for local businesses, $30/mo
+CMS & Website Builders	Wagtail	wagtail/wagtail	CMS builds for universities and nonprofits
+CMS & Website Builders	Decap CMS	decaporg/decap-cms	Git-based CMS for static site agencies
+CMS & Website Builders	Keystone	keystonejs/keystone	Content backends for app developers
+CMS & Website Builders	TinaCMS	tinacms/tinacms	Visual editing for Jamstack client sites
+CMS & Website Builders	Umbraco	umbraco/Umbraco-CMS	.NET CMS agency for enterprises
+Web Analytics	Plausible	plausible/analytics	Privacy analytics reseller for agencies' clients
+Web Analytics	Umami	umami-software/umami	White-label analytics dashboards for web agencies
+Web Analytics	Matomo	matomo-org/matomo	GDPR-compliant analytics hosting for EU sites
+Web Analytics	PostHog	PostHog/posthog	Product analytics hosting for regulated companies
+Web Analytics	OpenReplay	openreplay/openreplay	Session replay for fintech apps, self-hosted
+Business Intelligence	Metabase	metabase/metabase	Embedded analytics for vertical SaaS vendors
+Business Intelligence	Apache Superset	apache/superset	Managed BI for mid-market data teams
+Business Intelligence	Redash	getredash/redash	SQL dashboards hosting for startups
+Business Intelligence	Lightdash	lightdash/lightdash	dbt-native BI hosting for analytics consultancies
+Business Intelligence	Evidence	evidence-dev/evidence	Report-as-code dashboards for clients
+Status Pages & Uptime	Uptime Kuma	louislam/uptime-kuma	Uptime monitoring for web agencies' clients, $10/mo
+Status Pages & Uptime	Cachet	cachethq/cachet	Branded status pages for SaaS companies
+Status Pages & Uptime	Gatus	TwiN/gatus	Health dashboards for DevOps teams
+Status Pages & Uptime	OpenStatus	openstatusHQ/openstatus	Statuspage alternative SaaS
+Status Pages & Uptime	Kener	rajnandan1/kener	Beautiful status pages for startups
+Status Pages & Uptime	Upptime	upptime/upptime	GitHub-powered status pages setup service
+Link Management	Dub	dubinc/dub.link	Branded short links for marketing teams
+Link Management	Shlink	shlinkio/shlink	URL shortener hosting for agencies
+Link Management	YOURLS	YOURLS/YOURLS	Custom-domain short links for publishers
+Link Management	Kutt	thedevs-network/kutt	Short link SaaS with analytics
+Link Management	LinkStack	LinkStackOrg/LinkStack	Linktree alternative for creators
+Link Management	Sink	miantiao-me/Sink	Edge URL shortener for e-commerce campaigns

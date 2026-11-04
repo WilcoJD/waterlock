@@ -1,0 +1,400 @@
+Traditional CMS	WordPress	WordPress/WordPress	Managed WordPress hosting with care plans and white-label agency dashboards
+Traditional CMS	Drupal	drupal/drupal	Vertical Drupal distributions for governments and universities with support SLAs
+Traditional CMS	Joomla	joomla/joomla-cms	Joomla hosting plus template marketplace for small businesses
+Traditional CMS	Grav	getgrav/grav	Flat-file CMS hosting for brochure sites at low cost per site
+Traditional CMS	Concrete CMS	concretecms/concretecms	In-context editing sites for nontechnical SMB clients on monthly retainer
+Traditional CMS	Craft CMS	craftcms/cms	Agency builds with recurring hosting and content support contracts
+Traditional CMS	TYPO3	typo3/typo3	Enterprise multisite TYPO3 hosting and DACH-market support
+Traditional CMS	October CMS	octobercms/october	Laravel-based client sites with paid plugin bundles
+Traditional CMS	Winter CMS	wintercms/winter	White-label Laravel CMS for agency client portals
+Traditional CMS	ProcessWire	processwire/processwire	Custom content-model sites sold as managed packages
+Traditional CMS	Backdrop CMS	backdrop/backdrop	Affordable Drupal-7 migration hosting for nonprofits
+Traditional CMS	Umbraco	umbraco/Umbraco-CMS	.NET CMS cloud hosting for Microsoft-shop enterprises
+Traditional CMS	Orchard Core	OrchardCMS/OrchardCore	Multi-tenant .NET site SaaS with per-tenant pricing
+Traditional CMS	Wagtail	wagtail/wagtail	Managed Wagtail for publishers and nonprofits with editorial training
+Traditional CMS	django CMS	django-cms/django-cms	Python CMS hosting with enterprise support tiers
+Traditional CMS	Microweber	microweber/microweber	Drag-and-drop site plus store SaaS for small merchants
+Headless CMS	Strapi	strapi/strapi	Managed Strapi cloud with backups and plugin add-ons
+Headless CMS	Directus	directus/directus	Data-backend-as-a-service for agencies on existing SQL databases
+Headless CMS	Payload	payloadcms/payload	Next.js-native CMS starter kits sold with hosting
+Headless CMS	KeystoneJS	keystonejs/keystone	Custom admin backends for client apps on retainer
+Headless CMS	Decap CMS	decaporg/decap-cms	Git-based editing for static sites sold as add-on service
+Headless CMS	TinaCMS	tinacms/tinacms	Visual editing layer for Jamstack sites with hosted plans
+Headless CMS	Sanity Studio	sanity-io/sanity	Custom-built Studio configurations for content-heavy brands
+Headless CMS	ApostropheCMS	apostrophecms/apostrophe	Hosted multisite platform for franchises and chains
+Headless CMS	Squidex	Squidex/squidex	Hosted .NET headless CMS with usage-based pricing
+Headless CMS	Cockpit	Cockpit-HQ/Cockpit	Lightweight headless CMS hosting for small agencies
+Headless CMS	Webiny	webiny/webiny-js	Serverless CMS deployments on clients' AWS with support contract
+Website Builders	GrapesJS	GrapesJS/grapesjs	Embed white-label drag-and-drop builder into your SaaS
+Website Builders	Webstudio	webstudio-is/webstudio	Self-hosted visual builder sold to agencies as Webflow alternative
+Website Builders	Plasmic	plasmicapp/plasmic	Visual page building for marketing teams on headless stacks
+Website Builders	Puck	puckeditor/puck	React visual editor embedded in vertical site-builder SaaS
+Website Builders	Silex	silexlabs/Silex	No-code static site builder hosted for freelancers
+Website Builders	Craft.js	prevwong/craft.js	Framework to ship a branded page editor inside products
+Website Builders	Frappe Builder	frappe/builder	Low-cost website builder bundled with Frappe hosting
+Website Builders	Onlook	onlook-dev/onlook	AI-assisted visual React editing service for designers
+Website Builders	Builder.io SDK	BuilderIO/builder	Visual CMS integration services for ecommerce brands
+Static Site Generators	Hugo	gohugoio/hugo	Fast static site hosting with paid theme packs
+Static Site Generators	Jekyll	jekyll/jekyll	GitHub Pages-style hosting with premium themes
+Static Site Generators	Eleventy	11ty/eleventy	Performance-focused agency builds with flat hosting fee
+Static Site Generators	Astro	withastro/astro	Sell Astro starter templates and managed deployments
+Static Site Generators	Gatsby	gatsbyjs/gatsby	Migrate legacy Gatsby sites to managed hosting
+Static Site Generators	Hexo	hexojs/hexo	Blog hosting for Asian developer markets
+Static Site Generators	Zola	getzola/zola	Single-binary site hosting for privacy-focused clients
+Static Site Generators	Pelican	getpelican/pelican	Python static blog hosting with theme marketplace
+Static Site Generators	Quartz	jackyzha0/quartz	Hosted digital-garden publishing for Obsidian users
+Site Themes & Templates	AstroWind	onwidget/astrowind	Customized Astro landing sites for startups
+Site Themes & Templates	Hugo Blox	HugoBlox/hugo-blox-builder	Academic and researcher personal site hosting
+Site Themes & Templates	PaperMod	adityatelange/hugo-PaperMod	Done-for-you personal blogs with custom domains
+Site Themes & Templates	Minimal Mistakes	mmistakes/minimal-mistakes	Jekyll portfolio sites sold as setup service
+Site Themes & Templates	Chirpy	cotes2020/jekyll-theme-chirpy	Technical blog setup and hosting packages
+Site Themes & Templates	AstroPaper	satnaing/astro-paper	Minimal blogging templates resold with custom branding
+Site Themes & Templates	Open React Template	cruip/open-react-template	SaaS landing page customization service
+Blogging Platforms	Ghost	TryGhost/Ghost	Managed Ghost hosting for newsletters and paid memberships
+Blogging Platforms	WriteFreely	writefreely/writefreely	Federated minimalist blog hosting with paid tiers
+Blogging Platforms	Typecho	typecho/typecho	Lightweight PHP blog hosting for Chinese market
+Blogging Platforms	Halo	halo-dev/halo	Java blog platform hosting with theme marketplace
+Blogging Platforms	Bludit	bludit/bludit	Flat-file blog hosting for small creators
+Blogging Platforms	HTMLy	danpros/htmly	Databaseless blog hosting on cheap shared plans
+Blogging Platforms	Chyrp Lite	xenocrat/chyrp-lite	Tumblelog hosting with custom domain upsell
+Blogging Platforms	Mx Space	mx-space/core	Personal blog backend hosted for developers
+Blogging Platforms	Serendipity	s9y/Serendipity	Legacy PHP blog maintenance and hosting
+Blogging Platforms	BlogEngine.NET	BlogEngine/BlogEngine.NET	Windows-hosted blog for .NET shops
+Blogging Platforms	Mataroa	mataroa-blog/mataroa	Naked minimalist blog SaaS with yearly subscription
+Blogging Platforms	Plume	Plume-org/Plume	Federated multi-author blog hosting for communities
+E-commerce Platforms	WooCommerce	woocommerce/woocommerce	Managed Woo stores with performance and plugin bundles
+E-commerce Platforms	Magento Open Source	magento/magento2	Enterprise commerce hosting and implementation services
+E-commerce Platforms	PrestaShop	PrestaShop/PrestaShop	Turnkey shops for EU merchants with module packs
+E-commerce Platforms	OpenCart	opencart/opencart	Low-cost store hosting for emerging markets
+E-commerce Platforms	Medusa	medusajs/medusa	Headless commerce SaaS for DTC brands
+E-commerce Platforms	Saleor	saleor/saleor	GraphQL commerce backend hosting for enterprise
+E-commerce Platforms	Vendure	vendure-ecommerce/vendure	B2B commerce builds with custom plugins
+E-commerce Platforms	Bagisto	bagisto/bagisto	Laravel store builds with marketplace extensions
+E-commerce Platforms	Sylius	Sylius/Sylius	Symfony B2B ecommerce implementations
+E-commerce Platforms	Shopware	shopware/shopware	Shopware hosting and agency for DACH retailers
+E-commerce Platforms	Spree	spree/spree	Multi-tenant store SaaS on Rails
+E-commerce Platforms	Solidus	solidusio/solidus	High-volume Rails commerce for DTC brands
+E-commerce Platforms	EverShop	evershopcommerce/evershop	Node.js store hosting for small merchants
+E-commerce Platforms	nopCommerce	nopSolutions/nopCommerce	.NET store hosting with plugin marketplace
+E-commerce Platforms	Smartstore	smartstore/Smartstore	.NET commerce for European mid-market
+E-commerce Platforms	Django Oscar	django-oscar/django-oscar	Custom Python commerce builds for niche retailers
+E-commerce Platforms	Aimeos	aimeos/aimeos-laravel	Massive-catalog commerce for marketplaces
+E-commerce Platforms	Thelia	thelia/thelia	French-market ecommerce hosting
+Headless Storefronts	Next.js Commerce	vercel/commerce	Branded headless storefronts for Shopify merchants
+Headless Storefronts	Medusa Next.js Starter	medusajs/nextjs-starter-medusa	Turnkey DTC storefront setup service
+Headless Storefronts	Alokai	vuestorefront/vue-storefront	Vue PWA storefront agency builds
+Headless Storefronts	Saleor Storefront	saleor/storefront	Fast storefront launches on Saleor hosting
+Headless Storefronts	Hydrogen	Shopify/hydrogen	Custom Shopify headless builds on retainer
+Headless Storefronts	Saleor Dashboard	saleor/saleor-dashboard	White-labeled merchant admin for commerce SaaS
+Multivendor Marketplaces	Dokan	getdokan/dokan	WooCommerce marketplace setup with commission model
+Multivendor Marketplaces	Mercur	mercurjs/mercur	Medusa-based marketplace platform for niche verticals
+Multivendor Marketplaces	Sharetribe Web Template	sharetribe/web-template	Rental and service marketplace launches
+Multivendor Marketplaces	Sharetribe Go	sharetribe/sharetribe	Self-hosted peer-to-peer marketplace with take rate
+Multivendor Marketplaces	Cocorico	Cocolabs-SAS/cocorico	Booking marketplace for services and rentals
+Multivendor Marketplaces	Medusa Marketplace Plugin	Tech-Labi/medusa-marketplace-plugin	Multi-seller commerce on Medusa with commission splits
+Multivendor Marketplaces	Enatega	enatega/food-delivery-multivendor	Local food-delivery marketplace with per-order fees
+Subscription Billing	Kill Bill	killbill/killbill	Billing platform hosting for telcos and SaaS
+Subscription Billing	Lago	getlago/lago	Usage-based billing as managed service
+Subscription Billing	OpenMeter	openmeterio/openmeter	Metering for AI and API products
+Subscription Billing	Flexprice	flexprice/flexprice	Usage billing for AI startups with hosted plan
+Subscription Billing	Invoice Ninja	invoiceninja/invoiceninja	White-label invoicing for freelancers and accountants
+Subscription Billing	Crater	crater-invoice-inc/crater	Invoicing SaaS for small businesses
+Subscription Billing	Polar	polarsource/polar	Merchant-of-record for developer products
+Subscription Billing	Pay	pay-rails/pay	Rails subscription billing setup service
+Payment Orchestration	Hyperswitch	juspay/hyperswitch	Payment routing SaaS lowering merchant processing costs
+Payment Orchestration	BTCPay Server	btcpayserver/btcpayserver	Hosted crypto payment gateway for merchants
+Payment Orchestration	Active Merchant	activemerchant/active_merchant	Gateway integration consulting for Rails shops
+Payment Orchestration	Omnipay	thephpleague/omnipay	Multi-gateway checkout module for PHP platforms
+Payment Orchestration	LNbits	lnbits/lnbits	Lightning wallet and payments accounts for merchants
+Payment Orchestration	Paymenter	Paymenter/Paymenter	Hosting-company billing and checkout panel
+Payment Orchestration	Hyperswitch Web SDK	juspay/hyperswitch-web	Unified checkout widget for multi-PSP merchants
+Crowdfunding & Donations	Open Collective	opencollective/opencollective	Fiscal-host platform for communities with fee share
+Crowdfunding & Donations	Liberapay	liberapay/liberapay.com	Recurring donations platform for creators
+Crowdfunding & Donations	Catarse	catarse/catarse	Regional Kickstarter-style crowdfunding with platform fee
+Crowdfunding & Donations	GiveWP	impress-org/givewp	Nonprofit donation sites with premium add-ons
+Crowdfunding & Donations	Houdini	houdiniproject/houdini	Nonprofit fundraising SaaS with low fees
+Crowdfunding & Donations	HCB	hackclub/hcb	Fiscal sponsorship banking platform for groups
+Crowdfunding & Donations	Goteo	GoteoFoundation/goteo	Civic crowdfunding with matchfunding partners
+Crowdfunding & Donations	Selfstarter	apigy/selfstarter	Branded pre-order crowdfunding pages for product launches
+Crowdfunding & Donations	WC Donation Platform	wc-donation/wc-donation-platform	WooCommerce donations for charities
+Affiliate & Referral	Dub	dubinc/dub	Affiliate program and link attribution SaaS
+Link Shorteners	Shlink	shlinkio/shlink	Branded short links with analytics for agencies
+Link Shorteners	YOURLS	YOURLS/YOURLS	White-label URL shortener with custom domains
+Link Shorteners	Kutt	thedevs-network/kutt	Hosted shortener with team plans
+Link Shorteners	Sink	ccbikai/Sink	Edge-hosted shortener on Cloudflare with per-domain pricing
+Link Shorteners	Polr	cydrobolt/polr	Branded shortener for enterprises
+Link Shorteners	Chhoto URL	SinTan1729/chhoto-url	Minimal shortener hosting for privacy users
+Link Shorteners	Slash	yourselfhosted/slash	Team go-links and short links SaaS
+Link Shorteners	Reduced.to	origranot/reduced.to	Link management SaaS with QR codes
+Link-in-Bio	LinkStack	LinkStackOrg/LinkStack	Hosted link-in-bio with premium themes
+Link-in-Bio	LittleLink	sethcottle/littlelink	Custom-designed bio pages for creators
+Link-in-Bio	LittleLink Server	techno-tim/littlelink-server	Containerized bio pages for creator agencies
+Link-in-Bio	BioDrop	EddieHubCommunity/BioDrop	Developer profile pages with paid features
+Link-in-Bio	OneLink	fayazara/onelink	Zero-backend bio links with paid custom domains
+Link-in-Bio	OpenBio	vanxh/openbio	Bio page SaaS with analytics tier
+Link-in-Bio	LibreLinks	urdadx/librelinks	Linktree alternative with pro analytics
+Link-in-Bio	OpenBento	yoanbernabeu/openbento	Bento-style profile pages for creators
+Web Analytics	Plausible	plausible/analytics	Privacy analytics SaaS for GDPR-sensitive businesses
+Web Analytics	Umami	umami-software/umami	White-label analytics dashboards for agencies
+Web Analytics	Matomo	matomo-org/matomo	Managed Matomo for regulated industries
+Web Analytics	GoatCounter	arp242/goatcounter	Simple analytics for small sites with flat price
+Web Analytics	Ackee	electerious/Ackee	Minimal analytics bundled into hosting plans
+Web Analytics	Shynet	milesmcc/shynet	Cookieless analytics for agencies
+Web Analytics	Swetrix	Swetrix/swetrix	Analytics plus uptime and errors SaaS
+Web Analytics	Rybbit	rybbit-io/rybbit	Google Analytics replacement for SMBs
+Web Analytics	OpenPanel	Openpanel-dev/openpanel	Web and product analytics for startups
+Web Analytics	Offen	offen/offen	Fair analytics with user consent for EU publishers
+Web Analytics	Medama	medama-io/medama	Lightweight cookieless analytics hosting
+Web Analytics	Counterscale	benvinegar/counterscale	Cloudflare-hosted analytics deployed for clients
+Web Analytics	Liwan	explodingcamera/liwan	Single-binary analytics for indie sites
+Product Analytics & A/B Testing	PostHog	PostHog/posthog	Managed product analytics for EU data residency
+Product Analytics & A/B Testing	GrowthBook	growthbook/growthbook	Experimentation platform for ecommerce conversion
+Product Analytics & A/B Testing	Unleash	Unleash/unleash	Feature-flag hosting with enterprise SSO
+Product Analytics & A/B Testing	Flagsmith	Flagsmith/flagsmith	Managed feature flags and remote config
+Product Analytics & A/B Testing	Flipt	flipt-io/flipt	Git-native feature flags service
+Product Analytics & A/B Testing	OpenReplay	openreplay/openreplay	Session replay for UX agencies
+Product Analytics & A/B Testing	Highlight	highlight/highlight	Session replay and error monitoring SaaS
+Product Analytics & A/B Testing	Aptabase	aptabase/aptabase	Privacy app analytics for mobile and desktop
+Product Analytics & A/B Testing	Countly	Countly/countly-server	On-prem product analytics for banks and telcos
+Product Analytics & A/B Testing	Jitsu	jitsucom/jitsu	Event pipeline service for marketing data
+Product Analytics & A/B Testing	RudderStack	rudderlabs/rudder-server	Customer data platform as managed service
+Product Analytics & A/B Testing	rrweb	rrweb-io/rrweb	Build branded session-recording SaaS
+SEO Tools	SerpBear	towfiqi/serpbear	Rank tracking SaaS for local SEO agencies
+SEO Tools	SEOnaut	StJudeWasHere/seonaut	Site audit SaaS with white-label reports
+SEO Tools	Unlighthouse	harlan-zw/unlighthouse	Whole-site performance audits sold to clients
+SEO Tools	Lighthouse	GoogleChrome/lighthouse	Automated performance reports as agency lead magnet
+SEO Tools	Lighthouse CI	GoogleChrome/lighthouse-ci	Hosted performance regression monitoring
+SEO Tools	sitespeed.io	sitespeedio/sitespeed.io	Web performance monitoring service
+SEO Tools	Python SEO Analyzer	sethblack/python-seo-analyzer	On-page SEO audit tool with paid reports
+SEO Tools	Lychee	lycheeverse/lychee	Broken link monitoring subscriptions
+SEO Tools	Advertools	eliasdabbas/advertools	SEO crawling and analysis consultancy
+SEO Tools	Yoast SEO	Yoast/wordpress-seo	WordPress SEO setup and optimization services
+Comment Systems	Isso	isso-comments/isso	Hosted privacy-friendly comments for blogs
+Comment Systems	Remark42	umputun/remark42	Managed comment widget with moderation
+Comment Systems	Giscus	giscus/giscus	GitHub-backed comments setup for docs sites
+Comment Systems	Utterances	utterance/utterances	Developer-blog comment integration service
+Comment Systems	Artalk	ArtalkJS/Artalk	Hosted comments with multi-site dashboard
+Comment Systems	Waline	walinejs/waline	Serverless comments service with paid tiers
+Comment Systems	Twikoo	twikoojs/twikoo	Comments for Chinese blog market
+Comment Systems	Cusdis	djyde/cusdis	Lightweight comment SaaS for indie sites
+Comment Systems	Coral Talk	coralproject/talk	Comment moderation platform for newsrooms
+Comment Systems	Commento	adtac/commento	Privacy comments hosting for publishers
+Forums	Discourse	discourse/discourse	Managed community forums for brands
+Forums	Flarum	flarum/flarum	Hosted forums with extension packs
+Forums	NodeBB	NodeBB/NodeBB	Real-time community hosting for gaming brands
+Forums	phpBB	phpbb/phpbb	Legacy forum hosting and migration
+Forums	MyBB	mybb/mybb	Low-cost forum hosting with themes
+Forums	Misago	rafalp/Misago	Python forum hosting for communities
+Forums	Talkyard	debiki/talkyard	Community plus Q&A for open-source projects
+Forums	Discuit	discuitnet/discuit	Reddit-like community hosting
+Forums	FluxBB	fluxbb/fluxbb	Fast lightweight forum hosting
+Q&A Sites	Apache Answer	apache/answer	Branded Q&A knowledge base for product communities
+Q&A Sites	Question2Answer	q2a/question2answer	Niche Stack Overflow clones with ad revenue
+Q&A Sites	Scoold	Erudika/scoold	Internal Q&A for enterprise teams
+Q&A Sites	Askbot	ASKBOT/askbot-devel	Hosted Q&A with Python support
+Q&A Sites	QPixel	codidact/qpixel	Community-run Q&A networks with sponsorships
+Fediverse & Social Networks	Mastodon	mastodon/mastodon	Managed Mastodon instances for brands and orgs
+Fediverse & Social Networks	Misskey	misskey-dev/misskey	Hosted Misskey communities for fandoms
+Fediverse & Social Networks	Pixelfed	pixelfed/pixelfed	Instagram-like photo community hosting
+Fediverse & Social Networks	Lemmy	LemmyNet/lemmy	Reddit-like federated community hosting
+Fediverse & Social Networks	Bonfire	bonfire-networks/bonfire-app	Custom federated social apps for organizations
+Fediverse & Social Networks	Friendica	friendica/friendica	Facebook-style federated social hosting
+Fediverse & Social Networks	diaspora*	diaspora/diaspora	Private social network pods for groups
+Fediverse & Social Networks	PeerTube	Chocobozzz/PeerTube	Video platform hosting for institutions
+Fediverse & Social Networks	BookWyrm	bookwyrm-social/bookwyrm	Book clubs and reading communities hosting
+Fediverse & Social Networks	Mbin	MbinOrg/mbin	Link aggregation community hosting
+Fediverse & Social Networks	Takahē	jointakahe/takahe	Multi-domain fediverse server for agencies
+Fediverse & Social Networks	Fedify	fedify-dev/fedify	ActivityPub integration consulting for apps
+Fediverse & Social Networks	Hollo	fedify-dev/hollo	Single-user microblog hosting
+Fediverse & Social Networks	Bluesky PDS	bluesky-social/pds	Managed Bluesky personal data servers with custom handles
+Fediverse & Social Networks	Elk	elk-zone/elk	Branded Mastodon web client for instances
+Community Platforms	HumHub	humhub/humhub	Intranet social network SaaS for companies
+Community Platforms	Forem	forem/forem	Niche developer-style community hosting
+Community Platforms	Elgg	Elgg/Elgg	Custom social network builds for associations
+Community Platforms	BuddyPress	buddypress/buddypress	WordPress membership communities
+Community Platforms	Open Source Social Network	opensource-socialnetwork/opensource-socialnetwork	Branded social networks for schools
+Community Platforms	Loomio	loomio/loomio	Group decision-making SaaS for co-ops
+Job Boards	WP Job Manager	Automattic/WP-Job-Manager	Niche job boards with paid listings
+Job Boards	Hasjob	hasgeek/hasjob	Tech job board with sponsored posts
+Job Boards	RailsDevs	joemasilotti/railsdevs.com	Reverse job board charging employers subscriptions
+Job Boards	Jobberbase	jobberbase/jobberbase	Local job boards with posting fees
+Job Boards	ZtM Job Board	zero-to-mastery/ZtM-Job-Board	Community job boards for bootcamps
+Job Boards	100x Job Board	code100x/job-board	Remote jobs site with featured listing fees
+Classifieds	Osclass	osclass/Osclass	Local classifieds with premium listings
+Classifieds	OpenClassify	openclassify/openclassify	Laravel classifieds platform with listing fees
+Classifieds	Django Classified	slyapustin/django-classified	Niche classifieds with ads revenue
+Directories	HivePress	hivepress/hivepress	Directory and listings sites with paid placements
+Directories	BizDir	sagunsh/bizdir	Local business directory with featured listings
+Directories	Open Business Directory	BetaNYC/open-business-directory	City small-business directories for chambers
+Reviews & Testimonials	Site Reviews	pryley/site-reviews	Review collection setup for local businesses
+Reviews & Testimonials	Reviews Kits	reviews-kits-team/reviews-kits	Testimonial widget SaaS for SMBs
+Reviews & Testimonials	WooCommerce Testimonials	woocommerce/testimonials	Testimonial sections for store clients
+Events & Ticketing	pretix	pretix/pretix	Ticketing SaaS with per-ticket fee
+Events & Ticketing	Hi.Events	HiEventsDev/hi.events	White-label event ticketing for venues
+Events & Ticketing	Attendize	Attendize/Attendize	Ticketing for small promoters
+Events & Ticketing	alf.io	alfio-event/alf.io	Conference ticketing with check-in app
+Events & Ticketing	Indico	indico/indico	Academic conference management hosting
+Events & Ticketing	pretalx	pretalx/pretalx	Call-for-papers and schedule SaaS for conferences
+Events & Ticketing	Open Event Server	fossasia/open-event-server	Event platform APIs for organizers
+Events & Ticketing	Eventyay	fossasia/eventyay	Hosted event management for communities
+Appointment Booking	Cal.com	calcom/cal.com	White-label scheduling for clinics and agencies
+Appointment Booking	Easy!Appointments	alextselegidis/easyappointments	Booking sites for salons and consultants
+Appointment Booking	LibreBooking	LibreBooking/librebooking	Resource and room booking for institutions
+Appointment Booking	Rallly	lukevella/rallly	Group scheduling polls with pro plans
+Auctions	WeBid	renlok/WeBid	Niche online auction sites with listing fees
+Auctions	Artsy Eidolon	artsy/eidolon	Live auction bidding kiosk for charity galas
+Auctions	Auction Zoo	a16z/auction-zoo	On-chain auction mechanisms for NFT sales
+Auctions	Prebid.js	prebid/Prebid.js	Header-bidding ad auctions for publishers
+Digital Downloads & Creator Stores	Gumroad	antiwork/gumroad	Creator storefront for digital products
+Digital Downloads & Creator Stores	Polar	polarsource/polar	Sell digital products and subscriptions to developers
+Digital Downloads & Creator Stores	Easy Digital Downloads	awesomemotive/easy-digital-downloads	Digital product stores on WordPress
+Digital Downloads & Creator Stores	EDD Software Licensing	dwnload/EddSoftwareLicenseManager	License key management for software sellers
+Membership & Paywall	Paid Memberships Pro	strangerstudios/paid-memberships-pro	Membership sites for course creators
+Membership & Paywall	Ultimate Member	ultimatemember/ultimatemember	Member directories and gated content
+Membership & Paywall	Next.js Subscription Payments	vercel/nextjs-subscription-payments	Paid content sites with Stripe subscriptions
+SaaS Starter Kits	Open SaaS	wasp-lang/open-saas	Launch micro-SaaS fast with prebuilt billing
+SaaS Starter Kits	SaaS Boilerplate	ixartz/SaaS-Boilerplate	Multi-tenant SaaS foundation for agencies
+SaaS Starter Kits	BoxyHQ SaaS Starter	boxyhq/saas-starter-kit	Enterprise-ready SaaS with SSO for B2B
+SaaS Starter Kits	Next.js SaaS Starter	nextjs/saas-starter	Subscription apps with Stripe out of the box
+SaaS Starter Kits	Saasfly	saasfly/saasfly	Enterprise Next.js SaaS template
+SaaS Starter Kits	Apptension SaaS Boilerplate	apptension/saas-boilerplate	Full-stack SaaS foundation for dev shops
+SaaS Starter Kits	Next SaaS Stripe Starter	mickasmt/next-saas-stripe-starter	Rapid paid-app launches
+Documentation Sites	Docusaurus	facebook/docusaurus	Docs site setup and hosting for dev tools
+Documentation Sites	Material for MkDocs	squidfunk/mkdocs-material	Hosted docs with versioning for APIs
+Documentation Sites	BookStack	BookStackApp/BookStack	Knowledge base hosting for SMBs
+Documentation Sites	Outline	outline/outline	Team wiki SaaS with SSO
+Documentation Sites	Read the Docs	readthedocs/readthedocs.org	Private docs hosting for enterprises
+Documentation Sites	mdBook	rust-lang/mdBook	Technical book publishing service
+Documentation Sites	Docsify	docsifyjs/docsify	Quick docs sites for open-source projects
+Documentation Sites	Nextra	shuding/nextra	Docs plus blog sites for startups
+Documentation Sites	Starlight	withastro/starlight	Fast docs sites with search hosting
+Documentation Sites	Docmost	docmost/docmost	Confluence alternative SaaS
+Documentation Sites	Fumadocs	fuma-nama/fumadocs	Developer docs portals as service
+Documentation Sites	Scalar	scalar/scalar	API reference portals for SaaS companies
+Documentation Sites	Redoc	Redocly/redoc	OpenAPI docs hosting
+Landing Pages	Next.js Landing Page Starter	ixartz/Next-JS-Landing-Page-Starter-Template	Startup landing page packages
+Landing Pages	Landing Page Tailwind	tailwindtoolbox/Landing-Page	Cheap one-page sites for local businesses
+Landing Pages	Start Bootstrap Agency	StartBootstrap/startbootstrap-agency	Template-based agency sites
+Landing Pages	Craigstarter	cmod/craigstarter	Product pre-order landing pages
+Photo Galleries & Portfolios	Lychee	LycheeOrg/Lychee	Photographer portfolio hosting
+Photo Galleries & Portfolios	PhotoPrism	photoprism/photoprism	Managed private photo libraries
+Photo Galleries & Portfolios	Immich	immich-app/immich	Google Photos alternative subscription hosting
+Photo Galleries & Portfolios	Piwigo	Piwigo/Piwigo	Gallery hosting for clubs and archives
+Photo Galleries & Portfolios	Photoview	photoview/photoview	Client photo delivery for photographers
+Photo Galleries & Portfolios	PiGallery2	bpatrik/pigallery2	Fast directory-based galleries for studios
+Photo Galleries & Portfolios	Chevereto	chevereto/chevereto	Image hosting site with ads and premium accounts
+Photo Galleries & Portfolios	Thumbsup	thumbsup/thumbsup	Static galleries for event photographers
+Photo Galleries & Portfolios	Zenphoto	zenphoto/zenphoto	Portfolio CMS for artists
+Photo Galleries & Portfolios	Sigal	saimn/sigal	Static gallery hosting
+Photo Galleries & Portfolios	Ente	ente-io/ente	End-to-end encrypted photo storage subscriptions
+Bookmark Managers	linkding	sissbruecker/linkding	Hosted bookmarking for teams
+Bookmark Managers	Linkwarden	linkwarden/linkwarden	Collaborative bookmark archiving SaaS
+Bookmark Managers	Karakeep	karakeep-app/karakeep	AI-tagged read-later hosting
+Bookmark Managers	Shiori	go-shiori/shiori	Simple bookmark hosting
+Bookmark Managers	Wallabag	wallabag/wallabag	Read-it-later subscription service
+Bookmark Managers	Shaarli	shaarli/Shaarli	Personal link blogs
+Bookmark Managers	LinkAce	Kovah/LinkAce	Link archive for research teams
+Bookmark Managers	Grimoire	goniszewski/grimoire	Bookmark manager SaaS
+Bookmark Managers	Briefkasten	ndom91/briefkasten	Modern bookmark hosting
+Bookmark Managers	Buku	jarun/buku	CLI bookmark sync service
+Newsletters & Email Marketing	listmonk	knadh/listmonk	Low-cost newsletter platform hosting
+Newsletters & Email Marketing	Keila	pentacent/keila	EU-hosted newsletter SaaS
+Newsletters & Email Marketing	Mautic	mautic/mautic	Marketing automation for agencies
+Newsletters & Email Marketing	Mailtrain	Mailtrain-org/mailtrain	Self-hosted list management for publishers
+Newsletters & Email Marketing	Plunk	useplunk/plunk	Email platform for SaaS products
+Newsletters & Email Marketing	phpList	phpList/phplist3	Nonprofit newsletter hosting
+Newsletters & Email Marketing	SendPortal	mettle/sendportal	Multi-workspace email marketing for agencies
+Newsletters & Email Marketing	Dittofeed	dittofeed/dittofeed	Customer messaging automation SaaS
+Newsletters & Email Marketing	BillionMail	aaPanel/BillionMail	Bulk newsletter server hosting
+Newsletters & Email Marketing	Laudspeaker	laudspeaker/laudspeaker	Customer journey messaging for apps
+Wedding & RSVP	Project Knot	stephen-mclean/project-knot	Wedding website service with RSVP
+Wedding & RSVP	Our Wedding Website	eddmann/our-wedding-website	Custom wedding sites for couples
+Wedding & RSVP	Wedding Invites	alistairjoelquinn/wedding-invites	Digital invitations with RSVP tracking
+Wedding & RSVP	Wedding RSVP	manuelbrgr/wedding-rsvp	Event RSVP pages for planners
+Real Estate Listings	PHRETS	troydavisson/PHRETS	MLS-powered broker listing sites
+Real Estate Listings	Django Real Estate	nimadorostkar/Django-Real-Estate	Property listing portals for agencies
+Real Estate Listings	OpenHouse 3D	yunfanye/openhouse-3d	3D listing tours for agents
+Travel & Hotel Booking	QloApps	Qloapps/QloApps	Hotel booking websites for independent hotels
+Travel & Hotel Booking	AdventureLog	seanmorley15/AdventureLog	Travel planning SaaS for travelers
+Travel & Hotel Booking	wanderer	Flomp/wanderer	Trail and hiking route sharing community
+Travel & Hotel Booking	Hotel Booking (Laravel)	LaravelDaily/Hotel-Booking	Small-hotel reservation sites
+Travel & Hotel Booking	Hotel Management System	tramyardg/hotel-mgmt-system	Guesthouse booking for local B&Bs
+Restaurants & Online Menus	TastyIgniter	tastyigniter/TastyIgniter	Online ordering sites for restaurants without commission
+Restaurants & Online Menus	Digidish	cenkozk/Digidish	QR menu SaaS for cafes
+Restaurants & Online Menus	Open Source POS	opensourcepos/opensourcepos	Hosted POS for small shops
+Restaurants & Online Menus	NexoPOS	Blair2004/NexoPOS	Retail and restaurant POS SaaS
+Restaurants & Online Menus	Mealie	mealie-recipes/mealie	Recipe site hosting for food bloggers
+Restaurants & Online Menus	Tandoor Recipes	TandoorRecipes/recipes	Meal planning SaaS for families
+Wiki Farms	Wiki.js	requarks/wiki	Hosted wikis for teams
+Wiki Farms	MediaWiki	wikimedia/mediawiki	Fan and game wiki farm with ads
+Wiki Farms	DokuWiki	dokuwiki/dokuwiki	Simple wiki hosting for SMBs
+Wiki Farms	TiddlyWiki	TiddlyWiki/TiddlyWiki5	Personal wiki hosting and sync
+Wiki Farms	XWiki	xwiki/xwiki-platform	Enterprise wiki support contracts
+Wiki Farms	An Otter Wiki	redimp/otterwiki	Markdown wiki hosting for small teams
+Wiki Farms	Gollum	gollum/gollum	Git-backed wikis for engineering teams
+Wiki Farms	Wikmd	Linbreux/wikmd	File-based markdown wiki hosting
+Polls & Voting	Decidim	decidim/decidim	Participatory democracy platform for cities
+Polls & Voting	CONSUL Democracy	consuldemocracy/consuldemocracy	Citizen participation portals for governments
+Polls & Voting	Helios Voting	benadida/helios-server	Verifiable online elections for associations
+Polls & Voting	Polis	compdemocracy/polis	Opinion mapping for public consultations
+Forms & Surveys	LimeSurvey	LimeSurvey/LimeSurvey	Hosted survey platform for researchers
+Forms & Surveys	Formbricks	formbricks/formbricks	In-app surveys SaaS
+Forms & Surveys	OpnForm	JhumanJ/OpnForm	Typeform alternative with paid tiers
+Forms & Surveys	HeyForm	heyform/heyform	Conversational forms SaaS
+Forms & Surveys	Typebot	baptisteArno/typebot.io	Chatbot forms for lead generation
+Dating Sites	pH7 Builder	pH7Software/ph7builder	Niche dating sites with premium memberships
+Dating Sites	Duolicious	duolicious/duolicious-backend	Niche dating apps with paid features
+Online Courses	Moodle	moodle/moodle	Hosted LMS for schools and trainers
+Online Courses	Frappe LMS	frappe/lms	Course selling platform for creators
+Online Courses	Open edX	openedx/edx-platform	MOOC hosting for universities
+Online Courses	Canvas LMS	instructure/canvas-lms	Managed LMS for institutions
+Online Courses	Chamilo	chamilo/chamilo-lms	E-learning hosting for corporate training
+Online Courses	ClassroomIO	classroomio/classroomio	Bootcamp course platform SaaS
+Online Courses	CourseLit	codelitdev/courselit	Teachable alternative for creators
+Podcast & Audio Hosting	Castopod	ad-aures/castopod	Podcast hosting with monetization
+Podcast & Audio Hosting	Podcast Generator	PodcastGenerator/PodcastGenerator	Simple podcast hosting for churches and schools
+Podcast & Audio Hosting	Owncast	owncast/owncast	Live streaming platform for creators
+Video Platforms	MediaCMS	mediacms-io/mediacms	Video portal for enterprises and schools
+Video Platforms	AVideo	WWBN/AVideo	White-label video and live streaming platform
+Video Platforms	ClipBucket	arslancb/clipbucket	YouTube-style site with ad revenue
+Video Platforms	Restreamer	datarhei/restreamer	Live streaming to multiple platforms for venues
+Feedback Boards & Roadmaps	Fider	getfider/fider	Feature request boards for SaaS
+Feedback Boards & Roadmaps	LogChimp	logchimp/logchimp	Customer feedback portal hosting
+Feedback Boards & Roadmaps	Astuto	astuto/astuto	Feedback and roadmap SaaS
+Feedback Boards & Roadmaps	ClearFlask	clearflask/clearflask	Canny alternative with hosted plans
+Website Live Chat	Chatwoot	chatwoot/chatwoot	White-label live chat for agencies
+Website Live Chat	Papercups	papercups-io/papercups	Embedded chat widget SaaS
+Website Live Chat	Tiledesk	Tiledesk/tiledesk	Chat and chatbot widget for websites
+Ad Serving	Revive Adserver	revive-adserver/revive-adserver	Ad server for publishers and networks
+Ad Serving	Prebid.js	prebid/Prebid.js	Header bidding setup for publishers
+Ad Serving	Prebid Server	prebid/prebid-server	Hosted header bidding for publishers
+Site Search	Meilisearch	meilisearch/meilisearch	Search-as-a-service for ecommerce
+Site Search	Typesense	typesense/typesense	Managed typo-tolerant search hosting
+Site Search	Pagefind	CloudCannon/pagefind	Static site search setup for clients
+Site Search	Orama	oramasearch/orama	Edge search for docs sites
+Image Optimization	imgproxy	imgproxy/imgproxy	Image CDN service for ecommerce
+Image Optimization	Thumbor	thumbor/thumbor	On-demand image resizing service
+Image Optimization	imaginary	h2non/imaginary	Image processing API SaaS
+Image Optimization	imagor	cshum/imagor	Fast image transformation CDN
+Pastebin & Snippets	PrivateBin	PrivateBin/PrivateBin	Encrypted paste service with team plans
+Pastebin & Snippets	MicroBin	szabodanika/microbin	Paste and file share hosting
+Pastebin & Snippets	Opengist	thomiceli/opengist	Self-hosted gist service for companies
+File Sharing	Pingvin Share	stonith404/pingvin-share	WeTransfer alternative with branding
+File Sharing	PsiTransfer	psi-4ward/psitransfer	Client file delivery for agencies
+File Sharing	Send	timvisee/send	Encrypted file transfer service
+File Sharing	Zipline	diced/zipline	ShareX upload host for creators
+Affiliate & Referral	RefRef	amicalhq/refref	Referral program SaaS for B2C startups
+Affiliate & Referral	Refferq	Refferq/Refferq	Affiliate program management for SaaS with commission tracking
+Affiliate & Referral	RefearnApp	ZAK123DSFDF/refearnapp	Affiliate tracking for indie SaaS on flat fee
+Affiliate & Referral	Elitius	intelliants/elitius	Affiliate network hosting for merchants
+Real Estate Listings	PropertyWebBuilder	etewiah/property_web_builder	Multi-tenant realtor website SaaS
+Real Estate Listings	Property Web Scraper	RealEstateWebTools/property_web_scraper	Listing import service for agency sites
+Real Estate Listings	Homeverse	codewithsadee/homeverse	Template realtor sites sold to agents
+Dating Sites	DatingApp	TryCatchLearn/DatingApp	Niche matchmaking sites on .NET with subscriptions
+Dating Sites	Pegava	GSTJ/pegava-dating-app	Branded dating app for local communities
+Auctions	Online Auction System	theavnishkumar/online-auction-system	Niche collector auctions with buyer premium
+Auctions	MERN Auction Platform	Zeeshu911/MERN_Stack_Auction_Platform	Commission-based auction marketplace
+Landing Pages	Notion Waitlist Template	lakshaybhushan/nextjs-notion-waitlist-template	Waitlist pages for product launches
+Landing Pages	Quick Waitlist	raqibnur/quick-waitlist	Prelaunch signup pages as service
+Feedback Boards & Roadmaps	git-cliff	orhun/git-cliff	Hosted public changelogs for SaaS
+Forums	Vanilla Porter	vanilla/porter	Forum migration service between platforms

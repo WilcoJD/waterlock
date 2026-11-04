@@ -1,0 +1,440 @@
+3D Game Engines	Godot	godotengine/godot	Sell branded engine builds, templates, and porting services to studios
+3D Game Engines	Open 3D Engine	o3de/o3de	Offer O3DE-based simulation and AAA prototyping consulting
+3D Game Engines	Stride	stride3d/stride	C# engine support contracts and asset store for .NET studios
+3D Game Engines	Bevy	bevyengine/bevy	Paid Rust game dev courses, plugins and editor tooling
+3D Game Engines	Armory3D	armory3d/armory	Blender-integrated game creation SaaS for indie artists
+3D Game Engines	Urho3D	urho3d/urho3d	Embed lightweight 3D engine in white-label kiosk/training apps
+3D Game Engines	rbfx	rbfx/rbfx	Custom engine forks for studios needing source-level control
+3D Game Engines	Panda3D	panda3d/panda3d	Python 3D training simulations for enterprise and education
+3D Game Engines	jMonkeyEngine	jMonkeyEngine/jmonkeyengine	Java 3D game development agency and support plans
+3D Game Engines	Fyrox	FyroxEngine/Fyrox	Rust engine with editor; sell commercial support and templates
+3D Game Engines	Wicked Engine	turanszkij/WickedEngine	License rendering tech for visualization products
+3D Game Engines	OGRE	OGRECave/ogre	Rendering backend for branded simulators and digital twins
+3D Game Engines	Raylib	raysan5/raylib	Teach-game-programming bootcamps and paid starter kits
+2D Game Engines	Defold	defold/defold	Mobile/HTML5 game studio with ad-monetized casual titles
+2D Game Engines	libGDX	libgdx/libgdx	Cross-platform game agency building branded mobile games
+2D Game Engines	MonoGame	MonoGame/MonoGame	Console porting services for indie XNA/MonoGame titles
+2D Game Engines	LOVE	love2d/love	Paid Lua game dev courses and template marketplace
+2D Game Engines	Cocos2d-x	cocos2d/cocos2d-x	Mobile casual game factory with reskinnable templates
+2D Game Engines	Cocos Creator Engine	cocos/cocos-engine	Playable ad production service for mobile advertisers
+2D Game Engines	Solar2D	coronalabs/corona	Educational app and kids game production studio
+2D Game Engines	HaxeFlixel	HaxeFlixel/flixel	Retro game reskin studio shipping to web and Steam
+2D Game Engines	Heaps	HeapsIO/heaps	High-performance 2D/3D titles; consulting for Haxe studios
+2D Game Engines	GDevelop	4ian/GDevelop	White-label no-code game builder for schools and brands
+2D Game Engines	ct.js	ct-js/ct-js	No-code game maker courses and asset packs
+2D Game Engines	Pyxel	kitao/pyxel	Retro game workshops and classroom licenses
+2D Game Engines	Arcade	pythonarcade/arcade	Python game curriculum sold to coding schools
+2D Game Engines	Ebitengine	hajimehoshi/ebiten	Go game studio porting titles to consoles and mobile
+2D Game Engines	Macroquad	not-fl3/macroquad	Rust casual web/mobile game development services
+2D Game Engines	SFML	SFML/SFML	C++ game dev education and template kits
+2D Game Engines	FNA	FNA-XNA/FNA	Porting legacy XNA games to modern platforms as a service
+Web Game Engines	Phaser	phaserjs/phaser	HTML5 advergame studio for brand marketing campaigns
+Web Game Engines	PixiJS	pixijs/pixijs	Interactive web casual games for publishers and sweepstakes
+Web Game Engines	Babylon.js	BabylonJS/Babylon.js	3D product configurators and web games for retailers
+Web Game Engines	three.js	mrdoob/three.js	Immersive brand web experiences agency
+Web Game Engines	PlayCanvas Engine	playcanvas/engine	Self-hosted playable ad and 3D web game platform
+Web Game Engines	PlayCanvas Editor	playcanvas/editor	Host a branded collaborative web game editor SaaS
+Web Game Engines	Excalibur	excaliburjs/Excalibur	TypeScript game templates sold to indie developers
+Web Game Engines	KAPLAY	kaplayjs/kaplay	Beginner game creation platform for schools
+Web Game Engines	melonJS	melonjs/melonJS	Lightweight HTML5 games for instant-play portals
+Web Game Engines	LittleJS	KilledByAPixel/LittleJS	Tiny web games for embedded promotions and newsletters
+Web Game Engines	Kontra	straker/kontra	Micro-game builder for marketing microsites
+Web Game Engines	React Three Fiber	pmndrs/react-three-fiber	3D web game and experience agency for React teams
+Web Game Engines	Matter.js	liabru/matter-js	Physics puzzle games for web portals and ads
+Web Game Engines	nunuStudio	tentone/nunuStudio	Hosted visual 3D web app editor for agencies
+Game Backends	Nakama	heroiclabs/nakama	Managed game backend hosting for indie studios
+Game Backends	Colyseus	colyseus/colyseus	Hosted multiplayer rooms-as-a-service for web games
+Game Backends	Talo	TaloDev/backend	White-label player management and analytics for indies
+Game Backends	Pitaya	topfreegames/pitaya	Scalable mobile game server hosting with SLA
+Game Backends	Skynet	cloudwu/skynet	MMO backend consulting and hosting for Asian markets
+Game Backends	ET Framework	egametang/ET	Unity client-server framework courses and hosting
+Game Backends	Pomelo	NetEase/pomelo	Real-time Node.js game server hosting
+Game Backends	Pinus	node-pinus/pinus	TypeScript game server deployment services
+Game Backends	Nano	lonng/nano	Lightweight Go game server for casual multiplayer SaaS
+Game Backends	Leaf	name5566/leaf	Go game server templates for mobile studios
+Game Backends	GoWorld	xiaonanln/goworld	Distributed MMO hosting service
+Game Backends	Lance	lance-gg/lance	Authoritative multiplayer web game hosting
+Game Backends	boardgame.io	boardgameio/boardgame.io	Hosted turn-based game backend for board game publishers
+Game Networking	Mirror	MirrorNetworking/Mirror	Unity multiplayer consulting and relay hosting
+Game Networking	FishNet	FirstGearGames/FishNet	Paid Unity networking support and add-ons
+Game Networking	LiteNetLib	RevenantX/LiteNetLib	Relay/NAT-punch service for C# games
+Game Networking	GameNetworkingSockets	ValveSoftware/GameNetworkingSockets	Low-latency networking integration for studios
+Game Networking	ENet	lsalzman/enet	Reliable UDP layer for hosted dedicated servers
+Game Networking	netcode	mas-bandwidth/netcode	Secure client/server protocol for competitive game hosting
+Game Networking	yojimbo	mas-bandwidth/yojimbo	Action game networking consulting
+Game Networking	geckos.io	geckosio/geckos.io	WebRTC realtime hosting for browser multiplayer games
+Game Networking	GGPO	pond3r/ggpo	Rollback netcode integration for fighting game studios
+Game Networking	Netcode for GameObjects	Unity-Technologies/com.unity.netcode.gameobjects	Unity multiplayer implementation agency
+Game Server Hosting	Agones	agones-dev/agones	Managed Kubernetes dedicated server fleets for studios
+Game Server Hosting	Pterodactyl Panel	pterodactyl/panel	White-label game server hosting company
+Game Server Hosting	Pterodactyl Wings	pterodactyl/wings	Node daemon for reseller game hosting networks
+Game Server Hosting	Pelican Panel	pelican/panel	Branded game server rental panel
+Game Server Hosting	PufferPanel	pufferpanel/pufferpanel	Budget game server hosting for communities
+Game Server Hosting	LinuxGSM	GameServerManagers/LinuxGSM	Managed dedicated server setup service
+Game Server Hosting	MCSManager	MCSManager/MCSManager	Minecraft and game server hosting reseller panel
+Game Server Hosting	Thundernetes	PlayFab/thundernetes	Kubernetes game server orchestration consulting
+Game Server Hosting	OpenKruiseGame	openkruise/kruise-game	Cloud-native game server ops for studios
+Game Server Hosting	Quilkin	EmbarkStudios/quilkin	DDoS-resistant UDP proxy service for game servers
+Matchmaking & Ratings	Open Match	googleforgames/open-match	Matchmaking-as-a-service for multiplayer games
+Matchmaking & Ratings	TrueSkill	sublee/trueskill	Skill rating API for competitive platforms
+Matchmaking & Ratings	OpenSkill.js	philihp/openskill.js	Rating engine for esports ladders SaaS
+Matchmaking & Ratings	OpenSkill.py	vivekjoshy/openskill.py	Ranking service for gaming communities and leagues
+Matchmaking & Ratings	Skills (TrueSkill .NET)	moserware/Skills	Ranking backend for tournament platforms
+Matchmaking & Ratings	Open Match 2	googleforgames/open-match2	Hosted next-gen matchmaker for studios
+Live Ops & Analytics	PostHog	PostHog/posthog	Game telemetry and funnel analytics for studios
+Live Ops & Analytics	GrowthBook	growthbook/growthbook	A/B testing and remote config for live games
+Live Ops & Analytics	Unleash	Unleash/unleash	Feature flags for live game events
+Live Ops & Analytics	Sentry	getsentry/sentry	Crash reporting hosting for game studios
+Live Ops & Analytics	Sentry Unity SDK	getsentry/sentry-unity	Unity crash analytics integration services
+Live Ops & Analytics	OpenReplay	openreplay/openreplay	Session replay for web game UX testing
+Live Ops & Analytics	Plausible	plausible/analytics	Privacy-friendly analytics for kids game sites
+Live Ops & Analytics	Matomo	matomo-org/matomo	COPPA-friendly self-hosted analytics for game portals
+Live Ops & Analytics	Apache Superset	apache/superset	Game KPI dashboards for publishers
+Live Ops & Analytics	Metabase	metabase/metabase	Player metrics BI for small studios
+Strategy Games	Battle for Wesnoth	wesnoth/wesnoth	Original GPL strategy; sell mobile ports and premium campaigns
+Strategy Games	0 A.D.	0ad/0ad	Historical RTS for education licensing and Steam distribution
+Strategy Games	Freeciv	freeciv/freeciv	Hosted multiplayer civ server with premium accounts
+Strategy Games	Freeciv21	longturn/freeciv21	Longturn-style hosted strategy community subscriptions
+Strategy Games	Unknown Horizons	unknown-horizons/unknown-horizons	City-building sim reskinned for educational markets
+Strategy Games	Warzone 2100	Warzone2100/warzone2100	RTS hosting and premium multiplayer lobbies
+Strategy Games	Widelands	widelands/widelands	Settlers-like original economy game; mobile port
+Strategy Games	FreeOrion	freeorion/freeorion	Space 4X with custom content packs on Steam
+Strategy Games	Beyond All Reason	beyond-all-reason/Beyond-All-Reason	Community RTS; sponsorship and hosted tournaments
+Strategy Games	Mindustry	Anuken/Mindustry	Tower defense factory game; mod servers and hosting
+Strategy Games	OpenRA	OpenRA/OpenRA	Engine for original RTS; avoid C&C trademarks/assets
+Strategy Games	OpenTTD	OpenTTD/OpenTTD	Transport tycoon clone; host servers, avoid original TTD assets
+Strategy Games	Unciv	yairm210/Unciv	Civ-like mobile game; ad-supported fork (Civ trademark caution)
+Strategy Games	Ancient Beast	FreezingMoon/AncientBeast	Turn-based browser strategy with cosmetic microtransactions
+Strategy Games	MegaGlest	MegaGlest/megaglest-source	3D RTS reskin for branded edutainment
+RPG Games	Flare Engine	flareteam/flare-engine	Action RPG engine for custom branded RPGs
+RPG Games	Flare Game	flareteam/flare-game	Ship premium RPG campaigns built on Flare
+RPG Games	Shattered Pixel Dungeon	00-Evan/shattered-pixel-dungeon	Roguelike fork with ad-supported mobile release
+RPG Games	Pixel Dungeon	watabou/pixel-dungeon	Base for reskinned mobile roguelikes
+RPG Games	Veloren	veloren/veloren	Hosted voxel RPG servers with supporter perks
+RPG Games	Cataclysm DDA	CleverRaven/Cataclysm-DDA	Survival roguelike; sell curated tileset editions
+RPG Games	Endless Sky	endless-sky/endless-sky	Space trading RPG mobile port
+RPG Games	Naev	naev/naev	Space RPG with paid story expansions
+RPG Games	Pioneer	pioneerspacesim/pioneer	Space sim with custom branded universes
+RPG Games	BrowserQuest	mozilla/BrowserQuest	HTML5 MMO starter for branded online worlds
+RPG Games	OpenMW	OpenMW/openmw	Engine reimplementation; needs Morrowind assets, build original content
+RPG Games	Ryzom Core	ryzom/ryzomcore	Full MMORPG stack to launch a niche hosted MMO
+Shooters & Arena Games	Teeworlds	teeworlds/teeworlds	Hosted 2D shooter servers with cosmetic skins
+Shooters & Arena Games	DDraceNetwork	ddnet/ddnet	Competitive race servers and community sponsorship
+Shooters & Arena Games	Red Eclipse	redeclipse/base	Arena FPS for LAN centers and events
+Shooters & Arena Games	AssaultCube	assaultcube/AC	Lightweight FPS for internet cafe deployments
+Shooters & Arena Games	Unvanquished	Unvanquished/Unvanquished	Team FPS with hosted servers and supporter tiers
+Shooters & Arena Games	OpenSpades	yvt/openspades	Voxel shooter servers (Ace of Spades clone; avoid trademark)
+Shooters & Arena Games	Hedgewars	hedgewars/hw	Worms-like artillery game; mobile port (avoid Worms trademark)
+Shooters & Arena Games	Tesseract	lsalzman/tesseract	Arena FPS engine for branded LAN games
+Shooters & Arena Games	DarkPlaces	DarkPlacesEngine/DarkPlaces	Engine for retro FPS indie releases
+Racing Games	SuperTuxKart	supertuxkart/stk-code	Kart racer for kids edutainment and arcade cabinets
+Racing Games	Stunt Rally	stuntrally/stuntrally3	Rally game with paid track packs
+Racing Games	VDrift	VDrift/vdrift	Driving sim base for training/simulator products
+Racing Games	Yorg	cflavio/yorg	Arcade racer reskinned for brand promotions
+Racing Games	Trigger Rally	CodeArtemis/TriggerRally	Web rally game for sponsored promotions
+Platformers & Arcade	SuperTux	SuperTux/supertux	Platformer reskin for kids brands (avoid Mario likeness)
+Platformers & Arcade	Frogatto	frogatto/frogatto	Engine for premium 2D adventure releases
+Platformers & Arcade	Open Surge	alemart/opensurge	Retro platformer engine for custom branded games
+Platformers & Arcade	Jumpy	fishfolk/jumpy	Party platformer for couch co-op on Steam
+Platformers & Arcade	Pingus	Pingus/pingus	Lemmings-like puzzle for kids app stores
+Platformers & Arcade	Mari0	Stabyourself/mari0	Clone of Mario/Portal; trademark risk, study only
+Platformers & Arcade	Clumsy Bird	ellisonleao/clumsy-bird	Flappy-style advergame for brand campaigns
+Platformers & Arcade	Hextris	Hextris/hextris	Casual web puzzle with ads and sponsored skins
+Platformers & Arcade	Friday Night Funkin	FunkinCrew/Funkin	Rhythm game modding; code open but assets restricted
+Casual & Puzzle Games	2048	gabrielecirulli/2048	Ad-supported puzzle site and branded variants
+Casual & Puzzle Games	Untrusted	AlexNisnevich/untrusted	Coding puzzle game for developer recruiting campaigns
+Casual & Puzzle Games	A Dark Room	doublespeakgames/adarkroom	Text incremental game; paid mobile port
+Casual & Puzzle Games	Headbreaker	flbulgarelli/headbreaker	Branded jigsaw puzzles for marketing and retail
+Casual & Puzzle Games	LibreSudoku	kaajjo/LibreSudoku	Ad-free premium sudoku app with themes
+Casual & Puzzle Games	Sudoku (mayerui)	mayerui/sudoku	Terminal sudoku as daily puzzle newsletter content
+Casual & Puzzle Games	Crosshare	crosshare-org/crosshare	Crossword publishing platform with subscriptions
+Casual & Puzzle Games	Phil Crossword Maker	keiranking/Phil	Crossword construction tool for publishers
+Casual & Puzzle Games	Cursewords	thisisparker/cursewords	Terminal crossword player for puzzle subscribers
+Casual & Puzzle Games	PySolFC	shlomif/PySolFC	Solitaire collection with premium themes
+Casual & Puzzle Games	dotnet console games	dotnet/dotnet-console-games	Teaching game collection for coding courses
+Casual & Puzzle Games	Tetris-like Blockgame	jakesgordon/javascript-tetris	Tetris clone; trademark risk, rename and restyle
+Word Games	Wordle Clone (WebDevSimplified)	WebDevSimplified/wordle-clone	Branded daily word game for media sites (avoid Wordle name)
+Word Games	Wordle Wars	CTNicholas/wordle-wars	Multiplayer word race with sponsored rooms
+Word Games	Thwordle	narze/thwordle	Regional-language word game with ads
+Word Games	Quackle	quackle/quackle	Crossword board game AI for training apps
+Word Games	Genxword	riverrun/genxword	Crossword generator for educational worksheets
+Word Games	Regex Crossword	Jimbly/regex-crossword	Developer puzzle site with sponsor placements
+Word Games	xword-dl	thisisparker/xword-dl	Crossword aggregation tooling for puzzle apps
+Word Games	React Crossword	JaredReisinger/react-crossword	Embeddable crossword widget for newspapers
+Word Games	Massive Decks	Lattyware/massivedecks	Party card game (CAH-like); brand your own decks
+Trivia & Quiz Platforms	ClassQuiz	mawoka-myblock/ClassQuiz	Kahoot alternative SaaS for schools and corporate training
+Trivia & Quiz Platforms	Supabase Kahoot Alternative	supabase-community/kahoot-alternative	Live quiz events for companies and bars
+Trivia & Quiz Platforms	Quizdock	quizdock/quizdock	Self-hosted quiz platform for trainers
+Trivia & Quiz Platforms	Oppia	oppia/oppia	Interactive lesson platform for edtech NGOs and schools
+Trivia & Quiz Platforms	H5P PHP Library	h5p/h5p-php-library	Interactive quiz content hosting for LMS vendors
+Trivia & Quiz Platforms	Pollinator	alphasecio/pollinator	Live polling and trivia for events
+Trivia & Quiz Platforms	Open Mentimeter	Rishi-ZAiFi/open.mentimeter	Interactive presentation quizzes for conferences
+Trivia & Quiz Platforms	Longwave	cynicaloptimist/longwave	Online party guessing game for remote team building
+Trivia & Quiz Platforms	Lykos Werewolf	lykoss/lykos	IRC werewolf bot for hosted social deduction events
+Trivia & Quiz Platforms	Beatify	mholzi/beatify	Music trivia party game for bars
+Chess & Go	Lichess (lila)	lichess-org/lila	Branded chess platform for clubs, schools, federations
+Chess & Go	lila-ws	lichess-org/lila-ws	Realtime backend for hosted chess platforms
+Chess & Go	Chessground	lichess-org/chessground	Chess board UI for coaching apps
+Chess & Go	chess.js	jhlywa/chess.js	Chess logic for puzzle and coaching products
+Chess & Go	Stockfish	official-stockfish/Stockfish	Game analysis API (GPL; comply when distributing)
+Chess & Go	Leela Chess Zero	LeelaChessZero/lc0	Neural chess analysis cloud service
+Chess & Go	Fairy-Stockfish	fairy-stockfish/Fairy-Stockfish	Variant chess engines for regional game apps
+Chess & Go	PyChess Variants	pychess/pychess-variants	Hosted chess-variants server for xiangqi/shogi communities
+Chess & Go	Online-Go.com	online-go/online-go.com	Go server frontend for clubs and schools
+Chess & Go	KataGo	lightvector/KataGo	Go AI review subscription service
+Chess & Go	KaTrain	sanderland/katrain	Go training app with paid lessons
+Chess & Go	Sabaki	SabakiHQ/Sabaki	Go board editor for teachers
+Chess & Go	Leela Zero	leela-zero/leela-zero	Go engine for analysis cloud
+Chess & Go	Cute Chess	cutechess/cutechess	Engine tournament host for chess AI competitions
+Card & Board Game Engines	Forge	Card-Forge/forge	MTG engine; WotC trademark/IP risk, use for original card game
+Card & Board Game Engines	XMage	magefree/mage	MTG rules engine; IP risk, adapt to original TCG
+Card & Board Game Engines	Cockatrice	Cockatrice/Cockatrice	Generic card game client for indie TCG playtesting
+Card & Board Game Engines	GALGAGAME	RoganMurley/GALGAGAME	Original online card game with cosmetics
+Card & Board Game Engines	Futurism	jacob-grahn/futurism-client	Strategy card game base for original IP
+Card & Board Game Engines	OpenSpiel	google-deepmind/open_spiel	Game AI framework for board game bots
+Card & Board Game Engines	Colyseus card templates	sominator/colyseus-2d-multiplayer-card-game-templates	Starter for multiplayer card game studio
+Card & Board Game Engines	Set Up	igorsheg/set-up	Set card game online; avoid trademark, rename
+Card & Board Game Engines	Level 10	dnsbty/level10	Phase 10-like; rename to avoid trademark
+Virtual Tabletop & TTRPG	MapTool	RPTools/maptool	Hosted VTT campaigns for game masters
+Virtual Tabletop & TTRPG	Atlas VTT	atlas-vtt/atlas-vtt	Self-hosted VTT SaaS for TTRPG groups
+Virtual Tabletop & TTRPG	Rolisteam	Rolisteam/rolisteam	Role-playing session software for clubs
+Virtual Tabletop & TTRPG	OGRES	samcf/ogres	Browser VTT with premium hosted maps
+Virtual Tabletop & TTRPG	Dungeoneer	Durtur/Dungeoneer	DM toolkit sold with content packs
+Virtual Tabletop & TTRPG	Foundry dnd5e System	foundryvtt/dnd5e	Paid modules for Foundry users (SRD licensing)
+Virtual Tabletop & TTRPG	Foundry VTT Docker	felddy/foundryvtt-docker	Managed Foundry hosting service
+Virtual Tabletop & TTRPG	DDB Importer	MrPrimate/ddb-importer	Patreon-funded integrations for VTT users
+Virtual Tabletop & TTRPG	Owlbear Rodeo Legacy	owlbear-rodeo/owlbear-rodeo-legacy	Simple browser battle maps; hosted premium tier
+Virtual Tabletop & TTRPG	Improved Initiative	cynicaloptimist/improved-initiative	Combat tracker with Patreon tiers
+Interactive Fiction	Twine 2	klembot/twinejs	Hosted interactive story builder for educators and marketers
+Interactive Fiction	SugarCube	tmedwards/sugarcube-2	Commission branded narrative games
+Interactive Fiction	Ink	inkle/ink	Narrative scripting consulting for studios
+Interactive Fiction	Inky	inkle/inky	Writer training workshops for ink
+Interactive Fiction	Fungus	snozbot/fungus	Unity narrative game templates for brands
+Interactive Fiction	Parchment	curiousdannii/parchment	Web IF hosting portal with subscriptions
+Interactive Fiction	Gargoyle	garglk/garglk	IF interpreter bundles for commercial releases
+Interactive Fiction	Undum	idmillington/undum	Hypertext fiction for marketing stories
+Interactive Fiction	Squiffy	textadventures/squiffy	Choose-your-own-adventure builder for schools
+Interactive Fiction	Inform 6	DavidKinder/Inform6	Parser game development for paid IF releases
+Interactive Fiction	Frotz	DavidGriffith/frotz	Z-machine player for retro game bundles
+Interactive Fiction	Loreline	jeremyfa/loreline	Dialogue scripting for narrative game studios
+Interactive Fiction	Yarn Spinner	YarnSpinnerTool/YarnSpinner	Dialogue tooling support for Unity studios
+Interactive Fiction	Jericho	microsoft/jericho	Text-game environments for AI agent training products
+Visual Novel Engines	Ren'Py	renpy/renpy	Visual novel studio with Steam and Patreon releases
+Visual Novel Engines	WebGAL	OpenWebGAL/WebGAL	Hosted web visual novel platform for creators
+Visual Novel Engines	Monogatari	Monogatari/Monogatari	Web visual novels for brand storytelling
+Visual Novel Engines	Impacto	CommitteeOfZero/impacto	VN engine reimplementation for localization services
+Visual Novel Engines	TyranoScript	ShikemokuMK/tyranoscript	Japanese-style VN production service
+Visual Novel Engines	Ayaka	Uni-Gal/Ayaka	Multilingual VN engine for localization studios
+Visual Novel Engines	Dialogic	dialogic-godot/dialogic	Godot dialogue/VN templates marketplace
+Visual Novel Engines	Chat Visual Novel	prompt-engineering/chat-visual-novel	AI-generated visual novels subscription app
+Level & Map Editors	Tiled	mapeditor/tiled	Paid map editor support and custom plugins for studios
+Level & Map Editors	LDtk	deepnight/ldtk	Level design tooling with custom exporters
+Level & Map Editors	Tilemap Studio	Rangi42/tilemap-studio	Retro tilemap services for homebrew devs
+Level & Map Editors	Tactile	albin-johansson/tactile	Tilemap editor for indie studios
+Level & Map Editors	Ogmo Editor 3	Ogmo-Editor-3/OgmoEditor3-CE	Level editor bundled into game templates
+Level & Map Editors	TrenchBroom	TrenchBroom/TrenchBroom	Brush-based level design courses
+Level & Map Editors	Tilemap Editor (web)	blurymind/tilemap-editor	Embeddable web map editor for UGC games
+Level & Map Editors	Wave Function Collapse	mxgmn/WaveFunctionCollapse	Procedural level generation API
+Level & Map Editors	Azgaar Fantasy Map Generator	Azgaar/Fantasy-Map-Generator	Worldbuilding maps SaaS for authors and GMs
+Pixel Art & Sprite Tools	LibreSprite	LibreSprite/LibreSprite	Branded pixel art editor for schools
+Pixel Art & Sprite Tools	Pixelorama	Orama-Interactive/Pixelorama	Pixel art editor; sell asset packs and courses
+Pixel Art & Sprite Tools	Piskel	piskelapp/piskel	Hosted sprite editor with premium export
+Pixel Art & Sprite Tools	Poxi	maierfelix/poxi	Web pixel art editor SaaS
+Pixel Art & Sprite Tools	Slate	mitchcurtis/slate	Desktop pixel editor for game teams
+Pixel Art & Sprite Tools	Stipple Effect	stipple-effect/stipple-effect	Pixel animation tool with premium features
+Pixel Art & Sprite Tools	Pixel Art Together	liveblocks/pixel-art-together	Collaborative pixel art for classrooms
+Pixel Art & Sprite Tools	Goya	jackschaedler/goya	Embeddable pixel editor for creative apps
+Pixel Art & Sprite Tools	Krita	KDE/krita	Digital painting training and game art courses
+Pixel Art & Sprite Tools	Material Maker	RodZill4/material-maker	Procedural texture packs marketplace
+Pixel Art & Sprite Tools	Free Texture Packer	odrick/free-tex-packer	Sprite sheet packing service for studios
+Game Asset Pipelines	Blender	blender/blender	3D asset production studio for games
+Game Asset Pipelines	Armor Paint	armory3d/armorpaint	3D texture painting tool licensing and assets
+Game Asset Pipelines	Assimp	assimp/assimp	Model conversion API for asset marketplaces
+Game Asset Pipelines	glTF Transform	donmccurdy/glTF-Transform	3D asset optimization SaaS for web games
+Game Asset Pipelines	Meshoptimizer	zeux/meshoptimizer	Mesh optimization pipeline service
+Game Asset Pipelines	Basis Universal	BinomialLLC/basis_universal	Texture compression pipeline for mobile studios
+Game Asset Pipelines	DragonBones	DragonBones/DragonBonesJS	2D skeletal animation for mobile games
+Game Asset Pipelines	Sfxr (jsfxr)	chr15m/jsfxr	Sound effect generator SaaS for indies
+Game Asset Pipelines	LMMS	LMMS/lmms	Game music production services and sample packs
+Game Asset Pipelines	Audacity	audacity/audacity	Game audio editing services
+Game Asset Pipelines	Rive Runtime	rive-app/rive-runtime	Interactive animation integration agency
+Esports & Tournaments	brackets-manager.js	Drarig29/brackets-manager.js	White-label tournament bracket SaaS
+Esports & Tournaments	brackets-viewer.js	Drarig29/brackets-viewer.js	Embeddable bracket widgets for esports sites
+Esports & Tournaments	React Tournament Brackets	g-loot/react-tournament-brackets	Bracket UI for branded tournament portals
+Esports & Tournaments	jQuery Bracket	teijo/jquery-bracket	Lightweight bracket embeds for leagues
+Esports & Tournaments	Open Bracket Format	openbracketformat/openbracketformat	Interoperable tournament data platform
+Esports & Tournaments	Tournament Generator	Heroyt/tournament-generator	Bracket generation API for event organizers
+Esports & Tournaments	LoL Pick Ban UI	RCVolus/lol-pick-ban-ui	Broadcast overlays for esports productions (Riot IP rules)
+Esports & Tournaments	Boltobserv	boltgolt/boltobserv	CS2 radar overlays for broadcast services
+Esports & Tournaments	demoinfocs-golang	markus-wa/demoinfocs-golang	CS demo analytics SaaS for teams
+Esports & Tournaments	awpy	pnxenopoulos/awpy	Esports analytics and scouting service
+Esports & Tournaments	NodeCG	nodecg/nodecg	Broadcast graphics packages for esports streams
+Discord & Twitch Bots	PhantomBot	PhantomBot/PhantomBot	Hosted Twitch bot service for streamers
+Discord & Twitch Bots	sogeBot	sogebot/sogeBot	White-label streaming bot with premium overlays
+Discord & Twitch Bots	OxidizeBot	udoprog/OxidizeBot	Managed stream bot hosting
+Discord & Twitch Bots	JMusicBot	jagrosh/MusicBot	Hosted Discord music bots for communities
+Discord & Twitch Bots	EvoBot	eritislami/evobot	Branded Discord music bot SaaS
+Discord & Twitch Bots	Muse	museofficial/muse	Self-hosted music bot for premium servers
+Discord & Twitch Bots	Red Discord Bot	Cog-Creators/Red-DiscordBot	Managed modular Discord bot hosting
+Discord & Twitch Bots	discord.js	discordjs/discord.js	Custom Discord bot development agency
+Discord & Twitch Bots	Lavalink	lavalink-devs/Lavalink	Audio node hosting for music bot operators
+Discord & Twitch Bots	Firebot	crowbartools/Firebot	Streamer bot with paid setup packages
+Discord & Twitch Bots	Fantasy Football Chat Bot	dtcarls/fantasy_football_chat_bot	League chat bot as a subscription service
+Minecraft & Voxel	Paper	PaperMC/Paper	Minecraft server hosting company (EULA monetization rules)
+Minecraft & Voxel	Velocity	PaperMC/Velocity	Proxy for large Minecraft networks
+Minecraft & Voxel	Purpur	PurpurMC/Purpur	Customized server hosting tiers
+Minecraft & Voxel	Minestom	Minestom/Minestom	Custom minigame network built from scratch
+Minecraft & Voxel	Luanti (Minetest)	luanti-org/luanti	Original voxel game platform for education
+Minecraft & Voxel	VoxeLibre	VoxeLibre/VoxeLibre	Voxel survival game for school servers
+Minecraft & Voxel	Cuberite	cuberite/cuberite	Lightweight server for low-cost hosting
+Minecraft & Voxel	Nukkit	CloudburstMC/Nukkit	Bedrock server hosting service
+Minecraft & Voxel	PocketMine-MP	pmmp/PocketMine-MP	Bedrock minigame network hosting
+Minecraft & Voxel	Geyser	GeyserMC/Geyser	Crossplay server bundles for hosts
+Minecraft & Voxel	Fabric Loader	FabricMC/fabric-loader	Modded server packs and hosting
+Minecraft & Voxel	ClassiCube	ClassiCube/ClassiCube	Classic voxel game for kids servers
+Modding Platforms	Mod Organizer 2	ModOrganizer2/modorganizer	Mod management services and curated modpacks
+Modding Platforms	r2modman	ebkr/r2modmanPlus	Mod manager for a branded mod hub
+Modding Platforms	Gale	Kesomannen/gale	Mod manager for community mod repositories
+Modding Platforms	RimSort	RimSort/RimSort	Modlist curation services
+Modding Platforms	Limo	limo-app/limo	Linux mod manager for gaming distros
+Modding Platforms	Nexus Mod Manager	Nexus-Mods/Nexus-Mod-Manager	Reference for building a mod distribution site
+Modding Platforms	Thunderstore	thunderstore-io/Thunderstore	White-label mod hosting platform with ads
+Modding Platforms	BepInEx	BepInEx/BepInEx	Unity modding framework consulting
+Modding Platforms	Prism Launcher	PrismLauncher/PrismLauncher	Branded modpack launcher for server networks
+Modding Platforms	Modrinth Labrinth	modrinth/labrinth	Mod hosting backend with creator revenue share
+Modding Platforms	Modrinth App	modrinth/code	Mod platform frontend and launcher
+Game Launchers & Stores	Heroic Games Launcher	Heroic-Games-Launcher/HeroicGamesLauncher	Branded launcher for game bundles
+Game Launchers & Stores	Lutris	lutris/lutris	Linux gaming distro launcher with support plans
+Game Launchers & Stores	Playnite	JosefNemec/Playnite	Unified library launcher with premium themes
+Game Launchers & Stores	Bottles	bottlesdevs/Bottles	Windows game compatibility on Linux devices
+Game Launchers & Stores	OpenGamepadUI	ShadowBlip/OpenGamepadUI	Console-like UI for handheld PC makers
+Game Launchers & Stores	Launchpad	Nihlus/Launchpad	Self-updating launcher for indie studios
+Game Launchers & Stores	itch.io butler	itchio/butler	Game patching/distribution pipeline service
+Game Launchers & Stores	itch app	itchio/itch	Indie storefront client template
+Game Launchers & Stores	Pegasus Frontend	mmatyas/pegasus-frontend	Arcade cabinet frontend for bar arcades
+Game Launchers & Stores	Steam ROM Manager	SteamGridDB/steam-rom-manager	Library organization tooling
+Game Launchers & Stores	Cartridges	kra-mo/cartridges	Simple launcher for gaming devices
+Gamification Engines	SkillTree	NationalSecurityAgency/skills-service	White-label training gamification for enterprises
+Gamification Engines	Oasis	isuru89/oasis	Points/badges engine SaaS for apps
+Gamification Engines	Gamify Laravel	pacoorozco/gamify-laravel	Employee engagement gamification platform
+Gamification Engines	Badger	the-badger/badger	Badges and achievements for communities
+Gamification Engines	UserInfuser	nlake44/UserInfuser	Gamification API for websites
+Gamification Engines	Habitica	HabitRPG/habitica	Gamified habit app white-labeled for wellness programs
+Gamification Engines	Yaga	hgtonight/Application-Yaga	Forum gamification add-on
+Kids Educational Games	GCompris	gcompris/GCompris-qt	Licensed kids learning suite for schools
+Kids Educational Games	Scratch GUI	scratchfoundation/scratch-gui	White-label block coding platform (avoid Scratch trademark)
+Kids Educational Games	Scratch VM	scratchfoundation/scratch-vm	Engine for branded coding-game platform
+Kids Educational Games	TurboWarp	TurboWarp/scratch-gui	Fast block coding editor for coding schools
+Kids Educational Games	Blockly Games	blockly-games/blockly-games	Coding game lessons for after-school programs
+Kids Educational Games	Blockly	RaspberryPiFoundation/blockly	Visual programming games for edtech products
+Kids Educational Games	Snap!	jmoenig/Snap	Coding curriculum products (AGPL)
+Kids Educational Games	CodeCombat	codecombat/codecombat	Coding game platform for school licenses
+Kids Educational Games	Code.org	code-dot-org/code-dot-org	Reference for coding-course platform (check licenses)
+Kids Educational Games	Kolibri	learningequality/kolibri	Offline learning platform with games for NGOs
+Kids Educational Games	Sugar Labs Turtle Blocks	sugarlabs/turtleblocksjs	Math art coding for classrooms
+Kids Educational Games	MakeCode Arcade	microsoft/pxt-arcade	Retro game coding for classrooms and hardware kits
+Sports League Management	League for Good	freeCodeCamp/league-for-good	League admin SaaS for amateur sports
+Sports League Management	Zuluru	Zuluru/Zuluru3	Ultimate/amateur league management hosting
+Sports League Management	JoomLeague	stankurd/joomleague	League sites for local clubs
+Sports League Management	Sports League Management System	kaimg/Sports-League-Management-System	Starter for club management SaaS
+Fantasy Sports	League Page	nmelhado/league-page	Branded fantasy league websites for commissioners
+Fantasy Sports	Fantasy Football Metrics Report	uberfastman/fantasy-football-metrics-weekly-report	Premium weekly league reports
+Fantasy Sports	ESPN Fantasy Football API	cwendt94/espn-api	Fantasy analytics app subscriptions
+Fantasy Sports	nflgame	BurntSushi/nflgame	Sports data analysis products
+Fantasy Sports	Fantasy Football Analytics	FantasyFootballAnalytics/FantasyFootballAnalyticsR	Projection subscription service
+Fantasy Sports	caRtola	henriquepgomide/caRtola	Fantasy football data insights in Brazil
+Fantasy Sports	nflverse nflfastR	nflverse/nflfastR	Sports analytics consulting
+Fantasy Sports	Fantasy Football IO	vbudhram/fantasy-football-io	Draft tooling for fantasy leagues
+Karaoke	PiKaraoke	vicwomg/pikaraoke	Karaoke boxes for bars and parties
+Karaoke	Karaoke Eternal	bhj/KaraokeEternal	Self-hosted karaoke for venues and rentals
+Karaoke	UltraStar Deluxe	UltraStar-Deluxe/USDX	Karaoke game for party rental kits
+Karaoke	UltraStar Play	UltraStar-Deluxe/Play	Mobile-mic karaoke app with song store
+Karaoke	Performous	performous/performous	Karaoke and band game for events
+Karaoke	UltraSinger	rakuri255/UltraSinger	Auto-generate karaoke files as a service
+Karaoke	Ultimate Vocal Remover	Anjok07/ultimatevocalremovergui	Vocal removal for karaoke track production
+Karaoke	Nightingale	rzru/nightingale	Karaoke player from any song for home devices
+Karaoke	Youka	youkaclub/youka-desktop	Karaoke app with lyrics subscription
+Music & Rhythm Games	StepMania	stepmania/stepmania	Dance arcade cabinets for family entertainment centers
+Music & Rhythm Games	YARG	YARC-Official/YARG	Band game for parties; avoid Rock Band trademarks
+Music & Rhythm Games	Quaver	Quaver/Quaver	Competitive rhythm game with supporter tiers
+Music & Rhythm Games	beatoraja	exch-bms2/beatoraja	BMS rhythm game for arcade setups
+Music & Rhythm Games	Etterna	etternagame/etterna	Rhythm game with hosted ranking servers
+Music & Rhythm Games	webosu	111116/webosu	Web rhythm game (osu! trademark caution)
+Music & Rhythm Games	ArcCreate	Arcthesia/ArcCreate	Rhythm chart creation tool for creators
+Music & Rhythm Games	Rhythm Plus	henryzt/Rhythm-Plus-Music-Game	Web rhythm game with licensed indie music
+Music & Rhythm Games	Clone Hero Bridge	Geomitron/Bridge	Chart downloader for rhythm communities
+Music & Rhythm Games	Sonic Pi	sonic-pi-net/sonic-pi	Live-coding music workshops for schools
+Music & Rhythm Games	Frets on Fire X	fofix/fofix	Guitar game for party rentals
+Metaverse & 3D Worlds	Hubs	Hubs-Foundation/hubs	White-label virtual event spaces
+Metaverse & 3D Worlds	Ethereal Engine	ir-engine/etherealengine-archive	Self-hosted metaverse platform for brands
+Metaverse & 3D Worlds	SkyOffice	kevinshen56714/SkyOffice	Virtual office for remote teams
+Metaverse & 3D Worlds	WorkAdventure	workadventure/workadventure	Branded 2D virtual events and offices
+Metaverse & 3D Worlds	Vircadia	vircadia/vircadia-native-core	Hosted social VR worlds
+Metaverse & 3D Worlds	Overte	overte-org/overte	Self-hosted VR world servers for communities
+Metaverse & 3D Worlds	JanusWeb	jbaicoianu/janusweb	Web 3D spaces for galleries
+Metaverse & 3D Worlds	Third Room	matrix-org/thirdroom	Matrix-based 3D worlds for communities
+Metaverse & 3D Worlds	Open Simulator	opensim/opensim	Virtual world grid hosting
+Metaverse & 3D Worlds	Hyperfy	hyperfy-xyz/hyperfy	Self-hosted 3D worlds for creators
+VR/AR Frameworks	A-Frame	aframevr/aframe	WebXR experiences agency for brands
+VR/AR Frameworks	pmndrs XR	pmndrs/xr	React VR app development services
+VR/AR Frameworks	WebXR Polyfill	immersive-web/webxr-polyfill	Cross-device WebXR deployments
+VR/AR Frameworks	model-viewer	google/model-viewer	AR product viewer for e-commerce
+VR/AR Frameworks	AR.js	AR-js-org/AR.js	Marker AR campaigns for print and packaging
+VR/AR Frameworks	MindAR	hiukim/mind-ar-js	Web AR image tracking for marketing
+VR/AR Frameworks	OpenXR SDK	KhronosGroup/OpenXR-SDK	VR app porting services
+VR/AR Frameworks	ALVR	alvr-org/ALVR	Wireless VR streaming for arcades
+VR/AR Frameworks	Godot XR Tools	GodotVR/godot-xr-tools	VR training sim development
+VR/AR Frameworks	XR Interaction Toolkit Examples	Unity-Technologies/XR-Interaction-Toolkit-Examples	VR prototyping agency
+VR/AR Frameworks	Troika	protectwise/troika	3D UI for WebXR apps
+Creative Coding	p5.js	processing/p5.js	Generative art workshops and NFT-free art prints
+Creative Coding	Processing	processing/processing4	Creative coding courses for designers
+Creative Coding	openFrameworks	openframeworks/openFrameworks	Interactive installations for museums
+Creative Coding	Cinder	cinder/Cinder	Experiential installations agency
+Creative Coding	Nannou	nannou-org/nannou	Rust generative art installations
+Creative Coding	Hydra	hydra-synth/hydra	Live visuals for clubs and events
+Creative Coding	Strudel	tidalcycles/strudel	Live-coded music performances and classes
+Creative Coding	canvas-sketch	mattdesl/canvas-sketch	Generative print shop
+Creative Coding	Shadertoy-like Bonzomatic	Gargaj/Bonzomatic	Demoscene live-coding events
+Fantasy Consoles	TIC-80	nesbox/TIC-80	Fantasy console with paid PRO edition and cartridge store
+Fantasy Consoles	LIKO-12	LIKO-12/LIKO-12	Retro game creation platform for kids
+Fantasy Consoles	WASM-4	aduros/wasm4	Tiny game platform for jams and handheld kits
+Fantasy Consoles	MicroStudio	pmgl/microstudio	Hosted game creation IDE for schools
+Fantasy Consoles	Pixel Vision 8	PixelVision8/PixelVision8	Retro game maker for workshops
+Fantasy Consoles	Bitsy	le-doux/bitsy	Tiny narrative game maker for classes
+Fantasy Consoles	PuzzleScript	increpare/PuzzleScript	Puzzle game maker for jams and education
+Fantasy Consoles	GB Studio	chrismaltby/gb-studio	Homebrew Game Boy cartridges for sale
+Game AI & Bots	ML-Agents	Unity-Technologies/ml-agents	Game AI training services
+Game AI & Bots	DIAMBRA Arena	diambra/arena	AI fighting game competitions
+Game AI & Bots	Gymnasium	Farama-Foundation/Gymnasium	RL game environments for research
+Game AI & Bots	Behavior Tree CPP	BehaviorTree/BehaviorTree.CPP	NPC AI middleware licensing
+Game AI & Bots	Recast Navigation	recastnavigation/recastnavigation	Navmesh integration services
+Game AI & Bots	AI Town	a16z-infra/ai-town	AI NPC sim worlds for brands
+Game AI & Bots	Generative Agents	joonspk-research/generative_agents	Simulated NPC societies
+Physics & Game Libraries	Box2D	erincatto/box2d	Physics-based casual games
+Physics & Game Libraries	Jolt Physics	jrouwe/JoltPhysics	Physics integration consulting
+Physics & Game Libraries	Bullet	bulletphysics/bullet3	Simulation and VR physics services
+Physics & Game Libraries	Rapier	dimforge/rapier	Web physics games
+Physics & Game Libraries	Dear ImGui	ocornut/imgui	In-house game tools development
+Physics & Game Libraries	EnTT	skypjack/entt	ECS consulting for engines
+Physics & Game Libraries	flecs	SanderMertens/flecs	ECS-based simulation products
+Physics & Game Libraries	Cannon-es	pmndrs/cannon-es	Physics web games for ads
+Physics & Game Libraries	Planck.js	piqnt/planck.js	Physics puzzle web games
+Social & Party Games	Starship Olympics	notapixelstudio/starship-olympics	Couch party game for events
+Social & Party Games	Pienoon	google/pienoon	Party game for TV boxes
+Social & Party Games	Fake Artist	kcgidw/fao	Drawing party game with themed packs
+Social & Party Games	Memes party game	nerdsupremacist/memes	Meme captioning party app
+Social & Party Games	Drawphone	tannerkrewson/drawphone	Telephone drawing game with premium rooms
+Social & Party Games	Escape room Node-RedScape	playfultechnology/node-redscape	Escape room prop control for venues
+Game Jams & Community	JamBrain (Ludum Dare)	JamBrain/JamBrain	White-label game jam hosting platform
+Game Jams & Community	itch-dl	DragoonAethis/itch-dl	Jam archival tooling
+Game Jams & Community	Our Open Source Games	100-Devs-1-Game/Our-Open-Source-Games	Community game collab platform
+Game Jams & Community	LiveSplit	LiveSplit/LiveSplit	Speedrun tools with premium overlays
+Game Jams & Community	RetroAchievements Web	RetroAchievements/RAWeb	Achievement community platform with patrons
+Game Jams & Community	OBS Studio	obsproject/obs-studio	Streaming setup services for gamers
+Game Jams & Community	Owncast	owncast/owncast	Self-hosted game streaming platform
+Game Jams & Community	Restreamer	datarhei/restreamer	Esports stream distribution for organizers
+Game Streaming	Sunshine	LizardByte/Sunshine	Self-hosted cloud gaming service
+Game Streaming	Moonlight Qt	moonlight-stream/moonlight-qt	Branded cloud gaming client
+Game Streaming	Selkies	selkies-project/selkies	Browser-based cloud gaming platform
+Game Streaming	Wolf	games-on-whales/wolf	Multi-user cloud gaming hosting
+Game Streaming	Neko	m1k1o/neko	Virtual browser watch parties and gaming rooms

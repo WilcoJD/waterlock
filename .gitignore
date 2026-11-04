@@ -32,4 +32,4 @@ node_modules
 *.sublime-workspace
 
 # testfiles
-_testapp/
+_testapp/business-ideas/_source/gh_cache.json

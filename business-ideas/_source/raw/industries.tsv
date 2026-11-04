@@ -1,0 +1,541 @@
+Construction & Contractors	OpenConstructionERP	datadrivenconstruction/OpenConstructionERP	Hosted BOQ and takeoff ERP for mid-size general contractors, per-project fee
+Construction & Contractors	IfcOpenShell	IfcOpenShell/IfcOpenShell	BIM model QA and clash-report service for contractors, per-model pricing
+Construction & Contractors	That Open Engine	ThatOpen/engine_components	White-label web BIM viewer for builder client portals
+Construction & Contractors	xeokit SDK	xeokit/xeokit-sdk	Browser BIM viewer SaaS for site foremen, per-seat license
+Construction & Contractors	Speckle Server	specklesystems/speckle-server	Managed private Speckle hosting for regional AEC firms
+Construction & Contractors	BIMserver	opensourceBIM/BIMserver	Digital twin handover server sold to developers and builders
+Construction & Contractors	Massing	ibuilder/massing	Self-hosted IFC platform bundled with onboarding for homebuilders
+Construction & Contractors	ProjectEngine	TMailletFR/ProjectEngine	Cheap CPM scheduling alternative to Primavera for subcontractors
+Construction & Contractors	FreeCAD	FreeCAD/FreeCAD	Paid BIM templates and training for small builders
+Construction & Contractors	OpenProject	opf/openproject	Construction-flavored project hosting with RFI and punch-list templates
+Trades (Plumbing, Electrical, HVAC)	OCA Field Service	OCA/field-service	Odoo dispatch package for plumbing shops, setup fee plus support
+Trades (Plumbing, Electrical, HVAC)	ERPNext Field Service	Beveren-Software-Inc/Field_Service_Management	Job dispatch and technician app for HVAC contractors on ERPNext
+Trades (Plumbing, Electrical, HVAC)	Invoice Ninja	invoiceninja/invoiceninja	Quote-to-invoice app branded for electricians, $29/mo
+Trades (Plumbing, Electrical, HVAC)	Kimai	kimai/kimai	Hosted crew timesheets and job costing for trade companies
+Trades (Plumbing, Electrical, HVAC)	InvenTree	inventree/InvenTree	Van-stock parts inventory for plumbing fleets
+Trades (Plumbing, Electrical, HVAC)	Easy!Appointments	alextselegidis/easyappointments	Online booking for HVAC tune-ups, resold to local contractors
+Trades (Plumbing, Electrical, HVAC)	ESPHome Mitsubishi Heatpump	geoffdavis/esphome-mitsubishiheatpump	Smart heat-pump retrofit upsell for HVAC installers
+Trades (Plumbing, Electrical, HVAC)	P1P2MQTT	Arnold-n/P1P2MQTT	Remote heat-pump monitoring subscriptions offered by installers
+Trades (Plumbing, Electrical, HVAC)	HeatPump	SwiCago/HeatPump	Wi-Fi control dongles sold by mini-split installers
+Trades (Plumbing, Electrical, HVAC)	Akaunting	akaunting/akaunting	Bookkeeping bundle for solo electricians and plumbers
+Landscaping & Lawn Care	OpenMower	ClemensElflein/OpenMower	Robotic mowing-as-a-service for landscaping companies
+Landscaping & Lawn Care	Fields2Cover	Fields2Cover/Fields2Cover	Mowing and spraying route planner for grounds crews
+Landscaping & Lawn Care	OpenSprinkler Firmware	OpenSprinkler/OpenSprinkler-Firmware	Smart irrigation installs with monthly monitoring plan
+Landscaping & Lawn Care	SIP Sprinklers	Dan-in-CA/SIP	Raspberry Pi irrigation controllers sold by landscapers
+Landscaping & Lawn Care	Growstuff	Growstuff/growstuff	Plant database powering garden design proposals
+Landscaping & Lawn Care	OpenFarm	openfarmcc/OpenFarm	Planting guide content for garden centers
+Landscaping & Lawn Care	QGIS	qgis/QGIS	Property measurement and site plans for landscape estimators
+Landscaping & Lawn Care	VROOM	VROOM-Project/vroom	Daily route optimization for lawn-care crews
+Cleaning Services	Cal.com	calcom/cal.com	Recurring house-cleaning booking portal, white-labeled per company
+Cleaning Services	Easy!Appointments	alextselegidis/easyappointments	Maid service online booking widget, $19/mo
+Cleaning Services	OCA Field Service	OCA/field-service	Janitorial contract scheduling on Odoo for commercial cleaners
+Cleaning Services	Kimai	kimai/kimai	Cleaner timesheets and client billing by site
+Cleaning Services	GrihaSeva	NirmalsaiswaroopJ/GrihaSeva-RealTime-Project	Local home-services marketplace for cleaners
+Cleaning Services	Traccar	traccar/traccar	GPS proof-of-visit for mobile cleaning teams
+Cleaning Services	AutoPlus Car Wash	deepaksabat/AutoPlus	Car wash and detailing booking system for mobile detailers
+Cleaning Services	Fixer Finder	marialobillo/fixer-finder	Booking backend for a local cleaning marketplace
+Auto Repair Shops	LubeLogger	hargata/lubelog	Branded customer vehicle-maintenance portal for garages
+Auto Repair Shops	Automotive Repair Management	ChanMeng666/automotive-repair-management-system	Work-order and invoice system for independent garages
+Auto Repair Shops	Auto Repair SaaS	wangonya/auto-repair-saas	Cloud shop management sold per bay
+Auto Repair Shops	AutorepAI	elroir/AutorepAI	AI-assisted repair estimates for small shops
+Auto Repair Shops	python-OBD	brendan-w/python-OBD	Diagnostic kiosk for quick-lube shops
+Auto Repair Shops	AndrOBD	fr3ts0n/AndrOBD	Shop-branded OBD diagnostic app for customers
+Auto Repair Shops	OCA Fleet	OCA/fleet	Fleet maintenance contracts for repair shops on Odoo
+Auto Repair Shops	Car Service Frontend	Hazrat-Ali9/Car-Service-Frontend	Online service booking site for garages
+Car Rental	BookCars	aelassas/bookcars	White-label car rental site plus app for local agencies
+Car Rental	FreeCar	CyanAsterisk/FreeCar	Car-sharing backend for small fleet operators
+Car Rental	Real Rent Car	Mohamed-Galdi/real-rent-car	Turnkey rental platform for independent rental firms
+Car Rental	Rent-a-Ride	jeevan-aj/Rent-a-Ride	Multi-vendor vehicle rental marketplace for a city
+Car Rental	Car Rental PHP	iamareebjamal/car-rental-php	Cheap rental booking site for scooter and car shops
+Car Rental	CarRental	Amine-Smahi/CarRental	Rental management website for tourist-area agencies
+Car Rental	Traccar Web	traccar/traccar-web	Rental fleet GPS and geofence alerts, per-vehicle fee
+Car Rental	Car Rental Website	Abdellatif404/Car-Rental-Website	Starter booking site for single-location rental shops
+Trucking & Freight	Fleetbase	fleetbase/fleetbase	Hosted dispatch and fleet OS for regional carriers
+Trucking & Freight	LoadPartner TMS	loadpartner/tms	TMS for small freight brokerages, $99/user
+Trucking & Freight	Logistics App	suxrobGM/logistics-app	AI dispatcher for owner-operator trucking fleets
+Trucking & Freight	Traccar	traccar/traccar	Truck GPS tracking resold to small carriers
+Trucking & Freight	Karrio	karrioapi/karrio	Multi-carrier shipping API for 3PLs and shippers
+Trucking & Freight	OSRM	Project-OSRM/osrm-backend	Truck routing engine for regional dispatchers
+Trucking & Freight	GraphHopper	graphhopper/graphhopper	Truck-aware routing service for freight planners
+Trucking & Freight	jsprit	graphhopper/jsprit	Load and route optimization consulting for carriers
+Trucking & Freight	Timefold Solver	TimefoldAI/timefold-solver	Driver scheduling optimizer for trucking companies
+Moving Companies	Fleetbase	fleetbase/fleetbase	Crew and truck dispatch for local movers
+Moving Companies	VROOM	VROOM-Project/vroom	Multi-stop move route optimization for movers
+Moving Companies	Invoice Ninja	invoiceninja/invoiceninja	Move estimates and deposits invoicing for movers
+Moving Companies	Cal.com	calcom/cal.com	Survey and move-date booking for moving companies
+Moving Companies	Snipe-IT	snipe/snipe-it	Track blankets, dollies and truck equipment for movers
+Moving Companies	Traccar	traccar/traccar	Live truck tracking links shared with moving customers
+Moving Companies	Kimai	kimai/kimai	Hourly crew time tracking for local moves
+Farming & Crop Management	farmOS	farmOS/farmOS	Hosted farm records for small diversified farms, $15/mo
+Farming & Crop Management	LiteFarm	LiteFarmOrg/LiteFarm	Organic certification recordkeeping sold via co-ops
+Farming & Crop Management	Tania	usetania/tania-core	Simple farm planner for market gardeners
+Farming & Crop Management	Ekylibre	ekylibre/ekylibre	Farm management info system for European growers
+Farming & Crop Management	FarmBot Web App	FarmBot/Farmbot-Web-App	Precision garden robots for schools and urban farms
+Farming & Crop Management	FarmVibes.AI	microsoft/farmvibes-ai	Satellite crop-health reports for agronomists
+Farming & Crop Management	AgOpenGPS	AgOpenGPS-Official/AgOpenGPS	Low-cost tractor autosteer kits for small farms
+Farming & Crop Management	Mycodo	kizniche/Mycodo	Greenhouse and mushroom-farm environment controllers
+Farming & Crop Management	Tania PHP	usetania/tania	Lightweight farm management for agri-extension programs
+Livestock & Dairy	RuFaS	RuminantFarmSystems/RuFaS	Dairy farm emissions and nutrition modeling consultancy
+Livestock & Dairy	BovHEAT	bovheat/bovheat	Cattle heat-detection analytics for dairy herds
+Livestock & Dairy	Livestock Tracker	DigiBanks99/livestock-tracker	Animal records app for small ranchers
+Livestock & Dairy	HerdNet	Alexandre-Delplanque/HerdNet	Drone-based herd counting service for ranches
+Livestock & Dairy	AVAT	AIFARMS/AVAT	Barn video analytics for pig and cattle welfare
+Livestock & Dairy	Dairy Management System	Dav-ee/dairy-management-system	Milk delivery and collection tracking for dairy co-ops
+Livestock & Dairy	EPMS Poultry	alain-kubwayo/epms-v0	Poultry farm feed, stock and sales manager
+Livestock & Dairy	farmOS	farmOS/farmOS	Livestock movement and health logs for homesteads
+Beekeeping	BEEP	beepnl/BEEP	Hive monitoring app and sensors for beekeeping associations
+Beekeeping	Hive Pal	martinhrvn/hive-pal	Hosted apiary inspection logbook, $5/mo per beekeeper
+Beekeeping	Bee IoT	harryjubb/bee_iot	DIY hive sensor kits sold to hobbyists
+Beekeeping	Tanen	hmd83/tanen	LoRaWAN hive scales for commercial pollinators
+Beekeeping	Smart Beehive Monitor	deaneeth/smart-beehive-monitor	ESP32 hive monitors for honey producers
+Beekeeping	BEEP Measurement System	beepnl/measurement-system-v3	Manufacture hive weight bases for apiaries
+Fisheries & Aquaculture	FSA	fishR-Core-Team/FSA	Fish stock assessment consulting for fisheries agencies
+Fisheries & Aquaculture	Stock Synthesis	nmfs-ost/ss3-source-code	Stock assessment modeling services for fishery councils
+Fisheries & Aquaculture	r4ss	r4ss/r4ss	Stock assessment reporting for fisheries managers
+Fisheries & Aquaculture	pyEcholab	CI-CMG/pyEcholab	Echosounder data processing for survey vessels
+Fisheries & Aquaculture	Echopype	OSOceanAcoustics/echopype	Hydroacoustic fish survey analysis as a service
+Fisheries & Aquaculture	Anglers' Log	cohenadair/anglers-log	Catch log app branded for fishing charters
+Fisheries & Aquaculture	LibRAS	FishSim/LibRAS	Recirculating aquaculture system design simulation
+Fisheries & Aquaculture	IoT Water Quality Monitor	pkErbynn/IoT-WQMS	Pond water-quality alerts for fish farmers
+Fisheries & Aquaculture	AI Aquaculturing	TsaiRongFu/AI-Aquaculturing	Camera-based fish feeding monitoring for farms
+Forestry	lidR	r-lidar/lidR	LiDAR timber cruising service for forest owners
+Forestry	3DFin	3DFin/3DFin	Point-cloud forest inventory for forestry consultants
+Forestry	FIESTA	USDAForestService/FIESTA	Forest inventory estimates for land trusts
+Forestry	AdTree	tudelft3d/AdTree	3D tree models for urban arborists
+Forestry	Forest Inventory Pipeline	PRBonn/forest_inventory_pipeline	Automated tree trait reports for timber companies
+Forestry	ForAINet	prs-eth/ForAINet	AI forest segmentation for carbon-credit verification
+Forestry	ForestTools	andrew-plowright/ForestTools	Canopy-height tree detection for forestry contractors
+Forestry	rFIA	hunter-stanke/rFIA	Forest inventory analytics for county foresters
+Restaurants & Food Trucks	TastyIgniter	tastyigniter/TastyIgniter	Commission-free online ordering for local restaurants, $49/mo
+Restaurants & Food Trucks	URY	ury-erp/ury	Restaurant POS plus ERP for small chains
+Restaurants & Food Trucks	Flutter POS System	evan361425/flutter-pos-system	Tablet POS for food trucks, one-time license
+Restaurants & Food Trucks	SambaPOS 3	emreeren/SambaPOS-3	Touchscreen POS installs for diners and bars
+Restaurants & Food Trucks	NodeDR Restaurant POS	Raktim94/nodedr-restaurant-pos	Self-hosted POS with kitchen display for cafes
+Restaurants & Food Trucks	FloCafe	FreeOpenSourcePOS/FloCafe	Offline-first cafe POS for areas with spotty internet
+Restaurants & Food Trucks	Enatega Multivendor	enatega/food-delivery-multivendor	Local food delivery marketplace for small towns
+Restaurants & Food Trucks	Restaurant POS	ahmedali5530/restaurant-pos	Branded POS for food truck parks
+Restaurants & Food Trucks	Food Ordering System	haxxorsid/food-ordering-system	QR table ordering for family restaurants
+Bakeries & Food Production	Tandoor Recipes	TandoorRecipes/recipes	Recipe scaling and costing for bakeries
+Bakeries & Food Production	Mealie	mealie-recipes/mealie	Recipe management for commercial kitchens
+Bakeries & Food Production	Grocy	grocy/grocy	Ingredient stock tracking for home bakers and small bakeries
+Bakeries & Food Production	Open Food Facts	openfoodfacts/openfoodfacts-server	Nutrition and allergen label generation for food producers
+Bakeries & Food Production	Online Bakery Shop	odhiamboatieno/Online-Bakery-Shop-Management-System-Php	Pre-order website for neighborhood bakeries
+Bakeries & Food Production	Bakery Management Django	Awantikashri/Bakery-Management-System-Using-Django-dbSQLite3-	Order and inventory site for cake shops
+Bakeries & Food Production	Prep Meals Traceability	linyshdhhcb/prep-meals-blockchain-traceability	Farm-to-table traceability for food manufacturers
+Breweries & Wineries	Brewtarget	Brewtarget/brewtarget	Recipe design and batch logs for craft breweries
+Breweries & Wineries	CraftBeerPi 4	craftbeerpi/craftbeerpi4	Brewhouse automation retrofits for nano-breweries
+Breweries & Wineries	BrewBench Monitor	BrewBench/monitor	Fermentation monitoring dashboards for brewpubs
+Breweries & Wineries	Fermentrack	thorrak/fermentrack	Fermentation temperature control for wineries and cideries
+Breweries & Wineries	Kegbot Server	kegbot/kegbot-server	Tap-room pour tracking and keg inventory
+Breweries & Wineries	Tilt Pitch	linjmeyer/tilt-pitch	Hydrometer data logging service for small brewers
+Breweries & Wineries	BierBot Bricks	BernhardSchlegel/BierBot-Bricks	Plug-and-play mash controllers for homebrew shops
+Breweries & Wineries	brewcalc	brewcomputer/brewcalc	Recipe calculator embedded in homebrew retailer sites
+Breweries & Wineries	BrewerLean	blakecrawford-client2/BrewerLean	Production ops tool for craft breweries
+Breweries & Wineries	Brautomat32	InnuendoPi/Brautomat32	ESP32 brewing controllers sold as kits
+Catering & Meal Prep	fuint Catering	fushengqian/fuintCatering	Multi-tenant ordering and membership SaaS for caterers
+Catering & Meal Prep	Mealie	mealie-recipes/mealie	Menu planning and shopping lists for meal-prep businesses
+Catering & Meal Prep	Tandoor Recipes	TandoorRecipes/recipes	Batch recipe scaling for event caterers
+Catering & Meal Prep	Hi.Events	HiEventsDev/Hi.Events	Ticketed supper-club and tasting events for caterers
+Catering & Meal Prep	Food Meal Prep	mbforbes/food	Macro-based meal plans for fitness meal-prep services
+Catering & Meal Prep	Invoice Ninja	invoiceninja/invoiceninja	Catering quotes, deposits and invoices
+Grocery & Convenience Stores	Open Source POS	opensourcepos/opensourcepos	Hosted POS for corner stores, $25/mo
+Grocery & Convenience Stores	NexoPOS	Blair2004/NexoPOS	Multi-store POS for mini-mart chains
+Grocery & Convenience Stores	Store-POS	tngoman/Store-POS	Offline desktop till for convenience stores
+Grocery & Convenience Stores	POS Awesome	ucraft-com/POS-Awesome	ERPNext POS bundle for supermarkets
+Grocery & Convenience Stores	Laravel POS	angkosal/laravel-pos	Simple web POS for kiosks
+Grocery & Convenience Stores	Django Grocery POS	betofleitass/django_point_of_sale	Grocery checkout with stock alerts
+Grocery & Convenience Stores	Grocy	grocy/grocy	Expiry-date tracking for small grocers
+Grocery & Convenience Stores	Open Food Facts	openfoodfacts/openfoodfacts-server	Product barcode database feeding store catalogs
+Pharmacy	PharmaSpot	drkNsubuga/PharmaSpot	Pharmacy POS for independent drugstores in emerging markets
+Pharmacy	OpenBoxes	openboxes/openboxes	Medicine supply chain for clinic networks and NGOs
+Pharmacy	Laravel Pharmacy System	MusheAbdulHakim/Pharmacy-management-system	Hosted pharmacy stock and billing, $30/mo
+Pharmacy	Pharmacy POS & Inventory	SammyOngaya/Pharmacy-Management-System	Expiry and batch tracking for chemists
+Pharmacy	HMIS	hmislk/hmis	Hospital pharmacy and dispensing module for private hospitals
+Pharmacy	Pharmacy POS Vietnam	gemvietnam/Point-Of-Sale-System	Localized pharmacy POS for Southeast Asia
+Pharmacy	Pharmacies Mask Map	kiang/pharmacies	Real-time pharmacy stock map for health authorities
+Dental Clinics	Apexo	alexcorvi/apexo	Hosted dental practice management for solo dentists
+Dental Clinics	OpenEMR	openemr/openemr	Dental-configured EHR hosting with billing setup
+Dental Clinics	Tooth Detection	clemkoa/tooth-detection	AI x-ray restoration detection add-on for clinics
+Dental Clinics	DENTEX	ibrahimethemhamamci/DENTEX	Panoramic x-ray diagnosis assistant for dentists
+Dental Clinics	SlicerDentalSegmentator	gaudot/SlicerDentalSegmentator	CBCT segmentation service for implant planning
+Dental Clinics	Tooth Group Network	limhoyeon/ToothGroupNetwork	Intraoral scan segmentation for dental labs
+Dental Clinics	Easy!Appointments	alextselegidis/easyappointments	Online appointment booking for dental offices
+Veterinary Clinics	Yosemite Crew	YosemiteCrew/Yosemite-Crew	Hosted clinic system for rural vets, setup fee plus $99/mo
+Veterinary Clinics	OpenVPM	evangauer/openvpm	API-first vet practice management for small clinics
+Veterinary Clinics	PetCare PMS	geosem42/PetCare	Patient records and reminders for vet practices
+Veterinary Clinics	HappyPaws	MSubham06/HappyPaws	Pet owner booking portal for vet clinics
+Veterinary Clinics	Vet Management System	blingyplus/Vet-Management-System	Animal hospital management for mobile vets
+Veterinary Clinics	VetDataHub	Vetdatahub/VetDataHub	Curated vet datasets for AI diagnostics startups
+Veterinary Clinics	Spring PetClinic	spring-projects/spring-petclinic	Starter codebase for a custom vet clinic app
+Physiotherapy & Rehab	Physio Pose	samkit-jain/physio-pose	Home exercise form-check app for physio clinics
+Physiotherapy & Rehab	Physio-ROM	admiralakber/physio-rom	Range-of-motion reports for rehab clinics
+Physiotherapy & Rehab	RehabMate	HUANGCHIHHUNGLeo/RehabMate	3D pain mapping intake tool for physiotherapists
+Physiotherapy & Rehab	wger	wger-project/wger	Exercise prescription portal for physios and trainers
+Physiotherapy & Rehab	Movalytics	Babon-Innovations-b-v/movalytics	Clinical joint-angle analytics for sports rehab
+Physiotherapy & Rehab	Clinic Physiotherapy	marcinszumowski/Clinic-Physiotherapy	Website and booking for physio clinics
+Physiotherapy & Rehab	OpenEMR	openemr/openemr	Physical therapy EHR with outcome tracking
+Mental Health Practices	EdgeCase	rsembera/edgecase	Local-first notes and billing for solo therapists
+Mental Health Practices	My Practice	dholbach/my-practice	Hosted practice management for coaches and counselors
+Mental Health Practices	Jitsi Meet	jitsi/jitsi-meet	Private telehealth video hosting for therapy groups
+Mental Health Practices	OpenEMR	openemr/openemr	Behavioral-health EHR with intake forms
+Mental Health Practices	LimeSurvey	LimeSurvey/LimeSurvey	PHQ-9/GAD-7 outcome questionnaires for clinics
+Mental Health Practices	Cal.com	calcom/cal.com	HIPAA-minded session booking for therapists
+Elder & Home Care	Folk Care	neighborhood-lab/folk-care	EVV and caregiver scheduling for home care agencies
+Elder & Home Care	Electronic Home Care	kenny-evitt/Electronic-Home-Care	Business management app for home care agencies
+Elder & Home Care	Community Health Toolkit	medic/cht-core	Community health worker app for home visit programs
+Elder & Home Care	SafeOS	framerslab/safeos	Fall and wellbeing monitoring for elderly relatives
+Elder & Home Care	Intelligent Elderly Care	Tang1705/Intelligent-Elderly-Care	Camera-based fall detection for care homes
+Elder & Home Care	Smart Elderly Care Center	nature924/No100Smart-Elderly-Care-Center-Management-System	Care home resident management system
+Elder & Home Care	Elderly App	adarshbalu/elderly_app	Medication reminder app branded for care agencies
+Childcare & Daycare	Daycare Manager	abdullathedruid/daycare_manager	Attendance and billing for home daycares
+Childcare & Daycare	Daycare Social Platform	doomhz/daycare_social_platform	Parent communication app for nurseries
+Childcare & Daycare	Kindergarten Management	relyonOn/KindergartenManagement	Kindergarten admin, attendance and notices system
+Childcare & Daycare	Kindergarten Management Fullstack	Gracelaura/kindergarten-management-system-frontend	Preschool enrollment portal for private kindergartens
+Childcare & Daycare	Gibbon	GibbonEdu/core	Early-years school management for international preschools
+Childcare & Daycare	SafeOS	framerslab/safeos	Nap-room monitoring add-on for daycares
+Tutoring & Private Schools	Gibbon	GibbonEdu/core	Hosted school management for private schools
+Tutoring & Private Schools	openSIS Classic	OS4ED/openSIS-Classic	Student information system for tutoring chains
+Tutoring & Private Schools	RosarioSIS	francoisjacquet/rosariosis	SIS hosting for small private schools
+Tutoring & Private Schools	School Management System	hrshadhin/school-management-system	White-label school ERP for emerging markets
+Tutoring & Private Schools	Open School CE	traprajith/open-school-CE	Integrated school admin for academies
+Tutoring & Private Schools	Fedena	projectfedena/fedena	Fee and attendance management for coaching centers
+Tutoring & Private Schools	Nettu Meet	fmeringdal/nettu-meet	Branded video classroom for tutoring agencies
+Tutoring & Private Schools	DeepTutor	HKUDS/DeepTutor	AI tutor add-on sold to learning centers
+Driving Schools	DrivePulse	Ayushx309/DrivePulse	Lesson scheduling and student tracking for driving schools
+Driving Schools	DrivingSchool Simulator	Tumiz/DrivingSchool	Browser 3D driving simulator for theory classes
+Driving Schools	Easy!Appointments	alextselegidis/easyappointments	Instructor lesson booking with online payments
+Driving Schools	Traccar	traccar/traccar	Lesson route recording for driving instructors
+Driving Schools	Cal.com	calcom/cal.com	Multi-instructor booking for driving academies
+Driving Schools	SMARTS	huawei-noah/SMARTS	Scenario simulation for advanced driver training
+Music Schools	Music School App	HugoTx/school-music-app	Laravel music school management resold to studios
+Music Schools	My Music Studio	erin-fitzpatric/my-music-studio	Private lesson studio organizer for music teachers
+Music Schools	MuseScore	musescore/MuseScore	Notation training and arrangement services for schools
+Music Schools	OpenSheetMusicDisplay	opensheetmusicdisplay/opensheetmusicdisplay	Interactive sheet-music practice portal for students
+Music Schools	Music Sheet Catalog	christian-harsana/music-sheet-catalog	Sheet music library for piano teachers
+Music Schools	Sistema	uwblueprint/sistema	Program management for nonprofit music schools
+Music Schools	Nettu Meet	fmeringdal/nettu-meet	Online music lesson video rooms
+Fitness, Dance & Martial Arts Studios	Gymie	lubusIN/gymie	Membership and billing for gyms and dance studios
+Fitness, Dance & Martial Arts Studios	LaraGym	johndavedecano/laragym	Hosted gym management, $39/mo
+Fitness, Dance & Martial Arts Studios	GYM One	mayerbalintdev/GYM-One	Turnkey gym software for independent clubs
+Fitness, Dance & Martial Arts Studios	wger	wger-project/wger	Workout plans app branded for personal trainers
+Fitness, Dance & Martial Arts Studios	Hajime	Maus3rSR/Hajime	Fencing and martial arts competition management
+Fitness, Dance & Martial Arts Studios	Gym Management System	MiloTnT/gym-management-system	Spring Boot gym system for Asian fitness chains
+Fitness, Dance & Martial Arts Studios	TaekwondoKix	angiewang/TaekwondoKix	Belt-test practice app for dojos
+Fitness, Dance & Martial Arts Studios	Cal.com	calcom/cal.com	Class booking for yoga and dance studios
+Sports Clubs & Leagues	SportyWeb	Lehrstuhl-BWL-EvIS/sportyweb	Multi-tenant sports club administration
+Sports Clubs & Leagues	League for Good	freeCodeCamp/league-for-good	Rec league scheduling for parks departments
+Sports Clubs & Leagues	Zuluru 3	Zuluru/Zuluru3	Hosted adult sports league management
+Sports Clubs & Leagues	brackets-manager.js	Drarig29/brackets-manager.js	Tournament bracket service for local clubs
+Sports Clubs & Leagues	Sports League Management	kaimg/Sports-League-Management-System	Youth league registration and fixtures
+Sports Clubs & Leagues	Banksia	nguyenpham/Banksia	Chess club tournament management
+Sports Clubs & Leagues	Sports Club Management	shreyansh225/Sports-Club-Management-System	Member and facility booking for sports clubs
+Photographers	PicPeak	PicPeak/picpeak	Client photo galleries for wedding photographers, $15/mo
+Photographers	PhotoPrism	photoprism/photoprism	Private photo archive hosting for studios
+Photographers	Immich	immich-app/immich	Managed photo backup for photography studios
+Photographers	Lychee	LycheeOrg/Lychee	Portfolio and client proofing site for photographers
+Photographers	Piwigo	Piwigo/Piwigo	Hosted gallery for school and sports photographers
+Photographers	PiGallery 2	bpatrik/pigallery2	Fast event gallery delivery for event photographers
+Photographers	Photoview	photoview/photoview	Self-hosted photo delivery for small studios
+Photographers	Pixproof	pixelgrade/pixproof	WordPress proofing plugin bundle for photographers
+Photographers	Nextcloud Proofing Gallery	soerennb/nextcloud-proofing_gallery	Branded proofing galleries on Nextcloud
+Wedding & Event Planners	Wedding Website	rampatra/wedding-website	Wedding website templates sold by planners
+Wedding & Event Planners	Wedding Tables Planner	juanignaciosl/wedding-tables-planner	Seating plan optimizer for wedding planners
+Wedding & Event Planners	PHP RSVP	thesquaregroot/php-rsvp	RSVP management service for event planners
+Wedding & Event Planners	Wedding RSVP Rails	jdleesmiller/wedding	Guest info and RSVP portal per wedding
+Wedding & Event Planners	Hi.Events	HiEventsDev/Hi.Events	Ticketing for planners running galas and fundraisers
+Wedding & Event Planners	Attendize	Attendize/Attendize	White-label event registration for planners
+Wedding & Event Planners	Bulma Wedding Planner Template	restylianos/bulma-wedding-planner-template	Planner agency website template
+Wedding & Event Planners	We Do	nonomu/Wedding-Planner	Wedding management platform for couples and planners
+Funeral Homes & Cemeteries	Sunrise CMS	cityssm/sunrise-cms	Cemetery plot and burial records for municipalities
+Funeral Homes & Cemeteries	Simple Cemetery Management	kennethgargan/Simple-Cemetery-Management-Software	Plot tracking for church cemeteries
+Funeral Homes & Cemeteries	Cemasys	mrzildjan/CMS-Python-Windows-Application	Desktop cemetery registry for small towns
+Funeral Homes & Cemeteries	Cemetery Management Django	JaypeeFern/CemeteryManagementSystemDjango	Online grave lookup for memorial parks
+Funeral Homes & Cemeteries	Obituary Scraper	comp-strat/scrape_obituaries	Obituary monitoring for funeral marketing
+Funeral Homes & Cemeteries	PiGallery 2	bpatrik/pigallery2	Memorial photo galleries for funeral homes
+Funeral Homes & Cemeteries	Jitsi Meet	jitsi/jitsi-meet	Funeral livestream rooms for remote mourners
+Laundromats & Dry Cleaners	Laundry Management	mohaiminur/laundry	Order tracking for laundromats
+Laundromats & Dry Cleaners	Laundry QR System	HashJProgramming/LMS-Laundry-Management-System-with-QRCode	QR-tagged garment tracking for dry cleaners
+Laundromats & Dry Cleaners	Laundry Order System	nature924/No299Laundry-order-management-system	Pickup and delivery ordering for laundry shops
+Laundromats & Dry Cleaners	Laundry Django	ujjawalsinghsde/Laundry-Management-System	Web ordering for campus laundry services
+Laundromats & Dry Cleaners	Laundry Management Web	abhishekbvs/Laundry-Management-System	Simple laundry billing app
+Laundromats & Dry Cleaners	Dry Cleaning Booking	666bears/DryCleaning	Dry-cleaner appointment and pickup system
+Laundromats & Dry Cleaners	Basic Laundry Service	avikganguly01/laundry-management-system	Wash-and-fold service management
+Tailors & Apparel	TailorShop Management	MusheAbdulHakim/TailorShop-Management-System	Measurements and orders for tailor shops
+Tailors & Apparel	LILY TMS	inzamul36/LILY-TMS	Simple tailor order book app
+Tailors & Apparel	Tailor Shop TMS	realmoieen/tms	Web tailor management for alteration shops
+Tailors & Apparel	Seamly2D	FashionFreedom/Seamly2D	Made-to-measure pattern drafting for tailors
+Tailors & Apparel	FreeSewing	freesewing/freesewing	Custom-fit sewing patterns sold by boutiques
+Tailors & Apparel	Print Shop CRM	ColeLundstrom/printshopcrm	Order management for embroiderers and alteration shops
+Print Shops & Screen Printers	Print Shop CRM	ColeLundstrom/printshopcrm	Shop management for screen printers and embroiderers
+Print Shops & Screen Printers	Printflow	SagarLonkar-18/Printflow	Print order intake replacing WhatsApp chaos
+Print Shops & Screen Printers	FDM Monster	fdm-monster/fdm-monster	3D print farm management for print bureaus
+Print Shops & Screen Printers	OctoPrint	OctoPrint/OctoPrint	Remote 3D printer control for print-on-demand shops
+Print Shops & Screen Printers	CUPS	OpenPrinting/cups	Managed print server for copy shops
+Print Shops & Screen Printers	Mainsail	mainsail-crew/mainsail	Klipper printer dashboards for print farms
+Print Shops & Screen Printers	Invoice Ninja	invoiceninja/invoiceninja	Job quoting and invoicing for print shops
+Retail Boutiques	Open Source POS	opensourcepos/opensourcepos	Boutique POS with inventory variants
+Retail Boutiques	NexoPOS	Blair2004/NexoPOS	Clothing store POS with layaway
+Retail Boutiques	RefRef	amicalhq/refref	Referral and loyalty program for boutiques
+Retail Boutiques	Store-POS	tngoman/Store-POS	Desktop till for gift shops
+Retail Boutiques	Pronto	SGrappelli/pronto	Booking, CRM and POS for concept stores
+Retail Boutiques	Shelf	Shelf-nu/shelf.nu	Asset tracking for rental boutiques and costume shops
+Retail Boutiques	InvenTree	inventree/InvenTree	Stock control for craft and maker shops
+Pawn & Secondhand Shops	Pawn Shop App	jacksonpf1/pawn-shop-app	Pawn ticket and jewelry record keeping
+Pawn & Secondhand Shops	Nolotiro	nolotiro/nolotiro.org	Local giveaway and reuse marketplace
+Pawn & Secondhand Shops	Consignment Shop	xenofonvlachogiannis/Consignment_Shop	Consignor payout tracking for resale shops
+Pawn & Secondhand Shops	Open Source POS	opensourcepos/opensourcepos	Secondhand store POS with item-level serials
+Pawn & Secondhand Shops	Snipe-IT	snipe/snipe-it	Serialized collateral inventory for pawnbrokers
+Pawn & Secondhand Shops	Apache Fineract	apache/fineract	Collateral loan ledger for pawn lenders
+Libraries	Koha	Koha-Community/Koha	Hosted ILS for small public and school libraries
+Libraries	Evergreen	evergreen-library-system/Evergreen	Consortium ILS hosting for library networks
+Libraries	VuFind	vufind-org/vufind	Discovery layer setup for academic libraries
+Libraries	SLiMS	slims/slims9_bulian	Library system for schools in Southeast Asia
+Libraries	RERO ILS	rero/rero-ils	Invenio-based ILS for regional libraries
+Libraries	Pinakes	fabiodalez-dev/Pinakes	Circulation and OPAC for small libraries
+Libraries	Calibre-Web	janeczku/calibre-web	Ebook lending portal for community libraries
+Libraries	Internet-in-a-Box	iiab/iiab	Offline library servers for rural schools
+Libraries	dp2 ILS	DigitalPlatform/dp2	Library management for Chinese-language libraries
+Libraries	Open Library	internetarchive/openlibrary	Catalog data and lending portal model for libraries
+Museums & Archives	CollectiveAccess Providence	collectiveaccess/providence	Collection management hosting for small museums
+Museums & Archives	Omeka S	omeka/omeka-s	Online exhibits for historical societies
+Museums & Archives	Archivematica	artefactual/archivematica	Digital preservation-as-a-service for archives
+Museums & Archives	AtoM	artefactual/atom	Archival description portal for municipal archives
+Museums & Archives	ArchivesSpace	archivesspace/archivesspace	Hosted archives management for colleges
+Museums & Archives	Islandora	Islandora/islandora	Digital repository for museums and libraries
+Museums & Archives	Mirador	ProjectMirador/mirador	IIIF image viewer for collection websites
+Museums & Archives	Papermerge	ciur/papermerge	Document archive digitization for town records
+Museums & Archives	Hyrax	samvera/hyrax	Institutional repository hosting for archives
+Museums & Archives	Dezoomify-rs	lovasoa/dezoomify-rs	Zoomable image tooling for museum digitization
+Religious Organizations	ChurchCRM	ChurchCRM/CRM	Hosted church membership and giving, $20/mo
+Religious Organizations	Rock RMS	SparkDevNetwork/Rock	Rock implementation and hosting for megachurches
+Religious Organizations	B1 Admin	ChurchApps/B1Admin	Church management bundle for small congregations
+Religious Organizations	FreeShow	ChurchApps/freeshow	Worship lyrics projection setup service
+Religious Organizations	Quelea	quelea-projection/Quelea	Song projection for small churches
+Religious Organizations	EcclesiaCRM	phili67/ecclesiacrm	French-language church CRM hosting
+Religious Organizations	Mosque Screen	Mosque-Screens/Mosque-Screen	Prayer-time display screens sold to mosques
+Religious Organizations	Mosque Prayer Display	MosqueOS/Mosque-Prayer-Display-Screen	Turnkey prayer display hardware for masjids
+Religious Organizations	SIMASJID	noplanalderson/simasjid	Mosque finance and management system
+Religious Organizations	Adhan JS	batoulapps/adhan-js	Prayer-time engine for Islamic center apps
+HOAs & Condominiums	Condo	open-condo-software/condo	Property management SaaS for condo associations
+HOAs & Condominiums	Open Condo Platform	open-condo-software/open-condo-platform	Resident app platform for HOA managers
+HOAs & Condominiums	Hausverwaltung	fgilde/hausverwaltung	HOA and rental admin for German property managers
+HOAs & Condominiums	phKondo	pHAlkaline/phkondo	Condominium accounting for building administrators
+HOAs & Condominiums	Rukunin	Squadron-team/Rukunin-App	Neighborhood association app for RT/RW communities
+HOAs & Condominiums	Loomio	loomio/loomio	Board and resident decision-making for HOAs
+HOAs & Condominiums	Decidim	decidim/decidim	Participatory voting for large housing associations
+Coworking & Makerspaces	Fab Manager	sleede/fab-manager	Fablab and makerspace booking and billing
+Coworking & Makerspaces	WARP Desk Booking	sebo-b/warp	Hot-desk reservation for coworking spaces
+Coworking & Makerspaces	Mensam	jumper149/mensam	Desk booking for flexible offices
+Coworking & Makerspaces	Arooo	doubleunion/arooo	Membership management for maker communities
+Coworking & Makerspaces	Makerspace Inventory	Dallas-Makerspace/Inventory	Tool inventory for makerspaces
+Coworking & Makerspaces	Membership System	southlondonmakerspace/membership-system	Access-control membership for maker spaces
+Coworking & Makerspaces	SpaceWorks	SpaceWorks-Labs/SpaceWorks	Self-hosted makerspace management resold to libraries
+Coworking & Makerspaces	Seatsurfing	seatsurfing/backend	Hosted desk and meeting room booking
+Cooperatives	Foodsoft	foodcoops/foodsoft	Hosted ordering for food co-ops
+Cooperatives	Open Food Network	openfoodfoundation/openfoodnetwork	Online farmers market and food hub platform
+Cooperatives	Loomio	loomio/loomio	Member governance and voting for co-ops
+Cooperatives	Cobudget	cobudget/cobudget	Collective budgeting for worker co-ops
+Cooperatives	Open Collective	opencollective/opencollective	Transparent finances for community groups
+Cooperatives	CiviCRM	civicrm/civicrm-core	Member management for cooperative federations
+Microfinance & Credit Unions	Apache Fineract	apache/fineract	Core banking hosting for microfinance institutions
+Microfinance & Credit Unions	Mifos Web App	openMF/web-app	Loan officer web app for MFIs
+Microfinance & Credit Unions	Mifos Mobile	openMF/mifos-mobile	Member mobile banking for SACCOs
+Microfinance & Credit Unions	Android Client	openMF/android-client	Field loan officer app for village banking
+Microfinance & Credit Unions	Payment Hub EE	openMF/ph-ee-connector-mojaloop-java	Mobile money integration for credit unions
+Municipal & Civic Services	FixMyStreet	mysociety/fixmystreet	Pothole and issue reporting portal for councils
+Municipal & Civic Services	Alaveteli	mysociety/alaveteli	Freedom-of-information request portal for NGOs
+Municipal & Civic Services	CKAN	ckan/ckan	Open data portal hosting for cities
+Municipal & Civic Services	Consul Democracy	consuldemocracy/consuldemocracy	Citizen participation portal for municipalities
+Municipal & Civic Services	Decidim	decidim/decidim	Participatory budgeting platform hosting for towns
+Municipal & Civic Services	adhocracy+	liqd/adhocracy-plus	Public consultation SaaS for local governments
+Municipal & Civic Services	Polis	compdemocracy/polis	Large-scale public opinion gathering for councils
+Municipal & Civic Services	Querido Diario	okfn-brasil/querido-diario	Official gazette monitoring for municipalities
+Municipal & Civic Services	TDM Calculator	hackforla/tdm-calculator	Developer traffic-mitigation calculator for city planners
+Municipal & Civic Services	Stanford PB	StanfordCDT/pb	Participatory budgeting voting for city districts
+Elections & Voting	VxSuite	votingworks/vxsuite	Certified ballot tabulation for counties
+Elections & Voting	Helios	benadida/helios-server	Verifiable online elections for unions and associations
+Elections & Voting	ElectionGuard Python	microsoft/electionguard-python	End-to-end verifiable vote counting for election vendors
+Elections & Voting	IVXV	valimised/ivxv	National-grade internet voting framework
+Elections & Voting	CHVote 1.0	republique-et-canton-de-geneve/chvote-1-0	Reference e-voting code for cantonal elections
+Elections & Voting	Open Active Voting	CitizensFoundation/open-active-voting	Secure participatory budgeting votes for cities
+Elections & Voting	Zeus	grnet/zeus	Verifiable elections for universities and boards
+Elections & Voting	Vocdoni Node	vocdoni/vocdoni-node	Anonymous voting for clubs and co-ops
+Elections & Voting	Election Geodata	nvkelso/election-geodata	Precinct maps for campaign consultants
+Courts & Legal Aid	docassemble	jhpyle/docassemble	Guided interview court forms for legal aid groups
+Courts & Legal Aid	Assembly Line	SuffolkLITLab/docassemble-AssemblyLine	Court form automation packages for courts
+Courts & Legal Aid	CourtListener	freelawproject/courtlistener	Case law search hosting for small law firms
+Courts & Legal Aid	Juriscraper	freelawproject/juriscraper	Court docket alerts for attorneys
+Courts & Legal Aid	EF-CMS	ustaxcourt/ef-cms	Electronic filing and case management for tribunals
+Courts & Legal Aid	Legal Aid Plugin	lawdroidAI/legal-aid-plugin	AI intake assistant for civil legal aid
+Courts & Legal Aid	Namesake	namesakefyi/namesake-convex	Name and gender-marker change guidance service
+Courts & Legal Aid	OpenSign	OpenSignLabs/OpenSign	Self-hosted e-signatures for law offices
+Courts & Legal Aid	LexNLP	LexPredict/lexpredict-lexnlp	Contract clause extraction for legal clinics
+Courts & Legal Aid	Tella	Horizontal-org/Tella-Android	Evidence documentation app for human rights lawyers
+NGOs & Humanitarian	KoboToolbox	kobotoolbox/kpi	Field survey hosting for humanitarian NGOs
+NGOs & Humanitarian	ODK Central	getodk/central	Managed ODK servers for field data collection
+NGOs & Humanitarian	Primero	primeroIMS/primero	Child protection case management for agencies
+NGOs & Humanitarian	CommCare HQ	dimagi/commcare-hq	Frontline worker case management apps
+NGOs & Humanitarian	DHIS2	dhis2/dhis2-core	Health program data system implementation services
+NGOs & Humanitarian	OpenFn Lightning	OpenFn/lightning	Data integration between NGO systems
+NGOs & Humanitarian	HOT Tasking Manager	hotosm/tasking-manager	Humanitarian mapping campaigns coordination
+NGOs & Humanitarian	HDX CKAN	OCHA-DAP/hdx-ckan	Humanitarian data portal for regional coalitions
+NGOs & Humanitarian	MapSwipe	mapswipe/mapswipe	Crowdsourced imagery review for relief NGOs
+NGOs & Humanitarian	OpenBoxes	openboxes/openboxes	Relief warehouse and supply tracking
+Disaster Response	Ushahidi Platform	ushahidi/platform	Crisis reporting maps for emergency agencies
+Disaster Response	Sahana Eden	sahana/eden	Emergency management system for civil protection
+Disaster Response	allReady	HTBox/allReady	Volunteer preparedness campaigns for Red Cross chapters
+Disaster Response	Person Finder	google/personfinder	Missing person registry for disaster agencies
+Disaster Response	AyudaPy	melizeche/ayudapy	Mutual aid request platform for flood relief
+Disaster Response	Crisis Mesh Messenger	FundacjaHospicjum/crisis-mesh-messenger	Offline mesh messaging for responders
+Disaster Response	fAIr	hotosm/fAIr	AI building mapping for damage assessment
+Disaster Response	Meshtastic Firmware	meshtastic/firmware	Off-grid radio kits for community emergency teams
+Disaster Response	Terremoto CDMX	CodeandoMexico/terremoto-cdmx	Rapid earthquake response coordination site
+Waste Management & Recycling	Haztrak	USEPA/haztrak	Hazardous waste manifest software for generators
+Waste Management & Recycling	EcoSnap	alyssaxuu/ecosnap	AI recycling sorter app for municipalities
+Waste Management & Recycling	Deep Waste App	sumn2u/deep-waste-app	Waste classification app for recyclers
+Waste Management & Recycling	WasteZero	vijayshikhare/WasteZero-Smart-Waste-Pickup-Recycling-Platform	Pickup scheduling for recycling haulers
+Waste Management & Recycling	Waste Classification YOLOv8	teamsmcorg/Waste-Classification-using-YOLOv8	Conveyor sorting vision for MRFs
+Waste Management & Recycling	WaRP	Cognitive-AI-Systems/WaRP	Recyclables detection dataset for sorting plants
+Waste Management & Recycling	Food Donate	kishor-23/food-waste-management-system	Food surplus donation app for restaurants
+Waste Management & Recycling	OpenLitterMap	OpenLitterMap/openlittermap-web	Litter mapping for city cleanup programs
+Waste Management & Recycling	VROOM	VROOM-Project/vroom	Collection route optimization for haulers
+Solar & Energy	evcc	evcc-io/evcc	Solar-surplus EV charging installs for electricians
+Solar & Energy	Emoncms	emoncms/emoncms	Energy monitoring dashboards for solar installers
+Solar & Energy	pvlib	pvlib/pvlib-python	PV yield modeling for solar sales proposals
+Solar & Energy	NREL SAM	NREL/SAM	Financial modeling for community solar developers
+Solar & Energy	OpenEMS	OpenEMS/openems	Battery and solar energy management for businesses
+Solar & Energy	SteVe	steve-community/steve	OCPP backend for EV charging operators
+Solar & Energy	EVerest	EVerest/everest-core	Charger firmware stack for EVSE manufacturers
+Solar & Energy	OpenDTU	tbnobody/OpenDTU	Microinverter monitoring add-on for installers
+Solar & Energy	PyPSA	PyPSA/PyPSA	Grid planning studies for utilities and co-ops
+Solar & Energy	OpenLEADR	OpenLEADR/openleadr-python	Demand response integration for utilities
+Water Utilities	WNTR	USEPA/WNTR	Water network resilience studies for small utilities
+Water Utilities	EPANET	OpenWaterAnalytics/EPANET	Hydraulic modeling services for water districts
+Water Utilities	epanet-js	epanet-js/epanet-js-toolkit	Browser water network modeling SaaS
+Water Utilities	SWMM	USEPA/Stormwater-Management-Model	Stormwater modeling for municipal engineers
+Water Utilities	PySWMM	pyswmm/pyswmm	Automated stormwater scenario runs for consultants
+Water Utilities	LeakDB	KIOS-Research/LeakDB	Leak detection benchmarking for utilities
+Water Utilities	WaterModels.jl	lanl-ansi/WaterModels.jl	Pump scheduling optimization for water utilities
+Water Utilities	QWAT	qwat/QWAT	QGIS water network asset management for municipalities
+Manufacturing (MES & ERP)	Carbon	crbnos/carbon	Hosted MES/ERP for job shops
+Manufacturing (MES & ERP)	qcadoo MES	qcadoo/mes	Production tracking for small factories
+Manufacturing (MES & ERP)	WebErpMes v2	SMEWebify/WebErpMesv2	ERP/MES for machining and sheet-metal shops
+Manufacturing (MES & ERP)	OpenMES	Mes-Open/OpenMes	MES implementation for mid-size plants
+Manufacturing (MES & ERP)	Industry4.0 MES	ricefishtech/industry4.0-mes	Chinese-market MES deployments
+Manufacturing (MES & ERP)	frePPLe	frePPLe/frepple	Production planning and scheduling for manufacturers
+Manufacturing (MES & ERP)	Node-RED	node-red/node-red	Shop-floor machine data integration services
+Manufacturing (MES & ERP)	OpenRemote	openremote/openremote	Factory IoT dashboards resold to integrators
+Manufacturing (MES & ERP)	OCA Manufacture	OCA/manufacture	Odoo manufacturing add-ons implementation
+Maintenance & Asset Management (CMMS)	Atlas CMMS	Grashjs/cmms	Hosted maintenance work orders for facilities
+Maintenance & Asset Management (CMMS)	Maintenance Laravel	liberusoftware/maintenance-laravel	CMMS for small plants
+Maintenance & Asset Management (CMMS)	Snipe-IT	snipe/snipe-it	Equipment asset tracking for schools and clinics
+Maintenance & Asset Management (CMMS)	Shelf	Shelf-nu/shelf.nu	QR asset tracking for rental and event companies
+Maintenance & Asset Management (CMMS)	OCA Maintenance	OCA/maintenance	Preventive maintenance on Odoo
+Maintenance & Asset Management (CMMS)	CMMS Rails	jingz/CMMS	Maintenance scheduling for building managers
+Maintenance & Asset Management (CMMS)	GLPI	glpi-project/glpi	Asset and service desk for hospitals and municipalities
+Maintenance & Asset Management (CMMS)	CMMS Project	remonalbear/CMMS	Maintenance request system for property managers
+Quality Control & Compliance	OCA Management System	OCA/management-system	ISO 9001 QMS modules on Odoo
+Quality Control & Compliance	Carbon QMS	crbnos/carbon	Nonconformance and inspection tracking for manufacturers
+Quality Control & Compliance	OpenSign	OpenSignLabs/OpenSign	Signed SOP acknowledgments for audits
+Quality Control & Compliance	Papermerge	ciur/papermerge	Controlled document archive for QA teams
+Quality Control & Compliance	Screw Detection	eyildiz-ugoe/screw_detection	Vision inspection for assembly lines
+Quality Control & Compliance	Anomalib	openvinotoolkit/anomalib	Visual defect detection for factory QC
+Quality Control & Compliance	eLabFTW	elabftw/elabftw	QC lab notebook for food and cosmetics makers
+Laboratories (LIMS)	SENAITE	senaite/senaite.core	Hosted LIMS for environmental and food labs
+Laboratories (LIMS)	eLabFTW	elabftw/elabftw	Managed electronic lab notebook for research labs
+Laboratories (LIMS)	MISO LIMS	miso-lims/miso-lims	LIMS for sequencing core facilities
+Laboratories (LIMS)	Bika LIMS	bikalims/bika.lims	Lab management for clinical and water labs
+Laboratories (LIMS)	SciNote	scinote-eln/scinote-web	ELN for biotech startups
+Laboratories (LIMS)	Chemotion ELN	ComPlat/chemotion_ELN	Chemistry lab notebook hosting
+Laboratories (LIMS)	LaminDB	laminlabs/lamindb	Biological data management for labs
+Laboratories (LIMS)	OpenELIS Global	DIGI-UW/OpenELIS-Global-2	Public health lab information system
+Research & Surveys	OSF	CenterForOpenScience/osf.io	Research project hosting for institutes
+Research & Surveys	Dataverse	IQSS/dataverse	Research data repository hosting
+Research & Surveys	LimeSurvey	LimeSurvey/LimeSurvey	Hosted surveys for market research agencies
+Research & Surveys	OpenClinica	OpenClinica/OpenClinica	Clinical trial data capture for CROs
+Research & Surveys	Zotero	zotero/zotero	Reference management training for research teams
+Research & Surveys	jamovi	jamovi/jamovi	Statistics training for social researchers
+Real Estate Agents	Property Web Builder	etewiah/property_web_builder	Agency listing websites, $49/mo
+Real Estate Agents	RealEstate CRM	prolinkinfo/RealEstateCRM	Lead CRM for real estate agents
+Real Estate Agents	EspoCRM Real Estate	espocrm/ext-real-estate	Property matching CRM for brokerages
+Real Estate Agents	InsulaCRM	InsulaCRM/InsulaCRM	Real estate investor deal pipeline
+Real Estate Agents	Agency Management	naumanch969/crm	Real estate agency management system
+Real Estate Agents	OpenSign	OpenSignLabs/OpenSign	E-signatures for offers and listings
+Property Management & Landlords	MicroRealEstate	microrealestate/microrealestate	Hosted landlord rent management, $10/unit
+Property Management & Landlords	Movinin	aelassas/movinin	Rental property listing and booking platform
+Property Management & Landlords	OpenKos	senatroxx/OpenKos	Boarding house management in Indonesia
+Property Management & Landlords	Property Plus	SonamRinzinGurung/Real-Estate-Rental-and-Tenant-Management-System	Tenant management for small landlords
+Property Management & Landlords	Condo	open-condo-software/condo	Property management SaaS for managing agents
+Hotels & Vacation Rentals	QloApps	Qloapps/QloApps	Booking engine and PMS for independent hotels
+Hotels & Vacation Rentals	Kamra PMS	Kamra-PMS/kamra-pms	Short-term rental PMS for small operators
+Hotels & Vacation Rentals	Odoo Hotel Management	JayVora-SerpentCS/OdooHotelManagementSystem	Hotel ops on Odoo for guesthouses
+Hotels & Vacation Rentals	HotinGo	Just-Moh-it/HotinGo	Desktop front desk for small motels
+Hotels & Vacation Rentals	Channel Manager	mavarazy/channel-manager	Vacation rental channel sync service
+Hotels & Vacation Rentals	Hotel Management SpringBoot	jsanhuo/HotelManagementSystem	Hotel management for budget chains
+Hotels & Vacation Rentals	Hotel Management System	chironyf/hotel-management-system	Guesthouse booking and reporting
+Tourism & Tour Operators	Booking Core	BlondelSeumo/Ultimate-Booking-System	Tour and activity booking site for operators
+Tourism & Tour Operators	Yatra	mantrabrain/yatra	WordPress tour booking for travel agencies
+Tourism & Tour Operators	Tour Operator Booking API	solygambas/node-tour-operator-booking-app	Booking backend for small tour companies
+Tourism & Tour Operators	OpenTripPlanner	opentripplanner/OpenTripPlanner	Trip planning for tourist boards
+Tourism & Tour Operators	pretix	pretix/pretix	Timed tickets for tours and attractions
+Tourism & Tour Operators	alf.io	alfio-event/alf.io	Ticketing for walking tours and festivals
+Tourism & Tour Operators	TravelGrid	Adarsh-Chaubey03/TravelGrid	Travel planning portal for local agencies
+Marinas & Boating	Signal K Server	SignalK/signalk-server	Boat data monitoring for marinas and charters
+Marinas & Boating	OpenCPN	OpenCPN/OpenCPN	Chartplotter setup for charter fleets
+Marinas & Boating	Traccar	traccar/traccar	Boat rental fleet tracking
+Marinas & Boating	Easy!Appointments	alextselegidis/easyappointments	Slip and boat rental booking
+Marinas & Boating	BookCars	aelassas/bookcars	Adapted boat and jet-ski rental platform
+Marinas & Boating	Anglers' Log	cohenadair/anglers-log	Charter trip catch logs
+Parking Operators	OpenALPR	openalpr/openalpr	License-plate recognition for parking lots
+Parking Operators	Frigate	blakeblackshear/frigate	Camera analytics for parking enforcement
+Parking Operators	Automatic Parking Management	ankit1khare/Automatic-Parking-Management	Empty-space detection for lot operators
+Parking Operators	Parking Lot Management	zhujainxipan/Parking-lot-management-system	Entry/exit management for garages
+Parking Operators	SpringBoot Parking	maguangzu/Parking-Management-System	Parking billing system for operators
+Parking Operators	Smart Parking System	deepakjayaprakash/Smart-Parking-System	Online parking reservation for venues
+Security Guard Companies	Frigate	blakeblackshear/frigate	AI NVR monitoring for security firms
+Security Guard Companies	ZoneMinder	ZoneMinder/zoneminder	Remote CCTV monitoring service
+Security Guard Companies	Shinobi	ShinobiCCTV/Shinobi	Hosted video surveillance for guard companies
+Security Guard Companies	Traccar	traccar/traccar	Guard patrol GPS tracking
+Security Guard Companies	Safe Guard Pro	sananie13-eng/safe-guard-pro	Patrol checkpoint validation app
+Security Guard Companies	Kimai	kimai/kimai	Guard shift timesheets and billing
+Security Guard Companies	QRGuardian	TejasPBhagat/QRGuardian-Campus-Safety	QR checkpoint patrols for campuses
+Staffing & Recruiting	OpenCATS	opencats/OpenCATS	ATS hosting for staffing agencies
+Staffing & Recruiting	Nueno	nueno-co/nueno	Applicant tracking for small recruiters
+Staffing & Recruiting	YAWIK	cross-solution/YAWIK	Job board and ATS for regional employers
+Staffing & Recruiting	Frappe HRMS	frappe/hrms	HR and payroll for temp agencies
+Staffing & Recruiting	OrangeHRM	orangehrm/orangehrm	HR hosting for blue-collar employers
+Staffing & Recruiting	Ever Gauzy	ever-co/ever-gauzy	Contractor time and invoicing for agencies
+Staffing & Recruiting	TimeOff Management	timeoff-management/timeoff-management-application	Leave tracking for shift workers
+Salons & Barbershops	Pronto	SGrappelli/pronto	Booking, CRM and POS for salons
+Salons & Barbershops	OpenSalon	clawnify/OpenSalon	Fresha alternative for independent salons
+Salons & Barbershops	Easy!Appointments	alextselegidis/easyappointments	Barbershop booking widget
+Salons & Barbershops	Cal.com	calcom/cal.com	Stylist booking pages
+Salons & Barbershops	Salon CRM Laravel	sachintha-lk/CRM-laravel	Booking plus CRM for beauty salons
+Salons & Barbershops	Appointment Booking System	vfixtechnology/appointment-booking-system	Booking site for spas and astrologers
+Salons & Barbershops	Payload Reserve	elghaied/payload-reserve	Reservation plugin for salon websites
+Event Venues & Ticketing	Attendize	Attendize/Attendize	Ticketing for small venues
+Event Venues & Ticketing	Hi.Events	HiEventsDev/Hi.Events	Venue ticket sales without platform fees
+Event Venues & Ticketing	pretix	pretix/pretix	Festival and concert ticket shops
+Event Venues & Ticketing	Eventyay	fossasia/eventyay	Conference ticketing and check-in
+Event Venues & Ticketing	alf.io	alfio-event/alf.io	Ticket reservation for theaters
+Hospitals & Rural Clinics	OpenMRS	openmrs/openmrs-core	EMR deployment for rural clinics
+Hospitals & Rural Clinics	HospitalRun	HospitalRun/hospitalrun-frontend	Offline-first hospital software for developing regions
+Hospitals & Rural Clinics	HMIS	hmislk/hmis	Hospital information system for private hospitals
+Hospitals & Rural Clinics	Bahmni	Bahmni/openmrs-module-bahmniapps	Hospital system implementation for NGOs
+Hospitals & Rural Clinics	HealthPlus	heshanera/HealthPlus	Healthcare facility management for small clinics
+Hospitals & Rural Clinics	eDoc Appointment	HashenUdara/edoc-doctor-appointment-system	Doctor appointment booking for clinics
+Public Transit & Mobility	GTFS Validator	MobilityData/gtfs-validator	GTFS feed QA for small transit agencies
+Public Transit & Mobility	GBFS	MobilityData/gbfs	Bikeshare feed compliance for operators
+Public Transit & Mobility	OpenTripPlanner	opentripplanner/OpenTripPlanner	Trip planner hosting for regional transit
+Public Transit & Mobility	OneBusAway Android	OneBusAway/onebusaway-android	Real-time bus app for transit agencies
+Public Transit & Mobility	Traccar	traccar/traccar	Shuttle and school bus tracking
+Radio Stations & Local Media	AzuraCast	AzuraCast/AzuraCast	Hosted internet radio for community stations
+Radio Stations & Local Media	LibreTime	libretime/libretime	Radio automation for campus stations
+Radio Stations & Local Media	Rivendell	ElvishArtisan/rivendell	Broadcast automation for FM stations
+Radio Stations & Local Media	Superdesk	superdesk/superdesk	Newsroom system for local newspapers
+Radio Stations & Local Media	Owncast	owncast/owncast	Self-hosted live streaming for churches and councils
+Warehousing & 3PL	OpenWMS	openwms/org.openwms	Warehouse management for small 3PLs
+Warehousing & 3PL	OpenBoxes	openboxes/openboxes	Warehouse inventory for distributors
+Warehousing & 3PL	InvenTree	inventree/InvenTree	Parts warehouse for electronics distributors
+Warehousing & 3PL	Karrio	karrioapi/karrio	Shipping label platform for 3PLs
+Warehousing & 3PL	Fleetbase	fleetbase/fleetbase	Last-mile delivery for local distributors

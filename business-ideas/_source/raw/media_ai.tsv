@@ -1,0 +1,560 @@
+Video Hosting	PeerTube	Chocobozzz/PeerTube	Managed PeerTube instances for schools, churches, and creators
+Video Hosting	MediaCMS	mediacms-io/mediacms	White-label video portal for enterprises and e-learning
+Video Hosting	ClipBucket	MacWarrior/clipbucket-v5	Niche video community SaaS with ads and memberships
+Video Hosting	Invidious	iv-org/invidious	Privacy-focused YouTube frontend hosting with subscription tiers
+Video Hosting	Piped	TeamPiped/Piped	Hosted ad-free YouTube proxy with premium tier
+Video Hosting	Streama	streamaserver/streama	Private Netflix-style portal for indie film libraries
+Video Hosting	Cap	CapSoftware/Cap	Loom-like async video messaging SaaS for teams
+Live Streaming	Owncast	owncast/owncast	Managed single-channel livestream hosting for creators
+Live Streaming	OvenMediaEngine	OvenMediaLabs/OvenMediaEngine	Sub-second latency streaming CDN for auctions and betting
+Live Streaming	SRS	ossrs/srs	Live streaming infrastructure-as-a-service for apps
+Live Streaming	MediaMTX	bluenviron/mediamtx	Managed RTSP/camera relay for security integrators
+Live Streaming	Restreamer	datarhei/restreamer	Restream.io-style multistreaming service for churches
+Live Streaming	nginx-rtmp-module	arut/nginx-rtmp-module	Turnkey RTMP ingest servers for event producers
+Live Streaming	Ant Media Server	ant-media/Ant-Media-Server	WebRTC streaming platform for telehealth and education
+Live Streaming	Livepeer go-livepeer	livepeer/go-livepeer	Decentralized transcoding reseller for video platforms
+Live Streaming	MistServer	DDVTECH/mistserver	OEM streaming engine licensing for broadcasters
+Video Conferencing	Jitsi Meet	jitsi/jitsi-meet	White-label branded video meetings for telehealth
+Video Conferencing	BigBlueButton	bigbluebutton/bigbluebutton	Hosted virtual classroom for schools and LMS vendors
+Video Conferencing	LiveKit	livekit/livekit	Managed WebRTC SFU for app developers
+Video Conferencing	Galene	jech/galene	Lightweight hosted meeting rooms for universities
+Video Conferencing	mediasoup	versatica/mediasoup	Custom video conferencing builds for agencies
+Video Conferencing	OpenVidu	OpenVidu/openvidu	Embedded video calling SDK hosting for SaaS apps
+Video Conferencing	Janus Gateway	meetecho/janus-gateway	WebRTC gateway consulting and hosting
+Video Conferencing	MiroTalk P2P	miroslavpejic85/mirotalk	Branded instant video calls sold per license
+Media Servers	Jellyfin	jellyfin/jellyfin	Managed Jellyfin hosting for families and clubs
+Media Servers	Kodi	xbmc/xbmc	Custom branded Kodi builds for hotels
+Media Servers	Gerbera	gerbera/gerbera	UPnP media appliance for retail displays
+Media Servers	Stremio	Stremio/stremio-web	Branded streaming client for content licensors
+Media Servers	Sonarr	Sonarr/Sonarr	Seedbox bundles with automated media management
+Media Servers	Radarr	Radarr/Radarr	Managed media automation stacks for seedbox providers
+Media Servers	Kyoo	zoriya/Kyoo	Hosted personal media library service
+Media Servers	Audiobookshelf	advplyr/audiobookshelf	Audiobook library hosting for libraries and publishers
+Music Streaming	Navidrome	navidrome/navidrome	Hosted personal music cloud subscription
+Music Streaming	Koel	koel/koel	Private music streaming for small labels
+Music Streaming	Ampache	ampache/ampache	Managed music library hosting for DJs
+Music Streaming	Airsonic Advanced	airsonic-advanced/airsonic-advanced	Subsonic-compatible music hosting service
+Music Streaming	Gonic	sentriz/gonic	Low-cost music streaming VPS plans
+Music Streaming	Jellyfin Web	jellyfin/jellyfin-web	Branded music/video web client for resellers
+Music Streaming	Mopidy	mopidy/mopidy	In-store music systems for retail chains
+Music Streaming	Music Assistant	music-assistant/server	Multi-room audio setups for smart home installers
+Internet Radio	AzuraCast	AzuraCast/AzuraCast	Managed web radio station hosting
+Internet Radio	LibreTime	libretime/libretime	Radio automation SaaS for community stations
+Internet Radio	Icecast	xiph/Icecast-Server	Shoutcast-style stream hosting plans
+Internet Radio	Liquidsoap	savonet/liquidsoap	Custom radio automation for broadcasters
+Internet Radio	Rivendell	ElvishArtisan/rivendell	Broadcast automation installation and support
+Internet Radio	Mixxx	mixxxdj/mixxx	Branded DJ software bundles with hardware
+Podcast Hosting	Castopod	ad-aures/castopod	Podcast hosting with ad insertion for networks
+Podcast Hosting	Podgrab	akhilrex/podgrab	Podcast archival service for researchers
+Podcast Hosting	Podfetch	SamTV12345/PodFetch	Hosted podcast sync for enterprises
+Podcast Hosting	AntennaPod	AntennaPod/AntennaPod	White-label podcast player apps for networks
+Podcast Hosting	gPodder	gpodder/gpodder	Podcast sync service subscriptions
+Podcast Hosting	Podverse	podverse/podverse-web	Podcast app with Value4Value monetization
+Podcast Hosting	Pinepods	madeofpendletonwool/PinePods	Managed podcast management for households
+Podcast Hosting	Audiowaveform	bbc/audiowaveform	Waveform generation API for podcast platforms
+Image Hosting	Immich	immich-app/immich	Google Photos alternative with paid storage tiers
+Image Hosting	PhotoPrism	photoprism/photoprism	Managed AI photo library for photographers
+Image Hosting	Lychee	LycheeOrg/Lychee	Photographer portfolio and client galleries
+Image Hosting	Chevereto	chevereto/chevereto	Image hosting site with ads and premium plans
+Image Hosting	Pixelfed	pixelfed/pixelfed	Hosted Instagram-alternative communities
+Image Hosting	Piwigo	Piwigo/Piwigo	Photo archive hosting for museums and clubs
+Image Hosting	LibrePhotos	LibrePhotos/librephotos	Private family photo cloud subscriptions
+Image Hosting	imgproxy	imgproxy/imgproxy	Image optimization CDN as a service
+Image Hosting	Thumbor	thumbor/thumbor	On-the-fly image resizing API for ecommerce
+Image Hosting	PiGallery2	bpatrik/pigallery2	Simple client photo delivery for event photographers
+Pastebins & File Drop	PrivateBin	PrivateBin/PrivateBin	Encrypted paste service for security teams
+Pastebins & File Drop	Zipline	diced/zipline	ShareX upload host with branded domains
+Pastebins & File Drop	PsiTransfer	psi-4ward/psitransfer	WeTransfer-style branded file transfer
+Pastebins & File Drop	Send	timvisee/send	Encrypted file transfer with premium limits
+Pastebins & File Drop	Gokapi	Forceu/Gokapi	Expiring file shares for law firms
+Pastebins & File Drop	Lufi	ldidry/lufi	E2E encrypted file drop for healthcare
+Pastebins & File Drop	MicroBin	szabodanika/microbin	Paste and URL shortener for teams
+Pastebins & File Drop	Chibisafe	chibisafe/chibisafe	Paid file upload hosting service
+Pastebins & File Drop	Opengist	thomiceli/opengist	Self-hosted Gist service for companies
+AI Chat Interfaces	Open WebUI	open-webui/open-webui	Branded ChatGPT for enterprises with SSO
+AI Chat Interfaces	LibreChat	LibreChat-AI/LibreChat	Multi-model chat SaaS with usage billing
+AI Chat Interfaces	LobeChat	lobehub/lobehub	Consumer AI chat app with subscriptions
+AI Chat Interfaces	NextChat	ChatGPTNextWeb/NextChat	Resell API access via branded chat UI
+AI Chat Interfaces	Chatbot UI	mckaywrigley/chatbot-ui	White-label AI chat for agencies' clients
+AI Chat Interfaces	Hugging Face Chat UI	huggingface/chat-ui	Hosted open-model chat for privacy-conscious firms
+AI Chat Interfaces	Big-AGI	enricoros/big-AGI	Power-user AI workspace subscriptions
+AI Chat Interfaces	Jan	janhq/jan	Offline AI desktop app for regulated industries
+AI Chat Interfaces	Chatbox	chatboxai/chatbox	Desktop AI client with pro features
+AI Chat Interfaces	Cherry Studio	CherryHQ/cherry-studio	Branded desktop AI client for teams
+AI Chat Interfaces	Text Generation WebUI	oobabooga/textgen	Hosted GPU chat instances for hobbyists
+LLM Serving & Inference	vLLM	vllm-project/vllm	Managed open-model inference API
+LLM Serving & Inference	Ollama	ollama/ollama	Private on-prem LLM appliances for SMBs
+LLM Serving & Inference	llama.cpp	ggml-org/llama.cpp	Edge inference consulting for device makers
+LLM Serving & Inference	SGLang	sgl-project/sglang	High-throughput inference cloud reselling tokens
+LLM Serving & Inference	LocalAI	mudler/LocalAI	OpenAI-compatible private API for compliance clients
+LLM Serving & Inference	LiteLLM	BerriAI/litellm	LLM gateway with billing and rate limits
+LLM Serving & Inference	BentoML	bentoml/BentoML	Model deployment platform for ML teams
+LLM Serving & Inference	Xinference	xorbitsai/inference	Enterprise model serving with support contracts
+LLM Serving & Inference	TensorRT-LLM	NVIDIA/TensorRT-LLM	GPU inference optimization consulting
+LLM Serving & Inference	Ray	ray-project/ray	Managed distributed compute clusters
+LLM Gateways & Observability	Langfuse	langfuse/langfuse	LLM observability SaaS for app teams
+LLM Gateways & Observability	Helicone	Helicone/helicone	LLM cost monitoring for startups
+LLM Gateways & Observability	Phoenix	Arize-ai/phoenix	LLM evaluation and tracing service
+LLM Gateways & Observability	Opik	comet-ml/opik	Hosted LLM eval dashboards for agencies
+LLM Gateways & Observability	Promptfoo	promptfoo/promptfoo	LLM red-teaming audits as a service
+LLM Gateways & Observability	Portkey Gateway	Portkey-AI/gateway	Multi-provider AI gateway with failover
+LLM Gateways & Observability	OpenLIT	openlit/openlit	OpenTelemetry AI monitoring for enterprises
+RAG & Knowledge Bots	Dify	langgenius/dify	LLM app builder SaaS for SMB chatbots
+RAG & Knowledge Bots	AnythingLLM	Mintplex-Labs/anything-llm	Private document chat for law firms
+RAG & Knowledge Bots	RAGFlow	infiniflow/ragflow	Enterprise document Q&A deployments
+RAG & Knowledge Bots	Quivr	The-Vibe-Company/quivr	Second-brain AI for consultants
+RAG & Knowledge Bots	PrivateGPT	zylon-ai/private-gpt	On-prem private document AI for government
+RAG & Knowledge Bots	Onyx	onyx-dot-app/onyx	Enterprise workplace search with connectors
+RAG & Knowledge Bots	Kotaemon	Cinnamon/kotaemon	Branded document QA for research firms
+RAG & Knowledge Bots	FastGPT	labring/FastGPT	Customer service knowledge bots for ecommerce
+RAG & Knowledge Bots	Khoj	khoj-ai/khoj	Personal AI assistant subscriptions
+RAG & Knowledge Bots	Haystack	deepset-ai/haystack	Custom search and RAG builds for enterprises
+RAG & Knowledge Bots	LlamaIndex	run-llama/llama_index	RAG consulting and data connectors
+AI Agent Frameworks	LangChain	langchain-ai/langchain	Agent development agency services
+AI Agent Frameworks	LangGraph	langchain-ai/langgraph	Managed stateful agent hosting
+AI Agent Frameworks	AutoGen	microsoft/autogen	Multi-agent automation for back offices
+AI Agent Frameworks	CrewAI	crewAIInc/crewAI	Packaged AI crews for marketing tasks
+AI Agent Frameworks	AutoGPT	Significant-Gravitas/AutoGPT	Hosted autonomous agent marketplace
+AI Agent Frameworks	MetaGPT	FoundationAgents/MetaGPT	AI software team service for prototypes
+AI Agent Frameworks	OpenHands	OpenHands/OpenHands	Hosted AI coding agent for dev teams
+AI Agent Frameworks	Agno	agno-agi/agno	Agent-as-a-service for vertical niches
+AI Agent Frameworks	Letta	letta-ai/letta	Memory-backed AI companions platform
+AI Agent Frameworks	Browser Use	browser-use/browser-use	Browser automation agents for data entry
+AI Agent Frameworks	Mastra	mastra-ai/mastra	TypeScript agent hosting for SaaS builders
+AI Agent Frameworks	Pydantic AI	pydantic/pydantic-ai	Typed agent builds for fintech clients
+AI Agent Frameworks	Langflow	langflow-ai/langflow	Visual AI workflow hosting for agencies
+AI Image Generation	Stable Diffusion WebUI	AUTOMATIC1111/stable-diffusion-webui	Hosted GPU image generation subscriptions
+AI Image Generation	ComfyUI	Comfy-Org/ComfyUI	Workflow-based image generation API service
+AI Image Generation	InvokeAI	invoke-ai/InvokeAI	Creative studio AI image tool for agencies
+AI Image Generation	Fooocus	lllyasviel/Fooocus	Simple consumer AI art app
+AI Image Generation	SD.Next	vladmandic/sdnext	Multi-backend image gen hosting
+AI Image Generation	Diffusers	huggingface/diffusers	Custom fine-tuned image models for brands
+AI Image Generation	Kohya SS	bmaltais/kohya_ss	LoRA training service for product photos
+AI Image Generation	Stable Diffusion WebUI Forge	lllyasviel/stable-diffusion-webui-forge	Low-VRAM image gen cloud plans
+AI Image Generation	Krita AI Diffusion	Acly/krita-ai-diffusion	AI painting plugin bundles for illustrators
+AI Image Generation	SwarmUI	mcmonkeyprojects/SwarmUI	Multi-GPU image generation farm
+AI Image Generation	FaceFusion	facefusion/facefusion	Licensed face swap for film production
+Speech-to-Text	Whisper	openai/whisper	Transcription API for media companies
+Speech-to-Text	faster-whisper	SYSTRAN/faster-whisper	Low-cost bulk transcription service
+Speech-to-Text	whisper.cpp	ggml-org/whisper.cpp	On-device transcription SDK for apps
+Speech-to-Text	WhisperX	m-bain/whisperX	Diarized meeting transcripts for legal
+Speech-to-Text	Vosk	alphacep/vosk-api	Offline speech recognition for call centers
+Speech-to-Text	NeMo Speech	NVIDIA-NeMo/Speech	Custom ASR models for domain jargon
+Speech-to-Text	Scriberr	rishikanthc/Scriberr	Private transcription app for journalists
+Speech-to-Text	Whishper	pluja/whishper	Subtitle generation service for creators
+Speech-to-Text	SpeechBrain	speechbrain/speechbrain	Speech analytics consulting
+Speech-to-Text	Kaldi	kaldi-asr/kaldi	Low-resource language ASR services
+Text-to-Speech	Coqui TTS	coqui-ai/TTS	Voiceover generation for e-learning
+Text-to-Speech	Piper	OHF-Voice/piper1-gpl	Offline TTS for kiosks and IVR
+Text-to-Speech	Bark	suno-ai/bark	Expressive audio generation API
+Text-to-Speech	Tortoise TTS	neonbjb/tortoise-tts	Audiobook narration service
+Text-to-Speech	GPT-SoVITS	RVC-Boss/GPT-SoVITS	Voice cloning studio for creators
+Text-to-Speech	Kokoro	hexgrad/kokoro	Cheap high-quality TTS API
+Text-to-Speech	OpenVoice	myshell-ai/OpenVoice	Multilingual voice cloning for dubbing
+Text-to-Speech	StyleTTS2	yl4579/StyleTTS2	Premium voice packs for games
+Text-to-Speech	F5-TTS	SWivid/F5-TTS	Zero-shot voice cloning SaaS
+Text-to-Speech	Chatterbox	resemble-ai/chatterbox	Branded voice agents for businesses
+Text-to-Speech	RVC WebUI	RVC-Project/Retrieval-based-Voice-Conversion-WebUI	Voice conversion for music producers
+Machine Translation	LibreTranslate	LibreTranslate/LibreTranslate	Translation API with paid keys
+Machine Translation	Argos Translate	argosopentech/argos-translate	Offline translation for field teams
+Machine Translation	OpenNMT-py	OpenNMT/OpenNMT-py	Custom domain translation models
+Machine Translation	Weblate	WeblateOrg/weblate	Hosted localization platform for software
+Machine Translation	Tolgee	tolgee/tolgee-platform	Localization SaaS for web apps
+Machine Translation	Pontoon	mozilla/pontoon	Community translation portals
+Machine Translation	Traduora	ever-co/ever-traduora	Translation management for agencies
+Machine Translation	Bergamot Translator	browsermt/bergamot-translator	Private in-browser translation SDK
+Machine Translation	CTranslate2	OpenNMT/CTranslate2	Fast inference for translation services
+OCR & Document AI	Tesseract	tesseract-ocr/tesseract	OCR API for document digitization
+OCR & Document AI	PaddleOCR	PaddlePaddle/PaddleOCR	Invoice and receipt extraction service
+OCR & Document AI	docTR	mindee/doctr	ID document parsing for KYC
+OCR & Document AI	OCRmyPDF	ocrmypdf/OCRmyPDF	Searchable PDF conversion for archives
+OCR & Document AI	Paperless-ngx	paperless-ngx/paperless-ngx	Managed document management for small offices
+OCR & Document AI	Docling	docling-project/docling	Document-to-LLM ingestion API
+OCR & Document AI	Marker	datalab-to/marker	PDF to Markdown conversion service
+OCR & Document AI	Unstructured	Unstructured-IO/unstructured	ETL for unstructured documents
+OCR & Document AI	EasyOCR	JaidedAI/EasyOCR	Multilingual OCR for logistics
+OCR & Document AI	Stirling-PDF	Stirling-Tools/Stirling-PDF	Branded PDF toolkit for enterprises
+OCR & Document AI	Surya	datalab-to/surya	Layout-aware OCR for publishers
+OCR & Document AI	MinerU	opendatalab/MinerU	Scientific paper extraction service
+Vector Databases	Qdrant	qdrant/qdrant	Managed vector search hosting
+Vector Databases	Milvus	milvus-io/milvus	Enterprise vector DB support contracts
+Vector Databases	Weaviate	weaviate/weaviate	Semantic search SaaS for ecommerce
+Vector Databases	Chroma	chroma-core/chroma	Embedded vector store hosting for startups
+Vector Databases	pgvector	pgvector/pgvector	Managed Postgres with vector search
+Vector Databases	LanceDB	lancedb/lancedb	Multimodal search for media archives
+Vector Databases	Vespa	vespa-engine/vespa	Large-scale recommendation engine hosting
+Vector Databases	Marqo	marqo-ai/marqo	Ecommerce visual search service
+Vector Databases	FAISS	facebookresearch/faiss	Similarity search consulting
+Vector Databases	Vald	vdaas/vald	Distributed ANN search for ad-tech
+Search Engines	Meilisearch	meilisearch/meilisearch	Hosted instant search for websites
+Search Engines	Typesense	typesense/typesense	Algolia alternative search SaaS
+Search Engines	OpenSearch	opensearch-project/OpenSearch	Managed log and search clusters
+Search Engines	Manticore Search	manticoresoftware/manticoresearch	Full-text search hosting for forums
+Search Engines	Zinc	zincsearch/zincsearch	Lightweight log search for SMBs
+Search Engines	Quickwit	quickwit-oss/quickwit	Cheap log search on object storage
+Search Engines	SearXNG	searxng/searxng	Private metasearch engine for companies
+Search Engines	Sonic	valeriansaliou/sonic	Search backend for chat apps
+Search Engines	ParadeDB	paradedb/paradedb	Postgres search hosting
+MLOps	MLflow	mlflow/mlflow	Managed experiment tracking for data teams
+MLOps	Kubeflow	kubeflow/kubeflow	ML platform deployments for enterprises
+MLOps	ClearML	clearml/clearml	Hosted ML ops for research labs
+MLOps	ZenML	zenml-io/zenml	MLOps pipeline consulting
+MLOps	Metaflow	Netflix/metaflow	Managed data science workflows
+MLOps	DVC	treeverse/dvc	Data versioning services for ML teams
+MLOps	Feast	feast-dev/feast	Feature store hosting for fintech
+MLOps	KServe	kserve/kserve	Kubernetes model serving setup service
+MLOps	Seldon Core	SeldonIO/seldon-core	Model deployment for regulated industries
+MLOps	Evidently	evidentlyai/evidently	Model monitoring SaaS
+MLOps	Aim	aimhubio/aim	Experiment tracking hosting
+MLOps	Kedro	kedro-org/kedro	Data pipeline project templates for consultancies
+Data Labeling	Label Studio	HumanSignal/label-studio	Managed labeling platform with workforce
+Data Labeling	CVAT	cvat-ai/cvat	Image annotation services for autonomy
+Data Labeling	Doccano	doccano/doccano	Text annotation service for NLP teams
+Data Labeling	Argilla	argilla-io/argilla	LLM feedback data curation service
+Data Labeling	Make Sense	SkalskiP/make-sense	Browser labeling tool for agencies
+Data Labeling	Diffgram	diffgram/diffgram	Enterprise training data platform
+Data Labeling	X-AnyLabeling	CVHub520/X-AnyLabeling	AI-assisted labeling service
+Data Labeling	FiftyOne	voxel51/fiftyone	Dataset curation consulting for CV teams
+Data Labeling	Cleanlab	cleanlab/cleanlab	Data quality audits for ML datasets
+BI & Dashboards	Metabase	metabase/metabase	Embedded analytics for SaaS products
+BI & Dashboards	Apache Superset	apache/superset	Managed BI for mid-market companies
+BI & Dashboards	Redash	getredash/redash	Hosted SQL dashboards for startups
+BI & Dashboards	Grafana	grafana/grafana	Managed observability dashboards
+BI & Dashboards	Lightdash	lightdash/lightdash	dbt-native BI hosting
+BI & Dashboards	Evidence	evidence-dev/evidence	Reports-as-code for agencies' clients
+BI & Dashboards	Apache ECharts	apache/echarts	Custom dashboard development
+BI & Dashboards	Cube	cube-js/cube	Semantic layer for embedded analytics
+BI & Dashboards	Rill	rilldata/rill	Fast operational dashboards SaaS
+BI & Dashboards	Kibana	elastic/kibana	Log analytics dashboards service
+BI & Dashboards	DataEase	dataease/dataease	BI for Asian-market SMBs
+BI & Dashboards	Streamlit	streamlit/streamlit	Data app hosting for analysts
+Product Analytics	PostHog	PostHog/posthog	Product analytics with feature flags
+Product Analytics	Plausible	plausible/analytics	Privacy-friendly web analytics SaaS
+Product Analytics	Umami	umami-software/umami	White-label analytics for agencies
+Product Analytics	Matomo	matomo-org/matomo	GDPR-compliant analytics hosting
+Product Analytics	OpenReplay	openreplay/openreplay	Session replay for ecommerce
+Product Analytics	GoatCounter	arp242/goatcounter	Simple analytics for bloggers
+Product Analytics	Countly	Countly/countly-server	Mobile app analytics for enterprises
+Product Analytics	Jitsu	jitsucom/jitsu	Segment alternative event pipeline
+Product Analytics	Fathom Lite	usefathom/fathom	Simple web analytics hosting
+ETL & ELT	Airbyte	airbytehq/airbyte	Managed data connectors for SMBs
+ETL & ELT	Meltano	meltano/meltano	ELT pipelines as a service
+ETL & ELT	dbt Core	dbt-labs/dbt	Analytics engineering consulting
+ETL & ELT	Apache Airflow	apache/airflow	Managed Airflow hosting
+ETL & ELT	Dagster	dagster-io/dagster	Data orchestration for data teams
+ETL & ELT	Prefect	PrefectHQ/prefect	Workflow orchestration hosting
+ETL & ELT	Apache NiFi	apache/nifi	Data flow integration for government
+ETL & ELT	dlt	dlt-hub/dlt	Python pipeline building service
+ETL & ELT	Mage	mage-ai/mage-ai	Notebook-style pipelines for analysts
+ETL & ELT	Kestra	kestra-io/kestra	Declarative orchestration platform hosting
+ETL & ELT	Apache Hop	apache/hop	Visual ETL for consultancies
+ETL & ELT	Vector	vectordotdev/vector	Observability pipeline cost reduction service
+ETL & ELT	Redpanda Connect	redpanda-data/connect	Stream processing integrations
+Data Catalogs	DataHub	datahub-project/datahub	Managed data catalog for enterprises
+Data Catalogs	OpenMetadata	open-metadata/OpenMetadata	Data governance platform hosting
+Data Catalogs	Apache Atlas	apache/atlas	Hadoop governance consulting
+Data Catalogs	Marquez	MarquezProject/marquez	Data lineage service
+Data Catalogs	CKAN	ckan/ckan	Open data portals for governments
+Data Catalogs	Magda	magda-io/magda	Data catalog for public sector
+Data Catalogs	Unity Catalog	unitycatalog/unitycatalog	Lakehouse governance consulting
+Data Catalogs	Great Expectations	fivetran/great_expectations	Data quality testing service
+Data Catalogs	Soda Core	sodadata/soda-core	Data quality monitoring SaaS
+Databases & Analytics Engines	ClickHouse	ClickHouse/ClickHouse	Managed real-time analytics database
+Databases & Analytics Engines	DuckDB	duckdb/duckdb	Embedded analytics consulting
+Databases & Analytics Engines	Apache Druid	apache/druid	Real-time OLAP hosting
+Databases & Analytics Engines	Apache Pinot	apache/pinot	User-facing analytics backend
+Databases & Analytics Engines	TimescaleDB	timescale/timescaledb	Time-series database hosting for IoT
+Databases & Analytics Engines	QuestDB	questdb/questdb	Fast time-series DB for trading firms
+Databases & Analytics Engines	Trino	trinodb/trino	Federated query engine service
+Databases & Analytics Engines	Supabase	supabase/supabase	Managed backend-as-a-service hosting
+Databases & Analytics Engines	StarRocks	StarRocks/starrocks	Lakehouse analytics consulting
+Databases & Analytics Engines	InfluxDB	influxdata/influxdb	Metrics storage SaaS
+Low-Code App Builders	Budibase	Budibase/budibase	Internal apps for SMBs with white-label
+Low-Code App Builders	Appsmith	appsmithorg/appsmith	Custom admin panels agency
+Low-Code App Builders	ToolJet	ToolJet/ToolJet	Internal tools platform hosting
+Low-Code App Builders	Saltcorn	saltcorn/saltcorn	No-code database apps for nonprofits
+Low-Code App Builders	Lowcoder	lowcoder-org/lowcoder	Branded app builder for consultancies
+Low-Code App Builders	Refine	refinedev/refine	CRUD app development agency
+Low-Code App Builders	Directus	directus/directus	Headless CMS and data apps hosting
+Low-Code App Builders	Appwrite	appwrite/appwrite	Backend-as-a-service hosting
+Low-Code App Builders	Illa Builder	illacloud/illa-builder	AI-powered internal apps service
+Low-Code App Builders	GrapesJS	GrapesJS/grapesjs	Embedded web builder for SaaS platforms
+Low-Code App Builders	Webstudio	webstudio-is/webstudio	Webflow alternative for agencies
+Internal Tool Builders	Windmill	windmill-labs/windmill	Scripts-to-internal-apps platform
+Internal Tool Builders	AdminJS	SoftwareBrothers/adminjs	Admin panel development service
+Internal Tool Builders	Forest Admin Agent	ForestAdmin/agent-nodejs	Admin panels for startups
+Internal Tool Builders	Plane	makeplane/plane	Hosted project management for teams
+Internal Tool Builders	Dashy	Lissy93/dashy	Branded internal portals
+Internal Tool Builders	Homepage	gethomepage/homepage	Managed homelab dashboards
+Internal Tool Builders	Jet Admin	jet-admin/jet-bridge	Internal tool backend bridge
+Internal Tool Builders	Teable	teableio/teable	No-code database tools for ops teams
+Workflow Automation	n8n	n8n-io/n8n	Managed n8n hosting and automation agency
+Workflow Automation	Activepieces	activepieces/activepieces	White-label Zapier for SaaS embedding
+Workflow Automation	Node-RED	node-red/node-red	IoT automation for factories
+Workflow Automation	Huginn	huginn/huginn	Monitoring agents service
+Workflow Automation	Automatisch	automatisch/automatisch	Zapier alternative for EU compliance
+Workflow Automation	Trigger.dev	triggerdotdev/trigger.dev	Background jobs hosting
+Workflow Automation	Temporal	temporalio/temporal	Durable workflow hosting
+Workflow Automation	Inngest	inngest/inngest	Event-driven functions service
+Workflow Automation	Pipedream Components	PipedreamHQ/pipedream	Integration development services
+Workflow Automation	StackStorm	StackStorm/st2	IT ops automation consulting
+Workflow Automation	Conductor	conductor-oss/conductor	Microservice orchestration consulting
+Spreadsheet Databases	NocoDB	nocodb/nocodb	Airtable alternative SaaS
+Spreadsheet Databases	Baserow	baserow/baserow	Hosted no-code databases for teams
+Spreadsheet Databases	Grist	gristlabs/grist-core	Spreadsheet-database for finance teams
+Spreadsheet Databases	Rowy	buildship-ai/rowy	Firestore spreadsheet UI for startups
+Spreadsheet Databases	APITable	apitable/apitable	Visual database with embeddable views
+Spreadsheet Databases	Mathesar	mathesar-foundation/mathesar	Postgres spreadsheet UI for nonprofits
+Spreadsheet Databases	Univer	dream-num/univer	Embedded office suite SDK licensing
+Spreadsheet Databases	Ethercalc	audreyt/ethercalc	Collaborative spreadsheets for classrooms
+API Dev Tools & Mocking	Hoppscotch	hoppscotch/hoppscotch	Postman alternative for teams
+API Dev Tools & Mocking	Insomnia	Kong/insomnia	API client with sync plans
+API Dev Tools & Mocking	Bruno	usebruno/bruno	Offline API client pro licenses
+API Dev Tools & Mocking	Mockoon	mockoon/mockoon	Hosted API mocks for QA teams
+API Dev Tools & Mocking	WireMock	wiremock/wiremock	Cloud API mocking service
+API Dev Tools & Mocking	Prism	stoplightio/prism	OpenAPI mock servers as a service
+API Dev Tools & Mocking	Swagger UI	swagger-api/swagger-ui	Branded API docs portals
+API Dev Tools & Mocking	Redoc	Redocly/redoc	API documentation hosting
+API Dev Tools & Mocking	Kong	Kong/kong	Managed API gateway
+API Dev Tools & Mocking	Yaak	mountain-loop/yaak	API client team licenses
+API Dev Tools & Mocking	Scalar	scalar/scalar	Interactive API reference hosting
+API Dev Tools & Mocking	Microcks	microcks/microcks	Contract testing platform for enterprises
+Web Scraping	Crawlee	apify/crawlee	Scraping-as-a-service for ecommerce data
+Web Scraping	Scrapy	scrapy/scrapy	Custom data extraction agency
+Web Scraping	Firecrawl	firecrawl/firecrawl	Website-to-LLM data API
+Web Scraping	Crawl4AI	unclecode/crawl4ai	AI-ready crawling API
+Web Scraping	Playwright	microsoft/playwright	Browser automation and testing service
+Web Scraping	Puppeteer	puppeteer/puppeteer	Headless rendering API
+Web Scraping	Browserless	browserless/browserless	Hosted headless Chrome
+Web Scraping	Changedetection.io	dgtlmoon/changedetection.io	Website change alerts SaaS
+Web Scraping	Colly	gocolly/colly	High-speed crawler builds
+Web Scraping	Katana	projectdiscovery/katana	Attack surface crawling service
+Web Scraping	ScrapeGraphAI	ScrapeGraphAI/Scrapegraph-ai	LLM-powered scraping API
+Web Scraping	Maxun	getmaxun/maxun	No-code scraping robots SaaS
+Push Notifications	ntfy	binwiederhier/ntfy	Push notification API with paid tiers
+Push Notifications	Gotify	gotify/server	Self-hosted alerts for IT teams
+Push Notifications	Novu	novuhq/novu	Notification infrastructure for SaaS
+Push Notifications	Apprise	caronc/apprise	Multi-channel notification service
+Push Notifications	Gorush	appleboy/gorush	Mobile push gateway hosting
+Push Notifications	Pushbits	pushbits/server	Matrix-based push relay
+Push Notifications	Web Push	web-push-libs/web-push	Web push campaigns for publishers
+Push Notifications	Uptime Kuma	louislam/uptime-kuma	Status monitoring with alerting plans
+SMS & WhatsApp Gateways	Evolution API	evolution-foundation/evolution-api	WhatsApp API reselling for agencies
+SMS & WhatsApp Gateways	WAHA	devlikeapro/waha	WhatsApp HTTP API hosting
+SMS & WhatsApp Gateways	whatsapp-web.js	wwebjs/whatsapp-web.js	WhatsApp bots for small businesses
+SMS & WhatsApp Gateways	Baileys	WhiskeySockets/Baileys	WhatsApp automation SaaS
+SMS & WhatsApp Gateways	Jasmin SMS Gateway	jookies/jasmin	SMS aggregator business
+SMS & WhatsApp Gateways	PlaySMS	playsms/playsms	Bulk SMS portal for resellers
+SMS & WhatsApp Gateways	httpSMS	NdoleStudio/httpsms	Android phone as SMS API
+SMS & WhatsApp Gateways	SMS Gateway for Android	capcom6/android-sms-gateway	Low-cost SMS API for emerging markets
+SMS & WhatsApp Gateways	Gammu	gammu/gammu	GSM modem SMS solutions
+SMS & WhatsApp Gateways	Textbelt	typpo/textbelt	Simple SMS API service
+SMS & WhatsApp Gateways	Mautrix WhatsApp	mautrix/whatsapp	Unified messaging bridges for teams
+VoIP & PBX	Asterisk	asterisk/asterisk	Hosted PBX for small businesses
+VoIP & PBX	FreeSWITCH	signalwire/freeswitch	CPaaS voice platform
+VoIP & PBX	FreePBX Framework	FreePBX/framework	Managed FreePBX phone systems
+VoIP & PBX	Kamailio	kamailio/kamailio	SIP trunking provider infrastructure
+VoIP & PBX	OpenSIPS	OpenSIPS/opensips	Carrier-grade SIP routing service
+VoIP & PBX	FusionPBX	fusionpbx/fusionpbx	Multi-tenant hosted PBX reselling
+VoIP & PBX	Wazo	wazo-platform/wazo-ansible	Unified communications for telecom operators
+VoIP & PBX	Linphone	BelledonneCommunications/linphone-desktop	Branded softphone apps
+VoIP & PBX	Jambonz	jambonz/jambonz-feature-server	Twilio alternative voice API
+VoIP & PBX	SIPp	SIPp/sipp	VoIP load testing service
+VoIP & PBX	Drachtio	drachtio/drachtio-server	SIP application development
+VoIP & PBX	Homer	sipcapture/homer	VoIP monitoring for carriers
+Contact Center & Support	Chatwoot	chatwoot/chatwoot	Omnichannel support inbox SaaS
+Contact Center & Support	Zammad	zammad/zammad	Helpdesk hosting for SMBs
+Contact Center & Support	FreeScout	freescout-help-desk/freescout	Help Scout alternative reselling
+Contact Center & Support	osTicket	osTicket/osTicket	Managed ticketing for IT firms
+Contact Center & Support	UVdesk	uvdesk/community-skeleton	Ecommerce helpdesk service
+Contact Center & Support	Tiledesk	Tiledesk/tiledesk	Chatbot plus live agent platform
+Contact Center & Support	Rasa	RasaHQ/rasa	Conversational AI for call centers
+Contact Center & Support	Botpress	botpress/botpress	Chatbot builder for agencies
+Contact Center & Support	Typebot	baptisteArno/typebot.io	Conversational forms SaaS
+Contact Center & Support	Rocket.Chat	RocketChat/Rocket.Chat	Omnichannel chat for enterprises
+Team Chat & Messaging	Mattermost	mattermost/mattermost	Secure Slack alternative for government
+Team Chat & Messaging	Zulip	zulip/zulip	Threaded chat hosting for communities
+Team Chat & Messaging	Element Web	element-hq/element-web	Branded Matrix chat for enterprises
+Team Chat & Messaging	Synapse	element-hq/synapse	Managed Matrix homeservers
+Team Chat & Messaging	Stoat (Revolt)	stoatchat/stoatchat	Discord alternative for communities
+Team Chat & Messaging	Spacebar	spacebarchat/server	Discord-compatible chat hosting
+Team Chat & Messaging	Tinode	tinode/chat	Embedded chat SDK hosting
+Team Chat & Messaging	Campfire	basecamp/once-campfire	Single-purchase team chat installs
+Team Chat & Messaging	Continuwuity	continuwuity/continuwuity	Lightweight Matrix hosting
+Team Chat & Messaging	Signal Server	signalapp/Signal-Server	Private secure messenger for enterprises
+Webmail & Email Servers	Roundcube	roundcube/roundcubemail	Branded webmail for ISPs
+Webmail & Email Servers	SnappyMail	the-djmaze/snappymail	Lightweight webmail hosting
+Webmail & Email Servers	Mailcow	mailcow/mailcow-dockerized	Managed email hosting for SMBs
+Webmail & Email Servers	Mail-in-a-Box	mail-in-a-box/mailinabox	Turnkey email servers service
+Webmail & Email Servers	Stalwart	stalwartlabs/stalwart	Modern mail server hosting
+Webmail & Email Servers	Mailu	Mailu/Mailu	Email hosting for agencies
+Webmail & Email Servers	docker-mailserver	docker-mailserver/docker-mailserver	Managed mail stacks
+Webmail & Email Servers	Maddy	foxcpp/maddy	Simple mail hosting plans
+Webmail & Email Servers	Cypht	cypht-org/cypht	Unified inbox webmail service
+Webmail & Email Servers	Mailpit	axllent/mailpit	Email testing SaaS for devs
+Webmail & Email Servers	Postal	postalserver/postal	Transactional email delivery service
+Email Marketing	Listmonk	knadh/listmonk	Newsletter SaaS for creators
+Email Marketing	Mautic	mautic/mautic	Marketing automation agency
+Email Marketing	Keila	pentacent/keila	Mailchimp alternative hosting
+Email Marketing	Mailtrain	Mailtrain-org/mailtrain	Bulk email for nonprofits
+Email Marketing	BillionMail	Billionmail/BillionMail	Email marketing server reselling
+Email Marketing	useSend	usesend/useSend	SES-based email platform SaaS
+Email Marketing	Dittofeed	dittofeed/dittofeed	Customer messaging automation
+Email Marketing	Laudspeaker	laudspeaker/laudspeaker	Customer journey orchestration SaaS
+Email Marketing	MJML	mjmlio/mjml	Email template design agency
+Email Marketing	React Email	resend/react-email	Email template builder service
+Video Editing	Shotcut	mltframework/shotcut	Video editing courses and templates
+Video Editing	Kdenlive	KDE/kdenlive	Branded editor bundles for creators
+Video Editing	OpenShot	OpenShot/openshot-qt	Simple editor for schools
+Video Editing	Olive	olive-editor/olive	Pro editing workstation builds
+Video Editing	Remotion	remotion-dev/remotion	Programmatic video generation SaaS
+Video Editing	FFmpeg	FFmpeg/FFmpeg	Video transcoding API service
+Video Editing	LosslessCut	mifi/lossless-cut	Quick clipping tool licenses
+Video Editing	Editly	mifi/editly	Automated slideshow video service
+Video Editing	Motion Canvas	motion-canvas/motion-canvas	Animated explainer video agency
+Video Editing	Auto-Editor	WyattBlue/auto-editor	Silence removal service for podcasters
+Video Editing	HandBrake	HandBrake/HandBrake	Batch encoding services
+Video Editing	Tdarr	HaveAGitGat/Tdarr	Distributed transcoding for media libraries
+Photo Editing	GIMP	GNOME/gimp	Branded design suite bundles
+Photo Editing	darktable	darktable-org/darktable	RAW editing presets marketplace
+Photo Editing	RawTherapee	RawTherapee/RawTherapee	Photo processing service
+Photo Editing	Krita	KDE/krita	Digital art courses and brushes
+Photo Editing	miniPaint	viliusle/miniPaint	Embedded web image editor
+Photo Editing	Filerobot Image Editor	scaleflex/filerobot-image-editor	Image editor widget for CMS
+Photo Editing	Upscayl	upscayl/upscayl	AI image upscaling SaaS
+Photo Editing	rembg	danielgatis/rembg	Background removal API
+Photo Editing	Real-ESRGAN	xinntao/Real-ESRGAN	Photo enhancement API
+Photo Editing	GFPGAN	TencentARC/GFPGAN	Old photo restoration service
+Photo Editing	Graphite	GraphiteEditor/Graphite	Vector and raster editor hosting
+Design Tools	Penpot	penpot/penpot	Figma alternative hosting for agencies
+Design Tools	Plasmic	plasmicapp/plasmic	Visual page builder for marketing teams
+Design Tools	Silex	silexlabs/Silex	No-code website builder for agencies
+Design Tools	Quant-UX	KlausSchaefers/quant-ux	Prototyping and usability testing SaaS
+Design Tools	Fabric.js	fabricjs/fabric.js	Custom product designer for merch stores
+Design Tools	Konva	konvajs/konva	Canvas design editors for print-on-demand
+Design Tools	Pencil	evolus/pencil	Wireframing templates
+Design Tools	Onlook	onlook-dev/onlook	AI visual React editor SaaS
+Design Tools	Iconify	iconify/iconify	Icon delivery CDN
+Whiteboards	Excalidraw	excalidraw/excalidraw	Branded collaborative whiteboard SaaS
+Whiteboards	tldraw	tldraw/tldraw	Embedded whiteboard SDK in apps
+Whiteboards	WBO	lovasoa/whitebophir	Classroom whiteboards for schools
+Whiteboards	Drawio	jgraph/drawio	Diagramming hosted for enterprises
+Whiteboards	AFFiNE	toeverything/AFFiNE	Notion-plus-whiteboard workspace SaaS
+Whiteboards	Drawpile	drawpile/Drawpile	Collaborative drawing sessions hosting
+Whiteboards	Spacedeck	spacedeck/spacedeck-open	Visual collaboration for education
+Whiteboards	Mermaid	mermaid-js/mermaid	Diagram-as-code rendering service
+Whiteboards	Kroki	yuzutech/kroki	Diagram rendering API
+Whiteboards	OpenBoard	OpenBoard-org/OpenBoard	Interactive classroom board software
+Screen Recording	OBS Studio	obsproject/obs-studio	Branded streaming setups and plugins
+Screen Recording	ShareX	ShareX/ShareX	Screenshot upload hosting plans
+Screen Recording	Kap	wulkano/Kap	Branded screen recorder for teams
+Screen Recording	Flameshot	flameshot-org/flameshot	Enterprise screenshot tooling
+Screen Recording	Screenity	alyssaxuu/screenity	Loom-style Chrome recorder SaaS
+Screen Recording	ScreenToGif	NickeManarin/ScreenToGif	Tutorial GIF production service
+Screen Recording	rrweb	rrweb-io/rrweb	Session recording SaaS
+Screen Recording	Asciinema	asciinema/asciinema	Terminal recording hosting
+Digital Asset Management	Pimcore	pimcore/pimcore	DAM and PIM for retailers
+Digital Asset Management	TagSpaces	tagspaces/tagspaces	File tagging for creative teams
+Digital Asset Management	Hydrus	hydrusnetwork/hydrus	Media tagging archives
+Digital Asset Management	Nextcloud Server	nextcloud/server	Managed cloud storage for SMBs
+Digital Asset Management	Seafile	haiwen/seafile	File sync hosting for enterprises
+Digital Asset Management	Memories	pulsejet/memories	Photo management add-on hosting
+Digital Asset Management	Photoview	photoview/photoview	Client photo galleries
+Digital Asset Management	Ente	ente/ente	E2E encrypted photo storage subscriptions
+Video Surveillance	Frigate	blakeblackshear/frigate	AI NVR for small businesses
+Video Surveillance	ZoneMinder	ZoneMinder/zoneminder	Managed CCTV monitoring
+Video Surveillance	motionEye	motioneye-project/motioneye	Simple camera monitoring kits
+Video Surveillance	Viseron	roflcoopter/viseron	AI camera analytics for retail
+Video Surveillance	go2rtc	AlexxIT/go2rtc	Camera streaming relay service
+Video Surveillance	Scrypted	koush/scrypted	Smart home camera integration service
+Video Surveillance	Moonfire NVR	scottlamb/moonfire-nvr	Lightweight NVR appliances
+Computer Vision	Ultralytics YOLO	ultralytics/ultralytics	Custom object detection for factories
+Computer Vision	OpenCV	opencv/opencv	Vision consulting
+Computer Vision	Supervision	roboflow/supervision	Video analytics dashboards
+Computer Vision	Detectron2	facebookresearch/detectron2	Segmentation models for agriculture
+Computer Vision	Segment Anything	facebookresearch/segment-anything	Auto-masking API for designers
+Computer Vision	MediaPipe	google-ai-edge/mediapipe	Fitness and pose tracking apps
+Computer Vision	CompreFace	exadel-inc/CompreFace	Face recognition API for access control
+Computer Vision	DeepFace	serengil/deepface	Face verification for KYC
+Computer Vision	InsightFace	deepinsight/insightface	Face analytics licensing
+Computer Vision	Inference	roboflow/inference	Edge vision deployment service
+Notebooks & Data Science	JupyterHub	jupyterhub/jupyterhub	Hosted notebooks for universities
+Notebooks & Data Science	JupyterLab	jupyterlab/jupyterlab	Data science workspace hosting
+Notebooks & Data Science	marimo	marimo-team/marimo	Reactive notebook app hosting
+Notebooks & Data Science	Apache Zeppelin	apache/zeppelin	Big data notebooks for enterprises
+Notebooks & Data Science	Polynote	polynote/polynote	Scala notebooks for data teams
+Notebooks & Data Science	Voila	voila-dashboards/voila	Notebook-to-dashboard publishing
+Notebooks & Data Science	Gradio	gradio-app/gradio	ML demo hosting for researchers
+Notebooks & Data Science	Quarto	quarto-dev/quarto-cli	Branded report publishing service
+Notebooks & Data Science	Observable Framework	observablehq/framework	Data app development agency
+Notebooks & Data Science	Datasette	simonw/datasette	Publish open data for newsrooms
+Forms & Surveys	Formbricks	formbricks/formbricks	In-app survey SaaS
+Forms & Surveys	LimeSurvey	LimeSurvey/LimeSurvey	Research survey hosting
+Forms & Surveys	HeyForm	heyform/heyform	Conversational forms for marketers
+Forms & Surveys	Formio	formio/formio	Form backend for government apps
+Forms & Surveys	SurveyJS	surveyjs/survey-library	Embedded survey builder licensing
+Forms & Surveys	OpnForm	OpnForm/OpnForm	No-code forms with paid tiers
+Forms & Surveys	Formbase	formbase-dev/formbase	Form submission endpoints
+Social Media Management	Postiz	gitroomhq/postiz-app	Social scheduling SaaS for agencies
+Social Media Management	Mixpost	inovector/mixpost	Buffer alternative with white-label
+Social Media Management	Mastodon	mastodon/mastodon	Managed Mastodon instances for brands
+Social Media Management	Misskey	misskey-dev/misskey	Fediverse community hosting
+Social Media Management	Lemmy	LemmyNet/lemmy	Reddit-style community hosting
+Social Media Management	Discourse	discourse/discourse	Managed forum hosting
+Social Media Management	Flarum	flarum/flarum	Community forum for brands
+Social Media Management	Bluesky PDS	bluesky-social/pds	Managed Bluesky personal data servers
+Social Media Management	Socialhome	jaywink/socialhome	Federated social portfolio
+Newsletters & Publishing	Ghost	TryGhost/Ghost	Paid newsletter platform hosting
+Newsletters & Publishing	WriteFreely	writefreely/writefreely	Minimal blogging service
+Newsletters & Publishing	Plume	Plume-org/Plume	Federated blog hosting
+Newsletters & Publishing	Strapi	strapi/strapi	Headless CMS agency builds
+Newsletters & Publishing	Payload	payloadcms/payload	CMS-powered client sites
+Newsletters & Publishing	Wiki.js	Requarks/wiki	Managed knowledge base hosting
+Newsletters & Publishing	BookStack	BookStackApp/BookStack	Documentation portal hosting
+Newsletters & Publishing	Outline	outline/outline	Team wiki SaaS
+Newsletters & Publishing	Docusaurus	meta/docusaurus	Docs site development service
+Newsletters & Publishing	Calibre-Web	janeczku/calibre-web	Ebook library hosting
+Newsletters & Publishing	Kavita	Kareadita/Kavita	Comics and manga reader hosting
+Newsletters & Publishing	Komga	gotson/komga	Comic library subscriptions
+Chatbot & Voice Assistants	Home Assistant	home-assistant/core	Smart home installation services
+Chatbot & Voice Assistants	Pipecat	pipecat-ai/pipecat	Voice AI agents for phone lines
+Chatbot & Voice Assistants	LiveKit Agents	livekit/agents	Real-time voice bots for clinics
+Chatbot & Voice Assistants	Vocode	vocodedev/vocode-core	AI phone receptionist SaaS
+Chatbot & Voice Assistants	Leon	leon-ai/leon	Personal assistant subscriptions
+Chatbot & Voice Assistants	OpenVoiceOS	OpenVoiceOS/ovos-core	Privacy voice assistant hardware
+Chatbot & Voice Assistants	Ultravox	fixie-ai/ultravox	Speech-native LLM voice service
+AI Coding Assistants	Continue	continuedev/continue	Private code assistant for enterprises
+AI Coding Assistants	Tabby	TabbyML/tabby	Self-hosted Copilot for regulated firms
+AI Coding Assistants	Aider	Aider-AI/aider	AI pair-programming consulting
+AI Coding Assistants	Cline	cline/cline	Agentic coding workflows for agencies
+AI Coding Assistants	Goose	aaif-goose/goose	Developer agent deployments
+AI Coding Assistants	Bolt.diy	stackblitz-labs/bolt.diy	AI app builder SaaS
+AI Video & Avatars	SadTalker	OpenTalker/SadTalker	Talking avatar videos for marketing
+AI Video & Avatars	LivePortrait	KlingAIResearch/LivePortrait	Animated portrait service
+AI Video & Avatars	Wav2Lip	Rudrabha/Wav2Lip	Lip-sync dubbing service
+AI Video & Avatars	HunyuanVideo	Tencent-Hunyuan/HunyuanVideo	Text-to-video generation API
+AI Video & Avatars	Open-Sora	hpcaitech/Open-Sora	AI video generation for ads
+AI Video & Avatars	Wan2.1	Wan-Video/Wan2.1	Short-form video generation SaaS
+AI Video & Avatars	MoneyPrinterTurbo	harry0703/MoneyPrinterTurbo	Automated short video creation service
+AI Video & Avatars	ShortGPT	RayVentura/ShortGPT	Faceless YouTube channel automation
+AI Video & Avatars	Deep-Live-Cam	hacksider/Deep-Live-Cam	Licensed live VFX for streamers
+AI Video & Avatars	CogVideo	zai-org/CogVideo	Product video generation API
+AI Music & Audio	AudioCraft	facebookresearch/audiocraft	Royalty-free music generation SaaS
+AI Music & Audio	Spleeter	deezer/spleeter	Karaoke track creation service
+AI Music & Audio	Ultimate Vocal Remover	Anjok07/ultimatevocalremovergui	Vocal isolation for remixers
+AI Music & Audio	YuE	multimodal-art-projection/YuE	AI song generation app
+AI Music & Audio	Riffusion	riffusion/riffusion-hobby	Music loop generation
+AI Music & Audio	Audacity	audacity/audacity	Audio editing courses and plugins
+AI Music & Audio	Ardour	Ardour/ardour	Studio DAW bundles
+AI Music & Audio	DeepFilterNet	Rikorose/DeepFilterNet	Noise removal API for podcasts
+AI Music & Audio	Basic Pitch	spotify/basic-pitch	Audio-to-MIDI conversion service
+URL Shorteners & Link Tools	Dub	dubinc/dub.link	Branded link management SaaS
+URL Shorteners & Link Tools	Shlink	shlinkio/shlink	White-label URL shortener for agencies
+URL Shorteners & Link Tools	YOURLS	YOURLS/YOURLS	Custom domain short links
+URL Shorteners & Link Tools	Kutt	thedevs-network/kutt	Link shortener with analytics plans
+URL Shorteners & Link Tools	LinkStack	LinkStackOrg/LinkStack	Linktree alternative hosting
+URL Shorteners & Link Tools	LittleLink	sethcottle/littlelink	Bio link pages for creators
+URL Shorteners & Link Tools	Linkding	sissbruecker/linkding	Bookmark manager hosting
+URL Shorteners & Link Tools	Shiori	go-shiori/shiori	Read-later archiving service
+URL Shorteners & Link Tools	Linkwarden	linkwarden/linkwarden	Collaborative bookmark archive SaaS
+URL Shorteners & Link Tools	Karakeep	karakeep-app/karakeep	AI bookmark manager subscriptions
