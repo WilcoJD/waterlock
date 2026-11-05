@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <path d="M6 46V20C6 10 14 3 24 3s18 7 18 17v26Z" fill="#17302a"/>
+  <path d="M9.5 43V20.5C9.5 12.4 16 6.5 24 6.5s14.5 5.9 14.5 14V43Z" fill="none" stroke="#b8925a" stroke-width="1.4"/>
+  <text x="24" y="35" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#f1dcb4">B</text>
+</svg>
