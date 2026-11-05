@@ -234,7 +234,7 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
   .site-nav ul { display: flex; align-items: center; gap: 0.15rem; padding: 0; }
   .site-nav li { border: 0; }
   .site-nav li:last-child { padding: 0 0 0 0.75rem; }
-  .site-nav a { padding: 0.5rem 0.7rem; font-size: 0.95rem; position: relative; }
+  .site-nav a { padding: 0.5rem 0.7rem; font-size: 0.95rem; position: relative; white-space: nowrap; }
   .site-nav a:not(.btn)::after {
     content: ""; position: absolute; left: 0.7rem; right: 0.7rem; bottom: 0.25rem; height: 1px;
     background: var(--brass-500); transform: scaleX(0); transform-origin: left; transition: transform 0.25s ease;
@@ -288,6 +288,18 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
 .page-hero .container { padding-block: clamp(3.5rem, 2.5rem + 5vw, 7rem); }
 .page-hero h1 { color: #fff; max-width: 18ch; }
 .page-hero .lede { color: #d8e3dd; max-width: 40rem; }
+.page-hero--plain { background-color: var(--green-900); }
+.page-hero--plain::after {
+  background:
+    radial-gradient(ellipse at 85% 15%, rgba(184, 146, 90, 0.22), transparent 55%),
+    radial-gradient(ellipse at 0% 100%, rgba(40, 80, 70, 0.85), transparent 60%);
+}
+.page-hero--plain::before {
+  content: ""; position: absolute; inset: 0; z-index: -1; opacity: 0.07; pointer-events: none;
+  background-image:
+    repeating-linear-gradient(45deg, #ecd3a5 0 1px, transparent 1px 22px),
+    repeating-linear-gradient(-45deg, #ecd3a5 0 1px, transparent 1px 22px);
+}
 .breadcrumb { font-size: var(--step--1); margin: 0 0 1.25rem; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 0.4rem; color: #b9c9c1; }
 .breadcrumb li { margin: 0; }
 .breadcrumb li + li::before { content: "/"; margin-right: 0.4rem; opacity: 0.6; }
@@ -528,3 +540,14 @@ body { padding-bottom: 54px; }
   .page-hero, .hero { background: none; color: #000; }
   .page-hero h1, .hero h1 { color: #000; }
 }
+
+/* Two-photo room gallery */
+.room__gallery--two > :first-child { grid-column: auto; }
+.room__gallery--two > * { aspect-ratio: 4 / 5 !important; }
+.mt-1 { margin-top: 0.75rem; }
+.address-block { font-style: normal; }
+.split--top { align-items: start; }
+
+/* Make <picture> wrappers fill their frames so object-fit works */
+.hero__frame picture, .media-frame picture, .card__media picture, .page-hero__bg picture { display: block; width: 100%; height: 100%; }
+@media (max-width: 520px) { .hero__frame { outline-offset: 6px; } }

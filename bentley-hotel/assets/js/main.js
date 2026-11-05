@@ -48,6 +48,17 @@
     el.textContent = String(new Date().getFullYear());
   });
 
+  // Pre-select the enquiry type from links such as contact.html?enquiry=Wedding
+  var typeSelect = document.getElementById("f-type");
+  if (typeSelect && "URLSearchParams" in window) {
+    var wanted = new URLSearchParams(window.location.search).get("enquiry");
+    if (wanted) {
+      Array.prototype.forEach.call(typeSelect.options, function (opt) {
+        if (opt.value.toLowerCase() === wanted.toLowerCase()) typeSelect.value = opt.value;
+      });
+    }
+  }
+
   // Enquiry forms: compose an email in the visitor's mail app (no server needed).
   document.querySelectorAll("form[data-mailto]").forEach(function (form) {
     form.addEventListener("submit", function (e) {
