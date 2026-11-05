@@ -18,6 +18,8 @@
     // (Settings → Booking Engine → Embeds → Premium → Whitelisted domains).
     onSiteHosts: ["www.thebentleyhotel.co.uk", "thebentleyhotel.co.uk"],
     currency: "gbp",
+    timeZone: "Europe/London",
+    maxDaysAhead: 539, // the availability function accepts up to 540 days ahead
     rooms: [
       { id: "148837309972637", name: "Single Room", guests: 1 },
       { id: "148838930526405", name: "Twin Room", guests: 2 },
@@ -29,7 +31,7 @@
   var ON_SITE = location.protocol === "https:" && CFG.onSiteHosts.indexOf(location.hostname) !== -1;
   var PARAMS = ["checkin", "checkout", "adults", "kids", "rid", "promo"];
 
-  // ---------- date helpers (local calendar dates as YYYY-MM-DD) ----------
+  // ---------- helpers ----------
   function pad(n) { return (n < 10 ? "0" : "") + n; }
   function iso(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
   function parse(s) {
@@ -39,8 +41,17 @@
     return iso(d) === s ? d : null;
   }
   function addDays(s, n) { var d = parse(s); d.setDate(d.getDate() + n); return iso(d); }
-  function today() { return iso(new Date()); }
   function nightsBetween(a, b) { return Math.round((parse(b) - parse(a)) / 86400000); }
+  // The hotel's calendar date (Europe/London), whatever the visitor's time zone.
+  function today() {
+    try {
+      var p = {};
+      new Intl.DateTimeFormat("en-GB", { timeZone: CFG.timeZone, year: "numeric", month: "2-digit", day: "2-digit" })
+        .formatToParts(new Date()).forEach(function (x) { p[x.type] = x.value; });
+      if (p.year && p.month && p.day) return p.year + "-" + p.month + "-" + p.day;
+    } catch (e) { /* older browsers: fall back to the device date */ }
+    return iso(new Date());
+  }
   var DOW = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
   var MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   // UK style without commas: "Wed 10 Feb" / "Wed 10 Feb 2027"
@@ -50,6 +61,7 @@
     return DOW[d.getDay()] + " " + d.getDate() + " " + MON[d.getMonth()] + (withYear ? " " + d.getFullYear() : "");
   }
   function money(n) { return "£" + (Math.round(n) === n ? String(n) : n.toFixed(2)); }
+  function plural(n, one, many) { return n + " " + (n === 1 ? one : many); }
   function esc(s) {
     return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; });
   }
@@ -66,12 +78,14 @@
   function hostedUrl(o) { return CFG.hostedUrl + "?" + query(o); }
   window.BentleyBooking = { url: bookingUrl, hostedUrl: hostedUrl, onSite: ON_SITE, config: CFG };
 
-  function loadCloudbeds() {
-    if (document.querySelector('script[data-entry="immersive"]')) return;
+  function loadCloudbeds(onError) {
+    var existing = document.querySelector('script[data-entry="immersive"]');
+    if (existing) { if (onError) existing.addEventListener("error", onError); return; }
     var s = document.createElement("script");
     s.src = CFG.loaderUrl;
     s.setAttribute("data-entry", "immersive");
     s.async = true;
+    if (onError) s.addEventListener("error", onError);
     document.head.appendChild(s);
   }
 
@@ -82,28 +96,41 @@
     var adultsEl = form.querySelector('[name="adults"]');
     var roomEl = form.querySelector('[name="rid"]');
     if (!inEl || !outEl) return;
-    var t = today();
-    inEl.min = t;
-    if (!parse(inEl.value) || inEl.value < t) inEl.value = t;
+    var now = today();
+    inEl.min = now;
+    if (!parse(inEl.value) || inEl.value < now) inEl.value = now;
+    function fixIn() {
+      now = today();
+      inEl.min = now;
+      if (!parse(inEl.value) || inEl.value < now) inEl.value = now;
+    }
     function syncOut() {
-      var minOut = addDays(inEl.value || t, 1);
+      var minOut = addDays(parse(inEl.value) && inEl.value >= now ? inEl.value : now, 1);
       outEl.min = minOut;
       if (!parse(outEl.value) || outEl.value < minOut) outEl.value = minOut;
     }
     syncOut();
-    inEl.addEventListener("change", function () {
-      if (!parse(inEl.value) || inEl.value < t) inEl.value = t;
-      syncOut();
-    });
-    outEl.addEventListener("change", syncOut);
+    // Browsers fire "change" while a date is still being typed, so only correct values once focus leaves.
+    inEl.addEventListener("change", function () { if (parse(inEl.value) && inEl.value >= now) syncOut(); });
+    inEl.addEventListener("blur", function () { fixIn(); syncOut(); });
+    outEl.addEventListener("blur", syncOut);
     if (roomEl && adultsEl) {
+      var fit = document.createElement("p");
+      fit.className = "hint";
+      fit.setAttribute("aria-live", "polite");
+      roomEl.parentNode.appendChild(fit);
       roomEl.addEventListener("change", function () {
         var room = roomById(roomEl.value);
-        if (room && Number(adultsEl.value) > room.guests) adultsEl.value = String(room.guests);
+        fit.textContent = "";
+        if (room && Number(adultsEl.value) > room.guests) {
+          adultsEl.value = String(room.guests);
+          fit.textContent = "The " + room.name + " sleeps " + room.guests + ", so adults is now " + room.guests + ".";
+        }
       });
     }
     form.addEventListener("submit", function (e) {
       e.preventDefault();
+      fixIn();
       syncOut();
       var data = {};
       new FormData(form).forEach(function (v, k) { data[k] = v; });
@@ -114,14 +141,19 @@
   // ---------- 2. on-site booking page ----------
   function initBookingPage(host) {
     var params = new URLSearchParams(location.search);
-    var summary = document.querySelector("[data-booking-summary]");
     var checkin = params.get("checkin"), checkout = params.get("checkout");
+    // Old bookmarks or shared links can carry past dates: drop them so Cloudbeds offers fresh ones.
+    if (parse(checkin) && checkin < today()) {
+      params.delete("checkin"); params.delete("checkout"); checkin = checkout = null;
+      try { history.replaceState(null, "", location.pathname + (params.toString() ? "?" + params : "") + location.hash); } catch (e) {}
+    }
+    var summary = document.querySelector("[data-booking-summary]");
     if (summary && parse(checkin) && parse(checkout) && checkout > checkin) {
-      var n = nightsBetween(checkin, checkout);
+      var count = function (v, lo, hi) { return /^\d{1,2}$/.test(v || "") && +v >= lo && +v <= hi ? +v : 0; };
+      var adults = count(params.get("adults"), 1, 6), kids = count(params.get("kids"), 0, 4);
       var room = roomById(params.get("rid") || "");
-      var adults = Number(params.get("adults")) || 0, kids = Number(params.get("kids")) || 0;
-      var bits = [nice(checkin, true) + " to " + nice(checkout, true), n + (n === 1 ? " night" : " nights")];
-      if (adults) bits.push(adults + (adults === 1 ? " adult" : " adults") + (kids ? ", " + kids + (kids === 1 ? " child" : " children") : ""));
+      var bits = [nice(checkin, true) + " to " + nice(checkout, true), plural(nightsBetween(checkin, checkout), "night", "nights")];
+      if (adults) bits.push(plural(adults, "adult", "adults") + (kids ? ", " + plural(kids, "child", "children") : ""));
       if (room) bits.push(room.name);
       summary.textContent = "Your search: " + bits.join(" · ");
       summary.hidden = false;
@@ -132,24 +164,22 @@
 
     var engine = host.querySelector("cb-immersive-experience");
     var fallback = host.querySelector("[data-booking-fallback]");
+    var timer = null, done = false;
+    function finish() { done = true; clearInterval(timer); host.classList.remove("is-loading"); host.removeAttribute("aria-busy"); }
     function showFallback() {
+      if (done) return;
+      finish();
       if (engine) engine.hidden = true;
       if (fallback) fallback.hidden = false;
-      host.classList.remove("is-loading");
     }
     if (!ON_SITE || !engine || !window.customElements) { showFallback(); return; }
-    loadCloudbeds();
-    var waited = 0;
-    var timer = setInterval(function () {
-      waited += 500;
-      if (window.customElements.get("cb-immersive-experience")) {
-        clearInterval(timer);
-        host.classList.remove("is-loading");
-      } else if (waited >= 15000) {
-        clearInterval(timer);
-        showFallback();
-      }
+    host.setAttribute("aria-busy", "true");
+    var t0 = Date.now();
+    timer = setInterval(function () {
+      if (window.customElements.get("cb-immersive-experience")) finish();
+      else if (Date.now() - t0 >= 15000) showFallback();
     }, 500);
+    loadCloudbeds(showFallback);
   }
 
   // ---------- 3. availability diary ----------
@@ -166,9 +196,18 @@
     var fallback = document.querySelector("[data-diary-fallback]");
     var DAYS = window.matchMedia && window.matchMedia("(min-width: 900px)").matches ? 21 : 14;
     var t = today();
+    var MAX_START = addDays(t, CFG.maxDaysAhead - DAYS);
     var start = t, data = null, sel = null, reqId = 0;
+    var known = {}; // roomId -> { date -> day } for every night loaded so far
+    function dayOf(roomId, date) { return (known[roomId] || {})[date] || null; }
 
-    function setStatus(msg) { if (status) status.textContent = msg || ""; }
+    function setStatus(msg, isError) {
+      if (!status) return;
+      status.classList.toggle("is-error", Boolean(isError));
+      // Clear first so a repeated message is announced again.
+      status.textContent = "";
+      if (msg) setTimeout(function () { status.textContent = msg; }, 60);
+    }
 
     function showFallback() {
       root.hidden = true;
@@ -176,8 +215,8 @@
       fallback.hidden = false;
       var picker = fallback.querySelector("[data-cloudbeds-picker]");
       if (picker && ON_SITE && window.customElements) {
-        picker.innerHTML = '<cb-property-date-picker property-code="' + CFG.propertyCode +
-          '" custom-url="book.html" lang="en" currency="' + CFG.currency +
+        picker.innerHTML = '<cb-property-date-picker property-code="' + esc(CFG.propertyCode) +
+          '" custom-url="book.html" lang="en" currency="' + esc(CFG.currency) +
           '" button-label="Check availability" layout="horizontal"></cb-property-date-picker>';
         picker.hidden = false;
         loadCloudbeds();
@@ -188,14 +227,15 @@
       var label = room.name + ", " + nice(day.date, true) + ": ";
       if (day.available <= 0) return { cls: "is-full", text: "Full", label: label + "fully booked" };
       var left = day.available === 1 ? "1 left" : day.available + " left";
-      var price = day.rate !== null ? "from " + money(day.rate) : "";
+      var price = day.rate !== null ? money(day.rate) : "";
       var notes = [];
       if (day.closedToArrival) notes.push("no arrivals");
       if (day.minStay) notes.push("minimum " + day.minStay + " nights");
+      if (day.closedToDeparture) notes.push("no departures");
+      var tag = day.closedToArrival ? "No arrivals" : day.minStay ? "Min " + day.minStay : day.closedToDeparture ? "No departures" : "";
       return {
-        cls: day.available <= 1 ? "is-low" : "is-open",
-        text: left, price: price, note: notes.join(", "),
-        label: label + left + (price ? ", " + price + " per night" : "") + (notes.length ? ", " + notes.join(", ") : "")
+        cls: day.available <= 1 ? "is-low" : "is-open", text: left, price: price, tag: tag,
+        label: label + left + (price ? ", from " + price + " per night" : "") + (notes.length ? ", " + notes.join(", ") : "")
       };
     }
 
@@ -203,53 +243,73 @@
       if (!data) return;
       var dates = data.rooms.length ? data.rooms[0].days.map(function (d) { return d.date; }) : [];
       var html = '<table class="diary-table"><caption class="visually-hidden">Rooms available per night from ' +
-        esc(nice(data.start, true)) + '</caption><thead><tr><th scope="col" class="diary-room">Room</th>';
+        esc(nice(data.start, true)) + '. Use the arrow keys to move between nights and rooms.</caption><thead><tr><th scope="col" class="diary-room">Room</th>';
       dates.forEach(function (d) {
         var day = parse(d), wk = day.getDay() === 0 || day.getDay() === 6;
-        html += '<th scope="col" class="' + (wk ? "is-weekend" : "") + '"><span class="diary-dow">' +
-          DOW[day.getDay()] + '</span><span class="diary-dom">' + day.getDate() +
-          '</span><span class="diary-mon">' + MON[day.getMonth()] + "</span></th>";
+        html += '<th scope="col" class="' + (wk ? "is-weekend" : "") + '" aria-label="' + esc(nice(d, true)) + '"><span class="diary-dow">' +
+          DOW[day.getDay()] + '</span><span class="diary-dom">' + day.getDate() + '</span><span class="diary-mon">' + MON[day.getMonth()] + "</span></th>";
       });
       html += "</tr></thead><tbody>";
       data.rooms.forEach(function (room) {
         html += '<tr><th scope="row" class="diary-room">' + esc(room.name) + "</th>";
         room.days.forEach(function (day) {
           var info = cellInfo(room, day);
-          var state = "";
+          var state = "", role = "";
           if (sel && sel.room === room.id) {
-            if (day.date === sel.checkin) state = " is-checkin";
-            else if (sel.checkout && day.date === sel.checkout) state = " is-checkout";
-            else if (sel.checkout && day.date > sel.checkin && day.date < sel.checkout) state = " is-between";
+            if (day.date === sel.checkin) { state = " is-checkin"; role = ", your arrival"; }
+            else if (sel.checkout && day.date === sel.checkout) { state = " is-checkout"; role = ", your departure"; }
+            else if (sel.checkout && day.date > sel.checkin && day.date < sel.checkout) { state = " is-between"; role = ", in your stay"; }
           }
-          var pressed = state ? "true" : "false";
-          html += '<td><button type="button" class="diary-cell ' + info.cls + state + '" data-room="' + esc(room.id) +
-            '" data-date="' + esc(day.date) + '" aria-pressed="' + pressed + '" aria-label="' + esc(info.label) + '">' +
+          html += '<td><button type="button" tabindex="-1" class="diary-cell ' + info.cls + state + '" data-room="' + esc(room.id) +
+            '" data-date="' + esc(day.date) + '" aria-label="' + esc(info.label + role) + '">' +
             '<span class="diary-left">' + esc(info.text) + "</span>" +
-            (info.price ? '<span class="diary-price">' + esc(info.price.replace("from ", "")) + "</span>" : "") +
-            (info.note ? '<span class="diary-note" aria-hidden="true">' + (day.closedToArrival ? "No arrivals" : "Min " + esc(day.minStay)) + "</span>" : "") +
+            (info.price ? '<span class="diary-price">' + esc(info.price) + "</span>" : "") +
+            (info.tag ? '<span class="diary-note" aria-hidden="true">' + esc(info.tag) + "</span>" : "") +
             "</button></td>";
         });
         html += "</tr>";
       });
       html += "</tbody></table>";
       grid.innerHTML = html;
-      if (prevBtn) prevBtn.disabled = start <= t;
+      // One Tab stop for the whole grid (roving tabindex); arrow keys move between cells.
+      var active = (sel && grid.querySelector('[data-room="' + sel.room + '"][data-date="' + (sel.checkout || sel.checkin) + '"]')) ||
+        grid.querySelector(".diary-cell");
+      if (active) active.tabIndex = 0;
+      if (prevBtn) {
+        var prevHadFocus = document.activeElement === prevBtn;
+        prevBtn.disabled = start <= t;
+        if (prevHadFocus && prevBtn.disabled && nextBtn) nextBtn.focus();
+      }
+      if (nextBtn) {
+        var nextHadFocus = document.activeElement === nextBtn;
+        nextBtn.disabled = start >= MAX_START;
+        if (nextHadFocus && nextBtn.disabled && prevBtn) prevBtn.focus();
+      }
       renderSelection();
     }
 
-    function nightsOK(room, checkin, checkout) {
-      var days = {};
-      room.days.forEach(function (d) { days[d.date] = d; });
-      var first = days[checkin];
-      if (!first || first.available <= 0) return "That night is fully booked for the " + room.name + ".";
-      if (first.closedToArrival) return "Arrivals aren't available on " + nice(checkin) + " for the " + room.name + ".";
+    function arrivalProblem(room, date) {
+      var d = dayOf(room.id, date);
+      if (!d || d.available <= 0) return "That night is fully booked for the " + room.name + ".";
+      if (d.closedToArrival) return "Arrivals aren't available on " + nice(date) + " for the " + room.name + ".";
+      return null;
+    }
+
+    function stayProblem(room, checkin, checkout) {
+      var first = dayOf(room.id, checkin);
       var n = nightsBetween(checkin, checkout);
-      if (first.minStay && n < first.minStay) return "Stays arriving on " + nice(checkin) + " need at least " + first.minStay + " nights.";
-      for (var d = checkin; d < checkout; d = addDays(d, 1)) {
-        if (!days[d]) return null; // beyond this view: let the booking engine check it
-        if (days[d].available <= 0) return "The " + room.name + " is fully booked on " + nice(d) + ". Try different dates or another room.";
+      if (first) {
+        if (first.available <= 0) return "That night is fully booked for the " + room.name + ".";
+        if (first.closedToArrival) return "Arrivals aren't available on " + nice(checkin) + " for the " + room.name + ".";
+        if (first.minStay && n < first.minStay) return "Stays arriving on " + nice(checkin) + " need at least " + first.minStay + " nights.";
       }
-      if (days[checkout] && days[checkout].closedToDeparture) return "Departures aren't available on " + nice(checkout) + ".";
+      for (var d = checkin; d < checkout; d = addDays(d, 1)) {
+        var night = dayOf(room.id, d);
+        if (!night) continue; // not loaded: the booking engine checks it
+        if (night.available <= 0) return "The " + room.name + " is fully booked on " + nice(d) + ". Try different dates or another room.";
+      }
+      var dep = dayOf(room.id, checkout);
+      if (dep && dep.closedToDeparture) return "Departures aren't available on " + nice(checkout) + ".";
       return null;
     }
 
@@ -259,38 +319,41 @@
       var room = roomById(sel.room);
       selBox.hidden = false;
       if (!sel.checkout) {
-        selText.textContent = room.name + ": arriving " + nice(sel.checkin, true) + ". Now choose your departure date.";
+        var a = dayOf(sel.room, sel.checkin);
+        selText.textContent = room.name + ": arriving " + nice(sel.checkin, true) + ". Now choose your departure date" +
+          (a && a.minStay ? " (minimum " + a.minStay + " nights)" : "") + ".";
         selBook.hidden = true;
         return;
       }
       var n = nightsBetween(sel.checkin, sel.checkout);
       var total = 0, priced = true;
-      var row = null;
-      data.rooms.forEach(function (r) { if (r.id === sel.room) row = r; });
-      row.days.forEach(function (d) {
-        if (d.date >= sel.checkin && d.date < sel.checkout) { if (d.rate === null) priced = false; else total += d.rate; }
-      });
-      if (nightsBetween(sel.checkin, sel.checkout) > row.days.filter(function (d) { return d.date >= sel.checkin; }).length) priced = false;
+      for (var d = sel.checkin; d < sel.checkout; d = addDays(d, 1)) {
+        var night = dayOf(sel.room, d);
+        if (!night || night.rate === null) { priced = false; break; }
+        total += night.rate;
+      }
       selText.textContent = room.name + ": " + nice(sel.checkin, true) + " to " + nice(sel.checkout, true) + ", " +
-        n + (n === 1 ? " night" : " nights") + (priced ? ". From " + money(Math.round(total * 100) / 100) + " in total." : ".");
+        plural(n, "night", "nights") + (priced ? ". From " + money(Math.round(total * 100) / 100) + " in total." : ".");
       selBook.hidden = false;
       selBook.href = bookingUrl({ checkin: sel.checkin, checkout: sel.checkout, rid: sel.room, adults: room.guests === 1 ? 1 : 2 });
     }
 
     function onCell(btn) {
       var roomId = btn.getAttribute("data-room"), date = btn.getAttribute("data-date");
-      var room = null;
-      data.rooms.forEach(function (r) { if (r.id === roomId) room = r; });
+      var room = roomById(roomId);
+      if (!room) return;
       if (!sel || sel.room !== roomId || sel.checkout || date <= sel.checkin) {
-        var problem = nightsOK(room, date, addDays(date, 1));
-        if (problem) { setStatus(problem); return; }
+        var problem = arrivalProblem(room, date);
+        if (problem) { setStatus(problem, true); return; }
         sel = { room: roomId, checkin: date, checkout: null };
-        setStatus(room.name + ": arriving " + nice(date, true) + ". Choose your departure date.");
+        var a = dayOf(roomId, date);
+        setStatus(room.name + ": arriving " + nice(date, true) + ". Choose your departure date" +
+          (a && a.minStay ? " (minimum " + a.minStay + " nights)" : "") + ".");
       } else {
-        var issue = nightsOK(room, sel.checkin, date);
-        if (issue) { setStatus(issue); return; }
+        var issue = stayProblem(room, sel.checkin, date);
+        if (issue) { setStatus(issue, true); return; }
         sel.checkout = date;
-        setStatus("Selected " + room.name + ", " + nice(sel.checkin) + " to " + nice(date) + ".");
+        setStatus("Selected " + room.name + ", " + nice(sel.checkin) + " to " + nice(date) + ". Use Book these dates to continue.");
       }
       render();
       var again = grid.querySelector('[data-room="' + roomId + '"][data-date="' + date + '"]');
@@ -300,8 +363,9 @@
     function load() {
       var id = ++reqId;
       root.classList.add("is-loading");
+      grid.setAttribute("aria-busy", "true");
       setStatus("Loading live availability…");
-      if (startEl) startEl.value = start;
+      if (startEl && document.activeElement !== startEl) startEl.value = start;
       fetch("/api/availability?start=" + encodeURIComponent(start) + "&days=" + DAYS, { headers: { Accept: "application/json" } })
         .then(function (res) {
           if (!res.ok) throw new Error("HTTP " + res.status);
@@ -311,34 +375,82 @@
           if (id !== reqId) return;
           if (!json || !Array.isArray(json.rooms)) throw new Error("Unexpected response");
           data = json;
+          json.rooms.forEach(function (r) {
+            var k = known[r.id] = known[r.id] || {};
+            r.days.forEach(function (d) { k[d.date] = d; });
+          });
           root.classList.remove("is-loading");
+          grid.removeAttribute("aria-busy");
           var updated = json.generatedAt ? new Date(json.generatedAt) : null;
           setStatus("Showing " + nice(json.start, true) + " to " + nice(addDays(json.end, -1), true) +
-            (updated ? ". Updated " + updated.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" }) : "") + ".");
+            (updated && !isNaN(updated) ? ". Updated " + pad(updated.getHours()) + ":" + pad(updated.getMinutes()) : "") + ".");
           render();
         })
         .catch(function () {
           if (id !== reqId) return;
           root.classList.remove("is-loading");
-          showFallback();
+          grid.removeAttribute("aria-busy");
+          if (!data) { showFallback(); return; }
+          // A later failure (e.g. Cloudbeds busy): keep the diary and the guest's selection.
+          start = data.start;
+          if (startEl && document.activeElement !== startEl) startEl.value = start;
+          render();
+          setStatus("Sorry, we couldn't load those dates just now. Please try again in a moment.", true);
         });
     }
 
     grid.addEventListener("click", function (e) {
       var btn = e.target.closest ? e.target.closest(".diary-cell") : null;
-      if (btn) onCell(btn);
+      if (btn && !root.classList.contains("is-loading")) onCell(btn);
+    });
+    grid.addEventListener("focusin", function (e) {
+      var c = e.target.closest ? e.target.closest(".diary-cell") : null;
+      if (!c) return;
+      var old = grid.querySelector('.diary-cell[tabindex="0"]');
+      if (old && old !== c) old.tabIndex = -1;
+      c.tabIndex = 0;
+    });
+    grid.addEventListener("keydown", function (e) {
+      var btn = e.target.closest ? e.target.closest(".diary-cell") : null;
+      if (!btn) return;
+      var td = btn.parentNode, tr = td.parentNode, rows = tr.parentNode.rows, r = tr.sectionRowIndex, c = td.cellIndex;
+      var to;
+      if (e.key === "ArrowRight") to = tr.cells[c + 1] || null;
+      else if (e.key === "ArrowLeft") to = c > 1 ? tr.cells[c - 1] : null;
+      else if (e.key === "ArrowDown") to = rows[r + 1] ? rows[r + 1].cells[c] : null;
+      else if (e.key === "ArrowUp") to = rows[r - 1] ? rows[r - 1].cells[c] : null;
+      else if (e.key === "Home") to = tr.cells[1];
+      else if (e.key === "End") to = tr.cells[tr.cells.length - 1];
+      else return;
+      e.preventDefault();
+      var next = to && to.querySelector(".diary-cell");
+      if (next) next.focus();
     });
     if (prevBtn) prevBtn.addEventListener("click", function () {
       var s = addDays(start, -DAYS); start = s < t ? t : s; load();
     });
-    if (nextBtn) nextBtn.addEventListener("click", function () { start = addDays(start, DAYS); load(); });
+    if (nextBtn) nextBtn.addEventListener("click", function () {
+      var s = addDays(start, DAYS); start = s > MAX_START ? MAX_START : s; load();
+    });
     if (startEl) {
       startEl.min = t;
+      startEl.max = MAX_START;
       startEl.addEventListener("change", function () {
-        if (parse(startEl.value)) { start = startEl.value < t ? t : startEl.value; load(); }
+        var v = startEl.value;
+        if (parse(v) && v >= t && v <= MAX_START && v !== start) { start = v; load(); }
+      });
+      startEl.addEventListener("blur", function () {
+        if (!parse(startEl.value) || startEl.value < t || startEl.value > MAX_START) startEl.value = start;
       });
     }
-    if (selClear) selClear.addEventListener("click", function () { sel = null; setStatus(""); render(); });
+    if (selClear) selClear.addEventListener("click", function () {
+      var was = sel;
+      sel = null;
+      render();
+      setStatus("Selection cleared. Choose an arrival date.");
+      var cell = was && grid.querySelector('[data-room="' + was.room + '"][data-date="' + was.checkin + '"]');
+      (cell || root.querySelector(".diary-scroll")).focus();
+    });
     load();
   }
 
@@ -351,7 +463,7 @@
 
   // Off the hotel's own domain, send "Book" links straight to the hosted booking page.
   if (!ON_SITE) {
-    document.querySelectorAll('a[href^="book.html"]').forEach(function (a) {
+    document.querySelectorAll('a[href^="book.html"], a[href^="/book.html"]').forEach(function (a) {
       if (a.closest("[data-booking-engine]")) return;
       var q = a.getAttribute("href").split("?")[1] || "";
       var o = {};

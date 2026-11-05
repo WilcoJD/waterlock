@@ -64,7 +64,7 @@ Without Cloudflare, `public/` works on any static host. Booking and the booking 
 
 ### Testing
 
-`npm test` (Node 18 or later) runs the unit tests for the availability function against a test fixture built from Cloudbeds' published API schema. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
+`npm test` (Node 18 or later) runs the unit tests for the availability function against a test fixture built from Cloudbeds' published API schema. To try the function locally with the real key, put `CLOUDBEDS_API_KEY=cbat_…` in `bentley-hotel/.dev.vars` (git-ignored) and run `npx wrangler pages dev public`. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
 
 - **Book a room page:** the booking engine loads.
 - **Searches carry over:** a search from the home page arrives with its dates and room selected.

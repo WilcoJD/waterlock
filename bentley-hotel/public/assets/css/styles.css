@@ -639,7 +639,7 @@ body { padding-bottom: 54px; }
 .diary-nav { min-height: 46px; }
 .diary-nav:disabled { opacity: 0.45; cursor: not-allowed; }
 .diary-status { min-height: 1.6em; margin: 0 0 0.75rem; color: var(--muted); max-width: none; }
-.diary-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--paper); -webkit-overflow-scrolling: touch; }
+.diary-scroll { overflow-x: auto; scroll-padding-inline-start: 140px; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--paper); -webkit-overflow-scrolling: touch; }
 .diary.is-loading .diary-scroll { min-height: 260px; background: repeating-linear-gradient(-45deg, var(--paper) 0 12px, var(--cream) 12px 24px); }
 .diary-table { border-collapse: separate; border-spacing: 0; width: max-content; min-width: 100%; font-size: 0.85rem; }
 .diary-table th, .diary-table td { padding: 0; border-bottom: 1px solid var(--line); text-align: center; vertical-align: middle; }
@@ -659,7 +659,7 @@ thead .diary-room { background: var(--sand-100); }
 .diary-cell:focus-visible { outline-offset: -3px; }
 .diary-cell.is-open { background: #e6f0ea; }
 .diary-cell.is-low { background: #f8ead0; }
-.diary-cell.is-full { background: #ececea; color: #6b6f6c; }
+.diary-cell.is-full { background: #ececea; color: var(--muted); }
 .diary-cell.is-full .diary-left { text-decoration: line-through; }
 .diary-cell.is-checkin, .diary-cell.is-checkout { background: var(--green-900); color: #fff; }
 .diary-cell.is-between { background: var(--green-700); color: #fff; }
@@ -685,3 +685,13 @@ thead .diary-room { background: var(--sand-100); }
 @media (min-width: 720px) { .diary-jump { max-width: 240px; justify-self: center; width: 100%; } }
 .booking-bar input, .booking-bar select { height: 48px; min-height: 48px; padding-block: 0; }
 .booking-card__note { max-width: none; }
+
+.diary-cell.is-checkin:focus-visible, .diary-cell.is-checkout:focus-visible, .diary-cell.is-between:focus-visible { outline-color: #ecd3a5; }
+@media (max-width: 519.98px) { .diary-controls { grid-template-columns: 1fr 1fr; } .diary-jump { grid-column: 1 / -1; grid-row: 1; } }
+.diary-status.is-error { color: #8a3b12; font-weight: 600; }
+.diary-status.is-error::before { content: "⚠ "; }
+.booking-bar .hint { margin: 0.35rem 0 0; font-size: 0.82rem; color: var(--muted); }
+.booking-bar .hint:empty { display: none; }
+@media (forced-colors: active) {
+  .diary-cell.is-checkin, .diary-cell.is-checkout, .diary-cell.is-between, .diary-key.is-checkin { forced-color-adjust: none; background: Highlight; color: HighlightText; }
+}

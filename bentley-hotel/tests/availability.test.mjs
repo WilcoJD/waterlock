@@ -3,7 +3,7 @@
 // OpenAPI schema (field names are real; the values are invented for the test).
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { onRequest, onRequestGet, summarise, ROOM_TYPES } from "../functions/api/availability.js";
+import { onRequest, onRequestGet, summarise, blockFor, ROOM_TYPES } from "../functions/api/availability.js";
 
 const DOUBLE = "148839795253447";
 const SINGLE = "148837309972637";
@@ -88,7 +88,7 @@ test("returns 503 not_configured without an API key, and never calls Cloudbeds",
 test("validates start and days", async () => {
   const env = { CLOUDBEDS_API_KEY: "cbat_test" };
   const noFetch = async () => { throw new Error("should not fetch"); };
-  for (const q of ["start=2026-13-01", "start=nope", "days=0", "days=63", "days=1.5", `start=${isoIn(-5)}`, `start=${isoIn(600)}`]) {
+  for (const q of ["start=2026-13-01", "start=nope", "days=0", "days=22", "days=63", "days=1.5", `start=${isoIn(-5)}`, `start=${isoIn(600)}`]) {
     const res = await onRequestGet(ctx(`https://example.test/api/availability?${q}`, env, noFetch));
     assert.equal(res.status, 400, q);
   }
@@ -104,8 +104,9 @@ test("calls getRatePlans with the right parameters and headers, and keeps the ke
   }));
   assert.equal(res.status, 200);
   assert.equal(seen.url.origin + seen.url.pathname, "https://api.cloudbeds.com/api/v1.3/getRatePlans");
-  assert.equal(seen.url.searchParams.get("startDate"), start);
-  assert.equal(seen.url.searchParams.get("endDate"), isoIn(13));
+  // Cloudbeds is asked for the aligned 42-night block that contains the request
+  assert.equal(seen.url.searchParams.get("startDate"), isoIn(-1));
+  assert.equal(seen.url.searchParams.get("endDate"), isoIn(41));
   assert.equal(seen.url.searchParams.get("detailedRates"), "true");
   assert.equal(seen.url.searchParams.get("includePromoCode"), "false");
   assert.equal(seen.url.searchParams.get("propertyIDs"), "141393122377981");
@@ -119,6 +120,8 @@ test("calls getRatePlans with the right parameters and headers, and keeps the ke
   assert.equal(body.end, isoIn(13));
   assert.equal(body.currency, "GBP");
   assert.equal(body.rooms.length, 4);
+  assert.deepEqual(body.rooms.find((r) => r.id === DOUBLE).days.map((d) => d.date), [start, isoIn(11), isoIn(12)]);
+  assert.equal(body.stale, false);
   assert.match(res.headers.get("Cache-Control"), /max-age=300/);
 });
 
@@ -138,4 +141,73 @@ test("maps Cloudbeds failures to 502/503 without echoing upstream details", asyn
 test("rejects methods other than GET", async () => {
   const res = await onRequest({ request: new Request("https://example.test/api/availability", { method: "POST" }), env: {} });
   assert.equal(res.status, 405);
+});
+
+test("restrictions don't depend on the order of rate plans", () => {
+  const start = isoIn(10);
+  const a = { isDerived: false, roomTypeID: DOUBLE, roomRateDetailed: [{ date: start, totalRate: 64, roomsAvailable: 2, closedToArrival: true, minLos: 3 }] };
+  const b = { isDerived: false, roomTypeID: DOUBLE, roomRateDetailed: [{ date: start, totalRate: 90, roomsAvailable: 2, closedToArrival: false, minLos: 1 }] };
+  const d = { isDerived: true, roomTypeID: DOUBLE, roomRateDetailed: [{ date: start, totalRate: 70, roomsAvailable: 2, closedToArrival: true, minLos: 5 }] };
+  for (const order of [[a, b, d], [d, b, a], [b, d, a]]) {
+    const cell = summarise(order, start, isoIn(11)).find((r) => r.id === DOUBLE).days[0];
+    assert.equal(cell.closedToArrival, false, "open if any base plan is open");
+    assert.equal(cell.minStay, null, "shortest base-plan minimum stay wins");
+    assert.equal(cell.rate, 64);
+  }
+});
+
+test("blockFor aligns requests to fixed 21-night blocks", () => {
+  const today = new Date(isoIn(0) + "T00:00:00Z");
+  const at = (n) => blockFor(new Date(isoIn(n) + "T00:00:00Z"), today);
+  assert.deepEqual(at(-1), { startISO: isoIn(-1), endISO: isoIn(41) });
+  assert.deepEqual(at(19), { startISO: isoIn(-1), endISO: isoIn(41) });
+  assert.deepEqual(at(20), { startISO: isoIn(20), endISO: isoIn(62) });
+  // every allowed request (start + up to 21 nights) fits inside its block
+  for (let n = -1; n < 120; n++) {
+    const b = at(n);
+    assert.ok(b.startISO <= isoIn(n) && isoIn(n + 21) <= b.endISO, `start +${n}`);
+  }
+});
+
+function fakeCaches() {
+  const store = new Map();
+  return {
+    store,
+    default: {
+      async match(req) { const r = store.get(req.url); return r ? r.clone() : undefined; },
+      async put(req, res) { store.set(req.url, res.clone()); },
+    },
+  };
+}
+
+test("uses the edge cache, and serves the last good copy if Cloudbeds fails", async () => {
+  const start = isoIn(10);
+  const env = { CLOUDBEDS_API_KEY: "cbat_x" };
+  const fc = fakeCaches();
+  globalThis.caches = fc;
+  try {
+    let calls = 0;
+    const ok = async () => { calls++; return new Response(JSON.stringify(fixture(start)), { status: 200 }); };
+    let res = await onRequestGet(ctx(`https://example.test/api/availability?start=${start}&days=3`, env, ok));
+    assert.equal(res.status, 200);
+    // a different start/days inside the same block is served from cache
+    res = await onRequestGet(ctx(`https://example.test/api/availability?start=${isoIn(11)}&days=7`, env, ok));
+    assert.equal(res.status, 200);
+    assert.equal(calls, 1, "second request must not reach Cloudbeds");
+    assert.equal((await res.json()).rooms[0].days.length, 7);
+    // fresh copy expires; Cloudbeds now rate-limits: the stale copy is served
+    for (const k of [...fc.store.keys()]) if (k.includes("/_block?")) fc.store.delete(k);
+    res = await onRequestGet(ctx(`https://example.test/api/availability?start=${start}&days=3`, env, async () => new Response("", { status: 429 })));
+    assert.equal(res.status, 200);
+    const body = await res.json();
+    assert.equal(body.stale, true);
+    assert.equal(res.headers.get("Cache-Control"), "no-store");
+    // with no stale copy either, the error is passed on
+    fc.store.clear();
+    res = await onRequestGet(ctx(`https://example.test/api/availability?start=${start}&days=3`, env, async () => new Response("", { status: 429, headers: { "Retry-After": "9" } })));
+    assert.equal(res.status, 503);
+    assert.equal(res.headers.get("Retry-After"), "9");
+  } finally {
+    delete globalThis.caches;
+  }
 });
