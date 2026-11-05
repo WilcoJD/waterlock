@@ -1,0 +1,9 @@
+{
+  "name": "bentley-hotel-website",
+  "private": true,
+  "type": "module",
+  "description": "Static website for The Bentley Hotel, Motherwell, with a Cloudflare Pages Function for live Cloudbeds availability",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}

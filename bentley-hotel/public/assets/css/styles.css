@@ -91,6 +91,8 @@ li { margin-bottom: 0.35em; }
 strong { font-weight: 600; }
 hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; }
 
+[hidden] { display: none !important; }
+
 .visually-hidden {
   position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
@@ -587,3 +589,99 @@ body { padding-bottom: 54px; }
   html:not(.js) .site-nav a { padding: 0.35rem 0; }
   html:not(.js) .site-nav .btn { width: auto; min-height: 40px; padding: 0.5rem 1rem; }
 }
+
+/* ==========================================================================
+   Online booking (Cloudbeds)
+   ========================================================================== */
+
+/* Booking search bar */
+.booking-strip { background: var(--sand-100); padding-block: clamp(1.5rem, 1rem + 2vw, 2.5rem); }
+.booking-card { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius-lg); box-shadow: var(--shadow); padding: clamp(1.1rem, 0.8rem + 1.2vw, 1.75rem); }
+.booking-card__title { font-size: var(--step-1); margin: 0 0 0.9rem; }
+.booking-card__note { margin: 0.9rem 0 0; color: var(--muted); }
+.booking-bar__fields { display: grid; gap: 0.85rem; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: end; }
+.booking-bar input, .booking-bar select { min-width: 0; max-width: 100%; }
+.booking-bar .field label { font-size: 0.85rem; letter-spacing: 0.04em; }
+.booking-bar__room, .booking-bar__submit { grid-column: 1 / -1; }
+.booking-bar__submit .btn { width: 100%; min-height: 48px; }
+@media (min-width: 720px) {
+  .booking-bar__fields { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .booking-bar__room { grid-column: span 2; }
+  .booking-bar__submit { grid-column: span 2; }
+}
+@media (min-width: 1080px) {
+  .booking-bar__fields { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1.25fr) minmax(0, 0.7fr) minmax(0, 0.7fr) minmax(0, 1.2fr) auto; }
+  .booking-bar__room, .booking-bar__submit { grid-column: auto; }
+  .booking-bar__submit .btn { width: auto; white-space: nowrap; }
+}
+
+/* Compact page hero for the booking pages */
+.page-hero--compact .container { padding-block: clamp(2.25rem, 1.75rem + 2.5vw, 3.75rem); }
+.booking-summary { margin: 1.1rem 0 0; display: inline-block; background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(236, 211, 165, 0.35); border-radius: var(--radius); padding: 0.55rem 0.85rem; color: #f1e7d4; font-size: 0.95rem; }
+
+/* On-site booking engine */
+.booking-engine { position: relative; min-height: 360px; }
+.booking-engine cb-immersive-experience { display: block; min-height: 360px; }
+.booking-engine.is-loading::before {
+  content: "Loading live availability…"; position: absolute; inset: 0; display: grid; place-items: center;
+  color: var(--muted); font-size: 0.95rem; letter-spacing: 0.04em; border: 1px dashed var(--line-strong); border-radius: var(--radius-lg);
+  background: repeating-linear-gradient(-45deg, var(--paper) 0 12px, var(--cream) 12px 24px); pointer-events: none;
+}
+.booking-fallback { max-width: 640px; margin: 1rem auto; text-align: center; padding: clamp(1.5rem, 1rem + 2vw, 2.5rem); border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--paper); }
+.booking-fallback .feature__icon { margin-inline: auto; }
+.booking-fallback .btn-row { justify-content: center; }
+.booking-fallback p { margin-inline: auto; }
+.booking-help { margin: 1rem 0 0; text-align: center; max-width: none; }
+
+/* Availability diary */
+.diary-controls { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: end; justify-content: space-between; margin-bottom: 0.75rem; }
+.diary-jump { min-width: 190px; }
+.diary-nav { min-height: 46px; }
+.diary-nav:disabled { opacity: 0.45; cursor: not-allowed; }
+.diary-status { min-height: 1.6em; margin: 0 0 0.75rem; color: var(--muted); max-width: none; }
+.diary-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius-lg); background: var(--paper); -webkit-overflow-scrolling: touch; }
+.diary.is-loading .diary-scroll { min-height: 260px; background: repeating-linear-gradient(-45deg, var(--paper) 0 12px, var(--cream) 12px 24px); }
+.diary-table { border-collapse: separate; border-spacing: 0; width: max-content; min-width: 100%; font-size: 0.85rem; }
+.diary-table th, .diary-table td { padding: 0; border-bottom: 1px solid var(--line); text-align: center; vertical-align: middle; }
+.diary-table thead th { background: var(--sand-100); padding: 0.45rem 0.25rem; font-weight: 600; color: var(--green-900); text-transform: none; letter-spacing: 0; min-width: 64px; line-height: 1.15; }
+.diary-table thead th.is-weekend { background: #efe4cf; }
+.diary-dow, .diary-mon { display: block; font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.diary-dom { display: block; font-family: var(--font-display); font-size: 1.35rem; font-weight: 600; }
+.diary-room { position: sticky; left: 0; z-index: 1; background: var(--paper); text-align: left !important; padding: 0.6rem 0.9rem !important; min-width: 128px; font-weight: 600; color: var(--green-900); border-right: 1px solid var(--line); box-shadow: 4px 0 8px -6px rgba(16, 36, 32, 0.25); }
+thead .diary-room { background: var(--sand-100); }
+.diary-table tbody tr:last-child th, .diary-table tbody tr:last-child td { border-bottom: 0; }
+.diary-cell {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.1rem;
+  width: 100%; min-width: 64px; min-height: 62px; padding: 0.35rem 0.25rem; border: 0; border-left: 1px solid var(--line);
+  font: inherit; line-height: 1.15; cursor: pointer; background: transparent; color: var(--ink);
+}
+.diary-cell:hover { filter: brightness(0.97); }
+.diary-cell:focus-visible { outline-offset: -3px; }
+.diary-cell.is-open { background: #e6f0ea; }
+.diary-cell.is-low { background: #f8ead0; }
+.diary-cell.is-full { background: #ececea; color: #6b6f6c; }
+.diary-cell.is-full .diary-left { text-decoration: line-through; }
+.diary-cell.is-checkin, .diary-cell.is-checkout { background: var(--green-900); color: #fff; }
+.diary-cell.is-between { background: var(--green-700); color: #fff; }
+.diary-left { font-weight: 600; font-size: 0.8rem; }
+.diary-price { font-size: 0.82rem; }
+.diary-note { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.04em; opacity: 0.85; }
+.diary-legend { list-style: none; display: flex; flex-wrap: wrap; gap: 0.4rem 1.25rem; padding: 0; margin: 0.9rem 0 0; color: var(--muted); }
+.diary-legend li { display: inline-flex; align-items: center; gap: 0.45rem; margin: 0; }
+.diary-key { width: 16px; height: 16px; border-radius: 3px; border: 1px solid var(--line-strong); }
+.diary-key.is-open { background: #e6f0ea; }
+.diary-key.is-low { background: #f8ead0; }
+.diary-key.is-full { background: #ececea; }
+.diary-key.is-checkin { background: var(--green-900); }
+.diary-selection { margin-top: 1.1rem; padding: 1rem 1.2rem; border: 1px solid var(--line-strong); border-left: 4px solid var(--brass-600); border-radius: var(--radius); background: var(--sand-100); display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; align-items: center; justify-content: space-between; }
+.diary-selection p { margin: 0; font-weight: 600; color: var(--green-900); }
+.diary-small { margin-top: 1rem; max-width: none; }
+.diary-fallback { max-width: 980px; }
+.cloudbeds-picker { margin: 1rem 0 1.5rem; }
+@media print { .booking-strip, .diary-controls, .diary-selection { display: none !important; } }
+.diary-controls { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 0.6rem; align-items: end; }
+.diary-jump { min-width: 0; }
+@media (max-width: 520px) { .diary-nav { padding-inline: 0.75rem; letter-spacing: 0.03em; } }
+@media (min-width: 720px) { .diary-jump { max-width: 240px; justify-self: center; width: 100%; } }
+.booking-bar input, .booking-bar select { height: 48px; min-height: 48px; padding-block: 0; }
+.booking-card__note { max-width: none; }

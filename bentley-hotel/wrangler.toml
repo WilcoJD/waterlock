@@ -1,0 +1,10 @@
+# Cloudflare Pages project for The Bentley Hotel website.
+# Static files live in public/; functions/ holds the /api/availability Pages Function.
+# The Cloudbeds API key is a SECRET — never put it in this file:
+#   npx wrangler pages secret put CLOUDBEDS_API_KEY --project-name bentley-hotel
+name = "bentley-hotel"
+pages_build_output_dir = "public"
+compatibility_date = "2025-10-01"
+
+[vars]
+CLOUDBEDS_PROPERTY_ID = "141393122377981"
