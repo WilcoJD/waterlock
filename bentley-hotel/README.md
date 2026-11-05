@@ -18,15 +18,16 @@ Online booking goes through the hotel's existing Cloudbeds booking engine (`http
 | `contact.html` | Contact details and an enquiry form |
 | `404.html` | "Page not found" page |
 
-Also included: `assets/css/styles.css` (all styling), `assets/js/main.js` (mobile menu, scroll reveal, enquiry form), `assets/img/` (photos in WebP and JPEG at two sizes), `favicon.svg`, `robots.txt` and `sitemap.xml`.
+Also included: `assets/css/styles.css` (all styling), `assets/js/main.js` (mobile menu, scroll reveal, enquiry form), `assets/img/` (photos in WebP and JPEG at two sizes), `favicon.svg` / `favicon.ico` / `apple-touch-icon.png`, `robots.txt` and `sitemap.xml`.
 
 ## Editing
 
 - **Text:** edit the HTML files directly. The header, top bar and footer are repeated at the top and bottom of every page, so if you change the phone number, email or navigation, change it in all nine files (search and replace works well).
 - **Colours and fonts:** these are set as variables at the top of `assets/css/styles.css` (`--green-900`, `--brass-600`, and so on).
-- **Photos:** put new images in `assets/img/` and point the `<picture>` tags at them. The site currently has no photos of the restaurant, conservatory interior, bar or function room. Adding them will help most on the Dining, Weddings and Functions pages.
+- **Photos:** put new images in `assets/img/` and point the `<picture>` tags at them. The `srcset` width values (such as `800w`) must match each file's real pixel width. The site currently has no photos of the restaurant, conservatory interior, bar or function room. Adding them will help most on the Dining, Weddings and Functions pages (the home page's restaurant section was made text-only so the one exterior photo isn't shown twice). The only exterior photo is 700px wide. A larger one (at least 1400px wide, ideally with a 1200×630 crop for social-media link previews) would sharpen the home-page hero and shared links.
 - **Enquiry form:** the form on `contact.html` opens the visitor's email app with their message ready to send to the address in `data-mailto`. To collect enquiries without email apps, swap it for a form service (for example Netlify Forms, Formspree or Basin).
 - **Domain:** canonical links, Open Graph tags and `sitemap.xml` assume the site will live at `https://www.thebentleyhotel.co.uk/`. Change them if it goes elsewhere. That domain currently redirects to the Cloudbeds booking page, so point it at the new site when it goes live.
+- **Hosting in a subfolder:** every page uses relative links except `404.html`, which uses root-relative links (`/assets/...`, `/rooms.html`) because hosts serve it at whatever missing URL was requested. If the site is served from a subfolder (for example `username.github.io/bentley-hotel/`), add that folder to the paths in `404.html`.
 
 ## Where the content came from
 
@@ -43,11 +44,11 @@ Where sources disagreed, the site follows the hotel's own booking engine, and le
 
 These items were deliberately left vague or out because the sources conflicted or were out of date:
 
-1. **Room count.** The site says 18 en-suite bedrooms (the current official text). Older listings say 15 or 16, and many OTAs still say 15.
+1. **Room count and family room.** The site says 18 en-suite bedrooms (the current official text). Older listings say 15 or 16, and many OTAs still say 15. The family room is shown as sleeping up to 3 (one may be a child), with a double and a single bed, which matches the Cloudbeds occupancy and photo.
 2. **Breakfast.** Is it included in the rate, and what are the serving times? The site says only that a cooked-to-order full Scottish breakfast is served and that the booking shows whether it's included.
 3. **Restaurant and bar.** Current opening hours, whether non-residents are welcome, and whether the bar is open (a May 2026 review mentioned reconstruction). The site asks people to call. Add hours and menus when you can.
 4. **Reception hours and late arrivals.** OTAs disagree (09:00–23:00 or 24 hours). The site asks late arrivals to let the hotel know.
-5. **Function room.** Is the "Function Suite" the same room as Back o' Barns? Are both air-conditioned? The capacities shown (theatre 120, dinner 100, reception 120) come from official text and directory listings. Room size, AV equipment and day-delegate rates would strengthen the page.
+5. **Function room.** The site treats the air-conditioned "Function Suite" and the Back o' Barns room as the same space. Please confirm. The capacities shown (theatre 120, dinner 100, reception 120) come from official text and directory listings. Room size, AV equipment and day-delegate rates would strengthen the page.
 6. **Wedding package.** The package list comes from old official copy (about 2017), reworded "for the happy couple". Check that it's current, and whether the hotel is registered for civil ceremonies. Old prices (Bridebook's "from £70") were left out.
 7. **Honeymoon / Executive Suite (four-poster).** This appears in old copy and on some OTAs but isn't sold on Cloudbeds, so it's not on the site.
 8. **Accessibility.** The site says many bedrooms are reached by stairs and asks guests with access needs to call. Please replace this with an accurate accessibility statement (lift, step-free access, ground-floor rooms).

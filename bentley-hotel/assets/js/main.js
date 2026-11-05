@@ -3,33 +3,47 @@
   "use strict";
 
   var doc = document.documentElement;
-  doc.classList.add("js");
+  doc.classList.add("js"); // also set inline in <head>; kept here as a fallback
 
   // Mobile navigation toggle
   var toggle = document.querySelector(".nav-toggle");
   var nav = document.getElementById("site-nav");
-  if (toggle && nav) {
+  var header = document.querySelector(".site-header");
+  if (toggle && nav && header) {
+    var isOpen = function () { return toggle.getAttribute("aria-expanded") === "true"; };
     var setOpen = function (open) {
       toggle.setAttribute("aria-expanded", open ? "true" : "false");
       nav.classList.toggle("is-open", open);
+      if (open) {
+        nav.style.maxHeight = Math.max(160, window.innerHeight - header.getBoundingClientRect().bottom) + "px";
+      } else {
+        nav.style.maxHeight = "";
+      }
     };
-    toggle.addEventListener("click", function () {
-      setOpen(toggle.getAttribute("aria-expanded") !== "true");
-    });
+    toggle.addEventListener("click", function () { setOpen(!isOpen()); });
     document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape" && toggle.getAttribute("aria-expanded") === "true") {
+      if (e.key === "Escape" && isOpen()) {
         setOpen(false);
         toggle.focus();
       }
     });
-    window.matchMedia("(min-width: 1080px)").addEventListener("change", function (mq) {
-      if (mq.matches) setOpen(false);
+    // Close the menu when focus or a click moves outside the header
+    document.addEventListener("focusin", function (e) {
+      if (isOpen() && !header.contains(e.target)) setOpen(false);
     });
+    document.addEventListener("click", function (e) {
+      if (isOpen() && !header.contains(e.target)) setOpen(false);
+    });
+    var wideMq = window.matchMedia("(min-width: 1080px)");
+    var onWide = function (mq) { if (mq.matches) setOpen(false); };
+    if (wideMq.addEventListener) wideMq.addEventListener("change", onWide);
+    else if (wideMq.addListener) wideMq.addListener(onWide);
   }
 
-  // Reveal-on-scroll
+  // Reveal-on-scroll. Content is only hidden once the observer that reveals it exists.
   var reveals = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window && reveals.length) {
+    doc.classList.add("reveal-ready");
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
         if (entry.isIntersecting) {
@@ -39,8 +53,6 @@
       });
     }, { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
     reveals.forEach(function (el) { io.observe(el); });
-  } else {
-    reveals.forEach(function (el) { el.classList.add("is-visible"); });
   }
 
   // Footer year
@@ -70,9 +82,9 @@
       var lines = [];
       data.forEach(function (value, key) {
         if (!value) return;
-        var label = form.querySelector('[name="' + key + '"]');
-        var field = label && label.id ? form.querySelector('label[for="' + label.id + '"]') : null;
-        lines.push((field ? field.textContent.replace(/\s*\(optional\)\s*/i, "").trim() : key) + ": " + value);
+        var input = form.querySelector('[name="' + key + '"]');
+        var label = input && input.id ? form.querySelector('label[for="' + input.id + '"]') : null;
+        lines.push((label ? label.textContent.replace(/\s*\(optional\)\s*/i, "").trim() : key) + ": " + value);
       });
       window.location.href = "mailto:" + to +
         "?subject=" + encodeURIComponent(subject) +
