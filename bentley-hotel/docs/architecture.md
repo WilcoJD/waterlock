@@ -12,9 +12,9 @@ bentley-hotel/
 │   └── _lib/               shared code: schema.sql, db.js, render.js, themes.js, markdown.js, auth.js, seed.js
 ├── content/seed/           the built-in content: settings.json, pages/*.json, posts/*.json, backlinks.json, redirects.json
 ├── src/
-│   ├── build.js            node src/build.js  → static export of the seed content into public/
+│   ├── build.js            node src/build.js  → bundles the seed into functions/_lib/seed-data.js and exports static HTML into public/
+│   ├── hash-password.js    makes an ADMIN_PASSWORD_HASH value
 │   ├── dev.js              node src/dev.js    → local server (functions + a SQLite stand-in for D1 + a folder for R2)
-│   ├── migrate.js          one-off: turned the old src/pages HTML into seed JSON
 │   └── check.py            validates the built site
 └── wrangler.toml           Pages project settings and bindings (D1 "DB", R2 "MEDIA")
 ```

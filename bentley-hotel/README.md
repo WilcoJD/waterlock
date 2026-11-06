@@ -54,51 +54,12 @@ Without the database and bucket, the site serves the static export in `public/` 
 - `npm test` runs the backend tests (router, admin API, auth, markdown, uploads), the availability function tests and the admin UI tests.
 - `npm run check` validates the built site (tags, links, anchors, images, headings, metadata, structured data).
 
-## Editing content outside the admin
+## Editing the look
 
-The seed content in `content/seed` is the site's starting point and its fallback. Each page is a JSON file with a `hero` and a list of `sections`; `docs/architecture.md` lists every section type and field. The fifteen original pages were migrated with their HTML kept as `html` sections, so they can be edited either as HTML or rebuilt from typed sections in the admin.
-
-## Online booking and the Cloudbeds diary
-
-Every booking is made in Cloudbeds, so it lands straight in the hotel's Cloudbeds calendar like any other online booking, and the availability and prices guests see are always live. There is nothing to sync by hand.
-
-| Piece | How it works | Needs |
-| --- | --- | --- |
-| **Booking search bars** (home, rooms, availability) | Arrival, departure, adults, children and room, sent to `/book` using Cloudbeds' own parameter names (`checkin`, `checkout`, `adults`, `kids`, `rid`, `currency`). Works without JavaScript. | Nothing |
-| **Book a room** (`book.html`) | Cloudbeds' official **Immersive Experience 2.0** web component (`<cb-immersive-experience>`) shows the full booking engine, payment included, inside the hotel's own page. It picks up the dates, guests and room from the search. | The hotel's domain whitelisted in Cloudbeds (see below) |
-| **Availability calendar** (`availability.html`) | A night-by-night grid for the four public room types showing rooms left, the lowest nightly price, "no arrivals" days and minimum stays. Guests click an arrival date, then a departure date, then **Book these dates**. Data comes from `/api/availability`, a small Cloudflare Pages Function that calls the Cloudbeds API with a secret key. | A Cloudbeds API key stored as a secret in Cloudflare |
-| **Fallbacks** | Off the hotel's own domain (staging, previews), or if the embed fails to load within 15 seconds, booking links go to the hosted Cloudbeds page with the same search. If the API isn't set up, the calendar page shows Cloudbeds' own live date picker instead (on the hotel's domain) or the booking search bar. | Nothing |
-
-Room types sold on the site (Cloudbeds room type IDs): Single `148837309972637`, Twin `148838930526405`, Double `148839795253447`, Family `158032272887993`. The corporate "Ensol" room types are deliberately left off. The IDs and the domain list are at the top of `public/assets/js/booking.js`, `functions/api/availability.js` and `functions/_lib/render.js` (booking form).
-
-### Cloudbeds settings (hotel owner)
-
-1. **Whitelist the website's domains.** In Cloudbeds go to *Settings → Booking Engine → Embeds → Premium → Whitelisted domains* and add `https://www.thebentleyhotel.co.uk` and `https://thebentleyhotel.co.uk` (up to 5 domains are allowed). Cloudbeds' servers already accept both hostnames, which suggests this is done, but please confirm. Premium Embeds must be part of your Cloudbeds package. The booking component only works on whitelisted HTTPS domains, so on any other address the site uses the hosted fallback.
-2. **Point the domain at the new site.** Both `thebentleyhotel.co.uk` and `www.thebentleyhotel.co.uk` currently send visitors (through Cloudflare) straight to the Cloudbeds booking page. Remove that redirect rule when the website goes live.
-3. **Optional: API key for the availability calendar.** In Cloudbeds go to *Account → Apps & Marketplace → API Credentials* and create a property API key. If API access isn't listed, Cloudbeds may ask you to submit their API Access form. Give the key only the **read:rate** scope, which is all the calendar uses. The key starts `cbat_`, is shown once, and stops working if it goes unused for 30 days. Every calendar visit uses it, but a quiet month could let it lapse, so an uptime monitor that opens `https://www.thebentleyhotel.co.uk/api/availability` once a day keeps it alive. Never put the key in the website's files.
-
-### Deploying on Cloudflare Pages
-
-The domain is already on Cloudflare, so Cloudflare Pages is the simplest home: it serves `public/` and runs `functions/` on the same domain.
-
-See **Deployment** above for the Pages set-up; the availability function needs only the `CLOUDBEDS_API_KEY` secret. Check `https://www.thebentleyhotel.co.uk/api/availability` after deploying: it should return JSON with four rooms. `{"error":"not_configured"}` means the secret is missing, and `upstream_error` means Cloudbeds rejected the key or its scope.
-
-### Testing
-
-`npm test` includes the availability function's unit tests (against a fixture built from Cloudbeds' published API schema). To try the function locally with the real key, put `CLOUDBEDS_API_KEY=cbat_…` in `bentley-hotel/.dev.vars` (git-ignored) and run `npx wrangler pages dev public`. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
-
-- **Book a room page:** the booking engine loads.
-- **Searches carry over:** a search from the home page arrives with its dates and room selected.
-- **Availability calendar:** it shows the same rooms and prices as Cloudbeds.
-
-## Editing
-
-- **Text:** either edit the HTML files in `public/` directly, or edit the page sources in `src/pages/` and regenerate with `cd src && python3 build.py pages ../public`. The generator adds the shared top bar, header, footer and `<head>` to every page, so a change to the phone number, email or navigation is made once in `src/build.py`. If you edit `public/` directly, remember the header and footer are repeated in every file.
-- **Colours and fonts:** these are set as variables at the top of `public/assets/css/styles.css` (`--green-900`, `--brass-600`, and so on).
-- **Photos:** put new images in `public/assets/img/` and point the `<picture>` tags at them. The `srcset` width values (such as `800w`) must match each file's real pixel width. The site currently has no photos of the restaurant, conservatory interior, bar or function room. Adding them will help most on the Dining, Weddings and Functions pages (the home page's restaurant section was made text-only so the one exterior photo isn't shown twice). The only exterior photo is 700px wide. A larger one (at least 1400px wide, ideally with a 1200×630 crop for social-media link previews) would sharpen the home-page hero and shared links.
-- **Enquiry form:** the form on `contact.html` opens the visitor's email app with their message ready to send to the address in `data-mailto`. To collect enquiries without email apps, swap it for a form service (for example Netlify Forms, Formspree or Basin).
-- **Domain:** canonical links, Open Graph tags and `sitemap.xml` assume the site will live at `https://www.thebentleyhotel.co.uk/`. Change them if it goes elsewhere. That domain currently redirects to the Cloudbeds booking page, so point it at the new site when it goes live.
-- **Hosting in a subfolder:** every page uses relative links except `404.html`, which uses root-relative links (`/assets/...`, `/rooms.html`) because hosts serve it at whatever missing URL was requested. If the site is served from a subfolder (for example `username.github.io/bentley-hotel/`), add that folder to the paths in `404.html`.
+- **Colours, fonts and layout** come from the theme chosen in the admin. The ten themes are defined in `functions/_lib/themes.js`; add or adjust one there (colours as CSS variables, Google Fonts pairing, layout flags) and it appears in the dropdown.
+- **Everything else visual** is in `public/assets/css/styles.css`; `public/assets/js/main.js` and `booking.js` handle the menu, gallery viewer, booking forms and the availability calendar.
+- **Photos:** the nine built-in photos live in `public/assets/img/` (WebP and JPEG at two sizes). Upload new ones in the admin's Media section; they can be used in any section. Photos of the restaurant, conservatory, bar and function suite would help most.
+- **Domain:** `settings.site.site_url` (Settings in the admin) is used for canonical links, the sitemap and social sharing tags.
 
 ## Where the content came from
 
