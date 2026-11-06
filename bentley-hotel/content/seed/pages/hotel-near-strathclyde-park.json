@@ -1,0 +1,173 @@
+{
+ "slug": "hotel-near-strathclyde-park",
+ "kind": "landing",
+ "status": "published",
+ "title": "Hotel near Strathclyde Country Park",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Hotel near Strathclyde Park | Bentley Hotel, Motherwell",
+  "description": "A hotel about a mile from Strathclyde Country Park and 2 miles from M&D's: 18 en-suite rooms in Motherwell, a family room, free parking, Dalzell Estate nearby.",
+  "canonical": "",
+  "og_image": "assets/img/room-family-1-800.jpg",
+  "og_alt": "Family room at Bentley Hotel, Motherwell, with a double bed and a single bed in white linen against a sage wall",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "split",
+  "eyebrow": "Days out in Lanarkshire",
+  "title": "A hotel about a mile from Strathclyde Country Park",
+  "lede": "Eighteen en-suite rooms in a Victorian house, with free parking, a cooked breakfast and the loch, M&D's, Dalzell Estate and Baron's Haugh all a short drive away.",
+  "image": "room-family-1",
+  "image_alt": "Family room with a double bed and a single bed in white linen against a sage green wall",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Room+booking",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "booking_strip",
+   "title": "Check availability and book direct",
+   "note": "Live availability from our booking system. For a family room, or two rooms together, call us on 01698 265588."
+  },
+  {
+   "type": "text",
+   "eyebrow": "Why stay here",
+   "title": "Breakfast at the hotel, the loch by mid-morning",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Strathclyde Country Park lies along the Clyde between Motherwell and Hamilton, about a mile from our door. At its heart is the loch, used for watersports and ringed by woodland walks, where the triathlon of the 2014 Commonwealth Games was held. In the park are the remains of a Roman fort and bathhouse, and on its edge sit M&amp;D&rsquo;s, Scotland&rsquo;s theme park, and Amazonia, an indoor tropical house, about 2 miles from the hotel.</p><p>In the other direction, about a mile to the south, is Dalzell Estate, with Dalzell House, its Japanese gardens, an arboretum and five waymarked routes, and beside it the RSPB&rsquo;s Baron&rsquo;s Haugh reserve, where hides look over wetland known for kingfishers and otters. Next door to the hotel, the North Lanarkshire Heritage Centre is free to visit and has a viewing tower over the Clyde Valley. A few miles further on are Chatelherault Country Park, with its hunting lodge of 1734, and Hamilton Park Racecourse.</p><p>Back at the hotel, parking is free and the restaurant and bar are under the same roof for the evening. Every room is en suite, with a TV, tea and coffee making facilities and free WiFi. Our family room sleeps up to three, one of whom may be a child, and in the morning breakfast is a full Scottish, cooked to order.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Strathclyde Country Park</dt><dd>About a mile</dd></div><div><dt>M&amp;D&rsquo;s and Amazonia</dt><dd>About 2 miles</dd></div><div><dt>Dalzell Estate and Baron&rsquo;s Haugh</dt><dd>About a mile</dd></div><div><dt>Heritage Centre</dt><dd>Next door</dd></div><div><dt>Chatelherault</dt><dd>A few miles</dd></div><div><dt>Fir Park</dt><dd>About a mile</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "Around the park",
+   "title": "Four days out within a few miles",
+   "intro": "",
+   "columns": 4,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "sun",
+     "title": "Strathclyde Country Park",
+     "text": "The loch, watersports, woodland walks and the remains of a Roman fort and bathhouse, about a mile away.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "ticket",
+     "title": "M&D's and Amazonia",
+     "text": "Scotland&rsquo;s theme park and an indoor tropical house, side by side on the edge of the park, about 2 miles from the hotel.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "tree",
+     "title": "Dalzell Estate and Baron's Haugh",
+     "text": "A historic house, Japanese gardens and waymarked walks, beside an RSPB wetland reserve with hides. About a mile away.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "castle",
+     "title": "Chatelherault and Bothwell Castle",
+     "text": "A William Adam hunting lodge of 1734 in its own country park a few miles away, and the ruins of Bothwell Castle about 6 miles off.",
+     "link_label": "More places nearby",
+     "link_href": "location.html"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "eyebrow": "Our rooms",
+   "title": "Rooms for a family, a couple or friends",
+   "intro": "All en suite, with a TV, tea and coffee making facilities and free WiFi.",
+   "background": "paper",
+   "items": [
+    {
+     "image": "room-family-1",
+     "image_alt": "A double bed and a single bed in white linen against a sage wall",
+     "meta": "Sleeps up to 3",
+     "title": "Family Room",
+     "text": "A double bed and a single bed, so parents and a child can share one room after a day at the park.",
+     "href": "rooms.html#family"
+    },
+    {
+     "image": "room-double-1",
+     "image_alt": "Double bed with a blue throw in a bright bay-windowed room",
+     "meta": "Sleeps 2",
+     "title": "Double Room",
+     "text": "A double bed for couples. Some doubles have the bay windows that give the house its character.",
+     "href": "rooms.html#double"
+    },
+    {
+     "image": "room-twin-2",
+     "image_alt": "Two single beds with teal throws and a colourful canvas on the wall",
+     "meta": "Sleeps 2",
+     "title": "Twin Room",
+     "text": "Two single beds for friends, or for grandparents travelling with the family in a second room.",
+     "href": "rooms.html#twin"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Visiting the park: what people ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How far is Strathclyde Country Park from the hotel?",
+     "a": "<p>About a mile. It&rsquo;s a short drive, or a walk of 15 to 20 minutes, and parking at the hotel is free, so you can leave the car with us if you prefer.</p>"
+    },
+    {
+     "q": "How far is M&D's theme park?",
+     "a": "<p>About 2 miles. M&amp;D&rsquo;s and Amazonia sit on the edge of Strathclyde Country Park, so they&rsquo;re easy to combine with a walk by the loch.</p>"
+    },
+    {
+     "q": "Do you have family rooms?",
+     "a": "<p>Yes. Our family room has a double bed and a single bed and sleeps up to three guests, one of whom may be a child. If you need a cot or an extra bed, or two rooms near each other, call us on <a href=\"tel:+441698265588\">01698 265588</a> before you book.</p>"
+    },
+    {
+     "q": "Can we bring the dog?",
+     "a": "<p>Pets can&rsquo;t stay at the hotel, but assistance animals are welcome. Let us know when you book so we can be ready for you.</p>"
+    },
+    {
+     "q": "Can we leave bags before check-in or after check-out?",
+     "a": "<p>Check-in is from 2pm and check-out by 11am. If you&rsquo;re arriving early for a day out, or leaving late, ask us about leaving your bags with us while you make the most of the day.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Book a stay near Strathclyde Park",
+   "text": "See live availability and book in a couple of minutes, or call us about a family room or two rooms together.",
+   "buttons": [
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": null
+}

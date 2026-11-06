@@ -1,0 +1,153 @@
+{
+ "slug": "events/hogmanay",
+ "kind": "event",
+ "status": "published",
+ "title": "Hogmanay",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Hogmanay | Bentley Hotel, Motherwell",
+  "description": "Hogmanay in Motherwell: dinner in our function suite on 31 December, music through to the bells, and a room upstairs so nobody has to drive home.",
+  "canonical": "",
+  "og_image": "assets/img/exterior-700.jpg",
+  "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "plain",
+  "eyebrow": "Festive season",
+  "title": "Hogmanay at Bentley Hotel",
+  "lede": "Dinner, music and the bells at midnight in our function suite on 31 December, with rooms upstairs and breakfast on New Year's Day.",
+  "image": null,
+  "image_alt": "",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Function",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "event_details",
+   "title": "Hogmanay: the details",
+   "buttons": [
+    {
+     "label": "Enquire about this event",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "outline"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "eyebrow": "The night",
+   "title": "Bringing in the new year at Bentley Hotel",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Hogmanay is the biggest night of the Scottish year, and it suits a house like ours. On 31 December our function suite, the Back o&rsquo; Barns, is set for dinner, there is music through the evening, and when the bells go at midnight everyone stands, joins hands and sings Auld Lang Syne. Then the new year is toasted and the dancing carries on.</p><p>The evening starts with a drink as guests arrive, followed by a festive dinner cooked in our own kitchen. The menu, like the price, is confirmed each autumn. Tables are laid for couples, families and groups of friends, and the function suite seats up to 100, so it is a proper gathering without being a crush. After dinner the tables are moved back and the music takes over; we&rsquo;ll confirm what is planned, and how late the licence runs, when you book.</p><p>The simplest way to do Hogmanay is to stay. Our 18 en-suite rooms are upstairs, so the night ends with a flight of stairs rather than a taxi queue, and the morning brings breakfast cooked to order and, if you&rsquo;d like it, a gentle <a href=\"events/new-years-day-lunch\">New Year&rsquo;s Day lunch</a>. See our <a href=\"events/festive-stays\">festive stays</a> for rooms over the holidays.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The Back o&rsquo; Barns function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>31 December, from the evening through the bells</dd></div><div><dt>Numbers</dt><dd>Up to 100 seated, from tables for two to large groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms upstairs, with breakfast on New Year&rsquo;s Day</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "What to expect",
+   "title": "The room, the dinner and the morning after",
+   "intro": "",
+   "columns": 3,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "glass",
+     "title": "The function suite",
+     "text": "Air-conditioned, with room for up to 100 at dinner and space to dance once the tables are moved back. The bells and Auld Lang Syne happen here.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "utensils",
+     "title": "Dinner",
+     "text": "A festive dinner cooked in our own kitchen, with dietary needs catered for when you tell us in advance. The menu is confirmed each autumn.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "bed",
+     "title": "Stay the night",
+     "text": "Our 18 en-suite rooms are upstairs, so nobody waits for a taxi after midnight. Breakfast is cooked to order on New Year&rsquo;s Day.",
+     "link_label": "See the rooms",
+     "link_href": "rooms.html"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Hogmanay: what people ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How do we book for Hogmanay?",
+     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers, and say whether you&rsquo;d like rooms too. We&rsquo;ll confirm this year&rsquo;s menu and price and explain how to hold your places.</p>"
+    },
+    {
+     "q": "Is there a deposit?",
+     "a": "<p>We usually ask for a deposit to hold a Hogmanay booking. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+    },
+    {
+     "q": "Can you cater for dietary requirements?",
+     "a": "<p>Yes. Tell us about allergies, intolerances and vegetarian or vegan guests when you book, and the kitchen will plan for them.</p>"
+    },
+    {
+     "q": "How do we get home after midnight?",
+     "a": "<p>Trains and taxis are scarce in the early hours of New Year&rsquo;s Day, which is why most Hogmanay guests <a href=\"book.html\">stay the night</a>. If someone in your party is driving, parking at the hotel is free.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "See the new year in with us",
+   "text": "Tell us your numbers and whether you&rsquo;d like rooms, and we&rsquo;ll be in touch as soon as this year&rsquo;s details are confirmed.",
+   "buttons": [
+    {
+     "label": "Enquire about Hogmanay",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": {
+  "dates_text": "31 December each year",
+  "price_text": "",
+  "includes": [
+   "A festive dinner cooked in our own kitchen",
+   "Music and dancing through to the bells",
+   "The countdown at midnight, a toast and Auld Lang Syne",
+   "A late finish; we&rsquo;ll confirm the licence when you book",
+   "Rooms upstairs and breakfast on New Year&rsquo;s Day for guests staying over"
+  ],
+  "note": "The menu, price and running order for this year&rsquo;s Hogmanay are confirmed each autumn. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "category": "festive",
+  "month": 12
+ }
+}

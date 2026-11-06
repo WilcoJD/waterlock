@@ -1,0 +1,153 @@
+{
+ "slug": "events/christmas-day-lunch",
+ "kind": "event",
+ "status": "published",
+ "title": "Christmas Day Lunch",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Christmas Day Lunch | Bentley Hotel, Motherwell",
+  "description": "Christmas Day lunch in Motherwell: family tables in our restaurant and conservatory, a festive menu from our own kitchen, and rooms upstairs to stay over.",
+  "canonical": "",
+  "og_image": "assets/img/exterior-700.jpg",
+  "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "plain",
+  "eyebrow": "Festive season",
+  "title": "Christmas Day Lunch",
+  "lede": "Let someone else do the cooking on 25 December. Family tables in our restaurant and conservatory, a festive menu from our kitchen, and nothing to wash up.",
+  "image": null,
+  "image_alt": "",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Function",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "event_details",
+   "title": "Christmas Day lunch: the details",
+   "buttons": [
+    {
+     "label": "Enquire about this event",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "outline"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "eyebrow": "The day",
+   "title": "Christmas Day at Bentley Hotel",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Christmas Day is for being with the people you love, not for peeling potatoes at seven in the morning. On 25 December we open the restaurant and the conservatory for lunch, lay the tables for families large and small, and cook a festive menu in our own kitchen, so all you have to do is turn up.</p><p>Each party has its own table, whether that is two of you or three generations, and the conservatory, with daylight through the glass, suits a long, unhurried lunch. Children are welcome and we can serve smaller portions. The menu keeps to what Christmas lunch should be, with a traditional main course and the alternatives people ask for, and is confirmed each autumn along with the price and the sitting times. Tell us about allergies and dietary needs when you book.</p><p>Christmas Day lunch books up well ahead, so get in touch early. If family are travelling to join you, our 18 en-suite rooms are upstairs: a cooked breakfast on Christmas morning, then a short walk downstairs to lunch. See our <a href=\"events/festive-stays\">festive stays</a> for rooms over the holidays.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The restaurant and conservatory, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>25 December; sitting times confirmed each year</dd></div><div><dt>Who</dt><dd>Couples, families and groups, with smaller portions for children</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms upstairs; ask about festive stays</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "What to expect",
+   "title": "The rooms, the food and the morning after",
+   "intro": "",
+   "columns": 3,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "sun",
+     "title": "The restaurant and conservatory",
+     "text": "Family tables in our restaurant and in the purpose-built glass conservatory alongside it. Tell us which you&rsquo;d prefer and we&rsquo;ll do our best.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "utensils",
+     "title": "A festive menu from our kitchen",
+     "text": "A traditional Christmas main course with alternatives, smaller portions for children, and dietary needs catered for when you tell us ahead. Confirmed each autumn.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "bed",
+     "title": "Stay over Christmas",
+     "text": "Our 18 en-suite rooms are upstairs. Wake on Christmas morning to breakfast cooked to order, then come down to lunch.",
+     "link_label": "Festive stays",
+     "link_href": "events/festive-stays"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Christmas Day lunch: what people ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How far ahead should we book Christmas Day lunch?",
+     "a": "<p>As early as you can. Tables go quickly once the menu and price are confirmed each autumn. Call <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> and we&rsquo;ll let you know as soon as bookings open.</p>"
+    },
+    {
+     "q": "Is a deposit required?",
+     "a": "<p>We usually ask for a deposit to hold a Christmas Day table. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+    },
+    {
+     "q": "Can you cater for allergies, and for vegetarian or vegan guests?",
+     "a": "<p>Yes. Tell us when you book about allergies, intolerances and anyone who is vegetarian or vegan, and how many children are coming so we can plan smaller portions.</p>"
+    },
+    {
+     "q": "Is there parking on Christmas Day, and do trains run?",
+     "a": "<p>Parking at the hotel is free. Train services are very limited on Christmas Day, so most guests come by car or <a href=\"book.html\">stay with us</a> the night before. Motherwell is just off the M74 at junction 6.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Book your table for Christmas Day",
+   "text": "Tell us your numbers and we&rsquo;ll be in touch as soon as this year&rsquo;s menu is confirmed.",
+   "buttons": [
+    {
+     "label": "Enquire about Christmas Day",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": {
+  "dates_text": "25 December each year",
+  "price_text": "",
+  "includes": [
+   "A festive menu cooked in our own kitchen, with a traditional main course and alternatives",
+   "Family tables in the restaurant and the conservatory",
+   "Smaller portions for children on request",
+   "Allergies and dietary needs catered for when you tell us in advance",
+   "Rooms upstairs for anyone staying over Christmas"
+  ],
+  "note": "The menu and price for this year&rsquo;s Christmas Day lunch are confirmed each autumn. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "category": "festive",
+  "month": 12
+ }
+}

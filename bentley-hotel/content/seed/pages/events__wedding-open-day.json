@@ -1,0 +1,154 @@
+{
+ "slug": "events/wedding-open-day",
+ "kind": "event",
+ "status": "published",
+ "title": "Wedding Open Day",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Wedding Open Day | Bentley Hotel, Motherwell",
+  "description": "Wedding open days at Bentley Hotel, Motherwell: see the function suite and conservatory set for a wedding, meet the team and talk through your date. Dates announced here.",
+  "canonical": "",
+  "og_image": "assets/img/exterior-700.jpg",
+  "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "plain",
+  "eyebrow": "Events at Bentley Hotel",
+  "title": "Wedding Open Day",
+  "lede": "See the function suite and the conservatory dressed as they would be on your day, meet the people who would look after it, and ask us anything. Dates are announced on this page and by enquiry.",
+  "image": null,
+  "image_alt": "",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send a wedding enquiry",
+    "href": "contact.html?enquiry=Wedding",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "event_details",
+   "title": "Wedding open day: the details",
+   "buttons": [
+    {
+     "label": "Register for the open day",
+     "href": "contact.html?enquiry=Wedding",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "outline"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "eyebrow": "The day",
+   "title": "What happens at an open day",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>A wedding venue is hard to judge from photographs. An open day lets you walk through it. We set the function suite as we would for a wedding breakfast, with the tables dressed, a table plan on display and fresh flowers on the guest tables, as they are in our wedding package. The conservatory is set for a smaller wedding party, and both rooms are open for as long as you want to look.</p><p>The team who plan and run our weddings are there to talk. Bring your date, or a few dates, and rough numbers for the day and the evening, and we&rsquo;ll tell you honestly what would work. We host wedding parties of 4 to 100 guests and evening receptions of up to 120, with a late licence until 1am. Ask about ceremonies at the hotel, about the menus our own kitchen can offer or design around you, about rooms for the two of you and for your guests, and about what the package includes. There is no obligation, and nobody will follow you round with a clipboard.</p><p>Open day dates are announced on this page and to anyone who has sent us a wedding enquiry. If there isn&rsquo;t one coming up, don&rsquo;t wait for it: call us and we&rsquo;ll show you round by appointment, with the same people and the same straight answers. Bentley Hotel is about 5 minutes&rsquo; walk from Motherwell station, with free parking on site, so it is an easy visit from Glasgow, Edinburgh or anywhere in Lanarkshire.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>What you&rsquo;ll see</dt><dd>The function suite dressed for a wedding breakfast, the conservatory set for a small wedding, and bedrooms where they&rsquo;re free that day</dd></div><div><dt>Who you&rsquo;ll meet</dt><dd>The team who plan our weddings and run them on the day</dd></div><div><dt>When</dt><dd>Dates announced on this page and by enquiry; viewings by appointment at any time</dd></div><div><dt>Bring</dt><dd>Your dates, rough numbers and every question you have</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "What to expect",
+   "title": "The suite, the conservatory and the package",
+   "intro": "",
+   "columns": 3,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "users",
+     "title": "The function suite",
+     "text": "Air-conditioned and exclusively yours on the day, seating up to 100 for the wedding breakfast and taking up to 120 for an evening reception. You&rsquo;ll see it set as it would be for you.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "sun",
+     "title": "The conservatory",
+     "text": "A bright glass room on the side of the house, ideal for a smaller wedding party or for welcome drinks while the photographs are taken.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "heart",
+     "title": "The wedding package",
+     "text": "An overnight stay for the couple, fresh flowers for the guest tables, personalised menus and a table plan, our cake stand and knife, and a late licence until 1am. We&rsquo;ll talk it through with you.",
+     "link_label": "Weddings at Bentley Hotel",
+     "link_href": "weddings.html"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Open days: what couples ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "Do we need to register for the open day?",
+     "a": "<p>Yes please, so we know how many to expect and can give everyone time with the team. <a href=\"contact.html?enquiry=Wedding\">Send a wedding enquiry</a> mentioning the open day, or call us on <a href=\"tel:+441698265588\">01698 265588</a>, and we&rsquo;ll confirm the date and times.</p>"
+    },
+    {
+     "q": "Can we hold a date on the day, and is a deposit needed?",
+     "a": "<p>Yes. If you find the date you want, we&rsquo;ll explain how to hold it, what deposit is needed and when it is due, and our cancellation terms, before you commit to anything.</p>"
+    },
+    {
+     "q": "Can we talk about menus and dietary requirements?",
+     "a": "<p>Yes. The kitchen can offer a choice of menus or design one around you, and the open day is a good time to raise allergies, intolerances, vegetarian or vegan guests and children&rsquo;s meals so we can plan for them from the start.</p>"
+    },
+    {
+     "q": "Is there parking, and can we come by train?",
+     "a": "<p>Parking at the hotel is free. Motherwell station is about 5 minutes&rsquo; walk, with the fastest trains reaching Glasgow Central in under 20 minutes and direct services to Edinburgh. If you&rsquo;re travelling a long way to see us, <a href=\"book.html\">book a room</a> and make a night of it.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Come and see it for yourself",
+   "text": "Register for the next open day, or ask us for a viewing by appointment. Rooms for the night can be booked online.",
+   "buttons": [
+    {
+     "label": "Register for the open day",
+     "href": "contact.html?enquiry=Wedding",
+     "style": "primary"
+    },
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": {
+  "dates_text": "Dates announced on this page and by enquiry",
+  "price_text": "Free to attend; please register so we know how many to expect",
+  "includes": [
+   "The function suite dressed for a wedding breakfast, with a table plan and fresh flowers on the guest tables",
+   "The conservatory set for a smaller wedding party",
+   "Time with the team who plan and run our weddings",
+   "The wedding package explained: an overnight stay for the couple, flowers, personalised menus and table plan, cake stand and knife, and a late licence until 1am",
+   "A look at bedrooms for the couple and for guests, where they&rsquo;re free that day",
+   "Straight answers on dates, numbers, ceremonies and menus"
+  ],
+  "note": "Open day dates are announced on this page and to couples who have sent us an enquiry. If none is coming up, call us and we&rsquo;ll arrange a viewing by appointment.",
+  "category": "weddings",
+  "month": 0
+ }
+}
