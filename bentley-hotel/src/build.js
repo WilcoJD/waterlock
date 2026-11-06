@@ -32,13 +32,13 @@ export function writeSeedModule(seed) {
 }
 
 export async function exportStatic(seed) {
-  const { renderPage, renderPost, renderListing, renderSitemap, renderFeed, navFromPages, footerNavFromPages } = await import("../functions/_lib/render.js");
+  const { renderPage, renderPost, renderListing, renderSitemap, renderFeed, navFromPages, footerNavFromPages, sortEvents } = await import("../functions/_lib/render.js");
   const { getTheme } = await import("../functions/_lib/themes.js");
   const { normalisePage, normalisePost } = await import("../functions/_lib/db.js");
   const site = seed.settings.site;
   const pages = seed.pages.map(normalisePage).filter((p) => p.status === "published");
   const posts = seed.posts.map(normalisePost).filter((p) => p.status === "published").sort((a, b) => String(b.published_at).localeCompare(String(a.published_at)));
-  const events = pages.filter((p) => p.kind === "event");
+  const events = sortEvents(pages.filter((p) => p.kind === "event"));
   const ctx = { site, theme: getTheme(site.theme), pages, events, posts: posts.slice(0, 6), hasBlog: posts.length > 0, hasEvents: events.length > 0, nav: navFromPages(pages), footerNav: footerNavFromPages(pages) };
   const write = (rel, content) => { const p = join(PUBLIC, rel); mkdirSync(dirname(p), { recursive: true }); writeFileSync(p, content); };
 

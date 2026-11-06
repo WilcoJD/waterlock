@@ -13,7 +13,8 @@
  */
 import * as db from "./_lib/db.js";
 import { getTheme } from "./_lib/themes.js";
-import { renderPage, renderPost, renderListing, renderFeed, renderSitemap } from "./_lib/render.js";
+import { getSession } from "./_lib/auth.js";
+import { renderPage, renderPost, renderListing, renderFeed, renderSitemap, sortEvents } from "./_lib/render.js";
 
 const CACHE_SECONDS = 300;
 const STATIC_PREFIXES = ["/assets/", "/favicon", "/apple-touch-icon", "/_headers"];
@@ -34,7 +35,7 @@ async function loadContext(env) {
   const site = settings.site;
   if (!site) return null;
   const pages = await db.listPages(env.DB, { status: "published" });
-  const events = pages.filter((p) => p.kind === "event");
+  const events = sortEvents(pages.filter((p) => p.kind === "event"));
   const posts = await db.listPosts(env.DB, { status: "published", limit: 6 });
   return { site, theme: getTheme(site.theme), version: settings.version || 0, pages, events, posts, hasBlog: posts.length > 0, hasEvents: events.length > 0 };
 }
@@ -94,7 +95,7 @@ export async function onRequest(context) {
     const slug = path === "/" ? home : path.slice(1);
     const page = await db.getPage(env.DB, slug);
     if (page && page.status === "published" && page.kind !== "system") response = html(renderPage(page, ctx));
-    else if (page && page.status === "draft" && url.searchParams.get("preview") === "draft") response = html(renderPage(page, ctx), 200, { "Cache-Control": "no-store" });
+    else if (page && page.status === "draft" && url.searchParams.get("preview") === "draft" && await getSession(request, env)) response = html(renderPage(page, ctx), 200, { "Cache-Control": "no-store" });
   }
 
   if (!response) {

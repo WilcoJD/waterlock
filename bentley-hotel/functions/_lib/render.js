@@ -156,7 +156,7 @@ export const SECTION_RENDERERS = {
     return `<section class="section section--cream" aria-labelledby="${nextId("ev")}"><div class="container"><div class="event-details"><div>${ev.category ? `<span class="event-badge">${escapeHtml(ev.category)}</span>` : ""}<h2 class="mt-1">${escapeHtml(ev.title || "The details")}</h2><dl class="info-list"><div><dt>When</dt><dd>${escapeHtml(ev.dates_text || "Dates confirmed each year")}</dd></div><div><dt>Price</dt><dd>${price}</dd></div><div><dt>Where</dt><dd>${escapeHtml(ev.where || "Bentley Hotel, 19 High Road, Motherwell")}</dd></div><div><dt>Booking</dt><dd>${fixLinks(ev.booking || `Call <a href="tel:${attr(ctx.site.phone_tel)}">${escapeHtml(ctx.site.phone)}</a> or send an enquiry`)}</dd></div></dl>${ev.note ? `<div class="notice mt-2">${icon("info")}<p>${fixLinks(ev.note)}</p></div>` : ""}</div><div>${includes ? `<h3>What we arrange</h3><ul class="checklist">${includes}</ul>` : ""}${buttons(ev.buttons)}</div></div></div></section>`;
   },
   events_list: (s, ctx) => {
-    let events = (ctx.events || []).filter((e) => e.status === "published");
+    let events = sortEvents((ctx.events || []).filter((e) => e.status === "published"));
     if (s.category) events = events.filter((e) => e.event && e.event.category === s.category);
     const items = events.map((e) => `<a class="card card--link reveal" href="/${attr(e.slug)}"><div class="card__body">${e.event && e.event.category ? `<p class="card__meta">${escapeHtml(e.event.category)}</p>` : ""}<h3>${escapeHtml(e.title)}</h3><p>${escapeHtml(e.meta && e.meta.description ? e.meta.description : "")}</p>${e.event && e.event.dates_text ? `<p class="small muted">${escapeHtml(e.event.dates_text)}</p>` : ""}</div></a>`).join("");
     return `<section class="section${bg(s.background)}"><div class="container">${intro(s, true)}${items ? `<div class="grid grid--3">${items}</div>` : `<p class="center muted">Events and packages are announced here through the year. Call us on ${escapeHtml(ctx.site.phone)} to ask about dates.</p>`}</div></section>`;
@@ -282,6 +282,12 @@ function footer({ site, footerNav, more }) {
 `;
 }
 
+/** Events in calendar order: January first; "all year" (month 0) events last. */
+export function sortEvents(events) {
+  const m = (e) => { const n = Number(e.event && e.event.month); return n >= 1 && n <= 12 ? n : 13; };
+  return [...events].sort((a, b) => m(a) - m(b) || a.title.localeCompare(b.title));
+}
+
 export function navFromPages(pages) {
   return pages.filter((p) => p.in_nav && p.status === "published").sort((a, b) => a.nav_order - b.nav_order || a.title.localeCompare(b.title))
     .map((p) => ({ slug: p.slug, label: p.nav_label || p.title }));
@@ -299,10 +305,12 @@ export function renderPage(page, ctx) {
   const theme = typeof ctx.theme === "object" && ctx.theme ? ctx.theme : getTheme(ctx.theme || site.theme);
   const nav = ctx.nav || navFromPages(ctx.pages || []);
   const footerNav = ctx.footerNav || footerNavFromPages(ctx.pages || []);
+  const inFooter = new Set(footerNav.map((n) => n.slug));
   const more = [];
   if (ctx.hasEvents) more.push({ href: "/events", label: "Events & packages" });
   if (ctx.hasBlog) more.push({ href: "/blog", label: "News" });
-  more.push({ href: "/availability", label: "Availability calendar" }, { href: "/faq", label: "Questions & answers" });
+  if (!inFooter.has("availability")) more.push({ href: "/availability", label: "Availability calendar" });
+  if (!inFooter.has("faq")) more.push({ href: "/faq", label: "Questions & answers" });
   const meta = page.meta || {};
   const path = page.slug === "index" || page.slug === site.homepage_slug ? "/" : "/" + page.slug;
   const breadcrumbs = page.kind === "event" ? [{ href: "/", label: "Home" }, { href: "/events", label: "Events & packages" }, { label: page.title }]

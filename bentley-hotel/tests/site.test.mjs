@@ -107,7 +107,8 @@ test("admin requires login, blocks CSRF, and the API round-trips content", async
   r = await api("PUT", "/admin/api/pages/test-page", { slug: "test-page", title: "Test page", kind: "page", status: "draft", sections: [] });
   assert.equal(r.status, 200);
   r = await get("/test-page"); assert.equal(r.status, 404, "drafts are not public");
-  r = await get("/test-page?preview=draft"); assert.equal(r.status, 200, "drafts can be previewed");
+  r = await get("/test-page?preview=draft"); assert.equal(r.status, 404, "drafts are not previewable without a session");
+  r = await get("/test-page?preview=draft", { headers: { Cookie: cookie } }); assert.equal(r.status, 200, "drafts can be previewed when logged in");
   r = await api("POST", "/admin/api/pages/test-page/duplicate"); assert.equal(r.status, 201); assert.equal((await r.json()).page.slug, "test-page-copy");
   r = await api("DELETE", "/admin/api/pages/test-page-copy"); assert.equal(r.status, 200);
   r = await api("DELETE", "/admin/api/pages/index"); assert.equal(r.status, 400);

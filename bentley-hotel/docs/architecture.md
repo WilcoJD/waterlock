@@ -72,6 +72,8 @@ Buttons: `{ "label", "href", "style": "primary|dark|outline|light" }`. `href` ma
 
 `functions/_lib/render.js` exports `renderPage({ site, theme, page, nav, extra })`, `renderPost`, `renderList` and the shared head/header/footer. Themes (`functions/_lib/themes.js`) supply CSS custom properties, a font pairing and layout flags (`header`, `hero`, `buttons`, `sections`), applied as `<style>` in the head and `data-*` attributes on `<body>`.
 
+Draft pages can be viewed at `/<slug>?preview=draft` while logged in to the admin (the session cookie is scoped to `/admin`, so the admin's preview opens drafts through `/admin/api/preview` instead).
+
 Edge cache: public responses are cached for 5 minutes under a key that includes `settings.version`, so an admin save appears within seconds.
 
 ## Admin
