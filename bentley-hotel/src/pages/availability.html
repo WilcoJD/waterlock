@@ -1,0 +1,72 @@
+<!--META
+{
+  "title": "Availability Calendar | The Bentley Hotel, Motherwell",
+  "description": "See which rooms are free night by night at The Bentley Hotel, Motherwell, with live prices from our reservations diary. Pick your dates and book direct."
+}
+META-->
+    <section class="page-hero page-hero--plain page-hero--compact" aria-labelledby="page-title">
+      <div class="container">
+        <ol class="breadcrumb"><li><a href="index.html">Home</a></li><li><a href="rooms.html">Rooms</a></li><li aria-current="page">Availability</li></ol>
+        <p class="eyebrow">Live availability</p>
+        <h1 id="page-title">Availability calendar</h1>
+        <p class="lede">See which rooms are free night by night, straight from our reservations diary. Choose a room and your arrival date, then your departure date, and book.</p>
+      </div>
+    </section>
+
+    <section class="section section--tight" aria-label="Availability by room and night">
+      <div class="container">
+        <div class="diary is-loading" data-diary>
+          <div class="diary-controls">
+            <button class="btn btn--outline diary-nav" type="button" data-diary-prev>&larr; Earlier</button>
+            <div class="field diary-jump"><label for="diary-start">Starting from</label><input id="diary-start" type="date" data-diary-start></div>
+            <button class="btn btn--outline diary-nav" type="button" data-diary-next>Later &rarr;</button>
+          </div>
+          <p class="diary-status small" data-diary-status role="status" aria-live="polite"></p>
+          <div class="diary-scroll" role="region" aria-label="Availability calendar, scroll sideways for more dates" tabindex="0">
+            <div data-diary-grid></div>
+          </div>
+          <ul class="diary-legend small" aria-label="Key">
+            <li><span class="diary-key is-open" aria-hidden="true"></span>Available</li>
+            <li><span class="diary-key is-low" aria-hidden="true"></span>Last room</li>
+            <li><span class="diary-key is-full" aria-hidden="true"></span>Fully booked</li>
+            <li><span class="diary-key is-checkin" aria-hidden="true"></span>Your dates</li>
+          </ul>
+          <div class="diary-selection" data-diary-selection hidden>
+            <p data-diary-selection-text></p>
+            <div class="btn-row mt-0">
+              <a class="btn btn--primary" data-diary-book href="book.html">{{icon:calendar}}Book these dates</a>
+              <button class="btn btn--outline" type="button" data-diary-clear>Clear</button>
+            </div>
+          </div>
+          <p class="small muted diary-small">Prices are a guide to the lowest nightly rate for one room. Your exact total, including any taxes or extras, is shown before you pay.</p>
+        </div>
+
+        <div class="diary-fallback" data-diary-fallback hidden>
+          <h2>Check availability</h2>
+          <p>Choose your dates to see live availability and prices for every room.</p>
+          <div class="cloudbeds-picker" data-cloudbeds-picker hidden></div>
+          {{bookingform:diary}}
+        </div>
+
+        <noscript>
+          <div class="diary-fallback">
+            <h2>Check availability</h2>
+            <p>The calendar needs JavaScript. Choose your dates below to see live availability and prices, or call us on {{PHONE}}.</p>
+            {{bookingform:nojs}}
+          </div>
+        </noscript>
+      </div>
+    </section>
+
+    <section class="cta-band" aria-labelledby="cta-title">
+      <div class="container">
+        <div>
+          <h2 id="cta-title">Rather talk to us?</h2>
+          <p>For group bookings, long stays or anything you can&rsquo;t see here, give us a call.</p>
+        </div>
+        <div class="btn-row">
+          <a class="btn btn--primary" href="tel:{{PHONE_TEL}}">{{icon:phone}}{{PHONE}}</a>
+          <a class="btn btn--light" href="contact.html?enquiry=Room%20booking">Send an enquiry</a>
+        </div>
+      </div>
+    </section>

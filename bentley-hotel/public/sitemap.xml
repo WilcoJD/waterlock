@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.thebentleyhotel.co.uk/</loc></url>
-  <url><loc>https://www.thebentleyhotel.co.uk/rooms.html</loc></url>
-  <url><loc>https://www.thebentleyhotel.co.uk/book.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/accessibility.html</loc></url>
   <url><loc>https://www.thebentleyhotel.co.uk/availability.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/book.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/contact.html</loc></url>
   <url><loc>https://www.thebentleyhotel.co.uk/dining.html</loc></url>
-  <url><loc>https://www.thebentleyhotel.co.uk/weddings.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/faq.html</loc></url>
   <url><loc>https://www.thebentleyhotel.co.uk/functions.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/gallery.html</loc></url>
   <url><loc>https://www.thebentleyhotel.co.uk/history.html</loc></url>
   <url><loc>https://www.thebentleyhotel.co.uk/location.html</loc></url>
-  <url><loc>https://www.thebentleyhotel.co.uk/contact.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/privacy.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/rooms.html</loc></url>
+  <url><loc>https://www.thebentleyhotel.co.uk/weddings.html</loc></url>
 </urlset>

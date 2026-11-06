@@ -8,6 +8,7 @@ bentley-hotel/
 │   ├── *.html               pages
 │   ├── assets/css, js, img  styles, scripts (main.js, booking.js), photos
 │   └── _headers             security and caching headers (Cloudflare Pages)
+├── src/                     ← optional page generator: build.py + pages/ (shared header/footer, tokens)
 ├── functions/api/           ← /api/availability: live availability from the Cloudbeds API (Cloudflare Pages Function)
 ├── tests/                   ← unit tests for the function:  npm test
 ├── wrangler.toml            ← Cloudflare Pages settings
@@ -27,7 +28,11 @@ bentley-hotel/
 | `functions.html` | Functions, meetings and conferences (Back o' Barns room) |
 | `history.html` | Motherwell House (1874), the Cameronians, timeline, conservation area |
 | `location.html` | Map, directions by train, car and air, things to do nearby |
+| `gallery.html` | Photo gallery of the house and rooms (with a lightbox) |
+| `faq.html` | Questions and answers, grouped by topic |
 | `contact.html` | Contact details and an enquiry form |
+| `accessibility.html` | Accessibility statement for the website and the building |
+| `privacy.html` | Privacy and cookies notice |
 | `404.html` | "Page not found" page |
 
 Also in `public/`: `assets/css/styles.css` (all styling), `assets/js/main.js` (mobile menu, scroll reveal, enquiry form), `assets/js/booking.js` (booking search, booking page, availability calendar), `assets/img/` (photos in WebP and JPEG at two sizes), `favicon.svg` / `favicon.ico` / `apple-touch-icon.png`, `robots.txt` and `sitemap.xml`.
@@ -64,7 +69,7 @@ Without Cloudflare, `public/` works on any static host. Booking and the booking 
 
 ### Testing
 
-`npm test` (Node 18 or later) runs the unit tests for the availability function against a test fixture built from Cloudbeds' published API schema. To try the function locally with the real key, put `CLOUDBEDS_API_KEY=cbat_…` in `bentley-hotel/.dev.vars` (git-ignored) and run `npx wrangler pages dev public`. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
+`python3 src/check.py` checks every built page for unbalanced tags, broken local links and anchors, images without alt text or dimensions, heading order, title and description lengths and invalid structured data. `npm test` (Node 18 or later) runs the unit tests for the availability function against a test fixture built from Cloudbeds' published API schema. To try the function locally with the real key, put `CLOUDBEDS_API_KEY=cbat_…` in `bentley-hotel/.dev.vars` (git-ignored) and run `npx wrangler pages dev public`. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
 
 - **Book a room page:** the booking engine loads.
 - **Searches carry over:** a search from the home page arrives with its dates and room selected.
@@ -72,7 +77,7 @@ Without Cloudflare, `public/` works on any static host. Booking and the booking 
 
 ## Editing
 
-- **Text:** edit the HTML files in `public/` directly. The header, top bar and footer are repeated at the top and bottom of every page, so if you change the phone number, email or navigation, change it in all eleven files (search and replace works well).
+- **Text:** either edit the HTML files in `public/` directly, or edit the page sources in `src/pages/` and regenerate with `cd src && python3 build.py pages ../public`. The generator adds the shared top bar, header, footer and `<head>` to every page, so a change to the phone number, email or navigation is made once in `src/build.py`. If you edit `public/` directly, remember the header and footer are repeated in every file.
 - **Colours and fonts:** these are set as variables at the top of `public/assets/css/styles.css` (`--green-900`, `--brass-600`, and so on).
 - **Photos:** put new images in `public/assets/img/` and point the `<picture>` tags at them. The `srcset` width values (such as `800w`) must match each file's real pixel width. The site currently has no photos of the restaurant, conservatory interior, bar or function room. Adding them will help most on the Dining, Weddings and Functions pages (the home page's restaurant section was made text-only so the one exterior photo isn't shown twice). The only exterior photo is 700px wide. A larger one (at least 1400px wide, ideally with a 1200×630 crop for social-media link previews) would sharpen the home-page hero and shared links.
 - **Enquiry form:** the form on `contact.html` opens the visitor's email app with their message ready to send to the address in `data-mailto`. To collect enquiries without email apps, swap it for a form service (for example Netlify Forms, Formspree or Basin).
@@ -109,6 +114,22 @@ These items were deliberately left vague or out because the sources conflicted o
 13. **Social media.** Facebook appears as both `facebook.com/TheBentley1874` and `facebook.com/thebentleyhotel1874`. Confirm which is official, and add links (plus any Instagram) to the footer.
 14. **Refurbishment.** OTAs showed a temporary closure in early 2025, and 2026 reviews mention work under way. If the refurbishment is finished, it's worth saying so.
 15. **Booking settings in Cloudbeds.** Confirm the whitelisted domains and Premium Embeds (see "Cloudbeds settings" above), and whether prices shown in the availability calendar include VAT. The calendar says the exact total, including any taxes or extras, is shown before payment.
+
+### Added in the content round: please confirm
+
+The expanded pages (Dining, Weddings, Functions, Rooms, Location, History) and the new Gallery, FAQ, Accessibility and Privacy pages were written only from verified facts, and a second pass removed anything unsupported. A few things are stated carefully and would benefit from a straight answer from you:
+
+16. **Bar status.** The pages describe the bar as open and tell visitors to call ahead. A May 2026 review mentioned reconstruction. If the bar is closed, say so and the Dining page can be changed in minutes.
+17. **Non-residents and lunch.** The site says visitors who aren't staying can book a table, and that the restaurant suits a lunch between meetings, without stating hours. Confirm which services (breakfast, lunch, dinner, Sunday) are open to non-residents and on which days, and the hours can go in.
+18. **Breakfast add-on.** The site says guests can ask to add breakfast if their rate doesn't include it. Confirm that, the serving times, and whether breakfast is included as standard.
+19. **Private dining.** The Dining page offers a reserved long table in the restaurant, the conservatory for small parties and the function suite for larger ones. Confirm the conservatory can be reserved privately.
+20. **Ceremonies.** Weddings pages say "ask us about ceremonies" and never claim a civil-ceremony licence. If the venue is approved for ceremonies, it can be stated plainly.
+21. **Late licence for functions.** Only the wedding package's 1am licence is verified; the Functions page says "ask us about a late licence". Confirm what applies to other events.
+22. **Parking spaces, coaches and minibuses.** Numbers are unknown, so the site says "free on-site parking" and asks minibus drivers to call first.
+23. **Lift and ground-floor rooms.** Rooms, FAQ and Accessibility pages answer this question without saying whether there is a lift. The Accessibility page lists the questions guests ask (lift, step-free entrance, accessible toilet, hearing loop, bath or walk-in shower) and promises an answer by phone. A short written answer to each would let the page say it outright.
+24. **Photo rights.** The nine photographs come from the hotel's Cloudbeds booking page; confirm they are the hotel's own and current. Photos of the restaurant, conservatory, bar and function suite would help the Gallery, Weddings and Functions pages most.
+25. **Privacy notice positions.** It states that the hotel keeps no marketing list without asking, makes no automated decisions, shares details only with those who need them (Cloudbeds, authorities where the law requires), that Cloudbeds takes online payment on the hotel's behalf, and that the site is hosted on Cloudflare. Confirm each, and update the "last updated" dates on the Privacy and Accessibility pages whenever they change.
+26. **Viewings.** Gallery, Weddings and Functions pages offer to show people round the function suite and conservatory by arrangement.
 
 ### Housekeeping outside the website
 

@@ -71,6 +71,53 @@
     }
   }
 
+  // Gallery lightbox: links marked data-gallery open in a dialog; without JS they open the image.
+  var galleryLinks = Array.prototype.slice.call(document.querySelectorAll("a[data-gallery]"));
+  if (galleryLinks.length && window.HTMLDialogElement) {
+    var dlg = document.createElement("dialog");
+    dlg.className = "lightbox";
+    dlg.setAttribute("aria-label", "Photo viewer");
+    dlg.innerHTML =
+      '<div class="lightbox__inner">' +
+      '<button type="button" class="lightbox__close" data-lb-close aria-label="Close photo viewer">\u00d7</button>' +
+      '<figure class="lightbox__figure"><img alt=""><figcaption class="lightbox__caption"></figcaption></figure>' +
+      '<div class="lightbox__nav"><button type="button" class="btn btn--light" data-lb-prev>\u2190 Previous</button>' +
+      '<span class="lightbox__count" aria-live="polite"></span>' +
+      '<button type="button" class="btn btn--light" data-lb-next>Next \u2192</button></div></div>';
+    document.body.appendChild(dlg);
+    var lbImg = dlg.querySelector("img"), lbCap = dlg.querySelector(".lightbox__caption"), lbCount = dlg.querySelector(".lightbox__count");
+    var current = 0, opener = null;
+    var show = function (i) {
+      current = (i + galleryLinks.length) % galleryLinks.length;
+      var link = galleryLinks[current];
+      var fig = link.closest("figure");
+      var cap = fig && fig.querySelector("figcaption") ? fig.querySelector("figcaption").textContent.trim() : "";
+      var alt = link.querySelector("img") ? link.querySelector("img").alt : "";
+      lbImg.src = link.href;
+      lbImg.alt = alt || cap;
+      lbCap.textContent = cap;
+      lbCount.textContent = "Photo " + (current + 1) + " of " + galleryLinks.length;
+    };
+    galleryLinks.forEach(function (link, i) {
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+        opener = link;
+        show(i);
+        dlg.showModal();
+        dlg.querySelector("[data-lb-close]").focus();
+      });
+    });
+    dlg.querySelector("[data-lb-close]").addEventListener("click", function () { dlg.close(); });
+    dlg.querySelector("[data-lb-prev]").addEventListener("click", function () { show(current - 1); });
+    dlg.querySelector("[data-lb-next]").addEventListener("click", function () { show(current + 1); });
+    dlg.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowLeft") { e.preventDefault(); show(current - 1); }
+      if (e.key === "ArrowRight") { e.preventDefault(); show(current + 1); }
+    });
+    dlg.addEventListener("click", function (e) { if (e.target === dlg) dlg.close(); });
+    dlg.addEventListener("close", function () { lbImg.removeAttribute("src"); if (opener) opener.focus(); });
+  }
+
   // Enquiry forms: compose an email in the visitor's mail app (no server needed).
   document.querySelectorAll("form[data-mailto]").forEach(function (form) {
     form.addEventListener("submit", function (e) {
