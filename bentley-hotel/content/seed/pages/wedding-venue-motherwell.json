@@ -1,0 +1,173 @@
+{
+ "slug": "wedding-venue-motherwell",
+ "kind": "landing",
+ "status": "published",
+ "title": "Wedding Venue in Motherwell",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Wedding Venue in Motherwell | Bentley Hotel",
+  "description": "A wedding venue in Motherwell for 4 to 100 guests and evening receptions of up to 120, with in-house catering, a late licence until 1am and rooms for guests.",
+  "canonical": "",
+  "og_image": "assets/img/exterior-700.jpg",
+  "og_alt": "Bentley Hotel, a sandstone Victorian villa in Motherwell with a square tower and a glass conservatory",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "split",
+  "eyebrow": "Weddings at Bentley Hotel",
+  "title": "A wedding venue in Motherwell for 4 to 100 guests",
+  "lede": "Your ceremony, wedding breakfast and evening reception under one roof in a Victorian house at the west end of Motherwell, with rooms upstairs for your guests.",
+  "image": "exterior",
+  "image_alt": "Bentley Hotel from High Road: a sandstone Victorian villa with a tall square tower, stepped gables, bay windows and the glass conservatory on the left",
+  "buttons": [
+   {
+    "label": "Send a wedding enquiry",
+    "href": "contact.html?enquiry=Wedding",
+    "style": "primary"
+   },
+   {
+    "label": "Check room availability",
+    "href": "book.html",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "booking_strip",
+   "title": "Rooms for your wedding guests",
+   "note": "Guests can check live availability and book their own rooms here. If you would like rooms held for your party, tell us when you enquire."
+  },
+  {
+   "type": "text",
+   "eyebrow": "The venue",
+   "title": "Everything in one place, from the ceremony to breakfast the next morning",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Bentley Hotel is a venue for both the ceremony and the reception, for wedding parties of any size from 4 to 100 guests, with evening receptions for up to 120. The house is a sandstone villa built in 1874 at the west end of Motherwell. Motherwell station is about 5 minutes&rsquo; walk and there is free parking on site.</p><p>For the wedding breakfast, our function suite is comfortable, air-conditioned and exclusively yours, seating up to 100 for dinner. In the evening it opens up for a reception of up to 120, with a late licence until 1am. For a smaller wedding, the conservatory beside the restaurant is a bright, more intimate room for a few close family and friends.</p><p>Our own kitchen prepares your wedding meal. Choose from our range of menus or ask us to design something around you, and we&rsquo;ll talk through allergies, dietary needs and children&rsquo;s meals as we plan it. An overnight stay for the couple is part of our package, so when the last guests leave you are already home for the night.</p><p>Family and friends can stay too, in our 18 en-suite bedrooms, with a full Scottish breakfast cooked to order the next morning.</p>",
+   "aside_html": "<p class=\"eyebrow\">Our wedding package includes</p><ul class=\"checklist\"><li>An overnight stay in the hotel for the couple</li><li>Fresh floral arrangements for all guest tables</li><li>Personalised menus and table plan</li><li>Use of our wedding cake stand and knife</li><li>A late licence until 1am</li></ul><p class=\"small muted\">Packages and prices are tailored to each wedding. Send an enquiry for current details.</p>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "Why couples choose us",
+   "title": "What a wedding at Bentley Hotel gives you",
+   "intro": "",
+   "columns": 4,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "users",
+     "title": "4 to 100 guests, 120 in the evening",
+     "text": "From an intimate meal in the conservatory to a full day in the function suite, with up to 120 for the evening reception.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "utensils",
+     "title": "In-house catering",
+     "text": "Our kitchen prepares your wedding meal, from our menus or one designed around you, with dietary needs taken care of.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "glass",
+     "title": "A late licence until 1am",
+     "text": "Dance until the end of the night. The late licence is part of our wedding package.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "bed",
+     "title": "Rooms under the same roof",
+     "text": "An overnight stay for the couple is included, and 18 en-suite rooms mean family and friends can stay too.",
+     "link_label": "See the rooms",
+     "link_href": "rooms.html"
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "eyebrow": "The spaces",
+   "title": "Where your day happens",
+   "intro": "",
+   "background": "paper",
+   "items": [
+    {
+     "image": "exterior",
+     "image_alt": "Bentley Hotel from High Road, a sandstone Victorian villa with a square tower and the glass conservatory on the left",
+     "meta": "Ceremony and reception",
+     "title": "The house, the suite and the conservatory",
+     "text": "A Victorian villa with an air-conditioned function suite for up to 120 and a glass conservatory for smaller gatherings.",
+     "href": "weddings.html"
+    },
+    {
+     "image": "room-double-1",
+     "image_alt": "Double bed with a blue throw in a bright bay-windowed room",
+     "meta": "For the couple",
+     "title": "Your room on the night",
+     "text": "An overnight stay for the couple is part of our wedding package.",
+     "href": "rooms.html#double"
+    },
+    {
+     "image": "room-twin-1",
+     "image_alt": "Two beds with grey throws against a teal wall, with two teal armchairs",
+     "meta": "For your guests",
+     "title": "Rooms for family and friends",
+     "text": "Twins, doubles, singles and a family room, so guests can stay the night and join you for breakfast.",
+     "href": "rooms.html"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Wedding questions",
+   "title": "What couples ask before they visit",
+   "intro": "",
+   "items": [
+    {
+     "q": "How many guests can you host?",
+     "a": "<p>Wedding parties of 4 to 100 guests, and evening receptions of up to 120. Smaller weddings suit the conservatory; larger ones have the air-conditioned function suite to themselves.</p>"
+    },
+    {
+     "q": "Can we hold the ceremony at the hotel?",
+     "a": "<p>Yes, we host both the ceremony and the reception. Tell us what kind of ceremony you have in mind when you enquire and we&rsquo;ll talk you through where in the house it could take place and what needs arranging in advance.</p>"
+    },
+    {
+     "q": "How much does a wedding at Bentley Hotel cost?",
+     "a": "<p>Every wedding is different, so we price each one individually. Tell us your date, your numbers and which parts of the day you&rsquo;d like to hold with us, and we&rsquo;ll come back with current prices. We&rsquo;ll explain deposits and payment dates when you book.</p>"
+    },
+    {
+     "q": "Can our guests stay the night?",
+     "a": "<p>Yes. We have 18 en-suite bedrooms, from singles to a family room for three. Tell us roughly how many guests expect to stay and we&rsquo;ll explain how to reserve rooms for them. Guests can also <a href=\"book.html\">check availability</a> and book directly.</p>"
+    },
+    {
+     "q": "Can we come and see the venue before we decide?",
+     "a": "<p>Of course. Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Wedding\">send an enquiry</a> and we&rsquo;ll arrange a time to show you round and talk through your plans.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Tell us about your wedding",
+   "text": "Send us your date and rough numbers, and we will be in touch with availability and details.",
+   "buttons": [
+    {
+     "label": "Send a wedding enquiry",
+     "href": "contact.html?enquiry=Wedding",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": null
+}

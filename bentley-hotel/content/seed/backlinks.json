@@ -1,0 +1,26 @@
+[
+ {
+  "source_url": "https://bridebook.com/uk/wedding-venues/the-bentley-hotel-motherwell-north-lanarkshire-eeZgjG7qYN",
+  "target_url": "https://www.thebentleyhotel.co.uk/",
+  "anchor_text": "Bentley Hotel website",
+  "notes": "Bridebook venue listing (links to the old thebentleyhotel.net address; ask them to update)"
+ },
+ {
+  "source_url": "https://venues4hire.org/venue/details/33081/bentley-hotel",
+  "target_url": "https://www.thebentleyhotel.co.uk/",
+  "anchor_text": "Website",
+  "notes": "Venues4Hire listing"
+ },
+ {
+  "source_url": "https://www.cvent.com/venues/motherwell/hotel/the-bentley-hotel/venue-67de052a-cd8a-4036-b5a5-ad5f3e71ef9c",
+  "target_url": "https://www.thebentleyhotel.co.uk/",
+  "anchor_text": "Visit website",
+  "notes": "Cvent venue listing"
+ },
+ {
+  "source_url": "https://www.whatsonlanarkshire.co.uk/listings/the-bentley-hotel/",
+  "target_url": "https://www.thebentleyhotel.co.uk/",
+  "anchor_text": "www.thebentleyhotel.co.uk",
+  "notes": "What's On Lanarkshire listing"
+ }
+]

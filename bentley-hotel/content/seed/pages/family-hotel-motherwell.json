@@ -1,0 +1,173 @@
+{
+ "slug": "family-hotel-motherwell",
+ "kind": "landing",
+ "status": "published",
+ "title": "Family Hotel in Motherwell",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Family Hotel in Motherwell | Bentley Hotel, Motherwell",
+  "description": "A family hotel in Motherwell with a family room for up to three, free parking and breakfast cooked to order, close to Strathclyde Country Park and M&D's.",
+  "canonical": "",
+  "og_image": "assets/img/room-family-1-800.jpg",
+  "og_alt": "Family room at Bentley Hotel with a double bed and a single bed in white linen",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "split",
+  "eyebrow": "Families welcome",
+  "title": "A family hotel in Motherwell, with days out on the doorstep",
+  "lede": "Our family room sleeps up to three, parking is free, breakfast is cooked to order, and Strathclyde Country Park, the theme park and the Heritage Centre are all close by.",
+  "image": "room-family-1",
+  "image_alt": "A double bed and a single bed in white linen against a sage wall",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Room+booking",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "booking_strip",
+   "title": "Find a family room",
+   "note": "Choose the Family Room for up to three, or book two rooms for a bigger family and tell us so we can try to place them close together."
+  },
+  {
+   "type": "text",
+   "eyebrow": "Staying with children",
+   "title": "A family room, a cooked breakfast and plenty to do nearby",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Our family room has a double bed and a single bed and sleeps up to three guests, one of whom may be a child, so a couple with a child can share one room. Bigger family? Book two rooms, mention it when you book, and we&rsquo;ll do our best to put them near each other.</p><p>Children are welcome in the restaurant, and when breakfast is part of your rate it is a full Scottish breakfast cooked to order. If you are bringing a baby, or hoping for a cot or an extra bed, please speak to us before you book. No two rooms in a house built in 1874 are quite the same shape, and we&rsquo;d rather talk it through first.</p><p>Then there is what is outside the door. The North Lanarkshire Heritage Centre is next door and free to visit, with a viewing tower over the Clyde Valley. Strathclyde Country Park is about a mile away, with its loch, woodland walks and watersports, and on its edge, about 2 miles from us, are M&amp;D&rsquo;s theme park and Amazonia, the indoor tropical house. About a mile the other way, Dalzell Estate and the RSPB reserve at Baron&rsquo;s Haugh are good for a walk with a picnic. For a city day, the fastest trains from Motherwell station, 5 minutes&rsquo; walk away, reach Glasgow Central in under 20 minutes.</p><p>Parking is free on site, so unloading the car with children and bags is simple, and the whole hotel is non-smoking.</p>",
+   "aside_html": "<ul class=\"checklist\"><li>Family room: a double and a single bed, sleeping up to 3</li><li>Cots and extra beds: please call us before booking</li><li>Children welcome in the restaurant</li><li>Free on-site parking</li><li>Heritage Centre next door; Strathclyde Country Park about a mile</li><li>M&amp;D&rsquo;s and Amazonia about 2 miles</li></ul>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "For families",
+   "title": "What makes a family stay here work",
+   "intro": "",
+   "columns": 4,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "users",
+     "title": "A room for up to three",
+     "text": "A double and a single bed in one room, so parents and a child can stay together. Two rooms for bigger families.",
+     "link_label": "The family room",
+     "link_href": "rooms.html#family"
+    },
+    {
+     "icon": "tree",
+     "title": "Strathclyde Country Park, about a mile",
+     "text": "A loch, woodland walks and watersports between Motherwell and Hamilton.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "ticket",
+     "title": "M&D's and Amazonia, about 2 miles",
+     "text": "The theme park and the indoor tropical house beside it, on the edge of the country park.",
+     "link_label": "",
+     "link_href": ""
+    },
+    {
+     "icon": "castle",
+     "title": "Heritage Centre next door",
+     "text": "Free to visit, with exhibitions about the area and a viewing tower over the Clyde Valley.",
+     "link_label": "",
+     "link_href": ""
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "eyebrow": "Rooms",
+   "title": "Rooms for families",
+   "intro": "All en suite, with a TV, tea and coffee and free WiFi.",
+   "background": "paper",
+   "items": [
+    {
+     "image": "room-family-1",
+     "image_alt": "A double bed and a single bed in white linen against a sage wall",
+     "meta": "Sleeps up to 3",
+     "title": "Family Room",
+     "text": "A double bed and a single bed, so parents and a child can share one room.",
+     "href": "rooms.html#family"
+    },
+    {
+     "image": "room-twin-2",
+     "image_alt": "Two single beds with teal throws and a colourful canvas on the wall",
+     "meta": "Sleeps 2",
+     "title": "Twin Room",
+     "text": "Two single beds, a useful second room for older children or grandparents.",
+     "href": "rooms.html#twin"
+    },
+    {
+     "image": "room-double-1",
+     "image_alt": "Double bed with a blue throw in a bright bay-windowed room",
+     "meta": "Sleeps 2",
+     "title": "Double Room",
+     "text": "A double bed for the parents when the family takes two rooms.",
+     "href": "rooms.html#double"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Family stays: what parents ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How many people does the family room sleep?",
+     "a": "<p>Up to three, one of whom may be a child. It has a double bed and a single bed, and like every room it is en suite with a TV, tea and coffee and free WiFi.</p>"
+    },
+    {
+     "q": "Can you provide a cot or an extra bed?",
+     "a": "<p>Please call us on <a href=\"tel:+441698265588\">01698 265588</a> before you book. Our rooms vary in shape and size, so we&rsquo;d rather talk through what works for your family first.</p>"
+    },
+    {
+     "q": "We are a family of four or more. What are our options?",
+     "a": "<p>Book two rooms, for example the family room and a twin, and mention that you are travelling together. We&rsquo;ll do our best to place them near each other.</p>"
+    },
+    {
+     "q": "Is breakfast included, and can the children eat with us?",
+     "a": "<p>Whether breakfast is included depends on your rate, and your confirmation will say. Children are welcome in the restaurant, and breakfast is a full Scottish, cooked to order.</p>"
+    },
+    {
+     "q": "What is there for children to do nearby?",
+     "a": "<p>The North Lanarkshire Heritage Centre is next door and free to visit. Strathclyde Country Park is about a mile away, M&amp;D&rsquo;s theme park and Amazonia about 2 miles, and Dalzell Estate and RSPB Baron&rsquo;s Haugh about a mile the other way.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Book a family stay in Motherwell",
+   "text": "Check availability for the family room, or call us to talk through what works for your family.",
+   "buttons": [
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": null
+}

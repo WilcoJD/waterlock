@@ -1,41 +1,62 @@
-# The Bentley Hotel, Motherwell: website
+# Bentley Hotel, Motherwell: website
 
-A website for **The Bentley Hotel, 19 High Road, Motherwell ML1 3HU**: plain HTML, CSS and a little JavaScript, with online booking connected live to the hotel's **Cloudbeds** reservations system.
+The website for **Bentley Hotel, 19 High Road, Motherwell ML1 3HU**, with an admin area for editing it. It runs on Cloudflare Pages: pages, blog posts, events, landing pages, uploads, backlinks, redirects and SEO settings live in a database and are edited at `/admin`; the public pages are rendered on Cloudflare's edge. A static copy of the site in `public/` is always kept up to date as a fallback, so the site works even before the database is set up. Online booking runs on the hotel's Cloudbeds system.
 
 ```
 bentley-hotel/
-├── public/                  ← the website (upload this folder to any static host)
-│   ├── *.html               pages
-│   ├── assets/css, js, img  styles, scripts (main.js, booking.js), photos
-│   └── _headers             security and caching headers (Cloudflare Pages)
-├── src/                     ← optional page generator: build.py + pages/ (shared header/footer, tokens)
-├── functions/api/           ← /api/availability: live availability from the Cloudbeds API (Cloudflare Pages Function)
-├── tests/                   ← unit tests for the function:  npm test
-├── wrangler.toml            ← Cloudflare Pages settings
-└── README.md
+├── public/            the static export and assets (css, js, img): a complete site on its own
+├── functions/         Cloudflare Pages Functions
+│   ├── [[path]].js        public pages, blog, events, sitemap, redirects, media
+│   ├── admin/             the admin app (ui.js) and its API ([[path]].js)
+│   ├── api/availability.js  live availability from Cloudbeds
+│   └── _lib/              renderer, themes, database, auth, markdown, schema.sql, seed-data.js
+├── content/seed/      the built-in content as JSON (pages, landing pages, events, settings…)
+├── src/               build.js (static export), dev.js (local server), check.py (validator), hash-password.js
+├── tests/             node --test suites (backend, availability function, admin UI)
+├── docs/architecture.md   data model, section types, API, deployment detail
+└── wrangler.toml      Cloudflare Pages settings and bindings
 ```
 
-## Pages
+## What the admin area does
 
-| File | Page |
+Log in at `/admin`. Everything is edited there and appears on the site within seconds:
+
+| Section | What you can do |
 | --- | --- |
-| `index.html` | Home, with a booking search bar |
-| `rooms.html` | Rooms: Single, Twin, Double and Family (each with a booking link), booking search, check-in info, FAQ |
-| `book.html` | **Book a room**: the live Cloudbeds booking engine on the hotel's own site |
-| `availability.html` | **Availability calendar** ("the diary"): rooms free per night, with prices |
-| `dining.html` | Restaurant, conservatory and bar |
-| `weddings.html` | Weddings: capacities, package, venue, FAQ |
-| `functions.html` | Functions, meetings and conferences (Back o' Barns room) |
-| `history.html` | Motherwell House (1874), the Cameronians, timeline, conservation area |
-| `location.html` | Map, directions by train, car and air, things to do nearby |
-| `gallery.html` | Photo gallery of the house and rooms (with a lightbox) |
-| `faq.html` | Questions and answers, grouped by topic |
-| `contact.html` | Contact details and an enquiry form |
-| `accessibility.html` | Accessibility statement for the website and the building |
-| `privacy.html` | Privacy and cookies notice |
-| `404.html` | "Page not found" page |
+| **Pages** | Edit any page: title, SEO fields, hero and a list of sections (text, features, cards, FAQ, gallery, stats, checklist, timeline, quote, call-to-action, raw HTML…). Live preview before saving. Draft or published. |
+| **Landing pages** | Ten alternative homepages for campaigns and search (hotel in Motherwell, wedding venue, match days, Glasgow concerts, families, contractors, conferences, Strathclyde Park, short breaks, group bookings). Any of them can be set as the homepage in Settings; all are linkable on their own. |
+| **Events** | Twenty event and package pages (Burns Night, Christmas Day lunch, party nights, Hogmanay, New Year's Day, festive stays, Valentine's, Mother's and Father's Day, Easter, St Andrew's Day, Halloween, wedding open day, afternoon tea, match days, christenings, birthdays, funeral receptions, corporate day delegate, engagement parties) with editable dates, prices and inclusions, listed at `/events`. |
+| **Blog** | News posts written in Markdown with a live preview, cover image, tags and SEO fields; listed at `/blog` with an RSS feed. |
+| **Media** | Upload photos and PDFs (menus, price lists) and use them anywhere. |
+| **Backlinks** | Keep a list of sites that link to you and check, with one click, that each link is still live. |
+| **Redirects** | Send old addresses (for example from the previous website) to the right page. |
+| **SEO** | An audit of every page (missing or long titles and descriptions, duplicates, missing social image, broken internal links) plus site-wide settings, analytics code and verification tags. The sitemap and robots.txt are generated automatically. |
+| **Themes** | A dropdown of ten themes (colours, typefaces and layout: header style, hero style, button shape, flat or banded sections) applied site-wide. |
+| **Settings** | Contact details, booking links, check-in/out text, homepage choice, footer text, social links. Export and import the whole site as JSON. |
 
-Also in `public/`: `assets/css/styles.css` (all styling), `assets/js/main.js` (mobile menu, scroll reveal, enquiry form), `assets/js/booking.js` (booking search, booking page, availability calendar), `assets/img/` (photos in WebP and JPEG at two sizes), `favicon.svg` / `favicon.ico` / `apple-touch-icon.png`, `robots.txt` and `sitemap.xml`.
+## Deployment (Cloudflare Pages)
+
+1. **Pages project:** *Workers & Pages → Create → Pages → Connect to Git*, choose this repository and branch, set **Root directory** to `bentley-hotel`, **Build output directory** to `public`, and leave the build command empty.
+2. **Database:** `npx wrangler d1 create bentley-hotel`, paste the id into `wrangler.toml` (uncomment the `[[d1_databases]]` block), then `npx wrangler d1 execute bentley-hotel --remote --file functions/_lib/schema.sql`.
+3. **Uploads:** `npx wrangler r2 bucket create bentley-hotel-media` and uncomment the `[[r2_buckets]]` block.
+4. **Secrets** (*Settings → Variables and Secrets*): `ADMIN_PASSWORD` (or better `ADMIN_PASSWORD_HASH` from `npm run hash-password`), `SESSION_SECRET` (any long random string) and `CLOUDBEDS_API_KEY`.
+5. Deploy, open `https://www.thebentleyhotel.co.uk/admin`, log in and click **Load built-in content**. The database fills with every page in `content/seed`.
+6. Add the custom domains `www.thebentleyhotel.co.uk` and `thebentleyhotel.co.uk` to the project, after removing the Cloudflare redirect that currently sends them to the Cloudbeds page.
+
+For extra protection, put Cloudflare Access (Zero Trust) in front of `/admin*` so a login with your email is needed before the password screen.
+
+Without the database and bucket, the site serves the static export in `public/` and `/admin` explains what is missing. Without Cloudflare at all, `public/` works on any static host (except the admin, blog editing and uploads).
+
+## Working on the site locally
+
+- `npm run dev` starts the real functions at http://127.0.0.1:8788 with a SQLite file standing in for the database and a folder for uploads; the admin password is printed (set `ADMIN_PASSWORD` to choose it). The built-in content is loaded on first run.
+- `npm run build` regenerates `functions/_lib/seed-data.js` and the static export in `public/` from `content/seed`. Run it after editing the seed JSON.
+- `npm test` runs the backend tests (router, admin API, auth, markdown, uploads), the availability function tests and the admin UI tests.
+- `npm run check` validates the built site (tags, links, anchors, images, headings, metadata, structured data).
+
+## Editing content outside the admin
+
+The seed content in `content/seed` is the site's starting point and its fallback. Each page is a JSON file with a `hero` and a list of `sections`; `docs/architecture.md` lists every section type and field. The fifteen original pages were migrated with their HTML kept as `html` sections, so they can be edited either as HTML or rebuilt from typed sections in the admin.
 
 ## Online booking and the Cloudbeds diary
 
@@ -43,12 +64,12 @@ Every booking is made in Cloudbeds, so it lands straight in the hotel's Cloudbed
 
 | Piece | How it works | Needs |
 | --- | --- | --- |
-| **Booking search bars** (home, rooms, availability) | Arrival, departure, adults, children and room, sent to `book.html` using Cloudbeds' own parameter names (`checkin`, `checkout`, `adults`, `kids`, `rid`, `currency`). Works without JavaScript. | Nothing |
+| **Booking search bars** (home, rooms, availability) | Arrival, departure, adults, children and room, sent to `/book` using Cloudbeds' own parameter names (`checkin`, `checkout`, `adults`, `kids`, `rid`, `currency`). Works without JavaScript. | Nothing |
 | **Book a room** (`book.html`) | Cloudbeds' official **Immersive Experience 2.0** web component (`<cb-immersive-experience>`) shows the full booking engine, payment included, inside the hotel's own page. It picks up the dates, guests and room from the search. | The hotel's domain whitelisted in Cloudbeds (see below) |
 | **Availability calendar** (`availability.html`) | A night-by-night grid for the four public room types showing rooms left, the lowest nightly price, "no arrivals" days and minimum stays. Guests click an arrival date, then a departure date, then **Book these dates**. Data comes from `/api/availability`, a small Cloudflare Pages Function that calls the Cloudbeds API with a secret key. | A Cloudbeds API key stored as a secret in Cloudflare |
 | **Fallbacks** | Off the hotel's own domain (staging, previews), or if the embed fails to load within 15 seconds, booking links go to the hosted Cloudbeds page with the same search. If the API isn't set up, the calendar page shows Cloudbeds' own live date picker instead (on the hotel's domain) or the booking search bar. | Nothing |
 
-Room types sold on the site (Cloudbeds room type IDs): Single `148837309972637`, Twin `148838930526405`, Double `148839795253447`, Family `158032272887993`. The corporate "Ensol" room types are deliberately left off. The IDs and the domain list are at the top of `public/assets/js/booking.js` and `functions/api/availability.js`.
+Room types sold on the site (Cloudbeds room type IDs): Single `148837309972637`, Twin `148838930526405`, Double `148839795253447`, Family `158032272887993`. The corporate "Ensol" room types are deliberately left off. The IDs and the domain list are at the top of `public/assets/js/booking.js`, `functions/api/availability.js` and `functions/_lib/render.js` (booking form).
 
 ### Cloudbeds settings (hotel owner)
 
@@ -60,16 +81,11 @@ Room types sold on the site (Cloudbeds room type IDs): Single `148837309972637`,
 
 The domain is already on Cloudflare, so Cloudflare Pages is the simplest home: it serves `public/` and runs `functions/` on the same domain.
 
-1. In Cloudflare, go to *Workers & Pages → Create → Pages → Connect to Git*, choose this repository and branch, set **Root directory** to `bentley-hotel` and **Build output directory** to `public`, and leave the build command empty.
-2. Under *Settings → Variables and Secrets*, add the secret `CLOUDBEDS_API_KEY` (the `cbat_…` key). `CLOUDBEDS_PROPERTY_ID` (`141393122377981`, the property ID the booking engine uses) is already set in `wrangler.toml`.
-3. Add the custom domains `www.thebentleyhotel.co.uk` and `thebentleyhotel.co.uk` to the Pages project, after removing the current redirect.
-4. Check `https://www.thebentleyhotel.co.uk/api/availability`. It should return JSON with four rooms. `{"error":"not_configured"}` means the secret is missing, and `upstream_error` means Cloudbeds rejected the key or its scope.
-
-Without Cloudflare, `public/` works on any static host. Booking and the booking search work there too (once the domain is whitelisted in Cloudbeds), and the availability page falls back to Cloudbeds' date picker.
+See **Deployment** above for the Pages set-up; the availability function needs only the `CLOUDBEDS_API_KEY` secret. Check `https://www.thebentleyhotel.co.uk/api/availability` after deploying: it should return JSON with four rooms. `{"error":"not_configured"}` means the secret is missing, and `upstream_error` means Cloudbeds rejected the key or its scope.
 
 ### Testing
 
-`python3 src/check.py` checks every built page for unbalanced tags, broken local links and anchors, images without alt text or dimensions, heading order, title and description lengths and invalid structured data. `npm test` (Node 18 or later) runs the unit tests for the availability function against a test fixture built from Cloudbeds' published API schema. To try the function locally with the real key, put `CLOUDBEDS_API_KEY=cbat_…` in `bentley-hotel/.dev.vars` (git-ignored) and run `npx wrangler pages dev public`. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
+`npm test` includes the availability function's unit tests (against a fixture built from Cloudbeds' published API schema). To try the function locally with the real key, put `CLOUDBEDS_API_KEY=cbat_…` in `bentley-hotel/.dev.vars` (git-ignored) and run `npx wrangler pages dev public`. These checks could not be done from the build environment, so please check them once the site is live on the hotel's domain:
 
 - **Book a room page:** the booking engine loads.
 - **Searches carry over:** a search from the home page arrives with its dates and room selected.

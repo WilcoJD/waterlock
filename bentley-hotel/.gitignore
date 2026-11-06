@@ -1,5 +1,5 @@
-# Local secrets for `wrangler pages dev` — never commit the Cloudbeds API key
 .dev.vars*
 .env*
 .wrangler/
 node_modules/
+.dev/

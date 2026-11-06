@@ -1,0 +1,36 @@
+{
+ "site": {
+  "name": "Bentley Hotel",
+  "short_name": "Bentley Hotel",
+  "tagline": "Hotel, restaurant and function suite in Motherwell House, built 1874",
+  "phone": "01698 265588",
+  "phone_tel": "+441698265588",
+  "email": "liam@thebentleyhotel.co.uk",
+  "address": {
+   "street": "19 High Road",
+   "town": "Motherwell",
+   "region": "North Lanarkshire",
+   "postcode": "ML1 3HU",
+   "country": "GB"
+  },
+  "geo": {
+   "lat": 55.7915,
+   "lng": -3.99585
+  },
+  "site_url": "https://www.thebentleyhotel.co.uk",
+  "booking_url": "book.html",
+  "hosted_booking_url": "https://us2.cloudbeds.com/en/reservation/7ELXfI",
+  "cloudbeds_property_code": "7ELXfI",
+  "checkin": "2pm",
+  "checkout": "11am",
+  "theme": "heritage-green",
+  "homepage_slug": "index",
+  "footer_blurb": "An 18-bedroom hotel with a restaurant and function suite, in a Victorian villa built in 1874 as Motherwell House.",
+  "social": [],
+  "head_html": "",
+  "analytics_html": "",
+  "default_og_image": "assets/img/exterior-700.jpg",
+  "default_og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall tower and a conservatory, in Motherwell"
+ },
+ "version": 1
+}

@@ -2,8 +2,13 @@
   "name": "bentley-hotel-website",
   "private": true,
   "type": "module",
-  "description": "Static website for The Bentley Hotel, Motherwell, with a Cloudflare Pages Function for live Cloudbeds availability",
+  "description": "Bentley Hotel, Motherwell: website with an admin area, blog, events and live Cloudbeds availability, on Cloudflare Pages",
+  "engines": { "node": ">=22.13" },
   "scripts": {
-    "test": "node --test tests/*.test.mjs"
+    "dev": "node --disable-warning=ExperimentalWarning src/dev.js",
+    "build": "node src/build.js",
+    "check": "python3 -I src/check.py public",
+    "test": "node --disable-warning=ExperimentalWarning --test tests/*.test.mjs",
+    "hash-password": "node src/hash-password.js"
   }
 }

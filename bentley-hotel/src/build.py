@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assemble the Bentley Hotel static site: shared head/header/footer + per-page bodies.
+"""Assemble Bentley Hotel static site: shared head/header/footer + per-page bodies.
 
 Usage: python3 -I build.py <pages_dir> <out_dir> [--only name]
 Each page body file starts with a JSON front-matter block between '<!--META' and 'META-->'.
@@ -100,7 +100,7 @@ def head(meta):
     og_img = SITE + "/assets/img/" + og_file
     og_name, og_suffix = og_file.rsplit(".", 1)[0].rsplit("-", 1)
     og_w, og_h = IMAGES[og_name][og_suffix]
-    og_alt = meta.get("og_alt", "The Bentley Hotel, a sandstone Victorian villa with a tall tower and a conservatory, in Motherwell")
+    og_alt = meta.get("og_alt", "Bentley Hotel, a sandstone Victorian villa with a tall tower and a conservatory, in Motherwell")
     jsonld = meta.get("jsonld")
     jsonld_html = ""
     if jsonld:
@@ -116,7 +116,7 @@ def head(meta):
   <meta name="description" content="{desc}">{robots}{canonical}
   <meta name="theme-color" content="#17302a">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="The Bentley Hotel, Motherwell">
+  <meta property="og:site_name" content="Bentley Hotel, Motherwell">
   <meta property="og:title" content="{title}">
   <meta property="og:description" content="{desc}">
   <meta property="og:url" content="{url}">
@@ -164,9 +164,9 @@ def header(active):
 
   <header class="site-header">
     <div class="container">
-      <a class="brand" href="index.html" aria-label="The Bentley Hotel, Motherwell — home">
+      <a class="brand" href="index.html" aria-label="Bentley Hotel, Motherwell — home">
         {BRAND_MARK}
-        <span class="brand__text"><span class="brand__name">The Bentley</span><span class="brand__sub">Hotel &middot; Motherwell</span></span>
+        <span class="brand__text"><span class="brand__name">Bentley Hotel</span><span class="brand__sub">Hotel &middot; Motherwell</span></span>
       </a>
       <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
         {icon("menu", "icon-open")}{icon("x", "icon-close")}<span>Menu</span>
@@ -188,16 +188,16 @@ def footer():
     <div class="container">
       <div class="footer-grid">
         <div>
-          <a class="brand" href="index.html" aria-label="The Bentley Hotel, Motherwell — home">
+          <a class="brand" href="index.html" aria-label="Bentley Hotel, Motherwell — home">
             {BRAND_MARK}
-            <span class="brand__text"><span class="brand__name">The Bentley</span><span class="brand__sub">Hotel &middot; Motherwell</span></span>
+            <span class="brand__text"><span class="brand__name">Bentley Hotel</span><span class="brand__sub">Hotel &middot; Motherwell</span></span>
           </a>
           <p>An 18-bedroom hotel with a restaurant and function suite, in a Victorian villa built in 1874 as Motherwell House.</p>
         </div>
         <div>
           <h2>Find us</h2>
           <address>
-            The Bentley Hotel<br>
+            Bentley Hotel<br>
             19 High Road<br>
             Motherwell<br>
             North Lanarkshire ML1 3HU
@@ -223,7 +223,7 @@ def footer():
         </div>
       </div>
       <div class="footer-bottom">
-        <span>&copy; <span data-year>2026</span> The Bentley Hotel, Motherwell.</span>
+        <span>&copy; <span data-year>2026</span> Bentley Hotel, Motherwell.</span>
         <span><a href="accessibility.html">Accessibility</a> &middot; <a href="privacy.html">Privacy &amp; cookies</a> &middot; <a href="faq.html">FAQ</a></span>
       </div>
     </div>

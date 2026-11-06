@@ -61,7 +61,10 @@ def main(root):
             if re.match(r"(https?:|mailto:|tel:|#|data:)", link):
                 continue
             target = link.lstrip("/").split("#")[0].split("?")[0] or "index.html"
-            if not os.path.exists(os.path.join(root, target)):
+            if target in ("media", "admin") or target.startswith(("media/", "admin/")):
+                continue
+            candidates = [target, target + ".html", target.rstrip("/") + "/index.html"]
+            if not any(os.path.exists(os.path.join(root, c)) for c in candidates):
                 issues.append(f"missing local file: {link}")
         for img in p.imgs:
             if "alt" not in img:
@@ -100,7 +103,8 @@ def main(root):
     # fragment links between pages
     for name, p in pages.items():
         text = open(os.path.join(root, name), encoding="utf-8").read()
-        for target, frag in re.findall(r'href="/?([a-z0-9\-]+\.html)#([A-Za-z0-9\-_]+)"', text):
+        for target, frag in re.findall(r'href="/?([a-z0-9\-/]+?)(?:\.html)?#([A-Za-z0-9\-_]+)"', text):
+            target = (target or "index") + ".html"
             if target in pages and frag not in pages[target].ids:
                 print(f"{name:20} broken anchor {target}#{frag}")
                 problems += 1

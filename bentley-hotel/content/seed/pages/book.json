@@ -1,0 +1,35 @@
+{
+ "slug": "book",
+ "kind": "page",
+ "status": "published",
+ "title": "Book a Room",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Book a Room | Bentley Hotel, Motherwell",
+  "description": "Book your stay at Bentley Hotel, Motherwell, directly with the hotel. Live availability and prices for single, twin, double and family rooms.",
+  "canonical": "",
+  "og_image": "exterior-700.jpg",
+  "og_alt": "",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": null,
+ "sections": [
+  {
+   "type": "html",
+   "html": "<section class=\"page-hero page-hero--plain page-hero--compact\" aria-labelledby=\"page-title\">\n      <div class=\"container\">\n        <ol class=\"breadcrumb\"><li><a href=\"index.html\">Home</a></li><li aria-current=\"page\">Book a room</li></ol>\n        <p class=\"eyebrow\">Book direct</p>\n        <h1 id=\"page-title\">Book your stay</h1>\n        <p class=\"lede\">Live availability and prices straight from our reservations diary. Choose your dates, pick a room and book securely.</p>\n        <p class=\"booking-summary\" data-booking-summary hidden></p>\n      </div>\n    </section>"
+  },
+  {
+   "type": "html",
+   "html": "<section class=\"section section--tight\" aria-label=\"Online booking\">\n      <div class=\"container\">\n        <div class=\"booking-engine is-loading\" data-booking-engine>\n          <cb-immersive-experience mode=\"standard\" property-code=\"7ELXfI\" lang=\"en\" currency=\"gbp\"></cb-immersive-experience>\n          <div class=\"booking-fallback\" data-booking-fallback hidden>\n            <div class=\"feature__icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M16 2v4\"/><path d=\"M8 2v4\"/><path d=\"M3 10h18\"/></svg></div>\n            <h2>Continue to our secure booking page</h2>\n            <p>Our online booking runs on Cloudbeds, the system that manages the hotel&rsquo;s reservations, so the rooms and prices you see are always up to date. Your dates and room choice carry over.</p>\n            <div class=\"btn-row\">\n              <a class=\"btn btn--primary\" data-hosted-link href=\"https://us2.cloudbeds.com/en/reservation/7ELXfI\">Continue to booking</a>\n              <a class=\"btn btn--outline\" href=\"tel:+441698265588\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z\"/></svg>Call 01698 265588</a>\n            </div>\n          </div>\n          <noscript>\n            <div class=\"booking-fallback\">\n              <h2>Book online</h2>\n              <p>Online booking needs JavaScript. You can book on our secure Cloudbeds page instead, or call us on 01698 265588.</p>\n              <p><a class=\"btn btn--primary\" href=\"https://us2.cloudbeds.com/en/reservation/7ELXfI\">Book on our secure booking page</a></p>\n            </div>\n          </noscript>\n        </div>\n        <p class=\"small muted booking-help\">Trouble loading the booking form? <a data-hosted-link href=\"https://us2.cloudbeds.com/en/reservation/7ELXfI\">Book on our secure Cloudbeds page</a>, or call us on <a href=\"tel:+441698265588\">01698 265588</a>.</p>\n      </div>\n    </section>"
+  },
+  {
+   "type": "html",
+   "html": "<section class=\"section section--cream\" aria-labelledby=\"know-title\">\n      <div class=\"container\">\n        <div class=\"split split--top\">\n          <div>\n            <h2 id=\"know-title\">Good to know</h2>\n            <dl class=\"info-list\">\n              <div><dt>Check-in</dt><dd>From 2pm</dd></div>\n              <div><dt>Check-out</dt><dd>By 11am</dd></div>\n              <div><dt>Parking</dt><dd>Free, on site</dd></div>\n              <div><dt>WiFi</dt><dd>Free for all guests</dd></div>\n              <div><dt>Pets</dt><dd>Assistance animals only</dd></div>\n              <div><dt>Age</dt><dd>The guest checking in must be 18 or over</dd></div>\n            </dl>\n          </div>\n          <div>\n            <div class=\"feature\">\n              <div class=\"feature__icon\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg></div>\n              <h3>Booking for a group or an event?</h3>\n              <p>For several rooms for a wedding, a function or a team, call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Room%20booking\">send an enquiry</a> and we&rsquo;ll put it together for you.</p>\n            </div>\n            <p class=\"mt-1\"><a class=\"text-link\" href=\"availability.html\">See every night at a glance in the availability calendar <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></a></p>\n          </div>\n        </div>\n      </div>\n    </section>"
+  }
+ ],
+ "event": null
+}

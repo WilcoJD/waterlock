@@ -1,0 +1,27 @@
+[
+ {
+  "from_path": "/restaurant.htm",
+  "to_url": "/dining",
+  "code": 301
+ },
+ {
+  "from_path": "/rooms.htm",
+  "to_url": "/rooms",
+  "code": 301
+ },
+ {
+  "from_path": "/weddings.htm",
+  "to_url": "/weddings",
+  "code": 301
+ },
+ {
+  "from_path": "/functions.htm",
+  "to_url": "/functions",
+  "code": 301
+ },
+ {
+  "from_path": "/contact.htm",
+  "to_url": "/contact",
+  "code": 301
+ }
+]
