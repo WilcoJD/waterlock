@@ -5,6 +5,8 @@
 
 ```
 python3 business-ideas/_source/build.py
+# rebuild the single PDF (needs Playwright + Chromium)
+python3 business-ideas/_source/make_pdf.py business-ideas /tmp/catalog.html x && node business-ideas/_source/render.js /tmp/catalog.html "$PWD/business-ideas/Open-Source-White-Label-Business-Catalog.pdf"
 ```
 
 Project rows: `category<TAB>project<TAB>owner/repo<TAB>business angle`.

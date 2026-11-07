@@ -22,6 +22,8 @@
 | [Store Concepts (e-commerce niches)](stores.md) | 112 | 1680 store ideas |
 | [White-Label & Reseller Businesses](resell.md) | 86 | 1324 ideas |
 
+**Everything in one file:** [`Open-Source-White-Label-Business-Catalog.pdf`](Open-Source-White-Label-Business-Catalog.pdf) (310 pages, clickable contents and repo links)
+
 Also: [`catalog.csv`](catalog.csv), spreadsheet-friendly versions of everything for sorting, filtering and shortlisting.
 
 ## How to use this
