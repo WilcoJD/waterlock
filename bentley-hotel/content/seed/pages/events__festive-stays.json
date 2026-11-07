@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Christmas & New Year Stays | Bentley Hotel, Motherwell",
-  "description": "Rooms over Christmas and New Year at Bentley Hotel, Motherwell: 18 en-suite rooms, breakfast cooked to order, free parking and the station 5 minutes' walk.",
+  "description": "Rooms over Christmas and New Year in Motherwell: 18 en-suite rooms, breakfast cooked to order, free parking and Motherwell station about 5 minutes' walk away.",
   "canonical": "",
   "og_image": "assets/img/room-double-3-800.jpg",
   "og_alt": "Double bed with a teal throw and tartan cushions at Bentley Hotel, Motherwell",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Festive season",
   "title": "Festive stays over Christmas and New Year",
-  "lede": "Rooms over the holidays in a Victorian house 5 minutes from Motherwell station, with breakfast cooked to order and our festive events downstairs. Ask what's included this year.",
+  "lede": "Rooms over the holidays in a Victorian house about 5 minutes' walk from Motherwell station, with breakfast cooked to order and our festive events under the same roof. Ask what's included this year.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -31,7 +31,7 @@
    },
    {
     "label": "Send an enquiry",
-    "href": "contact.html?enquiry=Room+booking",
+    "href": "contact.html?enquiry=Function",
     "style": "light"
    }
   ],
@@ -43,8 +43,8 @@
    "title": "Festive stays: the details",
    "buttons": [
     {
-     "label": "Ask about festive stays",
-     "href": "contact.html?enquiry=Room+booking",
+     "label": "Enquire about this event",
+     "href": "contact.html?enquiry=Function",
      "style": "primary"
     },
     {
@@ -60,13 +60,13 @@
    "title": "Christmas and New Year at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Some people want Christmas at home. Others would rather hand the cooking to someone else and wake up to a cooked breakfast waiting downstairs. If that is you, or you need rooms for family coming to Motherwell for the holidays, our festive stays are for you.</p><p>The house was built in 1874 and has 18 en-suite bedrooms: singles, twins, doubles and a family room that sleeps up to three, each with a TV, tea and coffee making facilities and free WiFi. Downstairs are the restaurant, the conservatory and the function suite, where our <a href=\"events/christmas-day-lunch\">Christmas Day lunch</a>, <a href=\"events/christmas-party-nights\">party nights</a>, <a href=\"events/hogmanay\">Hogmanay dinner</a> and <a href=\"events/new-years-day-lunch\">New Year&rsquo;s Day lunch</a> take place, so a stay can be as busy or as quiet as you like.</p><p>What&rsquo;s included changes from year to year: we may offer a package with dinner and breakfast, or rooms priced for the holidays with our events booked alongside. Ask what&rsquo;s included this year and we&rsquo;ll tell you plainly. Whether breakfast is part of your rate will be clear on your confirmation. Glasgow is about 12 miles away and Edinburgh about 30, so Christmas shopping or Hogmanay celebrations in either city are within reach.</p>",
-   "aside_html": "<ul class=\"checklist\"><li>18 en-suite rooms: single, twin, double and family (up to 3)</li><li>Breakfast cooked to order, where it is part of your rate</li><li>Festive events downstairs, from Christmas Day lunch to Hogmanay</li><li>Free parking; Motherwell station about 5 minutes&rsquo; walk</li><li>Check-in from 2pm, check-out by 11am; non-smoking throughout</li></ul>"
+   "html": "<p>Some people want Christmas at home. Others would rather hand the cooking to someone else and come down to a cooked breakfast. If that is you, or you need rooms for family coming to Motherwell for the holidays, our festive stays are for you.</p><p>The house dates from 1874 and has 18 en-suite bedrooms: singles, twins, doubles and a family room that sleeps up to three, each with a TV, tea and coffee making facilities and free WiFi. Under the same roof are the restaurant, the conservatory and the function suite, where our <a href=\"events/christmas-day-lunch\">Christmas Day lunch</a>, <a href=\"events/christmas-party-nights\">party nights</a>, <a href=\"events/hogmanay\">Hogmanay dinner</a> and <a href=\"events/new-years-day-lunch\">New Year&rsquo;s Day lunch</a> take place, so a stay can be as busy or as quiet as you like.</p><p>What&rsquo;s included changes from year to year: we may offer a package with dinner and breakfast, or rooms priced for the holidays with our events booked alongside. Ask what&rsquo;s included this year and we&rsquo;ll tell you plainly, and whether breakfast is part of your rate will be clear on your confirmation. Glasgow is about 12 miles away and Edinburgh about 30, so Christmas shopping or Hogmanay celebrations in either city are within reach.</p>",
+   "aside_html": "<ul class=\"checklist\"><li>18 en-suite rooms: single, twin, double and family (up to 3)</li><li>Full Scottish breakfast cooked to order, where it is part of your rate</li><li>Festive events under the same roof, from Christmas Day lunch to Hogmanay</li><li>Free parking; Motherwell station about 5 minutes&rsquo; walk</li><li>Check-in from 2pm, check-out by 11am; non-smoking throughout</li></ul>"
   },
   {
    "type": "features",
    "eyebrow": "What to expect",
-   "title": "The rooms, the breakfast and what is on downstairs",
+   "title": "The rooms, the breakfast and what is on under the same roof",
    "intro": "",
    "columns": 3,
    "background": "cream",
@@ -74,21 +74,21 @@
     {
      "icon": "bed",
      "title": "The rooms",
-     "text": "Singles, twins, doubles and a family room for up to three, all en suite, in a house built in 1874. Some doubles have bay windows.",
+     "text": "Singles, twins, doubles and a family room for up to three, all en suite, in a house dating from 1874. Some doubles have bay windows.",
      "link_label": "See the rooms",
      "link_href": "rooms.html"
     },
     {
      "icon": "coffee",
      "title": "Breakfast",
-     "text": "A full Scottish breakfast, cooked to order, in the restaurant or the conservatory. Your confirmation shows whether it is included in your rate.",
+     "text": "A full Scottish breakfast, cooked to order. Your confirmation shows whether it is included in your rate; if not, ask us about adding it to your stay.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "calendar",
-     "title": "The events downstairs",
-     "text": "Christmas Day lunch, party nights, Hogmanay dinner and New Year&rsquo;s Day lunch all happen under the same roof.",
+     "title": "The events",
+     "text": "Christmas Day lunch, party nights, Hogmanay dinner and New Year's Day lunch all happen under the same roof as your room.",
      "link_label": "All events",
      "link_href": "events"
     }
@@ -106,7 +106,7 @@
     },
     {
      "q": "Do you take a deposit?",
-     "a": "<p>Payment and cancellation terms depend on the rate you book and are in your confirmation. For a package with meals we may ask for a deposit; we&rsquo;ll explain when you book.</p>"
+     "a": "<p>Payment and cancellation terms depend on the rate you book and are set out in your confirmation. For a package with meals we may ask for a deposit, and we&rsquo;ll say so when you book.</p>"
     },
     {
      "q": "Can we eat at the hotel over Christmas and New Year?",
@@ -114,7 +114,7 @@
     },
     {
      "q": "Is there parking, and do trains run over the holidays?",
-     "a": "<p>Parking is free for the length of your stay. Train services are very limited on Christmas Day, Boxing Day and New Year&rsquo;s Day, so check times before you travel. Motherwell is just off the M74 at junction 6.</p>"
+     "a": "<p>Parking is free for the length of your stay. Train services are very limited on Christmas Day, Boxing Day and New Year&rsquo;s Day, so check times before you travel. By road, the M74 (junction 6) is close by.</p>"
     }
    ]
   },
@@ -146,7 +146,7 @@
    "Free parking for the length of your stay",
    "Help with rooms for family travelling to join you"
   ],
-  "note": "What&rsquo;s included in this year&rsquo;s festive stays, and the prices, are confirmed each autumn. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "What&rsquo;s included in this year&rsquo;s festive stays, and the prices, are confirmed each autumn. Ask us and we&rsquo;ll tell you as soon as they&rsquo;re settled.",
   "category": "festive",
   "month": 12
  }

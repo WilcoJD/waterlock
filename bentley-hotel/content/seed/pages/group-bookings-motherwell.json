@@ -40,8 +40,8 @@
  "sections": [
   {
    "type": "booking_strip",
-   "title": "Booking one or two rooms? Book online",
-   "note": "For three or more rooms, or rooms alongside a function, call us on 01698 265588 so we can hold them together for you."
+   "title": "Booking a room or two? Book online",
+   "note": "For several rooms, or rooms alongside a function, call us on 01698 265588 so we can hold them together for you."
   },
   {
    "type": "text",
@@ -49,7 +49,7 @@
    "title": "Everyone under one roof, and someone to arrange it",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Bringing a group anywhere takes organising, and it&rsquo;s easier when one person at the hotel is looking after it. Call us with your dates and numbers and we&rsquo;ll work out which of our 18 en-suite rooms suit your party: singles, twins for friends or team-mates, doubles for couples and a family room sleeping up to three.</p><p>Wedding parties take rooms for the night of the celebration, whether the wedding is here or elsewhere in Lanarkshire. Teams and supporters stay for fixtures at Fir Park, about a mile away, or for events at Ravenscraig and in Glasgow, where the OVO Hydro, Hampden and Celtic Park are within about 15 miles. Clubs combine a meal here with a night&rsquo;s stay, and families gather for birthdays, anniversaries and reunions.</p><p>If your group wants to eat together, our function suite, the Back o&rsquo; Barns room, seats up to 100 for dinner and holds up to 120 for a reception, with catering from our own kitchen. For a smaller party, ask about the conservatory or private dining in the restaurant. Breakfast the next morning is a full Scottish, cooked to order.</p><p>Getting everyone here is straightforward: free parking on site, Motherwell station about 5 minutes&rsquo; walk and junction 6 of the M74 nearby. Every room has a TV, tea and coffee making facilities and free WiFi.</p><p>Because the house dates from 1874, no two rooms are quite alike, so tell us who needs to be near whom, and about any access needs, and we&rsquo;ll do our best to place you well.</p>",
+   "html": "<p>Bringing a group anywhere takes organising, and it&rsquo;s easier when you can talk it through with the hotel. Call us with your dates and numbers and we&rsquo;ll work out which of our 18 en-suite rooms suit your party: singles, twins for friends or team-mates, doubles for couples and a family room sleeping up to three.</p><p>Wedding parties take rooms for the night of the celebration, whether the wedding is here or elsewhere in Lanarkshire. Teams and supporters stay for fixtures at Fir Park, about a mile away, or for events at Ravenscraig and in Glasgow, where the OVO Hydro, Hampden and Celtic Park are within about 15 miles. Clubs can combine a meal here with a night&rsquo;s stay, and families gather for birthdays, anniversaries and reunions.</p><p>If your group wants to eat together, our function suite, the Back o&rsquo; Barns room, seats up to 100 for dinner and holds up to 120 for a reception, with catering from our own kitchen. For a smaller party, ask about the conservatory or private dining in the restaurant. Breakfast the next morning is a full Scottish, cooked to order.</p><p>Getting everyone here is straightforward: free parking on site, Motherwell station about 5 minutes&rsquo; walk and junction 6 of the M74 nearby. Every room has a TV, tea and coffee making facilities and free WiFi.</p><p>Because the house dates from 1874, the rooms vary in shape and size, so tell us who needs to be near whom, and about any access needs, and we&rsquo;ll do our best to place you well.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Bedrooms</dt><dd>18, all en suite: single, twin, double and family</dd></div><div><dt>Function suite</dt><dd>100 seated for dinner, 120 for a reception</dd></div><div><dt>Private dining</dt><dd>Restaurant and conservatory</dd></div><div><dt>Parking</dt><dd>Free, on site</dd></div><div><dt>Station</dt><dd>About 5 minutes&rsquo; walk</dd></div><div><dt>To arrange</dt><dd>Call 01698 265588</dd></div></dl>"
   },
   {
@@ -77,7 +77,7 @@
     {
      "icon": "users",
      "title": "Clubs and societies",
-     "text": "A dinner or lunch in the function suite or restaurant, with rooms upstairs for members who would rather not drive home.",
+     "text": "A dinner or lunch in the function suite or restaurant, with rooms in the hotel for members who would rather not drive home.",
      "link_label": "Functions and celebrations",
      "link_href": "functions.html"
     },
@@ -143,7 +143,7 @@
     },
     {
      "q": "How do I book several rooms?",
-     "a": "<p>One or two rooms can be booked online. For three or more, call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Room+booking\">send an enquiry</a> with your dates and numbers, and we&rsquo;ll hold the rooms together and explain how each guest confirms theirs.</p>"
+     "a": "<p>A room or two can be booked online. For several, call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Room+booking\">send an enquiry</a> with your dates and numbers, and we&rsquo;ll hold the rooms together and explain how each guest confirms theirs.</p>"
     },
     {
      "q": "Do you ask for a deposit?",

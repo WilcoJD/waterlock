@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Match Day Hotel near Fir Park | Bentley Hotel, Motherwell",
-  "description": "Stay about a mile from Fir Park for Motherwell FC home games. Free parking, a pre-match meal if you call ahead, and trains to Glasgow in under 20 minutes.",
+  "description": "Stay about a mile from Fir Park for Motherwell FC home games, with free parking, a restaurant and bar under one roof and trains to Glasgow in under 20 minutes.",
   "canonical": "",
   "og_image": "assets/img/room-twin-2-800.jpg",
   "og_alt": "Twin room at Bentley Hotel with two single beds in teal throws and a colourful canvas",
@@ -20,7 +20,7 @@
   "style": "split",
   "eyebrow": "Fir Park about a mile away",
   "title": "A match day hotel for Motherwell FC",
-  "lede": "Stay about a mile from Fir Park, with free parking, a meal before the game and a bed afterwards. For away days, the station is 5 minutes' walk and Glasgow Central is under 20 minutes by the fastest trains.",
+  "lede": "Stay about a mile from Fir Park, with free parking, our restaurant and bar under the same roof and a bed afterwards. For away days, the station is about 5 minutes' walk and Glasgow Central is under 20 minutes by the fastest trains.",
   "image": "room-twin-2",
   "image_alt": "Twin room with two single beds in teal throws and a colourful canvas on the wall",
   "buttons": [
@@ -41,7 +41,7 @@
   {
    "type": "booking_strip",
    "title": "Book for the fixture",
-   "note": "Rooms go quickly around home fixtures. Check availability as soon as the date is confirmed, or call us to book for a group."
+   "note": "Check availability as soon as your fixture date is confirmed, or call us to book rooms for a group."
   },
   {
    "type": "text",
@@ -49,8 +49,8 @@
    "title": "Fir Park, about a mile from our front door",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Motherwell FC have played at Fir Park since 1895, and the ground is about a mile from Bentley Hotel: around 20 minutes on foot, or a short taxi ride if the weather is doing what Lanarkshire weather does. Leave the car in our free car park, walk to the game and walk back without worrying about parking near the ground.</p><p>If you would like to eat before kick-off, call ahead. Our restaurant serves Scottish and British cooking, and when we know you are coming we can have a table ready at a time that suits the fixture. After the final whistle there is a bar to come back to, a bed upstairs and, if it is part of your rate, a full Scottish breakfast cooked to order in the morning.</p><p>For away days we are just as useful. Motherwell station is about 5 minutes&rsquo; walk, the fastest trains reach Glasgow Central in under 20 minutes, and Hampden Park and Celtic Park are both within about 15 miles, so you can stay with us, travel in by train and skip the city traffic.</p><p>Fixtures move for television and cup draws, so book as soon as your date is confirmed and check your confirmation for the cancellation terms that apply to your rate.</p>",
-   "aside_html": "<dl class=\"info-list\"><div><dt>Fir Park</dt><dd>About a mile: walk it, or take a short taxi</dd></div><div><dt>Parking</dt><dd>Free on site for the length of your stay</dd></div><div><dt>Pre-match meal</dt><dd>Call ahead on 01698 265588 and we&rsquo;ll have a table ready</dd></div><div><dt>Station</dt><dd>About 5 minutes&rsquo; walk, with Glasgow Central in under 20 minutes</dd></div><div><dt>Rooms</dt><dd>Singles, twins, doubles and a family room for three</dd></div></dl>"
+   "html": "<p>Motherwell FC have played at Fir Park since 1895, and the ground is about a mile from Bentley Hotel: an easy walk, or a short taxi ride if the weather is doing what Lanarkshire weather does. Leave the car in our free car park, walk to the game and walk back without worrying about parking near the ground.</p><p>If you would like to eat before kick-off, call ahead. Our restaurant serves Scottish and British cooking, and opening times vary, so tell us which fixture you are coming for and we&rsquo;ll let you know what we can do. After the final whistle there is a bar to come back to, a bed in the hotel and, if it is part of your rate, a full Scottish breakfast cooked to order in the morning.</p><p>For away days we are just as useful. Motherwell station is about 5 minutes&rsquo; walk, the fastest trains reach Glasgow Central in under 20 minutes, and Hampden Park and Celtic Park are both within about 15 miles, so you can stay with us, travel in by train and skip the city traffic.</p><p>Fixtures move for television and cup draws, so book as soon as your date is confirmed and check your confirmation for the cancellation terms that apply to your rate.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Fir Park</dt><dd>About a mile: walk it, or take a short taxi</dd></div><div><dt>Parking</dt><dd>Free on site for the length of your stay</dd></div><div><dt>Eating before the game</dt><dd>Opening times vary: call ahead on 01698 265588 to ask about a table</dd></div><div><dt>Station</dt><dd>About 5 minutes&rsquo; walk, with Glasgow Central in under 20 minutes at the fastest</dd></div><div><dt>Rooms</dt><dd>Singles, twins, doubles and a family room for three</dd></div></dl>"
   },
   {
    "type": "features",
@@ -63,28 +63,28 @@
     {
      "icon": "football",
      "title": "About a mile from Fir Park",
-     "text": "Walk it in around 20 minutes or take a short taxi, and leave the car with us.",
+     "text": "Walk to the ground or take a short taxi, and leave the car with us.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "car",
      "title": "Free parking on match days",
-     "text": "Free for the whole of your stay. No permits, and no searching the streets near the ground.",
+     "text": "Free for the whole of your stay, so there is no searching for a space near the ground.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "utensils",
-     "title": "A meal before kick-off",
-     "text": "Call ahead and we will have a table ready in the restaurant before the game. The bar is here for afterwards.",
+     "title": "Eating before kick-off",
+     "text": "Opening times vary, so call ahead to ask about a table in the restaurant before the game. The bar is here for afterwards.",
      "link_label": "Restaurant and bar",
      "link_href": "dining.html"
     },
     {
      "icon": "train",
      "title": "Away days by train",
-     "text": "Motherwell station is 5 minutes' walk. Glasgow Central is under 20 minutes at the fastest, with Hampden and Celtic Park within about 15 miles.",
+     "text": "Motherwell station is about 5 minutes' walk. Glasgow Central is under 20 minutes at the fastest, with Hampden and Celtic Park within about 15 miles.",
      "link_label": "Getting here",
      "link_href": "location.html"
     }
@@ -94,7 +94,7 @@
    "type": "cards",
    "eyebrow": "Rooms",
    "title": "Rooms for the travelling support",
-   "intro": "All en suite, with a TV, tea and coffee and free WiFi.",
+   "intro": "Every room is en suite, with a TV, tea and coffee making facilities and free WiFi.",
    "background": "paper",
    "items": [
     {
@@ -131,11 +131,11 @@
    "items": [
     {
      "q": "How far is Fir Park from the hotel?",
-     "a": "<p>About a mile: around 20 minutes on foot, or a few minutes by taxi. Leave the car in our free car park rather than look for a space near the ground.</p>"
+     "a": "<p>About a mile, so it is an easy walk or a short taxi ride. Leave the car in our free car park rather than look for a space near the ground.</p>"
     },
     {
      "q": "Can we eat at the hotel before the match?",
-     "a": "<p>Yes, if you call ahead on <a href=\"tel:+441698265588\">01698 265588</a>. Opening times vary, so tell us you are coming and we&rsquo;ll have a table ready to suit the kick-off. The bar is here for afterwards.</p>"
+     "a": "<p>Call ahead on <a href=\"tel:+441698265588\">01698 265588</a>. Opening times vary, so tell us which fixture you are coming for and we&rsquo;ll let you know whether we can seat you before kick-off. The bar is here for afterwards.</p>"
     },
     {
      "q": "Is there parking on match days?",
@@ -147,7 +147,7 @@
     },
     {
      "q": "Can we book several rooms for a group?",
-     "a": "<p>Yes. Call us and we&rsquo;ll talk through dates and room types. Twins and singles work well for groups of friends, and we&rsquo;ll explain payment and cancellation terms when you book.</p>"
+     "a": "<p>Yes. We have 18 en-suite rooms in all, so call us and we&rsquo;ll talk through dates and room types. Twins and singles work well for groups of friends, and we&rsquo;ll explain payment and cancellation terms when you book.</p>"
     }
    ]
   },

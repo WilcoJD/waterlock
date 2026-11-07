@@ -71,7 +71,7 @@ const CSS = `
 *{box-sizing:border-box}html{font:15px/1.45 var(--font);color:var(--ink);background:var(--bg);-webkit-text-size-adjust:100%}body{margin:0;min-height:100vh}
 [hidden]{display:none!important}a{color:var(--green-700)}code{font:.9em var(--mono);background:#efece4;padding:1px 4px;border-radius:3px}
 :focus-visible{outline:2px solid var(--brass);outline-offset:2px}h1:focus{outline:none}
-.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.sr{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 h1{font-size:1.5rem;margin:0 0 16px;font-weight:650}h2{font-size:1.05rem;margin:0 0 10px}h3{font-size:.95rem;margin:14px 0 8px;color:var(--muted)}p{margin:0 0 10px}
 .shell{display:grid;grid-template-columns:220px minmax(0,1fr);min-height:100vh}
 .side{background:var(--green);color:#f3eee2;padding:14px 12px;display:flex;flex-direction:column;gap:6px;position:sticky;top:0;height:100vh}
@@ -81,7 +81,7 @@ h1{font-size:1.5rem;margin:0 0 16px;font-weight:650}h2{font-size:1.05rem;margin:
 .side__foot{margin-top:auto;display:flex;gap:8px;flex-wrap:wrap}.btn--side{background:transparent;color:#f3eee2;border-color:rgba(255,255,255,.3);flex:1;justify-content:center}.btn--side:hover{background:rgba(255,255,255,.1)}
 main{padding:22px clamp(16px,3vw,40px) 60px;min-width:0}
 .head{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}.head h1,.head h2{margin:0}
-.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.row .field{margin:0}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.row .field{margin:0}.row>input,.row>select{flex:1 1 120px;width:auto;min-width:0}
 .card{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);padding:16px;margin-bottom:16px}
 .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}.grid--wide{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
 .grid2{display:grid;gap:4px 14px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}.span2{grid-column:1/-1}
@@ -99,11 +99,11 @@ textarea{min-height:84px;resize:vertical;line-height:1.4}textarea.code{font:13px
 .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.74rem;font-weight:600;background:#ebe8e0;color:#4b4f4a;text-transform:capitalize;white-space:nowrap}
 .badge--published,.badge--live,.badge--ok{background:#dcefe3;color:var(--ok)}.badge--draft,.badge--unchecked,.badge--warn{background:#f3ead3;color:var(--warn)}.badge--missing,.badge--error{background:#f6dcd6;color:var(--danger)}.badge--system,.badge--dark{background:#e4e1ea;color:#4a3f6b}
 .tag{font-size:.7rem;text-transform:uppercase;letter-spacing:.04em;background:var(--green-100);color:var(--green);padding:2px 7px;border-radius:4px;font-weight:700;white-space:nowrap}
-.table-wrap{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:var(--r)}.table{width:100%;border-collapse:collapse}.table th,.table td{padding:9px 12px;text-align:left;border-top:1px solid var(--line);vertical-align:middle}.table th{background:#f7f5ef;border-top:0;font-size:.84rem}.table td a.title{font-weight:600;text-decoration:none}.actions{display:flex;gap:6px;flex-wrap:wrap}.table .row{flex-wrap:nowrap}
+.table-wrap{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:var(--r)}.table{width:100%;border-collapse:collapse}.table th,.table td{padding:9px 12px;text-align:left;border-top:1px solid var(--line);vertical-align:middle}.table th{background:#f7f5ef;border-top:0;font-size:.84rem}.table td a.title{font-weight:600;text-decoration:none}.table td a,.table td code,.table td .hint{overflow-wrap:anywhere}.actions{display:flex;gap:6px;flex-wrap:wrap}.table .row{flex-wrap:nowrap}
 .toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:12px}.toolbar .field{margin:0;flex:1;min-width:160px}.toolbar select{width:auto}
 .editor__bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:8px 0 12px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center;border-bottom:1px solid var(--line);margin-bottom:16px}.editor__bar h1{margin:0;font-size:1.25rem}
 .dirty{font-size:.85rem;color:var(--warn);font-weight:600}
-.editor__cols{display:grid;grid-template-columns:minmax(260px,340px) minmax(0,1fr);gap:20px;align-items:start}
+.editor__cols{display:grid;grid-template-columns:minmax(260px,340px) minmax(0,1fr);gap:20px;align-items:start}.col{min-width:0}
 .sec{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);margin-bottom:10px}.sec__bar{display:flex;align-items:center;gap:6px;padding:4px 6px}
 .sec__toggle{flex:1;display:flex;align-items:center;gap:10px;text-align:left;font:inherit;background:none;border:0;padding:7px 6px;cursor:pointer;color:inherit;min-width:0;border-radius:6px}.sec__toggle:hover{background:#f7f5ef}
 .sec__toggle::before{content:"\\25B8";color:var(--muted);flex:none}.sec.is-open .sec__toggle::before{content:"\\25BE"}
@@ -127,9 +127,9 @@ textarea{min-height:84px;resize:vertical;line-height:1.4}textarea.code{font:13px
 .login{min-height:100vh;display:grid;place-items:center;padding:16px}.login__card{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:28px;width:min(380px,100%)}
 .error{color:var(--danger);font-weight:600;min-height:1.4em}.empty{color:var(--muted);padding:22px;text-align:center;background:var(--paper);border:1px dashed var(--line);border-radius:var(--r)}.loading{color:var(--muted)}
 .issues{margin:0;padding-left:0;list-style:none}.issues li{display:flex;gap:8px;align-items:baseline;margin:2px 0}
-@media (max-width:820px){.shell{grid-template-columns:1fr}.side{position:static;height:auto;padding:8px 12px;gap:2px}.brand{padding:4px 6px 8px}.nav{display:flex;gap:2px;overflow-x:auto;padding-bottom:4px;scrollbar-width:thin}.nav a{white-space:nowrap;padding:6px 10px}.side__foot{margin-top:4px}
-main{padding:16px 16px 60px}.editor__cols,.md-split{grid-template-columns:1fr}.editor__bar{position:static}
-.table thead{display:none}.table tr{display:block;border-top:1px solid var(--line);padding:6px 0}.table tr:first-child{border-top:0}.table td{display:flex;gap:10px;border:0;padding:4px 12px;align-items:center}.table td::before{content:attr(data-l);font-weight:600;min-width:84px;color:var(--muted);font-size:.82rem;flex:none}}
+@media (max-width:820px){.shell{grid-template-columns:minmax(0,1fr)}.side{position:static;height:auto;padding:8px 12px;gap:2px;min-width:0}.brand{padding:4px 6px 8px}.nav{display:flex;gap:2px;overflow-x:auto;min-width:0;padding-bottom:4px;scrollbar-width:thin}.nav a{white-space:nowrap;padding:6px 10px}.side__foot{margin-top:4px}
+main{padding:16px 16px 60px}.editor__cols,.md-split{grid-template-columns:minmax(0,1fr)}.editor__bar{position:static}
+.table,.table tbody{display:block}.table thead{display:none}.table tr{display:block;border-top:1px solid var(--line);padding:6px 0}.table tr:first-child{border-top:0}.table td{display:flex;gap:10px;border:0;padding:4px 12px;align-items:center}.table td>*{min-width:0}.table td::before{content:attr(data-l);font-weight:600;min-width:84px;color:var(--muted);font-size:.82rem;flex:none}}
 `;
 
 function clientApp(BOOT) {
@@ -161,12 +161,18 @@ function clientApp(BOOT) {
   const toLocalInput = (iso) => { if (!iso) return ''; const d = new Date(iso); if (isNaN(d)) return ''; const p = (n) => String(n).padStart(2, '0'); return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}T${p(d.getHours())}:${p(d.getMinutes())}`; };
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const BUILTIN = { exterior: '700', 'room-single-1': '800', 'room-single-2': '800', 'room-twin-1': '800', 'room-twin-2': '800', 'room-double-1': '800', 'room-double-2': '800', 'room-double-3': '800', 'room-family-1': '800' };
+  // Mirrors imageUrl() in functions/_lib/render.js: a built-in photo name, a media key (media/<key>), or a URL/path
+  // served from the site root. A built-in photo's file name (e.g. room-double-1-lg.jpg, as in migrated pages) is
+  // shown from /assets/img/ so the thumbnail does not request a file that is not there.
+  const BUILTIN_FILE = /^([a-z0-9-]+)-(?:700|800|lg)\.(?:jpg|webp)$/;
   function imgUrl(v) {
     v = String(v || '').trim();
     if (!v) return '';
     if (BUILTIN[v]) return '/assets/img/' + v + '-' + BUILTIN[v] + '.jpg';
     if (/^(https?:)?\/\//i.test(v) || v.startsWith('/') || v.startsWith('data:')) return v;
-    return '/' + v;
+    const file = BUILTIN_FILE.exec(v);
+    if (file && BUILTIN[file[1]]) return '/assets/img/' + v;
+    return '/' + v.replace(/^\.?\//, '');
   }
   const liveUrl = (slug) => (slug === 'index' ? '/' : '/' + slug);
   const postUrl = (slug) => '/blog/' + slug;
@@ -216,17 +222,29 @@ function clientApp(BOOT) {
     const el = document.createElement('div');
     el.className = 'toast' + (type === 'error' ? ' toast--error' : '');
     el.textContent = msg;
-    $('#toasts').append(el);
+    const box = $('#toasts');
+    while (box.children.length >= 4) box.firstElementChild.remove(); // keep the stack short on small screens
+    box.append(el);
     setTimeout(() => el.remove(), type === 'error' ? 8000 : 3500);
   }
   function fail(e) { if (e && e.status === 401) return; console.warn(e); toast((e && e.message) || String(e), 'error'); }
 
   const dlg = $('#dlg');
-  async function openDialog({ title, body, buttons = [], wide = false, onOpen }) {
-    if (dlg.open) { dlg.close(); await new Promise((r) => setTimeout(r, 0)); }
+  let dlgResolve = null; // settles the promise of the dialog that is currently open
+  function settleDialog(value) { const r = dlgResolve; dlgResolve = null; if (r) r(value || null); }
+  // Escape (the native cancel), or anything closing the dialog directly, resolves with its returnValue.
+  // A stale 'close' event from a dialog that was replaced arrives while the new one is open and is ignored.
+  dlg.addEventListener('close', () => { if (!dlg.open) settleDialog(dlg.returnValue); });
+  function closeDialog(value) {
+    // Resolve synchronously: the 'close' event is dispatched later, and callers such as the image picker
+    // must see the chosen value as soon as the dialog has gone.
+    if (dlg.open) dlg.close(value || '');
+    settleDialog(value);
+  }
+  function openDialog({ title, body, buttons = [], wide = false, onOpen }) {
+    if (dlg.open) closeDialog();
     return new Promise((resolve) => {
-      const onClose = () => { dlg.removeEventListener('close', onClose); resolve(dlg.returnValue || null); };
-      dlg.addEventListener('close', onClose);
+      dlgResolve = resolve;
       dlg.className = 'dlg' + (wide ? ' dlg--wide' : '');
       dlg.setAttribute('aria-labelledby', 'dlg-title');
       dlg.innerHTML = `<div class="dlg__head"><h2 id="dlg-title">${esc(title)}</h2><button class="iconbtn" type="button" data-action="dlg-close" aria-label="Close">✕</button></div><div class="dlg__body">${body}</div>` +
@@ -238,7 +256,6 @@ function clientApp(BOOT) {
       if (first) first.focus();
     });
   }
-  function closeDialog(value) { if (dlg.open) dlg.close(value || ''); }
   dlg.addEventListener('keydown', (e) => { if (e.key === 'Enter' && e.target.id === 'dlg-input') { e.preventDefault(); closeDialog('ok'); } });
   async function confirmDialog(message, { ok = 'OK', danger = false, title = 'Please confirm', extra = '' } = {}) {
     const r = await openDialog({ title, body: `<p>${esc(message)}</p>${extra}`, buttons: [{ label: 'Cancel', value: 'cancel', cls: 'btn--ghost' }, { label: ok, value: 'ok', cls: danger ? 'btn--danger' : 'btn--primary' }] });
@@ -402,6 +419,8 @@ function clientApp(BOOT) {
   }
   function showLogin() {
     state.loggedIn = false;
+    state.editor = null; state.model = null; // nothing can be saved until the user signs in again; drop the unsaved-changes guard
+    if (dlg.open) closeDialog();
     $('#app').hidden = true;
     $('#login').hidden = false;
     document.title = 'Sign in – Bentley Hotel admin';
@@ -483,9 +502,9 @@ function clientApp(BOOT) {
     const audit = normalizeAudit(seo);
     const issues = audit.reduce((a, e) => a + e.issues.length, 0);
     const n = (v) => (v == null ? '?' : v);
-    const stat = (href, count, label, sub) => `<a class="stat" href="${href}"><strong>${count}</strong><span>${label}</span>${sub ? `<small> · ${sub}</small>` : ''}</a>`;
+    const stat = (href, count, label, sub) => `<a class="stat" href="${href}"><strong>${esc(count)}</strong><span>${esc(label)}</span>${sub ? `<small> · ${esc(sub)}</small>` : ''}</a>`;
     setView(`<h1>Dashboard</h1>
-      <div class="grid">${stat('#/pages', n(stats.pages), 'Pages', stats.drafts ? `${stats.drafts} draft${stats.drafts === 1 ? '' : 's'} in all` : '')}${stat('#/landing', n(stats.landing), 'Landing pages')}${stat('#/events', n(stats.events), 'Events')}${stat('#/posts', n(stats.posts), 'Blog posts')}${stat('#/media', n(stats.media), 'Media files')}${stat('#/backlinks', n(stats.backlinks), 'Backlinks')}</div>
+      <div class="grid">${stat('#/pages', n(stats.pages), 'Pages', stats.drafts ? `${Number(stats.drafts)} draft${Number(stats.drafts) === 1 ? '' : 's'} in all` : '')}${stat('#/landing', n(stats.landing), 'Landing pages')}${stat('#/events', n(stats.events), 'Events')}${stat('#/posts', n(stats.posts), 'Blog posts')}${stat('#/media', n(stats.media), 'Media files')}${stat('#/backlinks', n(stats.backlinks), 'Backlinks')}</div>
       <div class="grid grid--wide">
         <section class="card"><h2>SEO audit</h2>${seo == null ? '<p class="hint">The audit could not be loaded.</p>' : issues ? `<p><strong>${issues}</strong> issue${issues === 1 ? '' : 's'} on <strong>${audit.length}</strong> page${audit.length === 1 ? '' : 's'}.</p><ul class="issues">${audit.slice(0, 5).map((e) => `<li><a href="#/pages/${esc(e.slug)}">${esc(e.title)}</a><span class="hint">${e.issues.length} issue${e.issues.length === 1 ? '' : 's'}</span></li>`).join('')}</ul>` : '<p>No issues found.</p>'}<p><a href="#/seo">Open the SEO report</a></p></section>
         <section class="card"><h2>Quick links</h2><div class="actions"><a class="btn btn--small" href="#/pages/new">New page</a><a class="btn btn--small" href="#/pages/new?kind=landing">New landing page</a><a class="btn btn--small" href="#/pages/new?kind=event">New event</a><a class="btn btn--small" href="#/posts/new">New blog post</a><a class="btn btn--small" href="#/media">Upload media</a><a class="btn btn--small" href="#/themes">Change theme</a><a class="btn btn--small btn--ghost" href="/" target="_blank" rel="noopener">Open site</a></div></section>
@@ -959,7 +978,12 @@ function clientApp(BOOT) {
   };
 
   function onField(el, type) {
-    if (el.dataset.filter !== undefined && state.list) { state.list[el.dataset.filter] = el.value; (state.list.render || renderList)(); return; }
+    if (el.dataset.filter !== undefined && state.list) {
+      // The search box also fires 'change' when it loses focus (e.g. as the user clicks a row's Edit link);
+      // re-rendering the table then would replace the link under the pointer, so only react to real changes.
+      if (state.list[el.dataset.filter] === el.value) return;
+      state.list[el.dataset.filter] = el.value; (state.list.render || renderList)(); return;
+    }
     if (el.dataset.change) { if (type === 'change') Promise.resolve(changes[el.dataset.change](el)).catch(fail); return; }
     const path = el.dataset.path;
     if (!path || !state.model) return;
@@ -987,6 +1011,8 @@ function clientApp(BOOT) {
   });
   $('#view').addEventListener('input', (e) => onField(e.target, 'input'));
   $('#view').addEventListener('change', (e) => onField(e.target, 'change'));
+  // Hide a thumbnail whose image cannot be loaded (error events do not bubble, so capture them).
+  document.addEventListener('error', (e) => { const t = e.target; if (t && t.tagName === 'IMG' && t.classList.contains('thumb')) t.hidden = true; }, true);
 
   $('#login-form').addEventListener('submit', async (e) => {
     e.preventDefault();

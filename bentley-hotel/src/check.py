@@ -47,9 +47,13 @@ class Page(HTMLParser):
 def main(root):
     problems = 0
     pages = {}
-    for name in sorted(os.listdir(root)):
-        if not name.endswith(".html"):
-            continue
+    names = []
+    for dirpath, dirnames, filenames in os.walk(root):
+        dirnames[:] = [d for d in dirnames if d != "assets"]
+        for f in filenames:
+            if f.endswith(".html"):
+                names.append(os.path.relpath(os.path.join(dirpath, f), root))
+    for name in sorted(names):
         text = open(os.path.join(root, name), encoding="utf-8").read()
         p = Page()
         p.feed(text)
@@ -96,7 +100,7 @@ def main(root):
         for m in re.findall(r"\{\{[a-z]+:[^}]*\}\}|\{\{[A-Z_]+\}\}", text):
             issues.append(f"unexpanded token {m}")
         status = "ok" if not issues else f"{len(issues)} issue(s)"
-        print(f"{name:20} {status}")
+        print(f"{name:40} {status}")
         for i in issues:
             print(f"    - {i}")
         problems += len(issues)

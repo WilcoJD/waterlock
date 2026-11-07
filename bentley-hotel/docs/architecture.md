@@ -87,6 +87,7 @@ API (all JSON; 401 if not logged in):
 | `POST /admin/api/login` `{password}` / `POST /admin/api/logout` / `GET /admin/api/me` | session |
 | `GET,PUT /admin/api/settings` | site settings (name, contacts, theme, homepage, analytics…) |
 | `GET /admin/api/themes` | the ten themes with their colours for the picker |
+| `GET /admin/api/stats` | counts for the dashboard |
 | `GET /admin/api/pages?kind=` `POST /admin/api/pages` `GET,PUT,DELETE /admin/api/pages/<slug>` `POST /admin/api/pages/<slug>/duplicate` | pages, landing pages, events |
 | `POST /admin/api/preview` `{page}` | renders a page JSON to HTML (for the live preview) |
 | `GET,POST /admin/api/posts` `GET,PUT,DELETE /admin/api/posts/<slug>` `POST /admin/api/markdown` `{md}` | blog |

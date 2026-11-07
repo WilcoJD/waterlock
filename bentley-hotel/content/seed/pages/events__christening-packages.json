@@ -1,0 +1,154 @@
+{
+ "slug": "events/christening-packages",
+ "kind": "event",
+ "status": "published",
+ "title": "Christening Packages",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Christening Packages | Bentley Hotel, Motherwell",
+  "description": "Christening and naming-day parties in Motherwell: a private room, a lunch or a buffet from our own kitchen, and rooms for family who have travelled.",
+  "canonical": "",
+  "og_image": "assets/img/room-family-1-800.jpg",
+  "og_alt": "Family room at Bentley Hotel with a double bed and a single bed in white linen against a sage wall",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "plain",
+  "eyebrow": "Events at Bentley Hotel",
+  "title": "Christening Packages",
+  "lede": "After the service, bring everyone back to us. We lay a private room for the family, serve a lunch or a buffet from our own kitchen, and have rooms in the hotel for relatives who have travelled for the day.",
+  "image": null,
+  "image_alt": "",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Function",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "event_details",
+   "title": "Christening parties: the details",
+   "buttons": [
+    {
+     "label": "Enquire about this event",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "outline"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "eyebrow": "The occasion",
+   "title": "A christening party at Bentley Hotel",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>A christening, or a naming day, is one of the few occasions that brings every generation of a family into one room: the baby and the parents, the grandparents, godparents and cousins, and friends who have known the family for years. The service or ceremony is usually in the morning or around midday, and afterwards everyone wants to sit down, eat and pass the baby round.</p><p>At Bentley Hotel that part is ours to look after. For a smaller family party we lay the conservatory beside the restaurant; for a larger one, our Back o&rsquo; Barns function suite seats up to 100 and is air-conditioned. You choose between a sit-down lunch and a buffet, both cooked in our own kitchen, and we agree the menu with you beforehand. Tell us about allergies, children&rsquo;s portions and anyone who&rsquo;d rather have something plain, and we&rsquo;ll plan around them. Bring the cake and we&rsquo;ll give it a stand, a knife and a moment of its own.</p><p>We&rsquo;re easy to reach from wherever the service is held: junction 6 of the M74 is close by, parking at the hotel is free, and for anyone coming by train Motherwell station is about 5 minutes&rsquo; walk. For relatives coming from further afield, the hotel has 18 en-suite rooms, including a family room with a double and a single bed, so grandparents or a young family can stay the night before and the night after.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The conservatory for smaller parties, or the function suite for up to 100 seated</dd></div><div><dt>When</dt><dd>Any day of the year, by arrangement, timed to follow the service</dd></div><div><dt>Food</dt><dd>A sit-down lunch or a buffet from our own kitchen; the menu agreed with you</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms in the hotel, including a family room</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "What to expect",
+   "title": "The room, the lunch and the night after",
+   "intro": "",
+   "columns": 3,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "users",
+     "title": "A room of your own",
+     "text": "The conservatory for a smaller family party, or the Back o' Barns function suite, air-conditioned and seating up to 100. Either way we set the room aside for you for the afternoon.",
+     "link_label": "Functions and private dining",
+     "link_href": "functions.html"
+    },
+    {
+     "icon": "utensils",
+     "title": "A lunch or a buffet",
+     "text": "Choose a sit-down lunch or a buffet, both cooked in our own kitchen. We agree the menu with you beforehand and cater for children, allergies and plain eaters. This season's menus are confirmed when you enquire.",
+     "link_label": "Restaurant and bar",
+     "link_href": "dining.html"
+    },
+    {
+     "icon": "bed",
+     "title": "Rooms for the family",
+     "text": "Grandparents and relatives travelling for the day can stay the night with us. Double and twin rooms and a family room with a double and a single bed, all en suite, with a full Scottish breakfast cooked to order when it is part of the rate.",
+     "link_label": "See the rooms",
+     "link_href": "rooms.html"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Christening parties: what people ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How far ahead should we book?",
+     "a": "<p>As soon as you have the date of the service. Weekend dates tend to go first, so the earlier you call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a>, the more choice you&rsquo;ll have. We&rsquo;ll confirm the room, the menu and this season&rsquo;s prices and hold the date.</p>"
+    },
+    {
+     "q": "How many people can you take?",
+     "a": "<p>The conservatory suits smaller family parties, and the function suite seats up to 100 for a meal or takes up to 120 for a standing reception. Tell us a rough number when you enquire and a firm one nearer the day.</p>"
+    },
+    {
+     "q": "Can you cater for children and for dietary requirements?",
+     "a": "<p>Yes. Tell us how many children are coming and their ages, along with any allergies, intolerances and vegetarian or vegan guests, and we&rsquo;ll build the menu around everyone.</p>"
+    },
+    {
+     "q": "Can we bring our own cake?",
+     "a": "<p>Yes. Bring it on the day, or drop it off beforehand by arrangement, and we&rsquo;ll set it out with a stand and a knife ready for the cutting.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Plan the christening party",
+   "text": "Tell us the date, your numbers and whether you&rsquo;d like a lunch or a buffet, and we&rsquo;ll take it from there.",
+   "buttons": [
+    {
+     "label": "Enquire about a christening",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": {
+  "dates_text": "Any day of the year, by arrangement, timed to follow the service",
+  "price_text": "",
+  "includes": [
+   "The conservatory for a smaller family party, or the function suite for up to 100 seated",
+   "A sit-down lunch or a buffet from our own kitchen, with the menu agreed beforehand",
+   "Children&rsquo;s portions and dietary requirements catered for when you tell us in advance",
+   "A stand and knife for the christening cake",
+   "Tea and coffee, and a bar for a toast to the baby",
+   "Rooms in the hotel for family who have travelled, including a family room with a double and a single bed"
+  ],
+  "note": "Menus and prices for christening parties are confirmed each season. Give us the date of the service and a rough number, and we&rsquo;ll send you what&rsquo;s on offer and hold the room while the family decides.",
+  "category": "celebrations",
+  "month": 0
+ }
+}

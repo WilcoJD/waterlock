@@ -49,7 +49,7 @@
    "title": "A family room, a cooked breakfast and plenty to do nearby",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Our family room has a double bed and a single bed and sleeps up to three guests, one of whom may be a child, so a couple with a child can share one room. Bigger family? Book two rooms, mention it when you book, and we&rsquo;ll do our best to put them near each other.</p><p>Children are welcome in the restaurant, and when breakfast is part of your rate it is a full Scottish breakfast cooked to order. If you are bringing a baby, or hoping for a cot or an extra bed, please speak to us before you book. No two rooms in a house built in 1874 are quite the same shape, and we&rsquo;d rather talk it through first.</p><p>Then there is what is outside the door. The North Lanarkshire Heritage Centre is next door and free to visit, with a viewing tower over the Clyde Valley. Strathclyde Country Park is about a mile away, with its loch, woodland walks and watersports, and on its edge, about 2 miles from us, are M&amp;D&rsquo;s theme park and Amazonia, the indoor tropical house. About a mile the other way, Dalzell Estate and the RSPB reserve at Baron&rsquo;s Haugh are good for a walk with a picnic. For a city day, the fastest trains from Motherwell station, 5 minutes&rsquo; walk away, reach Glasgow Central in under 20 minutes.</p><p>Parking is free on site, so unloading the car with children and bags is simple, and the whole hotel is non-smoking.</p>",
+   "html": "<p>Our family room has a double bed and a single bed and sleeps up to three guests, one of whom may be a child, so a couple with a child can share one room. Bigger family? Book two rooms, mention it when you book, and we&rsquo;ll do our best to put them near each other.</p><p>Children are welcome in the restaurant, and when breakfast is part of your rate it is a full Scottish breakfast cooked to order. If you are bringing a baby, or hoping for a cot or an extra bed, please speak to us before you book. The rooms in a house built in 1874 come in different shapes and sizes, and we&rsquo;d rather talk it through first.</p><p>Then there is what is outside the door. The North Lanarkshire Heritage Centre is next door and free to visit, with a viewing tower over the Clyde Valley. Strathclyde Country Park is about a mile away, with its loch, woodland walks and watersports, and on its edge, about 2 miles from us, are M&amp;D&rsquo;s theme park and Amazonia, the indoor tropical house. About a mile the other way, Dalzell Estate and the RSPB reserve at Baron&rsquo;s Haugh are good for a walk with a picnic. For a city day, the fastest trains from Motherwell station, about 5 minutes&rsquo; walk away, reach Glasgow Central in under 20 minutes.</p><p>Parking is free on site, so unloading the car with children and bags is simple, and the whole hotel is non-smoking.</p>",
    "aside_html": "<ul class=\"checklist\"><li>Family room: a double and a single bed, sleeping up to 3</li><li>Cots and extra beds: please call us before booking</li><li>Children welcome in the restaurant</li><li>Free on-site parking</li><li>Heritage Centre next door; Strathclyde Country Park about a mile</li><li>M&amp;D&rsquo;s and Amazonia about 2 miles</li></ul>"
   },
   {
@@ -94,7 +94,7 @@
    "type": "cards",
    "eyebrow": "Rooms",
    "title": "Rooms for families",
-   "intro": "All en suite, with a TV, tea and coffee and free WiFi.",
+   "intro": "Each room has an en-suite bathroom, a TV, tea and coffee and free WiFi.",
    "background": "paper",
    "items": [
     {
@@ -143,7 +143,7 @@
     },
     {
      "q": "Is breakfast included, and can the children eat with us?",
-     "a": "<p>Whether breakfast is included depends on your rate, and your confirmation will say. Children are welcome in the restaurant, and breakfast is a full Scottish, cooked to order.</p>"
+     "a": "<p>Whether breakfast is included depends on your rate; if you are not sure, ask us when you book. Children are welcome in the restaurant, and breakfast is a full Scottish, cooked to order.</p>"
     },
     {
      "q": "What is there for children to do nearby?",

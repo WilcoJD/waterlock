@@ -1,0 +1,154 @@
+{
+ "slug": "events/birthday-parties",
+ "kind": "event",
+ "status": "published",
+ "title": "Birthday Parties",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Birthday Parties | Bentley Hotel, Motherwell",
+  "description": "Birthday parties in Motherwell: a private table or the function suite for up to 120, a meal or a buffet, a bar for the evening and rooms to stay over.",
+  "canonical": "",
+  "og_image": "assets/img/exterior-700.jpg",
+  "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "plain",
+  "eyebrow": "Events at Bentley Hotel",
+  "title": "Birthday Parties",
+  "lede": "A milestone birthday deserves a room full of the right people. Book a private table for a family dinner, or take our function suite for up to 120 with a meal, music and a bar for the evening. Ask about a late licence.",
+  "image": null,
+  "image_alt": "",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Function",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "event_details",
+   "title": "Birthday parties: the details",
+   "buttons": [
+    {
+     "label": "Enquire about this event",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "outline"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "eyebrow": "The occasion",
+   "title": "A birthday at Bentley Hotel",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Eighteenth, twenty-first, fortieth, sixtieth or eightieth: the big birthdays are the ones where the whole family and the old friends turn up, some of them from a long way away. What the day needs is a room that fits the party, food that everyone will eat, somewhere to raise a glass, and beds nearby for the people who have travelled.</p><p>For a quiet celebration we lay a private table in the restaurant or the conservatory, where a family can sit down to dinner together and the cake arrives when you give the nod. For a party, our Back o&rsquo; Barns function suite holds up to 120 for a standing reception and seats 100 for dinner, and it is air-conditioned. Choose a sit-down meal or a buffet from our own kitchen, bring a DJ or a band if you&rsquo;d like music, and let us run a bar for the evening. If you want the night to go on, ask us about a late licence when you book.</p><p>You&rsquo;re welcome to dress the room with your own decorations; we&rsquo;ll agree a time for setting up. And when the party is over, the birthday person and the guests who have come furthest can stay the night in one of our 18 en-suite rooms and have breakfast with us rather than driving home.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>A private table in the restaurant or conservatory, or the function suite for up to 120</dd></div><div><dt>When</dt><dd>Any day of the year, by arrangement</dd></div><div><dt>Numbers</dt><dd>From a family dinner to a party of 120; 100 seated for dinner</dd></div><div><dt>The bar</dt><dd>A bar for the evening; ask about a late licence</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "What to expect",
+   "title": "The room, the food and the night after",
+   "intro": "",
+   "columns": 3,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "users",
+     "title": "A table or the whole suite",
+     "text": "A private table in the restaurant or conservatory for a family dinner, or the Back o' Barns function suite for up to 120 standing and 100 seated, with space for music.",
+     "link_label": "Functions and private dining",
+     "link_href": "functions.html"
+    },
+    {
+     "icon": "utensils",
+     "title": "A meal or a buffet",
+     "text": "A sit-down meal or a buffet from our own kitchen, agreed with you beforehand, and a bar for the evening; ask about a late licence. This season's menus are confirmed when you book.",
+     "link_label": "Restaurant and bar",
+     "link_href": "dining.html"
+    },
+    {
+     "icon": "bed",
+     "title": "Stay the night",
+     "text": "Eighteen en-suite rooms in the hotel for the birthday person and the guests who have travelled, with a full Scottish breakfast cooked to order when it is part of the rate. Check-in is from 2pm, check-out by 11am.",
+     "link_label": "See the rooms",
+     "link_href": "rooms.html"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Birthday parties: what people ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How many people can the function suite take?",
+     "a": "<p>Up to 120 for a standing reception and 100 seated for dinner. For smaller numbers we&rsquo;d suggest a private table in the restaurant or the conservatory instead, which feels more like a dinner than a function.</p>"
+    },
+    {
+     "q": "Can we have music, and how late can the party go?",
+     "a": "<p>Yes, you can bring a DJ or a band for the function suite; tell us what you have in mind when you book. The bar runs through the evening, and if you&rsquo;d like the party to go on later, ask us about a late licence.</p>"
+    },
+    {
+     "q": "Can we bring a cake and decorations?",
+     "a": "<p>Yes to both. Bring the cake and we&rsquo;ll set it out with a stand and a knife and bring it in when you say. Decorations are welcome too; we&rsquo;ll agree a time for you to dress the room beforehand.</p>"
+    },
+    {
+     "q": "Do we need to pay a deposit?",
+     "a": "<p>We may ask for a deposit to hold the room and the date. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book, and confirm the menu and this season&rsquo;s prices at the same time.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Plan the birthday",
+   "text": "Tell us the date, the number of guests and whether you&rsquo;d like a dinner or a party, and we&rsquo;ll come back with what we can do.",
+   "buttons": [
+    {
+     "label": "Enquire about a birthday",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": {
+  "dates_text": "Any day of the year, by arrangement",
+  "price_text": "",
+  "includes": [
+   "A private table in the restaurant or conservatory for a family dinner, or the function suite for up to 120",
+   "A sit-down meal or a buffet from our own kitchen, with the menu agreed beforehand",
+   "A bar for the evening; ask about a late licence when you book",
+   "Space for a DJ or a band, and a stand and knife for the cake",
+   "Time to dress the room with your own decorations",
+   "Rooms in the hotel for the birthday person and guests who have travelled"
+  ],
+  "note": "Menus and prices for birthday parties are confirmed each season, and a late licence depends on the night, so ask when you book. Tell us the date and your numbers and we&rsquo;ll hold the room while you decide.",
+  "category": "celebrations",
+  "month": 0
+ }
+}

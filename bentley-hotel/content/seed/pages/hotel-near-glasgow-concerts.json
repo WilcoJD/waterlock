@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Hotel near Glasgow Concerts | Bentley Hotel, Motherwell",
-  "description": "Stay in Motherwell for concerts at the OVO Hydro, Hampden Park and Celtic Park, all within about 15 miles. Trains to Glasgow in under 20 minutes, free parking.",
+  "description": "Stay in Motherwell for concerts and matches at the OVO Hydro, Hampden Park and Celtic Park, all within about 15 miles. Trains to Glasgow in under 20 minutes.",
   "canonical": "",
   "og_image": "assets/img/room-double-1-800.jpg",
   "og_alt": "Double room at Bentley Hotel with a blue throw in a bright bay-windowed room",
@@ -41,7 +41,7 @@
   {
    "type": "booking_strip",
    "title": "Check availability for your show",
-   "note": "Rooms fill up around big dates in Glasgow. Once your tickets are confirmed, check your dates here or call us."
+   "note": "Once your tickets are confirmed, check your dates here, or call us if you are booking rooms for a group."
   },
   {
    "type": "text",
@@ -49,7 +49,7 @@
    "title": "Twelve miles from Glasgow, with the train doing the hard work",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Glasgow&rsquo;s biggest venues are closer to Motherwell than many people expect. The OVO Hydro, Hampden Park and Celtic Park are all within about 15 miles of Bentley Hotel, and Motherwell station is about 5 minutes&rsquo; walk from our door. The fastest trains reach Glasgow Central in under 20 minutes, so you can leave the car in our free car park and let someone else do the driving.</p><p>Staying out here has its advantages: free parking rather than a hunt for a space, a bed in a Victorian house at the west end of town, and the restaurant and bar under the same roof if you want to eat before you go. In the morning there is a full Scottish breakfast cooked to order, if it is part of your rate, and no city traffic to get out of.</p><p>Two practical points. Check the time of the last train back to Motherwell before you go, or arrange a taxi for after the show. And if you expect to get back to the hotel late, tell us when you book or call us on the day, and we&rsquo;ll make sure someone is expecting you and your key is ready.</p><p>Doubles suit couples, twins suit friends going to a gig together, and singles are a sensible choice if you are travelling alone.</p>",
+   "html": "<p>Glasgow&rsquo;s biggest venues are not far from Motherwell. The OVO Hydro, Hampden Park and Celtic Park are all within about 15 miles of Bentley Hotel, and Motherwell station is about 5 minutes&rsquo; walk from our door. The fastest trains reach Glasgow Central in under 20 minutes, so you can leave the car in our free car park and let someone else do the driving.</p><p>Staying out here has its advantages: free parking rather than a hunt for a space, a bed in a Victorian house at the west end of town, and the restaurant and bar under the same roof if you want to eat before you go. In the morning there is a full Scottish breakfast cooked to order, if it is part of your rate, and no city traffic to get out of.</p><p>Two practical points. Check the time of the last train back to Motherwell before you go, or arrange a taxi for after the show. And if you expect to get back to the hotel late, please tell us when you book or call us on the day.</p><p>Doubles suit couples, twins suit friends going to a gig together, and singles are a sensible choice if you are travelling alone.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>OVO Hydro</dt><dd>Within about 15 miles</dd></div><div><dt>Hampden Park</dt><dd>Within about 15 miles</dd></div><div><dt>Celtic Park</dt><dd>Within about 15 miles</dd></div><div><dt>By train</dt><dd>Motherwell station about 5 minutes&rsquo; walk; Glasgow Central in under 20 minutes at the fastest</dd></div><div><dt>Parking</dt><dd>Free on site</dd></div><div><dt>Back late?</dt><dd>Let us know when you book</dd></div></dl>"
   },
   {
@@ -62,7 +62,7 @@
    "items": [
     {
      "icon": "ticket",
-     "title": "Within about 15 miles of the big three",
+     "title": "Within about 15 miles of the big venues",
      "text": "The OVO Hydro, Hampden Park and Celtic Park are all within about 15 miles.",
      "link_label": "",
      "link_href": ""
@@ -70,7 +70,7 @@
     {
      "icon": "train",
      "title": "Into Glasgow by train",
-     "text": "Motherwell station is 5 minutes' walk, and direct trains to Glasgow Central take under 20 minutes at the fastest. From there the venues are a short onward journey.",
+     "text": "Motherwell station is about 5 minutes' walk, and the fastest trains reach Glasgow Central in under 20 minutes. From there, each venue is an onward journey by local train, bus or taxi.",
      "link_label": "Getting here",
      "link_href": "location.html"
     },
@@ -84,7 +84,7 @@
     {
      "icon": "clock",
      "title": "Arriving back late",
-     "text": "Tell us your likely arrival time when you book, or call on the day, and we will be ready however late the encore runs.",
+     "text": "If you expect to be back late, please tell us when you book or call us on the day, so that we know to expect you.",
      "link_label": "",
      "link_href": ""
     }
@@ -94,7 +94,7 @@
    "type": "cards",
    "eyebrow": "Rooms",
    "title": "A room to come back to",
-   "intro": "All en suite, with a TV, tea and coffee and free WiFi.",
+   "intro": "All of our rooms are en suite and have a TV, tea and coffee and free WiFi.",
    "background": "paper",
    "items": [
     {
@@ -135,7 +135,7 @@
     },
     {
      "q": "Will we be able to get back to Motherwell after the show?",
-     "a": "<p>Check the time of the last train back to Motherwell before you set off, and if the show may finish after it, arrange a taxi. Tell us when you book if you expect to arrive back late and we&rsquo;ll be ready for you.</p>"
+     "a": "<p>Check the time of the last train back to Motherwell before you set off, and if the show may finish after it, arrange a taxi. Please tell us when you book if you expect to arrive back late.</p>"
     },
     {
      "q": "Can we park at the hotel and leave the car while we are in Glasgow?",
@@ -143,11 +143,11 @@
     },
     {
      "q": "Can we eat at the hotel before we go?",
-     "a": "<p>Our restaurant and bar are under the same roof. Opening times vary, so call us on <a href=\"tel:+441698265588\">01698 265588</a> before you travel and we&rsquo;ll have a table ready in good time for your train.</p>"
+     "a": "<p>Our restaurant and bar are under the same roof. Opening times vary, so call us on <a href=\"tel:+441698265588\">01698 265588</a> before you travel to check the times and ask about a table.</p>"
     },
     {
      "q": "Is breakfast included the morning after?",
-     "a": "<p>It depends on your rate, and your confirmation shows whether breakfast is included. When it is, it&rsquo;s a full Scottish breakfast cooked to order. Ask when you book if you&rsquo;d like the breakfast times for your stay.</p>"
+     "a": "<p>That depends on the rate you book. Your confirmation should say, and we can tell you if you are unsure. Where it is included, breakfast is a full Scottish, cooked to order in our kitchen. Ask when you book if you&rsquo;d like the breakfast times for your stay.</p>"
     }
    ]
   },

@@ -60,7 +60,7 @@
    "title": "The first of January at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>New Year&rsquo;s Day asks for very little: good company, a decent lunch and no washing up. On 1 January we open the restaurant and the conservatory for a slow, easy lunch, for families who gathered the night before, friends starting the year together, and guests who saw the bells in with us and came down to breakfast a little later than usual.</p><p>The pace is deliberately gentle. Tables are laid for two or for a dozen, nobody is hurried, and the conservatory, with daylight through the glass, is a pleasant place to sit on a short January afternoon. The menu is simpler than Christmas Day and is confirmed each autumn along with the price and sitting times. Tell us about allergies, dietary needs and children when you book.</p><p>If you stayed with us for <a href=\"events/hogmanay\">Hogmanay</a>, lunch is the natural end to the stay: breakfast when you surface, a walk to Strathclyde Country Park about a mile away to clear the head, then lunch before the drive or the train home. Check-out is by 11am, but ask about leaving your bags with us while you eat. Parking is free, and train services are reduced on 1 January, so check times before you travel.</p>",
+   "html": "<p>New Year&rsquo;s Day asks for very little: good company, a decent lunch and no washing up. On 1 January we lay the restaurant and the conservatory for a slow, easy lunch, for families who gathered the night before, friends starting the year together, and guests who saw the bells in with us.</p><p>The pace is deliberately gentle. Tables are laid for two or for a dozen, nobody is hurried, and the conservatory, with daylight through the glass, is a pleasant place to sit on a short January afternoon. The menu is confirmed each autumn along with the price and the sitting times. Tell us about allergies, dietary needs and children when you book.</p><p>If you stayed with us for <a href=\"events/hogmanay\">Hogmanay</a>, lunch is the natural end to the stay: breakfast when you surface, where it is part of your rate, a walk to Strathclyde Country Park about a mile away to clear the head, then lunch before the drive or the train home. Check-out is by 11am, so ask about leaving your bags with us while you eat. Parking is free, and train services are reduced on 1 January, so check times before you travel.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The restaurant and conservatory, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>1 January; sitting times confirmed each year</dd></div><div><dt>Who</dt><dd>Couples, families and groups, with smaller portions for children</dd></div><div><dt>Stayed over?</dt><dd>Check-out is by 11am; ask about leaving your bags while you eat</dd></div></dl>"
   },
   {
@@ -74,21 +74,21 @@
     {
      "icon": "sun",
      "title": "The restaurant and conservatory",
-     "text": "Tables in our restaurant and in the purpose-built glass conservatory alongside it. Say which you&rsquo;d prefer when you book and we&rsquo;ll do our best.",
+     "text": "Tables in our restaurant and in the purpose-built conservatory alongside it. Say which you'd prefer when you book and we'll do our best.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "utensils",
      "title": "An easy lunch",
-     "text": "A relaxed menu cooked in our own kitchen, simpler than Christmas Day, with smaller portions for children and dietary needs catered for. Confirmed each autumn.",
+     "text": "A relaxed menu cooked in our own kitchen, with smaller portions for children and dietary needs catered for. Confirmed each autumn, with the price and sitting times.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "bed",
      "title": "After Hogmanay",
-     "text": "Stay with us for the bells, come down to breakfast cooked to order, and finish with lunch before heading home. Our 18 en-suite rooms are upstairs.",
+     "text": "Stay with us for the bells, have breakfast where it is part of your rate, and finish with lunch before heading home. Our 18 en-suite rooms are a short walk from the table.",
      "link_label": "Hogmanay at Bentley Hotel",
      "link_href": "events/hogmanay"
     }
@@ -102,11 +102,11 @@
    "items": [
     {
      "q": "How do we book a table for New Year's Day?",
-     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers. We&rsquo;ll confirm this year&rsquo;s menu, price and sitting times and hold your table.</p>"
+     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> and tell us how many are coming. We&rsquo;ll confirm this year&rsquo;s menu, price and sitting times and hold your table.</p>"
     },
     {
      "q": "Do we need to pay a deposit?",
-     "a": "<p>For larger tables we may ask for a deposit. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>For larger tables we may ask for a deposit; we&rsquo;ll tell you the amount, the due date and our cancellation terms when you book.</p>"
     },
     {
      "q": "Can you cater for dietary requirements and children?",
@@ -114,7 +114,7 @@
     },
     {
      "q": "Is there parking, and do trains run on New Year's Day?",
-     "a": "<p>Parking at the hotel is free. Train services are reduced on 1 January, so check times before you travel, or <a href=\"book.html\">stay the night before</a> and walk down to lunch.</p>"
+     "a": "<p>Parking at the hotel is free. Train services are reduced on 1 January, so check times before you travel, or <a href=\"book.html\">stay the night before</a> and walk through to lunch.</p>"
     }
    ]
   },
@@ -142,11 +142,11 @@
   "includes": [
    "A relaxed lunch menu cooked in our own kitchen",
    "Tables in the restaurant and the conservatory",
-   "Smaller portions for children on request",
-   "Allergies and dietary needs catered for when you tell us in advance",
-   "Somewhere to leave your bags if you stayed the night before"
+   "Smaller portions for the children at the table",
+   "Allergies and dietary needs taken care of when you tell us in advance",
+   "Somewhere to leave your bags while you eat, on request, if you stayed the night before"
   ],
-  "note": "The menu and price for this year&rsquo;s New Year&rsquo;s Day lunch are confirmed each autumn. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "The menu, price and sitting times for this year&rsquo;s New Year&rsquo;s Day lunch are confirmed each autumn. Tell us you&rsquo;re interested and we&rsquo;ll let you know when they are.",
   "category": "festive",
   "month": 1
  }

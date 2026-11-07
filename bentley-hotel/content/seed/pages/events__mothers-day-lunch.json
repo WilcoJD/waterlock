@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Mother's Day Lunch | Bentley Hotel, Motherwell",
-  "description": "Mother's Day lunch in Motherwell on Mothering Sunday: a relaxed family lunch in our restaurant and conservatory, with room for big family parties and rooms upstairs.",
+  "description": "Mother's Day lunch in Motherwell on Mothering Sunday: a relaxed family lunch in our restaurant and conservatory, with room for big parties and rooms in the.",
   "canonical": "",
   "og_image": "assets/img/exterior-700.jpg",
   "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
@@ -60,7 +60,7 @@
    "title": "Mother's Day at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Mothering Sunday falls three weeks before Easter, so it moves about the calendar, but it is nearly always a Sunday in March. It began as the day people walked back to their mother church, and somewhere along the way it became the day we take our mothers out for lunch. That is what we do at Bentley Hotel.</p><p>Lunch is served in the restaurant and in the conservatory, the glass room on the side of the house where the light is good even on a grey March afternoon. We offer a set lunch for the day, cooked in our own kitchen in the Scottish and British way we cook the rest of the year, with a choice at each course. The menu, the sittings and the price are confirmed each season, and we&rsquo;ll send them to you when you ask.</p><p>Tables range from two up to the whole family. If you&rsquo;re bringing grandparents, aunts and cousins and need a long table or a room of your own, our function suite seats up to 100 and can be set for private dining. Tell us who is coming and we&rsquo;ll find the right spot. If you&rsquo;d like flowers or a cake brought to the table, say so when you book and we&rsquo;ll arrange it quietly. And if anyone is travelling to be there, our 18 en-suite rooms are upstairs, parking is free and Motherwell station is about 5 minutes&rsquo; walk.</p>",
+   "html": "<p>Mothering Sunday falls three weeks before Easter, so it moves about the calendar, but it is nearly always a Sunday in March. It began as the day people walked back to their mother church, and somewhere along the way it became the day we take our mothers out for lunch. That is what we do at Bentley Hotel.</p><p>Lunch is served in the restaurant and in the conservatory, the glass room on the side of the house where the light is good even on a grey March afternoon. We put on a lunch for the day, cooked in our own kitchen in the Scottish and British way we cook the rest of the year, usually a set menu with a choice at each course. The menu, the sittings and the price are confirmed each season, and we&rsquo;ll send them to you when you ask.</p><p>Tables range from two up to the whole family. If you&rsquo;re bringing grandparents, aunts and cousins and need a long table or a room of your own, our function suite seats up to 100 and can be set for private dining. Tell us who is coming and we&rsquo;ll find the right spot. If you&rsquo;d like flowers or a cake brought to the table, we can arrange that; just say so when you book. And if anyone is travelling to be there, our 18 en-suite rooms are here, parking is free and Motherwell station is about 5 minutes&rsquo; walk.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The restaurant and conservatory, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>Mothering Sunday, usually in March; the lunch sittings are confirmed each season</dd></div><div><dt>Numbers</dt><dd>Tables for two to large family parties, with private dining in the function suite for bigger groups</dd></div><div><dt>Children</dt><dd>Welcome; ask us about a smaller menu for them</dd></div></dl>"
   },
   {
@@ -81,7 +81,7 @@
     {
      "icon": "utensils",
      "title": "The lunch",
-     "text": "A set Mother&rsquo;s Day lunch from our own kitchen, Scottish and British cooking with a choice at each course. The menu and price are confirmed each season.",
+     "text": "A Mother's Day lunch from our own kitchen: Scottish and British cooking, usually a set menu with a choice at each course. The menu and price are confirmed each season.",
      "link_label": "",
      "link_href": ""
     },
@@ -102,7 +102,7 @@
    "items": [
     {
      "q": "How do we book a table for Mother's Day?",
-     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers and the time you&rsquo;d like to eat. We&rsquo;ll confirm this year&rsquo;s menu, sittings and price and hold your table. It is one of the busiest lunches of the year, so the earlier you book the better.</p>"
+     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers and the time you&rsquo;d like to eat. We&rsquo;ll confirm this year&rsquo;s menu, sittings and price and hold your table. Mothering Sunday is a busy day for every restaurant, so the earlier you book the better.</p>"
     },
     {
      "q": "Do we need to pay a deposit?",
@@ -114,14 +114,14 @@
     },
     {
      "q": "Is there parking, and can we come by train?",
-     "a": "<p>Parking at the hotel is free. Motherwell station is about 5 minutes&rsquo; walk, with the fastest trains reaching Glasgow Central in under 20 minutes. If relatives are travelling a long way, <a href=\"book.html\">book them a room</a> and make a weekend of it.</p>"
+     "a": "<p>There is free parking at the hotel. If you would rather not drive, Motherwell station is about 5 minutes&rsquo; walk and the fastest trains from Glasgow Central take under 20 minutes. Relatives travelling a long way can <a href=\"book.html\">book a room</a> and make a weekend of it.</p>"
     }
    ]
   },
   {
    "type": "cta",
    "title": "Book a table for Mother's Day",
-   "text": "Tell us how many are coming and when you&rsquo;d like to eat, and we&rsquo;ll hold your table. Rooms for the night can be booked online.",
+   "text": "Tell us how many are coming and when you&rsquo;d like to eat, and we&rsquo;ll hold your table. If anyone is staying over, rooms can be booked online.",
    "buttons": [
     {
      "label": "Enquire about Mother's Day",
@@ -140,11 +140,11 @@
   "dates_text": "Mothering Sunday each year, usually in March",
   "price_text": "",
   "includes": [
-   "A set Mother&rsquo;s Day lunch from our own kitchen, with a choice at each course",
+   "A Mother&rsquo;s Day lunch from our own kitchen, usually a set menu with a choice at each course",
    "Tables in the restaurant or the conservatory, from two to a whole family",
    "Private dining in the function suite for larger family parties",
    "Flowers or a cake brought to the table if you&rsquo;d like a surprise, arranged when you book",
-   "Rooms upstairs for anyone travelling, with breakfast cooked to order"
+   "Rooms in the hotel for anyone travelling, with breakfast cooked to order"
   ],
   "note": "This year&rsquo;s menu, sittings and price are confirmed each season, ahead of the day. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
   "category": "dining",

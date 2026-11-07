@@ -108,6 +108,17 @@ The expanded pages (Dining, Weddings, Functions, Rooms, Location, History) and t
 25. **Privacy notice positions.** It states that the hotel keeps no marketing list without asking, makes no automated decisions, shares details only with those who need them (Cloudbeds, authorities where the law requires), that Cloudbeds takes online payment on the hotel's behalf, and that the site is hosted on Cloudflare. Confirm each, and update the "last updated" dates on the Privacy and Accessibility pages whenever they change.
 26. **Viewings.** Gallery, Weddings and Functions pages offer to show people round the function suite and conservatory by arrangement.
 
+### Landing pages, events and the admin: please confirm
+
+The ten landing pages and twenty event pages were written from the same verified facts and checked by a second pass. They describe occasions as things the hotel arranges and leave prices, menus and dates to the editable event fields ("confirmed each season"). Before publishing them from the admin, please confirm:
+
+27. **Which events you actually run.** Burns Night, Christmas Day lunch, party nights, Hogmanay, New Year's Day lunch, festive stays, Valentine's, Mother's and Father's Day, Easter, St Andrew's Day, Halloween, afternoon tea and a wedding open day are all written so they work even if a date isn't set yet. Unpublish any you don't offer (each page has a Draft/Published switch).
+28. **Prices, dates and menus** for each event go in the event fields in the admin; until then the pages say they are confirmed each season.
+29. **Offers phrased as "we can arrange":** late licences for non-wedding parties, DJs and bands, bringing your own cake, children's portions, boardroom/classroom/U-shape layouts, breakfast in the match-day package. Delete any you don't want to offer.
+30. **"Rooms are upstairs"** appears on several event pages (the Burns Night page's wording was reused). If some bedrooms are on the ground floor, change it; it also bears on the lift question (item 23).
+31. **Deposits and cancellation:** the pages say "we'll explain when you book" rather than stating a policy. Tell us the policy and it can be published.
+32. **Admin login:** set a strong `ADMIN_PASSWORD` (12+ characters) or, better, an `ADMIN_PASSWORD_HASH`, and a long random `SESSION_SECRET`, and consider Cloudflare Access in front of `/admin`. Log out on shared computers; sessions last 12 hours.
+
 ### Housekeeping outside the website
 
 - `thebentleyhotel.net`, the old official site that Bridebook and Yelp still link to, now redirects to a domain-for-sale page. Consider buying it back, or ask those sites to update their links.

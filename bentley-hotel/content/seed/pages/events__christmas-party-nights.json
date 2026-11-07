@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Christmas Party Nights | Bentley Hotel, Motherwell",
-  "description": "Christmas party nights in Motherwell for offices, clubs and friends: a festive meal and dancing until late in our function suite, with rooms upstairs.",
+  "description": "Christmas party nights in Motherwell for offices, clubs and friends: a festive meal, music and dancing in our function suite, with rooms for the night.",
   "canonical": "",
   "og_image": "assets/img/exterior-700.jpg",
   "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Festive season",
   "title": "Christmas Party Nights",
-  "lede": "Bring the office, the club or the whole street. A festive meal, music and dancing until late in our function suite, with rooms upstairs for anyone who'd rather not head home.",
+  "lede": "Bring the office, the club or the whole street. A festive meal, music and dancing in our function suite, with rooms in the hotel for anyone who'd rather not head home.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,8 +60,8 @@
    "title": "Christmas party nights at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>December is when Motherwell&rsquo;s offices, clubs, teams and groups of friends gather to see the year out, and our function suite, the Back o&rsquo; Barns, is made for it. It seats up to 100 for dinner and holds up to 120 once the tables are cleared for dancing, and it is air-conditioned, which matters more than you&rsquo;d think by the third song.</p><p>A party night here runs the way a good one should. Find your table, sit down to a three-course festive meal cooked in our own kitchen, and then the music starts and the floor fills. We can arrange the music, and we&rsquo;ll talk through the licence when you book so you know how late the night can run. Ask about the licence if a late finish matters to your group.</p><p>Smaller groups join a shared party night, a good way for a team of eight or ten to have a big night out without hiring a room. Larger groups can ask about having the function suite to themselves. Nobody has to worry about getting home: parking is free, Motherwell station is about 5 minutes&rsquo; walk, and our 18 en-suite rooms are upstairs, with breakfast cooked to order the next morning.</p>",
-   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The Back o&rsquo; Barns function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>Dates through December, confirmed each autumn</dd></div><div><dt>Numbers</dt><dd>Up to 100 for dinner and 120 for the dancing; shared nights for small groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms upstairs; book online or by phone</dd></div></dl>"
+   "html": "<p>December is when Motherwell&rsquo;s offices, clubs, teams and groups of friends gather to see the year out, and our function suite, the Back o&rsquo; Barns, is made for it. It seats up to 100 for dinner and holds up to 120 once the tables are cleared for dancing, and it is air-conditioned, which matters more than you&rsquo;d think by the third song.</p><p>A party night here runs the way a good one should. Find your table, sit down to a festive dinner cooked in our own kitchen, and then the music starts and the floor fills. We can arrange the music, and we&rsquo;ll explain the licence when you book so you know how late the night can run.</p><p>Smaller groups can ask about joining a shared party night, a good way for a team of eight or ten to have a big night out without hiring a room. Larger groups can ask about having the function suite to themselves. Getting home is simple: parking is free, Motherwell station is about 5 minutes&rsquo; walk, and our 18 en-suite rooms are in the hotel, with breakfast cooked to order the next morning where it is part of your rate.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The Back o&rsquo; Barns function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>Dates through December, confirmed each autumn</dd></div><div><dt>Numbers</dt><dd>Up to 100 for dinner and 120 for the dancing; ask about shared nights for small groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms in the hotel; book online or by phone</dd></div></dl>"
   },
   {
    "type": "features",
@@ -74,21 +74,21 @@
     {
      "icon": "users",
      "title": "The function suite",
-     "text": "Air-conditioned, with room for up to 100 at dinner and 120 for the dancing. Shared nights for smaller groups; ask about exclusive use for larger ones.",
+     "text": "Air-conditioned, with room for up to 100 at dinner and 120 for the dancing. Ask about shared nights for smaller groups and exclusive use for larger ones.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "utensils",
      "title": "The festive meal",
-     "text": "Three courses cooked in our own kitchen, with choices collected in advance and dietary needs catered for. Menus are confirmed each autumn.",
+     "text": "A festive dinner cooked in our own kitchen, with choices collected in advance and dietary needs catered for. Menus are confirmed each autumn.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "bed",
      "title": "Stay over",
-     "text": "Our 18 en-suite rooms are upstairs, so nobody has to find a taxi at the end of the night. Breakfast is cooked to order.",
+     "text": "With 18 en-suite rooms in the hotel, nobody has to find a taxi at the end of the night. Breakfast is cooked to order when it is part of your rate.",
      "link_label": "See the rooms",
      "link_href": "rooms.html"
     }
@@ -106,15 +106,15 @@
     },
     {
      "q": "Do we pay a deposit?",
-     "a": "<p>Yes, we usually ask for a deposit to hold the date. We&rsquo;ll explain the amount, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>A deposit is likely to be needed to secure the date for your group; we&rsquo;ll set out the amount, the due date and the cancellation terms when you book.</p>"
     },
     {
-     "q": "Can you cater for dietary requirements?",
-     "a": "<p>Yes. We&rsquo;ll ask for menu choices from your group in advance, and that is the time to tell us about allergies, intolerances and vegetarian or vegan guests.</p>"
+     "q": "What about allergies and dietary requirements?",
+     "a": "<p>We&rsquo;ll ask for menu choices from your group in advance, and that is the time to tell us about allergies, intolerances and vegetarian or vegan guests.</p>"
     },
     {
      "q": "How late does the night go, and how do we get home?",
-     "a": "<p>We&rsquo;ll explain the licence and the finishing time when you book. Parking is free, Motherwell station is about 5 minutes&rsquo; walk, and our rooms are upstairs if anyone would rather <a href=\"book.html\">stay the night</a>.</p>"
+     "a": "<p>We&rsquo;ll explain the licence and the finishing time when you book. Parking is free, Motherwell station is about 5 minutes&rsquo; walk, and our rooms are a short walk from the dance floor if anyone would rather <a href=\"book.html\">stay the night</a>.</p>"
     }
    ]
   },
@@ -140,13 +140,13 @@
   "dates_text": "Dates through December, confirmed each autumn",
   "price_text": "",
   "includes": [
-   "A three-course festive meal cooked in our own kitchen",
-   "Music and dancing until late; ask about the licence",
-   "Shared party nights for smaller groups, or the function suite to yourselves for larger ones",
+   "A festive dinner for your group, cooked in our own kitchen",
+   "Music and dancing; we&rsquo;ll explain the licence when you book",
+   "Places on a shared party night for smaller groups, or the function suite to yourselves for larger ones",
    "Menu choices and dietary needs collected in advance",
-   "Rooms upstairs for anyone staying over"
+   "Rooms in the hotel for anyone staying over"
   ],
-  "note": "Dates, menus and prices for this year&rsquo;s party nights are confirmed each autumn. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "Dates, menus and prices for this year&rsquo;s party nights are confirmed each autumn. Send an enquiry now and we&rsquo;ll come back to you as soon as they&rsquo;re set.",
   "category": "festive",
   "month": 12
  }

@@ -1,0 +1,154 @@
+{
+ "slug": "events/match-day-packages",
+ "kind": "event",
+ "status": "published",
+ "title": "Match Day Packages",
+ "nav_label": null,
+ "in_nav": 0,
+ "nav_order": 100,
+ "in_footer": 0,
+ "meta": {
+  "title": "Match Day Packages | Bentley Hotel, Motherwell",
+  "description": "Match day packages about a mile from Fir Park: a room for the night, breakfast cooked to order and a pre-match meal if you call ahead. Free parking.",
+  "canonical": "",
+  "og_image": "assets/img/room-twin-2-800.jpg",
+  "og_alt": "Twin room at Bentley Hotel with two single beds in teal throws and a colourful canvas",
+  "noindex": false,
+  "jsonld": null
+ },
+ "hero": {
+  "style": "plain",
+  "eyebrow": "Events at Bentley Hotel",
+  "title": "Match Day Packages",
+  "lede": "For Motherwell FC home games we put together a room for the night, breakfast the next morning and, if you call ahead, a meal before kick-off. Fir Park is about a mile from our front door.",
+  "image": null,
+  "image_alt": "",
+  "buttons": [
+   {
+    "label": "Check availability",
+    "href": "book.html",
+    "style": "primary"
+   },
+   {
+    "label": "Send an enquiry",
+    "href": "contact.html?enquiry=Function",
+    "style": "light"
+   }
+  ],
+  "badge": null
+ },
+ "sections": [
+  {
+   "type": "event_details",
+   "title": "Match day packages: the details",
+   "buttons": [
+    {
+     "label": "Enquire about this event",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Call 01698 265588",
+     "href": "tel:+441698265588",
+     "style": "outline"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "eyebrow": "The occasion",
+   "title": "A match day at Bentley Hotel",
+   "layout": "split",
+   "background": "paper",
+   "html": "<p>Motherwell FC have played at Fir Park since 1895, and the ground is about a mile from Bentley Hotel. For supporters travelling to a home game, that is the whole point of staying with us. Leave the car in our free car park, walk or take a short taxi ride to the ground, and come back afterwards without having hunted for a parking space near the stadium.</p><p>Our match day package brings the pieces together. You get a room for the night, a full Scottish breakfast cooked to order the next morning and, when you call ahead with your kick-off time, a table in the restaurant for a meal before the game, at a time that fits the kitchen and the kick-off. The restaurant serves Scottish and British cooking from our own kitchen, and the bar is there for after the final whistle, whichever way the result went.</p><p>Away supporters are just as welcome. Motherwell station is about 5 minutes&rsquo; walk and the fastest trains reach Glasgow Central in under 20 minutes, so Hampden Park and Celtic Park, both within about 15 miles, are an easy day out by train. Groups travelling together can take twins and doubles side by side where we can arrange it; tell us who is coming and we&rsquo;ll sort the rooms.</p><p>Fixtures move for television and cup draws, so book as soon as your date is confirmed, and if it changes, let us know and we&rsquo;ll talk it through.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>Bentley Hotel, 19 High Road, Motherwell; Fir Park about a mile away</dd></div><div><dt>When</dt><dd>Any Motherwell FC home game; fixtures are set by the club</dd></div><div><dt>Numbers</dt><dd>From one supporter to a group; 18 en-suite rooms in the hotel</dd></div><div><dt>Eating</dt><dd>A pre-match meal when you call ahead; breakfast cooked to order</dd></div></dl>"
+  },
+  {
+   "type": "features",
+   "eyebrow": "What to expect",
+   "title": "The ground, the meal and the bed",
+   "intro": "",
+   "columns": 3,
+   "background": "cream",
+   "items": [
+    {
+     "icon": "football",
+     "title": "Fir Park, about a mile away",
+     "text": "Motherwell FC's home since 1895 is about a mile from the hotel: an easy walk, or a short taxi ride. Our car park is free, so leave the car here and forget about parking at the ground.",
+     "link_label": "Match day hotel",
+     "link_href": "motherwell-fc-match-day-hotel.html"
+    },
+    {
+     "icon": "utensils",
+     "title": "A meal before kick-off",
+     "text": "Call ahead with your kick-off time and we'll do our best to have a table ready in the restaurant. Scottish and British cooking from our own kitchen, and the bar for afterwards. This season's menu is confirmed when you call.",
+     "link_label": "Restaurant and bar",
+     "link_href": "dining.html"
+    },
+    {
+     "icon": "bed",
+     "title": "Stay the night",
+     "text": "Singles, twins, doubles and a family room, all en suite with a TV, tea and coffee and free WiFi. Check-in is from 2pm and check-out by 11am, with a full Scottish breakfast cooked to order as part of the package.",
+     "link_label": "See the rooms",
+     "link_href": "rooms.html"
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "eyebrow": "Questions",
+   "title": "Match day packages: what people ask us",
+   "intro": "",
+   "items": [
+    {
+     "q": "How do we book a match day package?",
+     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with the fixture and your numbers. We&rsquo;ll confirm this season&rsquo;s package and price and hold your rooms. You can also <a href=\"book.html\">book a room online</a> and call us about the meal.</p>"
+    },
+    {
+     "q": "What happens if the fixture moves?",
+     "a": "<p>Kick-off times and dates change for television and cup draws. Tell us as soon as you know and we&rsquo;ll talk through moving your stay. We&rsquo;ll tell you the cancellation terms that apply to your rate when you book.</p>"
+    },
+    {
+     "q": "Can we eat before the game?",
+     "a": "<p>Usually, if you call ahead. Tell us your kick-off time and how many are eating, and we&rsquo;ll tell you what the kitchen can do and have a table ready in the restaurant at a time that suits. On a match day we&rsquo;d rather know you&rsquo;re coming than try to find you a table at the last minute.</p>"
+    },
+    {
+     "q": "Is the hotel useful for away days in Glasgow?",
+     "a": "<p>Yes. Motherwell station is about 5 minutes&rsquo; walk, the fastest trains reach Glasgow Central in under 20 minutes, and Hampden Park and Celtic Park are within about 15 miles. Stay with us, go in by train and come back to a quiet bed.</p>"
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Book for the next home game",
+   "text": "Tell us the fixture and how many are coming, and we&rsquo;ll put the package together. Rooms can also be booked online.",
+   "buttons": [
+    {
+     "label": "Enquire about a match day",
+     "href": "contact.html?enquiry=Function",
+     "style": "primary"
+    },
+    {
+     "label": "Check availability",
+     "href": "book.html",
+     "style": "light"
+    }
+   ]
+  }
+ ],
+ "event": {
+  "dates_text": "Any Motherwell FC home game; fixtures are set by the club",
+  "price_text": "",
+  "includes": [
+   "A room for the night of the game: single, twin, double or family, all en suite",
+   "A full Scottish breakfast cooked to order the next morning",
+   "A table in the restaurant for a pre-match meal, when you call ahead with your kick-off time",
+   "Free parking at the hotel, about a mile from Fir Park",
+   "The bar to come back to after the final whistle",
+   "Rooms side by side for groups travelling together, where we can arrange it"
+  ],
+  "note": "The package and its price are confirmed each season once the fixture list is out. Fixtures move for television and cup draws, so check the club&rsquo;s list before you book and tell us if your date changes.",
+  "category": "sport",
+  "month": 0
+ }
+}

@@ -64,7 +64,7 @@ function seoAudit(pages, site) {
     titles.set(t, (titles.get(t) || 0) + 1); descs.set(d, (descs.get(d) || 0) + 1);
   }
   const slugs = new Set(pages.map((p) => p.slug));
-  const out = pages.map((p) => {
+  const out = pages.filter((p) => p.kind !== "system").map((p) => {
     const issues = [];
     const t = (p.meta && p.meta.title) || "", d = (p.meta && p.meta.description) || "";
     if (!t) issues.push("No meta title"); else if (t.length > 65) issues.push(`Meta title is ${t.length} characters (aim for 60 or fewer)`);

@@ -19,7 +19,7 @@
  "hero": {
   "style": "split",
   "eyebrow": "Meetings and conferences",
-  "title": "A conference venue in Motherwell, 5 minutes from the station",
+  "title": "A conference venue in Motherwell, a short walk from the station",
   "lede": "Our air-conditioned Back o' Barns suite takes up to 120 theatre-style or 100 seated for dinner, with catering from our own kitchen, free parking and 18 en-suite rooms for delegates who stay over.",
   "image": "exterior",
   "image_alt": "Bentley Hotel from High Road: a sandstone Victorian villa with a tall square tower, stepped gables, bay windows and the glass conservatory on the left",
@@ -49,7 +49,7 @@
    "title": "One room, one team, everything under one roof",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Bentley Hotel is a Victorian house at the west end of Motherwell, between Glasgow and Edinburgh and a few minutes from the M74. Our function suite, the Back o&rsquo; Barns room, is air-conditioned and takes up to 120 people theatre-style or for a standing reception, and 100 seated for dinner. For a board meeting or a small training session, ask us about the conservatory or private dining in the restaurant.</p><p>Catering comes from our own kitchen, so tea and coffee on arrival, a working lunch or dinner are arranged with the same people who look after the room. Tell us about dietary needs and we&rsquo;ll plan around them.</p><p>Getting people here is simple. Motherwell station, about 5 minutes&rsquo; walk, is on the West Coast Main Line, with Glasgow Central under 20 minutes away at the fastest, services to Edinburgh and direct trains from London and Manchester. Drivers leave the M74 at junction 6 and park on site for free; Glasgow Airport is about 30 minutes away and Edinburgh Airport about 45.</p><p>If your event runs into the evening, or delegates are travelling a long way, we have 18 en-suite bedrooms upstairs, each with a TV, tea and coffee making facilities and free WiFi, and a full Scottish breakfast cooked to order in the morning.</p><p>Room hire, catering and any equipment are quoted for each event, so tell us the date, your numbers and the layout you have in mind.</p>",
+   "html": "<p>Bentley Hotel is a Victorian house at the west end of Motherwell, between Glasgow and Edinburgh and close to the M74. Our function suite, the Back o&rsquo; Barns room, is air-conditioned and takes up to 120 people theatre-style or for a standing reception, and 100 seated for dinner. For a board meeting or a small training session, ask us about the conservatory or private dining in the restaurant.</p><p>Catering comes from our own kitchen, so tea and coffee on arrival, a working lunch or dinner are arranged with us at the same time as the room. Tell us about dietary needs and we&rsquo;ll plan around them.</p><p>Getting people here is simple. Motherwell station, about 5 minutes&rsquo; walk, is on the West Coast Main Line, with Glasgow Central under 20 minutes away at the fastest, services to Edinburgh and direct trains from London and Manchester. Drivers leave the M74 at junction 6 and park on site for free; Glasgow Airport is about 30 minutes&rsquo; drive and Edinburgh Airport about 45.</p><p>If your event runs into the evening, or delegates are travelling a long way, we have 18 en-suite bedrooms, each with a TV, tea and coffee making facilities and free WiFi, and a full Scottish breakfast cooked to order in the morning.</p><p>Room hire, catering and any equipment are quoted for each event, so tell us the date, your numbers and the layout you have in mind.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Suite</dt><dd>Back o&rsquo; Barns, air-conditioned</dd></div><div><dt>Theatre or reception</dt><dd>Up to 120</dd></div><div><dt>Seated dinner</dt><dd>Up to 100</dd></div><div><dt>Catering</dt><dd>From our own kitchen</dd></div><div><dt>Station</dt><dd>About 5 minutes&rsquo; walk</dd></div><div><dt>Parking</dt><dd>Free, on site</dd></div><div><dt>Bedrooms</dt><dd>18, all en suite</dd></div></dl>"
   },
   {
@@ -63,7 +63,7 @@
     {
      "icon": "users",
      "title": "A room set out your way",
-     "text": "Theatre-style for a presentation, boardroom for a workshop, or round tables for dinner. Tell us the layout and we&rsquo;ll have it ready before your first delegate arrives.",
+     "text": "Theatre-style for a presentation, tables for a workshop, or round tables for dinner. Tell us the layout you have in mind when you enquire and we&rsquo;ll confirm what works in the room.",
      "link_label": "",
      "link_href": ""
     },
@@ -84,7 +84,7 @@
     {
      "icon": "train",
      "title": "Easy to reach",
-     "text": "About 5 minutes&rsquo; walk from Motherwell station and a few minutes from M74 junction 6, with free parking on site.",
+     "text": "About 5 minutes&rsquo; walk from Motherwell station and close to M74 junction 6, with free parking on site.",
      "link_label": "Getting here",
      "link_href": "location.html"
     }
@@ -135,7 +135,7 @@
     },
     {
      "q": "Can you provide a projector, screen and WiFi?",
-     "a": "<p>WiFi is free throughout the hotel. Tell us what equipment your presenters need when you enquire and we&rsquo;ll let you know what we can provide and what you may want to bring.</p>"
+     "a": "<p>There is free WiFi at the hotel. Tell us what equipment your presenters need when you enquire and we&rsquo;ll let you know what we can provide and what you may want to bring.</p>"
     },
     {
      "q": "Is catering included?",

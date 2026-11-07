@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Hotel near Strathclyde Park | Bentley Hotel, Motherwell",
-  "description": "A hotel about a mile from Strathclyde Country Park and 2 miles from M&D's: 18 en-suite rooms in Motherwell, a family room, free parking, Dalzell Estate nearby.",
+  "description": "A hotel about a mile from Strathclyde Country Park and about 2 miles from M&D's: 18 en-suite rooms in Motherwell, a family room and free parking.",
   "canonical": "",
   "og_image": "assets/img/room-family-1-800.jpg",
   "og_alt": "Family room at Bentley Hotel, Motherwell, with a double bed and a single bed in white linen against a sage wall",
@@ -41,7 +41,7 @@
   {
    "type": "booking_strip",
    "title": "Check availability and book direct",
-   "note": "Live availability from our booking system. For a family room, or two rooms together, call us on 01698 265588."
+   "note": "Book online for the dates you need. For a family room, or two rooms together, call us on 01698 265588."
   },
   {
    "type": "text",
@@ -84,7 +84,7 @@
     {
      "icon": "castle",
      "title": "Chatelherault and Bothwell Castle",
-     "text": "A William Adam hunting lodge of 1734 in its own country park a few miles away, and the ruins of Bothwell Castle about 6 miles off.",
+     "text": "A William Adam hunting lodge of 1734 in its own country park a few miles away, and the ruins of Bothwell Castle a few miles further on.",
      "link_label": "More places nearby",
      "link_href": "location.html"
     }
@@ -94,7 +94,7 @@
    "type": "cards",
    "eyebrow": "Our rooms",
    "title": "Rooms for a family, a couple or friends",
-   "intro": "All en suite, with a TV, tea and coffee making facilities and free WiFi.",
+   "intro": "Each room has an en-suite bathroom, a TV, tea and coffee making facilities and free WiFi.",
    "background": "paper",
    "items": [
     {
@@ -110,7 +110,7 @@
      "image_alt": "Double bed with a blue throw in a bright bay-windowed room",
      "meta": "Sleeps 2",
      "title": "Double Room",
-     "text": "A double bed for couples. Some doubles have the bay windows that give the house its character.",
+     "text": "A double bed for couples who are making a weekend of it, with an en-suite bathroom and a TV.",
      "href": "rooms.html#double"
     },
     {
@@ -131,7 +131,7 @@
    "items": [
     {
      "q": "How far is Strathclyde Country Park from the hotel?",
-     "a": "<p>About a mile. It&rsquo;s a short drive, or a walk of 15 to 20 minutes, and parking at the hotel is free, so you can leave the car with us if you prefer.</p>"
+     "a": "<p>About a mile. It&rsquo;s a short drive, or a walk of around 20 minutes, and parking at the hotel is free, so you can leave the car with us if you prefer.</p>"
     },
     {
      "q": "How far is M&D's theme park?",
@@ -139,7 +139,7 @@
     },
     {
      "q": "Do you have family rooms?",
-     "a": "<p>Yes. Our family room has a double bed and a single bed and sleeps up to three guests, one of whom may be a child. If you need a cot or an extra bed, or two rooms near each other, call us on <a href=\"tel:+441698265588\">01698 265588</a> before you book.</p>"
+     "a": "<p>Yes. Our family room has a double bed and a single bed and sleeps up to three guests, one of whom may be a child. If you need a cot, or two rooms near each other, call us on <a href=\"tel:+441698265588\">01698 265588</a> before you book and we&rsquo;ll tell you what we can do.</p>"
     },
     {
      "q": "Can we bring the dog?",

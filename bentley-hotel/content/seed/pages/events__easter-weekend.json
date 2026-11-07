@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Easter Weekend | Bentley Hotel, Motherwell",
-  "description": "Easter weekend in Motherwell: Easter Sunday lunch for the family, rooms for a long-weekend stay, and Strathclyde Country Park, M&D's and the Heritage Centre close by.",
+  "description": "Easter in Motherwell: Easter Sunday lunch for the family, rooms for a long-weekend stay, and Strathclyde Country Park, M&D's and the Heritage Centre nearby.",
   "canonical": "",
   "og_image": "assets/img/room-family-1-800.jpg",
   "og_alt": "Family room at Bentley Hotel with a double bed and a single bed in white linen against a sage wall",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Events at Bentley Hotel",
   "title": "Easter Weekend",
-  "lede": "From Good Friday to Easter Monday we serve family lunches, set the rooms for a long weekend and point you towards the park, the theme park and the Heritage Centre next door.",
+  "lede": "Over the Easter weekend we serve a family lunch on Easter Sunday, keep rooms for a long-weekend stay and can point you towards the park, the theme park and the Heritage Centre next door.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,7 +60,7 @@
    "title": "Easter at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Easter moves with the moon, so the long weekend lands anywhere from late March to late April. Whenever it falls, the pattern is the same: four days off, the first proper spring weather if we&rsquo;re lucky, and families looking for somewhere to eat together and something to do with the children.</p><p>On Easter Sunday we serve a family lunch in the restaurant and the conservatory, cooked in our own kitchen, with a choice at each course. Children are welcome, and we can arrange something for them to do while the grown-ups finish their coffee; ask what we have planned this year. Larger family gatherings can take the function suite for private dining. The menu, the sittings and the price are confirmed each season.</p><p>If you&rsquo;re staying, our 18 en-suite rooms include family rooms with a double and a single bed, sleeping up to three. Strathclyde Country Park is about a mile away, with the loch, woodland walks and the remains of a Roman bathhouse, and M&amp;D&rsquo;s theme park and Amazonia sit on its edge about 2 miles from the hotel. The North Lanarkshire Heritage Centre is next door and free to visit, and the Dalzell Estate and RSPB Baron&rsquo;s Haugh are about a mile away for a quieter walk. Breakfast is cooked to order each morning, parking is free, and Glasgow Central is under 20 minutes by the fastest train from Motherwell station if you&rsquo;d like a day in the city.</p>",
+   "html": "<p>Easter moves with the moon, so the long weekend lands anywhere from late March to late April. Whenever it falls, the pattern is the same: a long weekend, the first proper spring weather if we&rsquo;re lucky, and families looking for somewhere to eat together and something to do with the children.</p><p>On Easter Sunday we serve a family lunch in the restaurant and the conservatory, cooked in our own kitchen, with a choice at each course. Children are welcome, and we can arrange something for them to do while the grown-ups finish their coffee; ask what we have planned this year. Larger family gatherings can take the function suite for private dining. The menu, the sittings and the price are confirmed each season.</p><p>If you&rsquo;re staying, our 18 en-suite rooms include family rooms with a double and a single bed, sleeping up to three. Strathclyde Country Park is about a mile away, with the loch, woodland walks and the remains of a Roman bathhouse, and M&amp;D&rsquo;s theme park and Amazonia sit on its edge about 2 miles from the hotel. The North Lanarkshire Heritage Centre is next door and free to visit, and the Dalzell Estate and RSPB Baron&rsquo;s Haugh are about a mile away for a quieter walk. Breakfast is cooked to order each morning, parking is free, and Glasgow Central is under 20 minutes by the fastest train from Motherwell station if you&rsquo;d like a day in the city.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>Bentley Hotel, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>Good Friday to Easter Monday; the dates change each year and the lunch sittings are confirmed each season</dd></div><div><dt>Rooms</dt><dd>Family rooms sleep up to three, with a double and a single bed; twins and doubles too</dd></div><div><dt>Nearby</dt><dd>Strathclyde Country Park about a mile, M&amp;D&rsquo;s about 2 miles, the Heritage Centre next door</dd></div></dl>"
   },
   {
@@ -81,7 +81,7 @@
     {
      "icon": "tree",
      "title": "The park and the theme park",
-     "text": "Strathclyde Country Park is about a mile away for a walk round the loch, with M&amp;D&rsquo;s theme park and Amazonia on its edge. The Heritage Centre next door is free.",
+     "text": "Strathclyde Country Park is about a mile away for a walk round the loch, with M&D's theme park and Amazonia on its edge. The Heritage Centre next door is free.",
      "link_label": "What's nearby",
      "link_href": "location.html"
     },
@@ -110,7 +110,7 @@
     },
     {
      "q": "Can you cater for dietary requirements and for children?",
-     "a": "<p>Yes. Tell us about allergies, intolerances and vegetarian or vegan guests when you book and the kitchen will plan for them. Children are welcome in the restaurant. If you&rsquo;re bringing a baby or need a particular bed set-up, call us before booking a room so we can talk it through.</p>"
+     "a": "<p>Yes. Mention allergies, intolerances and vegetarian or vegan guests when you book and the kitchen will plan around them. Children are welcome in the restaurant. If you&rsquo;re bringing a baby or need a particular bed set-up, call us before booking a room so we can talk it through.</p>"
     },
     {
      "q": "Is there parking, and can we manage without a car?",
@@ -146,7 +146,7 @@
    "Family, twin and double rooms for a long-weekend stay, with breakfast cooked to order",
    "Ideas for the weekend: Strathclyde Country Park, M&amp;D&rsquo;s, the Dalzell Estate and the Heritage Centre next door"
   ],
-  "note": "This year&rsquo;s Easter Sunday menu, sittings and price, and anything we arrange for the children, are confirmed each season. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "This year&rsquo;s Easter Sunday menu, sittings and price, and anything we arrange for the children, are confirmed each season. Ask us and we&rsquo;ll pass them on as soon as they&rsquo;re set.",
   "category": "seasonal",
   "month": 4
  }

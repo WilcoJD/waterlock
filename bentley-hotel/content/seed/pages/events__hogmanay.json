@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Hogmanay | Bentley Hotel, Motherwell",
-  "description": "Hogmanay in Motherwell: dinner in our function suite on 31 December, music through to the bells, and a room upstairs so nobody has to drive home.",
+  "description": "Hogmanay in Motherwell: dinner in our function suite on 31 December, music through to the bells, and a room in the hotel so nobody has to drive home.",
   "canonical": "",
   "og_image": "assets/img/exterior-700.jpg",
   "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Festive season",
   "title": "Hogmanay at Bentley Hotel",
-  "lede": "Dinner, music and the bells at midnight in our function suite on 31 December, with rooms upstairs and breakfast on New Year's Day.",
+  "lede": "Dinner, music and the bells at midnight in our function suite on 31 December, with rooms in the hotel for the first night of the year.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,8 +60,8 @@
    "title": "Bringing in the new year at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Hogmanay is the biggest night of the Scottish year, and it suits a house like ours. On 31 December our function suite, the Back o&rsquo; Barns, is set for dinner, there is music through the evening, and when the bells go at midnight everyone stands, joins hands and sings Auld Lang Syne. Then the new year is toasted and the dancing carries on.</p><p>The evening starts with a drink as guests arrive, followed by a festive dinner cooked in our own kitchen. The menu, like the price, is confirmed each autumn. Tables are laid for couples, families and groups of friends, and the function suite seats up to 100, so it is a proper gathering without being a crush. After dinner the tables are moved back and the music takes over; we&rsquo;ll confirm what is planned, and how late the licence runs, when you book.</p><p>The simplest way to do Hogmanay is to stay. Our 18 en-suite rooms are upstairs, so the night ends with a flight of stairs rather than a taxi queue, and the morning brings breakfast cooked to order and, if you&rsquo;d like it, a gentle <a href=\"events/new-years-day-lunch\">New Year&rsquo;s Day lunch</a>. See our <a href=\"events/festive-stays\">festive stays</a> for rooms over the holidays.</p>",
-   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The Back o&rsquo; Barns function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>31 December, from the evening through the bells</dd></div><div><dt>Numbers</dt><dd>Up to 100 seated, from tables for two to large groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms upstairs, with breakfast on New Year&rsquo;s Day</dd></div></dl>"
+   "html": "<p>Hogmanay is the biggest night of the Scottish year, and it suits a house like ours. On 31 December our function suite, the Back o&rsquo; Barns, is set for dinner, we arrange music through the evening, and when the bells go at midnight everyone stands, joins hands and sings Auld Lang Syne. Then the new year is toasted and the dancing carries on.</p><p>The evening can begin with a drink as guests arrive, followed by a festive dinner cooked in our own kitchen. The menu, like the price, is confirmed each autumn. Tables are laid for couples, families and groups of friends, and the function suite seats up to 100, so it is a proper gathering without being a crush. After dinner the tables are moved back and the music takes over; we&rsquo;ll confirm what is planned, and how late the licence runs, when you book.</p><p>The simplest way to do Hogmanay is to stay. Our 18 en-suite rooms are in the hotel, so the night ends with a short walk to bed rather than a taxi queue, and the morning can bring breakfast cooked to order, where it is part of your rate, and a gentle <a href=\"events/new-years-day-lunch\">New Year&rsquo;s Day lunch</a>. Rooms over the holidays are covered on our <a href=\"events/festive-stays\">festive stays</a> page.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The Back o&rsquo; Barns function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>31 December, from the evening through the bells</dd></div><div><dt>Numbers</dt><dd>Up to 100 seated, from tables for two to large groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms in the hotel; ask about breakfast and New Year&rsquo;s Day lunch</dd></div></dl>"
   },
   {
    "type": "features",
@@ -81,14 +81,14 @@
     {
      "icon": "utensils",
      "title": "Dinner",
-     "text": "A festive dinner cooked in our own kitchen, with dietary needs catered for when you tell us in advance. The menu is confirmed each autumn.",
+     "text": "A festive dinner cooked in our own kitchen, with dietary needs planned for when you tell us in advance. The menu is confirmed each autumn.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "bed",
      "title": "Stay the night",
-     "text": "Our 18 en-suite rooms are upstairs, so nobody waits for a taxi after midnight. Breakfast is cooked to order on New Year&rsquo;s Day.",
+     "text": "With 18 en-suite rooms in the hotel, nobody waits for a taxi after midnight. Breakfast is cooked to order on New Year's Day when it is part of your rate.",
      "link_label": "See the rooms",
      "link_href": "rooms.html"
     }
@@ -106,15 +106,15 @@
     },
     {
      "q": "Is there a deposit?",
-     "a": "<p>We usually ask for a deposit to hold a Hogmanay booking. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>We may ask for a deposit to hold Hogmanay places. If we do, the amount, the due date and the cancellation terms will be set out when you book.</p>"
     },
     {
-     "q": "Can you cater for dietary requirements?",
+     "q": "Can the kitchen cater for allergies and special diets?",
      "a": "<p>Yes. Tell us about allergies, intolerances and vegetarian or vegan guests when you book, and the kitchen will plan for them.</p>"
     },
     {
      "q": "How do we get home after midnight?",
-     "a": "<p>Trains and taxis are scarce in the early hours of New Year&rsquo;s Day, which is why most Hogmanay guests <a href=\"book.html\">stay the night</a>. If someone in your party is driving, parking at the hotel is free.</p>"
+     "a": "<p>There are few trains or taxis in the early hours of New Year&rsquo;s Day, which is why we suggest <a href=\"book.html\">staying the night</a>. If someone in your party is driving, parking at the hotel is free.</p>"
     }
    ]
   },
@@ -144,9 +144,9 @@
    "Music and dancing through to the bells",
    "The countdown at midnight, a toast and Auld Lang Syne",
    "A late finish; we&rsquo;ll confirm the licence when you book",
-   "Rooms upstairs and breakfast on New Year&rsquo;s Day for guests staying over"
+   "Rooms in the hotel for guests staying over, with New Year&rsquo;s Day lunch to follow if you&rsquo;d like it"
   ],
-  "note": "The menu, price and running order for this year&rsquo;s Hogmanay are confirmed each autumn. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "The menu, price and running order for this year&rsquo;s Hogmanay are confirmed each autumn. Ask us now and we&rsquo;ll be in touch the moment they&rsquo;re set.",
   "category": "festive",
   "month": 12
  }

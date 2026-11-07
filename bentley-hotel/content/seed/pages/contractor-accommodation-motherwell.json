@@ -20,7 +20,7 @@
   "style": "split",
   "eyebrow": "Working in Lanarkshire",
   "title": "Contractor accommodation in Motherwell, near the M74",
-  "lede": "Single and twin en-suite rooms a few minutes from M74 junction 6, with free parking, free WiFi and a cooked breakfast before the shift. Staying a week or more? Call us and we'll arrange it.",
+  "lede": "Single and twin en-suite rooms close to M74 junction 6, with free parking, free WiFi and a cooked breakfast before the shift. Staying a week or more? Call us and we'll arrange it.",
   "image": "room-single-1",
   "image_alt": "Single room with a single bed, a white desk and chair and patterned curtains at the window",
   "buttons": [
@@ -41,7 +41,7 @@
   {
    "type": "booking_strip",
    "title": "Check availability and book direct",
-   "note": "Live availability from our booking system. Booking a team or a run of weeks? Call us on 01698 265588."
+   "note": "Book a night or two online. Booking a team, or a run of weeks? Call us on 01698 265588."
   },
   {
    "type": "text",
@@ -69,8 +69,8 @@
     },
     {
      "icon": "wifi",
-     "title": "Free WiFi throughout",
-     "text": "Timesheets, calls home and the next day&rsquo;s drawings: WiFi is free throughout the hotel.",
+     "title": "Free WiFi in every room",
+     "text": "Timesheets, calls home and the next day&rsquo;s drawings: WiFi is free in every room.",
      "link_label": "",
      "link_href": ""
     },
@@ -94,7 +94,7 @@
    "type": "cards",
    "eyebrow": "Rooms for working stays",
    "title": "Single, twin or double: your choice",
-   "intro": "All en suite, with a TV, tea and coffee making facilities and free WiFi.",
+   "intro": "An en-suite bathroom, a TV, tea and coffee making facilities and free WiFi in all of them.",
    "background": "paper",
    "items": [
     {
@@ -135,19 +135,19 @@
     },
     {
      "q": "Do you do weekly or longer stays?",
-     "a": "<p>We do. Stays of a week or longer are arranged by phone, so call us and we&rsquo;ll agree the dates, the rooms, how you&rsquo;d like to pay and who any invoice should go to.</p>"
+     "a": "<p>We do. For a week or longer it&rsquo;s easiest to call us, so we can agree the dates, the rooms and how you&rsquo;d like to pay before you arrive.</p>"
     },
     {
      "q": "Is there parking for vans?",
-     "a": "<p>Parking on site is free for guests. If you&rsquo;re bringing a larger van, or a vehicle with a trailer, give us a call first so we can tell you what fits.</p>"
+     "a": "<p>Guests park on site for free. If you&rsquo;re bringing a larger van, or a vehicle with a trailer, give us a call first so we can tell you what fits.</p>"
     },
     {
      "q": "Can I get breakfast early?",
-     "a": "<p>Breakfast is a full Scottish, cooked to order. If you need to be on site early, tell us the evening before and we&rsquo;ll do our best to work around your start time. Your confirmation shows whether breakfast is included in your rate.</p>"
+     "a": "<p>Breakfast is a full Scottish, cooked to order. If you need to be on site early, tell us when you book and we&rsquo;ll let you know what we can do about your start time. Your confirmation shows whether breakfast is included in your rate.</p>"
     },
     {
      "q": "What time can I check in, and what if I'm late?",
-     "a": "<p>Check-in is from 2pm and check-out is by 11am. If you&rsquo;ll be arriving late in the evening after a shift, let us know in advance so someone is ready to hand over your key. The main guest checking in must be 18 or over.</p>"
+     "a": "<p>Check-in is from 2pm and check-out is by 11am. If you&rsquo;ll be arriving late in the evening after a shift, please let us know in advance. The main guest checking in must be 18 or over.</p>"
     }
    ]
   },

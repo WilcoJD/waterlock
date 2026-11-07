@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Burns Night Supper | Bentley Hotel, Motherwell",
-  "description": "Burns Night supper in Motherwell around 25 January: the haggis piped in, the toasts and a traditional supper in our function suite, with rooms to stay over.",
+  "description": "Burns Night supper in Motherwell around 25 January: the haggis addressed, the toasts and a traditional supper in our function suite, with rooms to stay over.",
   "canonical": "",
   "og_image": "assets/img/exterior-700.jpg",
   "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Events at Bentley Hotel",
   "title": "Burns Night Supper",
-  "lede": "Around 25 January each year we pipe in the haggis, raise the toasts and sit down to a traditional supper in our function suite, with rooms upstairs if you'd like to stay.",
+  "lede": "Around 25 January each year we lay our function suite for a traditional supper: the haggis addressed, the toasts and a few verses, with rooms in the hotel if you'd like to stay.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,8 +60,8 @@
    "title": "Burns Night at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Robert Burns was born on 25 January 1759, and every year around that date Scotland sits down to supper in his memory. At Bentley Hotel the evening follows the old pattern. Guests gather for a drink, the haggis is piped in and carried to the top table, and it is addressed with the knife raised at the right line. Then everyone eats.</p><p>The supper is a traditional one, cooked in our own kitchen, with the haggis at its heart. If haggis is not for you, tell us when you book and we&rsquo;ll offer an alternative. Then come the toasts: the Immortal Memory, the toast to the lassies and the reply, with a few verses of Burns along the way. Ask what else is planned for this year&rsquo;s night when you enquire.</p><p>It is a sociable evening. Tables of friends, families and colleagues sit alongside couples who come back every January, in a function suite that seats up to 100 and is air-conditioned. Motherwell station is about 5 minutes&rsquo; walk, parking is free, and our 18 en-suite rooms are upstairs if you&rsquo;d like to stay and have breakfast with us.</p>",
-   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>One evening around 25 January; the date is confirmed each season</dd></div><div><dt>Numbers</dt><dd>Up to 100 seated, from tables for two to large groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms upstairs; book online or by phone</dd></div></dl>"
+   "html": "<p>Robert Burns was born on 25 January 1759, and every year around that date Scotland sits down to supper in his memory. At Bentley Hotel the evening follows the old pattern. Guests gather for a drink, the haggis is carried to the top table, piped in when we can arrange a piper, and it is addressed with the knife raised at the right line. Then everyone eats.</p><p>The supper is a traditional one, cooked in our own kitchen, with the haggis at its heart. If haggis is not for you, tell us when you book and we&rsquo;ll offer an alternative. Then come the toasts: the Immortal Memory, the toast to the lassies and the reply, with a few verses of Burns along the way. Ask what else is planned for this year&rsquo;s night when you enquire.</p><p>It is a sociable evening. Tables of friends, families and colleagues sit alongside couples, in an air-conditioned function suite that seats up to 100. Motherwell station is about 5 minutes&rsquo; walk, parking is free, and our 18 en-suite rooms are in the same building if you&rsquo;d rather stay than drive home.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>One evening around 25 January; the date is confirmed each season</dd></div><div><dt>Numbers</dt><dd>Up to 100 seated, from tables for two to large groups</dd></div><div><dt>Staying over</dt><dd>18 en-suite rooms in the hotel; book online or by phone</dd></div></dl>"
   },
   {
    "type": "features",
@@ -74,21 +74,21 @@
     {
      "icon": "users",
      "title": "The function suite",
-     "text": "Our Back o&rsquo; Barns function suite seats up to 100 for dinner and is air-conditioned. Small parties can share a table or have their own.",
+     "text": "Our Back o' Barns function suite seats up to 100 for dinner and is air-conditioned. Small parties can share a table or have their own.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "utensils",
      "title": "The supper",
-     "text": "A traditional Burns supper cooked in our own kitchen, with an alternative for anyone who&rsquo;d rather not have haggis. The menu is confirmed each season.",
+     "text": "A traditional Burns supper cooked in our own kitchen, with an alternative for anyone who'd rather not have haggis. The menu is confirmed each season.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "bed",
      "title": "Stay the night",
-     "text": "Our 18 en-suite rooms are upstairs, so nobody needs to drive. Check-in from 2pm, check-out by 11am, and breakfast cooked to order.",
+     "text": "With 18 en-suite rooms in the hotel, nobody needs to drive. Check-in is from 2pm, check-out by 11am, and a full Scottish breakfast is cooked to order when it is part of your rate.",
      "link_label": "See the rooms",
      "link_href": "rooms.html"
     }
@@ -102,11 +102,11 @@
    "items": [
     {
      "q": "How do we book a table for Burns Night?",
-     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers. We&rsquo;ll confirm this year&rsquo;s date, menu and price and hold your table. It is a popular night, so the earlier the better.</p>"
+     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers. We&rsquo;ll confirm this year&rsquo;s date, menu and price and hold your table. Seats are limited, so the earlier the better.</p>"
     },
     {
      "q": "Do we need to pay a deposit?",
-     "a": "<p>For most group bookings we ask for a deposit to hold the table. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>We may ask for a deposit to hold a group table. If so, we&rsquo;ll tell you the amount, when it is due and our cancellation terms before you commit.</p>"
     },
     {
      "q": "Can you cater for dietary requirements, and what if I don't like haggis?",
@@ -114,7 +114,7 @@
     },
     {
      "q": "Is there parking, and can we come by train?",
-     "a": "<p>Parking at the hotel is free. Motherwell station is about 5 minutes&rsquo; walk, with the fastest trains reaching Glasgow Central in under 20 minutes. If you&rsquo;d rather not travel late, <a href=\"book.html\">book a room</a> and stay the night.</p>"
+     "a": "<p>Parking at the hotel is free. Motherwell station is about 5 minutes&rsquo; walk, and the fastest trains reach Glasgow Central in under 20 minutes. If you&rsquo;d rather not travel late, <a href=\"book.html\">book a room</a> and stay the night.</p>"
     }
    ]
   },
@@ -140,13 +140,13 @@
   "dates_text": "Around 25 January each year",
   "price_text": "",
   "includes": [
-   "The haggis piped in and addressed at the top table",
+   "The haggis addressed at the top table, with a piper to bring it in where we can arrange one",
    "A traditional Burns supper from our own kitchen, with an alternative to haggis on request",
    "The Immortal Memory, the toast to the lassies and the reply",
    "Tables for couples, families and groups in the function suite",
-   "Rooms upstairs for anyone who&rsquo;d rather not drive home"
+   "Rooms in the hotel for anyone who&rsquo;d rather not drive home"
   ],
-  "note": "The menu and price for this year&rsquo;s supper are confirmed each season, ahead of the night. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "The date, menu and price for this year&rsquo;s supper are confirmed each season, ahead of the night. Call us or send an enquiry and we&rsquo;ll pass them on as soon as they&rsquo;re set.",
   "category": "scottish",
   "month": 1
  }

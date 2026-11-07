@@ -25,6 +25,8 @@ export function icon(name, cls = "") {
 /** Root-relative URL for an image reference: a built-in photo name, a media key or any path/URL. */
 export function imageUrl(image) {
   if (!image) return "";
+  const bare = /^([a-z0-9-]+?)-(\d+|lg)\.(jpe?g|webp)$/.exec(image);
+  if (bare && IMAGES[bare[1]]) return `/assets/img/${image}`;
   if (IMAGES[image]) {
     const sizes = IMAGES[image];
     const best = sizes.lg ? "lg" : Object.keys(sizes).sort((a, b) => sizes[b][0] - sizes[a][0])[0];
@@ -288,6 +290,16 @@ export function sortEvents(events) {
   return [...events].sort((a, b) => m(a) - m(b) || a.title.localeCompare(b.title));
 }
 
+function moreLinks(ctx) {
+  const inFooter = new Set((ctx.footerNav || footerNavFromPages(ctx.pages || [])).map((n) => n.slug));
+  const more = [];
+  if (ctx.hasEvents) more.push({ href: "/events", label: "Events & packages" });
+  if (ctx.hasBlog) more.push({ href: "/blog", label: "News" });
+  if (!inFooter.has("availability")) more.push({ href: "/availability", label: "Availability calendar" });
+  if (!inFooter.has("faq")) more.push({ href: "/faq", label: "Questions & answers" });
+  return more;
+}
+
 export function navFromPages(pages) {
   return pages.filter((p) => p.in_nav && p.status === "published").sort((a, b) => a.nav_order - b.nav_order || a.title.localeCompare(b.title))
     .map((p) => ({ slug: p.slug, label: p.nav_label || p.title }));
@@ -305,12 +317,7 @@ export function renderPage(page, ctx) {
   const theme = typeof ctx.theme === "object" && ctx.theme ? ctx.theme : getTheme(ctx.theme || site.theme);
   const nav = ctx.nav || navFromPages(ctx.pages || []);
   const footerNav = ctx.footerNav || footerNavFromPages(ctx.pages || []);
-  const inFooter = new Set(footerNav.map((n) => n.slug));
-  const more = [];
-  if (ctx.hasEvents) more.push({ href: "/events", label: "Events & packages" });
-  if (ctx.hasBlog) more.push({ href: "/blog", label: "News" });
-  if (!inFooter.has("availability")) more.push({ href: "/availability", label: "Availability calendar" });
-  if (!inFooter.has("faq")) more.push({ href: "/faq", label: "Questions & answers" });
+  const more = moreLinks({ ...ctx, footerNav });
   const meta = page.meta || {};
   const path = page.slug === "index" || page.slug === site.homepage_slug ? "/" : "/" + page.slug;
   const breadcrumbs = page.kind === "event" ? [{ href: "/", label: "Home" }, { href: "/events", label: "Events & packages" }, { label: page.title }]
@@ -334,7 +341,7 @@ export function renderPost(post, ctx) {
   const meta = post.meta || {};
   const jsonld = { "@context": "https://schema.org", "@type": "BlogPosting", headline: post.title, datePublished: post.published_at || undefined, dateModified: post.updated_at || undefined, author: { "@type": "Organization", name: site.name }, publisher: { "@type": "Organization", name: site.name }, description: post.excerpt || undefined, image: post.cover_image ? (site.site_url || "").replace(/\/$/, "") + imageUrl(post.cover_image) : undefined };
   return head({ site, theme, title: meta.title || `${post.title} | ${site.name}`, description: meta.description || post.excerpt || "", path: `/blog/${post.slug}`, ogImage: post.cover_image || meta.og_image, ogAlt: post.cover_alt, noindex: meta.noindex, jsonld })
-    + "\n" + header({ site, nav: ctx.nav || navFromPages(ctx.pages || []), activeSlug: "blog", theme }) + body + "\n" + footer({ site, footerNav: ctx.footerNav || footerNavFromPages(ctx.pages || []), more: [{ href: "/events", label: "Events & packages" }, { href: "/availability", label: "Availability calendar" }, { href: "/faq", label: "Questions & answers" }] });
+    + "\n" + header({ site, nav: ctx.nav || navFromPages(ctx.pages || []), activeSlug: "blog", theme }) + body + "\n" + footer({ site, footerNav: ctx.footerNav || footerNavFromPages(ctx.pages || []), more: moreLinks(ctx) });
 }
 
 export function renderListing({ kind, items, title, lede, eyebrow, path, description }, ctx) {
@@ -343,10 +350,10 @@ export function renderListing({ kind, items, title, lede, eyebrow, path, descrip
   const cards = kind === "posts" ? items.map(postCard).join("")
     : items.map((e) => `<a class="card card--link reveal" href="/${attr(e.slug)}"><div class="card__body">${e.event && e.event.category ? `<p class="card__meta">${escapeHtml(e.event.category)}</p>` : ""}<h3>${escapeHtml(e.title)}</h3><p>${escapeHtml(e.meta && e.meta.description ? e.meta.description : "")}</p>${e.event && e.event.dates_text ? `<p class="small muted">${escapeHtml(e.event.dates_text)}</p>` : ""}</div></a>`).join("");
   const body = `<section class="page-hero page-hero--plain page-hero--compact" aria-labelledby="page-title"><div class="container"><ol class="breadcrumb"><li><a href="/">Home</a></li><li aria-current="page">${escapeHtml(title)}</li></ol><p class="eyebrow">${escapeHtml(eyebrow)}</p><h1 id="page-title">${escapeHtml(title)}</h1><p class="lede">${escapeHtml(lede)}</p></div></section>
-<section class="section"><div class="container">${cards ? `<div class="${kind === "posts" ? "post-list" : "grid grid--3"}">${cards}</div>` : `<p class="center muted">Nothing here yet. Call us on ${escapeHtml(site.phone)} and we&rsquo;ll help.</p>`}</div></section>
+<section class="section" aria-labelledby="list-title"><div class="container"><h2 id="list-title" class="visually-hidden">${kind === "posts" ? "Latest posts" : "All events and packages"}</h2>${cards ? `<div class="${kind === "posts" ? "post-list" : "grid grid--3"}">${cards}</div>` : `<p class="center muted">Nothing here yet. Call us on ${escapeHtml(site.phone)} and we&rsquo;ll help.</p>`}</div></section>
 <section class="cta-band"><div class="container"><div><h2>Talk to us</h2><p>For dates, numbers and anything you can&rsquo;t see here, give us a call.</p></div><div class="btn-row"><a class="btn btn--primary" href="tel:${attr(site.phone_tel)}">${icon("phone")}${escapeHtml(site.phone)}</a><a class="btn btn--light" href="/contact">Send an enquiry</a></div></div></section>`;
   return head({ site, theme, title: `${title} | ${site.name}, ${site.address.town}`, description, path })
-    + "\n" + header({ site, nav: ctx.nav || navFromPages(ctx.pages || []), activeSlug: kind === "posts" ? "blog" : "events", theme }) + body + "\n" + footer({ site, footerNav: ctx.footerNav || footerNavFromPages(ctx.pages || []), more: [{ href: "/events", label: "Events & packages" }, { href: "/blog", label: "News" }, { href: "/availability", label: "Availability calendar" }, { href: "/faq", label: "Questions & answers" }] });
+    + "\n" + header({ site, nav: ctx.nav || navFromPages(ctx.pages || []), activeSlug: kind === "posts" ? "blog" : "events", theme }) + body + "\n" + footer({ site, footerNav: ctx.footerNav || footerNavFromPages(ctx.pages || []), more: moreLinks(ctx) });
 }
 
 /** RSS 2.0 feed for the blog. */

@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "St Andrew's Day Dinner | Bentley Hotel, Motherwell",
-  "description": "St Andrew's Day in Motherwell around 30 November: an evening of Scottish cooking from our own kitchen, music for larger parties by arrangement, and rooms upstairs to stay.",
+  "description": "St Andrew's Day in Motherwell around 30 November: an evening of Scottish cooking from our own kitchen, music for groups by arrangement, and rooms to stay.",
   "canonical": "",
   "og_image": "assets/img/exterior-700.jpg",
   "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Events at Bentley Hotel",
   "title": "St Andrew's Day Dinner",
-  "lede": "Around 30 November, Scotland's national day, we put a Scottish menu on the table, raise a dram to the saint, and keep the rooms upstairs for anyone who would rather not drive home.",
+  "lede": "Around 30 November, Scotland's national day, we put a Scottish menu on the table, raise a dram to the saint, and keep the rooms in the hotel for anyone who would rather not drive home.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,7 +60,7 @@
    "title": "St Andrew's Day at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>St Andrew has been Scotland&rsquo;s patron saint for centuries, and 30 November, his feast day, is the country&rsquo;s national day. It is a quieter celebration than Burns Night or Hogmanay, which is part of its appeal: an evening for good Scottish food, a dram and a bit of music, without the speeches.</p><p>At Bentley Hotel the night is built around the kitchen. We serve a Scottish menu for the evening, drawing on the things the country does well, cooked in our own kitchen, with the dishes and the price confirmed each season. There is a dram at the bar for the toast to the saint and the saltire. Tables range from two to a party of friends or a club night out, and for a larger group we can set the function suite for private dining and arrange live music or a ceilidh if the numbers justify it.</p><p>St Andrew&rsquo;s Day also opens the winter here. The festive season follows close behind, and Burns Night comes round in January, so if you&rsquo;re looking for a night out with colleagues or a club before the Christmas rush, this is the one. Motherwell station is about 5 minutes&rsquo; walk for anyone coming from Glasgow or Edinburgh, parking is free, and our 18 en-suite rooms are upstairs if you&rsquo;d rather stay and have breakfast with us.</p>",
+   "html": "<p>St Andrew has been Scotland&rsquo;s patron saint for centuries, and 30 November, his feast day, is the country&rsquo;s national day. It is a quieter celebration than Burns Night or Hogmanay, which is part of its appeal: an evening for good Scottish food, a dram and a bit of music, without the speeches.</p><p>At Bentley Hotel the night is built around the kitchen. We serve a Scottish menu for the evening, drawing on the things the country does well, cooked in our own kitchen, with the dishes and the price confirmed each season. We raise a dram to the saint and the saltire. Tables range from two to a party of friends or a club night out, and for a larger group we can set the function suite for private dining and arrange live music or a ceilidh band.</p><p>St Andrew&rsquo;s Day also opens the winter here. The festive season follows close behind, and Burns Night comes round in January, so if you&rsquo;re looking for a night out with colleagues or a club before the Christmas rush, this is the one. Motherwell station is about 5 minutes&rsquo; walk for anyone coming from Glasgow or Edinburgh, parking is free, and our 18 en-suite rooms are here if you&rsquo;d rather stay and have breakfast with us.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The restaurant and conservatory, or the function suite for larger parties, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>One evening around 30 November; the date is confirmed each season</dd></div><div><dt>Numbers</dt><dd>Tables for two up to 100 seated in the function suite</dd></div><div><dt>Music</dt><dd>Live music or a ceilidh for group bookings, by arrangement</dd></div></dl>"
   },
   {
@@ -74,21 +74,21 @@
     {
      "icon": "users",
      "title": "The function suite",
-     "text": "For a group, our Back o&rsquo; Barns function suite seats up to 100 for dinner and is air-conditioned, with space to push the tables back for a ceilidh. Smaller parties eat in the restaurant or the conservatory.",
+     "text": "For a group, our Back o' Barns function suite seats up to 100 for dinner and is air-conditioned, and we can arrange live music or a ceilidh band for the night. Smaller parties eat in the restaurant or the conservatory.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "utensils",
      "title": "A Scottish menu",
-     "text": "A menu for the night from our own kitchen, built on Scottish produce and Scottish cooking, with a dram to go with it. The dishes and the price are confirmed each season.",
+     "text": "A menu for the night from our own kitchen, built on Scottish cooking, with a dram to go with it. The dishes and the price are confirmed each season.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "bed",
      "title": "Stay the night",
-     "text": "Our 18 en-suite rooms are upstairs, so nobody needs to drive. Check-in from 2pm, check-out by 11am, and a full Scottish breakfast cooked to order to finish the celebration properly.",
+     "text": "Stay in the hotel in one of our 18 en-suite rooms and finish the celebration with a full Scottish breakfast cooked to order. Check-in is from 2pm and check-out by 11am.",
      "link_label": "See the rooms",
      "link_href": "rooms.html"
     }
@@ -102,11 +102,11 @@
    "items": [
     {
      "q": "How do we book for St Andrew's Day?",
-     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers. We&rsquo;ll confirm this year&rsquo;s date, menu and price and hold your table. For a club or works night, tell us roughly how many you expect and whether you&rsquo;d like music.</p>"
+     "a": "<p>Phone us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> and tell us how many you expect. We&rsquo;ll give you this year&rsquo;s date, menu and price and keep a table for you. For a club or works night, say roughly how many are coming and whether you&rsquo;d like music.</p>"
     },
     {
      "q": "Do we need to pay a deposit?",
-     "a": "<p>For most group bookings we ask for a deposit to hold the table or the function suite. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>Group bookings and private hire of the function suite usually need a deposit. We&rsquo;ll set out how much, when it is due and our cancellation terms before you confirm.</p>"
     },
     {
      "q": "Can you cater for dietary requirements?",
@@ -114,14 +114,14 @@
     },
     {
      "q": "Is there parking, and can we come by train?",
-     "a": "<p>Parking at the hotel is free. Motherwell station is about 5 minutes&rsquo; walk, with the fastest trains reaching Glasgow Central in under 20 minutes and direct services to Edinburgh. If you&rsquo;d rather not travel late, <a href=\"book.html\">book a room</a> and stay the night.</p>"
+     "a": "<p>Yes to both. Parking at the hotel is free, and Motherwell station is about 5 minutes&rsquo; walk, with trains to Glasgow Central (under 20 minutes at the fastest) and to Edinburgh. Rather than travel late, <a href=\"book.html\">book a room</a> and stay the night.</p>"
     }
    ]
   },
   {
    "type": "cta",
    "title": "Celebrate St Andrew's Day with us",
-   "text": "Tell us how many are coming and we&rsquo;ll hold your table. Rooms for the night can be booked online.",
+   "text": "Give us your numbers and we&rsquo;ll hold a table, or the function suite for a group. Rooms can be booked online.",
    "buttons": [
     {
      "label": "Enquire about St Andrew's Day",
@@ -141,12 +141,12 @@
   "price_text": "",
   "includes": [
    "A Scottish menu for the evening from our own kitchen, confirmed each season",
-   "A dram at the bar for the toast to the saint and the saltire",
+   "A toast to the saint and the saltire, dram in hand",
    "Tables for two to a hundred, with private dining in the function suite for groups",
-   "Live music or a ceilidh for larger parties, by arrangement",
-   "Rooms upstairs for anyone who&rsquo;d rather not drive, with a full Scottish breakfast cooked to order"
+   "Live music or a ceilidh band for larger parties, by arrangement",
+   "Rooms in the hotel for anyone who&rsquo;d rather not drive, with a full Scottish breakfast cooked to order"
   ],
-  "note": "The date, menu and price for this year&rsquo;s St Andrew&rsquo;s Day dinner are confirmed each season. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "The date, menu and price for this year&rsquo;s St Andrew&rsquo;s Day dinner are confirmed each season. Call or send an enquiry and we&rsquo;ll tell you as soon as they&rsquo;re fixed.",
   "category": "scottish",
   "month": 11
  }

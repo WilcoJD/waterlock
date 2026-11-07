@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Halloween Party | Bentley Hotel, Motherwell",
-  "description": "Halloween in Motherwell around 31 October: hire our function suite for a fancy-dress party for up to 120, or bring the children for a family afternoon of games and food.",
+  "description": "Halloween in Motherwell around 31 October: hire our function suite for a fancy-dress party for up to 120, or ask about a family afternoon of games and food.",
   "canonical": "",
   "og_image": "assets/img/exterior-700.jpg",
   "og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall square tower, bay windows and a glass conservatory",
@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Events at Bentley Hotel",
   "title": "Halloween Party",
-  "lede": "Around 31 October our function suite goes dark for the night: a fancy-dress party for up to 120, a family afternoon with the children, or a private party for your club, team or company.",
+  "lede": "Around 31 October our function suite can be dressed for the night: a fancy-dress party for up to 120, a family afternoon for the children, or a private party for your club, team or company. Ask what we have planned this year.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,7 +60,7 @@
    "title": "Halloween at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Halloween is older in Scotland than almost anywhere. Long before the pumpkins arrived, children here went guising in costume, performed a song or a joke for their sweets, carved lanterns out of neeps and dooked for apples in a basin of water. Some of that still happens on the streets of Motherwell every 31 October, and some of it happens in our function suite.</p><p>For adults, we can set the suite for a party: decorated for the night, with a buffet or a sit-down meal from our own kitchen, a DJ or live music by arrangement, and room for up to 120 standing or 100 seated. It works for a group of friends, a works night out or a club that wants a room of its own, and fancy dress is encouraged but never compulsory. For families, we can arrange an afternoon earlier in the day with games, something to eat and a prize for the best costume. What we run each year, and what it costs, is confirmed each season.</p><p>The house itself helps. A sandstone villa built in 1874, with a tower and tall bay windows, needs very little decoration to look the part on a dark October night. The function suite is air-conditioned, parking is free and Motherwell station is about 5 minutes&rsquo; walk, which matters at the end of a party. Our 18 en-suite rooms are upstairs if you&rsquo;d rather take the costume off and go to bed.</p>",
+   "html": "<p>Halloween has deep roots in Scotland. Long before the pumpkins arrived, children here went guising in costume, performed a song or a joke for their sweets, carved lanterns out of neeps and dooked for apples in a basin of water. Some of that still happens on the streets of Motherwell every 31 October, and some of it can happen in our function suite.</p><p>For adults, we can set the suite for a party: decorated for the night, with a buffet or a sit-down meal from our own kitchen, a DJ or live music by arrangement, and room for up to 120 standing or 100 seated. It works for a group of friends, a works night out or a club that wants a room of its own, and fancy dress is encouraged but never compulsory. For families, we can arrange an afternoon earlier in the day with games, something to eat and a prize for the best costume. What we run each year, and what it costs, is confirmed each season.</p><p>The house itself helps. A sandstone villa built in 1874, with a tower and tall bay windows, needs very little decoration to look the part on a dark October night. The function suite is air-conditioned, parking is free and Motherwell station is about 5 minutes&rsquo; walk, which matters at the end of a party. Our 18 en-suite rooms are here if you&rsquo;d rather stay than wait for a taxi.</p>",
    "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The function suite, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>Around 31 October; the date and times are confirmed each season</dd></div><div><dt>Numbers</dt><dd>Up to 120 for a standing reception, 100 seated for a meal</dd></div><div><dt>Private hire</dt><dd>Ask about the suite for your own party, with food and music arranged by us</dd></div></dl>"
   },
   {
@@ -74,7 +74,7 @@
     {
      "icon": "users",
      "title": "The function suite",
-     "text": "Our Back o&rsquo; Barns function suite takes up to 120 for a reception and 100 seated, is air-conditioned, and can be dressed for the night. Hire it for your own party or join ours.",
+     "text": "Our Back o' Barns function suite takes up to 120 for a reception and 100 seated, is air-conditioned, and can be dressed for the night. Hire it for your own party, or ask what we have planned this year.",
      "link_label": "",
      "link_href": ""
     },
@@ -88,7 +88,7 @@
     {
      "icon": "bed",
      "title": "Stay the night",
-     "text": "Our 18 en-suite rooms are upstairs, so nobody needs to drive home in a costume. Check-in from 2pm, check-out by 11am, and breakfast cooked to order.",
+     "text": "Take the costume off and go to bed: our 18 en-suite rooms are here, and breakfast is cooked to order in the morning. Check-in from 2pm, check-out by 11am.",
      "link_label": "See the rooms",
      "link_href": "rooms.html"
     }
@@ -102,19 +102,19 @@
    "items": [
     {
      "q": "How do we book, and can we hire the suite for our own party?",
-     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers. We&rsquo;ll tell you what we have planned this year, and if you&rsquo;d rather have the function suite to yourselves we&rsquo;ll talk through dates, food and music for a private party.</p>"
+     "a": "<p>Give us a call on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a> with your numbers and we&rsquo;ll tell you what we have planned this year. If you&rsquo;d rather have the function suite to yourselves, we&rsquo;ll talk through dates, food and music for a private party.</p>"
     },
     {
      "q": "Do we need to pay a deposit?",
-     "a": "<p>For private hire and most group bookings we ask for a deposit to hold the date. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>Private hire and most group bookings need a deposit to hold the date. We&rsquo;ll tell you how much and when it is due, and go through our cancellation terms, before anything is confirmed.</p>"
     },
     {
      "q": "Can you cater for dietary requirements, and is the family afternoon suitable for young children?",
-     "a": "<p>Yes. Tell us about allergies, intolerances and vegetarian or vegan guests when you book and the kitchen will plan for them. The family afternoon is meant for younger children, with games pitched at them and nothing too frightening; ask us about ages when you enquire.</p>"
+     "a": "<p>Yes. Give us a note of allergies, intolerances and vegetarian or vegan guests when you book and the kitchen will plan for them. When we run a family afternoon it is meant for younger children, with games pitched at them and nothing too frightening; ask us about ages when you enquire.</p>"
     },
     {
      "q": "Is there parking, and can we come by train?",
-     "a": "<p>Parking at the hotel is free. Motherwell station is about 5 minutes&rsquo; walk, with the fastest trains reaching Glasgow Central in under 20 minutes. If you&rsquo;d rather not travel late, <a href=\"book.html\">book a room</a> and stay the night.</p>"
+     "a": "<p>Parking at the hotel is free, and Motherwell station is about 5 minutes&rsquo; walk for trains back to Glasgow, under 20 minutes at the fastest. Late finishers can <a href=\"book.html\">book a room</a> and stay the night.</p>"
     }
    ]
   },
@@ -143,11 +143,11 @@
    "The function suite decorated for the night, for up to 120 standing or 100 seated",
    "A buffet or a sit-down meal from our own kitchen",
    "A DJ or live music, by arrangement",
-   "A family afternoon earlier in the day, with games and a prize for the best costume",
+   "A family afternoon earlier in the day, with games and a prize for the best costume, by arrangement",
    "Private hire of the suite for a club, team or company party",
-   "Rooms upstairs for anyone who&rsquo;d rather not drive home"
+   "Rooms in the hotel for anyone who&rsquo;d rather not drive home"
   ],
-  "note": "What we run each Halloween, with the date, times and prices, is confirmed each season. Call us or send an enquiry and we&rsquo;ll let you know as soon as it&rsquo;s set.",
+  "note": "What we run each Halloween, with the date, times and prices, is confirmed each season. Ask us and we&rsquo;ll let you know as soon as it&rsquo;s settled.",
   "category": "seasonal",
   "month": 10
  }

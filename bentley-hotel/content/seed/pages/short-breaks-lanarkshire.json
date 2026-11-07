@@ -9,7 +9,7 @@
  "in_footer": 0,
  "meta": {
   "title": "Short Breaks in Lanarkshire | Bentley Hotel, Motherwell",
-  "description": "Short breaks in Lanarkshire from an 1874 villa in Motherwell: Glasgow by train in under 20 minutes, Edinburgh about 30 miles, castles and country parks nearby.",
+  "description": "Short breaks in Lanarkshire from an 1874 villa in Motherwell: Glasgow about 20 minutes by train, Edinburgh about 30 miles, castles and country parks nearby.",
   "canonical": "",
   "og_image": "assets/img/room-double-1-800.jpg",
   "og_alt": "Double room at Bentley Hotel, Motherwell, with a blue throw on the bed and a bright bay window",
@@ -20,7 +20,7 @@
   "style": "split",
   "eyebrow": "Between Glasgow and Edinburgh",
   "title": "Short breaks in Lanarkshire, with two cities on the doorstep",
-  "lede": "Stay in an 1874 sandstone villa in Motherwell, 5 minutes' walk from trains that reach Glasgow in under 20 minutes, with Edinburgh, the Clyde Valley and the Hamilton estates within easy reach.",
+  "lede": "Stay in an 1874 sandstone villa in Motherwell, about 5 minutes' walk from the station, with Glasgow under 20 minutes away on the fastest trains and Edinburgh, the Clyde Valley and the Hamilton estates within easy reach.",
   "image": "room-double-1",
   "image_alt": "Double bed with a blue throw in a bright room with a large bay window",
   "buttons": [
@@ -41,15 +41,15 @@
   {
    "type": "booking_strip",
    "title": "Check availability for your break",
-   "note": "Live availability from our booking system. If you&rsquo;d like to talk through dates or rooms first, call us on 01698 265588."
+   "note": "See which rooms are free for your dates and book direct. If you&rsquo;d like to talk it through first, call us on 01698 265588."
   },
   {
    "type": "text",
    "eyebrow": "Why base yourself here",
-   "title": "A quiet house with the whole central belt within reach",
+   "title": "A Victorian house with the whole central belt within reach",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Motherwell is not the first place most people think of for a short break, which is part of its appeal. From our door you can be in Glasgow Central in under 20 minutes on the fastest trains, or in Edinburgh for the day, and come back in the evening to a quiet street of Victorian villas, free parking and dinner under the same roof.</p><p>The house has a story of its own. It was built in 1874, so the hotel&rsquo;s own history goes, for Colonel Black of the Cameronians, and was known for many years as Motherwell House, home to many of the town&rsquo;s founding families. The sandstone exterior has kept its character, and the house now stands within the Hamilton Road Conservation Area, with the North Lanarkshire Heritage Centre next door.</p><p>Closer to hand, Strathclyde Country Park lies beside the Clyde about a mile away. Across the river in Hamilton are Chatelherault Country Park, built around William Adam&rsquo;s hunting lodge of 1734, and the Hamilton Mausoleum; Bothwell Castle is about 6 miles away. To the south-east, the Clyde Valley follows the river upstream towards Lanark.</p><p>Every one of our 18 rooms is en suite, with a TV, tea and coffee making facilities and free WiFi; our doubles suit couples. Breakfast is a full Scottish, cooked to order, and the restaurant and bar are downstairs for the evening you don&rsquo;t want to travel.</p>",
+   "html": "<p>Motherwell is not the first place most people think of for a short break, which is part of its appeal. From our door you can be in Glasgow Central in under 20 minutes on the fastest trains, or in Edinburgh for the day, and come back in the evening to a street of Victorian villas, free parking and dinner under the same roof.</p><p>The house has a story of its own. It was built in 1874, so the hotel&rsquo;s own history goes, for Colonel Black of the Cameronians, and was known for many years as Motherwell House, home to many of the town&rsquo;s founding families. The sandstone exterior has kept its character, and the house now stands within the Hamilton Road Conservation Area, with the North Lanarkshire Heritage Centre next door.</p><p>Closer to hand, Strathclyde Country Park lies beside the Clyde about a mile away. Across the river in Hamilton are Chatelherault Country Park, built around William Adam&rsquo;s hunting lodge of 1734, and the Hamilton Mausoleum; Bothwell Castle is a few miles away. To the south-east, the Clyde Valley follows the river upstream towards Lanark.</p><p>Every one of our 18 rooms is en suite, with a TV, tea and coffee making facilities and free WiFi; our doubles suit couples. Breakfast is a full Scottish, cooked to order, and the restaurant and bar are downstairs for the evening you don&rsquo;t want to travel.</p>",
    "aside_html": "<ul class=\"checklist\"><li>Glasgow Central in under 20 minutes on the fastest trains</li><li>Edinburgh about 30 miles, with train services from Motherwell</li><li>Strathclyde Country Park about a mile</li><li>Chatelherault, the Hamilton Mausoleum and Bothwell Castle a short drive</li><li>Free on-site parking; the station about 5 minutes&rsquo; walk</li><li>Restaurant, conservatory and bar under one roof</li></ul>"
   },
   {
@@ -147,7 +147,7 @@
     },
     {
      "q": "Can we arrive early or leave late?",
-     "a": "<p>Check-in is from 2pm and check-out by 11am. Ask us about leaving your bags if you arrive earlier or want to make the most of your last day.</p>"
+     "a": "<p>We check guests in from 2pm and ask for rooms back by 11am. If you&rsquo;re arriving earlier or leaving later, tell us when you book and we&rsquo;ll let you know what we can arrange.</p>"
     }
    ]
   },

@@ -20,7 +20,7 @@
   "style": "plain",
   "eyebrow": "Dining",
   "title": "Valentine's Dinner",
-  "lede": "A table for two on 14 February, a menu written for the night from our kitchen, and a double room upstairs if you'd rather make a night of it.",
+  "lede": "A table for two on 14 February, a menu written for the night from our kitchen, and a double room in the hotel if you'd rather make a night of it.",
   "image": null,
   "image_alt": "",
   "buttons": [
@@ -60,8 +60,8 @@
    "title": "Valentine's Day at Bentley Hotel",
    "layout": "split",
    "background": "paper",
-   "html": "<p>Valentine&rsquo;s Day doesn&rsquo;t need a grand gesture. A table for two, food cooked with care and nobody looking at the clock will do. On 14 February our restaurant and conservatory are laid for couples, with a menu written for the night from our own kitchen, and the evening is yours to take as slowly as you like.</p><p>The conservatory is the room to ask for if you&rsquo;d like a little more privacy: a purpose-built glass room at the side of the house, with candles on the tables. The restaurant itself is a little livelier, which some couples prefer. Tell us which you&rsquo;d like when you book, and whether you&rsquo;d like flowers on the table or a quiet corner. The menu and price are confirmed each season, and we&rsquo;ll plan for allergies and dietary needs when you tell us.</p><p>Getting home has an easy answer. Our double rooms are upstairs, some with the bay windows that give the house its character, each with an en-suite bathroom, a TV, tea and coffee and free WiFi. Book a room with your table and the evening ends with a flight of stairs rather than a taxi, and begins again with breakfast cooked to order. Parking is free, and Motherwell station is about 5 minutes&rsquo; walk.</p>",
-   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The restaurant or the conservatory, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>The evening of 14 February</dd></div><div><dt>Who</dt><dd>Tables for two; tell us if you&rsquo;d like flowers or a quiet corner</dd></div><div><dt>Staying over</dt><dd>Double rooms upstairs, with breakfast cooked to order; book online or by phone</dd></div></dl>"
+   "html": "<p>Valentine&rsquo;s Day doesn&rsquo;t need a grand gesture. A table for two, food cooked with care and nobody looking at the clock will do. On 14 February our restaurant and conservatory are laid for couples, with a menu written for the night from our own kitchen, and the evening is yours to take as slowly as you like.</p><p>The conservatory is the room to ask for if you&rsquo;d like a little more privacy: a purpose-built glass room at the side of the house. The restaurant itself is a little livelier. Tell us which you&rsquo;d like when you book, and whether you&rsquo;d like flowers on the table or a quiet corner, and we&rsquo;ll do what we can. The menu and price are confirmed each season, and we&rsquo;ll plan for allergies and dietary needs when you tell us.</p><p>Getting home has an easy answer. Our double rooms are in the hotel, some with the bay windows that give the house its character, each with an en-suite bathroom, a TV, tea and coffee and free WiFi. Book a room with your table and the evening ends with a short walk to bed rather than a taxi, and begins again with breakfast cooked to order where it is part of your rate. Parking is free, and Motherwell station is about 5 minutes&rsquo; walk.</p>",
+   "aside_html": "<dl class=\"info-list\"><div><dt>Where</dt><dd>The restaurant or the conservatory, 19 High Road, Motherwell</dd></div><div><dt>When</dt><dd>The evening of 14 February</dd></div><div><dt>Who</dt><dd>Tables for two; tell us if you&rsquo;d like flowers or a quiet corner</dd></div><div><dt>Staying over</dt><dd>Double rooms in the hotel; book online or by phone</dd></div></dl>"
   },
   {
    "type": "features",
@@ -74,21 +74,21 @@
     {
      "icon": "heart",
      "title": "A table for two",
-     "text": "In the restaurant or the glass conservatory alongside it, with candles on the tables. Ask for flowers or a quiet corner when you book.",
+     "text": "In the restaurant or the conservatory alongside it. Ask for flowers on the table or a quiet corner when you book and we'll do what we can.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "utensils",
      "title": "The menu",
-     "text": "Written for the night and cooked in our own kitchen, with dietary needs catered for when you tell us in advance. Menu and price are confirmed each season.",
+     "text": "Written for the night and cooked in our own kitchen, with dietary needs planned for when you tell us in advance. Menu and price are confirmed each season.",
      "link_label": "",
      "link_href": ""
     },
     {
      "icon": "bed",
      "title": "Stay the night",
-     "text": "A double room upstairs, some with bay windows, so neither of you has to drive. Check-in from 2pm, check-out by 11am, breakfast cooked to order.",
+     "text": "A double room in the hotel, some with bay windows, so neither of you has to drive. Check-in from 2pm, check-out by 11am, and breakfast cooked to order where it is part of your rate.",
      "link_label": "See the double rooms",
      "link_href": "rooms.html#double"
     }
@@ -102,19 +102,19 @@
    "items": [
     {
      "q": "How do we book a table for Valentine's Day?",
-     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a>. We&rsquo;ll confirm this year&rsquo;s menu and price, hold your table and note whether you&rsquo;d prefer the restaurant or the conservatory. Tables go quickly, so book early.</p>"
+     "a": "<p>Call us on <a href=\"tel:+441698265588\">01698 265588</a> or <a href=\"contact.html?enquiry=Function\">send an enquiry</a>. We&rsquo;ll confirm this year&rsquo;s menu and price, hold your table and note whether you&rsquo;d prefer the restaurant or the conservatory. Tables for two are limited on the night, so book early.</p>"
     },
     {
      "q": "Is there a deposit?",
-     "a": "<p>We may ask for a small deposit to hold a Valentine&rsquo;s table. We&rsquo;ll explain how much, when it is due and our cancellation terms when you book.</p>"
+     "a": "<p>Possibly, to hold the table on a busy night. If a deposit is needed we&rsquo;ll say how much, when it is due and what our cancellation terms are when you book.</p>"
     },
     {
-     "q": "Can you cater for dietary requirements?",
+     "q": "Can you cater for allergies, or a vegetarian or vegan menu?",
      "a": "<p>Yes. Tell us about allergies, intolerances and vegetarian or vegan preferences when you book, and the kitchen will plan for them.</p>"
     },
     {
      "q": "Is there parking, and can we stay the night?",
-     "a": "<p>Parking at the hotel is free, and Motherwell station is about 5 minutes&rsquo; walk. Our double rooms are upstairs; <a href=\"book.html\">check availability</a> for 14 February and book your room alongside your table.</p>"
+     "a": "<p>Parking at the hotel is free, and Motherwell station is about 5 minutes&rsquo; walk. Our double rooms are in the hotel; <a href=\"book.html\">check availability</a> for 14 February and book your room alongside your table.</p>"
     }
    ]
   },
@@ -142,11 +142,11 @@
   "includes": [
    "A table for two in the restaurant or the conservatory",
    "A menu written for the night, cooked in our own kitchen",
-   "Candles on the tables, and flowers or a quiet corner on request",
-   "Allergies and dietary needs catered for when you tell us in advance",
-   "A double room upstairs, with breakfast the next morning, if you&rsquo;d like to stay"
+   "Flowers on the table or a quiet corner, on request",
+   "Allergies and dietary needs looked after when you tell us ahead",
+   "A double room, with breakfast the next morning where it is part of your rate, if you&rsquo;d like to stay"
   ],
-  "note": "The menu and price for this year&rsquo;s Valentine&rsquo;s dinner are confirmed each season, ahead of February. Call us or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
+  "note": "The menu and price for this year&rsquo;s Valentine&rsquo;s dinner are confirmed each season, ahead of February. Call or send an enquiry and we&rsquo;ll let you know as soon as they&rsquo;re set.",
   "category": "dining",
   "month": 2
  }
