@@ -4,3 +4,5 @@
 node_modules/
 .dev/
 __pycache__/
+.vercel/
+.turso/

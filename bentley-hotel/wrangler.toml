@@ -4,7 +4,13 @@
 # Secrets (Pages → Settings → Variables and Secrets; never put them in this file):
 #   ADMIN_PASSWORD or ADMIN_PASSWORD_HASH   admin login (make a hash with: node src/hash-password.js)
 #   SESSION_SECRET                          a long random string for signing admin sessions
-#   CLOUDBEDS_API_KEY                       read-only Cloudbeds key for the availability calendar
+#   CLOUDBEDS_API_KEY                       Cloudbeds property API key (read:rate for the calendar; read:reservation and
+#                                           the webhook scopes for the bookings register)
+#   CLOUDBEDS_WEBHOOK_SECRET                any long random string; Cloudbeds sends it back in X-Webhook-Secret
+#   GA4_API_SECRET                          GA4 Measurement Protocol API secret (Admin → Data streams → Measurement Protocol)
+#   SYNC_SECRET                             any long random string; lets a scheduler call /api/cloudbeds/sync?key=…
+# A nightly sync on Cloudflare: add a Cron Trigger that fetches https://<site>/api/cloudbeds/sync with the X-Sync-Key
+# header, or rely on webhooks alone (the admin's Bookings → Sync now button works at any time).
 name = "bentley-hotel"
 pages_build_output_dir = "public"
 compatibility_date = "2025-10-01"
