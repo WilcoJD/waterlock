@@ -1,0 +1,380 @@
+adrianhajdin/project_3D_developer_portfolio	7133	NONE	media_ai	3D & Rendering	The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!	
+vasturiano/3d-force-graph	6544	MIT	media_ai	3D & Rendering	3D force-directed graph component using ThreeJS/WebGL	
+JannisX11/blockbench	6171	GPL-3.0	media_ai	3D & Rendering	Blockbench - A low poly 3D model editor	
+srizzon/git-city	5979	AGPL-3.0	media_ai	3D & Rendering	Your GitHub profile as a 3D pixel art building in an interactive city	
+galacean/engine	5917	MIT	media_ai	3D & Rendering	A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.	
+cnr-isti-vclab/meshlab	5904	GPL-3.0	media_ai	3D & Rendering	The open source mesh processing system	
+ssloy/tinyraytracer	5393	NONE	media_ai	3D & Rendering	A brief computer graphics / rendering course	
+spritejs/spritejs	5388	MIT	media_ai	3D & Rendering	A cross platform high-performance graphics system.	
+dotnet/Silk.NET	5265	MIT	media_ai	3D & Rendering	The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.	
+mosra/magnum	5232	NOASSERTION	media_ai	3D & Rendering	Lightweight and modular C++11 graphics middleware for games and data visualization	
+affaan-m/ECC	298934	MIT	media_ai	AI Agent Frameworks	The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.	
+deepseek-ai/deepseek-harness	275539	MIT	media_ai	AI Agent Frameworks	DeepSeek Harness: Everything is a Plugin.	
+NousResearch/hermes-agent	261391	MIT	media_ai	AI Agent Frameworks	The agent that grows with you	
+DietrichGebert/ponytail	186178	MIT	media_ai	AI Agent Frameworks	Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.	
+stablyai/orca	118330	MIT	media_ai	AI Agent Frameworks	Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.	
+google-gemini/gemini-cli	108764	Apache-2.0	media_ai	AI Agent Frameworks	An open-source AI agent that brings the power of Gemini directly into your terminal.	
+tt-a1i/archify	94371	Apache-2.0	media_ai	AI Agent Frameworks	Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.	
+cheaper-inference/OmniRoute	85342	MIT	media_ai	AI Agent Frameworks	Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compressi	
+ruvnet/ruflo	81139	MIT	media_ai	AI Agent Frameworks	🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex	
+heygen-com/hyperframes	80388	Apache-2.0	media_ai	AI Agent Frameworks	Write HTML. Render video. Built for agents.	
+microsoft/ai-agents-for-beginners	79102	MIT	media_ai	AI Agent Frameworks	18 Lessons to Get Started Building AI Agents	
+rohitg00/ai-engineering-from-scratch	77297	MIT	media_ai	AI Agent Frameworks	Learn AI Engineering! Learn it. Build it. Ship it for others.	
+thedaviddias/Front-End-Checklist	74668	MIT	media_ai	AI Agent Frameworks	🗂 The essential checklist for modern web development, for humans and AI agents	
+asgeirtj/system_prompts_leaks	70974	CC0-1.0	media_ai	AI Agent Frameworks	Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen,	
+code-yeongyu/oh-my-openagent	70765	NOASSERTION	media_ai	AI Agent Frameworks	OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.	
+ai-job-search-dev/ai-job-search	70212	MIT	media_ai	AI Agent Frameworks	The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.	
+shanraisshan/claude-code-best-practice	68763	MIT	media_ai	AI Agent Frameworks	from vibe coding to agentic engineering - practice makes claude perfect	
+Ebony-Vinyl/dsh-our-free-model	65118	MIT	media_ai	AI Agent Frameworks	在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free	
+HKUDS/nanobot	49901	MIT	media_ai	AI Agent Frameworks	Your lightweight open-source personal agent.	
+herdrdev/herdr	48963	Apache-2.0	media_ai	AI Agent Frameworks	the runtime your coding agents live on	
+zhayujie/CowAgent	47829	MIT	media_ai	AI Agent Frameworks	Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.	
+tinyhumansai/openhuman	42584	GPL-3.0	media_ai	AI Agent Frameworks	The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.	
+wshobson/agents	42279	MIT	media_ai	AI Agent Frameworks	Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.	
+Yeachan-Heo/oh-my-claudecode	40660	MIT	media_ai	AI Agent Frameworks	Teams-first Multi-agent orchestration for Claude Code	
+JCodesMore/ai-website-cloner-template	38783	MIT	media_ai	AI Agent Frameworks	Clone any website with one command using AI coding agents	
+nomic-ai/gpt4all	77341	MIT	media_ai	AI Chat Interfaces	GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.	
+EKKOLearnAI/ekko-studio	11713	NOASSERTION	media_ai	AI Chat Interfaces	Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.	
+rikkahub/rikkahub	8705	AGPL-3.0	media_ai	AI Chat Interfaces	RikkaHub is an Android APP that supports for multiple LLM providers.	
+Dooy/chatgpt-web-midjourney-proxy	6799	MIT	media_ai	AI Chat Interfaces	One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform	
+ant-design/x	4840	NONE	media_ai	AI Chat Interfaces	Craft AI-driven interface effortlessly🤖	
+PurpleDoubleD/locally-uncensored	3551	AGPL-3.0	media_ai	AI Chat Interfaces	The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.	
+xtekky/chatgpt-clone	3489	GPL-3.0	media_ai	AI Chat Interfaces	ChatGPT interface with better UI 	
+CommandCodeAI/langui	3144	MIT	media_ai	AI Chat Interfaces	UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.	
+Simon-He95/markstream-vue	3052	MIT	media_ai	AI Chat Interfaces	Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Octane, SolidJS, Svelte, Angular, and Vue 2. Mermaid, KaTeX, streaming code blocks, SSR, and virtualized histories.	
+qingchencloud/clawpanel	2941	NOASSERTION	media_ai	AI Chat Interfaces	🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言	
+deeplethe/solid-glass	2039	MIT	media_ai	AI Chat Interfaces	A design system for AI applications. Material, physical, tactile, technical.	
+AtomicBot-ai/Atomic-Chat	1951	NOASSERTION	media_ai	AI Chat Interfaces	Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V	
+u14app/neo-chat	1883	MIT	media_ai	AI Chat Interfaces	A local-first AI chat workspace for models, agents, skills, plugins, search, RAG, voice, memory, and artifacts.	
+wzc520pyfm/ant-design-x-vue	1843	MIT	media_ai	AI Chat Interfaces	Ant Design X For Vue. 🔥	
+OpenAgentPlatform/Dive	1823	MIT	media_ai	AI Chat Interfaces	Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨	
+rtk-ai/rtk	85803	Apache-2.0	media_ai	AI Coding Assistants	CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies	
+esengine/DeepSeek-Reasonix	36131	MIT	media_ai	AI Coding Assistants	A reliable coding agent for complex software engineering tasks.	
+tirth8205/code-review-graph	32630	MIT	media_ai	AI Coding Assistants	Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.	
+oraios/serena	31176	NOASSERTION	media_ai	AI Coding Assistants	A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent	
+QwenLM/qwen-code	29071	Apache-2.0	media_ai	AI Coding Assistants	An open-source AI coding agent that lives in your terminal.	
+Kilo-Org/kilocode	27894	MIT	media_ai	AI Coding Assistants	Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.	
+ParadevAI/Paradev	16065	MIT	media_ai	AI Coding Assistants	Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.	
+OrchestratorInc/agent-orchestrator	14215	Apache-2.0	media_ai	AI Coding Assistants	Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.	
+getagentseal/codeburn	11722	MIT	media_ai	AI Coding Assistants	Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn	
+cobusgreyling/loop-engineering	11716	MIT	media_ai	AI Coding Assistants	Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.	
+superplanehq/superplane	8842	NOASSERTION	media_ai	AI Coding Assistants	Open source factory for one-shot engineering	
+mvschwarz/openrig	8718	Apache-2.0	media_ai	AI Coding Assistants	Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.	
+jnMetaCode/superpowers-zh	8491	MIT	media_ai	AI Coding Assistants	🦸 AI 编程超能力 · 中文增强版 — superpowers（250k+ ⭐）完整汉化 + 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活	
+JetBrains/thinkrail	7894	Apache-2.0	media_ai	AI Coding Assistants	ThinkRail is the agentic IDE that gets better every time you use it	
+xirong/my-git	7403	MIT	media_ai	AI Coding Assistants	Git as the control plane for AI-native software engineering | AI Native 软件工程的 Git 变更控制手册	
+FlorianBruniaux/claude-code-ultimate-guide	6380	CC-BY-SA-4.0	media_ai	AI Coding Assistants	The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.	
+tw93/Kaku	6186	MIT	media_ai	AI Coding Assistants	A fast, AI-friendly Mac terminal.	
+metalbear-co/mirrord	5404	MIT	media_ai	AI Coding Assistants	Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.	
+chaitin/MonkeyCode	5088	AGPL-3.0	media_ai	AI Coding Assistants	企业级 AI 办公工作台	
+microsoft/TokenEconomizer	4933	Apache-2.0	media_ai	AI Coding Assistants	Experience-Driven Black-Box Cost Control for Coding Agents	
+zhukunpenglinyutong/desktop-cc-gui	4580	MIT	media_ai	AI Coding Assistants	Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.	
+flypythoncom/python	4193	NOASSERTION	media_ai	AI Coding Assistants	Open-source Python challenge courses — your AI coding agent teaches, verify.py decides when you're done.	
+GCWing/OpenBitFun	3945	MIT	media_ai	AI Coding Assistants	OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.	
+yvgude/lean-ctx	3934	Apache-2.0	media_ai	AI Coding Assistants	LeanCTX is the Context Gateway for AI Systems. Select task-relevant context, apply supported controls, connect local knowledge and inspect recorded evidence. Open-source Engine: CLI, MCP, hooks and supported proxy paths.	
+ilysenko/codex-desktop-linux	3928	MIT	media_ai	AI Coding Assistants	Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland a	
+ifixai-ai/iFixAi	43844	Apache-2.0	media_ai	AI Evaluation & Testing	Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.	
+confident-ai/deepeval	19349	Apache-2.0	media_ai	AI Evaluation & Testing	The LLM Evaluation Framework	
+NVIDIA/garak	9916	Apache-2.0	media_ai	AI Evaluation & Testing	the LLM vulnerability scanner	
+Tencent/AI-Infra-Guard	7422	Apache-2.0	media_ai	AI Evaluation & Testing	A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.	
+gepa-ai/gepa	7327	MIT	media_ai	AI Evaluation & Testing	Optimize prompts, code, and more with AI-powered Reflective Optimization	
+jeinlee1991/chinese-llm-benchmark	6507	NONE	media_ai	AI Evaluation & Testing	非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3.6-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型， 以及step3.5-flash、kimi-k2.6、ernie4.5、MiniMax-M2.7、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.1	
+EvolvingLMMs-Lab/lmms-eval	4490	NOASSERTION	media_ai	AI Evaluation & Testing	One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks	
+truera/trulens	3629	MIT	media_ai	AI Evaluation & Testing	Evaluation and Tracking for LLM Experiments and AI Agents	
+future-agi/future-agi	2254	Apache-2.0	media_ai	AI Evaluation & Testing	Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.	
+msoedov/agentic_security	2041	Apache-2.0	media_ai	AI Evaluation & Testing	Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪	
+huggingface/aisheets	1653	Apache-2.0	media_ai	AI Evaluation & Testing	Build, enrich, and transform datasets using AI models with no code	
+cyberark/FuzzyAI	1601	Apache-2.0	media_ai	AI Evaluation & Testing	A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.	
+microsoft/prompty	1286	MIT	media_ai	AI Evaluation & Testing	Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers. 	
+TIGER-AI-Lab/ClawBench	1223	Apache-2.0	media_ai	AI Evaluation & Testing	Open-source benchmark for browser AI agents on daily tasks.	
+cvs-health/uqlm	1217	Apache-2.0	media_ai	AI Evaluation & Testing	 [JMLR 2026] UQLM: A Python package for LLM hallucination detection using uncertainty quantification	
+unslothai/unsloth	79152	Apache-2.0	media_ai	AI Image Generation	Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.	
+calesthio/OpenMontage	78056	AGPL-3.0	media_ai	AI Image Generation	World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.	
+camenduru/stable-diffusion-webui-colab	15892	Unlicense	media_ai	AI Image Generation	stable diffusion webui colab	
+divamgupta/diffusionbee-stable-diffusion-ui	13590	AGPL-3.0	media_ai	AI Image Generation	Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.	
+Baiyuetribe/paper2gui	10702	MIT	media_ai	AI Image Generation	Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术	
+Stability-AI/StableStudio	9032	MIT	media_ai	AI Image Generation	Community interface for generative AI	
+LykosAI/StabilityMatrix	8994	AGPL-3.0	media_ai	AI Image Generation	Multi-Platform Package Manager for Stable Diffusion	
+ashawkey/stable-dreamfusion	8875	Apache-2.0	media_ai	AI Image Generation	Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.	
+carson-katri/dream-textures	8240	GPL-3.0	media_ai	AI Image Generation	Stable Diffusion built-in to Blender	
+MochiDiffusion/MochiDiffusion	7977	GPL-3.0	media_ai	AI Image Generation	Run Stable Diffusion on Mac natively	
+ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO	7957	GPL-3.0	media_ai	AI Image Generation	我的 ComfyUI 工作流合集 | My ComfyUI workflows collection	
+leejet/stable-diffusion.cpp	7932	MIT	media_ai	AI Image Generation	Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++	
+TheLastBen/fast-stable-diffusion	7909	MIT	media_ai	AI Image Generation	fast-stable-diffusion + DreamBooth	
+cloneofsimo/lora	7558	Apache-2.0	media_ai	AI Image Generation	Using Low-rank adaptation to quickly fine-tune diffusion models.	
+civitai/civitai	7315	Apache-2.0	media_ai	AI Image Generation	A repository of models, textual inversions, and more	
+AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin	7309	MIT	media_ai	AI Image Generation	A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.	
+AbdBarho/stable-diffusion-webui-docker	7301	NOASSERTION	media_ai	AI Image Generation	Easy Docker setup for Stable Diffusion with user-friendly UI	
+mylxsw/aidea	6935	MIT	media_ai	AI Image Generation	An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.	
+11cafe/jaaz	6729	NOASSERTION	media_ai	AI Image Generation	The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.	
+ChatAnyTeam/ChatAny	6482	MIT	media_ai	AI Image Generation	🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services	
+swyxio/ai-notes	6253	MIT	media_ai	AI Image Generation	notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.	
+Akegarasu/lora-scripts	6213	AGPL-3.0	media_ai	AI Image Generation	SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.	
+Fanghua-Yu/SUPIR	5694	NOASSERTION	media_ai	AI Image Generation	SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.	
+ATH-MaaS/ComfyUI-Copilot	5579	MIT	media_ai	AI Image Generation	An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance	
+philz1337x/clarity-upscaler	5170	AGPL-3.0	media_ai	AI Image Generation	Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative	
+open-mmlab/Amphion	10332	MIT	media_ai	AI Music & Audio	Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.	
+MITDeepLearning/introtodeeplearning	8865	MIT	media_ai	AI Music & Audio	Lab Materials for MIT 6.S191: Introduction to Deep Learning	
+fspecii/ace-step-ui	5185	NONE	media_ai	AI Music & Audio	🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!	
+0xShug0/audio.cpp	4100	NOASSERTION	media_ai	AI Music & Audio	An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.	
+leemysw/yovoice	2099	Apache-2.0	media_ai	AI Music & Audio	Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees.	
+salu133445/musegan	2045	MIT	media_ai	AI Music & Audio	An AI for Music Generation	
+timoncool/YuE2-Studio	1940	MIT	media_ai	AI Music & Audio	Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.	
+sgl-project/sglang-omni	1710	Apache-2.0	media_ai	AI Music & Audio	High Performance Serving Runtime For Interactive Super Intelligence System	
+jegly/Box	993	NOASSERTION	media_ai	AI Music & Audio	The most advanced, fully offline client-side AI suite on Android today.	
+Yuan-ManX/ai-audio-datasets	970	MIT	media_ai	AI Music & Audio	AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications.	
+BinWang28/audio-ai-hub	963	NONE	media_ai	AI Music & Audio	The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation.	
+Blizaine/Maestro	927	NOASSERTION	media_ai	AI Music & Audio	An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short films from a single prompt. Built on the WanGP pipeline. Install via Pinokio.	
+Natooz/MidiTok	906	MIT	media_ai	AI Music & Audio	MIDI / symbolic music tokenizers for Deep Learning models 🎶	
+tuneflow/tuneflow-py	903	MIT	media_ai	AI Music & Audio	🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥	
+OpenMOSS/AnyGPT	889	NONE	media_ai	AI Music & Audio	A unified multimodal language model based on discrete sequence modeling	
+x1xhlol/system-prompts-and-models-of-ai-tools	144541	GPL-3.0	media_ai	AI Search & Answer Engines	FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0.	
+Panniantong/Agent-Reach	109900	MIT	media_ai	AI Search & Answer Engines	Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.	
+lencx/Noi	9074	NONE	media_ai	AI Search & Answer Engines	🚀 Less chaos. More flow.	
+anysearch-ai/anysearch-skill	6846	Apache-2.0	media_ai	AI Search & Answer Engines	Unified real-time search engine skill for AI agents. Supports general web search, vertical domain search, parallel batch search, and full-page content extraction.	
+oxylabs/google-ai-mode-scraper	3632	NONE	media_ai	AI Search & Answer Engines	Scrape Google AI Mode responses without blocks on a large scale.	
+oxylabs/perplexity-scraper	3027	NONE	media_ai	AI Search & Answer Engines	Perplexity Scraper Track brand mentions, analyze rankings, and gain competitor intelligence from Perplexity. Get started in minutes.	
+srbhptl39/MCP-SuperAssistant	2628	MIT	media_ai	AI Search & Answer Engines	Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...	
+anysearch-ai/anysearch-mcp-server	2061	Apache-2.0	media_ai	AI Search & Answer Engines	Unified real-time search MCP server supporting general web search, vertical domain search, parallel batch search, and full-page URL content extraction.	
+szczyglis-dev/py-gpt	2017	NOASSERTION	media_ai	AI Search & Answer Engines	Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis and speech recognition, web search, memory, presets, canvas,	
+helallao/perplexity-ai	2013	MIT	media_ai	AI Search & Answer Engines	Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface	
+nicobailon/pi-web-access	1771	MIT	media_ai	AI Search & Answer Engines	Web search and content extraction extension for Pi coding agent	
+import-ai/omnibox	1546	Apache-2.0	media_ai	AI Search & Answer Engines	Anywhere, anything to memory, memory to anything.	
+NPC-Worldwide/npcpy	1523	MIT	media_ai	AI Search & Answer Engines	The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.	
+CommandCodeAI/BaseAI	1293	NOASSERTION	media_ai	AI Search & Answer Engines	BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.	
+pnd280/complexity	1235	MPL-2.0	media_ai	AI Search & Answer Engines	⚡ Supercharge your favourite AI Chat web apps. Currently supports Perplexity AI.	
+ATH-MaaS/Pixelle-Video	29848	Apache-2.0	media_ai	AI Video & Avatars	🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine	
+latent-spaces/brag	20637	MIT	media_ai	AI Video & Avatars	You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.	
+Wan-Video/Wan2.2	18446	Apache-2.0	media_ai	AI Video & Avatars	Wan: Open and Advanced Large-Scale Video Generative Models	
+Vincentwei1021/video-shotcraft	17590	Apache-2.0	media_ai	AI Video & Avatars	AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.	
+duixcom/Duix-Avatar	16259	NOASSERTION	media_ai	AI Video & Avatars	🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.	
+waooAI/waoowaoo	14805	NOASSERTION	media_ai	AI Video & Avatars	首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.	
+HKUDS/ViMax	12864	MIT	media_ai	AI Video & Avatars	"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"	
+NVlabs/Sana	9785	Apache-2.0	media_ai	AI Video & Avatars	SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling	
+vllm-project/vllm-omni	7603	Apache-2.0	media_ai	AI Video & Avatars	A framework for efficient model inference with omni-modality models	
+dramaclaw/dramaclaw	7374	NOASSERTION	media_ai	AI Video & Avatars	A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可	
+ArcReel/ArcReel	6248	AGPL-3.0	media_ai	AI Video & Avatars	AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production	
+AILab-CVC/VideoCrafter	5112	NOASSERTION	media_ai	AI Video & Avatars	VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models	
+darkzOGx/youtube-automation-agent	5051	MIT	media_ai	AI Video & Avatars	🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, Open	
+kaomei/stickman-video-director	4841	MIT	media_ai	AI Video & Avatars	Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.	
+nexu-io/html-video	4813	Apache-2.0	media_ai	AI Video & Avatars	Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.	
+hao-ai-lab/FastVideo	4790	Apache-2.0	media_ai	AI Video & Avatars	A unified inference and post-training framework for accelerated video generation.	
+antgroup/echomimic_v2	4676	Apache-2.0	media_ai	AI Video & Avatars	[CVPR 2025] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation	
+Tencent-Hunyuan/HunyuanVideo-1.5	4592	NOASSERTION	media_ai	AI Video & Avatars	HunyuanVideo-1.5: A leading lightweight video generation model	
+Robbyant/lingbot-world	4571	Apache-2.0	media_ai	AI Video & Avatars	Advancing Open-source World Models	
+fudan-generative-vision/champ	4262	MIT	media_ai	AI Video & Avatars	[ECCV 2024] Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance	
+GVCLab/PersonaLive	4082	Apache-2.0	media_ai	AI Video & Avatars	[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming	
+ali-vilab/VACE	4055	Apache-2.0	media_ai	AI Video & Avatars	[ICCV 2025] Official implementations for paper: VACE: All-in-One Video Creation and Editing	
+thu-ml/SageAttention	3999	Apache-2.0	media_ai	AI Video & Avatars	[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.	
+thu-ml/TurboDiffusion	3859	Apache-2.0	media_ai	AI Video & Avatars	TurboDiffusion: 100–200× Acceleration for Video Diffusion Models	
+SandAI-org/MAGI-1	3804	Apache-2.0	media_ai	AI Video & Avatars	MAGI-1: Autoregressive Video Generation at Scale	
+blader/humanizer	65885	MIT	media_ai	AI Writing & Content	Agent skill that removes signs of AI-generated writing from text	
+Narcooo/inkos	11032	AGPL-3.0	media_ai	AI Writing & Content	Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content	
+zenstory-ai/oh-story-claudecode	8386	MIT	media_ai	AI Writing & Content	AI 写网文全流程 skill 包：扫榜选材、拆解爆款、大纲细纲、长篇设定与伏笔追踪、短篇反转、去AI味与封面生成，适配 Claude Code / Codex / Antigravity / OpenCode 等 ｜ Agent skill pack for writing Chinese web novels	
+lingfengQAQ/webnovel-writer	7894	GPL-3.0	media_ai	AI Writing & Content	基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。	
+conorbronsdon/avoid-ai-writing	5465	MIT	media_ai	AI Writing & Content	Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.	
+Adkid-Zephyr/anti-defensive-writing-Skill	5418	MIT	media_ai	AI Writing & Content	极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)	
+PenglongHuang/chinese-novelist-skill	4674	MIT	media_ai	AI Writing & Content	🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill	
+geekjourneyx/md2wechat-skill	3782	NOASSERTION	media_ai	AI Writing & Content	面向 AI Agent 的微信公众号创作与发布 CLI：Markdown 排版、AI 配图、预览与草稿创建；支持由浏览器 Agent 保存知乎、CSDN、头条未发布草稿。	
+Nanako0129/sepia	3676	MIT	media_ai	AI Writing & Content	De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StorySc	
+lynote-ai/humanize-text	3485	MIT	media_ai	AI Writing & Content	Open-source AI humanizer: rewrite AI-generated text into natural, human-sounding prose. LLM rewriting + multi-engine translation, with step-by-step traces. Python CLI, n8n & Docker.	
+nanaism/yomiyasu	2892	MIT	media_ai	AI Writing & Content	AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese	
+MrGeDiao/shuorenhua	2526	MIT	media_ai	AI Writing & Content	说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.	
+EthanYoQ/Pagekin	2416	GPL-3.0	media_ai	AI Writing & Content	Pagekin，免费 AI 小说写作软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web fiction. Imitate, continue, rewrite; import writing skills. Local-first, no 	
+LingyiChen-AI/JadeAI	2007	Apache-2.0	media_ai	AI Writing & Content	AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment.	
+RhythmicWave/NovelForge	1275	AGPL-3.0	media_ai	AI Writing & Content	AI辅助长篇小说创作，卡片式创作，支持基于 JSON Schema的结构化 AI 生成与上下文引用，可扩展性强。	
+httpie/cli	38697	BSD-3-Clause	media_ai	API Dev Tools & Mocking	🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.	
+MobSF/Mobile-Security-Framework-MobSF	22160	GPL-3.0	media_ai	API Dev Tools & Mocking	Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.	
+keploy/keploy	19520	Apache-2.0	media_ai	API Dev Tools & Mocking	Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.	
+Orange-OpenSource/hurl	19307	Apache-2.0	media_ai	API Dev Tools & Mocking	Hurl, run and test HTTP requests with plain text.	
+metersphere/metersphere	13615	NOASSERTION	media_ai	API Dev Tools & Mocking	MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。	
+httpie/http-prompt	9108	MIT	media_ai	API Dev Tools & Mocking	An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie	
+ducaale/xh	8173	MIT	media_ai	API Dev Tools & Mocking	Friendly and fast tool for sending HTTP requests	
+postmanlabs/newman	7274	Apache-2.0	media_ai	API Dev Tools & Mocking	Newman is a command-line collection runner for Postman	
+s0md3v/Arjun	6435	AGPL-3.0	media_ai	API Dev Tools & Mocking	HTTP parameter discovery suite.	
+cypress-io/cypress-realworld-app	5916	MIT	media_ai	API Dev Tools & Mocking	A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.	
+httpie/desktop	4055	NOASSERTION	media_ai	API Dev Tools & Mocking	🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.	
+schemathesis/schemathesis	3752	MIT	media_ai	API Dev Tools & Mocking	Catch API bugs before your users do	
+foss42/apidash	2951	Apache-2.0	media_ai	API Dev Tools & Mocking	API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A light	
+flawiddsouza/Restfox	2779	MIT	media_ai	API Dev Tools & Mocking	Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop	
+TommyLemon/APIAuto	2222	Apache-2.0	media_ai	API Dev Tools & Mocking	☔ 敏捷开发最强大易用的接口工具，机器学习零代码测试与 AI 问答、生成代码与静态检查、生成文档与光标悬浮注释，腾讯、华为、SHEIN、传音、工行等使用 ☔ The most advanced tool for HTTP API. Machine learning no-code testing and AI assistant, generating codes and static analysis, generating comments and floating hints. Used by Tencent	
+Kong/insomnia-mockbin	2056	NOASSERTION	media_ai	API Dev Tools & Mocking	Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway. 	
+unkn0wn-root/resterm	2010	Apache-2.0	media_ai	API Dev Tools & Mocking	Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE. Plain .http files you can diff and version, with scripted tests, workflows, mocks, recorder, and a CLI runner for CI.	
+ahujasid/ableton-mcp	3317	MIT	media_ai	Audio Production & DAW	Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP	
+zrythm/zrythm	3189	NOASSERTION	media_ai	Audio Production & DAW	a highly automated and intuitive digital audio workstation - official mirror	
+andremichelle/openDAW	2426	AGPL-3.0	media_ai	Audio Production & DAW	openDAW is a next-generation web-based Digital Audio Workstation (DAW)	
+free-audio/clap	2368	MIT	media_ai	Audio Production & DAW	Audio Plugin API	
+monocasual/giada	2116	GPL-3.0	media_ai	Audio Production & DAW	Your Hardcore Loop Machine.	
+rserota/wad	1985	MIT	media_ai	Audio Production & DAW	Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears. 	
+gridsound/daw	1892	AGPL-3.0	media_ai	Audio Production & DAW	GridSound (2.60.0) is a work-in-progress free browser-based digital audio workstation following the Web Audio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️	
+naomiaro/waveform-playlist	1688	MIT	media_ai	Audio Production & DAW	Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audac	
+MeadowlarkDAW/Meadowlark	1498	AGPL-3.0	media_ai	Audio Production & DAW	A (currently incomplete) open-source Digital Audio Workstation	
+Tracktion/tracktion_engine	1466	NOASSERTION	media_ai	Audio Production & DAW	Tracktion Engine module	
+DBraun/DawDreamer	1344	GPL-3.0	media_ai	Audio Production & DAW	Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors	
+stargatedaw/stargate	886	GPL-3.0	media_ai	Audio Production & DAW	Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor	
+shibco/ableton-linux	851	LGPL-2.1	media_ai	Audio Production & DAW	Run Ableton 12 and Push on Linux	
+Ka1-S/LYNX-SHARE	749	AGPL-3.0	media_ai	Audio Production & DAW	LYNX SHARE — lightweight open-source DAW in C++20/JUCE with the FL Studio workflow: Channel Rack, Piano Roll, Playlist, Mixer and .flp import	
+VASTDynamics/Vaporizer2	602	GPL-3.0	media_ai	Audio Production & DAW	Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin	
+ColorlibHQ/AdminLTE	45678	MIT	media_ai	BI & Dashboards	AdminLTE - Free admin dashboard template based on Bootstrap 5	
+tabler/tabler	42018	MIT	media_ai	BI & Dashboards	Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.	
+plotly/dash	24478	MIT	media_ai	BI & Dashboards	Data Apps & Dashboards for Python. No JavaScript Required.	
+prometheus-operator/kube-prometheus	7759	Apache-2.0	media_ai	BI & Dashboards	Use Prometheus to monitor Kubernetes and applications running on Kubernetes	
+holoviz/panel	5821	BSD-3-Clause	media_ai	BI & Dashboards	Panel: The powerful data exploration & web app framework for Python	
+puikinsh/Adminator-admin-dashboard	4686	MIT	media_ai	BI & Dashboards	Adminator is easy to use and well design admin dashboard template with dark mode for web apps, websites, services and more	
+dotdc/grafana-dashboards-kubernetes	3830	Apache-2.0	media_ai	BI & Dashboards	A set of modern Grafana dashboards for Kubernetes.	
+lowdefy/lowdefy	3021	Apache-2.0	media_ai	BI & Dashboards	Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language.	
+horizon-ui/horizon-ui-chakra	2907	MIT	media_ai	BI & Dashboards	Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!	
+puikinsh/Bootstrap-Admin-Template	2857	MIT	media_ai	BI & Dashboards	Metis - Free Bootstrap 5 Admin Dashboard Template	
+cruip/tailwind-dashboard-template	2856	NONE	media_ai	BI & Dashboards	Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by	
+weaveworks/grafanalib	1980	Apache-2.0	media_ai	BI & Dashboards	Python library for building Grafana dashboards	
+pratikborsadiya/vali-admin	1549	MIT	media_ai	BI & Dashboards	Free Bootstrap 5 admin/dashboard template	
+ExpediaGroup/cyclotron	1539	MIT	media_ai	BI & Dashboards	A web platform for constructing dashboards.	
+HanSolo/tilesfx	1517	Apache-2.0	media_ai	BI & Dashboards	A JavaFX library containing tiles that can be used for dashboards.	
+agentscope-ai/agentscope	35551	Apache-2.0	media_ai	Chatbot & Voice Assistants	Build and run agents you can see, understand and trust.	
+Fosowl/agenticSeek	27634	GPL-3.0	media_ai	Chatbot & Voice Assistants	Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.	
+Priler/jarvis	3010	NOASSERTION	media_ai	Chatbot & Voice Assistants	Offline voice assistant that respects your privacy. Forged in Rust. WIP.	
+moltis-org/moltis	2944	MIT	media_ai	Chatbot & Voice Assistants	A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.	
+xzf-thu/VoiceMem	2892	Apache-2.0	media_ai	Chatbot & Voice Assistants	Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the funda	
+wwbin2017/bailing	1793	MIT	media_ai	Chatbot & Voice Assistants	百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，接入openClaw，真正的个人语音助手，时延低至800ms，Mac等低配置也可运行，支持打断	
+DicioTeam/dicio-android	1540	GPL-3.0	media_ai	Chatbot & Voice Assistants	Dicio assistant app for Android	
+wilbowes/EchoMuse	1416	MIT	media_ai	Chatbot & Voice Assistants	A local voice assistant for Home Assistant on old Amazon Echoes, with no Amazon software left on them: our own Linux userspace (emOS), our own audio pipeline, and a wake word that runs on the Echo, so nothing is sent until you say it.	
+janvarev/Irene-Voice-Assistant	1187	NOASSERTION	media_ai	Chatbot & Voice Assistants	Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины.	
+dext0r/yandex_smart_home	1094	MIT	media_ai	Chatbot & Voice Assistants	Управление устройствами из Home Assistant через Алису (Умный дом Яндекса) или Марусю	
+kishanrajput23/Jarvis-Desktop-Voice-Assistant	1048	MIT	media_ai	Chatbot & Voice Assistants	A python based desktop voice assistant capable of executing system-level commands, integrating speech recognition and text-to-speech, and handling asynchronous user interactions.	
+ggeop/Python-ai-assistant	1016	MIT	media_ai	Chatbot & Voice Assistants	Python AI assistant 🧠	
+xvirobotics/metabot	1005	MIT	media_ai	Chatbot & Voice Assistants	构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。	
+beiyege-01/dsh-voice-ai-girlfriend	989	NOASSERTION	media_ai	Chatbot & Voice Assistants	语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。	
+ethanplusai/jarvis	961	NOASSERTION	media_ai	Chatbot & Voice Assistants	JARVIS — a voice assistant for Claude Code. Talk to your Mac and he brainstorms a project with you, builds it, and tells you out loud when a Claude Code session needs you. macOS, on your Claude subscription, no API key.	
+ultralytics/yolov5	58254	AGPL-3.0	media_ai	Computer Vision	Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.	
+open-mmlab/mmdetection	33025	Apache-2.0	media_ai	Computer Vision	OpenMMLab Detection Toolbox and Benchmark	
+WZMIAOMIAO/deep-learning-for-image-processing	26446	GPL-3.0	media_ai	Computer Vision	deep learning for image processing including classification and object-detection etc.	
+matterport/Mask_RCNN	25575	NOASSERTION	media_ai	Computer Vision	Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow	
+PaddlePaddle/PaddleDetection	14460	Apache-2.0	media_ai	Computer Vision	Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.	
+jacobgil/pytorch-grad-cam	13011	MIT	media_ai	Computer Vision	Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.	
+extreme-assistant/CVPR2024-Paper-Code-Interpretation	12459	NONE	media_ai	Computer Vision	cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理	
+autogluon/autogluon	10818	Apache-2.0	media_ai	Computer Vision	Fast and Accurate ML in 3 Lines of Code	
+IDEA-Research/GroundingDINO	10734	Apache-2.0	media_ai	Computer Vision	[ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"	
+Megvii-BaseDetection/YOLOX	10692	Apache-2.0	media_ai	Computer Vision	YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/	
+ultralytics/yolov3	10632	AGPL-3.0	media_ai	Computer Vision	PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export.	
+satellite-image-deep-learning/techniques	10300	Apache-2.0	media_ai	Computer Vision	Techniques for deep learning with satellite & aerial imagery	
+roboflow/rf-detr	10000	Apache-2.0	media_ai	Computer Vision	RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026] 	
+dusty-nv/jetson-inference	9034	MIT	media_ai	Computer Vision	Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.	
+OlafenwaMoses/ImageAI	8894	MIT	media_ai	Computer Vision	A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities	
+amusi/daily-paper-computer-vision	6802	NONE	media_ai	Computer Vision	记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文	
+open-mmlab/mmdetection3d	6572	Apache-2.0	media_ai	Computer Vision	OpenMMLab's next-generation platform for general 3D object detection.	
+RangiLyu/nanodet	6276	Apache-2.0	media_ai	Computer Vision	NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥	
+dmlc/gluon-cv	5913	Apache-2.0	media_ai	Computer Vision	Gluon CV Toolkit	
+meituan/YOLOv6	5894	GPL-3.0	media_ai	Computer Vision	YOLOv6: a single-stage object detection framework dedicated to industrial applications.	
+open-mmlab/OpenPCDet	5761	Apache-2.0	media_ai	Computer Vision	OpenPCDet Toolbox for LiDAR-based 3D Object Detection.	
+obss/sahi	5591	MIT	media_ai	Computer Vision	Framework agnostic sliced/tiled inference + interactive ui + error analysis plots	
+roboflow/sports	5476	MIT	media_ai	Computer Vision	computer vision and sports	
+rafaelpadilla/Object-Detection-Metrics	5101	MIT	media_ai	Computer Vision	Most popular metrics used to evaluate object detection algorithms.	
+fundamentalvision/BEVFormer	4644	Apache-2.0	media_ai	Computer Vision	[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.	
+mrzh7/scam-with-your-friends-web	248	MIT	media_ai	Contact Center & Support	Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare. Русский язык: кооперативная браузерная игра про колл-центр с ИИ.	
+goautodial/v4.0	148	NONE	media_ai	Contact Center & Support	GOautodial is the next generation open source omni-channel contact center suite. Built from the ground up using established open source technologies.	
+aws-samples/amazon-transcribe-live-call-analytics	133	NOASSERTION	media_ai	Contact Center & Support	Amazon Transcribe Live Call Analytics (LCA) Sample Solution	
+lihaiya/freeipcc	129	Apache-2.0	media_ai	Contact Center & Support	Call Center，Contact Center，AI，呼叫中心，客服系统，工单系统，智能外呼，大模型呼叫中心，智能呼叫中心，FreeSWITCH	
+fonoster/goodtok	100	MIT	media_ai	Contact Center & Support	A better shopping experience 🤙	
+arbazsiddiqui/voxlock	98	Apache-2.0	media_ai	Contact Center & Support	The best performing voice isolator there is. Keeps the caller's voice and removes the other voices in the room before speech-to-text hears them. Open source, streaming, runs on CPU and in the browser. pip install voxlock	
+braze-inc/braze-web-sdk	87	NOASSERTION	media_ai	Contact Center & Support	Public repo for the Braze Web SDK	
+mahirgul/AiPBX	83	NOASSERTION	media_ai	Contact Center & Support	Open-source IP PBX & unified communications: Asterisk 22 web portal, WebRTC softphone, chat, fax, call center, Android & iOS apps — https://aipbx.bid	
+brightbeanxyz/brightbean-chat	83	AGPL-3.0	media_ai	Contact Center & Support	Open-source, self-hostable chat automation. Build visual flows, run them on Instagram, WhatsApp, Messenger, Telegram, SMS, and email. Comment-to-DM, shared inbox, broadcasts, drip sequences, analytics. Free alternative to ManyChat.	
+braze-inc/braze-swift-sdk	72	NOASSERTION	media_ai	Contact Center & Support	Braze SDK for the Apple ecosystem, including: iOS, macOS, iPadOS, visionOS, tvOS	
+mehcsbegzz/contact-center	71	Apache-2.0	media_ai	Contact Center & Support	一个基于 Spring Cloud 的微服务客服系统	
+WebexSamples/webex-contact-center-api-samples	66	NOASSERTION	media_ai	Contact Center & Support	Official Code samples & snippets repository for Webex Contact Center APIs	
+rasonyang/cascade-realtime-gateway	64	Apache-2.0	media_ai	Contact Center & Support	Self-hosted voice gateway in Go that speaks the OpenAI Realtime (GA) WebSocket protocol and runs a cascaded ASR → LLM → TTS pipeline behind it. Keep clients unchanged while swapping speech and LLM providers at runtime	
+aws-samples/sample-multilingual-ivr-contact-center-for-amazon-connect	55	MIT-0	media_ai	Contact Center & Support	Deploys a multilingual IVR contact center on Amazon Connect with one AWS CDK stack: caller identification, per-agent case isolation, returning-caller routing, supervisor case assignment and voicemail-to-case with Voicemail Express.	
+automagik-dev/omni	49	Apache-2.0	media_ai	Contact Center & Support	Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform	
+apache/gravitino	3349	Apache-2.0	media_ai	Data Catalogs	World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.	
+elementary-data/elementary	2430	Apache-2.0	media_ai	Data Catalogs	The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.	
+reata/sqllineage	1684	MIT	media_ai	Data Catalogs	SQL Lineage Analysis Tool powered by Python	
+lakekeeper/lakekeeper	1502	Apache-2.0	media_ai	Data Catalogs	Apache Iceberg REST Catalog in Rust — access control, credential vending and audit for every engine and AI agent. Apache 2.0.	
+datacontract/datacontract-cli	1107	MIT	media_ai	Data Catalogs	Open-source data contract testing for Snowflake, Databricks, BigQuery, Kafka & 15 more. Built on the Open Data Contract Standard (ODCS). MIT.	
+intake/intake	1087	BSD-2-Clause	media_ai	Data Catalogs	Intake is a lightweight package for finding, investigating, loading and disseminating data.	
+odpi/egeria	926	Apache-2.0	media_ai	Data Catalogs	Egeria core	
+marmotdata/marmot	634	MIT	media_ai	Data Catalogs	The open-source context layer for your AI. Catalog your tables, topics, queues and APIs then expose real metadata to your AI agents.	
+Titan-Systems/titan	487	Apache-2.0	media_ai	Data Catalogs	Titan Core - Snowflake infrastructure-as-code. Provision environments, automate deploys, CI/CD. Manage RBAC, users, roles, and data access. Declarative Python Resource API. Change Management tool for the Snowflake data warehouse.	
+gabledata/recap	353	MIT	media_ai	Data Catalogs	Work with your web service, database, and streaming schemas in a single format.	
+tuva-health/tuva-core	334	Apache-2.0	media_ai	Data Catalogs	Main repo including core data model, data marts, data quality tests, and terminology sets.	
+data-drift/data-drift	332	GPL-3.0	media_ai	Data Catalogs	Metrics Observability & Troubleshooting	
+halofyai/halofy	319	AGPL-3.0	media_ai	Data Catalogs	Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.	
+AgentSwarms-fyi/agentswarms	295	NOASSERTION	media_ai	Data Catalogs	Unified Agentic AI and Data Platform	
+geolens-io/geolens	291	Apache-2.0	media_ai	Data Catalogs	Self-hosted geospatial data catalog with semantic search (pgvector), OGC/STAC APIs, and map builder. Built on FastAPI, PostGIS, React, and MapLibre.	
+yatengLG/ISAT_with_segment_anything	2202	NOASSERTION	media_ai	Data Labeling	Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具	
+UniversalDataTool/universal-data-tool	2074	MIT	media_ai	Data Labeling	Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.	
+code-kern-ai/refinery	1472	Apache-2.0	media_ai	Data Labeling	The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact.	
+bk138/gromit-mpx	1432	GPL-2.0	media_ai	Data Labeling	Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as XWayland.	
+xtreme1-io/xtreme1	1387	Apache-2.0	media_ai	Data Labeling	Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.	
+midas-research/audino	1148	NOASSERTION	media_ai	Data Labeling	Open source audio annotation tool for humans	
+DmytroVasin/DrawPen	1077	MIT	media_ai	Data Labeling	DrawPen is a simple screen annotation. Available on macOS, Windows & Linux.	
+expressive-code/expressive-code	969	MIT	media_ai	Data Labeling	A text marking & annotation engine for presenting source code on the web.	
+dokieli/dokieli	894	Apache-2.0	media_ai	Data Labeling	:bulb: dokieli is a clientside editor for decentralised article publishing, annotations and social interactions	
+annotorious/annotorious	870	BSD-3-Clause	media_ai	Data Labeling	Add image annotation functionality to any web page with a few lines of JavaScript.	
+OvidijusParsiunas/myvision	609	GPL-3.0	media_ai	Data Labeling	Computer vision based ML training data generation tool :rocket:	
+l3p-cv/lost	580	MIT	media_ai	Data Labeling	Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.	
+ryouchinsa/Rectlabel-support	552	NONE	media_ai	Data Labeling	RectLabel is an offline image annotation tool for object detection and segmentation.	
+alteryx/compose	515	BSD-3-Clause	media_ai	Data Labeling	A machine learning tool for automated prediction engineering. It allows you to easily structure prediction problems and generate labels for supervised learning.	
+explosion/prodigy-recipes	511	NONE	media_ai	Data Labeling	🍳 Recipes for the Prodigy, our fully scriptable annotation tool	
+d3/d3	113876	ISC	media_ai	Data Visualization Libraries	Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:	
+helm/helm	30400	Apache-2.0	media_ai	Data Visualization Libraries	The Kubernetes Package Manager	
+plotly/plotly.js	18376	MIT	media_ai	Data Visualization Libraries	Open-source JavaScript charting library behind Plotly and Dash	
+tradingview/lightweight-charts	17798	Apache-2.0	media_ai	Data Visualization Libraries	Performant financial charts built with HTML5 canvas	
+apexcharts/apexcharts.js	15186	NOASSERTION	media_ai	Data Visualization Libraries	📊 Interactive JavaScript Charts built on SVG	
+primefaces/primeng	12480	NOASSERTION	media_ai	Data Visualization Libraries	The Most Complete Angular UI Component Library	
+bitnami/charts	10427	NOASSERTION	media_ai	Data Visualization Libraries	Bitnami Helm Charts	
+NorthwoodsSoftware/GoJS	8502	NOASSERTION	media_ai	Data Visualization Libraries	JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.	
+primefaces/primereact	8311	MIT	media_ai	Data Visualization Libraries	The Most Complete React UI Component Library	
+antvis/F2	7995	MIT	media_ai	Data Visualization Libraries	📱📈An elegant, interactive and flexible charting library for mobile.	
+go-echarts/go-echarts	7658	MIT	media_ai	Data Visualization Libraries	🎨 The adorable charts library for Golang.	
+imaNNeo/fl_chart	7591	MIT	media_ai	Data Visualization Libraries	FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart.	
+reactchartjs/react-chartjs-2	6938	MIT	media_ai	Data Visualization Libraries	React components for Chart.js, the most popular charting library	
+ScottPlot/ScottPlot	6802	MIT	media_ai	Data Visualization Libraries	Interactive plotting library for .NET	
+larashero3-dotcom/lieflat-charts	6757	NOASSERTION	media_ai	Data Visualization Libraries	Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。	
+ChartsCSS/charts.css	6583	MIT	media_ai	Data Visualization Libraries	Open source CSS framework for data visualization.	
+ankane/chartkick	6526	MIT	media_ai	Data Visualization Libraries	Create beautiful JavaScript charts with one line of Ruby	
+shutterstock/rickshaw	6503	MIT	media_ai	Data Visualization Libraries	 JavaScript toolkit for creating interactive real-time graphs	
+prometheus-community/helm-charts	6228	Apache-2.0	media_ai	Data Visualization Libraries	Prometheus community Helm charts	
+livebook-dev/livebook	5911	Apache-2.0	media_ai	Data Visualization Libraries	Automate code & data workflows with interactive Elixir notebooks	
+Mathieu2301/TradingView-API	5834	NONE	media_ai	Data Visualization Libraries	📈 Get real-time stocks from TradingView	
+AppPear/ChartView	5648	MIT	media_ai	Data Visualization Libraries	ChartView made in SwiftUI	
+vega/vega-lite	5546	BSD-3-Clause	media_ai	Data Visualization Libraries	A concise grammar of interactive graphics, built on Vega.	
+observablehq/plot	5420	ISC	media_ai	Data Visualization Libraries	A concise API for exploratory data visualization implementing a layered grammar of graphics	
+diogobernardino/williamchart	5092	NONE	media_ai	Data Visualization Libraries	Android Library to rapidly develop attractive and insightful charts in android applications.	
+apache/datafusion	9574	Apache-2.0	media_ai	Databases & Analytics Engines	Apache DataFusion SQL Query Engine	
+DataLinkDC/dinky	3779	Apache-2.0	media_ai	Databases & Analytics Engines	Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.	
+ClickHouse/clickhouse-go	3356	Apache-2.0	media_ai	Databases & Analytics Engines	Golang driver for ClickHouse	
+hello245m/free-stockdb	3138	MIT	media_ai	Databases & Analytics Engines	面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。	
+heavyai/heavydb	3121	Apache-2.0	media_ai	Databases & Analytics Engines	HeavyDB (formerly MapD/OmniSciDB)	
+hydradatabase/columnar	3041	Apache-2.0	media_ai	Databases & Analytics Engines	Postgres-native columnar storage extension	
+chdb-io/chdb	2926	Apache-2.0	media_ai	Databases & Analytics Engines	chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 	
+apache/datafusion-ballista	2170	Apache-2.0	media_ai	Databases & Analytics Engines	Apache DataFusion Ballista Distributed Query Engine	
+risinglightdb/risinglight	1847	Apache-2.0	media_ai	Databases & Analytics Engines	An educational OLAP database system.	
+collabH/bigdata-growth	1840	MIT	media_ai	Databases & Analytics Engines	大数据知识仓库涉及到数据仓库建模、实时计算、大数据、数据中台、系统设计、Java、算法等。	
+cnosdb/cnosdb	1754	AGPL-3.0	media_ai	Databases & Analytics Engines	A cloud-native open source distributed time series database with high performance, high compression ratio and high availability.	
+apache/cloudberry	1439	Apache-2.0	media_ai	Databases & Analytics Engines	One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.	
+cloudera/hue	1409	Apache-2.0	media_ai	Databases & Analytics Engines	Open source SQL Query Assistant service for Databases/Warehouses	
+GoogleCloudPlatform/bigquery-utils	1314	Apache-2.0	media_ai	Databases & Analytics Engines	Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.	
+nakabonne/tstorage	1255	Apache-2.0	media_ai	Databases & Analytics Engines	An embedded time-series database	
+storytold/vectorcraft	11468	Apache-2.0	media_ai	Design Tools	VectorCraft: An open-source, vector art tool written by scratch in pure Rust	
+lnkiai/m3e-canvas	10194	MIT	media_ai	Design Tools	Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.	
+rawgraphs/rawgraphs-app	9054	Apache-2.0	media_ai	Design Tools	A web interface to create custom vector-based visualizations on top of RAWGraphs core	
+jonobr1/two.js	8699	MIT	media_ai	Design Tools	A renderer agnostic two-dimensional drawing api for the web	
+PixiEditor/PixiEditor	8128	LGPL-3.0	media_ai	Design Tools	PixiEditor is a Universal Editor for all your 2D needs	
+visioncortex/vtracer	7480	MIT	media_ai	Design Tools	Raster to Vector Graphics Converter	
+ecomfe/zrender	6310	BSD-3-Clause	media_ai	Design Tools	A lightweight graphic library providing 2d draw for Apache ECharts	
+ly525/luban-h5	6249	GPL-3.0	media_ai	Design Tools	[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.	
+methodofaction/Method-Draw	3020	MIT	media_ai	Design Tools	Method Draw, the SVG Editor for Method of Action	
+MewPurPur/GodSVG	2793	MIT	media_ai	Design Tools	A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.	
+javierbyte/img2css	2501	BSD-3-Clause	media_ai	Design Tools	Convert any image to pure CSS. Recreates images using only box-shadows.	
+shaongitbd/doory	2475	NOASSERTION	media_ai	Design Tools	Open source canva alternative	
+synfig/synfig	2374	GPL-3.0	media_ai	Design Tools	This is the Official source code repository of Synfig Studio animation software	
+tangrams/tangram	2338	MIT	media_ai	Design Tools	WebGL map rendering engine for creative cartography	
+thorvg/thorvg	1907	MIT	media_ai	Design Tools	A production-ready C++ vector graphics engine supporting SVG and Lottie formats, featuring advanced rendering backends such as WebGPU for high-performance graphics.	
+peach-mitao/peach	14673	AGPL-3.0	media_ai	Digital Asset Management	Peach: Local-first video metadata scraper and media manager.	
+manyfold3d/manyfold	2233	AGPL-3.0	media_ai	Digital Asset Management	A self-hosted digital asset manager for 3d print files.	
+rockchip-linux/mpp	1109	NONE	media_ai	Digital Asset Management	Media Process Platform (MPP) module	
+n1crack/vuefinder	606	MIT	media_ai	Digital Asset Management	A sleek, developer-friendly file manager for Vue — organize, preview, and manage files with ease.	
+hacan359/tonkatsu_box	602	MIT	media_ai	Digital Asset Management	Free open-source app to organize collections of retro games, movies, TV shows & anime. Track progress, rate favorites, create visual boards, share with friends. Flutter · Windows · Android · Linux · MacOS	
+ShotHeadman/mdcz	455	GPL-3.0	media_ai	Digital Asset Management	JAV 影片元数据刮削与媒体库整理工具 | JAV metadata scraper for Emby/Jellyfin/Kodi: NFO, auto-rename, Desktop + WebUI/Docker	
+miragecoa/AI-Cubby	383	AGPL-3.0	media_ai	Digital Asset Management	Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。	
+HermanChen/mpp	314	NONE	media_ai	Digital Asset Management	Rockchip MPP(Media Process Platfrom)	

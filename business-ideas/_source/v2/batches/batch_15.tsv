@@ -1,0 +1,380 @@
+snarfed/granary	516	CC0-1.0	web	Fediverse & Social Networks	💬 The social web translator	
+kensanata/mastodon-archive	418	GPL-3.0	web	Fediverse & Social Networks	Archive your statuses, favorites and media using the Mastodon API (i.e. login required)	
+mlabonne/llm-course	84945	Apache-2.0	web	Feedback Boards & Roadmaps	Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.	
+semantic-release/semantic-release	24162	MIT	web	Feedback Boards & Roadmaps	📦🚀 Fully automated version management and package publishing	
+release-it/release-it	9083	MIT	web	Feedback Boards & Roadmaps	🚀 Automate versioning and package publishing	
+conventional-changelog/conventional-changelog	8528	ISC	web	Feedback Boards & Roadmaps	Generate changelogs and release notes from a project's commit messages and metadata.	
+conventional-changelog/standard-version	7984	ISC	web	Feedback Boards & Roadmaps	:trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org	
+github-changelog-generator/github-changelog-generator	7541	MIT	web	Feedback Boards & Roadmaps	Automatically generate change log from your tags, issues, labels and pull requests on GitHub.	
+git-quick-stats/git-quick-stats	7009	MIT	web	Feedback Boards & Roadmaps	▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.	
+olivierlacan/keep-a-changelog	6751	MIT	web	Feedback Boards & Roadmaps	If you build software, keep a changelog.	
+cheatsnake/backend-cheats	5264	MIT	web	Feedback Boards & Roadmaps	📃 White paper for Backend developers	
+tlbootcamp/tlroadmap	5132	CC-BY-SA-4.0	web	Feedback Boards & Roadmaps	Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.	
+arthurspk/guiadofrontend	2913	MIT	web	Feedback Boards & Roadmaps	Guia de Front-end: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.	
+arthurspk/guiadecybersecurity	2484	MIT	web	Feedback Boards & Roadmaps	Guia de Cyber Security: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.	
+arthurspk/guiadobackend	2452	MIT	web	Feedback Boards & Roadmaps	Guia de Back-end: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.	
+rezaduty/cybersecurity-career-path	2311	MIT	web	Feedback Boards & Roadmaps	Cybersecurity Career Path	
+javiersantos/AppUpdater	2022	Apache-2.0	web	Feedback Boards & Roadmaps	A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 9+ required.	
+localsend/localsend	97714	Apache-2.0	web	File Sharing	An open-source cross-platform alternative to AirDrop	
+9001/copyparty	47271	MIT	web	File Sharing	Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file	
+schollz/croc	40876	MIT	web	File Sharing	Easily and securely send things from one computer to another :crocodile: :package:	
+sigoden/dufs	11052	Apache-2.0	web	File Sharing	A file server that supports static serving, uploading, searching, accessing control, webdav...	
+timvisee/ffsend	7423	GPL-3.0	web	File Sharing	:mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.	
+onionshare/onionshare	7214	NOASSERTION	web	File Sharing	Securely and anonymously share files, host websites, and chat with friends using the Tor network	
+kalcaddle/KodExplorer	6396	NONE	web	File Sharing	A web based file manager,web IDE / browser based code editor	
+openssh/openssh-portable	4098	NOASSERTION	web	File Sharing	Portable OpenSSH	
+kalcaddle/kodbox	3365	NONE	web	File Sharing	kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run kodbox either online or locally,on Linux, Windows or Mac based	
+pglombardo/PasswordPusher	3246	Apache-2.0	web	File Sharing	🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.	
+kyantech/Palmr	2394	Apache-2.0	web	File Sharing	🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamles	
+denislupookov/altersend	2142	NOASSERTION	web	File Sharing	Send files directly between devices over the internet - no cloud storage, no size limits.	
+projectsend/projectsend	2052	GPL-2.0	web	File Sharing	Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.	
+nextcloud-snap/nextcloud-snap	1847	GPL-3.0	web	File Sharing	☁️📦 Nextcloud packaged as a snap	
+root-gg/plik	1839	NOASSERTION	web	File Sharing	Plik is a temporary file upload system (Wetransfer like) in Go.	
+flarum/framework	6765	MIT	web	Forums	Simple forum software for building great communities.	
+lobsters/lobsters	4860	NOASSERTION	web	Forums	Computing-focused community centered around link aggregation and discussion	
+rocboss/paopao-ce	4502	MIT	web	Forums	A scalable social community platform powered by Gin backend and modern TypeScript/Vue frontend architecture	
+UnityCommunity/UnityLibrary	4412	MIT	web	Forums	:books: Library of all kind of scripts, snippets & shaders for Unity	
+frontendbr/forum	4229	MIT	web	Forums	Portando discussões para o GitHub Discussions	
+ruby-china/homeland	3859	MIT	web	Forums	:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.	
+mlogclub/bbs-go	3503	GPL-3.0	web	Forums	A lightweight community and Q&A platform for forums, knowledge bases, and discussions.一个轻量级社区和问答平台。	
+88250/symphony	2952	AGPL-3.0	web	Forums	🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com	
+flaskbb/flaskbb	2665	NOASSERTION	web	Forums	A classic Forum Software in Python using Flask.	
+KunMoe/kun-galgame-forum	2241	AGPL-3.0	web	Forums	🐳 The CUTEST visualnovel / galgame forum! Built with Nuxt4, GO Fiber and PostgreSQL. Kun Visual Novel forum 6th generation! 开源, 免费, 零门槛, 最先进的 Galgame 论坛社区!	
+Qbian61/forum-java	1743	AGPL-3.0	web	Forums	一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java（spring boot）.	
+Kunena/Kunena-Forum	1730	GPL-3.0	web	Forums	Kunena Forum - Forum / Bulletin Board / Discussions component for Joomla - This is the 6.x/5.x main development branch. Please do not open issues regarding earlier versions of Kunena	
+nitely/Spirit	1187	MIT	web	Forums	Spirit is a modern Python/Django forum	
+diyhi/bbs	1087	AGPL-3.0	web	Forums	巡云轻论坛是一款基于 JDK21 + Spring Boot 4.x 构建的现代社区系统，采用前后端分离架构，自适应移动端与 PC 端。系统集成论坛与问答模块。针对高频访问数据表引入分表存储策略，有效解决单表性能瓶颈。论坛全面适配国产信创达梦数据库及 MySQL，是追求极致性能与合规性的现代社区首选方案。  演示站：https://bbs3.diyhi.com	
+firestormforum/firestorm	969	MIT	web	Forums	An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.	
+vogler/free-games-claimer	4281	AGPL-3.0	web	Giveaways & Contests	Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.	
+kth-competitive-programming/kactl	3610	NONE	web	Giveaways & Contests	KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)	
+sjsakib/cfviz	1186	NONE	web	Giveaways & Contests	Visualizes user data from codeforces.com using the official API	
+jagrosh/GiveawayBot	762	Apache-2.0	web	Giveaways & Contests	🎉 Hold giveaways quickly and easily on your Discord server!	
+amfoss/join.amfoss.in	468	MIT	web	Giveaways & Contests	For Joining FOSS@Amrita	
+Vedza/NitroSniperGo	394	GPL-2.0	web	Giveaways & Contests	Discord Nitro sniper and Giveaway joiner in Go (Faster than Python and Javascript) (UPDATED Free 24/7 w/ Heroku) 	
+luovicter-collab/bilibinggo	388	NONE	web	Giveaways & Contests	Binggo · 开源 B站抽奖助手（哔哩哔哩抽奖工具）— 本机自动发现活动，一键/三连参与。	
+dfrnoch/discord-sniper	214	MIT	web	Giveaways & Contests	🔰 Discord Nitro & Giveaway sniper! Made with Python	
+chenyuliu577-cyber/jyd-rv32i-fpga-core	156	MIT	web	Giveaways & Contests	Educational RV32I FPGA CPU/SoC project organized for JYD RISC-V contest-style Vivado reconstruction and verification.	
+dlresende/extreme-carpaccio	128	BSD-3-Clause	web	Giveaways & Contests	Slicing and coding game	
+backmeupplz/randymbot	100	MIT	web	Giveaways & Contests	@randymbot: a Telegram bot that runs raffles and giveaways in groups and channels and picks a random winner	
+Xquik-dev/tweetclaw	95	MIT	web	Giveaways & Contests	OpenClaw Twitter plugin, a Twitter bot for automation, to scrape tweets & export followers. Not affiliated with X Corp.	
+unneon/icie	88	MPL-2.0	web	Giveaways & Contests	Competitive programming IDE-as-a-VS-Code-plugin	
+mohandsakr/my-problem-solving-solutions-on-codeforces.com	86	NONE	web	Giveaways & Contests	It is my solution to the problems on the codeforces.com site. note this is not my coding style it is just for the fast writing in problem-solving contests	
+Tlf/tlf	84	GPL-2.0	web	Giveaways & Contests	TLF - a console based ham radio contest logger	
+terminusdb/terminusdb	3472	Apache-2.0	web	Headless CMS	TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff, and query your data with Datalog.	
+splitbee/react-notion	3000	MIT	web	Headless CMS	A fast React renderer for Notion pages 	
+wpengine/faustjs	1610	NOASSERTION	web	Headless CMS	Faust.js™ - The Headless WordPress Toolkit	
+9d8dev/next-wp	1305	MIT	web	Headless CMS	Headless WordPress built with the Next.js App Router and React Server Components	
+dotCMS/core	971	NOASSERTION	web	Headless CMS	The Visual Headless Content Management System for Enterprises	
+mixcore/mix.core	888	MIT	web	Headless CMS	🚀 A future-proof enterprise web CMS supporting both headless and decoupled approaches. Build any type of app with customizable APIs on ASP.NET Core/.NET Core. Completely open-source and designed for flexibility. Since 2018.	
+withstudiocms/studiocms	843	MIT	web	Headless CMS	Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members	
+zce/velite	825	MIT	web	Headless CMS	Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.	
+chapter-three/next-drupal	709	MIT	web	Headless CMS	Next.js for Drupal has everything you need to build a next-generation front-end for your Drupal site: SSG, SSR, and ISR, Multi-site, Authentication, Webforms, Search API, I18n and Preview mode (works with JSON:API and GraphQL).	
+Hashnode/starter-kit	651	MIT	web	Headless CMS	A blog starter kit to use Hashnode as a Headless CMS using GraphQL APIs.	
+gobeam/truthy	604	MIT	web	Headless CMS	Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC support, Localization, and many more. 	
+aimeos/pagible	602	MIT	web	Headless CMS	Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with JSON:API, GraphQL API, templates, and themes	
+gentics/mesh	594	Apache-2.0	web	Headless CMS	Gentics Mesh - The open source headless CMS for developers	
+webreinvent/vaahcms	571	MIT	web	Headless CMS	VaahCMS is a laravel based open-source web application development platform shipped with a headless content management system (CMS).	
+fluentcms/FluentCMS	568	MIT	web	Headless CMS	ASP.NET Core Blazor Content Management System (CMS) 	
+bagisto/nextjs-commerce	6439	MIT	web	Headless Storefronts	Open source headless commerce that’s fast, flexible, and built to scale,launch stunning storefronts that convert and grow your business without limits.	
+woocommerce/storefront	1025	NONE	web	Headless Storefronts	Official theme for WooCommerce	
+VienDinhCom/next-shopify-storefront	874	MIT	web	Headless Storefronts	A modern Shopping Cart built with ESMate, Next.js, React.js, ShadCN, ESLint, Prettier, GraphQL, and Shopify Hydrogen.	
+reactioncommerce/example-storefront	612	Apache-2.0	web	Headless Storefronts	Example Storefront is Reaction Commerce’s headless ecommerce storefront - Next.js, GraphQL, React. Built using Apollo Client and the commerce-focused React UI components provided in the Storefront Component Library (reactioncommerce/reaction-component-library)	
+mlm-games/flicky	470	GPL-3.0	web	Headless Storefronts	Yet Another FDroid Client (wide screen / TV friendly)	
+shopjs/shop.js	457	NOASSERTION	web	Headless Storefronts	🛍️ Ecommerce UI components and framework powered by React.	
+Weaverse/pilot	387	MIT	web	Headless Storefronts	A fully-featured Shopify Hydrogen theme crafted to help you launch modern, high-performing headless storefronts in minutes.	
+shopnex-ai/shopnex	365	MIT	web	Headless Storefronts	Open-source Shopify alternative – self-hosted ecommerce with Liquid themes, admin dashboard and app SDK	
+SalesforceCommerceCloud/pwa-kit	363	BSD-3-Clause	web	Headless Storefronts	React-based JavaScript frontend framework to create a progressive web app (PWA) storefront for Salesforce B2C Commerce.	
+dddplus/dddplus-demo	337	Apache-2.0	web	Headless Storefronts	♨️ Demonstrate how to use DDDplus to build a complex OMS.演示如何使用DDDplus实现一套订单履约中台OMS	
+mohammadoftadeh/next-ecommerce-shopco	321	MIT	web	Headless Storefronts	Shopco - Free Next.js 14 App Router, TypeScript, TailwindCSS, shadcn-ui, framer-motion, redux toolkit E-commerce Website.	
+basementstudio/commerce-toolkit	289	MIT	web	Headless Storefronts	Ship better storefronts 🛍	
+zackha/nuxtcommerce	248	MIT	web	Headless Storefronts	An open-source, dynamic e-commerce solution powered by Nuxt 4 and GraphQL, headless storefront replacement for Woocommerce. Featuring a user interface in the style of Pinterest and fully customizable (Vue, Nuxt4).	
+GatsbyStorefront/gatsby-theme-storefront-shopify	246	MPL-2.0	web	Headless Storefronts	Create a Shopify store with Gatsby JS 🛍️  🛒	
+enatega/shopping-cart-ecommerce	244	MIT	web	Headless Storefronts	A full-fledged package to build an e-commerce application for iOS and Android similar to Myntra/JackThreads. Available with beautiful design and necessary features along with screen for Dashboard and Mobile app. Build using React Native, Expo, React, GraphQL, 	
+lovell/sharp	32830	Apache-2.0	web	Image Optimization	High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.	
+amusi/CVPR2026-Papers-with-Code	22946	NONE	web	Image Optimization	CVPR 2026 论文和开源项目合集	
+ImageMagick/ImageMagick	17813	NOASSERTION	web	Image Optimization	ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.	
+lukas-blecher/LaTeX-OCR	16609	MIT	web	Image Optimization	pix2tex: Using a ViT to convert images of equations into LaTeX code.	
+pqina/filepond	16393	MIT	web	Image Optimization	🌊 A flexible and fun JavaScript file upload library	
+guofei9987/blind_watermark	14840	MIT	web	Image Optimization	Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！	
+python-pillow/Pillow	13971	NOASSERTION	web	Image Optimization	Python Imaging Library (fork)	
+fengyuanchen/cropperjs	13911	MIT	web	Image Optimization	JavaScript image cropper.	
+jwagner/smartcrop.js	12961	MIT	web	Image Optimization	Content aware image cropping	
+kornia/kornia	12352	Apache-2.0	web	Image Optimization	🐍 Geometric Computer Vision Library for Spatial AI	
+qubvel-org/segmentation_models.pytorch	11797	MIT	web	Image Optimization	Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.	
+libvips/libvips	11791	LGPL-2.1	web	Image Optimization	A fast image processing library with low memory needs.	
+CyberTimon/RapidRAW	10987	AGPL-3.0	web	Image Optimization	A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.	
+esimov/caire	10879	MIT	web	Image Optimization	Content aware image resize library	
+zyddnys/manga-image-translator	10577	GPL-3.0	web	Image Optimization	Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)	
+ImageOptim/ImageOptim	10029	GPL-2.0	web	Image Optimization	GUI image optimizer for Mac	
+xuebinqin/U-2-Net	9895	Apache-2.0	web	Image Optimization	The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."	
+hardikvasa/google-images-download	8705	MIT	web	Image Optimization	Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!	
+SixLabors/ImageSharp	8047	NOASSERTION	web	Image Optimization	A modern, cross-platform, 2D Graphics library for .NET	
+hybridgroup/gocv	7517	NOASSERTION	web	Image Optimization	Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.	
+open-mmlab/mmagic	7479	Apache-2.0	web	Image Optimization	OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.	
+EutropicAI/Final2x	7400	BSD-3-Clause	web	Image Optimization	a cross-platform image super-resolution tool	
+halide/Halide	6635	NOASSERTION	web	Image Optimization	a language for fast, portable data-parallel computation	
+scikit-image/scikit-image	6634	NOASSERTION	web	Image Optimization	Image processing in Python	
+amusi/AI-Job-Notes	6189	NONE	web	Image Optimization	AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）	
+feder-cr/Jobs_Applier_AI_Agent	32388	MIT	web	Job Boards	AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.	
+connor11528/cs-fundamentals	1154	NONE	web	Job Boards	🎓 Data structures and algorithms 	
+zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships	964	MIT	web	Job Boards	Tech internships & CS jobs tracker - 180 open software engineering internships from 4,300 employer job boards, auto-updated every 30 min with visa-sponsorship and H-1B sponsor data.	
+fossjobs/fossjobs	382	MIT	web	Job Boards	fossjobs.net based on jobberbase	
+nodejs-tw/jobs	321	NONE	web	Job Boards	Node.js jobs	
+quant-bobby/quant-jobs	308	NONE	web	Job Boards	The ultimate guide to landing a job or internship in quantitative finance.	
+vaibhavarora14/job-application-agent	174	MIT	web	Job Boards	JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified résumé, applies within your rules on Greenhouse, Ashby and Lever, tracks confirmed submissions.	
+aschmelyun/laravel-job-board	172	MIT	web	Job Boards	A modest job board platform built with Laravel. Follow along with the videos below to get an in-depth look at its development.	
+Abdullah-moiz/Job-Portal	168	NONE	web	Job Boards	Job Board building Using Next js   , MongoDB , Tailwind css , Redux toolkit	
+TechnologyMasters/jobs	145	NONE	web	Job Boards	Jobs shared by the TechMasters community.	
+cncf/gitjobs	126	Apache-2.0	web	Job Boards	GitJobs is a simple open source, developer first job board focused on open source job opportunities.	
+Sarthzk/internship-tracker	115	NOASSERTION	web	Job Boards	Auto-updated tech internships in India from 160+ company career pages, with Telegram alerts. Serverless on GitHub Actions.	
+galiprandi/job-seeker	113	MIT	web	Job Boards	Automate your job search with your favorite coding agent. Skills, guides, and scripts that any agent (Devin, Claude, Cursor, opencode) consumes to search, apply, and track jobs on your behalf.	
+Stupidoodle/swissdevjobs-cli	106	MIT	web	Job Boards	Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin	
+typetheoryforall/FVjobs	97	MIT	web	Job Boards	A Job Board for Formal Verification	
+nextlevelbuilder/ui-ux-pro-max-skill	146415	MIT	web	Landing Pages	An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.	
+Leonxlnx/taste-skill	111471	MIT	web	Landing Pages	Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages	
+ant-design/ant-design-landing	6528	MIT	web	Landing Pages	:mountain_bicyclist: Landing Pages of Ant Design System	
+causefx/Organizr	5825	GPL-3.0	web	Landing Pages	HTPC/Homelab Services Organizer - Written in PHP	
+nateherkai/scroll-craft	4695	MIT	web	Landing Pages	An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.	
+cruip/tailwind-landing-page-template	4528	NONE	web	Landing Pages	Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by 	
+LiveDuo/destack	1837	MIT	web	Landing Pages	Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!	
+mdbootstrap/adminlte-laravel	1795	MIT	web	Landing Pages	A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0	
+Blazity/next-saas-starter	1702	MIT	web	Landing Pages	⚡️ Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.	
+PageAI-Pro/page-ui	1699	MIT	web	Landing Pages	📃 Landing page UI components for React & Next.js, built on top of TailwindCSS	
+StartBootstrap/startbootstrap-landing-page	1672	MIT	web	Landing Pages	A responsive, Bootstrap landing page template created by Start Bootstrap	
+issaafalkattan/React-Landing-Page-Template	1649	MIT	web	Landing Pages	A simple react one page landing page templates for startups/companies	
+keshavgbpecdelhi/Web-Development	1600	Apache-2.0	web	Landing Pages	Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄	
+mearashadowfax/ScrewFast	1434	MIT	web	Landing Pages	Open-source Astro website template with sleek, customizable TailwindCSS components	
+flexdinesh/dev-landing-page	1348	MIT	web	Landing Pages	Minimal landing page for developers	
+zws-im/zws	1845	Apache-2.0	web	Link Shorteners	Shorten URLs using invisible spaces	
+xyTom/Url-Shorten-Worker	1782	MIT	web	Link Shorteners	A URL Shortener created using Cloudflare worker	
+KilledByAPixel/JSONCrush	1663	MIT	web	Link Shorteners	Compress JSON into URL friendly strings	
+nelsontky/gh-pages-url-shortener	1415	GPL-3.0	web	Link Shorteners	Minimal URL shortener that can be entirely hosted on GitHub pages.	
+orhun/rustypaste	1213	MIT	web	Link Shorteners	A minimal file upload/pastebin service.	
+amitt001/pygmy	730	MIT	web	Link Shorteners	An open-source, feature rich & extensible url-shortener + analytics written in Python :cookie:	
+spyboy-productions/Facad1ng	546	MIT	web	Link Shorteners	Open-source URL masking & analysis tool for security research, phishing awareness, and defensive testing. Demonstrates adversary techniques used to disguise malicious links.	
+realodix/urlhub	543	MIT	web	Link Shorteners	✂️ URL shortener web application based on the Laravel PHP Framework. 	
+Flynntes/Sleeky	521	MIT	web	Link Shorteners	🎨 A sleek and simple frontend & backend theme for YOURLS	
+philnash/bitly	448	MIT	web	Link Shorteners	🗜 A Ruby wrapper for the bit.ly API	
+urania-dev/snapp	402	MIT	web	Link Shorteners	Yet Another Url Shortner. A simple excercise to learn Svelte.	
+shlinkio/shlink-web-client	401	MIT	web	Link Shorteners	A React-based client application for Shlink	
+surishortlink/suri	396	MIT	web	Link Shorteners	Your own short links as an easily deployed static site	
+TannerReynolds/ShareX-Upload-Server	396	GPL-3.0	web	Link Shorteners	AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Discord, url shortening, and a full front end. Use standalone or	
+luadotsh/lua	344	AGPL-3.0	web	Link Shorteners	Open-source, next-generation, and scalable URL shortener designed for modern teams.	
+timothystewart6/littlelink-server	1154	MIT	web	Link-in-Bio	A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!	
+MichaelBarney/LinkFree	693	Apache-2.0	web	Link-in-Bio	A free and open source alternative to LinkTree	
+singlelink-co/Singlelink	584	MIT	web	Link-in-Bio	The open-source Linktree alternative.	
+LinkStackOrg/linkstack-docker	528	AGPL-3.0	web	Link-in-Bio	A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.	
+johnggli/linktree	524	MIT	web	Link-in-Bio	Simple site to group all my profiles on social networks in one place. A free Linktree alternative.	
+realvjy/nxt-lnk	380	MIT	web	Link-in-Bio	Custom bio links for creatives who love coding. A perfect custom alternative for linktree, bio and other shortner platform. 	
+OmniRise/LinkBreeze	263	MIT	web	Link-in-Bio	The self-hosted Linktree alternative. Import from any competitor in 30 seconds. Multi-page, privacy-respecting analytics, one-line install.	
+harsh98trivedi/links	216	GPL-2.0	web	Link-in-Bio	A Beautiful Jekyll Theme For Links	
+rishi-raj-jain/itsmy.fyi	201	AGPL-3.0	web	Link-in-Bio	Take control of your online presence with itsmy.fyi - the true open-source alternative to Linktree.	
+ZhgChgLi/linkyee	186	MIT	web	Link-in-Bio	A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages.	
+thevahidal/jake	186	MIT	web	Link-in-Bio	🚀 Effortlessly create and deploy your own one-link website on GitHub. A free Linktree alternative.	
+ardacarofficial/links-website	183	MIT	web	Link-in-Bio	List all your links on one website.	
+chriskthomas/linkfree-generator	168	Apache-2.0	web	Link-in-Bio	A simple, free, open-source, and self-hosted alternative to linktree	
+rhnvrm/linkpage	139	BSD-2-Clause	web	Link-in-Bio	LinkPage is a FOSS self-hosted alternative to link listing websites such as LinkTree and Campsite.bio	
+aleemrehmtulla/kytelink	112	MIT	web	Link-in-Bio	a simple linktree alternative	
+everywall/ladder	9284	GPL-3.0	web	Membership & Paywall	Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML	
+manualdousuario/marreta	1228	GPL-3.0	web	Membership & Paywall	Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!	
+burlesco/burlesco	943	MIT	web	Membership & Paywall	Leia notícias sem ser assinante, burle o paywall (WebExtension)	
+paywallpro/paywall-gallery	886	NOASSERTION	web	Membership & Paywall	Top iOS app subscription paywall and onboarding gallery with screenshots, videos, pricing models, patterns, and monetization signals.	
+stefanw/bibbot	653	GPL-3.0	web	Membership & Paywall	BibBot is a browser extension that removes the paywall on German online news sites using your library account's access to press databases.	
+hackernoon/Free-Internet-Plugin	226	MIT	web	Membership & Paywall	A free Internet is a better Internet. This Chrome browser plugin removes paywalled content from Google search results.	
+superwall/Superwall-iOS	181	MIT	web	Membership & Paywall	Remotely configure every aspect of your paywall and double your revenue.	
+nikolqyy/bypass-paywalls-chrome	165	NONE	web	Membership & Paywall	Bypass Paywalls Chrome Clean (BPC) mirror. Latest version, updated. Chrome, Firefox & Orion.	
+gokhanamal/IndieBuilderKit	128	MIT	web	Membership & Paywall	A simple iOS toolkit for indie developers. Start your app faster with essential components, subscriptions, and analytics.	
+AmanSikarwar/freedium_mobile	120	MIT	web	Membership & Paywall	An app to read paywalled articles for free	
+fipso/freenews	107	GPL-3.0	web	Membership & Paywall	Reverse Proxy & DNS based solution to bypass paywalls 🔨💵🧱	
+RevenueCat/cat-paywall-compose	106	Apache-2.0	web	Membership & Paywall	🐈 Cat Paywall Compose demonstrates the paywall with Google Play's billing system using RevenueCat SDK for Android and Jetpack Compose.	
+snowom/PossoLer	101	MIT	web	Membership & Paywall	Visualize gratuitamente conteúdos exclusivos para assinantes dos principais jornais do Brasil e de alguns sites voltados para estudos.	
+fr0der1c/Readform	83	GPL-3.0	web	Membership & Paywall	Sending full article content of paywalled news websites right into your Readwise Reader feed to help you get a unified reading workflow.	
+Shubhamrawat5/whatsapp-bot-md	70	NONE	web	Membership & Paywall	new multi device PVX whatsapp bot	
+dsh-market/dsh-market	11309	MIT	web	Multivendor Marketplaces	The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场	
+jeremylongshore/tons-of-skills-marketplace	2905	MIT	web	Multivendor Marketplaces	Model-agnostic agent-skills platform with a harness-free canonical layer, verified adapters, and the ccpi package manager. Explore at tonsofskills.com.	
+eclipse-openvsx/openvsx	2071	EPL-2.0	web	Multivendor Marketplaces	An open-source registry for VS Code extensions	
+NeoLabHQ/context-engineering-kit	1807	GPL-3.0	web	Multivendor Marketplaces	Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.	
+moltlaunch/cashclaw	1224	MIT	web	Multivendor Marketplaces	An autonomous agent that takes work, does work, gets paid, and gets better at it.	
+gmickel/flow-next	718	MIT	web	Multivendor Marketplaces	Faster than your agent alone. And better. A workflow plugin that takes a bug, idea or ticket to a verified pull request: specs, cross-model review by risk, live QA, receipts in your repo. Claude Code · Codex · Cursor · Droid · Grok Build · OpenCode · Muse Code	
+stripe/stripe-connect-rocketrides	653	MIT	web	Multivendor Marketplaces	Sample on-demand platform built on Stripe: Connect onboarding for pilots, iOS app for passengers to request rides.	
+NotYetGames/DlgSystem	648	MIT	web	Multivendor Marketplaces	Dialogue Plugin System for Unreal Engine	
+SIA-IOTechnology/Kittysploit-framework	632	MIT	web	Multivendor Marketplaces	Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generator,....	
+SukramJ/homematicip_local	609	MIT	web	Multivendor Marketplaces	A custom Home Assistant component for HomeMatic(IP) that connects to OpenCCU	
+WenyuChiou/ai-research-skills	606	MIT	web	Multivendor Marketplaces	Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writing, and cross-agent delegation for Claude Code, Codex, Gemini, Cursor, OpenClaw, and generic AI clients.	
+zonelessdev/zoneless	578	Apache-2.0	web	Multivendor Marketplaces	Open-source Stripe alternative for stablecoins. Checkout, subscriptions, and marketplace payouts. Stripe-compatible API. Your very own payments stack with no fees.	
+karanb192/claude-code-hooks	577	MIT	web	Multivendor Marketplaces	🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.	
+ai-driven-dev/framework	551	MIT	web	Multivendor Marketplaces	Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC	
+umputun/cc-thingz	493	MIT	web	Multivendor Marketplaces	various things for claude code	
+sansan0/TrendRadar	63511	GPL-3.0	web	News, RSS & Aggregators	⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Te	
+newsnext/newsnow	22354	MIT	web	News, RSS & Aggregators	Elegant reading of real-time and hottest news	
+codelucas/newspaper	15181	MIT	web	News, RSS & Aggregators	newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:	
+Thysrael/Horizon	12994	MIT	web	News, RSS & Aggregators	📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达	
+vikiboss/60s	5896	MIT	web	News, RSS & Aggregators	⏰ 60s API 免费接口。每天 60 秒看世界、奥运奖牌榜、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署	
+tschellenbach/Stream-Framework	4740	NOASSERTION	web	News, RSS & Aggregators	Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:	
+refinery/refinerycms	3905	MIT	web	News, RSS & Aggregators	An extendable Ruby on Rails CMS that supports Rails 6.1 to 8.1+ and Ruby 3.x to 4.x	
+vue3/vue3-News	2875	MIT	web	News, RSS & Aggregators	🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2024/2025)	
+kujian/frontendDaily	2388	Apache-2.0	web	News, RSS & Aggregators	前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。	
+zenany/weekly	2189	NONE	web	News, RSS & Aggregators	汇总平时看到的好文章...	
+bensadeh/circumflex	2109	MIT	web	News, RSS & Aggregators	🌿 It's Hacker News in your terminal	
+bbc/simorgh	1717	NOASSERTION	web	News, RSS & Aggregators	The BBC's Open Source Web Application. Contributions welcome! Used on some of our biggest websites, e.g.	
+kotartemiy/pygooglenews	1395	MIT	web	News, RSS & Aggregators	If Google News had a Python library	
+AndyTheFactory/newspaper4k	1170	MIT	web	News, RSS & Aggregators	📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites. 	
+kagisearch/kite-public	1089	MIT	web	News, RSS & Aggregators	Open source repository for Kite, news app by Kagi.	
+thechangelog/nightly	239	MIT	web	Newsletters & Email Marketing	Changelog Nightly unearths the hottest repos on GitHub before they blow up. Subscribe for free. Keep up.	
+saadmk11/django-newsfeed	191	GPL-3.0	web	Newsletters & Email Marketing	A news curator and newsletter subscription package for Django	
+mailpoet/mailpoet	160	NONE	web	Newsletters & Email Marketing	A free newsletter plugin for WordPress	
+transitive-bullshit/bens-bites-ai-search	113	MIT	web	Newsletters & Email Marketing	AI search for all the best resources in AI – powered by Ben's Bites 💯	
+ItzNotABug/ghosler	84	Apache-2.0	web	Newsletters & Email Marketing	Send newsletter emails to your Ghost CMS subscribers & members, using your own email credentials!	
+VowpalWabbit/vowpal_wabbit	8734	NOASSERTION	web	Online Courses	Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  	
+greyhatguy007/Machine-Learning-Specialization-Coursera	8161	MIT	web	Online Courses	 Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG	
+Angel-ML/angel	6795	NOASSERTION	web	Online Courses	A Flexible and Powerful Parameter Server for large-scale machine learning	
+yandexdataschool/Practical_RL	6605	Unlicense	web	Online Courses	A course in reinforcement learning in the wild	
+online-ml/river	6142	BSD-3-Clause	web	Online Courses	🌊 Online machine learning in Python	
+fastai/course-v3	4906	Apache-2.0	web	Online Courses	The 3rd edition of course.fast.ai	
+aiming-lab/MetaClaw	3467	MIT	web	Online Courses	🦞 Just talk to your agent — it learns and EVOLVES 🧬.	
+csev/py4e	3112	NONE	web	Online Courses	Web site for www.py4e.com and source to the Python 3.0 textbook	
+alibaba/EasyRec	2365	Apache-2.0	web	Online Courses	A framework for large scale recommendation algorithms.	
+jplag/JPlag	1999	GPL-3.0	web	Online Courses	State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.	
+siddhi-io/siddhi	1596	Apache-2.0	web	Online Courses	Stream Processing and Complex Event Processing Engine	
+INRIA/scikit-learn-mooc	1447	CC-BY-4.0	web	Online Courses	Machine learning in Python with scikit-learn MOOC	
+HyperGAN/HyperGAN	1183	MIT	web	Online Courses	Composable GAN framework with api and user interface	
+WanyueKJ/education-online	1023	GPL-3.0	web	Online Courses	万岳教育的web+后台管理系统。万岳教育系统(wanyue-education)，自主研发集知识付费、直播授课、在线教育功能为一体的在线/直播/题库/考试(exam)的教育平台系统	
+MoocDownloader/MoocDownloader	774	MPL-2.0	web	Online Courses	An MOOC downloader implemented by .NET. 一枚由 .NET 实现的 MOOC 下载器.	
+CorentinTh/enclosed	2113	Apache-2.0	web	Pastebin & Snippets	Minimalistic web app designed for sending private and secure notes.	
+Tygs/0bin	1402	WTFPL	web	Pastebin & Snippets	Client side encrypted pastebin	
+MaxLeiter/Drift	1363	MIT	web	Pastebin & Snippets	Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.	
+robherley/snips.sh	1330	MIT	web	Pastebin & Snippets	✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI	
+SharzyL/pastebin-worker	1067	MIT	web	Pastebin & Snippets	Pastebin on Cloudflare worker, with friendly CLI usage and rich features	
+matze/wastebin	885	MIT	web	Pastebin & Snippets	wastebin is a pastebin 📝	
+rndinfosecguy/Scavenger	875	MIT	web	Pastebin & Snippets	Crawler (Bot) searching for leaks on paste sites.	
+itsmehacker/CardPwn	642	MIT	web	Pastebin & Snippets	OSINT Tool to find Breached Credit Cards Information	
+DarrenOfficial/dpaste	642	MIT	web	Pastebin & Snippets	The Django project driving dpaste.org	
+anna-is-cute/paste	615	MIT	web	Pastebin & Snippets	A sensible, modern pastebin.	
+radude/rentry	593	MIT	web	Pastebin & Snippets	Markdown pastebin from command line	
+Quick-Bin/qbin	573	GPL-3.0	web	Pastebin & Snippets	QBin: 轻量高效的在线编辑与分享平台 | Monaco+Cherry Markdown专业编辑器 | Deno KV+DrizzleORM+EdgeCache多级缓存 | PWA离线访问+IndexedDB存储 | 自定义短链+密码+有效期 | 支持文本/代码/图片/视频 | OAuth2登录 | 明暗主题 | 实时保存 | Docker/Deno一键部署 | PasteBin替代方案	
+ptpb/pb	570	NOASSERTION	web	Pastebin & Snippets	pb is a formerly-lightweight pastebin and url shortener	
+WardPearce/paaster	568	AGPL-3.0	web	Pastebin & Snippets	Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.	
+spiritLHLS/one-click-installation-script	560	MIT	web	Pastebin & Snippets	一键修复与安装脚本(各种linux系统修复与服务器环境安装脚本) One-click repair and installation scripts (various linux system repair and server environment installation scripts)	
+skr-shop/manuals	2470	NONE	web	Payment Orchestration	Do design No code 💻📱🛒📚 	
+DigitalShieldOfficial/USDT-Payment-Gateway	1804	MIT	web	Payment Orchestration	A lightweight USDT/USDC payment gateway with multi-chain support, integration guides, SDK documentation, and merchant demos.轻量级 USDT/USDC 支付网关，提供多链支持、接入指南、SDK 文档和商户演示程序。	
+juspay/hyperswitch-prism	1392	Apache-2.0	web	Payment Orchestration	One library | Many payment processors | Scale to multiple processors with few lines of code.	
+bitcart/bitcart	1005	MIT	web	Payment Orchestration	Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more	
+shetabit/payment	960	MIT	web	Payment Orchestration	simple laravel payment package , supports multiple drivers	
+vsys-host/shkeeper.io	643	GPL-3.0	web	Payment Orchestration	SHKeeper is a self-hosted and open-source cryptocurrency gateway payment processor. It's integrate with popular CMS, any e-commerce, your own code or product	
+ali-zahedi/az-iranian-bank-gateways	616	MIT	web	Payment Orchestration	درگاه اتصال به بانک های ایرانی ( درگاه پرداخت بانک ملی ایران،بانک سامان، بانک ملت، درگاه پرداخت زرین پال و ... ) با استفاده از پایتون	
+iamraphson/react-paystack	501	MIT	web	Payment Orchestration	ReactJS library for implementing paystack payment gateway	
+AuthorizeNet/sdk-php	456	NOASSERTION	web	Payment Orchestration	PHP SDK for Authorize.Net API	
+Midtrans/midtrans-php	423	MIT	web	Payment Orchestration	Official Midtrans Payment API Client for PHP | https://midtrans.com	
+imrenagi/go-payment	408	MIT	web	Payment Orchestration	Payment Connector for Midtrans and Xendit. Sample site that is using this payment proxy is https://imrenagi.com/donate	
+adorsys/open-banking-gateway	343	AGPL-3.0	web	Payment Orchestration	Provides RESTful API, tools, adapters, and connectors for transparent access to open banking API's (for banks that support PSD2 and XS2A as well as HBCI/FinTS)	
+PipraPay/PipraPay	333	AGPL-3.0	web	Payment Orchestration	Empower your payment operations with PipraPay, the free and open-source, plugin-based platform for automated payments and full workflow control.	
+xiaodou-official/xiaodou-open-platform	327	NOASSERTION	web	Payment Orchestration	小豆支付开放平台：个人支付接口——个人也能申请的支付宝+微信聚合收款，RSA2 签名 + webhook 验签、持牌机构清算、次日到账；兼容易支付/彩虹支付插件协议零代码迁移（submit.php/mapi.php/api.php）；已兼容 Sub2API、New API（源码级核对）；多到账账号收款分配与分账；15 篇文档、四语言签名示例与本地 demo。China individual payment API: Alipay + WeChat Pay aggregate payments, Epay-compa	
+shetabit/multipay	308	MIT	web	Payment Orchestration	simple PHP payment package , supports multiple drivers	
+nolimits4web/swiper	41907	MIT	web	Photo Galleries & Portfolios	Most modern mobile touch slider with hardware accelerated transitions	
+dimsemenov/PhotoSwipe	25298	MIT	web	Photo Galleries & Portfolios	JavaScript image gallery for mobile and desktop, modular, framework independent	
+mikf/gallery-dl	20405	GPL-2.0	web	Photo Galleries & Portfolios	Command-line program to download image galleries and collections from several image hosting sites	
+anhao/ai-pose-gallery-zh	6335	NOASSERTION	web	Photo Galleries & Portfolios	中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊	
+deckerst/aves	5490	BSD-3-Clause	web	Photo Galleries & Portfolios	Aves is a gallery and metadata explorer app, built for Android with Flutter.	
+Splidejs/splide	5368	MIT	web	Photo Galleries & Portfolios	Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.	
+sachinchoolur/lightgallery.js	5320	NOASSERTION	web	Photo Galleries & Portfolios	Full featured JavaScript image & video gallery. No dependencies	
+longitachi/ZLPhotoBrowser	4988	Apache-2.0	web	Photo Galleries & Portfolios	Wechat-like image picker. Support select photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能; 	
+Yummypets/YPImagePicker	4480	MIT	web	Photo Galleries & Portfolios	📸 Instagram-like image picker & filters for iOS	
+SimpleMobileTools/Simple-Gallery	4031	GPL-3.0	web	Photo Galleries & Portfolios	A premium app for managing and editing your photos, videos, GIFs without ads	
+xiaolin/react-image-gallery	3942	MIT	web	Photo Galleries & Portfolios	React carousel image gallery component with thumbnail support  🖼	
+epicmaxco/epic-spinners	3912	NONE	web	Photo Galleries & Portfolios	Easy to use css spinners collection with Vue.js integration	
+FossifyOrg/Gallery	3893	GPL-3.0	web	Photo Galleries & Portfolios	Browse your memories without any interruptions with this photo and video gallery	
+nolimits4web/atropos	3613	MIT	web	Photo Galleries & Portfolios	Stunning touch-friendly 3D parallax hover effects	
+UnevenSoftware/LeafPic	3259	GPL-3.0	web	Photo Galleries & Portfolios	LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, and we also have plans to add more useful features.	
+IacobIonut01/ReFra	2998	Apache-2.0	web	Photo Galleries & Portfolios	Media Gallery app for Android made with Jetpack Compose	
+meichthys/foss_photo_libraries	2819	MIT	web	Photo Galleries & Portfolios	Free and Open Source Photo Libraries	
+leandrowd/react-responsive-carousel	2674	MIT	web	Photo Galleries & Portfolios	React.js Responsive Carousel (with Swipe)	
+mirari/v-viewer	2639	MIT	web	Photo Galleries & Portfolios	Image viewer for Vue with zoom, rotation and custom toolbars, powered by Viewer.js.	
+biati-digital/glightbox	2544	MIT	web	Photo Galleries & Portfolios	Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes	
+feimosi/baguetteBox.js	2505	MIT	web	Photo Galleries & Portfolios	:zap: Simple and easy to use lightbox script written in pure JavaScript	
+alangrainger/immich-public-proxy	2420	AGPL-3.0	web	Photo Galleries & Portfolios	Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.	
+iielse/imageviewer	2304	MIT	web	Photo Galleries & Portfolios	A simple and customizable Android full-screen image viewer 一个简单且可自定义的Android全屏图像浏览器	
+UniSharp/laravel-filemanager	2147	MIT	web	Photo Galleries & Portfolios	Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system.	
+stfalcon-studio/StfalconImageViewer	2023	Apache-2.0	web	Photo Galleries & Portfolios	A simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures	
+bytedance/deer-flow	85107	MIT	web	Podcast & Audio Hosting	An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.	
+zhouxiaoka/autoclip	10090	MIT	web	Podcast & Audio Hosting	AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.	
+souzatharsis/podcastfy	6786	Apache-2.0	web	Podcast & Audio Hosting	An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI	
+bjarneo/cliamp	4586	MIT	web	Podcast & Audio Hosting	cliamp - Terminal music player inspired by winamp 	
+alaskasquirrel/Chinese-Podcasts	2080	NONE	web	Podcast & Audio Hosting	播客 🎧 编程、设计、Vlog、音乐、访谈、博客...	
+CaviraOSS/PageLM	2063	NOASSERTION	web	Podcast & Audio Hosting	PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts.	
+HKUDS/VideoAgent	2007	MIT	web	Podcast & Audio Hosting	[EMNLP2026] "VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking"	
+nazdridoy/kokoro-tts	1991	MIT	web	Podcast & Audio Hosting	A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents.	
+mxpv/podsync	1978	MIT	web	Podcast & Audio Hosting	Turn YouTube or Vimeo channels, users, or playlists into podcast feeds	
+OpenMOSS/MOSS-TTSD	1417	Apache-2.0	web	Podcast & Audio Hosting	A multilingual model for long-form, multi-speaker dialogue synthesis with flexible speaker control and zero-shot voice cloning	
+hardhackerlabs/book	1375	NONE	web	Podcast & Audio Hosting	「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加入吧！	
+jam-systems/jam	1316	AGPL-3.0	web	Podcast & Audio Hosting	🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities	
+panyanyany/Twocast	1290	NONE	web	Podcast & Audio Hosting	AI Podcast Generator for bilingual episodes, Multi Languages, Alternative to NotebookLLM；真人对话AI播客生成器，多语言，多音色	
+SkyD666/PodAura	1275	GPL-3.0	web	Podcast & Audio Hosting	All-in-on podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!	
+aizhimou/pigeon-pod	1206	GPL-3.0	web	Podcast & Audio Hosting	Listen to YouTube & Bilibili. Anywhere.	
+wbotelhos/raty	2333	MIT	web	Polls & Voting	:star2: Raty - A Star Rating Plugin	
+DemocracyOS/democracyos	1784	GPL-3.0	web	Polls & Voting	Democracia en Red is focusing on specific implementations of DemocracyOS. We are working now working with governments and activists all over Latin America. If you are interested in our online participation tools you can check them out on our site.	
+ClaperCo/Claper	825	AGPL-3.0	web	Polls & Voting	👋 The ultimate tool to interact with your audience	
+iqiyi/libfiber	816	LGPL-3.0	web	Polls & Voting	The high performance c/c++ coroutine/fiber library for Linux/FreeBSD/MacOS/Windows, supporting select/poll/epoll/kqueue/iouring/iocp/windows GUI.	
+lalinsky/zio	695	NOASSERTION	web	Polls & Voting	Async I/O framework for Zig	
+DemocracyEarth/paper	616	MIT	web	Polls & Voting	On self sovereign human identity.	
+GRA0007/crab.fit	543	GPL-3.0	web	Polls & Voting	Enter your availability to find a time that works for everyone!	
+johnwarne/upvote-rss	500	MIT	web	Polls & Voting	Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more	
+QuickBirdEng/SurveyKit	386	MIT	web	Polls & Voting	Android library to create beautiful surveys (aligned with ResearchKit on iOS) 	
+Krish-Depani/Decentralized-Voting-System	351	MIT	web	Polls & Voting	A decentralized voting system using Ethereum blockchain for secure and transparent elections, with features like user authentication and real-time result tracking.	
+a16z/cicada	328	AGPL-3.0	web	Polls & Voting	A protocol for private on-chain voting, implemented in Solidity. 	
+matt-daneshvar/laravel-survey	292	MIT	web	Polls & Voting	Create and manage surveys within your Laravel app.	
+nextcloud/polls	286	AGPL-3.0	web	Polls & Voting	🗳️ Polls app for Nextcloud	
+ioBroker/AdapterRequests	244	NONE	web	Polls & Voting	This Place is used to track the status of new Adapter-Requests.	
+alimohammadiamirhossein/smite	214	Apache-2.0	web	Polls & Voting	Pytorch Implementation of "SMITE: Segment Me In TimE" (ICLR 2025)	
+LinusBorg/portal-vue	3876	MIT	web	Portals & Intranets	A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)	
+tajo/react-portal	2149	MIT	web	Portals & Intranets	🎯 React component for transportation of modals, lightboxes, loading bars... to document.body or else.	
+smapiot/piral	1938	MIT	web	Portals & Intranets	🚀 Framework for next generation web apps using micro frontends. ⭐️ Star to support our work! 	
+ladjs/react-native-loading-spinner-overlay	1589	MIT	web	Portals & Intranets	:barber: React Native loading spinner overlay	
+httptoolkit/react-reverse-portal	1050	Apache-2.0	web	Portals & Intranets	React reparenting :atom_symbol: Build an element once, move it anywhere	
+djblue/portal	1039	MIT	web	Portals & Intranets	A clojure tool to navigate through your data.	
+iamthesiz/react-useportal	885	MIT	web	Portals & Intranets	🌀 React hook for Portals	
+kirillzyusko/react-native-teleport	828	MIT	web	Portals & Intranets	A missing native portal implementation for react-native 🛸	
+gorhom/react-native-portal	794	MIT	web	Portals & Intranets	A simplified portal implementation for ⭕️ React Native & Web ⭕️.	
+wellyshen/react-cool-portal	728	MIT	web	Portals & Intranets	😎 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.	
+fzyzcjy/flutter_portal	594	MIT	web	Portals & Intranets	Evolved Overlay/OverlayEntry - declarative not imperative, intuitive-context, and easy-alignment	
+optozorax/portal	566	MIT	web	Portals & Intranets	🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.	
+worktile/ngx-planet	538	MIT	web	Portals & Intranets	🚀🌍🚀A powerful, reliable, fully-featured and production ready Micro Frontend library for Angular.	
+microsoft/opensource-management-portal	535	MIT	web	Portals & Intranets	Microsoft's monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰	
+paol-imi/react-reparenting	488	MIT	web	Portals & Intranets	The reparenting tools for React	
+fluxcd/flagger	5429	Apache-2.0	web	Product Analytics & A/B Testing	Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)	
+ContainerSolutions/k8s-deployment-strategies	3650	NONE	web	Product Analytics & A/B Testing	Kubernetes deployment strategies explained	
+splitrb/split	2708	MIT	web	Product Analytics & A/B Testing	:chart_with_upwards_trend: The Rack Based A/B testing framework	
+uptrain-ai/uptrain	2367	Apache-2.0	web	Product Analytics & A/B Testing	UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform root cause analysis on failure cases and give insights on how 	
+optimizely/nuclear-js	2266	MIT	web	Product Analytics & A/B Testing	Reactive Flux built with ImmutableJS data structures. Framework agnostic.	
+shadow/shadow	1744	NOASSERTION	web	Product Analytics & A/B Testing	Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, deskt	
+FrigadeHQ/trench	1666	MIT	web	Product Analytics & A/B Testing	Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.	
+tysam-code/hlb-CIFAR10	1317	Apache-2.0	web	Product Analytics & A/B Testing	Train to 94% on CIFAR-10 in <6.3 seconds on a single A100. Or ~95.79% in ~110 seconds (or less!)	
+dezoito/ollama-grid-search	958	MIT	web	Product Analytics & A/B Testing	A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.	
+stefanprodan/gitops-istio	669	Apache-2.0	web	Product Analytics & A/B Testing	A GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio	
+Countly/countly-sdk-ios	628	MIT	web	Product Analytics & A/B Testing	Countly Digital Analytics iOS SDK with macOS, watchOS and tvOS support. 	
+omnitool-ai/omnitool	452	NOASSERTION	web	Product Analytics & A/B Testing	Official Omnitool repository	
+BichengWang/ai-decision-system	440	MIT	web	Product Analytics & A/B Testing	Replayable, offline-verifiable records for AI-assisted go/no-go decisions: typed model answers, policy-gated approvals, A/B ship gates, release gates.	
+microsoft/genaiops-promptflow-template	369	NOASSERTION	web	Product Analytics & A/B Testing	GenAIOps with Prompt Flow is a "GenAIOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Management, Variant and Hyperparameter Experimentation, A/B Deploy	
+e10v/tea-tasting	338	MIT	web	Product Analytics & A/B Testing	A Python package for the statistical analysis of A/B tests	
+SciPhi-AI/R2R	8068	MIT	web	Q&A Sites	SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.	
+deeppavlov/DeepPavlov	6999	Apache-2.0	web	Q&A Sites	An open source library for deep learning end-to-end dialog systems and chatbots.	
+qq547276542/Agriculture_KnowledgeGraph	4408	GPL-3.0	web	Q&A Sites	农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策	
+SylphAI-Inc/AdalFlow	4225	MIT	web	Q&A Sites	AdalFlow: The library to build & auto-optimize LLM applications.	
+JohnSnowLabs/spark-nlp	4160	Apache-2.0	web	Q&A Sites	State of the Art Natural Language Processing	
+guillaume-be/rust-bert	3091	Apache-2.0	web	Q&A Sites	Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)	
+milvus-io/bootcamp	2451	Apache-2.0	web	Q&A Sites	Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.	
+nlpodyssey/spago	1853	BSD-2-Clause	web	Q&A Sites	Self-contained Machine Learning and Natural Language Processing library in Go	
+myhhub/KnowledgeGraph	1720	NONE	web	Q&A Sites	knowledge graph知识图谱,从零开始构建知识图谱	
+microsoft/NeuronBlocks	1456	MIT	web	Q&A Sites	NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego	
+InternScience/GraphGen	1231	Apache-2.0	web	Q&A Sites	GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation	
+chatopera/insuranceqa-corpus-zh	1070	NOASSERTION	web	Q&A Sites	:helicopter: 保险行业语料库，聊天机器人	
+OpenBioLink/ThoughtSource	1019	MIT	web	Q&A Sites	A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/	
+ramsrigouthamg/Questgen.ai	952	MIT	web	Q&A Sites	Question generation using state-of-the-art Natural Language Processing algorithms	
+The-FinAI/PIXIU	894	MIT	web	Q&A Sites	This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-sou	
+orangecoding/fredy	1623	Apache-2.0	web	Real Estate Listings	❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Europe on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen and instantly delivers the results to you via Slack, Telegram, Email, Discord or	
+opengeos/streamlit-geospatial	1033	MIT	web	Real Estate Listings	A multi-page streamlit app for geospatial	
+ZacharyHampton/HomeHarvest	762	MIT	web	Real Estate Listings	Python package for scraping real estate property data	
+zornade/visura-api	677	AGPL-3.0	web	Real Estate Listings	Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER	
+SeanWong17/building-sunlight-simulator	490	MIT	web	Real Estate Listings	纯前端楼盘采光模拟工具链：规划图标注 → 3D 阴影可视化 | Frontend-only building sunlight simulator: plan annotation to 3D shadow visualization	
+AlpacaLabsLLC/skills-for-architects	404	MIT	web	Real Estate Listings	Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go.	
+tae0y/real-estate-mcp	379	MIT	web	Real Estate Listings	🏠 Ask Claude about Korean apartment prices — powered by 국토교통부 open API	
+AleksNeStu/ai-real-estate-assistant	321	MIT	web	Real Estate Listings	@{homepage=https://ai-real-estate-demo.devs-scaler.workers.dev; description=Open-source AI real estate assistant: RAG + vector search over your own listings, 16 LLM providers, FastAPI + Next.js. Run it on your own server with Docker, or try the live demo.}.des	

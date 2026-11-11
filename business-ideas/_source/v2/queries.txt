@@ -1,0 +1,658 @@
+# sector|Category|min_stars|query1;;query2;;...
+hosting|PaaS & Self-Hosted Heroku Alternatives|150|topic:paas;;heroku alternative;;topic:self-hosted topic:deployment
+hosting|Hosting Control Panels|100|topic:control-panel;;"hosting control panel";;topic:web-hosting
+hosting|Hosting Billing & Automation|50|topic:whmcs;;"hosting billing";;topic:billing-system
+hosting|VPS & Cloud Management|100|topic:cloud-management;;topic:vps;;topic:multi-cloud
+hosting|Game Server Panels|50|topic:game-server;;"game server panel";;topic:game-hosting
+hosting|Object Storage|150|topic:object-storage;;topic:s3-compatible
+hosting|CDN & Edge Caching|100|topic:cdn;;topic:http-cache
+hosting|Reverse Proxy & Load Balancers|200|topic:reverse-proxy;;topic:load-balancer;;topic:ingress-controller
+hosting|DNS Servers & Managed DNS|100|topic:dns-server;;topic:dns;;topic:dns-over-https
+hosting|Email Servers & Mail Hosting|100|topic:mail-server;;topic:mailserver;;topic:email-server
+hosting|Transactional Email & SMTP Relays|100|topic:smtp-server;;topic:transactional-email;;topic:email-delivery
+hosting|Databases & DBaaS|300|topic:database-as-a-service;;topic:postgres-operator;;topic:database-management
+hosting|Backups & Disaster Recovery|150|topic:backup;;topic:backup-tool;;topic:disaster-recovery
+hosting|Monitoring & Observability|200|topic:monitoring;;topic:observability;;topic:apm
+hosting|Logging & Log Management|150|topic:log-management;;topic:logging;;topic:log-analysis
+hosting|Uptime Monitoring & Status Pages|100|topic:uptime-monitoring;;topic:status-page;;topic:uptime
+hosting|CI/CD|200|topic:ci-cd;;topic:continuous-integration;;topic:continuous-delivery
+hosting|Git Hosting|100|topic:git-server;;topic:git-hosting;;topic:code-hosting
+hosting|Container Registries|100|topic:container-registry;;topic:docker-registry
+hosting|Kubernetes Platforms & Dashboards|200|topic:kubernetes-dashboard;;topic:kubernetes-platform;;topic:k8s-management
+hosting|Serverless & FaaS|200|topic:serverless;;topic:faas;;topic:functions-as-a-service
+hosting|VPN & Mesh Networking|200|topic:vpn;;topic:wireguard;;topic:mesh-network;;topic:zero-trust
+hosting|Identity, SSO & Auth|200|topic:identity-provider;;topic:sso;;topic:authentication;;topic:oauth2-server;;topic:iam
+hosting|Secrets Management|150|topic:secrets-management;;topic:secret-management
+hosting|API Gateways|150|topic:api-gateway;;topic:api-management
+hosting|Message Queues & Streaming|200|topic:message-queue;;topic:message-broker;;topic:event-streaming
+hosting|Search Engines|200|topic:search-engine;;topic:full-text-search
+hosting|WAF & Security|150|topic:waf;;topic:web-application-firewall;;topic:ddos-protection;;topic:bot-detection
+hosting|Backend-as-a-Service|150|topic:baas;;topic:backend-as-a-service;;firebase alternative
+hosting|File Sync & Cloud Drives|150|topic:file-sync;;topic:cloud-storage;;topic:nextcloud;;dropbox alternative
+hosting|Remote Desktop & VDI|100|topic:remote-desktop;;topic:vdi;;topic:rdp
+hosting|Tunneling (ngrok Alternatives)|150|topic:tunnel;;topic:ngrok;;topic:reverse-tunnel
+hosting|Feature Flags|100|topic:feature-flags;;topic:feature-toggles
+hosting|Error Tracking & Session Replay|100|topic:error-tracking;;topic:session-replay;;topic:error-monitoring
+hosting|Cron & Job Schedulers|150|topic:job-scheduler;;topic:cron;;topic:workflow-orchestration;;topic:task-queue
+hosting|Edge & WebAssembly Runtimes|150|topic:wasm-runtime;;topic:edge-computing;;topic:webassembly-runtime
+hosting|Infrastructure as Code & Config|300|topic:infrastructure-as-code;;topic:configuration-management;;topic:provisioning
+hosting|Bare Metal Provisioning|50|topic:bare-metal;;topic:pxe;;topic:metal-as-a-service
+hosting|Homelab & Self-Hosting Platforms|150|topic:homelab;;topic:self-hosting;;topic:selfhosted;;topic:home-server
+hosting|Web Servers & App Hosting|300|topic:web-server;;topic:http-server;;topic:application-server
+hosting|Certificates & PKI|100|topic:pki;;topic:certificate-authority;;topic:acme;;topic:letsencrypt
+hosting|Incident Management & Alerting|100|topic:incident-management;;topic:on-call;;topic:alerting
+hosting|Load Testing & Performance|150|topic:load-testing;;topic:performance-testing;;topic:benchmarking-tool
+hosting|Network Management & IPAM|50|topic:ipam;;topic:network-management;;topic:network-monitoring;;topic:netbox
+hosting|Service Mesh & Orchestration|200|topic:service-mesh;;topic:container-orchestration
+hosting|Realtime & Webhooks|150|topic:webhooks;;topic:realtime;;topic:websocket-server;;topic:pubsub
+hosting|Container Runtimes & Tools|200|topic:containers;;topic:docker-compose;;topic:container-management
+hosting|Cloud Dev Environments|100|topic:cloud-ide;;topic:development-environment;;topic:devcontainers;;topic:online-ide
+hosting|Virtualization & Hypervisors|100|topic:virtualization;;topic:hypervisor;;topic:kvm;;topic:proxmox
+hosting|Database Admin & GUI Tools|200|topic:database-gui;;topic:sql-client;;topic:database-tool;;topic:database-client
+hosting|Cloud Cost & FinOps|50|topic:finops;;topic:cloud-cost;;topic:cost-optimization
+hosting|Chaos Engineering & Reliability|100|topic:chaos-engineering;;topic:sre
+hosting|Email Testing & Dev Mail|100|topic:mail-testing;;topic:mailhog;;topic:email-testing
+hosting|Static Hosting & Deploy Tools|100|topic:static-hosting;;topic:deployment-tool;;topic:deploy;;netlify alternative;;vercel alternative
+hosting|Storage & NAS|100|topic:nas;;topic:distributed-storage;;topic:distributed-filesystem;;topic:storage
+hosting|Media Transcoding Infrastructure|100|topic:transcoding;;topic:video-processing;;topic:ffmpeg
+business|CRM|100|topic:crm;;topic:customer-relationship-management;;salesforce alternative
+business|ERP|100|topic:erp;;topic:enterprise-resource-planning;;topic:odoo
+business|Accounting & Invoicing|100|topic:accounting;;topic:invoicing;;topic:invoice;;topic:bookkeeping
+business|HR & Payroll|50|topic:hrm;;topic:payroll;;topic:human-resources;;topic:hris
+business|Applicant Tracking|50|topic:ats;;topic:applicant-tracking-system;;topic:recruitment;;topic:recruiting
+business|Project Management|150|topic:project-management;;topic:task-management;;jira alternative;;asana alternative
+business|Kanban|100|topic:kanban;;topic:kanban-board;;trello alternative
+business|Time Tracking|100|topic:time-tracking;;topic:timesheet;;topic:time-tracker
+business|Helpdesk & Ticketing|100|topic:helpdesk;;topic:ticketing-system;;topic:customer-support;;zendesk alternative
+business|Live Chat & Messaging|100|topic:live-chat;;topic:livechat;;topic:customer-messaging;;intercom alternative
+business|Knowledge Base & Docs Sites|100|topic:knowledge-base;;topic:documentation-tool;;topic:knowledge-management
+business|Email Marketing|100|topic:email-marketing;;topic:newsletter;;mailchimp alternative
+business|Marketing Automation|100|topic:marketing-automation;;topic:marketing;;topic:growth-hacking
+business|Forms & Surveys|100|topic:form-builder;;topic:survey;;topic:forms;;typeform alternative
+business|Scheduling & Booking|100|topic:appointment-scheduling;;topic:booking-system;;topic:scheduling;;calendly alternative;;topic:booking
+business|E-Signature|50|topic:e-signature;;topic:esignature;;topic:digital-signature;;docusign alternative
+business|Document Management|100|topic:document-management;;topic:dms;;topic:paperless
+business|Password Managers|150|topic:password-manager;;topic:password-management
+business|Team Chat|150|topic:team-chat;;topic:chat-application;;slack alternative;;topic:team-communication
+business|Video Conferencing|150|topic:video-conferencing;;topic:webrtc;;topic:video-call;;zoom alternative
+business|Wiki|100|topic:wiki;;topic:wiki-software;;confluence alternative
+business|Notes & Collaborative Docs|200|topic:note-taking;;topic:collaborative-editing;;topic:notes-app;;notion alternative
+business|Inventory & Warehouse|50|topic:inventory-management;;topic:warehouse-management;;topic:inventory;;topic:wms
+business|Point of Sale|50|topic:pos;;topic:point-of-sale;;topic:pos-system
+business|Field Service|30|topic:field-service;;"field service management";;topic:work-order
+business|IT Asset Management|50|topic:it-asset-management;;topic:itam;;topic:itsm;;topic:asset-management
+business|Procurement & Purchasing|30|topic:procurement;;topic:purchase-order;;topic:e-procurement
+business|Legal & Practice Management|30|topic:legal-tech;;topic:legaltech;;topic:law;;"case management"
+business|Property Management|30|topic:property-management;;topic:real-estate-management;;topic:rental-management
+business|Restaurant Management|30|topic:restaurant;;topic:restaurant-management;;topic:food-ordering
+business|Hotel & Property PMS|30|topic:hotel-management;;topic:hotel;;topic:pms;;topic:hotel-booking
+business|Gym & Fitness|30|topic:gym-management;;topic:gym;;topic:fitness-app
+business|Church Management|20|topic:church;;topic:church-management
+business|Nonprofit & Donor CRM|30|topic:nonprofit;;topic:fundraising;;topic:donations;;topic:charity
+business|LMS & E-Learning|100|topic:lms;;topic:e-learning;;topic:elearning;;topic:learning-management-system
+business|School Management & SIS|30|topic:school-management;;topic:student-information-system;;topic:school-management-system;;topic:education-management
+business|Healthcare EMR & Clinic|50|topic:ehr;;topic:emr;;topic:electronic-health-records;;topic:hospital-management;;topic:clinic-management;;topic:healthcare
+business|Social Media Scheduling|50|topic:social-media-scheduling;;topic:social-media-management;;buffer alternative
+business|OKRs & Goals|20|topic:okr;;topic:goal-tracking;;topic:objectives-key-results
+business|Expense & Personal Finance|100|topic:expense-tracker;;topic:expense-management;;topic:personal-finance;;topic:budgeting
+business|Contracts & CLM|20|topic:contract-management;;topic:clm;;"contract lifecycle"
+business|Quoting & CPQ|20|topic:cpq;;topic:quotation;;topic:quotes;;"proposal software"
+business|Billing & Subscriptions|50|topic:subscription-billing;;topic:billing;;topic:recurring-billing;;topic:metering
+business|Business Intelligence|200|topic:business-intelligence;;topic:bi;;topic:data-visualization;;topic:dashboard
+business|Internal Tools & Low-Code|200|topic:low-code;;topic:internal-tools;;topic:no-code;;retool alternative
+business|Spreadsheets & No-Code DB|100|topic:spreadsheet;;topic:airtable-alternative;;topic:airtable;;topic:nocodb
+business|Whiteboards & Diagrams|100|topic:whiteboard;;topic:diagramming;;topic:diagram-editor;;topic:flowchart
+business|Office Suites|100|topic:office-suite;;topic:office;;topic:document-editor;;topic:collaborative-editor
+business|Feedback & Roadmaps|30|topic:feedback;;topic:product-roadmap;;topic:feature-requests;;topic:user-feedback;;canny alternative
+business|Membership & Clubs|20|topic:membership-management;;topic:membership;;topic:club-management
+business|Car Rental & Fleet|20|topic:car-rental;;topic:fleet-management;;topic:vehicle-management
+business|RMM & Remote Support|50|topic:rmm;;topic:remote-support;;topic:remote-management;;topic:remote-access
+business|AI Chatbot Builders|100|topic:chatbot-builder;;topic:chatbot-platform;;topic:chatbot-framework;;topic:conversational-ai
+business|Digital Signage|20|topic:digital-signage;;topic:signage
+business|Queue Management & Kiosks|10|topic:queue-management;;topic:kiosk;;"queue management system"
+business|Loyalty & Rewards|20|topic:loyalty;;topic:loyalty-program;;topic:rewards;;topic:gift-cards
+business|Customer Data Platform|50|topic:cdp;;topic:customer-data-platform;;segment alternative
+business|Sales Engagement & Outreach|30|topic:sales;;topic:cold-email;;topic:lead-generation;;topic:outreach;;topic:sales-automation
+business|Affiliate & Partner Management|20|topic:affiliate;;topic:affiliate-marketing;;topic:referral-program
+business|Reputation & Reviews Management|20|topic:reviews;;topic:testimonials;;topic:reputation
+business|Compliance & Audit (GRC)|30|topic:compliance;;topic:grc;;topic:audit;;topic:soc2;;vanta alternative
+business|Board & Meeting Management|20|topic:meetings;;topic:meeting-notes;;topic:agenda;;topic:meeting
+business|Employee Engagement & Intranet|20|topic:intranet;;topic:employee-engagement;;topic:social-intranet;;topic:employee-experience
+business|Translation & Localization Management|50|topic:localization;;topic:translation-management;;topic:i18n-platform;;crowdin alternative
+business|Document Generation & Automation|20|topic:document-generation;;topic:pdf-generation;;topic:document-automation;;topic:report-generation
+business|Calendar & Resource Booking|50|topic:calendar;;topic:room-booking;;topic:resource-booking;;topic:desk-booking
+web|Traditional CMS|200|topic:cms;;topic:content-management-system;;wordpress alternative
+web|Headless CMS|150|topic:headless-cms;;topic:api-first-cms;;strapi alternative
+web|Website Builders|100|topic:website-builder;;topic:site-builder;;topic:page-builder;;webflow alternative;;wix alternative
+web|Static Site Generators|300|topic:static-site-generator;;topic:ssg;;topic:jamstack
+web|Blogging Platforms|150|topic:blog;;topic:blogging;;topic:blog-engine;;topic:blogging-platform
+web|E-commerce Platforms|150|topic:ecommerce;;topic:e-commerce;;topic:ecommerce-platform;;shopify alternative
+web|Headless Storefronts|50|topic:headless-commerce;;topic:storefront;;topic:ecommerce-storefront;;topic:shopify-hydrogen
+web|Multivendor Marketplaces|30|topic:marketplace;;topic:multivendor;;topic:multi-vendor;;topic:marketplace-platform
+web|Subscription Billing|50|topic:subscriptions;;topic:saas-billing;;topic:payments;;topic:payment-processing
+web|Payment Orchestration|50|topic:payment-gateway;;topic:payment;;topic:checkout
+web|Crowdfunding & Donations|20|topic:crowdfunding;;topic:donation;;topic:donate;;patreon alternative
+web|Affiliate & Referral|20|topic:referral;;topic:affiliate-program;;topic:referral-system
+web|Link Shorteners|150|topic:url-shortener;;topic:link-shortener;;topic:short-url;;bitly alternative
+web|Link-in-Bio|50|topic:link-in-bio;;topic:linktree;;linktree alternative
+web|Web Analytics|150|topic:web-analytics;;topic:analytics;;topic:privacy-analytics;;google analytics alternative
+web|Product Analytics & A/B Testing|100|topic:product-analytics;;topic:ab-testing;;topic:experimentation;;topic:feature-experimentation
+web|SEO Tools|100|topic:seo;;topic:seo-tools;;topic:seo-audit;;topic:sitemap
+web|Comment Systems|100|topic:comments;;topic:commenting-system;;topic:comment-system;;disqus alternative
+web|Forums|150|topic:forum;;topic:forum-software;;topic:discussion;;topic:community
+web|Q&A Sites|50|topic:question-answering;;topic:qna;;topic:q-and-a;;topic:stackoverflow-clone;;"q&a platform"
+web|Fediverse & Social Networks|150|topic:fediverse;;topic:activitypub;;topic:social-network;;topic:mastodon;;topic:decentralized-social
+web|Job Boards|20|topic:job-board;;topic:jobs;;topic:job-portal;;topic:job-search
+web|Classifieds|20|topic:classifieds;;topic:classified-ads;;craigslist clone;;olx clone
+web|Directories|20|topic:directory;;topic:business-directory;;topic:directory-listing;;"directory website"
+web|Reviews & Testimonials|20|topic:review-system;;topic:ratings;;topic:rating-system
+web|Events & Ticketing|50|topic:event-management;;topic:ticketing;;topic:events;;topic:event-ticketing;;eventbrite alternative
+web|Auctions|10|topic:auction;;topic:auctions;;topic:bidding;;"auction platform"
+web|Digital Downloads & Creator Stores|30|topic:digital-products;;topic:digital-downloads;;topic:creator-economy;;gumroad alternative
+web|Membership & Paywall|30|topic:membership;;topic:paywall;;topic:members;;topic:subscription-platform
+web|Documentation Sites|200|topic:documentation;;topic:docs;;topic:documentation-generator;;topic:docs-as-code
+web|Landing Pages|100|topic:landing-page;;topic:landing-page-template;;topic:saas-landing-page
+web|Photo Galleries & Portfolios|100|topic:gallery;;topic:photo-gallery;;topic:portfolio;;topic:image-gallery;;topic:portfolio-website
+web|Bookmark Managers|100|topic:bookmarks;;topic:bookmark-manager;;topic:read-it-later;;pocket alternative;;topic:bookmarking
+web|Newsletters & Email Marketing|50|topic:newsletters;;topic:newsletter-platform;;substack alternative
+web|Wedding & RSVP|10|topic:wedding;;topic:rsvp;;topic:wedding-website
+web|Real Estate Listings|20|topic:real-estate;;topic:realestate;;topic:property-listing;;topic:zillow
+web|Travel & Hotel Booking|20|topic:travel;;topic:booking-engine;;topic:hotel-booking-system;;airbnb clone
+web|Restaurants & Online Menus|20|topic:restaurant-website;;topic:menu;;topic:online-ordering;;topic:qr-menu
+web|Wiki Farms|50|topic:mediawiki;;topic:wiki-engine;;topic:wiki-platform
+web|Polls & Voting|50|topic:polls;;topic:voting;;topic:poll;;topic:voting-system;;doodle alternative
+web|Dating Sites|10|topic:dating;;topic:dating-app;;topic:dating-site;;tinder clone
+web|Podcast & Audio Hosting|30|topic:podcast;;topic:podcast-hosting;;topic:podcasting;;topic:audio-player
+web|Video Platforms|100|topic:video-platform;;topic:video-sharing;;youtube alternative;;topic:peertube
+web|Community Platforms|50|topic:community-platform;;topic:online-community;;circle alternative;;discourse alternative
+web|Feedback Boards & Roadmaps|20|topic:feedback-board;;topic:roadmap;;topic:changelog;;topic:release-notes
+web|File Sharing|100|topic:file-sharing;;topic:file-upload;;topic:file-transfer;;wetransfer alternative;;topic:filesharing
+web|Pastebin & Snippets|50|topic:pastebin;;topic:snippets;;topic:snippet-manager;;topic:code-snippets
+web|Image Optimization|100|topic:image-optimization;;topic:image-processing;;topic:image-resizing;;topic:image-cdn
+web|Ad Serving|20|topic:ad-server;;topic:adserver;;topic:advertising;;topic:ads
+web|Site Search|50|topic:site-search;;topic:search;;topic:search-as-a-service;;algolia alternative
+web|Site Themes & Templates|200|topic:hugo-theme;;topic:jekyll-theme;;topic:ghost-theme;;topic:wordpress-theme;;topic:astro-theme;;topic:website-template
+web|SaaS Starter Kits|150|topic:saas-boilerplate;;topic:saas-starter;;topic:saas-template;;topic:boilerplate;;topic:starter-kit;;topic:saas-kit
+web|Appointment Booking|30|topic:appointment-booking;;topic:appointments;;topic:reservation-system;;topic:reservations
+web|Website Live Chat|50|topic:chat-widget;;topic:website-chat;;topic:support-chat;;crisp alternative
+web|Online Courses|50|topic:online-courses;;topic:course-platform;;topic:mooc;;teachable alternative;;topic:online-learning
+web|URL & QR Tools|50|topic:qr-code;;topic:qrcode-generator;;topic:qr-code-generator
+web|Web Accessibility & Testing|100|topic:accessibility;;topic:a11y;;topic:web-accessibility
+web|Cookie Consent & Privacy|50|topic:cookie-consent;;topic:gdpr;;topic:consent-management;;topic:privacy
+web|Domain & WHOIS Tools|50|topic:domain;;topic:whois;;topic:domain-names;;topic:domain-search
+web|Web Push & Notifications|50|topic:web-push;;topic:push-notifications;;topic:notifications;;onesignal alternative
+web|News, RSS & Aggregators|30|topic:news;;topic:news-aggregator;;topic:rss-reader;;topic:rss;;topic:feed-reader
+web|Giveaways & Contests|10|topic:giveaway;;topic:contest;;topic:sweepstakes;;topic:raffle
+web|Portals & Intranets|30|topic:portal;;topic:web-portal;;topic:liferay
+web|Website Screenshot & Change Monitoring|50|topic:screenshot;;topic:website-screenshot;;topic:change-detection;;topic:website-monitoring
+media_ai|AI Chat Interfaces|300|topic:chatgpt-ui;;topic:llm-ui;;topic:chat-ui;;topic:chatgpt-clone;;topic:ai-chat
+media_ai|LLM Serving & Inference|300|topic:llm-inference;;topic:llm-serving;;topic:inference-server;;topic:model-serving
+media_ai|RAG & Knowledge Bots|200|topic:rag;;topic:retrieval-augmented-generation;;topic:knowledge-base-chatbot;;topic:document-qa;;chat with pdf
+media_ai|AI Agent Frameworks|300|topic:ai-agents;;topic:llm-agents;;topic:agent-framework;;topic:autonomous-agents;;topic:multi-agent
+media_ai|AI Image Generation|200|topic:stable-diffusion;;topic:image-generation;;topic:text-to-image;;topic:stable-diffusion-webui
+media_ai|AI Video & Avatars|150|topic:video-generation;;topic:text-to-video;;topic:talking-head;;topic:avatar;;topic:lipsync
+media_ai|AI Music & Audio|150|topic:music-generation;;topic:audio-generation;;topic:voice-cloning;;topic:voice-conversion
+media_ai|Speech-to-Text|150|topic:speech-to-text;;topic:speech-recognition;;topic:asr;;topic:transcription;;topic:whisper
+media_ai|Text-to-Speech|150|topic:text-to-speech;;topic:tts;;topic:speech-synthesis
+media_ai|Machine Translation|100|topic:machine-translation;;topic:translation;;topic:translator;;deepl alternative
+media_ai|OCR & Document AI|150|topic:ocr;;topic:document-ai;;topic:document-parsing;;topic:pdf-parsing;;topic:invoice-extraction;;topic:document-understanding
+media_ai|Computer Vision|200|topic:object-detection;;topic:computer-vision;;topic:face-recognition;;topic:image-recognition;;topic:video-analytics
+media_ai|Vector Databases|200|topic:vector-database;;topic:vector-search;;topic:similarity-search;;topic:embeddings
+media_ai|MLOps|200|topic:mlops;;topic:ml-platform;;topic:experiment-tracking;;topic:model-registry;;topic:feature-store
+media_ai|Data Labeling|100|topic:data-labeling;;topic:annotation-tool;;topic:image-annotation;;topic:labeling-tool;;topic:data-annotation
+media_ai|LLM Gateways & Observability|100|topic:llm-gateway;;topic:llm-observability;;topic:llmops;;topic:prompt-management;;topic:prompt-engineering
+media_ai|AI Coding Assistants|300|topic:ai-coding;;topic:code-generation;;topic:coding-assistant;;topic:copilot;;topic:code-assistant;;topic:ai-code-review
+media_ai|Chatbot & Voice Assistants|150|topic:voice-assistant;;topic:chatbot;;topic:bot-framework;;topic:virtual-assistant;;alexa alternative
+media_ai|AI Writing & Content|100|topic:ai-writing;;topic:content-generation;;topic:copywriting;;topic:ai-writer;;topic:blog-generator
+media_ai|AI Search & Answer Engines|150|topic:ai-search;;topic:perplexity;;topic:answer-engine;;perplexity alternative;;topic:search-engine-ai
+media_ai|Fine-Tuning & Training|200|topic:fine-tuning;;topic:llm-training;;topic:lora;;topic:peft;;topic:rlhf
+media_ai|Local AI & Model Runners|300|topic:local-llm;;topic:ollama;;topic:llama;;topic:gguf;;topic:local-ai
+media_ai|AI Evaluation & Testing|100|topic:llm-evaluation;;topic:evaluation;;topic:ai-testing;;topic:red-teaming;;topic:llm-eval
+media_ai|Prompt Tools & Libraries|100|topic:prompts;;topic:prompt;;topic:prompt-library;;topic:system-prompts
+media_ai|Recommendation Engines|100|topic:recommender-system;;topic:recommendation-system;;topic:recommendation-engine;;topic:personalization
+media_ai|Forecasting & Time Series|150|topic:forecasting;;topic:time-series;;topic:time-series-forecasting;;topic:anomaly-detection
+media_ai|NLP & Text Analytics|200|topic:nlp;;topic:sentiment-analysis;;topic:text-classification;;topic:named-entity-recognition;;topic:text-mining
+media_ai|BI & Dashboards|150|topic:dashboards;;topic:reporting;;topic:metabase;;topic:superset;;tableau alternative
+media_ai|ETL & ELT|150|topic:etl;;topic:elt;;topic:data-pipeline;;topic:data-integration;;topic:data-engineering;;fivetran alternative
+media_ai|Data Catalogs|50|topic:data-catalog;;topic:data-governance;;topic:data-lineage;;topic:metadata-management;;topic:data-quality
+media_ai|Databases & Analytics Engines|300|topic:olap;;topic:analytics-database;;topic:time-series-database;;topic:columnar;;topic:data-warehouse;;topic:lakehouse
+media_ai|Notebooks & Data Science|200|topic:jupyter;;topic:notebook;;topic:data-science;;topic:data-apps;;topic:streamlit
+media_ai|Spreadsheet Databases|50|topic:spreadsheet-database;;topic:online-spreadsheet;;topic:data-grid;;google sheets alternative
+media_ai|Low-Code App Builders|150|topic:low-code-platform;;topic:app-builder;;topic:lowcode;;topic:rapid-application-development;;bubble alternative
+media_ai|Internal Tool Builders|100|topic:admin-panel;;topic:admin-dashboard;;topic:backoffice;;topic:crud-generator;;topic:admin
+media_ai|Workflow Automation|200|topic:workflow-automation;;topic:automation;;topic:ipaas;;topic:integration-platform;;zapier alternative;;topic:n8n
+media_ai|RPA & Browser Automation|150|topic:rpa;;topic:browser-automation;;topic:robotic-process-automation;;topic:web-automation;;topic:playwright
+media_ai|API Dev Tools & Mocking|200|topic:api-testing;;topic:api-client;;topic:mock-server;;topic:api-documentation;;postman alternative;;topic:openapi
+media_ai|Web Scraping|200|topic:web-scraping;;topic:scraper;;topic:crawler;;topic:web-crawler;;topic:data-extraction
+media_ai|Push Notifications|50|topic:push-notification;;topic:notification-service;;topic:notification-system;;topic:ntfy
+media_ai|SMS & WhatsApp Gateways|100|topic:sms-gateway;;topic:whatsapp;;topic:whatsapp-api;;topic:whatsapp-bot;;topic:sms;;topic:telegram-bot
+media_ai|VoIP & PBX|50|topic:voip;;topic:pbx;;topic:sip;;topic:asterisk;;topic:freeswitch;;topic:sip-server
+media_ai|Contact Center & Support|30|topic:call-center;;topic:contact-center;;topic:omnichannel;;topic:customer-engagement
+media_ai|Webmail & Email Servers|100|topic:webmail;;topic:email-client;;topic:imap;;topic:mail-client
+media_ai|Video Hosting|100|topic:video-hosting;;topic:video-streaming;;topic:video-on-demand;;topic:vod
+media_ai|Live Streaming|100|topic:live-streaming;;topic:rtmp;;topic:hls;;topic:streaming-server;;topic:webrtc-streaming;;topic:obs
+media_ai|Media Servers|100|topic:media-server;;topic:plex;;topic:jellyfin;;topic:home-media;;topic:dlna
+media_ai|Music Streaming|100|topic:music-streaming;;topic:music-server;;topic:music-player;;spotify alternative;;topic:subsonic
+media_ai|Internet Radio|20|topic:internet-radio;;topic:radio;;topic:icecast;;topic:radio-station;;topic:web-radio
+media_ai|Podcast Hosting|20|topic:podcast-generator;;topic:podcast-player;;topic:podcast-app;;topic:podcasts
+media_ai|Image Hosting|50|topic:image-hosting;;topic:imgur;;topic:image-upload;;topic:image-sharing;;imgur alternative
+media_ai|Pastebins & File Drop|50|topic:file-drop;;topic:temporary-file-sharing;;topic:anonymous-upload;;topic:paste
+media_ai|Video Editing|100|topic:video-editor;;topic:video-editing;;topic:subtitles;;topic:auto-subtitle
+media_ai|Photo Editing|100|topic:photo-editing;;topic:image-editor;;topic:photo-editor;;topic:image-manipulation;;photoshop alternative;;topic:background-removal
+media_ai|Design Tools|150|topic:design-tool;;topic:vector-graphics;;topic:graphic-design;;figma alternative;;canva alternative;;topic:design-system
+media_ai|Whiteboards|50|topic:collaborative-whiteboard;;topic:online-whiteboard;;topic:drawing;;topic:sketching;;miro alternative
+media_ai|Screen Recording|50|topic:screen-recording;;topic:screen-recorder;;topic:screen-capture;;loom alternative;;topic:screencast
+media_ai|Video Surveillance|50|topic:video-surveillance;;topic:nvr;;topic:ip-camera;;topic:cctv;;topic:surveillance
+media_ai|Digital Asset Management|50|topic:digital-asset-management;;topic:dam;;topic:asset-management-system;;topic:media-library;;topic:photo-management
+media_ai|Social Media Management|50|topic:social-media;;topic:social-media-automation;;topic:instagram-bot;;topic:twitter-bot;;topic:content-scheduling
+media_ai|Newsletters & Publishing|50|topic:publishing;;topic:publishing-platform;;topic:magazine;;topic:ebook;;topic:epub
+media_ai|URL Shorteners & Link Tools|30|topic:link-management;;topic:link-tracking;;topic:utm;;topic:short-links
+media_ai|3D & Rendering|150|topic:3d;;topic:rendering;;topic:3d-graphics;;topic:ray-tracing;;topic:blender;;topic:3d-modeling
+media_ai|Fonts & Typography|100|topic:font;;topic:fonts;;topic:typography;;topic:font-editor;;topic:typeface
+media_ai|Audio Production & DAW|100|topic:daw;;topic:audio-editor;;topic:audio-processing;;topic:music-production;;topic:vst;;topic:audio-plugin
+media_ai|Memes, GIFs & Stickers|30|topic:meme;;topic:meme-generator;;topic:gif;;topic:sticker;;topic:gif-maker
+media_ai|E-book & PDF Tools|150|topic:pdf;;topic:pdf-tools;;topic:pdf-editor;;topic:ebook-reader;;topic:calibre;;topic:pdf-converter
+media_ai|Media Download & Conversion|200|topic:youtube-dl;;topic:youtube-downloader;;topic:media-downloader;;topic:video-converter;;topic:file-converter
+media_ai|Data Visualization Libraries|300|topic:charts;;topic:charting;;topic:visualization;;topic:plotting;;topic:graph-visualization
+media_ai|Synthetic Data & Privacy|50|topic:synthetic-data;;topic:data-anonymization;;topic:data-masking;;topic:pii;;topic:differential-privacy
+media_ai|Geospatial AI & Satellite|50|topic:satellite-imagery;;topic:remote-sensing;;topic:earth-observation;;topic:geospatial-ai
+games|2D Game Engines|200|topic:2d-game-engine;;topic:game-engine-2d;;topic:2d-engine;;topic:2d-game-framework
+games|3D Game Engines|200|topic:game-engine;;topic:3d-game-engine;;topic:3d-engine;;topic:godot
+games|Web Game Engines|150|topic:html5-game-engine;;topic:webgl;;topic:javascript-game-engine;;topic:html5-games;;topic:browser-game
+games|Game Backends|50|topic:game-backend;;topic:game-server-framework;;topic:multiplayer-game-server;;nakama
+games|Game Networking|100|topic:multiplayer;;topic:netcode;;topic:game-networking;;topic:online-multiplayer;;topic:rollback-netcode
+games|Matchmaking & Ratings|20|topic:matchmaking;;topic:elo;;topic:leaderboard;;topic:leaderboards;;topic:ranking-system
+games|Live Ops & Analytics|20|topic:game-analytics;;topic:liveops;;topic:game-telemetry;;topic:player-analytics
+games|Game Server Hosting|50|topic:dedicated-server;;topic:game-servers;;topic:minecraft-server;;topic:valheim;;topic:palworld;;topic:game-server-manager
+games|Casual & Puzzle Games|100|topic:puzzle-game;;topic:casual-game;;topic:match-3;;topic:sudoku;;topic:tetris;;topic:2048;;topic:solitaire
+games|Platformers & Arcade|50|topic:platformer;;topic:arcade-game;;topic:arcade;;topic:pixel-art-game;;topic:endless-runner;;topic:roguelike
+games|RPG Games|50|topic:rpg;;topic:mmorpg;;topic:rpg-game;;topic:jrpg;;topic:action-rpg;;topic:dungeon-crawler
+games|Strategy Games|50|topic:strategy-game;;topic:rts;;topic:turn-based-strategy;;topic:4x;;topic:tower-defense;;topic:city-builder
+games|Racing Games|30|topic:racing-game;;topic:racing;;topic:kart;;topic:driving-simulator;;topic:car-game
+games|Shooters & Arena Games|30|topic:fps;;topic:shooter;;topic:first-person-shooter;;topic:top-down-shooter;;topic:space-shooter;;topic:battle-royale
+games|Card & Board Game Engines|50|topic:card-game;;topic:board-game;;topic:boardgame;;topic:tcg;;topic:deck-building;;topic:poker;;topic:mahjong
+games|Chess & Go|50|topic:chess;;topic:chess-engine;;topic:go-game;;topic:baduk;;topic:shogi;;topic:checkers
+games|Trivia & Quiz Platforms|30|topic:quiz;;topic:trivia;;topic:quiz-app;;topic:quiz-game;;kahoot clone;;topic:kahoot
+games|Word Games|30|topic:word-game;;topic:wordle;;topic:crossword;;topic:scrabble;;topic:hangman;;topic:word-puzzle
+games|Virtual Tabletop & TTRPG|50|topic:virtual-tabletop;;topic:ttrpg;;topic:tabletop;;topic:dnd;;topic:foundry-vtt;;topic:dungeons-and-dragons
+games|Interactive Fiction|50|topic:interactive-fiction;;topic:text-adventure;;topic:twine;;topic:choose-your-own-adventure;;topic:mud;;topic:parser-game
+games|Visual Novel Engines|50|topic:visual-novel;;topic:renpy;;topic:visual-novel-engine;;topic:dating-sim
+games|Level & Map Editors|50|topic:level-editor;;topic:map-editor;;topic:tilemap;;topic:tiled;;topic:world-editor;;topic:procedural-generation
+games|Pixel Art & Sprite Tools|50|topic:pixel-art;;topic:sprite;;topic:sprite-editor;;topic:pixel-art-editor;;topic:aseprite;;topic:tileset
+games|Game Asset Pipelines|50|topic:game-assets;;topic:asset-pipeline;;topic:texture;;topic:3d-models;;topic:gltf;;topic:game-art
+games|Esports & Tournaments|20|topic:tournament;;topic:esports;;topic:bracket;;topic:tournament-bracket;;topic:tournament-management
+games|Discord & Twitch Bots|100|topic:discord-bot;;topic:twitch-bot;;topic:twitch;;topic:stream-overlay;;topic:streamer-tools
+games|Minecraft & Voxel|100|topic:minecraft;;topic:voxel;;topic:voxel-engine;;topic:minecraft-plugin;;topic:minecraft-mod;;topic:voxel-game
+games|Modding Platforms|50|topic:modding;;topic:mod-loader;;topic:mod-manager;;topic:mods;;topic:modding-tools
+games|Game Launchers & Stores|50|topic:game-launcher;;topic:launcher;;topic:game-library;;topic:game-store;;topic:itch-io
+games|Gamification Engines|20|topic:gamification;;topic:achievements;;topic:badges;;topic:points-system
+games|Kids Educational Games|30|topic:educational-game;;topic:kids;;topic:children;;topic:learning-game;;topic:math-game;;topic:typing-game
+games|Sports League Management|20|topic:sports;;topic:league;;topic:league-management;;topic:football;;topic:soccer;;topic:team-management
+games|Fantasy Sports|10|topic:fantasy-football;;topic:fantasy-sports;;topic:fantasy-premier-league;;topic:fpl
+games|Karaoke|10|topic:karaoke;;topic:ultrastar;;topic:lyrics;;topic:singing
+games|Music & Rhythm Games|30|topic:rhythm-game;;topic:osu;;topic:music-game;;topic:guitar-hero;;topic:ddr
+games|Metaverse & 3D Worlds|50|topic:metaverse;;topic:virtual-world;;topic:virtual-worlds;;topic:3d-world;;topic:opensimulator;;topic:social-vr
+games|VR/AR Frameworks|100|topic:virtual-reality;;topic:augmented-reality;;topic:webxr;;topic:vr;;topic:ar;;topic:openxr;;topic:mixed-reality
+games|Creative Coding|200|topic:creative-coding;;topic:generative-art;;topic:processing;;topic:p5js;;topic:shaders;;topic:demoscene
+games|Fantasy Consoles|50|topic:fantasy-console;;topic:pico-8;;topic:tic-80;;topic:retro-gaming;;topic:retro-games
+games|Physics & Game Libraries|200|topic:physics-engine;;topic:game-development;;topic:gamedev;;topic:game-framework;;topic:game-library;;topic:ecs
+games|Game AI & Bots|50|topic:game-ai;;topic:reinforcement-learning-environments;;topic:game-bot;;topic:behavior-tree;;topic:pathfinding
+games|Social & Party Games|30|topic:party-game;;topic:multiplayer-game;;topic:social-game;;topic:io-game;;topic:jackbox;;topic:skribbl;;topic:among-us
+games|Game Jams & Community|30|topic:game-jam;;topic:ludum-dare;;topic:gamejam;;topic:game-off
+games|Game Streaming|50|topic:cloud-gaming;;topic:game-streaming;;topic:remote-play;;topic:moonlight;;topic:sunshine;;topic:parsec
+games|Simulation & Tycoon Games|30|topic:simulation-game;;topic:tycoon;;topic:management-game;;topic:simulator;;topic:farming-game;;topic:idle-game;;topic:incremental-game
+games|Sandbox & Survival Games|30|topic:sandbox-game;;topic:survival-game;;topic:open-world;;topic:crafting;;topic:sandbox
+games|Adventure & Narrative Games|20|topic:adventure-game;;topic:point-and-click;;topic:horror-game;;topic:narrative-game;;topic:walking-simulator
+games|Fighting & Sports Games|20|topic:fighting-game;;topic:sports-game;;topic:football-game;;topic:basketball;;topic:pong;;topic:air-hockey
+games|Multiplayer Browser Games (.io)|30|topic:io-game;;topic:agar-io;;topic:slither;;topic:realtime-multiplayer;;topic:browser-multiplayer
+games|Game Dev Tools & Editors|100|topic:game-tools;;topic:game-editor;;topic:dialogue-system;;topic:dialogue-editor;;topic:shader-editor;;topic:animation-tool
+games|Speedrun, Save & Randomizer Tools|30|topic:speedrun;;topic:speedrunning;;topic:livesplit;;topic:save-editor;;topic:randomizer
+games|Bingo, Dice & Casino-Style Games|20|topic:dice;;topic:dice-game;;topic:blackjack;;topic:bingo;;topic:roulette
+mobile|Mobile App Starter Kits|200|topic:react-native-boilerplate;;topic:flutter-starter;;topic:flutter-template;;topic:expo-template;;topic:react-native-template;;topic:flutter-boilerplate;;topic:swiftui-template
+mobile|E-commerce Mobile Apps|50|topic:flutter-ecommerce;;topic:ecommerce-app;;topic:react-native-ecommerce;;topic:shopping-app;;topic:woocommerce-app
+mobile|Food Delivery|20|topic:food-delivery;;topic:food-delivery-app;;topic:delivery-app;;ubereats clone;;topic:restaurant-app
+mobile|Ride-Hailing & Taxi|20|topic:ride-sharing;;topic:taxi;;topic:ridesharing;;uber clone;;topic:taxi-app;;topic:carpooling
+mobile|On-Demand Services|10|topic:on-demand;;topic:service-marketplace;;topic:handyman;;topic:home-services;;topic:gig-economy;;topic:freelance-marketplace
+mobile|Fitness & Workout|50|topic:fitness;;topic:workout;;topic:workout-tracker;;topic:fitness-tracker;;topic:strength-training;;topic:running
+mobile|Health & Telemedicine|30|topic:telemedicine;;topic:telehealth;;topic:health;;topic:mhealth;;topic:healthcare-app;;topic:medical-app
+mobile|Fintech Wallets|50|topic:wallet;;topic:fintech;;topic:mobile-money;;topic:digital-wallet;;topic:payment-app;;topic:mobile-payments
+mobile|Core Banking|30|topic:core-banking;;topic:banking;;topic:banking-system;;topic:open-banking;;topic:neobank;;topic:bank
+mobile|Personal Budgeting|100|topic:budget;;topic:budgeting-app;;topic:money-manager;;topic:finance-tracker;;ynab alternative;;topic:budget-app
+mobile|Crypto Wallets|100|topic:crypto-wallet;;topic:bitcoin-wallet;;topic:ethereum-wallet;;topic:web3-wallet;;topic:lightning-wallet
+mobile|Dating|10|topic:dating-application;;topic:matchmaking-app;;topic:flutter-dating;;topic:swipe
+mobile|Social Apps|50|topic:social-media-app;;topic:social-app;;topic:instagram-clone;;topic:twitter-clone;;topic:reddit-clone;;topic:social-platform
+mobile|Secure Messaging|150|topic:secure-messaging;;topic:end-to-end-encryption;;topic:messenger;;topic:matrix;;topic:xmpp;;topic:signal;;topic:chat-app
+mobile|Maps & Navigation|100|topic:openstreetmap;;topic:navigation;;topic:maps;;topic:routing;;topic:gps;;topic:offline-maps;;topic:mapping
+mobile|Travel & Trip Planning|30|topic:trip-planner;;topic:travel-app;;topic:itinerary;;topic:travel-planner;;topic:trips
+mobile|Weather|50|topic:weather;;topic:weather-app;;topic:weather-forecast;;topic:meteorology
+mobile|Home Automation & IoT|200|topic:home-automation;;topic:smart-home;;topic:iot;;topic:iot-platform;;topic:home-assistant;;topic:zigbee;;topic:matter
+mobile|Fleet & GPS Tracking|30|topic:gps-tracking;;topic:gps-tracker;;topic:vehicle-tracking;;topic:fleet;;topic:telematics;;topic:traccar
+mobile|Logistics & Delivery|30|topic:logistics;;topic:delivery;;topic:courier;;topic:last-mile;;topic:route-optimization;;topic:shipping;;topic:parcel
+mobile|Parking|10|topic:parking;;topic:parking-management;;topic:parking-system;;topic:parking-app;;topic:license-plate-recognition
+mobile|Digital Signage|20|topic:digital-signage-player;;topic:signage-player;;topic:screenly;;topic:info-display
+mobile|Kiosk|10|topic:kiosk-mode;;topic:self-service;;topic:kiosk-app;;topic:self-checkout;;topic:ordering-kiosk
+mobile|Language Learning & Flashcards|100|topic:language-learning;;topic:flashcards;;topic:anki;;topic:spaced-repetition;;topic:vocabulary;;topic:duolingo
+mobile|Kids & Education|50|topic:education-app;;topic:kids-app;;topic:children-app;;topic:preschool;;topic:parental-control;;topic:study-app
+mobile|Recipe & Meal Planning|50|topic:recipes;;topic:recipe-manager;;topic:meal-planning;;topic:cooking;;topic:recipe-app;;topic:grocery-list
+mobile|Habit Trackers|50|topic:habit-tracker;;topic:habits;;topic:habit-tracking;;topic:productivity-app;;topic:todo-app;;topic:pomodoro
+mobile|Journaling|50|topic:journal;;topic:journaling;;topic:diary;;topic:mood-tracker;;topic:gratitude
+mobile|Photo Backup|100|topic:photo-backup;;topic:google-photos-alternative;;topic:photos;;topic:photo-library;;topic:immich;;topic:photo-sync
+mobile|Ebook, Comic & Audiobook|100|topic:ebook-reader;;topic:comic-reader;;topic:audiobook;;topic:manga-reader;;topic:audiobook-player;;topic:comics;;topic:manga
+mobile|Podcast Apps|30|topic:podcast-client;;topic:podcast-manager;;topic:antennapod;;topic:podcatcher
+mobile|Browsers|100|topic:browser;;topic:web-browser;;topic:privacy-browser;;topic:mobile-browser;;topic:chromium
+mobile|Keyboards|30|topic:keyboard-app;;topic:android-keyboard;;topic:ime;;topic:input-method;;topic:virtual-keyboard;;topic:keyboard
+mobile|Launchers|30|topic:android-launcher;;topic:launcher-app;;topic:homescreen;;topic:minimalist-launcher
+mobile|Authenticator & 2FA|50|topic:2fa;;topic:totp;;topic:authenticator;;topic:two-factor-authentication;;topic:otp;;topic:passkeys
+mobile|Notes Apps|100|topic:markdown-notes;;topic:note-app;;topic:notes;;topic:notebook-app;;topic:obsidian;;topic:zettelkasten
+mobile|Period & Health Trackers|20|topic:period-tracker;;topic:menstrual-cycle;;topic:health-tracker;;topic:sleep-tracker;;topic:symptom-tracker;;topic:cycle-tracking
+mobile|Pet Care|10|topic:pet;;topic:pets;;topic:pet-care;;topic:dog;;topic:veterinary-app;;topic:pet-tracker
+mobile|Agriculture & Farm|20|topic:agriculture;;topic:farming;;topic:agritech;;topic:precision-agriculture;;topic:farm-management;;topic:smart-farming
+mobile|Smart City & Civic Tech|30|topic:civic-tech;;topic:smart-city;;topic:open-government;;topic:govtech;;topic:open-data;;topic:civictech
+mobile|Citizen Reporting|10|topic:citizen-science;;topic:311;;topic:issue-reporting;;topic:fixmystreet;;topic:participatory;;topic:civic-engagement
+mobile|Accessibility|50|topic:screen-reader;;topic:assistive-technology;;topic:sign-language;;topic:blind;;topic:deaf;;topic:accessibility-app;;topic:aac
+mobile|Church & Community|10|topic:bible;;topic:quran;;topic:prayer;;topic:church-app;;topic:mosque;;topic:religion
+mobile|Hotel & Hospitality|10|topic:hospitality;;topic:hotel-app;;topic:guest-app;;topic:concierge;;topic:hotel-reservation
+mobile|Real Estate & Property|20|topic:real-estate-app;;topic:property;;topic:rental;;topic:housing;;topic:apartments;;topic:property-search
+mobile|Event & Ticketing|20|topic:event-app;;topic:conference-app;;topic:ticket;;topic:tickets;;topic:meetup;;topic:event-platform
+mobile|Music Streaming|50|topic:music-app;;topic:music-streaming-app;;topic:youtube-music;;topic:spotify;;topic:audio-streaming;;topic:music
+mobile|Video Streaming & Media|50|topic:video-player;;topic:media-player;;topic:iptv;;topic:streaming-app;;topic:video-app;;topic:newpipe
+mobile|Car & Vehicle Apps|50|topic:obd2;;topic:android-auto;;topic:carplay;;topic:car;;topic:vehicle;;topic:ev;;topic:tesla
+mobile|Running, Cycling & Outdoor|50|topic:strava;;topic:cycling;;topic:hiking;;topic:gpx;;topic:outdoor;;topic:trail;;topic:fitness-tracking
+mobile|Meditation & Mental Health|30|topic:meditation;;topic:mental-health;;topic:mindfulness;;topic:wellbeing;;topic:therapy;;topic:cbt
+mobile|Shopping Lists & Household|30|topic:shopping-list;;topic:household;;topic:chores;;topic:family;;topic:home-inventory;;topic:pantry
+mobile|Baby & Parenting|10|topic:baby;;topic:parenting;;topic:baby-tracker;;topic:newborn;;topic:breastfeeding;;topic:pregnancy
+mobile|Student & Campus Apps|30|topic:student;;topic:university;;topic:campus;;topic:college;;topic:timetable;;topic:gradebook;;topic:class-schedule
+mobile|Transit & Ticketing|30|topic:public-transport;;topic:gtfs;;topic:transit;;topic:bus;;topic:train;;topic:transport;;topic:timetable-app
+mobile|Loyalty, Coupons & Deals|10|topic:coupons;;topic:deals;;topic:cashback;;topic:loyalty-app;;topic:price-tracker;;topic:price-comparison
+mobile|Wearables & Watch Apps|50|topic:wear-os;;topic:watchos;;topic:smartwatch;;topic:watchface;;topic:wearable;;topic:gadgetbridge;;topic:fitness-band
+mobile|Car Sharing & Micromobility|10|topic:car-sharing;;topic:bike-sharing;;topic:scooter;;topic:micromobility;;topic:mobility;;topic:carsharing
+mobile|Emergency & Safety|20|topic:emergency;;topic:sos;;topic:safety;;topic:first-aid;;topic:disaster;;topic:panic-button;;topic:personal-safety
+mobile|Cross-Platform Frameworks|300|topic:cross-platform;;topic:mobile-framework;;topic:hybrid-app;;topic:flutter;;topic:react-native;;topic:kotlin-multiplatform;;topic:capacitor
+mobile|Mobile Backend & Sync (MBaaS)|100|topic:mobile-backend;;topic:mbaas;;topic:parse-server;;topic:realm;;topic:offline-first;;topic:local-first;;topic:sync-engine
+mobile|App Analytics & Attribution|30|topic:mobile-analytics;;topic:app-analytics;;topic:attribution;;topic:deep-linking;;topic:crash-reporting
+mobile|QR, Scanners & Utilities|50|topic:qr-scanner;;topic:barcode-scanner;;topic:document-scanner;;topic:scanner;;topic:file-manager;;topic:utilities
+hardware|3D Printers|100|topic:3d-printer;;topic:3d-printing;;topic:reprap;;topic:voron;;topic:klipper;;topic:marlin;;topic:3d-printer-firmware
+hardware|3D Printable Designs|50|topic:3d-printable;;topic:openscad;;topic:stl;;topic:thingiverse;;topic:printables;;topic:3d-design
+hardware|CNC & Laser Cutters|50|topic:cnc;;topic:laser-cutter;;topic:grbl;;topic:cnc-machine;;topic:laser-engraver;;topic:cnc-router;;topic:plasma-cutter
+hardware|Furniture & Housing|20|topic:furniture;;topic:house;;topic:architecture;;topic:wikihouse;;topic:parametric-design;;topic:plywood
+hardware|Tiny Homes & Shelters|10|topic:tiny-house;;topic:shelter;;topic:cabin;;topic:van-conversion;;topic:vanlife;;topic:off-grid;;topic:earthship
+hardware|Solar & Energy Systems|50|topic:solar;;topic:solar-energy;;topic:photovoltaic;;topic:inverter;;topic:solar-inverter;;topic:energy-monitoring;;topic:mppt;;topic:solar-charge-controller
+hardware|Batteries & Storage|30|topic:bms;;topic:battery-management-system;;topic:battery;;topic:lifepo4;;topic:powerwall;;topic:battery-pack;;topic:energy-storage
+hardware|E-Bikes & EV Conversion|30|topic:ebike;;topic:e-bike;;topic:electric-vehicle;;topic:ev-conversion;;topic:vesc;;topic:electric-skateboard;;topic:escooter;;topic:electric-bike
+hardware|EV Charging|30|topic:ev-charging;;topic:ocpp;;topic:evse;;topic:wallbox;;topic:charging-station;;topic:openevse
+hardware|Drones|100|topic:drone;;topic:drones;;topic:uav;;topic:quadcopter;;topic:ardupilot;;topic:px4;;topic:flight-controller;;topic:fpv
+hardware|Robotics & Robot Arms|100|topic:robotics;;topic:robot-arm;;topic:robot;;topic:ros;;topic:humanoid;;topic:quadruped;;topic:robotic-arm;;topic:mobile-robot
+hardware|Farm Robots|10|topic:farmbot;;topic:agricultural-robot;;topic:agriculture-robotics;;topic:weeding-robot;;topic:farm-robot;;topic:agbot
+hardware|Hydroponics & Greenhouses|20|topic:hydroponics;;topic:greenhouse;;topic:aquaponics;;topic:grow-box;;topic:indoor-farming;;topic:vertical-farming;;topic:plant-monitoring;;topic:irrigation
+hardware|Beekeeping & Livestock|10|topic:beekeeping;;topic:beehive;;topic:livestock;;topic:poultry;;topic:chicken-coop;;topic:cattle;;topic:animal-tracking
+hardware|Weather Stations|30|topic:weather-station;;topic:meteo;;topic:anemometer;;topic:rain-gauge;;topic:weewx;;topic:personal-weather-station
+hardware|Air Quality Sensors|30|topic:air-quality;;topic:co2-sensor;;topic:pm25;;topic:air-quality-monitor;;topic:air-quality-sensor;;topic:aqi;;topic:radon
+hardware|Water Monitoring & Purification|10|topic:water-quality;;topic:water-monitoring;;topic:water-filter;;topic:water-purification;;topic:water-meter;;topic:hydrology
+hardware|Medical Devices|30|topic:medical-device;;topic:ventilator;;topic:pulse-oximeter;;topic:ecg;;topic:openaps;;topic:insulin-pump;;topic:glucose;;topic:diabetes;;topic:hearing-aid
+hardware|Prosthetics & Assistive Devices|10|topic:prosthetics;;topic:prosthetic;;topic:bionic;;topic:exoskeleton;;topic:assistive;;topic:wheelchair;;topic:assistive-devices
+hardware|Lab Equipment|20|topic:lab-equipment;;topic:open-science-hardware;;topic:microscope;;topic:spectrometer;;topic:pcr;;topic:laboratory;;topic:pipette;;topic:lab-automation;;topic:centrifuge
+hardware|Sewing & Fashion Patterns|10|topic:sewing;;topic:sewing-patterns;;topic:fashion;;topic:pattern-making;;topic:garment;;topic:freesewing;;topic:clothing
+hardware|Knitting & Textile Machines|10|topic:knitting;;topic:knitting-machine;;topic:embroidery;;topic:weaving;;topic:textile;;topic:loom;;topic:crochet
+hardware|Keyboards & Input Devices|100|topic:mechanical-keyboard;;topic:qmk;;topic:zmk;;topic:split-keyboard;;topic:ergonomic-keyboard;;topic:keyboard-pcb;;topic:macropad;;topic:trackball;;topic:mouse
+hardware|Synthesizers & Audio Gear|50|topic:synthesizer;;topic:eurorack;;topic:guitar-pedal;;topic:effects-pedal;;topic:audio-hardware;;topic:synth;;topic:midi-controller;;topic:drum-machine;;topic:amplifier;;topic:dac
+hardware|Cameras & Telescopes|30|topic:telescope;;topic:astrophotography;;topic:camera;;topic:open-source-camera;;topic:cinema-camera;;topic:astronomy;;topic:star-tracker;;topic:spectroscopy
+hardware|Smart Home Devices|100|topic:esphome;;topic:tasmota;;topic:esp32;;topic:esp8266;;topic:zigbee2mqtt;;topic:smart-switch;;topic:smart-plug;;topic:thermostat;;topic:smart-thermostat
+hardware|Wearables|30|topic:smartwatch;;topic:wearables;;topic:open-source-smartwatch;;topic:pinetime;;topic:smart-glasses;;topic:e-textiles
+hardware|Phones & Handhelds|30|topic:open-source-phone;;topic:handheld;;topic:pinephone;;topic:linux-phone;;topic:handheld-console;;topic:game-boy;;topic:cyberdeck;;topic:feature-phone
+hardware|Laptops & Single-Board Computers|50|topic:single-board-computer;;topic:sbc;;topic:raspberry-pi;;topic:risc-v;;topic:open-hardware-laptop;;topic:fpga;;topic:microcontroller;;topic:dev-board;;topic:carrier-board
+hardware|LED Lighting & Signage|50|topic:led;;topic:led-matrix;;topic:wled;;topic:addressable-led;;topic:led-strip;;topic:neopixel;;topic:led-display;;topic:light-painting;;topic:lighting
+hardware|Vending & Kiosk Machines|10|topic:vending-machine;;topic:vending;;topic:arcade-cabinet;;topic:photo-booth;;topic:photobooth;;topic:claw-machine;;topic:payment-terminal
+hardware|Coffee & Espresso|10|topic:espresso;;topic:coffee;;topic:coffee-machine;;topic:coffee-roaster;;topic:roasting;;topic:gaggia;;topic:coffee-grinder
+hardware|Brewing & Distilling|20|topic:brewing;;topic:homebrewing;;topic:beer;;topic:fermentation;;topic:brewery;;topic:winemaking;;topic:kombucha;;topic:distilling;;topic:brewpi
+hardware|Cooking & Sous-Vide|10|topic:sous-vide;;topic:smoker;;topic:bbq;;topic:grill;;topic:kitchen;;topic:oven;;topic:pizza-oven;;topic:bread
+hardware|Food & Beverage Recipes|10|topic:recipe;;topic:open-source-food;;topic:cola;;topic:soylent;;topic:meal-replacement;;topic:fermented;;topic:cheese
+hardware|Cosmetics & Soap|5|topic:soap;;topic:soapmaking;;topic:cosmetics;;topic:skincare;;topic:perfume;;topic:fragrance;;topic:candle;;topic:candle-making
+hardware|Bicycles & Cargo Bikes|10|topic:bicycle;;topic:bike;;topic:cargo-bike;;topic:velomobile;;topic:bicycle-design;;topic:bike-computer;;topic:bike-light
+hardware|Boats & Marine Electronics|20|topic:boat;;topic:marine;;topic:nmea;;topic:sailing;;topic:signalk;;topic:openplotter;;topic:autopilot;;topic:kayak;;topic:marine-electronics
+hardware|Toys & Educational Kits|30|topic:toy;;topic:toys;;topic:stem;;topic:educational-robot;;topic:steam-education;;topic:electronics-kit;;topic:learning-electronics;;topic:kids-electronics;;topic:lego
+hardware|Musical Instruments|20|topic:musical-instrument;;topic:instrument;;topic:electronic-instrument;;topic:guitar;;topic:piano;;topic:midi-instrument;;topic:theremin;;topic:ukulele
+hardware|Tools & Workshop|20|topic:workshop;;topic:woodworking;;topic:jig;;topic:power-tools;;topic:hand-tools;;topic:multitool;;topic:soldering;;topic:soldering-station;;topic:toolbox
+hardware|Satellites & Ham Radio|50|topic:ham-radio;;topic:amateur-radio;;topic:sdr;;topic:cubesat;;topic:satellite;;topic:satnogs;;topic:aprs;;topic:software-defined-radio;;topic:antenna
+hardware|LoRa & Mesh Networks|50|topic:lora;;topic:lorawan;;topic:meshtastic;;topic:mesh-networking;;topic:off-grid-communication;;topic:reticulum;;topic:lora-gateway;;topic:helium
+hardware|Security Cameras & Doorbells|30|topic:security-camera;;topic:doorbell;;topic:video-doorbell;;topic:esp32-cam;;topic:camera-module;;topic:motion-detection
+hardware|Pet Devices|10|topic:pet-feeder;;topic:cat;;topic:pet-tracker;;topic:litter-box;;topic:dog-collar;;topic:aquarium;;topic:aquarium-controller;;topic:reef
+hardware|Plastic Recycling|5|topic:precious-plastic;;topic:recycling;;topic:plastic-recycling;;topic:shredder;;topic:injection-molding;;topic:filament-extruder;;topic:upcycling
+hardware|Electronics Manufacturing|50|topic:pick-and-place;;topic:pcb;;topic:pcb-design;;topic:kicad;;topic:reflow-oven;;topic:smt;;topic:pcb-manufacturing;;topic:electronics-manufacturing;;topic:open-hardware
+hardware|Test & Measurement|30|topic:oscilloscope;;topic:multimeter;;topic:logic-analyzer;;topic:power-supply;;topic:test-equipment;;topic:signal-generator;;topic:lcr-meter;;topic:electronic-load
+hardware|Motor Control|30|topic:motor-control;;topic:bldc;;topic:servo;;topic:stepper-motor;;topic:foc;;topic:motor-controller;;topic:odrive;;topic:simplefoc
+hardware|Arcade & Pinball|10|topic:pinball;;topic:arcade-machine;;topic:mame-cabinet;;topic:arcade-controller;;topic:fightstick;;topic:bartop;;topic:arcade-stick
+hardware|Security & Access Control|10|topic:access-control;;topic:door-lock;;topic:smart-lock;;topic:rfid;;topic:nfc;;topic:keypad;;topic:intercom;;topic:garage-door
+hardware|Agriculture Machinery|10|topic:tractor;;topic:agopengps;;topic:autosteer;;topic:open-source-ecology;;topic:farm-equipment;;topic:agricultural-machinery;;topic:seeder;;topic:harvester
+hardware|Gaming Hardware & Controllers|30|topic:game-controller;;topic:gamepad;;topic:arcade-buttons;;topic:joystick;;topic:flight-sim;;topic:sim-racing;;topic:steering-wheel;;topic:adaptive-controller
+hardware|Home Appliances & Repair|10|topic:appliance;;topic:washing-machine;;topic:dishwasher;;topic:vacuum-robot;;topic:valetudo;;topic:roomba;;topic:air-purifier;;topic:humidifier;;topic:fridge
+hardware|Watches & Clocks|20|topic:clock;;topic:nixie;;topic:word-clock;;topic:alarm-clock;;topic:watch;;topic:e-paper;;topic:eink;;topic:smart-clock;;topic:digital-clock
+hardware|Audio Speakers & Hi-Fi|20|topic:speaker;;topic:loudspeaker;;topic:hifi;;topic:audiophile;;topic:headphones;;topic:bluetooth-speaker;;topic:multiroom-audio;;topic:snapcast;;topic:streamer
+hardware|Model Trains, RC & Hobby|20|topic:model-railroad;;topic:rc;;topic:rc-car;;topic:radio-control;;topic:model-rocket;;topic:dcc;;topic:rc-plane;;topic:rc-boat
+hardware|Power Electronics & Chargers|20|topic:power-electronics;;topic:charger;;topic:usb-c;;topic:usb-pd;;topic:ups;;topic:dc-dc-converter;;topic:buck-converter;;topic:power-bank
+hardware|Space & Rocketry|20|topic:rocket;;topic:rocketry;;topic:spacecraft;;topic:space;;topic:flight-computer;;topic:avionics;;topic:ground-station;;topic:balloon
+hardware|Fitness & Sports Equipment|10|topic:rowing;;topic:treadmill;;topic:exercise-bike;;topic:power-meter;;topic:climbing;;topic:sports-equipment;;topic:smart-trainer;;topic:home-gym;;topic:ski
+hardware|HVAC & Heat Pumps|20|topic:hvac;;topic:heat-pump;;topic:heating;;topic:ventilation;;topic:boiler;;topic:opentherm;;topic:air-conditioner;;topic:heatpump
+hardware|Garden, Irrigation & Pool Controllers|20|topic:irrigation-controller;;topic:sprinkler;;topic:opensprinkler;;topic:garden;;topic:gardening;;topic:plant-watering;;topic:smart-garden;;topic:pool;;topic:pool-controller
+industries|Construction & Contractors|10|topic:construction;;"construction management";;topic:bim;;topic:ifc;;topic:construction-management;;topic:civil-engineering
+industries|Trades (Plumbing, Electrical, HVAC)|5|topic:plumbing;;topic:electrician;;"hvac service";;topic:contractor;;"job management" trades;;"service business" invoicing
+industries|Landscaping & Lawn Care|5|topic:landscaping;;"lawn care";;topic:landscape;;topic:garden-planner;;topic:permaculture;;"garden design"
+industries|Cleaning Services|5|"cleaning service";;"cleaning company";;topic:cleaning;;"housekeeping" management;;"janitorial"
+industries|Auto Repair Shops|5|topic:auto-repair;;"auto repair";;"garage management";;topic:workshop-management;;topic:automotive;;"car service" booking;;topic:obd
+industries|Car Rental|5|"car rental";;topic:car-rental-system;;topic:rental-system;;topic:vehicle-rental;;topic:rent-a-car
+industries|Trucking & Freight|10|topic:trucking;;topic:freight;;topic:tms;;topic:transportation-management;;topic:dispatch;;"freight management";;topic:load-board
+industries|Moving Companies|3|"moving company";;topic:movers;;"relocation" management;;"moving" quote
+industries|Farming & Crop Management|10|topic:farm-management;;topic:crop;;topic:crop-monitoring;;topic:soil;;topic:agronomy;;topic:farmos;;topic:agtech;;topic:crop-yield
+industries|Livestock & Dairy|5|topic:dairy;;topic:cattle-management;;topic:herd;;"livestock management";;topic:sheep;;topic:goat;;"animal husbandry";;topic:pig
+industries|Fisheries & Aquaculture|5|topic:aquaculture;;topic:fisheries;;topic:fishing;;topic:fish;;topic:fish-farm;;topic:marine-biology
+industries|Forestry|5|topic:forestry;;topic:forest;;topic:timber;;topic:tree-inventory;;topic:deforestation
+industries|Restaurants & Food Trucks|10|topic:restaurant-pos;;"food truck";;topic:restaurant-system;;topic:kitchen-display;;topic:kds;;topic:table-reservation;;topic:restaurant-ordering;;topic:food-ordering-system
+industries|Bakeries & Food Production|5|topic:bakery;;topic:food-production;;topic:food-manufacturing;;topic:recipe-costing;;topic:food-safety;;topic:haccp;;topic:food-traceability
+industries|Breweries & Wineries|5|topic:winery;;topic:wine;;topic:brewery-management;;topic:cellar;;topic:wine-cellar;;topic:vineyard;;topic:craft-beer;;topic:cider
+industries|Catering & Meal Prep|5|topic:catering;;topic:meal-prep;;topic:meal-kit;;topic:canteen;;topic:cafeteria;;topic:menu-planning;;topic:school-lunch
+industries|Grocery & Convenience Stores|5|topic:grocery;;topic:grocery-store;;topic:supermarket;;topic:retail-pos;;topic:convenience-store;;topic:retail-management;;topic:store-management
+industries|Pharmacy|5|topic:pharmacy;;topic:pharmacy-management;;topic:pharmacy-management-system;;topic:medication;;topic:drug;;topic:prescription;;topic:pharmacist
+industries|Dental Clinics|5|topic:dental;;topic:dentist;;topic:dental-clinic;;topic:orthodontics;;"dental practice";;topic:dental-software
+industries|Veterinary Clinics|5|topic:veterinary;;topic:vet;;"veterinary clinic";;topic:animal-hospital;;topic:veterinary-medicine;;"vet clinic"
+industries|Physiotherapy & Rehab|5|topic:physiotherapy;;topic:rehabilitation;;topic:physical-therapy;;topic:rehab;;topic:exercise-prescription;;topic:chiropractic
+industries|Mental Health Practices|5|topic:psychology;;topic:psychotherapy;;topic:counseling;;topic:therapist;;"practice management" therapy;;topic:telepsychiatry;;topic:psychiatry
+industries|Elder & Home Care|5|topic:elderly;;topic:elder-care;;topic:home-care;;topic:caregiver;;topic:nursing-home;;topic:senior;;topic:aged-care;;topic:dementia
+industries|Childcare & Daycare|5|topic:daycare;;topic:childcare;;topic:kindergarten;;topic:nursery;;topic:preschool-management;;"child care" management
+industries|Tutoring & Private Schools|5|topic:tutoring;;topic:tutor;;topic:private-school;;topic:coaching-institute;;topic:academy;;topic:exam;;topic:exam-management;;topic:online-exam;;topic:test-preparation
+industries|Driving Schools|3|"driving school";;topic:driving-school;;topic:driving-test;;topic:driver-training;;topic:driving-theory
+industries|Music Schools|3|"music school";;topic:music-education;;topic:music-lessons;;topic:music-theory;;topic:ear-training;;topic:sheet-music;;topic:music-learning
+industries|Fitness, Dance & Martial Arts Studios|5|topic:dance;;topic:martial-arts;;topic:yoga;;topic:yoga-studio;;topic:dojo;;topic:class-booking;;topic:studio-management;;topic:pilates;;topic:crossfit
+industries|Sports Clubs & Leagues|5|topic:sports-club;;topic:club;;topic:league-manager;;topic:tournament-software;;topic:sports-management;;topic:fixtures;;topic:tennis;;topic:golf;;topic:swimming
+industries|Photographers|10|topic:photography;;topic:photographer;;topic:photo-studio;;topic:client-gallery;;topic:photo-proofing;;topic:photo-booking;;topic:darktable;;topic:raw-photo
+industries|Wedding & Event Planners|3|topic:wedding-planner;;topic:event-planner;;topic:event-planning;;topic:seating-chart;;topic:guest-list;;topic:party-planning
+industries|Funeral Homes & Cemeteries|3|topic:funeral;;topic:cemetery;;topic:obituary;;topic:memorial;;topic:grave;;topic:genealogy;;topic:family-tree
+industries|Laundromats & Dry Cleaners|3|topic:laundry;;topic:laundromat;;"dry cleaning";;"laundry management";;topic:laundry-app
+industries|Tailors & Apparel|3|topic:tailor;;topic:apparel;;topic:fashion-design;;topic:garment-manufacturing;;topic:textile-industry;;topic:fashion-tech;;topic:boutique
+industries|Print Shops & Screen Printers|5|topic:print-shop;;topic:printing;;topic:web-to-print;;topic:print-on-demand;;topic:screen-printing;;topic:printing-service;;topic:imposition;;topic:prepress
+industries|Retail Boutiques|5|topic:retail;;topic:boutique-management;;topic:shop-management;;topic:retail-analytics;;topic:store;;topic:merchandising;;topic:planogram
+industries|Pawn & Secondhand Shops|3|topic:pawn;;topic:pawnshop;;topic:thrift;;topic:secondhand;;topic:consignment;;topic:resale;;topic:used-goods
+industries|Libraries|10|topic:library-management;;topic:library;;topic:library-management-system;;topic:ils;;topic:koha;;topic:opac;;topic:book-lending;;topic:digital-library
+industries|Museums & Archives|10|topic:museum;;topic:archive;;topic:archives;;topic:digital-archive;;topic:collections-management;;topic:cultural-heritage;;topic:digital-preservation;;topic:omeka;;topic:exhibition
+industries|Religious Organizations|5|topic:mosque;;topic:temple;;topic:synagogue;;topic:parish;;topic:congregation;;topic:sermon;;topic:worship;;topic:church-software;;topic:tithing
+industries|HOAs & Condominiums|3|topic:hoa;;topic:condominium;;topic:condo;;topic:homeowners-association;;topic:strata;;topic:building-management;;topic:residents;;topic:society-management
+industries|Coworking & Makerspaces|5|topic:coworking;;topic:makerspace;;topic:hackerspace;;topic:fablab;;topic:coworking-space;;topic:hot-desking;;topic:space-management
+industries|Cooperatives|5|topic:cooperative;;topic:coop;;topic:co-op;;topic:platform-cooperative;;topic:mutual-aid;;topic:solidarity-economy;;topic:credit-union
+industries|Municipal & Civic Services|10|topic:municipality;;topic:local-government;;topic:government;;topic:e-government;;topic:public-sector;;topic:city;;topic:permits;;topic:gov;;topic:public-services
+industries|Elections & Voting|10|topic:election;;topic:elections;;topic:e-voting;;topic:online-voting;;topic:ballot;;topic:electoral;;topic:voting-app;;topic:participatory-budgeting;;topic:civic-participation
+industries|Courts & Legal Aid|5|topic:court;;topic:courts;;topic:legal-aid;;topic:justice;;topic:case-management-system;;topic:law-firm;;topic:legal-documents;;topic:docassemble;;topic:legal-forms
+industries|NGOs & Humanitarian|10|topic:humanitarian;;topic:ngo;;topic:refugees;;topic:aid;;topic:humanitarian-aid;;topic:development-sector;;topic:unicef;;topic:red-cross;;topic:social-good;;topic:beneficiary-management
+industries|Disaster Response|10|topic:disaster-response;;topic:emergency-management;;topic:disaster-management;;topic:crisis;;topic:early-warning;;topic:flood;;topic:wildfire;;topic:earthquake;;topic:search-and-rescue
+industries|Waste Management & Recycling|5|topic:waste-management;;topic:waste;;topic:recycling-app;;topic:circular-economy;;topic:garbage;;topic:waste-collection;;topic:composting;;topic:zero-waste
+industries|Solar & Energy|20|topic:solar-installer;;topic:energy;;topic:renewable-energy;;topic:energy-management;;topic:smart-grid;;topic:microgrid;;topic:energy-trading;;topic:pv-design;;topic:openems;;topic:demand-response
+industries|Water Utilities|5|topic:water-utility;;topic:utility;;topic:utilities;;topic:water-management;;topic:smart-meter;;topic:meter-reading;;topic:billing-utility;;topic:wastewater;;topic:scada
+industries|Manufacturing (MES & ERP)|10|topic:manufacturing;;topic:mes;;topic:manufacturing-execution-system;;topic:industry-40;;topic:industrial-iot;;topic:shop-floor;;topic:production-planning;;topic:plc;;topic:opc-ua;;topic:factory
+industries|Quality Control & Compliance|5|topic:quality-control;;topic:quality-management;;topic:qms;;topic:iso9001;;topic:inspection;;topic:defect-detection;;topic:traceability;;topic:capa;;topic:audit-management
+industries|Laboratories (LIMS)|5|topic:lims;;topic:laboratory-information-management-system;;topic:eln;;topic:electronic-lab-notebook;;topic:lab-management;;topic:sample-management;;topic:biobank;;topic:clinical-laboratory
+industries|Research & Surveys|20|topic:research;;topic:survey-tool;;topic:data-collection;;topic:odk;;topic:field-data-collection;;topic:questionnaire;;topic:research-data-management;;topic:clinical-trials;;topic:reference-manager
+industries|Real Estate Agents|5|topic:real-estate-crm;;topic:realtor;;topic:mls;;topic:real-estate-platform;;topic:property-portal;;topic:real-estate-website;;topic:idx;;topic:brokerage
+industries|Property Management & Landlords|5|topic:landlord;;topic:tenant;;topic:rent;;topic:lease;;topic:tenant-management;;topic:rental-property;;topic:rent-collection;;topic:condominium-management
+industries|Hotels & Vacation Rentals|10|topic:vacation-rental;;topic:channel-manager;;topic:airbnb;;topic:short-term-rental;;topic:guesthouse;;topic:hostel;;topic:bed-and-breakfast;;topic:qloapps;;topic:hotel-pms
+industries|Tourism & Tour Operators|5|topic:tourism;;topic:tour-operator;;topic:tours;;topic:tour-booking;;topic:travel-agency;;topic:excursions;;topic:destination;;topic:travel-booking;;topic:guide-app
+industries|Marinas & Boating|3|topic:marina;;topic:yacht;;topic:boat-rental;;topic:charter;;topic:mooring;;topic:harbour;;topic:yacht-charter
+industries|Parking Operators|3|topic:parking-lot;;topic:parking-garage;;topic:anpr;;topic:alpr;;topic:parking-sensor;;topic:smart-parking;;topic:parking-reservation
+industries|Security Guard Companies|3|"security guard";;topic:guard-tour;;topic:patrol;;topic:security-company;;topic:incident-reporting;;topic:visitor-management;;topic:visitor;;topic:gatekeeper
+industries|Staffing & Recruiting|10|topic:staffing;;topic:staffing-agency;;topic:temp-agency;;topic:shift-scheduling;;topic:rostering;;topic:workforce-management;;topic:employee-scheduling;;topic:timeclock;;topic:gig-workers
+industries|Warehousing & 3PL|5|topic:3pl;;topic:fulfillment;;topic:order-fulfillment;;topic:warehouse;;topic:pick-and-pack;;topic:barcode-inventory;;topic:shipping-labels;;topic:multi-carrier
+industries|Public Transit & Mobility|10|topic:public-transit;;topic:gtfs-realtime;;topic:transit-app;;topic:bus-tracking;;topic:fleet-tracking;;topic:school-bus;;topic:paratransit;;topic:ride-booking;;topic:demand-responsive-transport
+industries|Hospitals & Rural Clinics|10|topic:hospital;;topic:hospital-information-system;;topic:his;;topic:openmrs;;topic:bahmni;;topic:patient-management;;topic:clinic;;topic:primary-care;;topic:community-health;;topic:health-information-system
+industries|Microfinance & Credit Unions|5|topic:microfinance;;topic:mifos;;topic:fineract;;topic:lending;;topic:loan-management;;topic:loan;;topic:savings-group;;topic:cooperative-bank;;topic:sacco
+industries|Radio Stations & Local Media|5|topic:radio-automation;;topic:broadcast;;topic:broadcasting;;topic:newsroom;;topic:local-news;;topic:community-radio;;topic:playout;;topic:libretime;;topic:tv-station;;topic:journalism
+industries|Event Venues & Ticketing|5|topic:venue;;topic:box-office;;topic:theater;;topic:theatre;;topic:cinema;;topic:concert;;topic:seat-reservation;;topic:seating;;topic:festival
+industries|Salons & Barbershops|3|topic:salon;;topic:barbershop;;topic:barber;;topic:beauty-salon;;topic:spa;;topic:salon-booking;;topic:nail-salon;;topic:hairdresser;;topic:beauty
+industries|Beekeeping|3|topic:apiary;;topic:hive-monitoring;;topic:bee;;topic:bees;;topic:honey;;topic:hive;;topic:beekeeper
+industries|Maintenance & Asset Management (CMMS)|10|topic:cmms;;topic:maintenance;;topic:maintenance-management;;topic:eam;;topic:preventive-maintenance;;topic:facility-management;;topic:predictive-maintenance;;topic:equipment;;topic:work-orders
+industries|Bars, Nightlife & Hospitality Staff|3|topic:tips;;topic:tipping;;topic:hospitality-management;;topic:staff-scheduling;;topic:bar;;topic:bartender;;topic:cocktail;;topic:nightclub
+industries|Automotive Dealerships|3|topic:dealership;;topic:car-dealership;;topic:dealer;;topic:vehicle-inventory;;topic:vin;;topic:vin-decoder;;topic:used-cars;;topic:car-marketplace;;topic:car-listing
+industries|Logistics Brokers & Customs|5|topic:customs;;topic:freight-forwarding;;topic:import-export;;topic:trade;;topic:supply-chain;;topic:supply-chain-management;;topic:scm;;topic:container-tracking;;topic:shipment-tracking
+industries|Mining, Oil & Gas|5|topic:mining;;topic:oil-and-gas;;topic:petroleum;;topic:geology;;topic:drilling;;topic:reservoir;;topic:seismic;;topic:mine-planning;;topic:geoscience
+industries|Insurance Agencies|5|topic:insurance;;topic:insurtech;;topic:claims;;topic:claims-management;;topic:underwriting;;topic:policy-management;;topic:insurance-agency;;topic:actuarial;;topic:openimis
+industries|Accounting & Tax Firms|10|topic:tax;;topic:tax-calculator;;topic:bookkeeping-software;;topic:double-entry;;topic:ledger;;topic:plain-text-accounting;;topic:accounting-software;;topic:audit-software;;topic:vat
+industries|Translation & Interpreting Agencies|5|topic:translation-agency;;topic:cat-tool;;topic:computer-assisted-translation;;topic:subtitling;;topic:interpreting;;topic:translation-memory;;topic:omegat;;topic:terminology
+industries|Architecture & Interior Design|10|topic:architecture-design;;topic:interior-design;;topic:floor-plan;;topic:floorplan;;topic:cad;;topic:freecad;;topic:sweet-home-3d;;topic:room-planner;;topic:building-design;;topic:home-design
+industries|Campgrounds, Outfitters & Outdoor Guides|3|topic:fishing-app;;topic:hunting;;topic:outfitter;;topic:guide-booking;;topic:campground;;topic:camping;;topic:campsite;;topic:rv-park;;topic:glamping
+industries|Airlines & Aviation|10|topic:aviation;;topic:airline;;topic:flight;;topic:airport;;topic:flight-tracking;;topic:ads-b;;topic:pilot;;topic:logbook;;topic:flight-planning;;topic:drone-operations
+industries|Shipping & Ports|5|topic:port;;topic:shipping-line;;topic:vessel;;topic:ais;;topic:maritime;;topic:vessel-tracking;;topic:port-management;;topic:terminal-operating-system
+industries|Theme Parks, Zoos & Attractions|3|topic:zoo;;topic:aquarium-management;;topic:theme-park;;topic:attraction;;topic:visitor-experience;;topic:ticket-scanning;;topic:wait-times;;topic:amusement-park
+industries|Pest Control & Home Services|3|topic:pest-control;;topic:home-services;;topic:handyman-app;;topic:field-technician;;topic:service-scheduling;;topic:dispatch-software;;topic:home-inspection;;topic:inspection-app
+finance|Trading Bots & Algo Trading|200|topic:trading-bot;;topic:algorithmic-trading;;topic:algotrading;;topic:quantitative-trading;;topic:backtesting;;topic:crypto-trading-bot;;topic:trading
+finance|Portfolio Trackers & Wealth|100|topic:portfolio;;topic:portfolio-management;;topic:portfolio-tracker;;topic:investment;;topic:wealth-management;;topic:stock-tracker;;topic:ghostfolio
+finance|Stock Market Data & Analysis|200|topic:stock-market;;topic:stocks;;topic:financial-data;;topic:market-data;;topic:stock-analysis;;topic:technical-analysis;;topic:openbb
+finance|Payment Processors & Gateways|100|topic:payment-processor;;topic:psp;;topic:payment-integration;;topic:hyperswitch;;stripe alternative;;topic:acquiring
+finance|Invoicing & Billing Platforms|100|topic:invoice-generator;;topic:invoicing-app;;topic:billing-platform;;topic:usage-based-billing;;topic:recurring-payments;;topic:dunning
+finance|Open Banking & Aggregation|50|topic:open-banking-api;;topic:psd2;;topic:bank-api;;topic:account-aggregation;;topic:transaction-categorization;;plaid alternative;;topic:fints;;topic:ofx
+finance|Core Banking & Ledgers|50|topic:ledger-database;;topic:double-entry-accounting;;topic:accounting-ledger;;topic:tigerbeetle;;topic:banking-core;;topic:financial-ledger;;topic:ledger-system
+finance|Crypto Exchanges & DEX|100|topic:cryptocurrency-exchange;;topic:dex;;topic:decentralized-exchange;;topic:exchange;;topic:order-book;;topic:matching-engine;;topic:crypto-exchange
+finance|Crypto Payments & Invoicing|50|topic:crypto-payments;;topic:bitcoin-payments;;topic:btcpayserver;;topic:lightning-network;;topic:crypto-payment-gateway;;topic:stablecoin;;topic:usdc
+finance|Blockchain Nodes & Infrastructure|200|topic:blockchain;;topic:ethereum;;topic:bitcoin;;topic:blockchain-node;;topic:rpc-node;;topic:validator;;topic:indexer;;topic:blockchain-explorer
+finance|Smart Contracts & DeFi|200|topic:defi;;topic:smart-contracts;;topic:solidity;;topic:dapp;;topic:lending-protocol;;topic:staking;;topic:yield;;topic:amm
+finance|NFT & Digital Collectibles|50|topic:nft;;topic:nft-marketplace;;topic:erc721;;topic:nft-minting;;topic:digital-collectibles
+finance|Wallets & Custody|100|topic:hardware-wallet;;topic:multisig;;topic:custody;;topic:mpc-wallet;;topic:account-abstraction;;topic:wallet-sdk;;topic:keystore
+finance|Crypto Tax & Accounting|30|topic:crypto-tax;;topic:crypto-accounting;;topic:crypto-portfolio;;topic:rotki;;topic:tax-reporting;;topic:capital-gains
+finance|Lending & Credit Scoring|30|topic:credit-scoring;;topic:loan-origination;;topic:credit-risk;;topic:p2p-lending;;topic:buy-now-pay-later;;topic:bnpl;;topic:credit
+finance|Insurance Tech|20|topic:insurance-platform;;topic:insurance-api;;topic:parametric-insurance;;topic:claims-processing;;topic:insurance-software;;topic:health-insurance
+finance|Fraud Detection & AML|50|topic:fraud-detection;;topic:aml;;topic:anti-money-laundering;;topic:kyc;;topic:identity-verification;;topic:transaction-monitoring;;topic:sanctions-screening
+finance|Payroll & Payouts|30|topic:payouts;;topic:mass-payments;;topic:salary;;topic:payroll-software;;topic:gig-payments;;topic:remittance;;topic:money-transfer
+finance|Expense & Spend Management|50|topic:spend-management;;topic:corporate-cards;;topic:receipts;;topic:receipt-scanner;;topic:reimbursement;;topic:expense-reports;;topic:travel-expenses
+finance|Financial Planning & Calculators|50|topic:financial-planning;;topic:retirement;;topic:fire;;topic:retirement-calculator;;topic:net-worth;;topic:financial-independence;;topic:mortgage-calculator;;topic:loan-calculator
+finance|Payment Terminals & SoftPOS|30|topic:card-reader;;topic:emv;;topic:nfc-payments;;topic:tap-to-pay;;topic:softpos;;topic:cash-register
+finance|Donations & Fundraising Tech|30|topic:donation-platform;;topic:fundraising-platform;;topic:giving;;topic:tip-jar;;topic:buy-me-a-coffee;;topic:sponsorship;;topic:open-collective
+finance|Invoice Automation & E-Invoicing|30|topic:invoice-processing;;topic:accounts-payable;;topic:e-invoicing;;topic:peppol;;topic:zugferd;;topic:factur-x;;topic:ubl;;topic:invoice-ocr
+finance|Financial Modelling & Risk|50|topic:risk-management;;topic:quantitative-finance;;topic:quantlib;;topic:derivatives;;topic:option-pricing;;topic:value-at-risk;;topic:monte-carlo-simulation;;topic:financial-modeling
+finance|Prediction Markets & Forecasting|20|topic:prediction-market;;topic:forecasting-platform;;topic:polymarket;;topic:crowd-forecasting
+finance|Equity, Cap Tables & Fund Admin|10|topic:cap-table;;topic:equity-management;;topic:venture-capital;;topic:fund-administration;;topic:investor-relations;;topic:startup-equity;;topic:shareholder
+finance|Real Estate Investing & Mortgages|20|topic:mortgage;;topic:real-estate-investing;;topic:rental-analysis;;topic:property-valuation;;topic:avm;;topic:house-prices;;topic:mortgage-broker
+finance|Telecom & Utility Billing (BSS)|10|topic:telecom-billing;;topic:utility-billing;;topic:rating-engine;;topic:mediation;;topic:bss;;topic:oss-bss;;topic:isp-billing
+science|GIS & Mapping Platforms|200|topic:gis;;topic:geospatial;;topic:webgis;;topic:map-server;;topic:qgis;;topic:geoserver;;topic:leaflet;;topic:maplibre
+science|Geocoding & Routing APIs|100|topic:geocoding;;topic:geocoder;;topic:routing-engine;;topic:osrm;;topic:valhalla;;topic:isochrone;;topic:address-validation;;topic:reverse-geocoding
+science|Surveying & Drone Mapping|30|topic:photogrammetry;;topic:surveying;;topic:drone-mapping;;topic:opendronemap;;topic:point-cloud;;topic:lidar;;topic:structure-from-motion;;topic:orthomosaic
+science|CAD & Mechanical Design|100|topic:cad;;topic:parametric-cad;;topic:mechanical-engineering;;topic:3d-cad;;topic:cadquery;;topic:solid-modeling;;topic:fem
+science|Simulation & CAE|100|topic:simulation;;topic:cfd;;topic:finite-element;;topic:finite-element-analysis;;topic:openfoam;;topic:multiphysics;;topic:structural-analysis;;topic:thermal-simulation
+science|EDA & Circuit Design|100|topic:eda;;topic:electronic-design-automation;;topic:circuit-simulator;;topic:spice;;topic:schematic;;topic:pcb-layout;;topic:verilog;;topic:hdl;;topic:chip-design
+science|Bioinformatics & Genomics|150|topic:bioinformatics;;topic:genomics;;topic:dna;;topic:sequencing;;topic:ngs;;topic:proteomics;;topic:single-cell;;topic:crispr;;topic:bioinformatics-pipeline
+science|Chemistry & Materials|100|topic:cheminformatics;;topic:chemistry;;topic:molecular-dynamics;;topic:materials-science;;topic:computational-chemistry;;topic:drug-discovery;;topic:molecule;;topic:rdkit
+science|Medical Imaging & Health AI|100|topic:medical-imaging;;topic:dicom;;topic:pacs;;topic:radiology;;topic:medical-image-analysis;;topic:pathology;;topic:healthcare-ai;;topic:fhir;;topic:hl7
+science|Clinical Research & Trials|30|topic:clinical-trial;;topic:edc;;topic:electronic-data-capture;;topic:redcap;;topic:clinical-data;;topic:openclinica;;topic:patient-registry;;topic:cdisc
+science|Climate, Weather & Environment|100|topic:climate;;topic:climate-change;;topic:weather-data;;topic:climate-model;;topic:environmental-monitoring;;topic:carbon;;topic:carbon-footprint;;topic:emissions;;topic:air-pollution
+science|Energy Modelling & Grid|50|topic:energy-system;;topic:power-systems;;topic:grid;;topic:power-flow;;topic:energy-model;;topic:pypsa;;topic:battery-modeling;;topic:smart-meter-data;;topic:energy-data
+science|Astronomy & Space Science|100|topic:astronomy;;topic:astrophysics;;topic:space-science;;topic:telescope-control;;topic:planetarium;;topic:orbital-mechanics;;topic:satellite-tracking;;topic:exoplanets;;topic:nasa
+science|Mathematics & Computer Algebra|200|topic:computer-algebra;;topic:mathematics;;topic:math;;topic:symbolic-computation;;topic:numerical-methods;;topic:scientific-computing;;topic:linear-algebra;;topic:statistics;;topic:latex
+science|Statistics & Research Tools|150|topic:statistics-software;;topic:statistical-analysis;;topic:r-package;;topic:psychology-research;;topic:experiment;;topic:psychopy;;topic:survey-analysis;;topic:bayesian;;topic:causal-inference
+science|Reference & Citation Management|50|topic:reference-manager;;topic:citation;;topic:zotero;;topic:bibtex;;topic:bibliography;;topic:literature-review;;topic:academic;;topic:research-paper;;topic:paper-search
+science|Scientific Publishing & Repositories|50|topic:open-access;;topic:scholarly;;topic:journal;;topic:peer-review;;topic:preprint;;topic:institutional-repository;;topic:dspace;;topic:research-data;;topic:dataverse;;topic:ojs
+science|Lab Automation & Instruments|30|topic:instrument-control;;topic:liquid-handling;;topic:opentrons;;topic:data-acquisition;;topic:daq;;topic:labview;;topic:pymeasure;;topic:scpi
+science|Agriculture Science & Precision Ag|30|topic:precision-ag;;topic:plant-phenotyping;;topic:crop-model;;topic:ndvi;;topic:soil-science;;topic:agriculture-ai;;topic:plant-disease;;topic:plant-disease-detection;;topic:yield-prediction
+science|Oceanography & Hydrology|30|topic:oceanography;;topic:hydrological-model;;topic:flood-modeling;;topic:groundwater;;topic:ocean;;topic:marine-science;;topic:water-resources;;topic:swmm
+science|Structural & Civil Engineering|30|topic:structural-engineering;;topic:bridge;;topic:steel;;topic:concrete;;topic:geotechnical;;topic:eurocode;;topic:beam;;topic:truss;;topic:civil
+science|Transportation Modelling & Traffic|50|topic:traffic-simulation;;topic:sumo;;topic:transport-planning;;topic:traffic;;topic:transportation;;topic:mobility-data;;topic:matsim;;topic:traffic-analysis;;topic:intelligent-transportation
+science|Urban Planning & Digital Twins|30|topic:urban-planning;;topic:digital-twin;;topic:3d-city;;topic:citygml;;topic:cesium;;topic:smart-cities;;topic:urban-analytics;;topic:land-use;;topic:zoning
+science|Learning Analytics & Assessment Science|30|topic:learning-analytics;;topic:educational-data-mining;;topic:adaptive-learning;;topic:intelligent-tutoring;;topic:xapi;;topic:lti;;topic:assessment;;topic:computer-adaptive-testing;;topic:item-response-theory
+science|Scientific Visualization & Plotting|200|topic:scientific-visualization;;topic:paraview;;topic:vtk;;topic:matplotlib;;topic:plotly;;topic:3d-visualization;;topic:volume-rendering;;topic:molecular-visualization
+science|Neuroscience & Brain-Computer Interfaces|50|topic:neuroscience;;topic:eeg;;topic:bci;;topic:brain-computer-interface;;topic:neuroimaging;;topic:fmri;;topic:openbci;;topic:neurotech;;topic:spike-sorting
+science|Robotics Simulation & Autonomy|100|topic:robot-simulation;;topic:gazebo;;topic:autonomous-driving;;topic:autonomous-vehicles;;topic:self-driving;;topic:slam;;topic:motion-planning;;topic:ros2;;topic:carla
+science|Quantum Computing|100|topic:quantum-computing;;topic:quantum;;topic:qiskit;;topic:quantum-algorithms;;topic:quantum-simulation;;topic:quantum-machine-learning;;topic:qubit
+security|Vulnerability Scanning & ASM|200|topic:vulnerability-scanner;;topic:vulnerability-management;;topic:attack-surface;;topic:attack-surface-management;;topic:security-scanner;;topic:nuclei;;topic:openvas;;topic:asset-discovery
+security|SIEM, SOC & Threat Detection|150|topic:siem;;topic:soc;;topic:threat-detection;;topic:security-monitoring;;topic:edr;;topic:xdr;;topic:intrusion-detection;;topic:ids;;topic:wazuh
+security|Threat Intelligence|100|topic:threat-intelligence;;topic:cti;;topic:ioc;;topic:misp;;topic:threat-hunting;;topic:malware-analysis;;topic:sandbox-analysis;;topic:yara
+security|Endpoint & Device Management (MDM)|100|topic:mdm;;topic:mobile-device-management;;topic:endpoint-management;;topic:device-management;;topic:osquery;;topic:uem;;topic:patch-management
+security|Identity Verification & KYC|50|topic:face-verification;;topic:liveness-detection;;topic:document-verification;;topic:ekyc;;topic:id-verification;;topic:biometrics;;topic:fingerprint;;topic:passport
+security|Secure File Sharing & Encryption|150|topic:encryption;;topic:encrypted-storage;;topic:end-to-end-encrypted;;topic:file-encryption;;topic:secure-file-sharing;;topic:zero-knowledge;;topic:age;;topic:pgp
+security|Privacy Tools & Anonymity|150|topic:privacy-tools;;topic:anonymity;;topic:tor;;topic:tracker-blocker;;topic:ad-blocker;;topic:adblock;;topic:privacy-protection;;topic:anti-tracking;;topic:dns-filtering
+security|Secure Messaging & Email|100|topic:encrypted-messaging;;topic:encrypted-email;;topic:secure-email;;topic:protonmail;;topic:openpgp;;topic:smime;;topic:email-encryption;;topic:secure-communication
+security|Application Security & SAST|200|topic:sast;;topic:static-analysis;;topic:code-scanning;;topic:appsec;;topic:application-security;;topic:semgrep;;topic:dast;;topic:security-testing;;topic:api-security
+security|Supply Chain & SBOM|100|topic:sbom;;topic:supply-chain-security;;topic:software-supply-chain;;topic:dependency-scanning;;topic:sca;;topic:sigstore;;topic:slsa;;topic:provenance;;topic:license-compliance
+security|Cloud Security & CSPM|100|topic:cloud-security;;topic:cspm;;topic:cloud-security-posture-management;;topic:aws-security;;topic:kubernetes-security;;topic:container-security;;topic:iac-security;;topic:cnapp;;topic:prowler
+security|Compliance Automation & GRC|50|topic:compliance-automation;;topic:iso27001;;topic:hipaa;;topic:pci-dss;;topic:nist;;topic:cis-benchmark;;topic:policy-as-code;;topic:opa;;topic:security-policy
+security|Password & Secrets Hygiene|100|topic:secret-scanning;;topic:credential-scanning;;topic:leak-detection;;topic:password-strength;;topic:passwordless;;topic:webauthn;;topic:fido2;;topic:hibp
+security|Backup, Ransomware & Recovery|50|topic:ransomware;;topic:ransomware-protection;;topic:immutable-backup;;topic:backup-encryption;;topic:business-continuity;;topic:restic;;topic:borgbackup
+security|Firewalls & Network Security|150|topic:firewall;;topic:network-security;;topic:opnsense;;topic:pfsense;;topic:nftables;;topic:ips;;topic:deep-packet-inspection;;topic:suricata;;topic:zeek
+security|Email Security & Anti-Spam|100|topic:anti-spam;;topic:spam-filter;;topic:email-security;;topic:phishing;;topic:anti-phishing;;topic:dmarc;;topic:spf;;topic:dkim;;topic:rspamd
+security|Security Awareness & Phishing Simulation|30|topic:security-awareness;;topic:phishing-simulation;;topic:gophish;;topic:awareness-training;;topic:cybersecurity-training;;topic:security-training;;topic:ctf-platform;;topic:cyber-range
+security|Digital Forensics & Incident Response|100|topic:digital-forensics;;topic:dfir;;topic:forensics;;topic:incident-response;;topic:memory-forensics;;topic:disk-forensics;;topic:forensic-analysis;;topic:timeline-analysis;;topic:velociraptor
+security|Honeypots & Deception|50|topic:honeypot;;topic:deception;;topic:honeytoken;;topic:canary;;topic:canarytokens;;topic:honeynet;;topic:decoy
+security|Bug Bounty & Pentest Management|50|topic:bug-bounty;;topic:pentest-management;;topic:security-reporting;;topic:vulnerability-disclosure;;topic:pentest-report;;topic:defectdojo;;topic:faraday
+security|IoT & OT Security|50|topic:iot-security;;topic:ot-security;;topic:ics-security;;topic:scada-security;;topic:firmware-analysis;;topic:firmware-security;;topic:industrial-security;;topic:modbus;;topic:embedded-security
+security|Parental Controls & Content Filtering|30|topic:content-filtering;;topic:web-filter;;topic:parental-controls;;topic:screen-time;;topic:dns-blocker;;topic:safe-search;;topic:url-filtering;;topic:nsfw-detection;;topic:content-moderation
+security|Content Moderation & Trust & Safety|50|topic:moderation;;topic:trust-and-safety;;topic:toxicity;;topic:toxicity-detection;;topic:spam-detection;;topic:hate-speech;;topic:perspective-api;;topic:automod;;topic:moderation-tools
+security|Physical Security & Visitor Systems|20|topic:visitor-management-system;;topic:badge;;topic:id-card;;topic:access-control-system;;topic:alarm-system;;topic:security-system;;topic:intrusion;;topic:home-security;;topic:guard
+security|Data Loss Prevention & Governance|30|topic:dlp;;topic:data-loss-prevention;;topic:data-classification;;topic:data-discovery;;topic:data-privacy;;topic:privacy-engineering;;topic:consent;;topic:dsar;;topic:data-retention
+security|Certificate & Key Management|50|topic:key-management;;topic:kms;;topic:hsm;;topic:certificate-management;;topic:tls;;topic:ssl-certificate;;topic:cert-manager;;topic:x509;;topic:step-ca
+education|LMS Platforms|100|topic:learning-management;;topic:moodle;;topic:canvas-lms;;topic:openedx;;topic:lms-platform;;topic:virtual-classroom;;topic:course-management
+education|Course Authoring & Interactive Content|50|topic:course-authoring;;topic:h5p;;topic:scorm;;topic:interactive-content;;topic:elearning-authoring;;topic:xapi-content;;topic:lesson-builder;;topic:educational-content
+education|Coding Education & Bootcamps|200|topic:learn-to-code;;topic:coding-education;;topic:programming-education;;topic:code-playground;;topic:online-judge;;topic:competitive-programming;;topic:autograder;;topic:code-exercises;;topic:exercism
+education|Online Exams & Proctoring|30|topic:online-exam-system;;topic:exam-system;;topic:proctoring;;topic:online-examination;;topic:test-engine;;topic:mcq;;topic:question-bank;;topic:assessment-platform;;topic:quiz-builder
+education|Flashcards & Spaced Repetition|100|topic:spaced-repetition-system;;topic:flashcard-app;;topic:anki-addon;;topic:srs;;topic:memorization;;topic:flashcard;;topic:study-tool;;topic:learning-app
+education|Language Learning Platforms|50|topic:language-learning-app;;topic:language-exchange;;topic:esl;;topic:english-learning;;topic:japanese-learning;;topic:chinese-learning;;topic:pronunciation;;topic:vocabulary-builder;;topic:lingq
+education|Kids Coding & STEM|100|topic:scratch;;topic:blockly;;topic:block-programming;;topic:kids-coding;;topic:microbit;;topic:arduino-education;;topic:stem-education;;topic:robotics-education;;topic:visual-programming
+education|Math & Science Learning|100|topic:math-education;;topic:math-learning;;topic:geogebra;;topic:physics-simulation;;topic:physics-education;;topic:chemistry-education;;topic:interactive-math;;topic:khan-academy;;topic:phet
+education|Tutoring Marketplaces & Live Classes|20|topic:tutoring-platform;;topic:online-tutoring;;topic:live-classes;;topic:virtual-classroom-software;;topic:bigbluebutton;;topic:online-teaching;;topic:teaching-platform;;topic:classroom
+education|School Administration & SIS|50|topic:school;;topic:school-erp;;topic:student-management;;topic:student-management-system;;topic:gradebook-software;;topic:attendance-system;;topic:attendance;;topic:timetable-generator;;topic:school-timetable
+education|University & Campus Systems|30|topic:university-management;;topic:campus-management;;topic:course-registration;;topic:higher-education;;topic:thesis;;topic:dissertation;;topic:research-management;;topic:alumni
+education|Libraries & Reading Platforms|50|topic:reading;;topic:reading-app;;topic:reading-tracker;;topic:book-tracker;;topic:goodreads-alternative;;topic:bookshelf;;topic:book-recommendations;;topic:children-books;;topic:storytelling
+education|Corporate Training & Compliance Courses|20|topic:corporate-training;;topic:employee-training;;topic:compliance-training;;topic:onboarding;;topic:employee-onboarding;;topic:skills;;topic:skills-management;;topic:upskilling;;topic:training-platform
+education|Certifications & Credentials|30|topic:digital-credentials;;topic:open-badges;;topic:certificates;;topic:certificate-generator;;topic:verifiable-credentials;;topic:blockcerts;;topic:diploma;;topic:badge-system;;topic:credentialing
+education|Music & Arts Education|50|topic:music-learning-app;;topic:piano-learning;;topic:guitar-learning;;topic:music-notation;;topic:musescore;;topic:solfege;;topic:drawing-tutorial;;topic:art-education;;topic:drum-lessons
+education|Safety, Vocational & VR Training|10|topic:vocational-training;;topic:safety-training;;topic:first-aid-training;;topic:cpr;;topic:driving-simulator-training;;topic:forklift;;topic:vr-training;;topic:simulation-training;;topic:apprenticeship
+education|Test Prep & Exam Practice|30|topic:test-prep;;topic:exam-prep;;topic:sat;;topic:gre;;topic:ielts;;topic:toefl;;topic:practice-tests;;topic:mock-test;;topic:citizenship-test
+education|Classroom Tools & Engagement|50|topic:classroom-management;;topic:student-engagement;;topic:classroom-response;;topic:clicker;;topic:live-quiz;;topic:polling;;topic:seating-plan;;topic:teacher-tools;;topic:edtech
+education|Homeschool & Parent Tools|10|topic:homeschool;;topic:homeschooling;;topic:lesson-plans;;topic:lesson-planner;;topic:curriculum-planner;;topic:worksheets;;topic:worksheet-generator;;topic:parent-teacher
+education|Open Textbooks & Courseware|50|topic:open-educational-resources;;topic:oer;;topic:textbook;;topic:open-textbook;;topic:courseware;;topic:lecture-notes;;topic:course-materials;;topic:syllabus;;topic:curriculum
+education|AI Tutors & Study Assistants|100|topic:ai-tutor;;topic:study-assistant;;topic:homework-helper;;topic:ai-education;;topic:educational-ai;;topic:essay-grading;;topic:automated-grading;;topic:ai-teacher;;topic:socratic
+education|Typing, Memory & Brain Training|50|topic:typing;;topic:typing-practice;;topic:typing-tutor;;topic:touch-typing;;topic:brain-training;;topic:memory-training;;topic:speed-reading;;topic:mental-math;;topic:cognitive-training
+devtools|API Platforms & Documentation|200|topic:api-platform;;topic:api-docs;;topic:swagger;;topic:api-reference;;topic:developer-portal;;topic:api-explorer;;topic:graphql-server;;topic:graphql
+devtools|Code Review & Quality|200|topic:code-review;;topic:code-quality;;topic:linter;;topic:static-code-analysis;;topic:code-metrics;;topic:technical-debt;;topic:sonarqube
+devtools|Testing & QA Platforms|200|topic:test-automation;;topic:e2e-testing;;topic:testing-framework;;topic:test-management;;topic:visual-regression;;topic:qa;;topic:test-reporting;;topic:cypress
+devtools|Issue Tracking & Agile|100|topic:issue-tracker;;topic:bug-tracker;;topic:agile;;topic:scrum;;topic:sprint;;topic:issue-tracking;;topic:bugtracker;;linear alternative
+devtools|Developer Portals & Service Catalogs|50|topic:service-catalog;;topic:backstage;;topic:internal-developer-platform;;topic:platform-engineering;;topic:idp;;topic:engineering-metrics;;topic:dora-metrics
+devtools|Package Registries & Artifact Hosting|100|topic:package-registry;;topic:artifact-repository;;topic:npm-registry;;topic:pypi-server;;topic:maven-repository;;topic:package-manager;;topic:artifactory;;topic:nexus
+devtools|Documentation & Changelog Tools|100|topic:docs-generator;;topic:api-documentation-generator;;topic:readme;;topic:changelog-generator;;topic:release-management;;topic:semantic-release;;topic:docs-site;;topic:docusaurus;;topic:mkdocs
+devtools|Design Systems & UI Kits|300|topic:ui-kit;;topic:component-library;;topic:ui-components;;topic:design-tokens;;topic:ui-library;;topic:tailwind-components;;topic:shadcn;;topic:admin-template;;topic:dashboard-template
+devtools|Website & App Templates|300|topic:template;;topic:nextjs-template;;topic:nextjs-boilerplate;;topic:react-template;;topic:vue-template;;topic:svelte-template;;topic:astro;;topic:html-template;;topic:email-template
+devtools|Email Templates & Builders|50|topic:email-builder;;topic:email-editor;;topic:mjml;;topic:react-email;;topic:html-email;;topic:drag-and-drop-email;;topic:newsletter-template;;topic:email-design
+devtools|Form & Survey Backends|50|topic:form-backend;;topic:form-submissions;;topic:form-handling;;topic:formspree;;topic:form-api;;topic:contact-form;;topic:form-endpoint;;topic:headless-forms
+devtools|Auth & User Management SDKs|200|topic:auth;;topic:authentication-service;;topic:user-management;;topic:auth0-alternative;;topic:clerk;;topic:jwt;;topic:oidc;;topic:oauth;;topic:login
+devtools|Payments & Billing SDKs|50|topic:stripe;;topic:payment-sdk;;topic:billing-sdk;;topic:paddle;;topic:checkout-sdk;;topic:payment-links;;topic:lemonsqueezy;;topic:saas-payments
+devtools|Notification & Messaging Infrastructure|100|topic:notification-infrastructure;;topic:notifications-service;;topic:novu;;topic:transactional-messaging;;topic:in-app-notifications;;topic:email-api;;topic:messaging-api;;topic:sms-api
+devtools|Search & Recommendations APIs|100|topic:search-api;;topic:typesense;;topic:meilisearch;;topic:elasticsearch;;topic:opensearch;;topic:instant-search;;topic:faceted-search;;topic:autocomplete;;topic:semantic-search
+devtools|File Upload & Media APIs|100|topic:file-upload-api;;topic:media-api;;topic:image-api;;topic:uploads;;topic:tus;;topic:resumable-upload;;topic:image-transformation;;topic:cloudinary-alternative;;topic:media-processing
+devtools|Maps & Location APIs|50|topic:maps-api;;topic:location-api;;topic:geolocation;;topic:ip-geolocation;;topic:geoip;;topic:timezone;;topic:places-api;;topic:address-autocomplete;;topic:postal-codes
+devtools|Scheduling & Calendar APIs|50|topic:calendar-api;;topic:scheduling-api;;topic:caldav;;topic:icalendar;;topic:ics;;topic:calendar-sync;;topic:availability;;topic:booking-api;;topic:cron-api
+devtools|Database Tools & Migrations|200|topic:database-migration;;topic:schema-migration;;topic:orm;;topic:sql;;topic:query-builder;;topic:database-schema;;topic:erd;;topic:data-modeling;;topic:database-design
+devtools|Realtime Collaboration SDKs|100|topic:crdt;;topic:collaboration;;topic:real-time-collaboration;;topic:yjs;;topic:multiplayer-sdk;;topic:presence;;topic:liveblocks;;topic:operational-transformation;;topic:collaborative
+devtools|Analytics & Event Tracking SDKs|100|topic:event-tracking;;topic:analytics-sdk;;topic:tracking;;topic:telemetry;;topic:opentelemetry;;topic:usage-analytics;;topic:metrics;;topic:instrumentation;;topic:product-metrics
+devtools|Background Jobs & Workflow Engines|150|topic:background-jobs;;topic:job-queue;;topic:workflow-engine;;topic:durable-execution;;topic:temporal;;topic:bpmn;;topic:state-machine;;topic:saga;;topic:orchestration
+devtools|Chat & Messaging SDKs|100|topic:chat-sdk;;topic:messaging-sdk;;topic:chat-api;;topic:in-app-chat;;topic:chat-server;;topic:xmpp-server;;topic:matrix-server;;topic:irc;;topic:chat-engine
+devtools|Video & Voice SDKs|100|topic:video-sdk;;topic:webrtc-sdk;;topic:sfu;;topic:livekit;;topic:mediasoup;;topic:voice-chat;;topic:video-api;;topic:real-time-video;;topic:webrtc-server
+devtools|PDF, Document & Report Generation|150|topic:pdf-generator;;topic:html-to-pdf;;topic:report-builder;;topic:document-templates;;topic:docx;;topic:docx-generation;;topic:invoice-pdf;;topic:pdf-api;;topic:office-conversion
+devtools|AI SDKs & Integration Frameworks|300|topic:llm-framework;;topic:langchain;;topic:llm-sdk;;topic:ai-sdk;;topic:openai-api;;topic:function-calling;;topic:structured-output;;topic:mcp;;topic:model-context-protocol
+devtools|Browser Extensions & Toolkits|100|topic:browser-extension;;topic:chrome-extension;;topic:firefox-extension;;topic:extension-boilerplate;;topic:userscript;;topic:web-extension;;topic:chrome-extension-boilerplate;;topic:plasmo
+devtools|Desktop App Frameworks & Templates|200|topic:electron;;topic:tauri;;topic:desktop-app;;topic:electron-app;;topic:tauri-app;;topic:desktop-application;;topic:cross-platform-desktop;;topic:menubar-app;;topic:tray
+devtools|CLI & Terminal Tools|300|topic:cli;;topic:cli-tool;;topic:terminal;;topic:tui;;topic:command-line;;topic:shell;;topic:terminal-app;;topic:productivity-tools;;topic:dotfiles-manager
+devtools|Code Generators & Scaffolding|100|topic:code-generator;;topic:scaffolding;;topic:generator;;topic:crud;;topic:yeoman;;topic:project-template;;topic:cookiecutter;;topic:app-generator;;topic:codegen
+devtools|Localization & i18n Tools|100|topic:i18n;;topic:internationalization;;topic:l10n;;topic:translation-tool;;topic:weblate;;topic:tolgee;;topic:translation-platform;;topic:language-files;;topic:po-files
+devtools|Webhooks, Events & Integration Hubs|100|topic:webhook;;topic:event-driven;;topic:integrations;;topic:connectors;;topic:unified-api;;topic:embedded-ipaas;;topic:nango;;topic:oauth-integrations;;topic:api-integration
+devtools|Monorepo, Build & Dev Productivity|200|topic:build-tool;;topic:monorepo;;topic:bundler;;topic:developer-tools;;topic:devtools;;topic:dx;;topic:developer-experience;;topic:hot-reload;;topic:task-runner
+devtools|Infra Templates (Docker, Helm, Terraform)|100|topic:docker-templates;;topic:helm-charts;;topic:helm;;topic:kubernetes-templates;;topic:terraform-modules;;topic:terraform;;topic:ansible-playbooks;;topic:ansible;;topic:docker-compose-templates

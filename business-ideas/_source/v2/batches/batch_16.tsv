@@ -1,0 +1,380 @@
+seehiong/hdb-price-predictor	271	NONE	web	Real Estate Listings	In-browser Singapore property valuation engine for HDB flats and private condominiums powered by dual XGBoost models (< 1ms JS inference). Features interactive transaction maps and two prediction modes: historical comparable valuation and index-adjusted forwar	
+0xMH/pyfunda	206	AGPL-3.0	web	Real Estate Listings	Python API wrapper for Funda.nl, the Dutch real estate platform. Uses the real mobile API.  No scraping, no Selenium, no CAPTCHA.	
+AnthonyBloomer/daftlistings	194	MIT	web	Real Estate Listings	A Python library enabling programmatic querying, filtering, and analysis of property listings on Daft.ie	
+brightdata/real-estate-ai-agent	161	NONE	web	Real Estate Listings	Intelligent Python system that extracts real estate property data as structured JSON using AI agents, Nebius Qwen LLM, and Bright Data MCP.	
+AAYUSH412/Real-Estate-Website	142	MIT	web	Real Estate Listings	Open-source AI real estate website and admin panel built with the MERN stack and TypeScript (React, Node.js, Express, MongoDB). Runs locally in one command. Great for learning and final year projects.	
+ahacker-1/cre-agent-skills	134	Apache-2.0	web	Real Estate Listings	Commercial real estate AI agent skills for CRE underwriting, due diligence, financing, brokerage, legal and closing workflows - standalone prompts for Claude Code, ChatGPT, Cursor, and other LLMs.	
+ahacker-1/cre-acquisition-orchestrator	125	Apache-2.0	web	Real Estate Listings	The first comprehensive open-source AI-native framework for CRE acquisitions, turning diligence, underwriting, financing, legal, and closing into executable agent workflows.	
+mrkai77/Loop	11940	GPL-3.0	web	Restaurants & Online Menus	Window management made elegant.	
+johnste/finicky	5254	MIT	web	Restaurants & Online Menus	A macOS app for customizing which browser to start	
+Akryum/floating-vue	3459	MIT	web	Restaurants & Online Menus	💬 Easy tooltips, popovers, dropdown, menus... for Vue	
+AlexanderPro/SmartSystemMenu	3343	MIT	web	Restaurants & Online Menus	SmartSystemMenu extends system menu of all windows in the system	
+kmikiy/SpotMenu	3143	MIT	web	Restaurants & Online Menus	Spotify & Apple Music in your macOS menu bar	
+saket/cascade	2103	Apache-2.0	web	Restaurants & Online Menus	Nested popup menus with smooth height animations for Android	
+bit4woo/knife	1975	MIT	web	Restaurants & Online Menus	A burp extension that add some useful function to  Context Menu 添加一些右键菜单让burp用起来更顺畅	
+onokumus/metismenu	1950	MIT	web	Restaurants & Online Menus	A collapsible jQuery menu plugin	
+php-school/cli-menu	1944	MIT	web	Restaurants & Online Menus	🖥  Build beautiful PHP CLI menus. Simple yet Powerful. Expressive DSL.	
+azouaoui-med/react-pro-sidebar	1792	MIT	web	Restaurants & Online Menus	React Pro Sidebar provides a set of components for creating high level and customizable side navigation	
+CaliCastle/PopMenu	1691	MIT	web	Restaurants & Online Menus	A fully customizable popup style menu for iOS 😎	
+nezvers/Godot-GameTemplate	1672	MIT	web	Restaurants & Online Menus	Template for top-down shooter, with solutions for tough problems.	
+christophery/pushy	1480	NOASSERTION	web	Restaurants & Online Menus	Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.	
+KnpLabs/KnpMenu	1397	MIT	web	Restaurants & Online Menus	Menu Library for PHP	
+pgaskin/NickelMenu	1237	MIT	web	Restaurants & Online Menus	The easiest way to launch scripts, change settings, and run actions on Kobo e-readers.	
+Monte9/react-native-ratings	949	MIT	web	Reviews & Testimonials	Tap and Swipe Ratings component for React Native.	
+StegSchreck/RatS	313	AGPL-3.0	web	Reviews & Testimonials	Movie Ratings Synchronization with Python	
+codebyray/laravel-review-rateable	310	MIT	web	Reviews & Testimonials	A flexible Laravel package for adding reviews, multi-criteria ratings, approval workflows, and optional image attachments to any Eloquent model.	
+mahbuba01/Competitive-Programming-Tips	166	MIT	web	Reviews & Testimonials	Tips for improvement, resources, DSA, math, verdicts, time complexity, ratings, contest, interesting things	
+lesterchan/wp-postratings	130	GPL-2.0	web	Reviews & Testimonials	Adds an AJAX rating system for your WordPress blog's post/page.	
+pavi2410/PlayBadges	110	NONE	web	Reviews & Testimonials	Show off your Play Store™ app's downloads and ratings in your repo	
+andrewsolonets/Azon-Shop	86	NONE	web	Reviews & Testimonials	T3-stack E-commerce website with Drizzle ORM, rating system,  persistent cart, discounts, algolia search, optimistic updates (React Query), in stock indicator, infinite scroll and order tracking. E2E Cypress tests included	
+scttcper/ts-trueskill	84	NOASSERTION	web	Reviews & Testimonials	TypeScript port of the python TrueSkill package	
+atomflunder/skillratings	80	Apache-2.0	web	Reviews & Testimonials	Rust library for popular skill rating algorithms like Elo, Glicko-2, TrueSkill and many more.	
+bartholomej/node-csfd-api	66	MIT	web	Reviews & Testimonials	ČSFD API in JavaScript. Amazing NPM library for scrapping csfd.cz. Now with MCP server	
+rfgamaral/PlexMusicRatingsSync	62	MIT	web	Reviews & Testimonials	PlexMusicRatingsSync keeps your Plex music ratings in sync with your audio files.	
+ZL154/jellyfin-plugin-startrack	42	NOASSERTION	web	Reviews & Testimonials	Jellyfin plugin — let users rate movies & TV shows with stars across each Jellyfin Instance	
+paviliondev/discourse-ratings	41	GPL-2.0	web	Reviews & Testimonials	A Discourse plugin that lets you use topics to rate things	
+ndaidong/average-rating	33	MIT	web	Reviews & Testimonials	Calculate  average score and rating based on Wilson Score Equation	
+nanojudge/nanojudge	30	MIT	web	Reviews & Testimonials	Rank any list by any criteria at any scale using LLMs as judges.	
+joshbuchea/HEAD	30272	NONE	web	SEO Tools	A simple guide to HTML <head> elements	
+every-app/open-seo	26715	MIT	web	SEO Tools	Open source alternative to Semrush and Ahrefs	
+Ryze-AI-Adgent/open-seo-mcp-skills	8897	MIT	web	SEO Tools	Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp	
+garmeeh/next-seo	8542	MIT	web	SEO Tools	Next SEO is a plug in that makes managing your SEO easier in Next.js projects.	
+goenning/google-indexing-script	7726	MIT	web	SEO Tools	Script to get your site indexed on Google in less than 48 hours	
+Blazity/next-enterprise	7471	MIT	web	SEO Tools	💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.	
+irinabuht12-oss/marketing-skills	6927	NONE	web	SEO Tools	Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visibility) + the Ryze Google Ads MCP / Meta Ads MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp	
+naxiaoduo/1000UserGuide	4135	NONE	web	SEO Tools	1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。	
+nowork-studio/notfair-plugin	4116	MIT	web	SEO Tools	Open-source SEO, GEO, and marketing skills for AI agents.	
+iamvishnusankar/next-sitemap	3750	MIT	web	SEO Tools	Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.	
+artesaos/seotools	3369	MIT	web	SEO Tools	SEO Tools for Laravel	
+vuesion/vuesion	2872	MIT	web	SEO Tools	The original open-source Vuesion 5: a Nuxt 3 boilerplate with design system, Storybook, Figma UI kit, authentication and testing. MIT licensed, no longer maintained. Active development continues as the commercial Vuesion on Nuxt 4 with workspaces, billing and 	
+kpumuk/meta-tags	2806	MIT	web	SEO Tools	Search Engine Optimization (SEO) for Ruby on Rails applications.	
+spatie/laravel-sitemap	2619	MIT	web	SEO Tools	Create and generate sitemaps with ease	
+Atyantik/react-pwa	2552	MIT	web	SEO Tools	An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.	
+AminForou/mcp-gsc	2139	MIT	web	SEO Tools	Google Search Console Insights with Claude AI for SEOs	
+zhuyansen/new-term-radar	2129	MIT	web	SEO Tools	Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.	
+stevenvachon/broken-link-checker	2084	MIT	web	SEO Tools	Find broken links, missing images, etc within your HTML.	
+frontarm/navi	2048	MIT	web	SEO Tools	🧭 Declarative, asynchronous routing for React.	
+thedevdojo/wave	6554	MIT	web	SaaS Starter Kits	Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 	
+async-labs/saas	4533	MIT	web	SaaS Starter Kits	Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.	
+nextify-limited/saasfly	2917	MIT	web	SaaS Starter Kits	Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises	
+scosman/CMSaasStarter	2372	MIT	web	SaaS Starter Kits	A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.	
+graphile/starter	1833	NOASSERTION	web	SaaS Starter Kits	Opinionated SaaS quick-start with pre-built user account and organization system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. Powered by PostGraphile, TypeScript, Apollo Client, Graphile Worker, Graphile Migrate, GraphQL Co	
+saas-js/saas-ui	1657	MIT	web	SaaS Starter Kits	The React component library for startups, built with Chakra UI.	
+robbins23/daisyui-admin-dashboard-template	1106	MIT	web	SaaS Starter Kits	Free admin dashboard template using Daisy UI, React js and Tailwind CSS	
+zofe/rapyd-admin	863	MIT	web	SaaS Starter Kits	Rapyd Admin is an open-source admin panel for Laravel — a light alternative to Nova, Filament and Backpack	
+LubomirGeorgiev/cloudflare-workers-nextjs-saas-template	786	MIT	web	SaaS Starter Kits	Cloudflare Workers/Next.js SaaS Template	
+d-ivashchuk/cascade	657	NONE	web	SaaS Starter Kits	Best open-source SaaS boilerplate. Free, powerful & extendable.	
+ocluf/justship	636	MIT	web	SaaS Starter Kits	A svelte 5 and sveltekit saas boilerplate. Including database, authentication, email, analytics	
+Saas-Starter-Kit/Saas-Kit-prisma	624	NONE	web	SaaS Starter Kits	🚀A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration	
+alifarooq9/launchmvpfast	618	MIT	web	SaaS Starter Kits	Starterkits, components, ui blocks	
+NextJSTemplates/play-nextjs	608	MIT	web	SaaS Starter Kits	Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.	
+level09/enferno	569	MIT	web	SaaS Starter Kits	Lean Flask framework built for coding agents: Vue 3 + Vuetify with no build step, production-ready auth (2FA, passkeys, OAuth), AGENTS.md, an agent skill and a read-only MCP server. No webpack, no node_modules, just Python.	
+BurntSushi/ripgrep	69862	Unlicense	web	Site Search	ripgrep recursively searches directories for a regex pattern while respecting your gitignore	
+TheAlgorithms/Java	66745	MIT	web	Site Search	All Algorithms implemented in Java	
+sharkdp/fd	45104	Apache-2.0	web	Site Search	A simple, fast and user-friendly alternative to 'find'	
+jaywcjlove/linux-command	37209	MIT	web	Site Search	Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux	
+TheAlgorithms/JavaScript	34280	GPL-3.0	web	Site Search	Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.	
+eugeneyan/applied-ml	30826	MIT	web	Site Search	📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.	
+assafelovic/gpt-researcher	30539	Apache-2.0	web	Site Search	An autonomous agent that conducts deep research on any data using any LLM providers	
+arc53/DocsGPT	18361	MIT	web	Site Search	Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.	
+TheAlgorithms/Go	18247	MIT	web	Site Search	Algorithms and Data Structures implemented in Go for beginners, following best practices.	
+ast-grep/ast-grep	16474	MIT	web	Site Search	⚡A CLI tool for code structural search, lint and rewriting. Written in Rust	
+apache/doris	16192	Apache-2.0	web	Site Search	Apache Doris is a real-time analytics and hybrid search database for AI agents.	
+Flow-Launcher/Flow.Launcher	15975	MIT	web	Site Search	:mag: Quick file search & app launcher for Windows with community-made plugins	
+TanStack/router	15289	MIT	web	Site Search	🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).	
+javve/list.js	11202	MIT	web	Site Search	The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.	
+StarTrail-org/PixelRAG	10864	Apache-2.0	web	Site Search	https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/	
+Future-House/paper-qa	9561	Apache-2.0	web	Site Search	High accuracy RAG for answering questions from scientific documents with citations	
+olivernn/lunr.js	9201	MIT	web	Site Search	A bit like Solr, but much smaller and not as bright	
+cerebroapp/cerebro	8565	MIT	web	Site Search	🔵 Cerebro is an open-source launcher to improve your productivity and efficiency	
+cantino/mcfly	7826	MIT	web	Site Search	Fly through your shell history. Great Scott!	
+amejiarosario/dsa.js-data-structures-algorithms-javascript	7777	MIT	web	Site Search	🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook	
+xushengfeng/eSearch	7408	GPL-3.0	web	Site Search	截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Screen translator  支持Windows Linux macOS	
+InternLM/MindSearch	6944	Apache-2.0	web	Site Search	🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)	
+houbb/sensitive-word	6097	Apache-2.0	web	Site Search	 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)	
+activerecord-hackery/ransack	5858	MIT	web	Site Search	Search everywhere and in a hurry!	
+Tribler/tribler	5345	GPL-3.0	web	Site Search	Privacy enhanced BitTorrent client with P2P content discovery	
+CaiJimmy/hugo-theme-stack	6483	GPL-3.0	web	Site Themes & Templates	Card-style Hugo theme designed for bloggers	
+HugoBlox/hugo-theme-academic-cv	5089	MIT	web	Site Themes & Templates	🎓 Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 👇	
+dillonzq/LoveIt	3869	MIT	web	Site Themes & Templates	❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题	
+docsy/docsy	2977	Apache-2.0	web	Site Themes & Templates	Hugo theme for open source documentation	
+olOwOlo/hugo-theme-even	2086	MIT	web	Site Themes & Templates	🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app	
+jpanther/congo	1657	MIT	web	Site Themes & Templates	A powerful, lightweight theme for Hugo built with Tailwind CSS.	
+matcornic/hugo-theme-learn	1606	MIT	web	Site Themes & Templates	Porting Grav Learn theme to Hugo	
+athul/archie	1435	MIT	web	Site Themes & Templates	A minimal Hugo Theme	
+gohugo-ananke/ananke	1399	MIT	web	Site Themes & Templates	Ananke: A theme for Hugo Sites	
+Track3/hermit	1148	MIT	web	Site Themes & Templates	A minimal & fast Hugo theme for bloggers	
+hugo-fixit/FixIt	1123	MIT	web	Site Themes & Templates	🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题	
+gurusabarish/hugo-profile	1089	MIT	web	Site Themes & Templates	A highly customizable and mobile first Hugo template for personal portfolio and blog.	
+Vimux/Mainroad	1048	GPL-2.0	web	Site Themes & Templates	Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme	
+yihui/hugo-xmin	979	MIT	web	Site Themes & Templates	eXtremely Minimal Hugo theme: about 140 lines of code in total, including HTML and CSS (with no dependencies)	
+xianmin/hugo-theme-jane	969	MIT	web	Site Themes & Templates	A readable & concise theme for Hugo, color schemes to choose, easy to personalize. Working well since 2018.	
+vercel/next.js	143378	MIT	web	Static Site Generators	The React Framework	
+nuxt/nuxt	61049	MIT	web	Static Site Generators	The full-stack Vue framework.	
+vuejs/vuepress	22713	MIT	web	Static Site Generators	📝 Minimalistic Vue-powered static site generator	
+mkdocs/mkdocs	22540	BSD-2-Clause	web	Static Site Generators	Project documentation with Markdown.	
+11ty/buildawesome	20024	MIT	web	Static Site Generators	A simpler site generator. Transforms a directory of templates (of varying types) into HTML.	
+stenciljs/core	13154	NOASSERTION	web	Static Site Generators	A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-ag	
+gridsome/gridsome	8460	MIT	web	Static Site Generators	⚡️ The Jamstack framework for Vue.js	
+metalsmith/metalsmith	7815	MIT	web	Static Site Generators	An extremely simple, pluggable static site generator for Node.js	
+middleman/middleman	7110	MIT	web	Static Site Generators	Hand-crafted frontend development	
+arthelokyo/astrowind	6125	MIT	web	Static Site Generators	⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.	
+zensical/zensical	6113	MIT	web	Static Site Generators	A modern static site generator by the Material for MkDocs team	
+vikejs/vike	5838	MIT	web	Static Site Generators	(Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.	
+daattali/beautiful-jekyll	5835	MIT	web	Static Site Generators	✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com	
+peaceiris/actions-gh-pages	5370	MIT	web	Static Site Generators	GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.	
+stereobooster/react-snap	5123	MIT	web	Static Site Generators	👻 Zero-configuration framework-agnostic static prerendering for SPAs	
+JohnSundell/Publish	4970	MIT	web	Static Site Generators	A static site generator for Swift developers	
+dotnet/docfx	4450	MIT	web	Static Site Generators	Static site generator for .NET API documentation.	
+umijs/dumi	3795	MIT	web	Static Site Generators	📖 Static Site Generator for component library development	
+analogjs/analog	3207	MIT	web	Static Site Generators	The fullstack meta-framework for Angular. Powered by Vite and Nitro	
+luizdepra/hugo-coder	3115	MIT	web	Static Site Generators	A minimalist blog theme for hugo.	
+chrisdiana/cms.js	3052	MIT	web	Static Site Generators	Client-Side JavaScript Site Generator	
+docpad/docpad	3047	NOASSERTION	web	Static Site Generators	Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft p	
+getnikola/nikola	2748	MIT	web	Static Site Generators	A static website and blog generator	
+docmd-io/docmd	2556	MIT	web	Static Site Generators	Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.	
+eduardoboucas/staticman	2451	MIT	web	Static Site Generators	💪  User-generated content for Git-powered websites	
+FreeTubeApp/FreeTube	22349	AGPL-3.0	web	Subscription Billing	An Open Source YouTube app for privacy	
+99designs/gqlgen	10769	MIT	web	Subscription Billing	go generate based graphql server library	
+graphql-go/graphql	10141	MIT	web	Subscription Billing	An implementation of GraphQL for Go / Golang	
+dunglas/mercure	5358	AGPL-3.0	web	Subscription Billing	🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications	
+enisdenjo/graphql-ws	1871	MIT	web	Subscription Billing	Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.	
+ViewTube/viewtube	1477	AGPL-3.0	web	Subscription Billing	▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki	
+user234683/youtube-local	781	AGPL-3.0	web	Subscription Billing	browser-based client for watching Youtube anonymously and with greater page performance	
+lucasdotvin/laravel-soulbscription	710	MIT	web	Subscription Billing	A straightforward interface to handle subscriptions and feature consumption.	
+djaodjin/djaodjin-saas	602	NOASSERTION	web	Subscription Billing	Django application for software-as-service and subscription businesses	
+mermeroo/V2RAY-CLASH-BASE64-Subscription.Links	527	Unlicense	web	Subscription Billing	Clash and V2ray and Base64 subscription links collected from GitHub and other public sources    -  V2ray 子链接  * CLASH  子链接    -  V2RAY   CLASH   BASE64   SUB  LINKS  FREE NODES 	
+adaptyteam/AdaptySDK-iOS	491	MIT	web	Subscription Billing	SDK for growing mobile in-app purchases	
+enisdenjo/graphql-sse	461	MIT	web	Subscription Billing	Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.	
+symfony/mercure	444	MIT	web	Subscription Billing	The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.	
+tddworks/asc-cli	393	Apache-2.0	web	Subscription Billing	App Store Connect from your terminal & Agents. A Swift CLI for managing your iOS and macOS apps on App Store Connect. Submit versions, manage screenshots, track builds — with full AI-agent support via CAEOAS affordances.	
+symfony/mercure-bundle	309	MIT	web	Subscription Billing	The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.	
+filamentphp/filament	32445	MIT	web	Traditional CMS	An open-source framework for building polished, maintainable business software with Laravel.	
+emdash-cms/emdash	14245	MIT	web	Traditional CMS	EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress	
+getgridea/gridea	10221	MIT	web	Traditional CMS	✍️ A static blog writing client (一个静态博客写作客户端)	
+CoreBunch/Instatic	9084	MIT	web	Traditional CMS	The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 	
+GetPublii/Publii	7395	GPL-3.0	web	Traditional CMS	The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.	
+201206030/novel	5849	Apache-2.0	web	Traditional CMS	novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。	
+ponzu-cms/ponzu	5759	BSD-3-Clause	web	Traditional CMS	Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.	
+agentejo/cockpit	5394	MIT	web	Traditional CMS	Add content management functionality to any site - plug & play / headless / api-first CMS	
+qor/qor	5347	MIT	web	Traditional CMS	QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.	
+statamic/cms	4916	NOASSERTION	web	Traditional CMS	The core Laravel CMS Composer package	
+hunvreus/pagescms	4193	MIT	web	Traditional CMS	The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.	
+yaojingang/GEOFlow	4044	AGPL-3.0	web	Traditional CMS	Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates.	
+area17/twill	3972	Apache-2.0	web	Traditional CMS	Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk7EFv8R.	
+lektor/lektor	3950	BSD-3-Clause	web	Traditional CMS	The lektor static file content management system	
+siteserver/cms	3917	AGPL-3.0	web	Traditional CMS	SSCMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。链接是SSCMS推出的全新AI视频开源社区：献丑AI	
+picocms/Pico	3903	MIT	web	Traditional CMS	Pico is a stupidly simple, blazing fast, flat file CMS.	
+nuxt/content	3677	MIT	web	Traditional CMS	The file-based CMS for your Nuxt application, powered by Markdown and Vue components.	
+doramart/DoraCMS	3553	MIT	web	Traditional CMS	DoraCMS 是一个基于 EggJS 3.x + Vue 3 + TypeScript 的现代化内容管理系统，采用 pnpm monorepo 架构管理。它不仅仅是一个 CMS 系统，更是一个优秀的企业级应用架构实践。	
+kjur/jsrsasign	3369	NOASSERTION	web	Traditional CMS	CAUTION: END OF SUPPORT ON 14 AUG 2026. The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedD	
+pyrocms/pyrocms	3175	NOASSERTION	web	Traditional CMS	Pyro is an experienced and powerful Laravel PHP CMS.	
+sveltia/sveltia-cms	3053	MIT	web	Traditional CMS	Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Framework-agnostic, open source & free.	
+gstory0404/Cinetry	3039	NONE	web	Traditional CMS	Cinetry多媒体播放器，Jellyfin、Emby、CMS、IPTV、Webdav、Alist、Openlist、Subsonic、Navidrom、GD音乐台、audiobookshelf、道理鱼、飞牛影视数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux、TV，纯本地客户端，不扫库，不会收集、存储或传输任何个人信息或服务器数据	
+jekyll/jekyll-admin	2926	MIT	web	Traditional CMS	A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites. 	
+magicblack/maccms10	2924	NOASSERTION	web	Traditional CMS	苹果CMS v10 · MacCMS v10 — 开源内容管理系统：视频 / 分集剧情 / 文章 / 漫画 / 图片 / 网址导航. Open-source PHP CMS for video, articles, manga, images & site navigation.	
+LavaLite/cms	2889	NONE	web	Traditional CMS	Multilingual PHP CMS built with Laravel  and bootstrap	
+liketrek/TREK	15421	AGPL-3.0	web	Travel & Hotel Booking	The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.	
+AWeirdDev/flights	2127	MIT	web	Travel & Hotel Booking	Fast, robust Google Flights scraper (API) for Python. (Probably)	
+itskovacs/trip	1959	MIT	web	Travel & Hotel Booking	🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.	
+borski/travel-hacking-toolkit	907	MIT	web	Travel & Hotel Booking	AI-powered travel hacking and search with cash, points, miles, and award flights. Drop-in skills and MCP servers for Claude, Codex, and OpenCode.	
+vbguyny/ws4kp	597	MIT	web	Travel & Hotel Booking	WeatherStar 4000+	
+zexuanw958-svg/travel-plan-viz	411	MIT	web	Travel & Hotel Booking	Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。	
+Traewelling/traewelling	391	AGPL-3.0	web	Travel & Hotel Booking	Free check-in service to log your public transit journeys	
+nanbouking/WeTravel	384	NONE	web	Travel & Hotel Booking	旅游景区门户小程序是一个为游客朋友提供多元化服务的一站式数字文旅平台，提供“吃、住、游、购、娱”等旅游行程中的多种服务，全面支持景区介绍，景点攻略，景点预约，停车预约、景区导览等功能，游客可以在小程序中了解旅游度假区的景点信息、历史文化、各类活动等。前后端代码完整，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。	
+adl1995/trip-planner	372	BSD-2-Clause	web	Travel & Hotel Booking	A CLI tool for planning trip itinerary.	
+securityfirst/Umbrella_android	298	GPL-3.0	web	Travel & Hotel Booking	Open source Android, iOS and Web app for learning about and managing digital and physical security. From how to send a secure message to dealing with a kidnap. Umbrella has best practice guides in over 40 topics in multiple languages. Used daily by people work	
+diowa/icare	252	BSD-2-Clause	web	Travel & Hotel Booking	Open Source Carpooling Platform	
+tczyliu/china-travel-kit	177	MIT	web	Travel & Hotel Booking	Source-aware China inbound travel data, CLI, HTTP API, and MCP server	
+shaikhspeare/wanderlog-mcp	169	MIT	web	Travel & Hotel Booking	MCP server for Wanderlog — build and edit trip itineraries through conversation	
+cataseven/Google-Map-Card	118	MIT	web	Travel & Hotel Booking	Google Maps Card for Home Assistant	
+Aisland-SJL/StarMap	108	MIT	web	Travel & Hotel Booking	⭐ StarMap — your personal star-charted travel atlas: footprints, photos, and drone panoramas on an interactive Cesium globe.	
+zxing/zxing	34184	Apache-2.0	web	URL & QR Tools	ZXing ("Zebra Crossing") barcode scanning library for Java, Android	
+x-hw/amazing-qr	10847	GPL-3.0	web	URL & QR Tools	💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）	
+latentcat/qrbtf	7043	GPL-3.0	web	URL & QR Tools	AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com	
+nayuki/QR-Code-generator	6816	NONE	web	URL & QR Tools	High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.	
+EFPrefix/EFQRCode	4750	MIT	web	URL & QR Tools	A better way to operate QRCode in Swift, support iOS, macOS, watchOS, tvOS, and/or visionOS.	
+cozmo/jsQR	4050	Apache-2.0	web	URL & QR Tools	A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.	
+jenly1314/ZXingLite	3378	Apache-2.0	web	URL & QR Tools	🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成扫码更简单。	
+SimpleSoftwareIO/simple-qrcode	2895	MIT	web	URL & QR Tools	An easy-to-use PHP QrCode generator with first-party support for Laravel.	
+chillerlan/php-qrcode	2392	Apache-2.0	web	URL & QR Tools	A PHP QR Code generator and reader with a user-friendly API.	
+lessthanoptimal/BoofCV	1205	NONE	web	URL & QR Tools	Fast computer vision library for SFM, calibration, fiducials, tracking,  image processing, and more.	
+yuriy-budiyev/code-scanner	1160	MIT	web	URL & QR Tools	Code scanner library for Android, based on ZXing	
+JodusNodus/react-qr-reader	1151	MIT	web	URL & QR Tools	React component for reading QR codes from webcam.	
+jenly1314/WeChatQRCode	899	Apache-2.0	web	URL & QR Tools	⛄ 基于OpenCV开源的微信二维码引擎移植的二维码扫码识别库	
+rosskhanas/react-qr-code	895	MIT	web	URL & QR Tools	A QR code generator for React and React Native.	
+ricmoo/QRCode	823	NOASSERTION	web	URL & QR Tools	QR code generation library in C, optimized for low-power devices, such as Arduino.	
+libre-tube/LibreTube	12964	GPL-3.0	web	Video Platforms	An alternative frontend for YouTube, for Android.	
+mendel5/alternative-front-ends	9246	AGPL-3.0	web	Video Platforms	Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)	
+Anil-matcha/AI-Youtube-Shorts-Generator	5801	MIT	web	Video Platforms	Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.	
+libredirect/browser_extension	4109	GPL-3.0	web	Video Platforms	A browser extension that redirects popular sites to alternative privacy friendly frontends	
+digitalblossom/alternative-frontends	2334	GPL-3.0	web	Video Platforms	🔐🌐 Privacy-respecting web frontends for popular services 	
+TeamNewPipe/NewPipeExtractor	2042	GPL-3.0	web	Video Platforms	NewPipe's core library for extracting data from streaming sites	
+SwapnilSoni1999/spotify-dl	1683	MIT	web	Video Platforms	Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl 	
+SamurAIGPT/postiz-cheap	1393	MIT	web	Video Platforms	Free, open-source Postiz alternative: self-host a social media scheduler with an AI post writer, content calendar, and publishing across 8 platforms. MIT licensed; external provider charges may apply.	
+algora-io/tv	1247	NOASSERTION	web	Video Platforms	Open source Twitch for developers	
+tanshuai/alphabiz	1215	GPL-2.0	web	Video Platforms	Web3 YouTube Alternative - fully decentralized media platform and blockchain-based marketplace	
+Athlon1600/youtube-downloader	936	MIT	web	Video Platforms	:tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:	
+tomMoulard/make-my-server	591	NONE	web	Video Platforms	Docker Compose with Traefik and lots of services	
+Lelonio/Square	492	GPL-3.0	web	Video Platforms	Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.	
+xixihhhh/hotclip	437	AGPL-3.0	web	Video Platforms	免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频,直发抖音/快手/B站/小红书/视频号——AI 找高光金句、弹幕热度进爆点判断、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts for TikTok & YouTube Shorts. No credit	
+Scottcjn/bottube	365	MIT	web	Video Platforms	Video platform built for AI agents, humans welcome. Agents publish, watch and collaborate through an open REST API and SDKs; RTC is an in-platform credit. Part of the Elyan Labs / RustChain ecosystem.	
+gkd-kit/gkd	44207	GPL-3.0	web	Web Accessibility & Testing	基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules	
+cjpais/Handy	37891	MIT	web	Web Accessibility & Testing	A free, open source, and extensible speech-to-text application that works completely offline.	
+opendataloader-project/opendataloader-pdf	30198	Apache-2.0	web	Web Accessibility & Testing	PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.	
+tailwindlabs/headlessui	28813	MIT	web	Web Accessibility & Testing	Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.	
+darkreader/darkreader	22570	MIT	web	Web Accessibility & Testing	Dark Reader Chrome and Firefox extension	
+radix-ui/primitives	19481	MIT	web	Web Accessibility & Testing	Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.	
+vercel-labs/agent-desktop	18565	Apache-2.0	web	Web Accessibility & Testing	Computer use CLI for AI agents	
+bootstrap-vue/bootstrap-vue	14405	MIT	web	Web Accessibility & Testing	MOVED to https://github.com/bootstrap-vue-next/bootstrap-vue-next	
+markmead/hyperui	12280	MIT	web	Web Accessibility & Testing	Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀	
+mui/base-ui	11322	MIT	web	Web Accessibility & Testing	Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.	
+mathjax/MathJax	10943	Apache-2.0	web	Web Accessibility & Testing	Beautiful and accessible math in all browsers	
+radix-ui/themes	8824	MIT	web	Web Accessibility & Testing	Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.	
+miqdadbadjuber/anti-slop	8565	MIT	web	Web Accessibility & Testing	Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.	
+chinchang/hint.css	8416	MIT	web	Web Accessibility & Testing	A CSS only tooltip library for your lovely websites.	
+andreasbm/web-skills	7671	NOASSERTION	web	Web Accessibility & Testing	A visual overview of useful skills to learn as a web developer	
+wangzan101/Mika	7543	Apache-2.0	web	Web Accessibility & Testing	An on-device AI agent for Android that operates apps and the web to get things done for you.	
+unovue/reka-ui	6937	MIT	web	Web Accessibility & Testing	An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue	
+skeletonlabs/skeleton	6088	MIT	web	Web Accessibility & Testing	Skeleton is an adaptive design system powered by Tailwind CSS.	
+leongersen/noUiSlider	5801	MIT	web	Web Accessibility & Testing	noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies.	
+gluestack/gluestack-ui	5347	NONE	web	Web Accessibility & Testing	React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))	
+zfdang/Android-Touch-Helper	5338	MIT	web	Web Accessibility & Testing	AdSkip — an Android assistant for automatically skipping app launch ads	
+chakra-ui/zag	5248	MIT	web	Web Accessibility & Testing	Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines	
+Manavarya09/design-extract	4838	MIT	web	Web Accessibility & Testing	Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shad	
+OptiKey/OptiKey	4429	GPL-3.0	web	Web Accessibility & Testing	OptiKey - Full computer control and speech with your eyes	
+a11yproject/a11yproject.com	3906	Apache-2.0	web	Web Accessibility & Testing	The A11Y Project is a community-driven effort to make digital accessibility easier.	
+QwikDev/partytown	13813	MIT	web	Web Analytics	Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉	
+invertase/react-native-firebase	12327	NOASSERTION	web	Web Analytics	🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.	
+leeoniya/uPlot	10622	MIT	web	Web Analytics	📈 A small, fast chart for time series, lines, areas, ohlc & bars	
+modin-project/modin	10389	Apache-2.0	web	Web Analytics	Modin: Scale your Pandas workflows by changing a single line of code	
+oceanbase/oceanbase	10368	Apache-2.0	web	Web Analytics	OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.	
+faisalman/ua-parser-js	10210	AGPL-3.0	web	Web Analytics	UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node	
+aws-amplify/amplify-js	9554	Apache-2.0	web	Web Analytics	A declarative JavaScript library for application development using cloud services.	
+delta-io/delta	9069	Apache-2.0	web	Web Analytics	An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs	
+snowplow/snowplow	7047	Apache-2.0	web	Web Analytics	The leader in Customer Data Infrastructure	
+covid19india/covid19india.github.io	6794	MIT	web	Web Analytics	Tracking the impact of COVID-19 in India	
+nunomaduro/phpinsights	5647	MIT	web	Web Analytics	🔰 Instant PHP quality checks from your console	
+DefectDojo/django-DefectDojo	5197	BSD-3-Clause	web	Web Analytics	Open-Source Unified Vulnerability Management, DevSecOps & ASPM	
+antonkomarev/github-profile-views-counter	5069	MIT	web	Web Analytics	It counts how many times your GitHub profile has been viewed. Free cloud micro-service.	
+apache/age	4932	Apache-2.0	web	Web Analytics	Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.	
+ankane/ahoy	4483	MIT	web	Web Analytics	Simple, powerful, first-party analytics for Rails	
+crate/crate	4450	Apache-2.0	web	Web Analytics	CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.	
+AgenticResourceRegistry/AgenticResourceRegistry	4323	Apache-2.0	web	Web Analytics	Share and discover coding agent resources across your team. Self-hosted, Apache 2.0, works with Claude Code, Kiro, Cursor, Codex, Pi and more.	
+StructuredLabs/preswald	4270	Apache-2.0	web	Web Analytics	Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, DuckDB, Pandas, and Plotly, Matplotlib, etc. Build dashboards	
+chartbrew/chartbrew	4084	NOASSERTION	web	Web Analytics	Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊	
+Netflix/maestro	3852	Apache-2.0	web	Web Analytics	Maestro: Netflix’s Workflow Orchestrator	
+vidstack/player	3725	MIT	web	Web Analytics	Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.	
+alibaba/GraphScope	3562	Apache-2.0	web	Web Analytics	🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba | 一站式图计算系统	
+lmnr-ai/lmnr	3477	Apache-2.0	web	Web Analytics	Laminar - open-source observability platform purpose-built for AI agents. YC S24.	
+roapi/roapi	3435	Apache-2.0	web	Web Analytics	Create full-fledged APIs for slowly moving datasets without writing a single line of code.	
+spatie/laravel-analytics	3247	MIT	web	Web Analytics	A Laravel package to retrieve pageviews and other data from Google Analytics	
+microg/GmsCore	15230	Apache-2.0	web	Web Push & Notifications	Free implementation of Play Services	
+Finb/Bark	9494	MIT	web	Web Push & Notifications	Bark is an iOS App which allows you to push custom notifications to your iPhone	
+webhooksite/webhook.site	6794	NOASSERTION	web	Web Push & Notifications	⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.	
+dschep/ntfy	4988	GPL-3.0	web	Web Push & Notifications	🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.	
+Finb/bark-server	3700	MIT	web	Web Push & Notifications	Backend of Bark	
+jazzband/django-push-notifications	2383	MIT	web	Web Push & Notifications	Send push notifications to mobile devices through GCM or APNS in Django.	
+rpush/rpush	2202	MIT	web	Web Push & Notifications	The push notification service for Ruby.	
+notifme/notifme-sdk	1994	MIT	web	Web Push & Notifications	A Node.js library to send all kinds of transactional notifications.	
+web-push-libs/web-push-php	1903	MIT	web	Web Push & Notifications	Web Push library for PHP	
+jchambers/pushy	1879	MIT	web	Web Push & Notifications	A Java library for sending APNs (iOS/macOS/Safari) push notifications	
+easychen/wecomchan	1760	MIT	web	Web Push & Notifications	微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。 	
+YoRyan/mailrise	1609	MIT	web	Web Push & Notifications	An SMTP gateway for Apprise notifications.	
+OneSignal/react-native-onesignal	1590	NOASSERTION	web	Web Push & Notifications	OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your React Native app with OneSignal. https://onesignal.com	
+uniqush/uniqush-push	1564	Apache-2.0	web	Web Push & Notifications	Push notification server for APNs, FCM and Web Push, written in Go.	
+gotify/android	1534	MIT	web	Web Push & Notifications	An app for creating push notifications for new messages posted to gotify/server.	
+HugoBlox/kit	9787	MIT	web	Website Builders	🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇	
+Codelessly/ResponsiveFramework	1406	MIT	web	Website Builders	Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/	
+givanz/Vvveb	1283	AGPL-3.0	web	Website Builders	Powerful and easy to use cms to build websites, blogs or ecommerce stores.	
+belastrittmatter/Framely	1188	MIT	web	Website Builders	Open-source drag-and-drop website builder: Next.js, multi-tenant, custom domains, Prisma + MySQL.	
+pH7Software/pH7-Social-Dating-CMS	1072	MIT	web	Website Builders	Self-hosted, open-source PHP 8.2+ software for building white-label dating sites, matchmaking communities, and social networks. Own your code, hosting, database, and member data.	
+Mobirise/Mobirise	987	NONE	web	Website Builders	Free AI website builder for Windows, Mac and Linux. Release notes and downloads.	
+designmodo/html-website-templates	956	NONE	web	Website Builders	Free static HTML website templates created using the Slides - https://designmodo.com/slides/	
+coderedcorp/coderedcms	762	NOASSERTION	web	Website Builders	Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.	
+WonderCMS/wondercms	744	MIT	web	Website Builders	Fast and small flat file CMS (5 files). Built with PHP, JSON database.	
+wanglelecc/laracms	584	MIT	web	Website Builders	LaraCMS 是在学习 laravel （ web 开发实战进阶 + 实战构架 API 服务器） 过程中产生的一个业余作品，试图通过简单的方式，快速构建一套基本的企业站同时保留很灵活的扩展能力和优雅的代码方式，当然这些都得益Laravel的优秀设计。同时LaraCMS 也是一个学习Laravel 不错的参考示例。	
+chaibuilder/core	489	BSD-3-Clause	web	Website Builders	chaicore - open-source AI-enabled visual website builder for Next.js	
+maglevhq/maglev-core	384	MIT	web	Website Builders	Ruby on Rails website builder 	
+getgrav/grav-plugin-admin	378	MIT	web	Website Builders	Grav Admin Plugin	
+Kooboo/Kooboo	345	NOASSERTION	web	Website Builders	High-performance platform for building websites, e-commerce, and web applications—with Native AI, JavaScript development, and a marketplace for portable sites and apps.	
+Loopple/loopple	254	NONE	web	Website Builders	Template Builder for Modern Websites & Dashboards	
+didriksg/Crisp	2337	MIT	web	Website Live Chat	Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free and open source, a no-cost alternative to BetterDisplay and	
+idoco/intergram	1418	MPL-2.0	web	Website Live Chat	Free live chat widget linked to your Telegram messenger	
+dappros/ethora	552	Apache-2.0	web	Website Live Chat	SDK monorepo for the Ethora chat / messaging platform. (1) Pick an SDK for your frontend stack. (2) Integrate manually or with ethora-setup. (3) Optionally configure app settings, deploy AI agents etc. Server: ethora.com cloud (free), self-hosted (AWS, Docker,	
+firecrawl/mendable-nextjs-chatbot	277	NONE	web	Website Live Chat	Next.js Starter Template for building chatbots with Mendable	
+ConvoStack/convostack	259	MIT	web	Website Live Chat	Plug and play embeddable AI chatbot widget and backend deployment framework	
+Mintplex-Labs/anythingllm-embed	190	MIT	web	Website Live Chat	AnythingLLM Embed widget submodule for the main AnythingLLM application	
+rotatordisk92/react-slack-chat	156	NONE	web	Website Live Chat	[UPDATED] A Server-less Beautiful Gooey / Material Design Slack Chat Web Integrating Widget.	
+ultralytics/llm	122	AGPL-3.0	web	Website Live Chat	Zero-dependency JavaScript AI chat widget with SSE streaming, search, page context, accessibility, and theming.	
+Kommunicate-io/Kommunicate-Android-Chat-SDK	80	BSD-3-Clause	web	Website Live Chat	Kommunicate Android AI Agent SDK	
+yshmarov/livechat	66	MIT	web	Website Live Chat	Open-source live chat for Rails: drop-in support widget + team inbox, in your own database. Alternative to Crisp, Intercom, Chatwoot — inside your Rails app, not another service.	
+chatvia/chatvia	60	NOASSERTION	web	Website Live Chat	Open-source platform for AI chat agents that answer from your own knowledge base. Hybrid RAG search in PostgreSQL, MCP and custom tools, guardrails and human handoff. Put agents on a hosted chat page, a website widget, Slack, Teams, WhatsApp, Telegram or a RES	
+emotality/tawk-laravel	51	MIT	web	Website Live Chat	Tawk.to chat widget for Laravel.	
+hiroi-sora/Umi-OCR	48503	MIT	web	Website Screenshot & Change Monitoring	OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。	
+niklasvh/html2canvas	31922	MIT	web	Website Screenshot & Change Monitoring	Screenshots with JavaScript	
+xiaojieonly/Ehviewer_CN_SXJ	28795	NOASSERTION	web	Website Screenshot & Change Monitoring	ehviewer，用爱发电，快乐前行	
+zsh-users/zsh-syntax-highlighting	23083	BSD-3-Clause	web	Website Screenshot & Change Monitoring	Fish shell like syntax highlighting for Zsh.	
+MathewSachin/Captura	10878	MIT	web	Website Screenshot & Change Monitoring	Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes	
+zumerlab/snapdom	8229	MIT	web	Website Screenshot & Change Monitoring	High-performance engine for capturing, modifying, and converting DOM elements into any format.	
+ParthJadhav/app-store-screenshots	7835	MIT	web	Website Screenshot & Change Monitoring	end to end app store screenshot creation using AI	
+bubkoo/html-to-image	7274	MIT	web	Website Screenshot & Change Monitoring	✂️ Generates an image from a DOM node using HTML5 canvas and SVG.	
+mg-chao/snow-apps	6739	NOASSERTION	web	Website Screenshot & Change Monitoring	Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.	
+jacklandrin/OnlySwitch	6041	MIT	web	Website Screenshot & Change Monitoring	👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.	
+xufuji456/FFmpegAndroid	5894	NONE	web	Website Screenshot & Change Monitoring	FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议	
+spatie/browsershot	5253	MIT	web	Website Screenshot & Change Monitoring	Convert HTML to an image, PDF or string	
+sensepost/gowitness	4555	GPL-3.0	web	Website Screenshot & Change Monitoring	🔍 gowitness - a golang, web screenshot utility using Chrome Headless	
+zhw2590582/ArtPlayer	4158	MIT	web	Website Screenshot & Change Monitoring	:art: ArtPlayer.js is a modern and full featured HTML5 video player	
+duongductrong/Snapzy	3534	BSD-3-Clause	web	Website Screenshot & Change Monitoring	An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.	
+ksnip/ksnip	3375	GPL-3.0	web	Website Screenshot & Change Monitoring	ksnip the cross-platform screenshot and annotation tool	
+AnyListen/tools-ocr	3061	LGPL-3.0	web	Website Screenshot & Change Monitoring	树洞 OCR 文字识别（一款跨平台的 OCR 小工具）	
+dynobo/normcap	2764	NOASSERTION	web	Website Screenshot & Change Monitoring	OCR powered screen-capture tool to capture information instead of images	
+graphieros/vue-data-ui	2458	MIT	web	Website Screenshot & Change Monitoring	An open source user-empowering data visualization Vue 3 components library for eloquent data storytelling	
+wabarc/wayback	2251	GPL-3.0	web	Website Screenshot & Change Monitoring	An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.	
+riccardoperra/codeimage	2091	MIT	web	Website Screenshot & Change Monitoring	A tool to beautify your code screenshots. Built with SolidJS and Fastify.	
+qq15725/modern-screenshot	2090	MIT	web	Website Screenshot & Change Monitoring	📸 Quickly generate image from DOM node using HTML5 canvas and SVG.	
+aaronyi97/wedding-video-guided-wizard	424	MIT	web	Wedding & RSVP	真实故事婚礼视频的 14 步引导式 Skill：故事采集、Kimi 写作包、配音、外部 GPT 生图、视频打包、音乐与字幕剪辑。	
+vinitshahdeo/Wedding-Invitation	259	AGPL-3.0	web	Wedding & RSVP	Animated website for my Elder Sister's wedding Invitation (also contains timer & background music) | Save the Date: Nov 29, 2020	
+NgodingSolusi/the-wedding-of-rehan-maulidan	226	NONE	web	Wedding & RSVP	Our wedding | Rayhan Yulanda & Maulidan Nashuha	
+zouyaoji/wedding-invitation	217	NOASSERTION	web	Wedding & RSVP	微信小程序婚礼请柬	
+sakeenah-wedding/template	214	NOASSERTION	web	Wedding & RSVP	Elegant and modern digital wedding invitation template for the Sakeenah platform	
+Hallicopter/shirah-reader	188	NONE	web	Wedding & RSVP	RSVP speed reader, written in python.	
+jamestomasino/stutter	181	GPL-3.0	web	Wedding & RSVP	RSVP for browsers	
+danixsofyan/wedding-invitation	128	NONE	web	Wedding & RSVP	PHP Laravel Livewire - Website weeding invitation / undangan pernikahan using framework laravel https://lynk.id/payme/danixsofyan	
+dewanakl/undangan-api	120	MIT	web	Wedding & RSVP	🔥 API Backend undangan digital Ulems yang andal, sederhana, mudah diintegrasikan, berperforma tinggi, dan dibangun dengan "Kamu PHP Framework".	
+sauanla/wedding-invitation	116	MIT	web	Wedding & RSVP	This is the template for wedding invitation card	
+n-ivkovic/tspreed	105	GPL-3.0	web	Wedding & RSVP	Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell	
+shyamjos/wedding-website	97	NONE	web	Wedding & RSVP	Source code for our wedding website 👫.	
+troglobit/mrouted	89	NOASSERTION	web	Wedding & RSVP	The original DVMRP (dynamic multicast routing) implementation for UNIX	
+ueewbdy93/wedding-screen	71	NONE	web	Wedding & RSVP	A wedding activity website implemented by a happy programmer couple ❤️.	
+fauzialz/amifauzi.com-open	64	NONE	web	Wedding & RSVP	I built this website for my personal wedding using Remix and Google Sheets API	
+earwig/mwparserfromhell	907	MIT	web	Wiki Farms	A Python parser for MediaWiki wikicode	
+wikimedia/pywikibot	780	MIT	web	Wiki Farms	A Python library that interfaces with the MediaWiki API. This is a mirror from gerrit.wikimedia.org. Do not submit any patches here. See https://www.mediawiki.org/wiki/Developer_account for contributing.	
+thombashi/pytablewriter	631	MIT	web	Wiki Farms	pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas / Python / reStructuredText / SQLite / TOML / TSV.	
+siznax/wptools	595	MIT	web	Wiki Farms	Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis	
+gumblex/zhconv	566	MIT	web	Wiki Farms	Simple conversion and localization between simplified and traditional Chinese using tables from MediaWiki.	
+Zavy86/WikiDocs	533	MIT	web	Wiki Farms	📗 Just a databaseless markdown flat-file wiki	
+openzim/mwoffliner	495	GPL-3.0	web	Wiki Farms	MediaWiki scraper: all your wiki articles in one highly compressed ZIM file	
+bouncepaw/mycorrhiza	379	AGPL-3.0	web	Wiki Farms	🍄📑 Filesystem and git-based wiki engine for the independent web written in Go and using Mycomarkup as its primary markup language.	
+suyashb95/WiktionaryParser	377	MIT	web	Wiki Farms	A Python Wiktionary Parser	
+moinwiki/moin	375	NOASSERTION	web	Wiki Farms	MoinMoin Wiki Development (2.0+), unstable, for production please use 1.9.x.	
+mwclient/mwclient	348	MIT	web	Wiki Farms	Python client library to interface with the MediaWiki API	
+5j9/wikitextparser	333	GPL-3.0	web	Wiki Farms	A Python library to parse MediaWiki WikiText	
+openNAMU/openNAMU	252	BSD-3-Clause	web	Wiki Farms	여러 기능이 있는 위키 엔진 (Wiki engine with multiple functions)	
+macbre/nodemw	249	BSD-2-Clause	web	Wiki Farms	MediaWiki API and WikiData client written in Node.js	
+melmothx/amusewiki	221	NOASSERTION	web	Wiki Farms	Text::Amuse-based publishing platform	
+DavidHDev/react-bits	51441	NOASSERTION	media_ai	3D & Rendering	The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.	
+ssloy/tinyrenderer	24498	NOASSERTION	media_ai	3D & Rendering	A brief computer graphics / rendering course	
+lettier/3d-game-shaders-for-beginners	20027	NONE	media_ai	3D & Rendering	🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.	
+CesiumGS/cesium	15925	Apache-2.0	media_ai	3D & Rendering	An open-source JavaScript library for world-class 3D globes and maps :earth_americas:	
+Tencent-Hunyuan/Hunyuan3D-2	15341	NOASSERTION	media_ai	3D & Rendering	High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.	
+microsoft/TRELLIS	14208	MIT	media_ai	3D & Rendering	Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).	
+isl-org/Open3D	14179	NOASSERTION	media_ai	3D & Rendering	Open3D: A Modern Library for 3D Data Processing	
+mapbox/mapbox-gl-js	12472	NOASSERTION	media_ai	3D & Rendering	Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL	
+nerfstudio-project/nerfstudio	12158	Apache-2.0	media_ai	3D & Rendering	A collaboration friendly studio for NeRFs	
+metafizzy/zdog	10696	NONE	media_ai	3D & Rendering	Flat, round, designer-friendly pseudo-3D engine for canvas & SVG	
+timzhang642/3D-Machine-Learning	10219	NONE	media_ai	3D & Rendering	A resource repository for 3D machine learning	
+domlysz/BlenderGIS	9583	GPL-3.0	media_ai	3D & Rendering	Blender addons to make the bridge between Blender and geographic data	
+lightningpixel/modly	8579	NOASSERTION	media_ai	3D & Rendering	Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU	
+a1studmuffin/SpaceshipGenerator	7856	NOASSERTION	media_ai	3D & Rendering	A Blender script to procedurally generate 3D spaceships	
+tengbao/vanta	7342	MIT	media_ai	3D & Rendering	Animated 3D backgrounds for your website	

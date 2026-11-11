@@ -1,0 +1,380 @@
+3dg1luk43/ha_washdata	1427	AGPL-3.0	hardware	Home Appliances & Repair	Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers and more.	
+ollo69/ha-smartthinq-sensors	1329	Apache-2.0	hardware	Home Appliances & Repair	HomeAssistant custom integration for SmartThinQ LG devices	
+Shmoopty/rpi-appliance-monitor	420	MIT	hardware	Home Appliances & Repair	Device to monitor appliances that vibrate, such as clothes dryers or garage door openers	
+Sollimann/CleanIt	325	MIT	hardware	Home Appliances & Repair	Open-source Autonomy Software in Rust-lang using gRPC for the Roomba series robot vacuum cleaners. Under development.	
+sca075/mqtt_vacuum_camera	185	Apache-2.0	hardware	Home Appliances & Repair	Camera Integration for Home Assistant to export and render all Vacuums connected via MQTT( including Valetudo Hypfer, Congaduto and RE(rand256)) Maps.	
+thoukydides/homebridge-homeconnect	166	ISC	hardware	Home Appliances & Repair	A Homebridge plugin that connects Home Connect appliances to Apple HomeKit	
+skyrotter/ha-appliance-electromenager-cards	116	MIT	hardware	Home Appliances & Repair	🧺 🔥 💡 🚗 ⚡ 65 animated Lovelace cards for appliances & energy: washer, dryer, fridge, oven, boilers, heat pump, EV charger, Linky, battery, pumps, lights… Live status, power, energy & cost.	
+gio-dot/Washing-Machine-Sonoff-Pow-R2-Esphome	111	NONE	hardware	Home Appliances & Repair		
+itiligent/Easy-OpenVAS-Installer	110	NONE	hardware	Home Appliances & Repair	2026 OpenVAS appliance install & upgrade scripts, includes https front end (self signed), authenticated SMB scanning  & email reports	
+erkexzcx/valetudopng	75	Apache-2.0	hardware	Home Appliances & Repair	A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.	
+nergal/homeassistant-vacuum-viomi	69	MIT	hardware	Home Appliances & Repair	Integration of a Xiaomi Viomi vacuum to a Home Assistant	
+johnnyh1975/ha_roomba_plus	65	MIT	hardware	Home Appliances & Repair	Platinum-quality Home Assistant custom integration for iRobot Roomba & Braava — local MQTT, no cloud required, 100+ entities	
+duolingo/metasearch	541	Apache-2.0	hardware	Hydroponics & Greenhouses	Search aggregator for Slack, Google Docs, GitHub, and more :mag:	
+drolsen/DRO-Matic	335	NONE	hardware	Hydroponics & Greenhouses	Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.	
+dalinicus/homeassistant-acinfinity	211	MIT	hardware	Hydroponics & Greenhouses	AC Infinity integration for Home Assistant for UIS based controllers	
+race2infinity/Hydroponics	188	MIT	hardware	Hydroponics & Greenhouses	🌱 Automated Hydroponics (a method of growing plants without soil) using Arduino Mega.	
+mysticrenji/home-assistant-on-kubernetes	160	Apache-2.0	hardware	Hydroponics & Greenhouses	Running Home Assistant(HASS) on Kubernetes	
+fruxefarms/FruxePi	148	NOASSERTION	hardware	Hydroponics & Greenhouses	Indoor farming software using the Raspberry Pi	
+cropandweed/cropandweed-dataset	140	NOASSERTION	hardware	Hydroponics & Greenhouses	[WACV 2023] Information and scripts for the CropAndWeed Dataset 	
+rhagman/sustainable-green-plants	116	MIT	hardware	Hydroponics & Greenhouses	DIY high pressure aeroponics for the home	
+marshallamey/hydroponic-automation	113	NONE	hardware	Hydroponics & Greenhouses	A program to monitor and control 8 variables of a hydroponic gardening system	
+Deshan555/IOT-Smart_Farming	113	Apache-2.0	hardware	Hydroponics & Greenhouses	🌱🌾🚜 Smart Farm (Iceburg) is a smart project that allows to interact and improve the management of agricultural farms.	
+Cla-Code-Community/candidate	94	NONE	hardware	Hydroponics & Greenhouses	Simplifique sua busca por emprego. Todas as oportunidades do mercado reunidas em uma plataforma inteligente e automatizada.	
+balena-io-examples/balena-plant-saver	76	NONE	hardware	Hydroponics & Greenhouses	We're building a plant monitor (and saver) - this is the early stage	
+JakeTheRabbit/HAGR	71	Unlicense	hardware	Hydroponics & Greenhouses	Home Assistant Grow Room - a lived-in automated hydroponic grow build: VPD-aware climate control, lighting schedules, irrigation and full sensor plumbing. The build HA-Irrigation-Strategy grew out of.	
+mayaculpa/hapi	70	GPL-3.0	hardware	Hydroponics & Greenhouses	Hydro­ponic Automa­tion Plat­form Ini­tia­tive (HAPI)	
+Azoo92i/AutoApplyMax	65	NOASSERTION	hardware	Hydroponics & Greenhouses	AutoApplyMax — AI-powered Chrome extension. Auto-apply to jobs on LinkedIn, Indeed & more. AI Resume Generator, Cover Letters, ATS Score Checker & Dashboard.	
+help-14/mechanical-keyboard	3434	NONE	hardware	Keyboards & Input Devices	DIY mechanical keyboard and where to find them	
+mattdibi/redox-keyboard	1990	MIT	hardware	Keyboards & Input Devices	Ergonomic split mechanical keyboard	
+dekuNukem/duckyPad	1328	MIT	hardware	Keyboards & Input Devices	Do-It-All Mechanical Macropad	
+tzarc/keyboards	993	CERN-OHL-S-2.0	hardware	Keyboards & Input Devices	@tzarc's custom keyboard designs.	
+beekeeb/piantor	866	GPL-3.0	hardware	Keyboards & Input Devices	The Piantor Keyboard is a beginner-friendly, easy-to-solder, 42-key or 36-key, diodeless, low profile aggressive column staggered, hotswappable and non-hotswappable, programmable ergonomic mechanical split keyboard powered by Raspberry Pi Pico or other compati	
+zsa/wally	696	NOASSERTION	hardware	Keyboards & Input Devices	The Flash(ing tool)	
+rianadon/Cosmos-Keyboards	678	AGPL-3.0	hardware	Keyboards & Input Devices	Taking Keyboards to the Final Frontier	
+dschil138/Fulcrum	674	GPL-3.0	hardware	Keyboards & Input Devices	The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.	
+ah-/anne-key	572	Apache-2.0	hardware	Keyboards & Input Devices	Firmware for Anne Pro Keyboard written in Rust	
+adamws/kicad-kbplacer	547	GPL-3.0	hardware	Keyboards & Input Devices	KiCad plugin for automatic keyboard's key placement and routing	
+makerdiary/python-keyboard	499	MIT	hardware	Keyboards & Input Devices	A hand-wired USB & Bluetooth keyboard powered by Python and more	
+carrefinho/forager	426	CERN-OHL-P-2.0	hardware	Keyboards & Input Devices	34-key wireless split keyboard inspired by ZSA Voyager	
+thpoll83/PolyKybd	411	CERN-OHL-W-2.0	hardware	Keyboards & Input Devices	PolyKybd	
+ai03-2725/MX_Alps_Hybrid	371	MIT	hardware	Keyboards & Input Devices	KiCad Library of custom MX-Alps footprints	
+hainguyents13/mechvibes	371	MIT	hardware	Keyboards & Input Devices	The official Mechvibes app: mechanical keyboard and mouse sounds for every keystroke and click, on Windows, macOS and Linux. Built with Rust and Dioxus.	
+saragordic/window-sweaters	1327	GPL-3.0	hardware	Knitting & Textile Machines	A macOS menu-bar app that dresses your windows in knitted borders.	
+inversionhourglass/Rougamo	491	MIT	hardware	Knitting & Textile Machines	Compile-time AOP component. Works with any method, whether it is async or sync, instance or static. Uses an aspectj-like pattern to match methods.	
+sillecelik/go-gopher	164	CC-BY-4.0	hardware	Knitting & Textile Machines	The Go Gopher Amigurumi Pattern	
+ByronMayne/Weaver	158	NONE	hardware	Knitting & Textile Machines	Weaver is a code weaving framework built right into Unity Engine. Based heavily off of Fody. 	
+piellardj/image-stylization-threading	119	GPL-3.0	hardware	Knitting & Textile Machines	Tool to turn any image into string art.	
+ThunderLoom/ThunderLoom	107	MIT	hardware	Knitting & Textile Machines	A physically based shader for woven cloth	
+terriko/pyknit	97	GPL-2.0	hardware	Knitting & Textile Machines	A set of tools for knitters to create charts and eventually more.	
+Embroidermodder/libembroidery	83	Zlib	hardware	Knitting & Textile Machines	Library for reading/writing/manipulating machine and design embroidery files	
+t0mpr1c3/knotty	74	GPL-3.0	hardware	Knitting & Textile Machines	A domain-specific language for knitting patterns	
+knitscape/knitscape	68	MIT	hardware	Knitting & Textile Machines	Knitscape is a chart-based design and simulation tool for knitting stitch patterns.	
+xionluhnis/neural_inverse_knitting	68	MIT	hardware	Knitting & Textile Machines	Code for Neural Inverse Knitting: From Images to Manufacturing Instructions	
+frno7/libpes	51	GPL-3.0	hardware	Knitting & Textile Machines	Libpes is a portable C library for encoding, decoding and transcoding the PES and SVG based machine embroidery formats.	
+embroidery-space/embroiderly	45	GPL-3.0	hardware	Knitting & Textile Machines	A free, open-source, cross-platform desktop application for designing cross-stitch patterns.	
+fstwn/cockatoo	44	MIT	hardware	Knitting & Textile Machines	Cockatoo is a prototypical open-source software toolkit for generating (3d-)knitting patterns from NURBS surface and mesh geometry directly inside Grasshopper.	
+desmondlzy/embroidery-streamlines	41	NOASSERTION	hardware	Knitting & Textile Machines	Transform a multicolor image into embroidery patterns that you can make on a sewing machine!	
+kitesurfer1404/WS2812FX	1730	MIT	hardware	LED Lighting & Signage	WS2812 FX Library for Arduino and ESP8266	
+PlummersSoftwareLLC/NightDriverStrip	1593	GPL-3.0	hardware	LED Lighting & Signage	NightDriver client for ESP32	
+uraimo/SwiftyGPIO	1367	MIT	hardware	LED Lighting & Signage	A Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.	
+todbot/blink1	974	NOASSERTION	hardware	LED Lighting & Signage	Official software for blink(1) USB RGB LED by ThingM	
+ph1p/ikea-led-obegraensad	892	MIT	hardware	LED Lighting & Signage	ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp	
+onlaj/Piano-LED-Visualizer	785	MIT	hardware	LED Lighting & Signage	Piano LED Visualizer: Connect an LED strip to your Raspberry Pi and create an immersive visual experience for your piano playing	
+mtongnz/ESP8266_ArtNetNode_v2	662	GPL-3.0	hardware	LED Lighting & Signage	ESP8266 based WiFi ArtNet to DMX, RDM and LED Pixels	
+JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module	632	GPL-3.0	hardware	LED Lighting & Signage	Linux kernel module to support Turbo mode and RGB Keyboard for Acer Predator notebook series	
+srg74/WLED-wemos-shield	564	MIT	hardware	LED Lighting & Signage	Wemos D1 Mini (ESP8266) or Wemos ESP32 D1 Mini (ESP32) based universal shield for WLED firmware	
+rm-hull/luma.led_matrix	542	MIT	hardware	LED Lighting & Signage	Python module to drive LED Matrices & 7-segment displays (MAX7219) and RGB NeoPixels (WS2812 / APA102)	
+MajicDesigns/MD_Parola	495	LGPL-2.1	hardware	LED Lighting & Signage	Library for modular scrolling LED matrix text displays	
+DarthAffe/RGB.NET	420	LGPL-2.1	hardware	LED Lighting & Signage	The one-stop SDK for RGB-peripherals	
+MajicDesigns/MD_MAX72XX	350	LGPL-2.1	hardware	LED Lighting & Signage	LED Matrix Library	
+jandelgado/jled	348	MIT	hardware	LED Lighting & Signage	Non-blocking LED controlling library for Arduino and friends.	
+nanoframework/nanoFramework.IoT.Device	315	MIT	hardware	LED Lighting & Signage	📦 This repo includes .NET nanoFramework implementations for various sensors, chips, displays, hats and drivers	
+3dem/relion	563	GPL-2.0	hardware	Lab Equipment	Image-processing software for cryo-electron microscopy	
+joybio/multiPrime	449	MIT	hardware	Lab Equipment	multiPrime is a mismatch-tolerant minimal primer set design tool for large and diverse sequences (e.g. Virus). Here is a web-based version (test: http://multiPrime.cn)	
+Laka-3DV/TurboReg	341	MIT	hardware	Lab Equipment	[ICCV-2025] TurboReg: TurboClique for Robust and Efficient Point Cloud Registration	
+acconeer/acconeer-python-exploration	219	NOASSERTION	hardware	Lab Equipment	Acconeer Exploration Tool	
+grunwaldlab/metacoder	149	NOASSERTION	hardware	Lab Equipment	Parsing, Manipulation, and Visualization of Metabarcoding/Taxonomic data 	
+gear-genomics/tracy	127	BSD-3-Clause	hardware	Lab Equipment	Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files	
+Infineon/eltt2	100	BSD-3-Clause	hardware	Lab Equipment	 Infineon Embedded Linux TPM Toolbox 2 (ELTT2) for TPM 2.0	
+jherkenhoff/STM	88	NONE	hardware	Lab Equipment	DIY scanning tunneling microscope (STM)	
+python-microscope/microscope	85	GPL-3.0	hardware	Lab Equipment	Python library for control of microscope devices, supporting hardware triggers and distribution of devices over the network for performance and flexibility.	
+quwubin/MFEprimer-3.0	78	NONE	hardware	Lab Equipment	PCR Primer Quality Control	
+bpucker/teaching	73	NONE	hardware	Lab Equipment	This repository gives an overview of my teaching activities. Links to slides and data sets are included. Feel free to re-use my content.	
+tedcline/ezRA	69	GPL-3.0	hardware	Lab Equipment	Easy Radio Astronomy	
+drmcnelson/TCD1304-Sensor-Device-with-Linear-Response-and-16-Bit-Differential-ADC	69	NOASSERTION	hardware	Lab Equipment	TCD1304 device provides highly reproducible, linear response for precision photo-/radio-metric spectrometry and holographic imaging. Includes gerbers, BOM, firmware, library and user app.	
+OlivierLeBozec/viewts	60	GPL-3.0	hardware	Lab Equipment	Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.	
+jonas-fuchs/varVAMP	58	GPL-3.0	hardware	Lab Equipment	Design degenerated primers on highly variable alignments for full genome sequencing or qPCR. Specifically developed for viruses.	
+microsoft/IoT-For-Beginners	17177	MIT	hardware	Laptops & Single-Board Computers	12 Weeks, 24 Lessons, IoT for All!	
+s-matyukevich/raspberry-pi-os	13963	MIT	hardware	Laptops & Single-Board Computers	Learning operating system development using Linux kernel and Raspberry Pi	
+nasa/fprime	11858	Apache-2.0	hardware	Laptops & Single-Board Computers	F´ - A flight software and embedded systems framework	
+therecipe/qt	10804	LGPL-3.0	hardware	Laptops & Single-Board Computers	Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly	
+xonsh/xonsh	9688	NOASSERTION	hardware	Laptops & Single-Board Computers	🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.	
+pivpn/pivpn	8066	MIT	hardware	Laptops & Single-Board Computers	The Simplest VPN installer, designed for Raspberry Pi	
+hrvach/deskhop	7948	GPL-3.0	hardware	Laptops & Single-Board Computers	Fast Desktop Switching Device	
+alexellis/k3sup	7451	NOASSERTION	hardware	Laptops & Single-Board Computers	bootstrap K3s over SSH in < 60s 🚀	
+flwrlabs/flower	7195	Apache-2.0	hardware	Laptops & Single-Board Computers	Flower: A Friendly Federated AI Framework	
+MichaIng/DietPi	6387	GPL-2.0	hardware	Laptops & Single-Board Computers	Lightweight justice for your single-board computer!	
+infinition/Bjorn	6363	MIT	hardware	Laptops & Single-Board Computers	Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, fil	
+dtcooper/raspotify	5234	MIT	hardware	Laptops & Single-Board Computers	A Spotify Connect client that mostly Just Works™	
+RaspAP/raspap-webgui	5232	GPL-3.0	hardware	Laptops & Single-Board Computers	The easiest, full-featured wireless router setup for Debian-based devices. Period.	
+timothymiller/cloudflare-ddns	4550	GPL-3.0	hardware	Laptops & Single-Board Computers	🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare	
+blinker-iot/blinker-js	4379	MIT	hardware	Laptops & Single-Board Computers	Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux, windows, macos.	
+Drewsif/PiShrink	4134	MIT	hardware	Laptops & Single-Board Computers	Make your pi images smaller!	
+Blynk-Technologies/blynk-library	4002	MIT	hardware	Laptops & Single-Board Computers	Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.	
+pyload/pyload	3904	NOASSERTION	hardware	Laptops & Single-Board Computers	The free and open-source Download Manager written in pure Python	
+starrtc/starrtc-android-demo	3778	NONE	hardware	Laptops & Single-Board Computers	🚀starRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，视频监控，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视盒子，树莓派，海思，全志，任天堂switch，云游戏，OTT设备，物联网平台，C语言自研方案，支持二次开发成类微信，类映	
+autorope/donkeycar	3539	MIT	hardware	Laptops & Single-Board Computers	Open source hardware and software platform to build a small scale self driving car.	
+gokrazy/gokrazy	3506	BSD-3-Clause	hardware	Laptops & Single-Board Computers	turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!	
+tiny-pilot/tinypilot	3488	MIT	hardware	Laptops & Single-Board Computers	Use your Raspberry Pi as a browser-based KVM.	
+cpaczek/skylight	3384	MIT	hardware	Laptops & Single-Board Computers	Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.	
+azlux/log2ram	3146	MIT	hardware	Laptops & Single-Board Computers	ramlog like for systemd (Put log into a ram folder)	
+kube-vip/kube-vip	3000	Apache-2.0	hardware	Laptops & Single-Board Computers	Kubernetes Control Plane Virtual IP and Load-Balancer	
+lyogavin/airllm	41908	Apache-2.0	hardware	LoRa & Mesh Networks	AirLLM 2.8T LLM inference with single 4GB GPU	
+datawhalechina/self-llm	32726	Apache-2.0	hardware	LoRa & Mesh Networks	《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程	
+modelscope/ms-swift	16058	Apache-2.0	hardware	LoRa & Mesh Networks	Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.8, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM5.3, Gemma4, Llava, Phi4, ...) (AAAI 2025).	
+microsoft/LoRA	13910	MIT	hardware	LoRa & Mesh Networks	Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"	
+OpenPipe/ART	10848	Apache-2.0	hardware	LoRa & Mesh Networks	Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!	
+LianjiaTech/BELLE	8261	Apache-2.0	hardware	LoRa & Mesh Networks	BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）	
+yangjianxin1/Firefly	6641	NONE	hardware	LoRa & Mesh Networks	Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型	
+transformerlab/transformerlab-app	5200	AGPL-3.0	hardware	LoRa & Mesh Networks	The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.	
+nunchux-ai/nunchaku	3965	Apache-2.0	hardware	LoRa & Mesh Networks	[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models	
+agentheroes/agentheroes	3350	NONE	hardware	LoRa & Mesh Networks	Generate, animate and schedule your AI characters 🤖	
+adapter-hub/adapters	2832	Apache-2.0	hardware	LoRa & Mesh Networks	A Unified Library for Parameter-Efficient and Modular Transfer Learning 	
+PhoebusSi/Alpaca-CoT	2785	Apache-2.0	hardware	LoRa & Mesh Networks	We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as ma	
+liucongg/ChatGLM-Finetuning	2773	NONE	hardware	LoRa & Mesh Networks	基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等	
+JIA-Lab-research/LongLoRA	2685	Apache-2.0	hardware	LoRa & Mesh Networks	Code and documents of LongLoRA and LongAlpaca (ICLR 2024 Oral)	
+chenking2020/FindTheChatGPTer	2006	NONE	hardware	LoRa & Mesh Networks	ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利	
+neuropsychology/NeuroKit	2421	MIT	hardware	Medical Devices	NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing	
+brainflow-dev/brainflow	1787	NOASSERTION	hardware	Medical Devices	BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors	
+nroduit/Weasis	1439	NOASSERTION	hardware	Medical Devices	Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.	
+neherlab/covid19_scenarios	1355	MIT	hardware	Medical Devices	Models of COVID-19 outbreak trajectories and hospital demand	
+fraunhoferportugal/tsfel	1112	BSD-3-Clause	hardware	Medical Devices	Time Series Feature Extraction Library (TSFEL): 60+ statistical, temporal, spectral and fractal features for time series classification, regression and signal processing in Python	
+MIT-LCP/wfdb-python	859	MIT	hardware	Medical Devices	Native Python WFDB package	
+sccn/eeglab	810	NOASSERTION	hardware	Medical Devices	EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD	
+antonior92/automatic-ecg-diagnosis	456	MIT	hardware	Medical Devices	Scripts and modules for training and testing neural network for ECG automatic classification. Companion code to the paper  "Automatic diagnosis of the 12-lead ECG using a deep neural network". 	
+upsidedownlabs/BioAmp-EXG-Pill	445	NOASSERTION	hardware	Medical Devices	BioAmp EXG Pill is a small and elegant Analog Front End (AFE) board for BioPotential signal acquisition.	
+eegsynth/eegsynth	413	GPL-3.0	hardware	Medical Devices	Converting real-time EEG into sounds, music and visual effects	
+neuropsychology/NeuroKit.py	394	MIT	hardware	Medical Devices	A Python Toolbox for Statistics and Neurophysiological Signal Processing (EEG, EDA, ECG, EMG...).	
+ankur219/ECG-Arrhythmia-classification	339	NONE	hardware	Medical Devices	ECG arrhythmia classification using a 2-D convolutional neural network	
+ismorphism/DeepECG	290	MIT	hardware	Medical Devices	ECG classification programs based on ML/DL methods	
+DeepPSP/torch_ecg	274	MIT	hardware	Medical Devices	Deep learning ECG models implemented using PyTorch	
+physhik/ecg-mit-bih	270	GPL-3.0	hardware	Medical Devices	ECG classification using MIT-BIH data, a deep CNN learning implementation of Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network, https://www.nature.com/articles/s41591-018-0268-3 and also dep	
+neurobin/shc	2254	GPL-3.0	hardware	Model Trains, RC & Hobby	Shell script compiler	
+INAVFlights/inav	646	GPL-3.0	hardware	Model Trains, RC & Hobby	INAV: Navigation-enabled flight control software	
+TheDIYGuy999/Rc_Engine_Sound_ESP32	463	NONE	hardware	Model Trains, RC & Hobby	Allows to play vehicle engine sounds on an ESP32. Additional sounds can play in parallel with the engine sound! Controls your lights as well. compatible with SBUS, IBUS, PWM, PPM and SUMD signals.	
+uazu/qcell	394	Apache-2.0	hardware	Model Trains, RC & Hobby	Statically-checked alternatives to RefCell and RwLock	
+EmenstaNougat/BlueJammer-V2	311	NONE	hardware	Model Trains, RC & Hobby	BlueJammer-V2 is a two-board RF research platform combining an ESP32 jamming engine with a BW16 5GHz web controller. Features up to 4x NRF24L01 modules, live OLED display, real-time web interface and full UART communication between both boards. Educational pur	
+FASTSHIFT/X-CTRL	269	MIT	hardware	Model Trains, RC & Hobby	Open-source model remote controller	
+eried/Research	195	NONE	hardware	Model Trains, RC & Hobby	My personal repository for findings and things to remember	
+orium/archery	182	MIT	hardware	Model Trains, RC & Hobby	Abstract over the atomicity of reference-counting pointers in rust	
+RavenLRS/raven	173	GPL-3.0	hardware	Model Trains, RC & Hobby	Raven Long Range System	
+robaki-dev/robak	173	NOASSERTION	hardware	Model Trains, RC & Hobby	Robak RC DIY car	
+squeek502/resinator	152	0BSD	hardware	Model Trains, RC & Hobby	Cross-platform Windows resource-definition script (.rc) to resource file (.res) compiler	
+TheDIYGuy999/RC_Transmitter	149	MIT	hardware	Model Trains, RC & Hobby	An Arduino 2.4GHz and IR remote controller with OLED display	
+gab-k/RP2040-Decoder	131	NOASSERTION	hardware	Model Trains, RC & Hobby	Cost effective DIY DCC Decoder for model railroad locomotives	
+jakkra/RoverController	127	MIT	hardware	Model Trains, RC & Hobby	LoRa/WiFi remote controller for driving my rover	
+EmenstaNougat/C3Mini-BlueJammer	124	NOASSERTION	hardware	Model Trains, RC & Hobby	The C3Mini-BlueJammer (MINI FORMFACTOR) (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. It generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as int	
+google-deepmind/mujoco_mpc	1760	Apache-2.0	hardware	Motor Control	Real-time behaviour synthesis with MuJoCo, using Predictive Control	
+Sguan-ZhouQing/SguanFOC_Library	1147	MIT	hardware	Motor Control	SguanFOC为有/无传感器的PMSM电机提供强大的磁场定向控制解决方案。库内集成了基于SVPWM的多种控制模式，支持位置环、速度环、电流环的单环/串级控制...同时针对嵌入式平台优化了数学运算，并提供高度可配置的PID和LADRC等控制器，满足从简单调速到高性能伺服的各类应用需求。	
+ZhuYanzhen1/miniFOC	1115	AGPL-3.0	hardware	Motor Control	你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!	
+WangXuan95/FPGA-FOC	995	GPL-3.0	hardware	Motor Control	An FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。	
+simplefoc/Arduino-SimpleFOCShield	634	MIT	hardware	Motor Control	Arduino Shiled for running Gimbal BLDC motors with FOC algorithm	
+BMClab/BMC	472	CC-BY-4.0	hardware	Motor Control	Notes on Scientific Computing for Biomechanics and Motor Control	
+ClemensElflein/xESC	378	NOASSERTION	hardware	Motor Control	The xESC is an easy to use, low cost electronic speed controller (ESC) design for sensored brushless DC (BLDC) motors.	
+Source-Robotics/Differential-robot-wrist	370	MIT	hardware	Motor Control	Differential robot wrist: an open-source 3D-printed differential mechanism for a robot wrist, driven by two gimbal motors on Spectral Micro BLDC drivers.	
+Staok/iBLDC	330	AGPL-3.0	hardware	Motor Control	月更或者年更。志在做一个纯粹的、包含软硬件的、功率涵盖从小到大的 方案，查阅 n^2 的各方资料，对 BLDC&PMSM 进行一个大综合、大整理，查阅、比较和整理 大量的 网络教程、大厂手册、开源解决方案，在这里形成 原理和解决方案 的打通式介绍。	
+motionlayer/Tinymovr	322	GPL-3.0	hardware	Motor Control	Compact brushless motor controller with FOC, integrated absolute angle sensor and CAN Bus.	
+neoxic/ESCape32	320	GPL-3.0	hardware	Motor Control	BLDC motor control firmware for 32-bit ESCs	
+CKraft11/Ironless-QDD-Actuator	304	NONE	hardware	Motor Control	Low-Cost Ironless Rotor QDD 3D Printed Actuator	
+hpmicro/hpm_sdk	251	BSD-3-Clause	hardware	Motor Control	No PR will be accepted for now, but feel free to submit issue, very appreciated.	
+aotenjo-xyz/winder	247	MIT	hardware	Motor Control	BLDC motor winding machine	
+PX4/sapog	225	BSD-3-Clause	hardware	Motor Control	Sapog - advanced multiplatform ESC firmware	
+pymeasure/pymeasure	794	MIT	hardware	Musical Instruments	Scientific measurement library for instruments, experiments, and live-plotting	
+jeaye/orchestra	624	EPL-1.0	hardware	Musical Instruments	Complete instrumentation for clojure.spec	
+orhun/tuitar	533	Apache-2.0	hardware	Musical Instruments	A portable guitar training tool & DIY kit 🎛️🎸	
+mmontag/dx7-synth-js	335	NOASSERTION	hardware	Musical Instruments	A JavaScript implementation of the Yamaha DX7 synthesizer	
+cyberboy666/r_e_c_u_r	328	GPL-3.0	hardware	Musical Instruments	an open diy py/pi based video sampler	
+cnxy/VISAInstrument	223	GPL-2.0	hardware	Musical Instruments	基于NI-VISA/VISA32(Virtual Instrument Software Architecture)的仪器编程（C#），支持RS232、USB、GPIB及LAN通信接口的收发控制	
+AlexShkarin/pyLabLib	213	GPL-3.0	hardware	Musical Instruments	Python package for device control and experiment automation	
+hatsumatsu/108	213	MIT	hardware	Musical Instruments	A minimal beat machine played in the browser.	
+basecamp/trashed	193	MIT	hardware	Musical Instruments	Tell StatsD about request time, GC, objects and more. Latest Rails 4 and Ruby 2.1 support, and ancient Rails 2 and Ruby 1.8 support.	
+erl-j/neural-instrument-cloning	173	Apache-2.0	hardware	Musical Instruments	In this project we combine techniques from neural voice cloning and musical instrument synthesis to achieve good results from as little as 16 seconds of target data.	
+stufreen/web-drum-sequencer	173	NONE	hardware	Musical Instruments	A drum machine and sequencer built with the Web Audio API, React, and Redux.	
+KilledByAPixel/1Keys	154	GPL-3.0	hardware	Musical Instruments	1 Kilobyte JavaScript Piano	
+jmiskovic/hexpress	138	Unlicense	hardware	Musical Instruments	Touchscreen virtual music instrument in Lua	
+gillesdegottex/fmit	135	GPL-2.0	hardware	Musical Instruments	Free Music Instrument Tuner (FMIT)	
+ylecuyer/puma-status	116	MIT	hardware	Musical Instruments	Command-line tool for puma to display information about running request/process... Fork of https://github.com/dimelo/puma-helper/ in ruby. 	
+bitfield/script	7040	MIT	hardware	Pet Devices	Making it easy to write shell-like scripts in Go	
+AlexiaJM/Deep-learning-with-cats	1452	GPL-3.0	hardware	Pet Devices	Deep learning with cats (^._.^)	
+soheilpro/catj	1320	MIT	hardware	Pet Devices	Displays JSON files in a flat format.	
+junyanz/CatPapers	1168	NONE	hardware	Pet Devices	Cool vision, learning, and graphics papers on Cats!	
+sharsil/mailcat	957	Apache-2.0	hardware	Pet Devices	Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬	
+TeMPOraL/nyan-mode	845	GPL-3.0	hardware	Pet Devices	Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!	
+intel/intel-cmt-cat	755	NOASSERTION	hardware	Pet Devices	User space software for Intel(R) Resource Director Technology	
+wintermute-cell/ngrrram	674	GPL-3.0	hardware	Pet Devices	A TUI tool to help you type faster and learn new layouts. Includes a free cat.	
+crgimenes/neko	648	BSD-2-Clause	hardware	Pet Devices	Cross-platform cursor-chasing cat, a Go reimplementation of the X11 classic	
+alexwohlbruck/cat-facts	567	Apache-2.0	hardware	Pet Devices	Daily cat facts! 🐱	
+marcinbor85/cAT	494	MIT	hardware	Pet Devices	Plain C library for parsing AT commands for use in host devices.	
+saatvik333/wayland-bongocat	490	MIT	hardware	Pet Devices	bongocat for your desktop ₍^. .^₎	
+WeiChiaChang/easter-egg-collection	401	NONE	hardware	Pet Devices	🐰 A funny library for tricking your colleagues.	
+aleju/cat-generator	375	MIT	hardware	Pet Devices	Generate cat images with neural networks	
+WJZ-P/NekoCrypt	368	GPL-2.0	hardware	Pet Devices	一款Android上的神奇又好用的全局消息加解密软件，包括文字、图片、文件加密。 (｀・ω・´)ﾉ✧	
+ublue-os/bazzite	9288	Apache-2.0	hardware	Phones & Handhelds	Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.	
+Valkirie/HandheldCompanion	1748	NOASSERTION	hardware	Phones & Handhelds	A touch optimized GUI to increase your handheld gaming computer experience.	
+andyholmes/valent	922	NOASSERTION	hardware	Phones & Handhelds	Connect, control and sync devices	
+dreemurrs-embedded/Pine64-Arch	771	NONE	hardware	Phones & Handhelds	:penguin: Arch Linux ARM for your PinePhone/Pro and PineTab/2 (mirror)	
+8bit2qubit/XboxFullScreenExperienceTool	745	GPL-3.0	hardware	Phones & Handhelds	A one-click GUI tool to safely enable the hidden Xbox full screen gaming experience on Windows 11.	
+dreemurrs-embedded/Jumpdrive	521	GPL-2.0	hardware	Phones & Handhelds	Flash/Rescue SD Card image for PinePhone and PineTab. This is NOT a bootloader	
+GloDroid/glodroid_manifest	490	NONE	hardware	Phones & Handhelds	Android port that aims to bring both user- and developer-friendly experience in using AOSP with a set of single-board computers (SBC), phones and other devices.	
+amarullz/piBrick	451	GPL-3.0	hardware	Phones & Handhelds	piBrick Pocket-CM5 is a smartphone-sized handheld PC powered by the Raspberry Pi CM5, featuring a 3.91" AMOLED touch display and a QWERTY keyboard+trackpad from BBQ20.	
+hashtagbasit/Zaviya	339	NOASSERTION	hardware	Phones & Handhelds	Based on SteamOS for ARM, built for ARM handhelds and tablets. Formerly known as Unofficial SteamOS ARM Port.	
+8bit2qubit/OmniConsole	305	NOASSERTION	hardware	Phones & Handhelds	Boot into your configured platform, switch anytime via "Library" in Game Bar — Steam, XBOX, Epic, Armoury Crate SE, Playnite, or anything you add.	
+sashkinbro/EmuCoreX	243	GPL-3.0	hardware	Phones & Handhelds	PlayStation 2 emulator for Android with a PCSX2-based core adapted by EmuCoreX, a modern game library, live overlay controls, and a handheld-focused experience.	
+lilka-dev/lilka	234	GPL-2.0	hardware	Phones & Handhelds	Схема та документація ігрової консолі Lilka	
+milouk/artie	168	GPL-3.0	hardware	Phones & Handhelds	Art Scraper for Anbernic Devices	
+theironrobin/siglo	165	MPL-2.0	hardware	Phones & Handhelds	GTK app to sync InfiniTime watch with PinePhone	
+Shubhamvis98/kali-pinephone	140	NONE	hardware	Phones & Handhelds	Kali Linux Phosh for PinePhone/Pro and other QCOM Mainlined Devices	
+VincentBounce/Windows-Context-Menu-Tools	128	NONE	hardware	Plastic Recycling	Windows Context Menu Tools🧰 using only Windows 10-11 built-in commands	
+ADBeveridge/raider	85	GPL-3.0	hardware	Plastic Recycling	Permanently delete your files	
+r3nt0n/wiper	77	GPL-3.0	hardware	Plastic Recycling	Secure destruction of sensitive virtual data, temporary files and swap partitions	
+NIKJOO/FastShredder	47	NONE	hardware	Plastic Recycling	Fast & Secure File Shredder	
+marty-suzuki/ArtShredder	44	MIT	hardware	Plastic Recycling	📱Banksy Shredder for iOS	
+jauntybrain/know_waste	18	Apache-2.0	hardware	Plastic Recycling	An AI-powered recycling assistant, developed with Flutter and Firebase for Firebase Builders '23 competition.	
+Nexxus/NSK	16	GPL-3.0	hardware	Plastic Recycling	Nexxus Stock Keeping	
+luantak/shred	15	Unlicense	hardware	Plastic Recycling	This is a libary to mimic the functionallity of the linux shred command.	
+viruchith/AndroidShredder	14	MIT	hardware	Plastic Recycling	Shredder is a high-security Android application designed to permanently and irrecoverably delete files and directories.	
+gea-ecobricks/ecobricks-org	13	NOASSERTION	hardware	Plastic Recycling	Ecobricks.org is maintained and developed by the Global Ecobrick Alliance to provide the technical and philosophical infrastructure for the regenerative ecobrick movement.  This repository is for the full stack of the Ecobricks.org site and functionality.	
+Naranbataar/Corrupt	13	Unlicense	hardware	Plastic Recycling	Simple and efficient file shredding	
+olivierlacan/horizon-zero-waste	12	MIT	hardware	Plastic Recycling	A simple guide to sustainable alternatives.	
+jeremy341/MIRA-AI	12	MIT	hardware	Plastic Recycling	Reproducible waste-detection pipeline with YOLO11n, live inference, evaluation tooling and ONNX/TFLite export.	
+foreachthing/RecyclingSymbols	11	NONE	hardware	Plastic Recycling	Recycling Symbols for 3D-Printing	
+klaudiagrz/recycling-app	10	MIT	hardware	Plastic Recycling	A Polish recycling assistant powered by Gemma 4	
+upb-lea/Inkscape_electric_Symbols	592	CC0-1.0	hardware	Power Electronics & Chargers	Electrical symbol library for the vector graphics program Inkscape.	
+mohammadrezwankhan/matlab-simulink-energy-lab	306	MIT	hardware	Power Electronics & Chargers	Run reduced-order battery, thermal, converter and BESS control models with transparent equations and repeatable testing.	
+Aalto-Electric-Drives/motulator	262	MIT	hardware	Power Electronics & Chargers	Motor drive and grid converter simulator in Python	
+upb-lea/openmodelica-microgrid-gym	232	GPL-3.0	hardware	Power Electronics & Chargers	OpenModelica Microgrid Gym (OMG): An OpenAI Gym Environment for Microgrids	
+ethz-pes/AI-mag	142	BSD-2-Clause	hardware	Power Electronics & Chargers	AI-mag: Inductor Modeling and Design with FEM and Artificial Neural Network	
+ThingEngineer/ReactorForge	130	NOASSERTION	hardware	Power Electronics & Chargers	High power induction heating platform	
+upb-lea/FEM_Magnetics_Toolbox	111	GPL-3.0	hardware	Power Electronics & Chargers	An Open-Source FEM Magnetics Toolbox for Power Electronic Magnetic Components	
+foldvarid93/JBC_SolderingStation	100	NONE	hardware	Power Electronics & Chargers	JBC_SolderingStation	
+cathiele/homeassistant-goecharger	99	MIT	hardware	Power Electronics & Chargers	Home Assistant custom_component for controlling the go-eCharger EV-Charger	
+PrincetonUniversity/magnet	92	MIT	hardware	Power Electronics & Chargers	Open Source Research Platform for Power Magnetics Modeling	
+ZJU-Charger/ZJU-Charger	92	GPL-3.0	hardware	Power Electronics & Chargers	便捷高效的充电桩查询助手	
+Energinet-SimTools/MTB	83	NOASSERTION	hardware	Power Electronics & Chargers	Energinet's Model Testbench. Automate gridcompliance studies in PSCAD and Powerfactory.	
+AzidoPP/HVCCPS	80	GPL-3.0	hardware	Power Electronics & Chargers	2200V 200mA 400W High voltage power supply	
+upb-lea/transistordatabase	71	GPL-3.0	hardware	Power Electronics & Chargers	A unified software engineering tool for managing and evaluating power transistors	
+wagiminator/ATtiny85-TinyCharger	70	NOASSERTION	hardware	Power Electronics & Chargers	Single-Cell Li-Ion Battery Charger with Monitoring	
+mvallim/live-custom-ubuntu-from-scratch	565	GPL-3.0	hardware	Prosthetics & Assistive Devices	(Yes, the project is still alive 😃) This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch. A Linux to call your own.	
+crisanlucid/primusread	539	MIT	hardware	Prosthetics & Assistive Devices	PrimusRead — open-source fixation-point reading tool. React, Vite, Tailwind CSS & TypeScript. Import TXT, PDF, DOCX, EPUB · Export bionic EPUB · Reduce reading time up to 30%  ▎· Dark mode	
+Soodok/Deepseek-Harness-Local-Android	493	MIT	hardware	Prosthetics & Assistive Devices	Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux	
+Gumball12/text-vide	287	MIT	hardware	Prosthetics & Assistive Devices	An Open-Source JavaScript Implementation of Bionic Reading.	
+luohoa97/cordial	287	GPL-3.0	hardware	Prosthetics & Assistive Devices	Open-source Roblox runtime for Linux. Cordial runs the Roblox client natively, no Wine, no Android emulator. Multi-instance launcher, customizable, GPL-3.0 and fully auditable. A direct alternative to Sober.	
+neurobionics/opensourceleg	123	LGPL-2.1	hardware	Prosthetics & Assistive Devices	An open-source SDK for developing and testing algorithms on commonly used robotic hardware.	
+dobrosketchkun/bionic-reading-epub-converter	111	NOASSERTION	hardware	Prosthetics & Assistive Devices	Convert your epub book into the bionic reading text formatting	
+Bonandry/suru-plus-ubuntu	97	LGPL-3.0	hardware	Prosthetics & Assistive Devices	Suru++ Ubuntu — An elegant third-party icons theme based on Sam Hewitt's Suru Icons	
+Agdisalma/cordial-native-runtime	68	NONE	hardware	Prosthetics & Assistive Devices	Cordial 2026: Best Open-Source Roblox Runtime for Linux Native Play	
+ohchase/plt-rs	41	MIT	hardware	Prosthetics & Assistive Devices	Featureful library for iterating and manipulating linux and android application's PLT (Procedure Linkage Table) at runtime	
+davidsanfal/drakkar	39	NONE	hardware	Prosthetics & Assistive Devices	Printable robotic prosthetic leg	
+Fullaxx/ubuntu-desktop	36	MIT	hardware	Prosthetics & Assistive Devices	Ubuntu Desktop running Openbox/Xfce4/i3 in VNC/RDP	
+bd-loser/opencode-bionic	35	MIT	hardware	Prosthetics & Assistive Devices	Native opencode for Android / Termux (Bionic aarch64). Stable, beta and dev channels, built and published automatically.	
+axopy/axopy	32	MIT	hardware	Prosthetics & Assistive Devices	A Python Library for Implementing Human-Computer Interface Experiments	
+abel-research/ampscan	25	MIT	hardware	Prosthetics & Assistive Devices	ampscan is an open-source Python package for analysis and visualisation of digitised surface scan data, specifically for applications within Prosthetics and Orthotics (P&O), with an aim to improve evidence-based clinical practice towards improved patient outco	
+commaai/openpilot	64083	MIT	hardware	Robotics & Robot Arms	openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.	
+TianxingChen/Embodied-AI-Guide	16879	NOASSERTION	hardware	Robotics & Robot Arms	[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide	
+zauberzeug/nicegui	16331	MIT	hardware	Robotics & Robot Arms	Create web-based user interfaces with Python. The nice way.	
+google-deepmind/mujoco	16094	Apache-2.0	hardware	Robotics & Robot Arms	Multi-Joint dynamics with Contact. A general purpose physics simulator.	
+rwaldron/johnny-five	13409	NOASSERTION	hardware	Robotics & Robot Arms	JavaScript Robotics and IoT programming framework, developed at Bocoup.	
+rerun-io/rerun	11720	Apache-2.0	hardware	Robotics & Robot Arms	Visualize, query, and stream to train on multimodal robotics data.	
+nasa-jpl/open-source-rover	9761	Apache-2.0	hardware	Robotics & Robot Arms	A build-it-yourself, 6-wheel rover based on the rovers on Mars!	
+isaac-sim/IsaacLab	8586	NOASSERTION	hardware	Robotics & Robot Arms	Unified framework for robot learning with multi-physics/renderer support	
+paperswithcode/ai-deadlines	6012	MIT	hardware	Robotics & Robot Arms	:alarm_clock: AI conference deadline countdowns 	
+newton-physics/newton	5899	Apache-2.0	hardware	Robotics & Robot Arms	An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.	
+ros-navigation/navigation2	5013	NOASSERTION	hardware	Robotics & Robot Arms	ROS 2 Navigation Framework and System	
+dorianborian/sesame-robot	4983	Apache-2.0	hardware	Robotics & Robot Arms	An open and affordable mini quadruped robot based on ESP32.	
+real-stanford/diffusion_policy	4714	MIT	hardware	Robotics & Robot Arms	[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion	
+MarkFzp/mobile-aloha	4478	MIT	hardware	Robotics & Robot Arms	Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation	
+MichaelGrupp/evo	4361	GPL-3.0	hardware	Robotics & Robot Arms	Python package for the evaluation of odometry and SLAM	
+RobotLocomotion/drake	4243	NOASSERTION	hardware	Robotics & Robot Arms	Model-based design and verification for robotics.	
+hybridgroup/cylon	4209	NOASSERTION	hardware	Robotics & Robot Arms	JavaScript framework for robotics, drones, and the Internet of Things (IoT)	
+dora-rs/dora	4072	Apache-2.0	hardware	Robotics & Robot Arms	DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs	
+starVLA/starVLA	3921	NOASSERTION	hardware	Robotics & Robot Arms	StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing	
+facebookresearch/map-anything	3890	Apache-2.0	hardware	Robotics & Robot Arms	MapAnything: Universal Feed-Forward Metric 3D Reconstruction	
+NVIDIA/skills	3886	Apache-2.0	hardware	Robotics & Robot Arms	Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.	
+stack-of-tasks/pinocchio	3853	BSD-2-Clause	hardware	Robotics & Robot Arms	A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives	
+lightly-ai/lightly	3830	MIT	hardware	Robotics & Robot Arms	A python library for self-supervised learning and latent world models on images.	
+borglab/gtsam	3778	NOASSERTION	hardware	Robotics & Robot Arms	GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.	
+MarkFzp/act-plus-plus	3673	MIT	hardware	Robotics & Robot Arms	Imitation learning algorithms with Co-training for Mobile ALOHA: ACT, Diffusion Policy, VINN	
+NanoVNA-Saver/nanovna-saver	1243	NONE	hardware	Satellites & Ham Radio	A tool for reading, displaying and saving data from the NanoVNA	
+csete/gpredict	1201	GPL-2.0	hardware	Satellites & Ham Radio	Gpredict satellite tracking application	
+demantz/RFAnalyzer	1109	GPL-2.0	hardware	Satellites & Ham Radio	Analyze RF signals on Android with HackRF, RTL-SDR, Airspy (HF+) and HydraSDR	
+brannondorsey/chattervox	789	NOASSERTION	hardware	Satellites & Ham Radio	📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves.	
+la5nta/pat	614	MIT	hardware	Satellites & Ham Radio	A cross-platform Winlink client written in Go	
+wavelog/wavelog	587	MIT	hardware	Satellites & Ham Radio	Webbased Amateur Radio Logging Software - Log your contacts from everywhere!	
+magicbug/Cloudlog	577	MIT	hardware	Satellites & Ham Radio	Cloudlog is a web-based amateur radio logging application built with PHP and MySQL. It supports a wide range of station logging activities, from HF to microwave, and integrates with companion tools for CAT control and automation.	
+Newspicel/sdrmm	364	AGPL-3.0	hardware	Satellites & Ham Radio	modular, client–server software-defined radio	
+hmatuschek/qdmr	361	GPL-3.0	hardware	Satellites & Ham Radio	A GUI application for configuring and programming cheap DMR radios under Linux and MacOS X.	
+AlliotTech/ham-exam-web	342	NONE	hardware	Satellites & Ham Radio	基于最新题库的业余无线电执照考试模拟应用，支持A/B/C三类考试，提供完整的模拟考试、智能化练习、AI助记、关键词搜索、报名照片处理等功能，采用Next.js 15 + React 19技术栈，支持PWA离线使用，数据本地存储确保隐私安全。	
+EA1FUO/AntennaSim	313	NOASSERTION	hardware	Satellites & Ham Radio	Web-based antenna simulator powered by NEC2. Design, simulate, and analyze antennas with real-time 3D visualization, radiation patterns, SWR, and impedance charts.	
+neural75/gqrx-scanner	306	MIT	hardware	Satellites & Ham Radio	A frequency scanner for Gqrx Software Defined Radio receiver	
+dividebysandwich/sdroxide	304	GPL-3.0	hardware	Satellites & Ham Radio	A native SDR client for many radios (CAT, TCI, HPSDR, RTLSDR, SoapySDR, SDRPlay and more), written in Rust, with native and web remote UI (WASM), integrated CW/RTTY/PSK Skimmer, many digi modes built in (FT8, RTTY, PSK, SSTV, FreeDV, etc), logbook, Winlink, 3D	
+sh123/esp32_loraprs	281	GPL-3.0	hardware	Satellites & Ham Radio	LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)	
+aethersdr/AetherSDR	257	GPL-3.0	hardware	Satellites & Ham Radio	Native amateur-radio workstation for FlexRadio (FLEX-6000/8000/Aurora) — Linux, macOS, Windows · Qt6 + C++20	
+openfga/openfga	6109	Apache-2.0	hardware	Security & Access Control	A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.	
+Permify/permify	5970	AGPL-3.0	hardware	Security & Access Control	An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of FusionAuth 🎉	
+ory/keto	5419	Apache-2.0	hardware	Security & Access Control	The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Or	
+cerbos/cerbos	4648	Apache-2.0	hardware	Security & Access Control	Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents.	
+zenstackhq/zenstack	2960	MIT	hardware	Security & Access Control	Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services	
+apache/casbin-node-casbin	2922	Apache-2.0	hardware	Security & Access Control	An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser	
+apache/casbin-jcasbin	2651	Apache-2.0	hardware	Security & Access Control	An authorization library that supports access control models like ACL, RBAC, ABAC in Java	
+onury/accesscontrol	2332	MIT	hardware	Security & Access Control	Role and Attribute based Access Control for Node.js	
+devploit/nomore403	1915	MIT	hardware	Security & Access Control	403/401 bypass tool: finds HTTP access-control bypasses via path, method, header and raw-request mutations. Baseline diff, auto-calibration, replayable curl evidence.	
+apache/casbin-pycasbin	1778	Apache-2.0	hardware	Security & Access Control	An authorization library that supports access control models like ACL, RBAC, ABAC in Python	
+aserto-dev/topaz	1370	Apache-2.0	hardware	Security & Access Control	Cloud-native authorization for modern applications and APIs	
+apache/casbin-Casbin.NET	1345	Apache-2.0	hardware	Security & Access Control	An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)	
+warrant-dev/warrant	1340	Apache-2.0	hardware	Security & Access Control	Warrant is a highly scalable, centralized authorization service based on Google Zanzibar. Use it to define, enforce, query, and audit application authorization and access control.	
+php-casbin/php-casbin	1339	Apache-2.0	hardware	Security & Access Control	An authorization library that supports access control models like ACL, RBAC, ABAC in PHP .	
+nestjsx/nest-access-control	1160	MIT	hardware	Security & Access Control	Role and Attribute based Access Control for Nestjs 🔐	
+0015/ThatProject	2484	Apache-2.0	hardware	Security Cameras & Doorbells	*That Project's project repository	
+easytarget/esp32-cam-webserver	1543	LGPL-2.1	hardware	Security Cameras & Doorbells	Expanded version of the Espressif ESP webcam	
+eried/flipperzero-mayhem	735	MIT	hardware	Security Cameras & Doorbells	Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors	
+rroller/dahua	574	MIT	hardware	Security Cameras & Doorbells	Dahua Camera and Doorbell Home Assistant Integration	
+lemariva/micropython-camera-driver	567	Apache-2.0	hardware	Security Cameras & Doorbells	add camera support to MicroPython	
+raphaelbs/esp32-cam-ai-thinker	556	Apache-2.0	hardware	Security Cameras & Doorbells	Informations and examples about A.I. Thinker ESP32-CAM using ESP-IDF	
+jameszah/ESP32-CAM-Video-Recorder	530	GPL-3.0	hardware	Security Cameras & Doorbells	Video Recorder for ESP32-CAM with http server for config and ftp (or http) server to download video	
+twrecked/hass-aarlo	484	LGPL-3.0	hardware	Security Cameras & Doorbells	Unofficial Arlo integration for Home Assistant. Connect cameras, doorbells, lights, and security systems with real-time events, streaming, and automation.	
+jameszah/ESP32-CAM-Video-Recorder-junior	405	GPL-3.0	hardware	Security Cameras & Doorbells	Simple fast version of ESP32-CAM-Video-Recorder	
+bharathsudharsan/TinyML-CAM	310	Apache-2.0	hardware	Security Cameras & Doorbells	Code for MobiCom paper 'TinyML-CAM: 80 FPS Image Recognition in 1 Kb RAM'	
+arkhipenko/esp32-cam-mjpeg-multiclient	258	BSD-3-Clause	hardware	Security Cameras & Doorbells	ESP32 MJPEG Multiclient Streaming Server	
+Arbazkhan4712/Python-Quarantine-Projects	255	MIT	hardware	Security Cameras & Doorbells	Here we are going to make some python projects during Quarantine time	
+ntalekt/homeassistant	247	NONE	hardware	Security Cameras & Doorbells	Example Home Assistant Configs	
+arkhipenko/esp32-cam-mjpeg	234	BSD-3-Clause	hardware	Security Cameras & Doorbells	ESP32 mjpeg streaming server	
+rzeldent/esp32cam-ready	216	NONE	hardware	Security Cameras & Doorbells	Plug and Play firmware for the esp32cam. Connect with RTSP (for example VLC). Easy installation: Flash, provision and connect!	
+zalandoresearch/fashion-mnist	12881	MIT	hardware	Sewing & Fashion Patterns	A MNIST-like fashion product database. Benchmark :point_down: 	
+Zheng-Chong/CatVTON	1907	NOASSERTION	hardware	Sewing & Fashion Patterns	[ICLR 2025] CatVTON is a simple and efficient virtual try-on diffusion model with 1) Lightweight Network (899.06M parameters totally), 2) Parameter-Efficient Training (49.57M parameters trainable) and 3) Simplified Inference (< 8G VRAM for 1024X768 resolution)	
+lzhbrian/Cool-Fashion-Papers	639	MIT	hardware	Sewing & Fashion Patterns	👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)	
+patrickjohncyh/fashion-clip	548	MIT	hardware	Sewing & Fashion Patterns	FashionCLIP is a CLIP-like model fine-tuned for the fashion domain.	
+quintuslabs/fashion-cube	378	NONE	hardware	Sewing & Fashion Patterns	React ecommerce  website  	
+jogboms/tailor_made	337	MIT	hardware	Sewing & Fashion Patterns	✄ Managing a Fashion designer's daily routine.	
+abhishekrana/DeepFashion	272	Apache-2.0	hardware	Sewing & Fashion Patterns	Apparel detection using deep learning	
+selfitcamera/Outfit-Anyone-in-the-Wild	269	Apache-2.0	hardware	Sewing & Fashion Patterns	Outfit Anyone in the Wild: Get rid of Annoying Restrictions for Virtual Try-on Task	
+wendashi/Cool-GenAI-Fashion-Papers	251	NONE	hardware	Sewing & Fashion Patterns	[ACM TIST 2025] GenAI in Fashion: Overview, also includes 🔥latest papers, ⚙️metrics, 👀workshops, 🚀companies & products, ...)	
+CVxTz/image_search_engine	234	MIT	hardware	Sewing & Fashion Patterns	Image search engine	
+ixarchakos/try-off-anyone	213	NONE	hardware	Sewing & Fashion Patterns	Official repository of "TryOffAnyone: Tiled Cloth Generation from a Dressed Person"	
+kang205/DVBPR	196	NONE	hardware	Sewing & Fashion Patterns	Personalized Fashion Recommendation and Generation	
+st-tech/zozo-shift15m	181	NOASSERTION	hardware	Sewing & Fashion Patterns	SHIFT15M: Fashion-specific dataset for set-to-set matching with several distribution shifts	
+svip-lab/HRNet-for-Fashion-Landmark-Estimation.PyTorch	153	MIT	hardware	Sewing & Fashion Patterns	[DeepFashion2 Challenge] Fashion Landmark Estimation with HRNet	
+Pyramidriseize/ai-fursuit-pattern-generator	152	MIT	hardware	Sewing & Fashion Patterns	Free studio for fursuit patterns and furry art. Local, portable, no account.	
+smartHomeHub/SmartIR	2856	MIT	hardware	Smart Home Devices	Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome	
+agittins/bermuda	2133	MIT	hardware	Smart Home Devices	Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant	
+Blackymas/NSPanel_HA_Blueprint	1962	NONE	hardware	Smart Home Devices	This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code	
+adonno/tagreader	1623	GPL-3.0	hardware	Smart Home Devices	Simple to build/use NFC tag reader, specially created for Home Assistant	
+Madelena/esphome-weatherman-dashboard	1280	NONE	hardware	Smart Home Devices	A simple dashboard with weather and NYC subway information for ESPHome	
+klaasnicolaas/home-assistant-glow	1278	MIT	hardware	Smart Home Devices	⚡ The power of energy measurements in your house	
+syssi/esphome-jk-bms	1048	Apache-2.0	hardware	Smart Home Devices	ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE	
+spuder/OpenSpool	787	NOASSERTION	hardware	Smart Home Devices	RFID for 3d printer filament	
+patrickcollins12/esphome-fan-controller	759	NONE	hardware	Smart Home Devices	ESPHome Fan Controller	
+CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter	700	MIT	hardware	Smart Home Devices	Hardware & Software documentation for the CircuitSetup Expandable 6 Channel ESP32 Energy Meter. Works with ESPHome and Home Assistant.	
+ffenix113/zigbee_home	673	GPL-3.0	hardware	Smart Home Devices	Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52, nRF53 & nRF54L	
+hn/bsh-home-appliances	625	NONE	hardware	Smart Home Devices	BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics	
+libretiny-eu/libretiny	552	MIT	hardware	Smart Home Devices	PlatformIO development platform for IoT modules	
+alaltitov/Guition-ESP32-S3-4848S040	448	MIT	hardware	Smart Home Devices	LVGL ESP32-S3-4848s040 firmware	
+dudanov/iot-uni-dongle	421	NONE	hardware	Smart Home Devices	An project of universal minimalistic Wi-Fi dongle for various IOT appliances controlled via UART.	
+sunpy/sunpy	1052	BSD-2-Clause	hardware	Solar & Energy Systems	SunPy - Python for Solar Physics	
+PlasmaPy/PlasmaPy	723	BSD-3-Clause	hardware	Solar & Energy Systems	An open source Python package for plasma research and education	
+isee15/Lunar-Solar-Calendar-Converter	697	MIT	hardware	Solar & Energy Systems	公历(阳历) 农历(阴历)转换，支持时间段从1900-2100 如果需要更长的时间段，利用generate.htm生成的数据即可。 支持各种编程语言 C#,java,Objective-C,php,Python,javascript(nodejs),C/C++,ruby,swift,golang等 支持Mac，Windows，Android，WP多种平台	
+6tail/lunar-python	692	MIT	hardware	Solar & Energy Systems	日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.	
+overtrue/chinese-calendar	544	MIT	hardware	Solar & Energy Systems	:date: 中国农历（阴历）与阳历（公历）转换与查询工具	
+6tail/tyme4ts	521	MIT	hardware	Solar & Energy Systems	Tyme是一个非常强大的日历工具库，可以看作 Lunar 的升级版，拥有更优的设计和扩展性，支持公历、农历、藏历、回历、星座、干支、生肖、节气、月相、法定假日等。	
+OpenInverterGateway/OpenInverterGateway	452	MIT	hardware	Solar & Energy Systems	Firmware replacement for Growatt ShineWiFi-S	
+PyPSA/atlite	411	MIT	hardware	Solar & Energy Systems	atlite: A Lightweight Python Package for Calculating Renewable Power Potentials and Time Series	
+waterbeside/lunisolar	405	GPL-3.0	hardware	Solar & Energy Systems	Typescript农历库，支持阴历公历互转，支持各类黄历数据查询，如八字四柱、阴历、神煞宜忌、建除十二神、胎神占方、吉神方位、五行纳音等。支持自定义插件。	
+slipx06/sunsynk-power-flow-card	405	MIT	hardware	Solar & Energy Systems	⚡A customizable Home Assistant card to emulate the Sunsynk System flow that's displayed on the Inverter screen. 	
+SBFspot/SBFspot	381	NOASSERTION	hardware	Solar & Energy Systems	Yet another tool to read power production of SMA® solar/battery inverters	
+springfall2008/batpred	374	NOASSERTION	hardware	Solar & Energy Systems	Home battery prediction and charging automation for Home Assistant, supporting many inverter types	
+softwarecrash/Solar2MQTT-ESP8266	303	NOASSERTION	hardware	Solar & Energy Systems	ESP8266 based WiFi and MQTT interface for MPPT Inverters that use watchpower	
+ReikanYsora/Helios-Forecast	285	GPL-3.0	hardware	Solar & Energy Systems	An accurate, self-learning solar production forecast for Home Assistant	
+ai-republic/bms-to-inverter	274	NOASSERTION	hardware	Solar & Energy Systems	Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN)	
+rwf2/Rocket	25787	NOASSERTION	hardware	Space & Rocketry	A web framework for Rust.	
+openrocket/openrocket	3216	NOASSERTION	hardware	Space & Rocketry	Model-rocketry aerodynamics and trajectory simulation software	
+ucb-bar/chipyard	2450	BSD-3-Clause	hardware	Space & Rocketry	An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more	

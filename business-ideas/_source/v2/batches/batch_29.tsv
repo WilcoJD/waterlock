@@ -1,0 +1,380 @@
+microsoft/tigertoolbox	1597	NOASSERTION	industries	Maintenance & Asset Management (CMMS)	Toolbox repository for Tiger team 	
+MoscaDotTo/Winapp2	1075	CC-BY-SA-4.0	industries	Maintenance & Asset Management (CMMS)	Winapp2.ini: A database of declarative cleaning routines for Windows PC maintenance software	
+sergiisyrovatchenko/SQLIndexManager	593	GPL-3.0	industries	Maintenance & Asset Management (CMMS)	Free GUI Tool for Index Maintenance on SQL Server and Azure	
+szepeviktor/debian-server-tools	542	MIT	industries	Maintenance & Asset Management (CMMS)	Tools and living docs 🧬 for Debian-based servers and Web Applications	
+fabiocaccamo/django-maintenance-mode	529	MIT	industries	Maintenance & Asset Management (CMMS)	:construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.	
+HA-Pulse/home-assistant-global-health-score	475	Apache-2.0	industries	Maintenance & Asset Management (CMMS)	The open standard for Home Assistant instance health monitoring.	
+caicloud/event_exporter	327	Apache-2.0	industries	Maintenance & Asset Management (CMMS)	Exporter for kubernetes events	
+vaimo/composer-patches	305	MIT	industries	Maintenance & Asset Management (CMMS)	 Applies a patch from a local or remote file to any package that is part of a given composer project. Patches can be defined both on project and on package level. Optional support for patch versioning, sequencing, custom patch applier configuration and compose	
+dannymcc/may	272	MIT	industries	Maintenance & Asset Management (CMMS)	May is a web-based dashboard application that gives you a neat and clean interface for logging your fuel fill-ups for all of your vehicles. The application has full multi-user support, as well as multiple vehicles per user. Whenever you fill-up your car or mot	
+retest/recheck-web	269	AGPL-3.0	industries	Maintenance & Asset Management (CMMS)	recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.	
+goldmansachs/obevo	250	Apache-2.0	industries	Maintenance & Asset Management (CMMS)	Obevo is a database deployment tool that handles enterprise scale schemas and complexity	
+aim42/aim42	242	Apache-2.0	industries	Maintenance & Asset Management (CMMS)	public repository for the "architecture improvement method reference"	
+nanomq/nanomq	2655	MIT	industries	Manufacturing (MES & ERP)	An ultra-lightweight and blazing-fast Messaging  Bus/MQTT Broker for Edge & SDV	
+emqx/neuron	1422	LGPL-3.0	industries	Manufacturing (MES & ERP)	Open source industrial connectivity server	
+chenwei810/Semiconductor_Manufacturing_Introduction	1385	NOASSERTION	industries	Manufacturing (MES & ERP)	Introduction to Semiconductor Manufacturing	
+JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform	732	Apache-2.0	industries	Manufacturing (MES & ERP)	   Production-Grade ML System for Automated Unit of Measure Error Detection | 88-92% Accuracy | 94% Autonomy | KNIME Workflow	
+jukbot/smart-industry	443	Apache-2.0	industries	Manufacturing (MES & ERP)	🏭 Open Source Manufacturing Execution System for JobShop type manufacturer.	
+sapphirexai/bufferpad	272	MIT	industries	Manufacturing (MES & ERP)	面向制造现场的缓冲垫寿命追踪与 PLC 联动系统。 提供扫码计数、防重复计数、寿命预警、使用记录和本地部署。	
+oaslananka/kicad-mcp-pro	186	MIT	industries	Manufacturing (MES & ERP)	MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/DRC validation, DFM checks, BOM analysis, and manufacturing preparation—with controlled edits and human-gated release workflows.	
+cmars/pystdf	185	GPL-2.0	industries	Manufacturing (MES & ERP)	Python module for working with STDF files	
+Autodesk-Forge/forge-digital-twin	182	MIT	industries	Manufacturing (MES & ERP)	Autodesk Forge application demonstrating various use cases in manufacturing, specifically in context of digital twins.	
+tvhahn/weibull-knowledge-informed-ml	180	MIT	industries	Manufacturing (MES & ERP)	Using knowledge-informed machine learning on the PRONOSTIA (FEMTO) and IMS bearing data sets. Predict remaining-useful-life (RUL).	
+blueseerERP/blueseer	176	MIT	industries	Manufacturing (MES & ERP)	A Free ERP and EDI solution for the manufacturing community	
+TrakHound/MTConnect.NET	128	MIT	industries	Manufacturing (MES & ERP)	Fully featured .NET library in C# to build MTConnect Agent, Adapter, and Client Applications. Pre-built Agents with Windows Installers. Support for Windows and Linux. Supports MTConnect Versions up to 2.7. Supports .NET Framework 4.6.1 through .NET 10	
+samirsaci/supply-chain-optimization	127	NONE	industries	Manufacturing (MES & ERP)	Supply Chain Optimization with Python	
+yunshengtian/ASAP	107	MIT	industries	Manufacturing (MES & ERP)	[ICRA 2024] ASAP: Automated Sequence Planning for Complex Robotic Assembly with Physical Feasibility	
+PO-LAB/Manufacturing-Data-Science	96	NONE	industries	Manufacturing (MES & ERP)	Data Science in Manufacturing 製造資料科學	
+Yacht-sh/Yacht	3877	NOASSERTION	industries	Marinas & Boating	A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.	
+superdoc/docx-editor	1130	AGPL-3.0	industries	Marinas & Boating	SuperDoc - DOCX Editor and Agent SDK for reviewing, filling, and editing documents. Fully customizable.	
+vszakats/hb	93	NOASSERTION	industries	Marinas & Boating	Harbour fork (from https://github.com/harbour/core) + updates & fixes = 3.4	
+matteobaccan/MultiRipper	58	NONE	industries	Marinas & Boating	Multi-purpose File Ripper	
+FiveTechSoft/mod_harbour	46	NOASSERTION	industries	Marinas & Boating	Apache mod for Harbour	
+sharkiller/nopixel_minigame	37	NONE	industries	Marinas & Boating	Test your abilities in minigames similar to NoPixel	
+jenniferdavid/Gazebo_Harbour_Models	37	GPL-3.0	industries	Marinas & Boating	Some Gazebo models of a container terminal 	
+SeokminHong/edge-yacht	31	MIT	industries	Marinas & Boating	A multiplayer game for Cloudflare Summer Challenge	
+marcosgambeta/sqlrddpp	25	GPL-2.0	industries	Marinas & Boating	SQLRDD++ v1 for Harbour, xHarbour, Harbour 3.4 and Harbour++ (C version)	
+Petewg/harbour-list	25	NONE	industries	Marinas & Boating	Harbour list on GitHub 	
+elchs/LetoDBf	22	NONE	industries	Marinas & Boating	LetoDB fork - database server with RDD for Harbour client	
+tridelat/pycatenary	19	MIT	industries	Marinas & Boating	A Python library for solving catenary equations	
+ivanilmarcelino/designer	19	NONE	industries	Marinas & Boating	Designer for Minigui extend	
+ptsource/Developer-Platform	19	NONE	industries	Marinas & Boating	:eight_spoked_asterisk: PTSource Developer Platform is a professional IDE, Source Code Editor and Compiler, tools, templates and  libs for professionals and students with build environments for Windows x86 and x64, MCS51, GBZ80, Z80, HC08 and Atari 2600.	
+hansmarc/Otis	19	NONE	industries	Marinas & Boating	Otis is a dbf inspection tool (dbf viewer) for Dbase, Clipper, Harbour, xHarbour, FoxPro, Letodbf, ..., files.	
+hackerkid/Mind-Expanding-Books	14514	NONE	industries	Mental Health Practices	 :books: Find your next book to read!	
+shengjidaguai-china/goutoujunshi	9349	MIT	industries	Mental Health Practices	一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。	
+psychopy/psychopy	2125	GPL-3.0	industries	Mental Health Practices	For running psychology and neuroscience experiments	
+jspsych/jsPsych	1239	MIT	industries	Mental Health Practices	Create behavioral experiments in a browser using JavaScript	
+chatopera/efaqa-corpus-zh	785	NOASSERTION	industries	Mental Health Practices	❤️Emotional First Aid Dataset, 心理咨询问答、聊天机器人语料库	
+zhangjunhd/reading-notes	475	MIT	industries	Mental Health Practices	张俊的读书笔记	
+FelixHenninger/lab.js	293	NOASSERTION	industries	Mental Health Practices	Online research made easy	
+open-cogsci/OpenSesame	283	GPL-3.0	industries	Mental Health Practices	Graphical experiment builder for the social sciences	
+ContextLab/human-memory	278	MIT	industries	Mental Health Practices	Course materials for Dartmouth course: Human Memory (PSYC 51.09)	
+inuyasha2012/pypsy	242	MIT	industries	Mental Health Practices	psychometrics package, including  MIRT(multidimension item response theory), IRT(item response theory),GRM(grade response theory),CAT(computerized adaptive testing), CDM(cognitive diagnostic model), FA(factor analysis), SEM(Structural Equation Modeling) .	
+LilMGenius/polysona	169	MIT	industries	Mental Health Practices	Polygonal Persona: A Persona Layer for AI Agents. Metacognition-driven multi-persona extraction and orchestration system.	
+CrumpLab/statistics	165	CC-BY-SA-4.0	industries	Mental Health Practices	An open statistics textbook for Psychology undergraduates	
+neuropsychology/psycho.R	159	NOASSERTION	industries	Mental Health Practices	An R package for experimental psychologists	
+expyriment/expyriment	139	GPL-3.0	industries	Mental Health Practices	Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments	
+fargonauts/copycat	129	MIT	industries	Mental Health Practices	Modern port of Melanie Mitchell's and Douglas Hofstadter's Copycat	
+BitBotFactory/MikaLendingBot	1158	MIT	industries	Microfinance & Credit Unions	Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex	
+dharma-eng/dharma-smart-wallet	267	MIT	industries	Microfinance & Credit Unions	An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs.	
+morpho-org/metamorpho	198	GPL-2.0	industries	Microfinance & Credit Unions	MetaMorpho	
+dutu/poloLender	158	NOASSERTION	industries	Microfinance & Credit Unions	Free, open source, high performance bot for lending funds on Poloniex exchange	
+chandachewe10/loan-management-system	150	NOASSERTION	industries	Microfinance & Credit Unions	Loan Management Software.	
+parallel-finance/parallel	125	GPL-3.0	industries	Microfinance & Credit Unions	A decentralized lending & staking protocol built on top of the Polkadot ecosystem.	
+morpho-org/morpho-blue-oracles	123	GPL-2.0	industries	Microfinance & Credit Unions	Morpho Blue Oracles	
+hifi-finance/hifi	108	NOASSERTION	industries	Microfinance & Credit Unions	Monorepo implementing the Hifi fixed-rate, fixed-term lending protocol	
+ETHLend/Documentation	101	NONE	industries	Microfinance & Credit Unions	ETHLend White Paper	
+OpenLeverageDev/openleverage-contracts	97	NOASSERTION	industries	Microfinance & Credit Unions	OpenLeverage Smart Contracts, including lending pools, margin trade, treasury, farming pool, DAO-based governance, OLE ERC-20 token, and time-weighted vote escrow xOLE components.	
+MicroPyramid/micro-finance	94	MIT	industries	Microfinance & Credit Unions	Free Micro Finance Software	
+elys-network/elys	86	NOASSERTION	industries	Microfinance & Credit Unions	Elys Network is a DeFi Proof of Stake blockchain built using Cosmos SDK, bridging the gap between Web2 and Web3 with a premier UI/UX. Elys offers non-custodial DEX with Smartshielded Pools, vaults, perpetual trading, leverage LP, and more.	
+Anish-Agnihotri/pawnft	75	GPL-3.0	industries	Microfinance & Credit Unions	NFT-collateralized lending primitive, via active auctions.	
+yakew7/Fair-Code	66	MIT	industries	Microfinance & Credit Unions	Auditing algorithmic bias in criminal justice, hiring, lending, healthcare, welfare, and tenant screening: 7 open-source audits, measurable fairness gaps, and concrete fixes.	
+GrantStenger/n3rp	55	NONE	industries	Microfinance & Credit Unions	N3RP (the NFT Rental Protocol) allows users to trustlessly rent out their ERC721-based assets.	
+QuipNetwork/quip-solver	11589	AGPL-3.0	industries	Mining, Oil & Gas	The quip network mining stack. This includes a coordinator and links all of the official quip network miners.	
+DevilXD/TwitchDropsMiner	3446	MIT	industries	Mining, Oil & Gas	An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.	
+NebuTech/NBMiner	3171	NONE	industries	Mining, Oil & Gas	GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO	
+develsoftware/GMinerRelease	1972	NONE	industries	Mining, Oil & Gas	Ethash, ProgPoW, Equihash, CuckooCycle GPU Miner	
+MPOS/php-mpos	1520	Apache-2.0	industries	Mining, Oil & Gas	MPOS stands for Mining Portal Open Source. Issue tracker is now closed since it's not maintained anymore.	
+SChernykh/p2pool	1518	GPL-3.0	industries	Mining, Oil & Gas	Decentralized pool for Monero mining	
+skot/bitaxe	1374	CERN-OHL-S-2.0	industries	Mining, Oil & Gas	Open source ASIC Bitcoin miner hardware	
+duino-coin/duino-coin	1231	MIT	industries	Mining, Oil & Gas	ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards.	
+aeternity/aeternity	1087	ISC	industries	Mining, Oil & Gas	æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens	
+MultiPoolMiner/MultiPoolMiner	923	GPL-3.0	industries	Mining, Oil & Gas	Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line. 	
+RainbowMiner/RainbowMiner	718	GPL-3.0	industries	Mining, Oil & Gas	GPU/CPU Mining script with intelligent profit-switching between miningpools, algorithms, miners, using all possible combinations of devices (NVIDIA, AMD, CPU). Features: actively maintained, uses the top actual miner programs (Bminer, Ccminer, Claymore, Dstm, 	
+nanopool/nanominer	674	NONE	industries	Mining, Oil & Gas	Nanominer is a versatile tool for mining cryptocurrencies on GPUs and CPUs.	
+Scottcjn/Rustchain	668	Apache-2.0	industries	Mining, Oil & Gas	Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.	
+BlockchainBooks/blockchainbooks.github.io	569	MIT	industries	Mining, Oil & Gas	Blockchain Books	
+0age/create2crunch	540	MIT	industries	Mining, Oil & Gas	A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2.	
+exmemo-ai/obsidian-exmemo-tools	30	NOASSERTION	industries	Moving Companies	Use large models for smart document management and optimization, including relocating files, enhancing text, and generating metadata.	
+BoardTools/QuickReply	26	GPL-2.0	industries	Moving Companies	Extension for phpBB 3.1+ that allows to show BBCode and smiles in quickreply, use quick quote, insert nickname to quickreply by clicking, ajax sending posts, sending with Ctrl+Enter, ajax topic navigation etc. IMPORTANT NOTE: If you are moving from the previou	
+ajay04323/cpanel_CPSP	11	NONE	industries	Moving Companies	Which of the following options best describes the role of Shared Hosting on a web server?    Providing hosting for a single website owned by different people on multiple servers.  Providing hosting for a single website owned by one person on one server.  Provi	
+houstoncuj/Educating-for-the-Large-Shop-to-make-Custom-Name-Patches	6	NONE	industries	Moving Companies	In a needlework shop made for quantity result, an established curriculum should comply with certain principles and a timetable. The larger your embroidery procedure, the much more you need a defined training program.  https://houstonembroideryservice.com/custo	
+MattyMailers/smartmoving-mcp	4	MIT	industries	Moving Companies	MCP server for the SmartMoving External API, enabling AI agents to safely query and operate moving-company CRM data.	
+Paritosh-Singh007/Move_it	3	NONE	industries	Moving Companies	A simple website for a moving company.	
+stef4k/vehicle-routing-problem	3	NONE	industries	Moving Companies	Optimization Methods in Management Science assignment: Solving a vehicle routing problem	
+hubecker/lvm-openstack-adapters	3	Apache-2.0	industries	Moving Companies	Virtualization and storage adapters that enable users to manage their OpenStack clouds via SAP LVM (Landscape Virtualization Management), including all SAP LVM functions e.g. copy, clone, relocate, refresh, etc. While these adapters, provided by SAP, are teste	
+Harisio/HOW-TO-SEARCH-AND-MATCH-JOBS	3	NONE	industries	Moving Companies	Solutions to improve the job search and matching process            The process of searching and matching jobs is a key step in acquiring a suitable job. The applicant needs to consider the job in question and match with his or her profile. One’s profile entai	
+jowi971/https-setupamppedwireless.com-	3	NONE	industries	Moving Companies	Skip to content Setup.ampedwireless.com Amped Wireless Setup | amped Wireless  amped wireless setup setup ampedwireless com Why is setup.ampedwireless.com not working? There may be several aspects because of which a user is unable to access the setup.ampedwire	
+uswds/uswds	7239	NOASSERTION	industries	Municipal & Civic Services	The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.	
+github/government.github.com	2027	NONE	industries	Municipal & Civic Services	Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations	
+Code-dot-mil/code.mil	1324	MIT	industries	Municipal & Civic Services	An experiment in open source at the Department of Defense.	
+factbook/factbook.json	1132	CC0-1.0	industries	Municipal & Civic Services	World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)	
+openstates/openstates-scrapers	923	GPL-3.0	industries	Municipal & Civic Services	source for Open States scrapers	
+OxCGRT/covid-policy-tracker	776	NOASSERTION	industries	Municipal & Civic Services	Systematic dataset of Covid-19 policy, from Oxford University	
+alphagov/govuk-design-system	688	MIT	industries	Municipal & Civic Services	One place for service teams to find styles, components and patterns for designing government services.	
+GouvernementFR/dsfr	399	NOASSERTION	industries	Municipal & Civic Services	🇫🇷 Official french government's design system (Système de Design de l'État)	
+ubavic/bas-celik	397	MIT	industries	Municipal & Civic Services	A program for reading smart-card documents issued by the government of Serbia	
+alphagov/govuk-prototype-kit	342	MIT	industries	Municipal & Civic Services	Rapidly create HTML prototypes of GOV.UK services	
+Chicago/RSocrata	244	NOASSERTION	industries	Municipal & Civic Services	Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "human-friendly" URL, returns an R data frame. Converts dates 	
+italia/developers.italia.it	241	BSD-3-Clause	industries	Municipal & Civic Services	⚠️ We're going to deprecate and archive this repository. New repository available linked below.	
+uswds/uswds-for-designers	208	NOASSERTION	industries	Municipal & Civic Services	USWDS visual design and UX assets	
+publiccodeyml/publiccode.yml	197	CC0-1.0	industries	Municipal & Civic Services	A metadata standard for public software	
+Imbad0202/tw-formal-writing	197	MIT	industries	Municipal & Civic Services	台灣正式文件撰寫 AI Skill：公文、存證信函、陳情書、合約 — 匯入 ChatGPT / Claude / Gemini 即可使用	
+lovasoa/dezoomify	846	GPL-3.0	industries	Museums & Archives	Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.	
+harvardartmuseums/api-docs	427	NONE	industries	Museums & Archives	API documentation for https://www.harvardartmuseums.org	
+ganjoor/GanjoorService	240	GPL-3.0	industries	Museums & Archives	وب سرویس و سایت گنجور	
+cooperhewitt/collection	237	NONE	industries	Museums & Archives	Collection Data for Cooper Hewitt, Smithsonian Design Museum	
+art-institute-of-chicago/aic-bash	181	AGPL-3.0	industries	Museums & Archives	A bash script to query our API for public domain artworks and render them as ASCII art	
+jungang/alumnet	167	MIT	industries	Museums & Archives	AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI 智能校史展示系统 — 校友星图	
+nanbouking/WeLibAppt	137	NONE	industries	Museums & Archives	博物馆门票预约小程序，分别实现参观者和管理人员两种不同人群的系统交互界面，实现这两种不同人群的操作需求。整个系统包括：门票预约模块、活动预约模块、用户模块、公告模块，后台管理人员可以发布、修改、删除门票信息，门票信息包括门票日期、时段、票数等信息，支持录入多人信息进行门票预约	
+ekzhang/dispict	97	MIT	industries	Museums & Archives	Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP	
+upupming/HITMers	80	MIT	industries	Museums & Archives	Management system for Harbin Institute of Technology Museum	
+Augmenta-tech/Augmenta	73	NONE	industries	Museums & Archives	Getting Started	
+CMP-Studio/DawnChorus	68	NOASSERTION	industries	Museums & Archives	Wake up to a chorus of birds in this alarm clock developed by Carnegie Museums of Pittsburgh.	
+Platane/js13k-2017	56	NONE	industries	Museums & Archives	🖼️ Vernissage !	
+theringsofsaturn/virtual-museum-tour-threejs	50	NONE	industries	Museums & Archives	Imagine a virtual interactive tour of the hotel, apartment, or for tourist attractions, a guided informative virtual tour in the museum, art gallery or historical and archaeological sites.	
+smartcompanion-app/audioguide-app	48	BSD-2-Clause	industries	Museums & Archives	Open-source mobile audioguide app for museums, tourism and cultural institutions	
+michealparks/galeri-www	44	MIT	industries	Museums & Archives	A perpetual artwork streaming app. (Website Repo)	
+bobbicodes/mecca	172	NONE	industries	Music Schools	Animated music editor in Clojurescript/re-frame	
+lipd/muse-training	38	MIT	industries	Music Schools	用于训练识谱与视唱练耳，支持 Web MIDI	
+patrickiel/note-by-note	21	GPL-2.0	industries	Music Schools	Browser extension for practicing music along with any page audio or video: real-time pitch shift, speed control, loop ranges, timeline markers, chained practice snippets, vocal reducer, 10-band EQ and chord detection. Chrome MV3 side panel, built with WXT + Sv	
+jing-wu-ai/erhu-annotator	21	MIT	industries	Music Schools	Privacy-first browser tool for cropping scanned music score PDFs/images into clean line-level snippets for music teaching.	
+leandrodaf/pianalyze	21	NOASSERTION	industries	Music Schools	🎹 App desktop gratuito para aprender piano — análise MIDI em tempo real, detecção de acordes, modo prática com feedback de timing. Free piano learning app built with Go + Svelte.	
+ztbishop/piano-trainer-studio	19	AGPL-3.0	industries	Music Schools	Practice piano using a MIDI keyboard with real-time feedback and optional LED guidance.	
+scizerss/keylight-piano	19	MIT	industries	Music Schools	Unofficial, open-source piano-learning app for the ROLI Piano M and LUMI Keys: falling notes, key lights, lessons and games, all on your Mac	
+gigliof/bach-to-basics	17	MIT	industries	Music Schools	Browser-based piano learning app - falling notes, sheet music, MIDI, and practice tools.	
+ismaelponce/pianio	14	NOASSERTION	industries	Music Schools	Free piano learning	
+bogggare567/abcTrain	11	NOASSERTION	industries	Music Schools	Ear training for audio engineers: practise frequency, dynamics, space and tone, then apply what you hear with real EQ, compressor & reverb plugins. Free · macOS · Windows · Linux.	
+zikpad/zikpad	11	MIT	industries	Music Schools	Zikpad is an online tool to easily write and play music scores mainly used for educational purposes. It guesses the rythm from the placement of the notes. The score can then be exported in the lilypond format.	
+jonashuberts/KeyKalimba	10	AGPL-3.0	industries	Music Schools	An App to practice Kalimba with your Smartphone.	
+msabin/rhythmonics	10	MIT	industries	Music Schools	Interactive music toy relating polyrhythms and harmony.	
+IlyaSkorik/scoreflow	8	MIT	industries	Music Schools	Open-source sheet music notation editor for Android, iOS and Desktop, built with Flutter and VexFlow.	
+ELVIS-SOFTWARE/elvis	7	GPL-3.0	industries	Music Schools	Elvis is a web application that allows you to manage your music school and their associated tasks.	
+zerowasteestonia/World-Cleanup-Day	110	GPL-3.0	industries	NGOs & Humanitarian	☀️ World Cleanup Day: App (React Native) & Platform (Node). Join us in building software for a cleaner planet! PRs welcome!	
+frappe/changemakers	96	AGPL-3.0	industries	NGOs & Humanitarian	Beneficiary Management Platform, built on Frappe Framework.	
+Aam-Digital/ndb-core	95	GPL-3.0	industries	NGOs & Humanitarian	Easy-to-use case management web app for NGOs anywhere in the world (Progressive Web App)	
+SCGR-1/PromptAid-Vision	80	NONE	industries	NGOs & Humanitarian	UCL IXN project with IFRC - PromptAid Vision	
+liekzejaws/rushlight	79	NOASSERTION	industries	NGOs & Humanitarian	Rushlight — Offline survival computer. OsmAnd fork with local LLM, offline Wikipedia, P2P sharing, and morse code comms.	
+sozialhelden/accessibility-cloud	55	NONE	industries	NGOs & Humanitarian	👩🏽‍🦯🦮👩🏻‍🦽👩🏿‍🦼 the platform to exchange physical accessibility data in a standardized, future-proof, easy-to-use way.	
+crf-devs/resop	49	GPL-3.0	industries	NGOs & Humanitarian	ResOp is a management, planning and projection tool for human and operational resources in a crisis context.	
+SocialChangeLab/media-impact-monitor	48	NOASSERTION	industries	NGOs & Humanitarian	The Media Impact Monitor is a novel tool for protest groups and NGOs to measure and visualize their impact on public discourse.	
+CroceRossaItaliana/jorvik	45	GPL-3.0	industries	NGOs & Humanitarian	'Jorvik' is the codename for the second and latest version of the Gaia Project, used by Italian Red Cross. ISSUES: https://jira.gaia.cri.it/browse/JO	
+HXLStandard/libhxl-python	43	Unlicense	industries	NGOs & Humanitarian	Python support library for the Humanitarian Exchange Language (HXL) data standard.	
+unicef/giga-spatial	30	AGPL-3.0	industries	NGOs & Humanitarian	Python library for humanitarian, development, connectivity, and climate geospatial analysis: acquire WorldPop, GHSL, Google & Microsoft buildings, OSM, RWI, Ookla, and GloFAS and map them onto H3/S2/Mercator grids, admin boundaries, custom geometries, POIs, an	
+mouhurtik/adoptdontshop	30	AGPL-3.0	industries	NGOs & Humanitarian	A modern, open-source pet adoption platform and community hub connecting shelters, rescues, and potential pet parents.	
+ppavankumar727/NGO-Management-System	29	NONE	industries	NGOs & Humanitarian		
+andrewheiss/who-cares-about-crackdown	28	MIT	industries	NGOs & Humanitarian	📊 📄 Suparna Chaudhry, Marc Dotson, and Andrew Heiss, "Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy" 	
+nowtec/nowCRM	28	NOASSERTION	industries	NGOs & Humanitarian	Open source CRM with multichannel outreach capabilities and efficient data management at scale	
+GuiltyNeuron/ANPR	398	NONE	industries	Parking Operators	license plate detection and recognition	
+tevora-threat/Scout	386	GPL-3.0	industries	Parking Operators	Surveillance Detection Scout: Your Lookout on Autopilot	
+stevefielding/tensorflow-anpr	220	NONE	industries	Parking Operators	Automatic Number (License) Plate Recognition using Tensorflow Object Detection API	
+italia/anpr	192	CC-BY-4.0	industries	Parking Operators	Issue tracker e documentazione di ANPR - Anagrafe Nazionale della Popolazione Residente	
+anomaly2104/lld-parking-lot	180	NONE	industries	Parking Operators	Repository for low level design solution of parking lot	
+stephanecharette/DarkPlate	100	MIT	industries	Parking Operators	License plate parsing using Darknet and YOLO	
+barzansaeedpour/iranian-license-plate-generator	96	MIT	industries	Parking Operators	You can use this project to produce quality Iranian license plates.	
+fabiocaccamo/python-codicefiscale	91	MIT	industries	Parking Operators	:it: :credit_card: italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.	
+onuzbee/Indian-Number-Plate-Recognition-System	88	NONE	industries	Parking Operators	Indian Number Plate Recognition System built using OpenCV 	
+souravrs999/License-Plate-Recognition	75	MIT	industries	Parking Operators	A pytorch implementation of a darkent trained yolov4-tiny model that can detect number plates and helmets if a number plate is detected it is passed through an OCR to recognize the number	
+Nenger/chinese_licence_plate_generator	73	NONE	industries	Parking Operators	A tool for generating Chinese license plate dataset for plate detecting	
+parvatijay2901/Automatic-Number-plate-detection-for-Indian-vehicles	71	Apache-2.0	industries	Parking Operators	EC351: Introduction to Algorithms	
+ankit1khare/Smart-Park-with-YOLO-V3	70	NONE	industries	Parking Operators	Maintaining empty parking spot count using YOLO real-time vehicle detection. Code readily runnable in google colab.	
+vinitshahdeo/ParkingLot	59	MIT	industries	Parking Operators	Design a parking lot system which supports multiple features. It uses OOPS concepts and TDD approach.	
+naveenrobo/dahua-ip-cam-sdk	59	MIT	industries	Parking Operators	SDK for Dahua IP Cameras to extract Plate Numbers, Event notifications and more.	
+MRColorR/money4band	471	GPL-3.0	industries	Pawn & Secondhand Shops	A multi platform, self updating, lightweight docker stack that use compose to run many passive income applications like Honeygain, EarnApp, IPRoyal Pawns, PacketStream, Peer2Profit, Repocket, Earnfm, Proxyrack, Bitping, PacketShare, etc. that pay you in USD or	
+pawn-lang/compiler	344	NOASSERTION	industries	Pawn & Secondhand Shops	Pawn compiler for SA-MP with bug fixes and new features - runs on Windows, Linux, macOS	
+Southclaws/sampctl	265	GPL-3.0	industries	Pawn & Secondhand Shops	The Swiss Army Knife of SA:MP - vital tools for any server owner or library maintainer.	
+NexiusTailer/Nex-AC	246	LGPL-3.0	industries	Pawn & Secondhand Shops	Anticheat system	
+pawn-lang/YSI-Includes	226	NONE	industries	Pawn & Secondhand Shops	Just the YSI include files, none of the extra stuff.	
+katursis/Pawn.RakNet	185	MIT	industries	Pawn & Secondhand Shops	🛡 Plugin for SA:MP 0.3.7 server that allows you to capture and analyze RakNet traffic	
+KyleSanderson/SteamWorks	160	GPL-3.0	industries	Pawn & Secondhand Shops	Exposing SteamWorks functions to SourcePawn.	
+pawn-lang/sa-mp-fixes	149	NONE	industries	Pawn & Secondhand Shops	Includes and plugins to fix various issues in the SA:MP server that can be fixed externally, leaving the devs time for other things.	
+katursis/Pawn.CMD	132	MIT	industries	Pawn & Secondhand Shops	🚀 Plugin-powered command processor for SA:MP server	
+Timocop/BasicPawn	76	GPL-3.0	industries	Pawn & Secondhand Shops	BasicPawn - SourcePawn Editor	
+Agneese-Saini/SA-MP	71	Apache-2.0	industries	Pawn & Secondhand Shops		
+pawn-lang/amx_assembly	63	NONE	industries	Pawn & Secondhand Shops	Interesting #emit stuff	
+AmyrAhmady/samp-gps-plugin	60	NONE	industries	Pawn & Secondhand Shops	Modern and feature-rich pathfinding plugin for open.mp and SA-MP.	
+Open-GTO/Open-GTO	55	NOASSERTION	industries	Pawn & Secondhand Shops	RPG gamemode for SA-MP	
+pawn-lang/samp-stdlib	53	NONE	industries	Pawn & Secondhand Shops	The San Andreas Multiplayer Pawn Standard Library Package - designed for the sampctl package management system.	
+InspectorHub/OpenInspection	12	NOASSERTION	industries	Pest Control & Home Services	Open-source home inspection software. Self-host on Cloudflare for ~$0/mo. Functional parity with Spectora and Inspector Toolbelt.	
+nousheentabassum/Fix-N-Build	9	NONE	industries	Pest Control & Home Services	Full-stack home services platform for booking and managing maintenance services with responsive UI and user authentication.	
+cotletdev/bookingkoala-api-mcp-server	6	NOASSERTION	industries	Pest Control & Home Services	Connect BookingKoala to ChatGPT, Claude, Cursor, Codex or any AI agent: bookings, providers, quotes, customers, invoices. BookingKoala API and MCP server, hosted or self-hosted.	
+openefsa/eppoFindeR	5	EUPL-1.2	industries	Pest Control & Home Services	R interface to the EPPO Database and Public APIs.	
+dipakjad1993/RealEstate-Repair-Cost-Estimator	4	MIT	industries	Pest Control & Home Services	Enterprise-grade Streamlit platform that turns inspection reports, photos, audio & floorplans into provenance-tracked repair cost estimates across 21 modules - cost, CapEx, permits, environmental risk, insurance, recalls, ROI & more. Real government data, dete	
+AimanCrafts/Dr-Fix	3	NONE	industries	Pest Control & Home Services	Smart Home Service Management Platform built with Laravel and React.	
+OptimizerTeam/agent-skills	3	MIT	industries	Pest Control & Home Services	Open-source agent skills from Optimizer (optimizer.team) for getting local & home-service businesses found by AI. Includes the AI Presence Auditor (AEO/GEO).	
+maoqyhz/MIMS	148	MIT	industries	Pharmacy	Graduation project named medicine information management system. using asp.net mvc4 + easyUI + Dapper	
+mhmzdev/medkit-pharmacy-app	139	NONE	industries	Pharmacy	To cure symptoms of various disease using medicines at home this app will act as guideline. Few animations are used and Firebase is used as database.	
+karem505/egyptian-drug-database	80	NONE	industries	Pharmacy	Egyptian drug database (May 2026) — 24,868 medicines with Arabic + English trade names, scientific composition, manufacturer, drug class, route, and EGP price. CSV + JSON. CC0. قاعدة بيانات الأدوية المصرية	
+kennethleungty/Generative-AI-Pharmacist	79	NONE	industries	Pharmacy	Generative AI Pharmacist (For Demo Purposes Only)	
+stellarloop/Pharmacy-Drug-Management-System	51	NONE	industries	Pharmacy	This Project Pharmacy management system has been developed on Java, mysql, swing. The most purpose of this java project Pharmacy management system is to develop the web application in Diploma in engineering, B.SC in Computer science engineering (CSE), IT, soft	
+berkinory/Nobetcim	43	MIT	industries	Pharmacy	Turkey on-duty pharmacy map	
+mahmoudfalous/eg-drugs	39	NOASSERTION	industries	Pharmacy	27K+ Egyptian medicines dataset with Arabic & English names, active ingredients, manufacturers, prices, barcodes, and uses. Available in CSV, JSON, SQLite, SQL, and via a free public REST API.	
+IsurangaPerera/ClinicManagementSystem	38	Apache-2.0	industries	Pharmacy	Developing web-based information and administrative system for Chest Clinic Colombo. Provide the means to improve the information gathering and administrative tasks of the Chest Clinic.	
+ikmckenz/adme-pred-py	38	AGPL-3.0	industries	Pharmacy	Python implementation of common ADME properties.	
+kennethleungty/Drug-Interactions-Network-Analysis-and-Visualization	37	MIT	industries	Pharmacy	Network analysis and visualization of drug-drug interactions with NetworkX and Pyvis	
+CS207-AP/Inventory-Management	31	MIT	industries	Pharmacy	An inventory management software for a pharmaceutical vendor.	
+LUKE-ZZ/thuthesis-biomedical	29	NONE	industries	Pharmacy	清华大学生物，医学，药学等相关专业的毕业论文latex模板。也适用于其他专业。适合本硕博毕业论文和博后报告。本模板在tuna协会的thuthesis项目基础上，增补了和生医药相关同学的内容，也增添了对latex新手更加友好的注释。	
+ikmckenz/target-pred-py	28	GPL-3.0	industries	Pharmacy	A simple machine learning model for small-molecule target prediction in Python.	
+themefisher/novena-bootstrap	28	MIT	industries	Pharmacy	Novena is a medical template specially design for clinic, hospital, doctor consultation center, surgery center, medical laboratory, pharmacy etc.	
+Frankkk1912/xstars	19	MIT	industries	Pharmacy	Excel-based Statistics Tool for Analysis, Rapid Significance - in one click	
+storytold/lightcraft	15631	Apache-2.0	industries	Photographers	LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust	
+drewnoakes/metadata-extractor	2844	Apache-2.0	industries	Photographers	Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files	
+Afilmory/afilmory	2670	NOASSERTION	industries	Photographers	Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.	
+NextLevel/NextLevel	2336	MIT	industries	Photographers	⬆️ Media Capture in Swift	
+sambecker/exif-photo-blog	1726	NONE	industries	Photographers	Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image.	
+pch/rawmakase	1632	MIT	industries	Photographers	📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.	
+rampatra/photography	1200	GPL-3.0	industries	Photographers	A free online portfolio website to showcase your photos.	
+commons-app/apps-android-commons	1194	Apache-2.0	industries	Photographers	The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons	
+marcinz606/NegPy	1158	GPL-3.0	industries	Photographers	Tool for processing film negatives.	
+eszdman/PhotonCamera	1123	GPL-3.0	industries	Photographers	Android Camera that uses Enhanced image processing	
+skymanbp/autoshade	1053	MIT	industries	Photographers	AI-assisted RAW photo developer: GPT vision advisor proposes an EditRecipe, a deterministic Rust engine renders it — Lightroom-compatible XMP sidecars, 24 RAW formats + baked images, measured (not guessed) Lightroom mask geometry, local GUI/web UI, AI denoise 	
+yurijmikhalevich/rclip	1039	MIT	industries	Photographers	grep for images – local, offline image search for the terminal	
+dorukkumkumoglu/optocamzero	909	NOASSERTION	industries	Photographers	Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components.	
+rsjaffe/MIDI2LR	774	GPL-3.0	industries	Photographers	An application and plugin to remotely control Lightroom with a MIDI controller	
+mv-lab/InstructIR	750	MIT	industries	Photographers	[ECCV 2024] InstructIR: High-Quality Image Restoration Following Human Instructions https://huggingface.co/spaces/marcosv/InstructIR	
+sempruijs/coding-with-eyes-closed	35	CC0-1.0	industries	Physiotherapy & Rehab	Book for rehabilitative coders 📚	
+introlab/opentera	25	Apache-2.0	industries	Physiotherapy & Rehab	OpenTera - Open TeleRehabilitation Server and Micro-Services	
+jacobodeharo/ARehab	22	LGPL-3.0	industries	Physiotherapy & Rehab	ARehab is a free software for physical rehab, aided by augmented reality technologies and user tracking systems, such as Microsoft Kinect v2.	
+Prajwal-kp-18/swasthika	13	NONE	industries	Physiotherapy & Rehab	Swasthika is an AI-driven mental health platform offering gamified recovery, personalized care, and therapeutic chat support for conditions like PTSD, addiction, and depression.	
+neural-bit/RehabSystem	11	NONE	industries	Physiotherapy & Rehab	A real-time upper-limb rehabilitation application that uses an Intel RealSense depth camera	
+EyalMaoz/Pinch_Rehabilitation_VR_Personalized_Treatment	9	NONE	industries	Physiotherapy & Rehab	VR Application for personalized pinch rehabilitation, Final project in Software Engineering B.Sc.	
+etherealstarry/rehab-self-learning	9	MIT	industries	Physiotherapy & Rehab	康复专业自学指南 — 参考 CS 自学指南，为康复医学、运动康复、物理治疗等专业提供系统性自学路线图与资源汇总	
+eslamelfateh/react-native-body-parts-anatomy	8	MIT	industries	Physiotherapy & Rehab	Interactive React Native body diagram — 317 individually tappable muscle fragments across 23 muscle groups, male/female × front/back, pinch-zoom, whole-muscle mode, zero native code.	
+dngvmnh/Visolus	8	Apache-2.0	industries	Physiotherapy & Rehab	"Visolus" is a computer vision-based system designed to enhance physical therapy by providing real-time movement tracking, feedback, and voice interaction, improving rehabilitation outcomes through precise motion analysis and automation.	
+TeamRedshifts/posture-pulse-frontend	7	MIT	industries	Physiotherapy & Rehab	PosturePulse is an AI-based physiotherapy assistant that provides real-time feedback and personalized exercise programs to help users improve their posture and alleviate pain. This repository contains the web frontend of the app.	
+scify/TalkAndPlay	7	Apache-2.0	industries	Physiotherapy & Rehab	Talk and Play is a system that allows people with disabilities to communicate, play games, listen to music, watch movies, and train for a quicker rehabilitation.	
+BiRDLab-UMinho/SmartWalkerDatabase	7	MIT	industries	Physiotherapy & Rehab	Scripts to process the Smart Walker Database, for posture and gait analysis.	
+iridescent995/No_wound_v.1.1	6	NONE	industries	Physiotherapy & Rehab	Unity3D - Xbox Kinect based game for physiotherapy exercise.	
+SoroushZare/NeuroFlex	6	NONE	industries	Physiotherapy & Rehab	NeuroFlex: Feasibility of EEG-Based Motor Imagery Control of a Soft Glove for Hand Rehabilitation	
+RaysAndreyRU/rehub-showcase	6	NOASSERTION	industries	Physiotherapy & Rehab	Portfolio-safe engineering showcase for the Rehub rehabilitation platform	
+BafS/Gutenberg	4924	MIT	industries	Print Shops & Screen Printers	Modern framework to print the web correctly.                                               	
+cognitom/paper-css	2588	MIT	industries	Print Shops & Screen Printers	Paper CSS for happy printing	
+pagedjs/pagedjs	1562	MIT	industries	Print Shops & Screen Printers	Display paginated content in the browser and generate print books using web technology	
+jasonday/printThis	1053	MIT	industries	Print Shops & Screen Printers	jQuery printing plugin; print specific elements on a page	
+rstudio/pagedown	926	NOASSERTION	industries	Print Shops & Screen Printers	Paginate the HTML Output of R Markdown with CSS for Print	
+wundergraph/graphql-go-tools	837	MIT	industries	Print Shops & Screen Printers	GraphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more.	
+j-evins/glabels-qt	503	GPL-3.0	industries	Print Shops & Screen Printers	gLabels Label Designer (Qt/C++)	
+balacode/one-file-pdf	480	MIT	industries	Print Shops & Screen Printers	A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.	
+mazenrashed/Printooth	425	MPL-2.0	industries	Print Shops & Screen Printers	A well documented, high-level Android interface that makes printing via bluetooth printers easier	
+pointfreeco/swift-url-routing	414	MIT	industries	Print Shops & Screen Printers	A bidirectional router with more type safety and less fuss.	
+jaredpetersen/codeprinter	318	MIT	industries	Print Shops & Screen Printers	🖨️ Print out code easily	
+mrk-us/sketchsheets	274	MIT	industries	Print Shops & Screen Printers	Free ready to print sketch sheet templates for UX designers	
+Positron3D/Positron	271	NONE	industries	Print Shops & Screen Printers	The Positron Printer	
+dynamicreports/dynamicreports	248	LGPL-3.0	industries	Print Shops & Screen Printers	Java reporting library for creating dynamic report designs at runtime	
+hanlinag/point-of-sale-system	215	MIT	industries	Print Shops & Screen Printers	Point of Sale System written in JAVAFX	
+archtechx/tenancy	4428	MIT	industries	Property Management & Landlords	Automatic multi-tenancy for Laravel. No code changes needed.	
+tenancy/multi-tenant	2604	MIT	industries	Property Management & Landlords	Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant	
+ainilili/ratel	2213	Apache-2.0	industries	Property Management & Landlords	命令行斗地主、德州扑克!	
+projectcapsule/capsule	2213	Apache-2.0	industries	Property Management & Landlords	Multi-tenancy and policy-based framework for Kubernetes.	
+mateaix/matecloud	1710	Apache-2.0	industries	Property Management & Landlords	🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.8、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring AI 2.0.1、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件	
+anlingyi/xechat-idea	805	Apache-2.0	industries	Property Management & Landlords	让你能够在IDEA里实现聊天、下棋、斗地主！	
+orchestral/tenanti	588	MIT	industries	Property Management & Landlords	[Package] Multi-tenant Database Schema Manager for Laravel	
+ateliware/triplex	502	MIT	industries	Property Management & Landlords	Database multitenancy for Elixir applications!	
+go-saas/saas	316	MIT	industries	Property Management & Landlords	go data framework for saas(multi-tenancy)	
+AlexanderC/nestjs-mtenant	152	MIT	industries	Property Management & Landlords	NestJS module to enable deep multitenancy support.	
+blind-oracle/cortex-tenant	141	MPL-2.0	industries	Property Management & Landlords	Prometheus remote write proxy that adds Cortex/Mimir tenant ID based on metric labels	
+dazinator/Dotnettency	110	MIT	industries	Property Management & Landlords	Mutlitenancy for dotnet applications	
+Abbotton/saas-skeleton	83	NONE	industries	Property Management & Landlords	基于Laravel & Dcat Admin构建的SAAS后台脚手架.	
+craftup/node-mongo-tenant	74	MIT	industries	Property Management & Landlords	A multi-tenancy plugin for mongoose with tenant separation on document level. It's completely customizable, provides a neat interface for model-tenant-binding and can be disabled for running in single-tenant/on premis scenarios.	
+rcandidosilva/spring-boot-multitenant	73	NONE	industries	Property Management & Landlords	Spring Boot Multi-tenant Sample	
+OneBusAway/onebusaway-application-modules	242	NOASSERTION	industries	Public Transit & Mobility	The core OneBusAway application suite.	
+BlinkTagInc/gtfs-to-html	229	MIT	industries	Public Transit & Mobility	Build human readable transit timetables as HTML or PDF from GTFS.	
+mbta/api	138	MIT	industries	Public Transit & Mobility	V3 MBTA API	
+lzear/ubahnchen	93	NONE	industries	Public Transit & Mobility	Berlin subway map, animated	
+aubryio/minotor	82	MIT	industries	Public Transit & Mobility	A lightweight client-side transit routing library implementing RAPTOR.	
+croma-labs/transmilenio-live	59	MIT	industries	Public Transit & Mobility	Every TransMilenio bus in Bogotá, moving on one live map. Built on the Croma API.	
+neoterix/nyc-mta-arrival-notify	51	MIT	industries	Public Transit & Mobility	A basic python script that reads the NYC MTA realtime feed API for subway data and outputs when the next arrival is for a given station. 	
+ResidentMario/gtfs-tripify	46	MIT	industries	Public Transit & Mobility	Turn GTFS-RT transit updates into historical arrival data.	
+clemensv/real-time-sources	44	NOASSERTION	industries	Public Transit & Mobility	Real Time Sources for Apache Kafka, Azure Event Hubs, and Fabric Event Streams	
+kona314/transit-fedilerts	42	NONE	industries	Public Transit & Mobility	ActivityPub-compliant server for distributing transit service alerts	
+gaetschwartz/swift_travel	39	MIT	industries	Public Transit & Mobility	An open-source pubic transport app 🚌🚉	
+bcpearce/homeassistant-gtfs-realtime	36	MIT	industries	Public Transit & Mobility	GTFS Realtime Transit Arrivals for Home Assistant	
+BlinkTagInc/transit-departures-widget	33	MIT	industries	Public Transit & Mobility	Build a realtime transit departures widget from GTFS and GTFS-Realtime data.	
+roma8ok/cyprus-bus	28	NONE	industries	Public Transit & Mobility	Real-Time Cyprus Bus Tracking Application	
+emma-k-alexandra/GTFS	27	MIT	industries	Public Transit & Mobility	GTFS and GTFS-RT structures for Swift	
+OpenGene/fastp	2460	MIT	industries	Quality Control & Compliance	An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)	
+VladislavEremeev/QA_bible	2107	GPL-3.0	industries	Quality Control & Compliance	“Библия QA” - это обновляемая база знаний объемом 560+ страниц	
+MultiQC/MultiQC	1499	GPL-3.0	industries	Quality Control & Compliance	Aggregate results from bioinformatics analyses across many samples into a single report.	
+rohaquinlop/complexipy	905	MIT	industries	Quality Control & Compliance	Blazingly fast cognitive complexity analysis for Python, written in Rust.	
+peakoss/anti-slop	855	AGPL-3.0	industries	Quality Control & Compliance	A GitHub action that detects and automatically closes low-quality and AI slop PRs.	
+bavc/qctools	391	NOASSERTION	industries	Quality Control & Compliance	QCTools (Quality Control Tools for Video Preservation) is a free and open source software tool that helps users analyze and understand their digitized video files through use of audiovisual analytics and filtering. QCTools is funded by the National Endowment f	
+nipreps/mriqc	383	Apache-2.0	industries	Quality Control & Compliance	Automated Quality Control and visual reports for Quality Assessment of structural (T1w, T2w) and functional MRI of the brain	
+code-pushup/cli	346	MIT	industries	Quality Control & Compliance	A CLI to run all kinds of code quality measurements to align your team with company goals	
+Julie-Fabre/bombcell	257	GPL-3.0	industries	Quality Control & Compliance	Automated quality control, curation and neuron classification of spike-sorted electrophysiology data. Available in MATLAB and in Python.	
+Toloka/crowd-kit	255	NOASSERTION	industries	Quality Control & Compliance	Control the quality of your labeled data with the Python tools you already know.	
+DRL/blobtools	218	GPL-3.0	industries	Quality Control & Compliance	Modular command-line solution for visualisation, quality control and taxonomic partitioning of genome datasets	
+OpenGene/AfterQC	214	MIT	industries	Quality Control & Compliance	Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data	
+afni/afni	196	NOASSERTION	industries	Quality Control & Compliance	Official AFNI source and documentation	
+JoniColeman/gwas_scripts	195	MIT	industries	Quality Control & Compliance	Codebook from my GWAS cookbook	
+exussum12/coverageChecker	175	MIT	industries	Quality Control & Compliance	Allows old code to use new standards	
+gpac/gpac	3324	LGPL-2.1	industries	Radio Stations & Local Media	GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery	
+zerodytrash/TikTok-Live-Connector	2286	AGPL-3.0	industries	Radio Stations & Local Media	TikTok LIVE API for Node.js: An unofficial library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.	
+pubkey/broadcast-channel	2001	MIT	industries	Radio Stations & Local Media	:satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels  https://pubkey.github.io/broadcast-channel/	
+jonhoo/bus	846	Apache-2.0	industries	Radio Stations & Local Media	Efficient, lock-free, bounded Rust broadcast channel	
+tingxins/TXScrollLabelView	717	MIT	industries	Radio Stations & Local Media	🌭TXScrollLabelView, the best way to show & display information such as adverts / boardcast / onsale e.g. with a customView.	
+devhotteok/TwitchLink	703	MIT	industries	Radio Stations & Local Media	Twitch Stream & Video & Clip Downloader/Recorder. This GUI downloader helps you download and record Twitch videos, including broadcasts and VODs.	
+vbence/stream-m	698	MIT	industries	Radio Stations & Local Media	An HTML5-compatible live streaming server supporting the WebM and H.264 formats.	
+PetterKraabol/Twitch-Chat-Downloader	651	MIT	industries	Radio Stations & Local Media	Download chat messages from past broadcasts on Twitch	
+ffplayout/ffplayout	598	GPL-3.0	industries	Radio Stations & Local Media	Rust and ffmpeg based playout 	
+permitio/fastapi_websocket_pubsub	593	MIT	industries	Radio Stations & Local Media	A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub ==  ⚡ 💪 ❤️	
+dvingerh/PyInstaLive	554	MIT	industries	Radio Stations & Local Media	Python script to download Instagram livestreams.	
+clockworksoul/smudge	464	Apache-2.0	industries	Radio Stations & Local Media	A lightweight library that provides group member discovery, status dissemination, and failure detection using the SWIM epidemic protocol.	
+Sofie-Automation/Sofie-TV-automation	438	MIT	industries	Radio Stations & Local Media	The Sofie TV Studio Automation System, used in live TV news production by the Norwegian public service broadcaster NRK since September 2018	
+EXP-Tools/threat-broadcast	414	GPL-3.0	industries	Radio Stations & Local Media	威胁情报播报	
+alsmith/multicast-relay	363	GPL-3.0	industries	Radio Stations & Local Media	Relay multicast and broadcast packets between interfaces.	
+openmls/openmls	1064	MIT	industries	Real Estate Agents	Rust implementation of the Messaging Layer Security (MLS) protocol	
+Offline-Protocol/offline-protocol-sdk	147	AGPL-3.0	industries	Real Estate Agents	Transport and coordination layer for the disconnected edge. Build apps, agents, and devices that discover peers, communicate securely, and coordinate across BLE, Wi-Fi Direct, internet, Reticulum, and Nostr.	
+ortuman/narwhal	134	BSD-3-Clause	industries	Real Estate Agents	An extensible message broker for edge applications	
+LukaJCB/ts-mls	111	MIT	industries	Real Estate Agents	A Messaging Layer Security (RFC 9420, MLS) implementation in TypeScript 	
+Snazzah/davey	75	MIT	industries	Real Estate Agents	Discord DAVE implementation in Rust	
+summera/retscli	55	MIT	industries	Real Estate Agents	CLI for querying RETS servers and searching metadata.	
+tylercollier/openresync	54	MIT	industries	Real Estate Agents	Open Real Estate Sync (openresync) is a node application that syncs (replicates) MLS data from one or more sources via the RESO Web API to MySQL or Solr, with an admin UI.	
+phax/peppol-commons	51	Apache-2.0	industries	Real Estate Agents	Java library with shared Peppol components - identifier handling, codelists, SBDH handler, SMP Client, SML Client, MLR handler, MLS handler	
+qntx-labs/xmtp	39	Apache-2.0	industries	Real Estate Agents	Safe, ergonomic Rust client SDK for the XMTP messaging protocol.	
+thomas-vilte/mls-go	33	MIT	industries	Real Estate Agents	MLS Protocol (RFC 9420) implementation in Go. Secure group key exchange with forward secrecy and post-compromise security for E2EE messaging.	
+codebydant/upsamplingCloudPCL	32	NONE	industries	Real Estate Agents	Upsampling method for an input cloud using mls method of PCL	
+tdaylan/NoiseScope	30	MIT	industries	Real Estate Agents	A control instrument for handshake state machines - lint protocol models, replay transcripts, and fly deterministic mutations until a trace diverges.	
+ronnyandersson/zignal	25	MIT	industries	Real Estate Agents	Python audio signal processing library	
+cjchika/realtor	23	NONE	industries	Real Estate Agents	Real Estate Website Built With ReactJs and Tailwindcss: Features - Property Listing, Property Details, Testimonial, FAQs, Blogs | Populates data from Open Source Real Estate API	
+nvk/agentnoise	22	MIT	industries	Real Estate Agents	Chat with local coding agents through White Noise. agentnoise is a native desktop helper for using a phone running White Noise as the control surface for local Codex and Claude sessions. It is intentionally Rust-first and keeps Node/npm/bun out of the trusted 	
+HarborConductor/easy-worship	215	NONE	industries	Religious Organizations	Easy Worship 2024 pre-configured environment for professional desktop software utility configuration.	
+madfish-solutions/templewallet-extension	206	MIT	industries	Religious Organizations	🔐💰Seamless and secure multichain wallet for Tezos & EVM blockchains as Web extension for your Browser.	
+abdessamadbettal/Falah	161	MIT	industries	Religious Organizations	Open-source Islamic tools. Quran, Hadith, Prayer Times, Qibla finder, Tafseer, Zakat & Inheritance calculators, and more. 100% client-side, no ads, and built as Sadaqah Jariyah.	
+Sapphirekocheer/easy-worship	107	NONE	industries	Religious Organizations	Easy Worship 2023 automated deployment pipeline ready for immediate professional desktop software utility configuration.	
+squareswimmeryell/Easy-Worship	97	NONE	industries	Religious Organizations	Easy Worship 2025: Full working installer for professional desktop software utility configuration, ready to run out of the box.	
+V0ID240/easy-worship-desktop	33	NONE	industries	Religious Organizations	Easy-Worship: Standalone Desktop Presentation Suite for Worship Services	
+umarsheikh13/elmtimes	28	MIT	industries	Religious Organizations	ELM Times - Single Page Prayer Times Web App	
+sufone/layl	23	AGPL-3.0	industries	Religious Organizations	🌙 Calculator for tahajjud, qiyam, and worship & sleep in an Islamic night!	
+barypia/barymusic	22	GPL-3.0	industries	Religious Organizations	Web app for managing songs and showing live lyrics on external screens.	
+talhahasanzia/MasjidLocator	20	NONE	industries	Religious Organizations	Nearest mosques locator using Google Map Services API, Places API library.	
+Kiwifu/adhan-mp3	16	NONE	industries	Religious Organizations	200+ Adhan (Azan / Athan) MP3 recordings from renowned muezzins and iconic mosques worldwide. Free for Islamic apps, prayer-time software, and personal use.	
+madfish-solutions/templewallet-dapp	16	MIT	industries	Religious Organizations	👾 This module is required to provide communication between DApps and Temple Wallet	
+reckel-jm/cantara	16	GPL-3.0	industries	Religious Organizations	Open Source Simple Song Presentation Software	
+studio-liturgy/acts2-phyto	15	GPL-3.0	industries	Religious Organizations	phyto is a free, open source presentation tool built for small home worship gatherings.	
+joeycortez42/worship	13	NONE	industries	Religious Organizations	Worship Songs in ChordPro format.	
+microsoft/qlib	50098	MIT	industries	Research & Surveys	Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL,	
+google-research/google-research	39125	Apache-2.0	industries	Research & Surveys	Google Research	
+dzhng/deep-research	19877	MIT	industries	Research & Surveys	An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent	
+microsoft/RD-Agent	15270	MIT	industries	Research & Surveys	Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes throu	
+majd/ipatool	12194	MIT	industries	Research & Surveys	Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.	
+bytedance/UI-TARS	11683	Apache-2.0	industries	Research & Surveys	Pioneering Automated GUI Interaction with Native Agents	
+Companion-Inc/feynman	10087	MIT	industries	Research & Surveys	The open source AI research agent.	
+hoochanlon/hamuleite	10064	NONE	industries	Research & Surveys	🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor & Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡从小学到高中以及大学学科教科书；金融板块则聚合香橼、摩根、野村等顶级机构的深度研报，只为打破信息孤岛，构建知识平权普惠知识库。	
+zmap/zmap	6424	Apache-2.0	industries	Research & Surveys	ZMap is a fast single packet network scanner designed for Internet-wide network surveys.	
+bytedance/LatentSync	6255	Apache-2.0	industries	Research & Surveys	Taming Stable Diffusion for Lip Sync!	
+TideDra/zotero-arxiv-daily	6132	AGPL-3.0	industries	Research & Surveys	Recommend new arxiv papers of your interest daily according to your Zotero libarary.	
+bytedance/MegaTTS3	6114	Apache-2.0	industries	Research & Surveys		
+hudson-and-thames/mlfinlab	4969	NOASSERTION	industries	Research & Surveys	MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools. 	
+jordan-gibbs/hyperresearch	4435	MIT	industries	Research & Surveys	Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP: hyperresearch.ai	
+synthetic-sciences/openscience	4353	Apache-2.0	industries	Research & Surveys	The open-source AI workbench for scientific research	
+google-deepmind/acme	4084	Apache-2.0	industries	Research & Surveys	A library of reinforcement learning components and agents	
+google-research/scenic	3847	Apache-2.0	industries	Research & Surveys	Scenic: A Jax Library for Computer Vision Research and Beyond	
+Yalantis/StarWars.iOS	3758	MIT	industries	Research & Surveys	This component implements transition animation to crumble view-controller into tiny pieces.	
+AIScientists-Dev/academic-humanizer	3700	NOASSERTION	industries	Research & Surveys	Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.	
+secdr/research-method	3420	NONE	industries	Research & Surveys	论文写作与资料分享	
+blazickjp/arxiv-mcp-server	3258	Apache-2.0	industries	Research & Surveys	A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional.	
+theseus-os/Theseus	3225	MIT	industries	Research & Surveys	Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like 	
+huangwb8/ChineseResearchLaTeX	3026	MIT	industries	Research & Surveys	中国科研常用LaTeX模板集	
+AakashKumarNain/annotated_research_papers	2805	MIT	industries	Research & Surveys	This repo contains annotated research papers that I found really good and useful	
+dvorka/mindforger	2725	GPL-2.0	industries	Research & Surveys	Thinking notebook and Markdown editor.	
+pxvr-official/1	557	NONE	industries	Restaurants & Food Trucks	無許諾配信 企業理念剽窃 動物の森収益化 大神ミオ権利者削除 戌神権利侵害発言 常闇トワ炎上 夜空メルストーカー被害 建築王サポーター放置 赤十字マーク 魔乃アロエ卒業 一つの中國支持声明 大空昴3Dライブ 無限延期清掃員職業差別 日清コラボ楽曲 musedash非公開 rog案件取り消し 壁画ライブ 丁真 Ding Zhen 郑爽 Zheng Shuang 防护林 与朵小天使w 伊月猫凛 本主萌埋午休傻 汪峰 重生细胞 壁纸 比利海灵顿 香蕉君 van 田所浩二 抽象带篮子 抗压背锅吧 季子越 蒋明辉 傻逼 脑残	
+prakhar1989/FoodTrucks	438	NONE	industries	Restaurants & Food Trucks	:truck: San Francisco's finger-licking street food now at your fingertips.	
+aster94/Keyword-Protocol-2000	328	GPL-3.0	industries	Restaurants & Food Trucks	The KWP2000 is a communications protocol used for on-board vehicle diagnostics systems (OBD) by Suzuki (SDS), Kawasaki (KDS), Yamaha (YDS), Honda (HDS) and possibly more. It is standardized by ISO 14230	
+DavidCBerry13/FoodTruckNationApi	73	MIT	industries	Restaurants & Food Trucks	A demonstration project showing practices for writing enterprise grade api's in ASP.NET Core	
+yanchummar/FlipTable	72	NONE	industries	Restaurants & Food Trucks	A Restaurant Table Reservation App	
+CosmiX-6/FoodPlaza	56	NONE	industries	Restaurants & Food Trucks	An online food ordering system with well structured storage  of customer, food, cart, bill data. The data can be easily fetched manipulated according to permission for the user. 	
+nilesh-kawar/Online-Food-Ordering-System	50	NONE	industries	Restaurants & Food Trucks	Through the use of this website, one can order food from restaurants and the order is delivered to the specified location	
+codergogoi/Food_Order_Backend	41	NONE	industries	Restaurants & Food Trucks	Food Order Backend on NodeJS. A portion of the project to demonstrate how things are working on Backend to support a Food Order App.	
+ravindu2012/retail-smart-erp	28	GPL-3.0	industries	Restaurants & Food Trucks	Multi-tenant SaaS Point of Sale system - Retail, Restaurant, Supermarket, Auto Service & Dealership	
+openshiporg/openfront-restaurant	27	MIT	industries	Restaurants & Food Trucks	Open source Toast alternative built on Next.js and Keystone.js	
+phatnhse/SampleFoodTruckJC	27	NONE	industries	Restaurants & Food Trucks	Clone version from sample-food-truck, written in Comose UIs. No additional dependencies, built purely with Jetpack libraries. Custom layout and animation focused. 	

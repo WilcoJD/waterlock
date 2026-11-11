@@ -1,0 +1,380 @@
+terremoth/js-church-encoding	37	GPL-3.0	business	Church Management	Church Encoding Implementation in JavaScript	
+meichthys/churchit	34	MIT-0	business	Church Management	A free and comprehensive church management application	
+corpus-christi/corpus-christi	32	MIT	business	Church Management	Church management suite, open source, fully internationalized	
+lifestonechurch/lifestonechurch.net	31	MIT	business	Church Management	Website for Lifestone Church in Riverton, Utah.	
+ChurchApps/B1App	31	MIT	business	Church Management	The public facing output of the church website builder	
+CISOfy/lynis	16652	GPL-3.0	business	Compliance & Audit (GRC)	Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.	
+prowler-cloud/prowler	15187	Apache-2.0	business	Compliance & Audit (GRC)	This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for Humans and AI Agents.	
+open-policy-agent/opa	12445	Apache-2.0	business	Compliance & Audit (GRC)	Open Policy Agent (OPA) is an open source, general-purpose policy engine.	
+codenotary/immudb	9048	NOASSERTION	business	Compliance & Audit (GRC)	immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history	
+kyverno/kyverno	8323	Apache-2.0	business	Compliance & Audit (GRC)	Unified Policy as Code	
+microsoft/agent-governance-toolkit	6534	MIT	business	Compliance & Audit (GRC)	AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.	
+ossec/ossec-hids	5069	GPL-2.0	business	Compliance & Audit (GRC)	OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.	
+HotCakeX/Harden-Windows-Security	4833	MIT	business	Compliance & Audit (GRC)	Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLS	
+intuitem/ciso-assistant-community	4593	NOASSERTION	business	Compliance & Audit (GRC)	CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA	
+yannh/kubeconform	3248	Apache-2.0	business	Compliance & Audit (GRC)	A FAST Kubernetes manifests validator, with support for Custom Resources!	
+inspec/inspec	3102	NOASSERTION	business	Compliance & Audit (GRC)	InSpec: Auditing and Testing Framework	
+ComplianceAsCode/content	2835	NOASSERTION	business	Compliance & Audit (GRC)	Security automation content in SCAP, Bash, Ansible, and other formats	
+Bearer/bearer	2785	NOASSERTION	business	Compliance & Audit (GRC)	Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.	
+0x6d69636b/windows_hardening	2673	MIT	business	Compliance & Audit (GRC)	HardeningKitty and Windows Hardening Settings	
+usnistgov/macos_security	2522	NOASSERTION	business	Compliance & Audit (GRC)	macOS Security Compliance Project	
+RevylAI/greenlight	2466	MIT	business	Compliance & Audit (GRC)	Pre-submission compliance scanner for the Apple App Store and Google Play. Scans code, privacy manifests, Android manifests, and IPA/APK/AAB binaries against the review guidelines. Offline, no account.	
+ballerine-io/ballerine	2451	NOASSERTION	business	Compliance & Audit (GRC)	Open-source infrastructure and data orchestration platform for risk decisioning	
+oss-review-toolkit/ort	2117	Apache-2.0	business	Compliance & Audit (GRC)	A suite of tools to automate software compliance checks.	
+trycompai/comp	2086	AGPL-3.0	business	Compliance & Audit (GRC)	AI Native platform to get companies compliant - Vanta & Drata Alternative	
+ESCOMP/CTSM	357	NOASSERTION	business	Contracts & CLM	Community Terrestrial Systems Model (includes the Community Land Model of CESM)	
+wraft/wraft	168	AGPL-3.0	business	Contracts & CLM	Wraft is an open-source Document Lifecycle Management platform. 	
+menpo/menpofit	132	NOASSERTION	business	Contracts & CLM	Menpo's 2D deformable modelling toolkit (AAMs/CLMs/SDMs)	
+mdedwards/slippery-chicken	81	NONE	business	Contracts & CLM	slippery chicken: algorithmic composition software in common lisp and clos	
+devopsgroup-io/veeva	49	MPL-2.0	business	Contracts & CLM	:wrench: Veeva CLM Generator & Workflow for building iRep Presentations.	
+codotech/contractual	38	MIT	business	Contracts & CLM	Schema contract lifecycle CLI and GitHub Action for OpenAPI and JSON Schema	
+arunbalajiraju-proc/procurement-ai-assistant	20	MIT	business	Contracts & CLM	An open library of reusable AI skills for procurement, sourcing, contracting and supplier management.	
+AniketTati/draft-legal	20	NOASSERTION	business	Contracts & CLM	The open-source alternative to Ironclad + Harvey. Self-hosted, AI-native contract lifecycle management — your contracts never leave your servers.	
+lightpanda-io/browser	41546	AGPL-3.0	business	Customer Data Platform	Lightpanda: the headless browser designed for AI and automation	
+h4ckf0r0day/obscura	30505	Apache-2.0	business	Customer Data Platform	The headless browser for AI agents and web scraping	
+browserbase/stagehand	25979	MIT	business	Customer Data Platform	The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.	
+browser-use/browser-harness	18925	MIT	business	Customer Data Platform	Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.	
+nanobrowser/nanobrowser	14256	Apache-2.0	business	Customer Data Platform	Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.	
+seleniumbase/SeleniumBase	13231	MIT	business	Customer Data Platform	Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.	
+pinchtab/pinchtab	10561	MIT	business	Customer Data Platform	High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.	
+go-rod/rod	7146	MIT	business	Customer Data Platform	A Chrome DevTools Protocol driver for web automation and scraping.	
+autoscrape-labs/pydoll	7133	MIT	business	Customer Data Platform	Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. 	
+linuxfoundation/crowd.dev	3371	Apache-2.0	business	Customer Data Platform	LFX Community Data Platform (CDP)	
+zhizhuodemao/js-reverse-mcp	3051	Apache-2.0	business	Customer Data Platform	AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。	
+Multiwoven/multiwoven	1685	AGPL-3.0	business	Customer Data Platform	🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census. 	
+zinggAI/zingg	1266	AGPL-3.0	business	Customer Data Platform	Scalable master data management, identity resolution, entity resolution, and deduplication using ML	
+browser-use/macos-harness	1009	MIT	business	Customer Data Platform	The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.	
+Skyvern-AI/rustwright	943	MIT	business	Customer Data Platform	Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver subprocess. (Alpha)	
+ardera/flutter-pi	2010	MIT	business	Digital Signage	A light-weight Flutter Engine Embedder for Linux Embedded that runs without X11 or Wayland.	
+xibosignage/xibo	744	AGPL-3.0	business	Digital Signage	Xibo Digital Signage	
+RushB-fr/freekiosk	719	MIT	business	Digital Signage	FreeKiosk - Open-Source Android Kiosk Mode & Tablet Lockdown App for Digital Signage, Dashboards, POS & Single-Purpose Devices. Free Alternative to Fully Kiosk	
+debloper/xiosk	348	MPL-2.0	business	Digital Signage	One-shot kiosk mode setup for shuffling webpages, with a management web UI.	
+nktnet1/webview-kiosk	299	AGPL-3.0	business	Digital Signage	Turn your Android device into a locked-down web page in fullscreen mode.	
+screentinker/screentinker	254	MIT	business	Digital Signage	Open-source digital signage management software. Control content on TVs, displays, and kiosks from anywhere.	
+SpeakingOfBrad/BIGWORDS.PAGE	197	MIT	business	Digital Signage	Full-screen text for any screen. The message lives in the URL, so there's no backend, accounts or storage.	
+dakboard/DAKboard	186	NONE	business	Digital Signage	Feature requests, enhancements and anything you'd like to see in DAKboard!	
+SHINING-TECH/EasyDisplayClient	168	NONE	business	Digital Signage	EasyDisplay is designed for easy content management and reliable display on various screens.   For usage details and updates, please see the README.	
+garlic-signage/garlic-hub	151	AGPL-3.0	business	Digital Signage	Digital Signage Software - Device and Content Management (CMS)	
+garlic-signage/garlic-player	150	AGPL-3.0	business	Digital Signage	Digital Signage Software - Media Player  based on SMIL	
+mrothenbuecher/Chromecast-Kiosk	111	MIT	business	Digital Signage	A open source software to create a digital signage system with google chromecasts. 	
+screenlite/android-web-kiosk	108	MIT	business	Digital Signage		
+home-screens/home-screens	101	MIT	business	Digital Signage	A custom, configurable drag-and-drop smart display system 	
+yuzawa-san/googolplex-theater	94	MIT	business	Digital Signage	Persistently maintain multiple Chromecasts as digital signage without a browser.	
+storytold/pdfcraft	19882	Apache-2.0	business	Document Generation & Automation	PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust	
+alam00000/bentopdf	16298	AGPL-3.0	business	Document Generation & Automation	The Privacy First PDF Toolkit	
+wmjordan/PDFPatcher	12762	NONE	business	Document Generation & Automation	PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等	
+dompdf/dompdf	11208	LGPL-2.1	business	Document Generation & Automation	HTML to PDF converter for PHP	
+Wandmalfarbe/pandoc-latex-template	7302	BSD-3-Clause	business	Document Generation & Automation	A pandoc LaTeX template to convert markdown files to PDF or LaTeX.	
+pdfme/pdfme	5019	MIT	business	Document Generation & Automation	Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both browser and Node.js environments.	
+eKoopmans/html2pdf.js	4934	MIT	business	Document Generation & Automation	Client-side HTML-to-PDF rendering using pure JS.	
+tecnickcom/TCPDF	4524	NOASSERTION	business	Document Generation & Automation	Deprecated: PHP PDF library, superseded by tc-lib-pdf (https://github.com/tecnickcom/tc-lib-pdf)	
+jonaslejon/malicious-pdf	4518	BSD-2-Clause	business	Document Generation & Automation	💀 Generate malicious PDF test files for testing phone-home callbacks, SSRF, XSS, NTLM credential theft, and data exfiltration in PDF viewers, converters, and web applications. Can be used with Burp Collaborator or Interact.sh	
+KnpLabs/snappy	4473	MIT	business	Document Generation & Automation	PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage	
+LibrePDF/OpenPDF	4388	NOASSERTION	business	Document Generation & Automation	OpenPDF is an open-source Java library for creating, editing, rendering, and encrypting PDF documents, as well as generating PDFs from HTML. It is licensed under the LGPL and MPL.	
+saadq/resumake.io	3589	NONE	business	Document Generation & Automation	📝 A website for automatically generating elegant LaTeX resumes.	
+borb-pdf/borb	3583	NOASSERTION	business	Document Generation & Automation	borb is a library for reading, creating and manipulating PDF files in python.	
+kane50613/takumi	3181	Apache-2.0	business	Document Generation & Automation	One layout engine for JSX, HTML, and CSS. Render images, SVG, PDFs, or a paint tree. No headless browser.	
+unidoc/unipdf	3134	NOASSERTION	business	Document Generation & Automation	Golang PDF library for creating and processing PDF files (pure go)	
+FastReports/FastReport	3104	MIT	business	Document Generation & Automation	Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports	
+shadcn-labs/pdfcn	3008	MIT	business	Document Generation & Automation	Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.	
+alanshaw/markdown-pdf	2882	MIT	business	Document Generation & Automation	 :page_facing_up: Markdown to PDF converter	
+pikepdf/pikepdf	2818	MPL-2.0	business	Document Generation & Automation	A Python library for reading and writing PDF, powered by QPDF	
+esbenp/pdf-bot	2635	MIT	business	Document Generation & Automation	🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs	
+UglyToad/PdfPig	2615	Apache-2.0	business	Document Generation & Automation	Read and extract text and other content from PDFs in C# (port of PDFBox)	
+RyotaUshio/obsidian-pdf-plus	2527	MIT	business	Document Generation & Automation	PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.	
+xhtml2pdf/xhtml2pdf	2399	Apache-2.0	business	Document Generation & Automation	A library for converting HTML into PDFs using ReportLab	
+danfickle/openhtmltopdf	2203	NOASSERTION	business	Document Generation & Automation	An HTML to PDF library for the JVM. Based on Flying Saucer and Apache PDF-BOX 2. With SVG image support. Now also with accessible PDF support (WCAG, Section 508, PDF/UA)!	
+carboneio/carbone	2140	NOASSERTION	business	Document Generation & Automation	Fast and simple report generator, from JSON to pdf, xslx, docx, odt...	
+clusterzx/paperless-ai	5990	MIT	business	Document Management	An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.	
+phachon/mm-wiki	3781	MIT	business	Document Management	MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。	
+zmister2016/MrDoc	3248	GPL-3.0	business	Document Management	mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、AI知识库系统。	
+tfeldmann/organize	3187	MIT	business	Document Management	The file management automation tool.	
+icereed/paperless-gpt	2820	MIT	business	Document Management	Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI	
+astubenbord/paperless-mobile	1500	GPL-3.0	business	Document Management	An (almost) fully fledged mobile paperless client.	
+readur/readur	813	MIT	business	Document Management	Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.	
+papermerge/papermerge-core	552	Apache-2.0	business	Document Management	Papermerge OSS	
+mrikirill/SynologyDDNSCloudflareMultidomain	538	MIT	business	Document Management	Synology DDNS Cloudflare service provider with multidomains and subdomains	
+workhold/doca	534	MIT	business	Document Management	Doca｜开源文档管理与知识库，支持多人协同编辑、在线文档、Markdown、表格、幻灯片、画布和 AI 助手。Self-hosted document management, knowledge base & real-time collaborative editing for individuals and small teams.	
+suitenumerique/drive	481	MIT	business	Document Management	A collaborative file sharing and document management platform that scales. Built with Django and React.	
+jonashellmann/everydocs-core	428	GPL-3.0	business	Document Management	A simple Document Management System for private use with basic functionality to organize your documents digitally	
+mkucej/i-librarian-free	357	GPL-3.0	business	Document Management	I, Librarian - open-source version of  a PDF managing SaaS.	
+darrenldl/docfd	293	MIT	business	Document Management	TUI multiline fuzzy document finder	
+jiisanda/docflow	287	MIT	business	Document Management	DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more.	
+nakov/Practical-Cryptography-for-Developers-Book	3843	MIT	business	E-Signature	Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA	
+itext/itext-java	2262	NOASSERTION	business	E-Signature	iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF docum	
+itext/itext-dotnet	1942	NOASSERTION	business	E-Signature	iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, 	
+LibPDF-js/core	1849	MIT	business	E-Signature	A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.	
+WeBankBlockchain/WeIdentity	1153	Apache-2.0	business	E-Signature	基于区块链的符合W3C DID和Verifiable Credential规范的分布式身份解决方案	
+paragonie/halite	1153	MPL-2.0	business	E-Signature	High-level cryptography interface powered by libsodium	
+esig/dss	1047	LGPL-2.1	business	E-Signature	Digital Signature Service : creation, extension and validation of advanced electronic signatures	
+vbuch/node-signpdf	942	MIT	business	E-Signature	Simple signing of PDFs in node.	
+MatthiasValvekens/pyHanko	797	MIT	business	E-Signature	pyHanko: sign and stamp PDF files	
+saturneric/GpgFrontend	796	GPL-3.0	business	E-Signature	A modern, cross-platform OpenPGP tool with a unique dual-engine core: switch freely between the battle-tested GnuPG and a modern, memory-safe Rust rPGP backend. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy wo	
+pq-crystals/dilithium	617	NOASSERTION	business	E-Signature		
+mratsim/constantine	502	NOASSERTION	business	E-Signature	Constantine: modular, high-performance, zero-dependency  cryptography stack for verifiable computation, proof systems and blockchain protocols.	
+intoolswetrust/jsignpdf	486	NOASSERTION	business	E-Signature	Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.	
+letsseal/letsseal	379	Apache-2.0	business	E-Signature	The open standard for proving any file is real, unaltered and sealed	
+AntonKueltz/fastecdsa	288	Unlicense	business	E-Signature	Python library for fast elliptic curve crypto	
+jishenghua/jshERP	4687	Apache-2.0	business	ERP	管伊佳ERP（原名华夏ERP）基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。	
+superglue-ai/superglue	2070	NOASSERTION	business	ERP	superglue's AI agents connect, migrate and implement enterprise systems. Cloud-hosted or on your own infrastructure.	
+OCA/web	1245	AGPL-3.0	business	ERP	Odoo web client UI related addons	
+odoo/docker	1222	NOASSERTION	business	ERP		
+puemos/craftplan	1156	AGPL-3.0	business	ERP	Self-hosted software for managing artisanal D2C micro-businesses	
+OCA/server-tools	966	AGPL-3.0	business	ERP	Tools for Odoo Administrators to improve some technical features on Odoo.	
+abap2xlsx/abap2xlsx	884	Apache-2.0	business	ERP	Generate your professional Excel spreadsheet from ABAP	
+inoerp/inoERP	845	MPL-2.0	business	ERP	inoERP is an OneApp [ Go back-end & Flutter front-end ] based enterprise management system	
+weizhiqiang1995/erp-pro	656	MIT	business	ERP	Skyeye云零代码，采用Springboot + UNI-APP + Ant Design Vue的框架的快速开发平台。包含50多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas等功能。打造全网首套零代码、功能最全、价格最优惠的智能制造行业供应链一体化管理软件。	
+youyingxiang/Discover	629	MIT	business	ERP	Discover 是一个基于 Dcat-admin 开发的进销存系统	
+Forceu/barcodebuddy	613	AGPL-3.0	business	ERP	Barcode system for Grocy	
+OCA/l10n-spain	603	AGPL-3.0	business	ERP	Odoo Spain Localization	
+earthians/marley	558	GPL-3.0	business	ERP	Open Source, Enterprise and Modern Health Information System	
+thiagopena/djangoSIGE	470	MIT	business	ERP	Sistema Integrado de Gestão Empresarial baseado em Django	
+hexya-erp/hexya	463	Apache-2.0	business	ERP	Hexya business application development framework	
+coreyhaines31/marketingskills	59010	MIT	business	Email Marketing	Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.	
+leemunroe/responsive-html-email-template	13710	MIT	business	Email Marketing	A free simple responsive HTML email template	
+unlayer/react-email-editor	5255	MIT	business	Email Marketing	Drag-n-Drop Email Editor Component for React.js	
+aaron-he-zhu/aaron-marketing-skills	3093	Apache-2.0	business	Email Marketing	120 marketing skills as an AI marketing staff — plugin, portable skills, or an 8-bot team across 7 disciplines (narrative, SEO/GEO, social, email, paid, influencer, launch) on one contract, with 8 auditor gates: TALE · CORE-EEAT · CITE · ECHO · SEND · ROAS · S	
+zubair-trabzada/ai-marketing-claude	2870	MIT	business	Email Marketing	AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports.	
+maizzle/maizzle	2860	NONE	business	Email Marketing	The modern email development framework.	
+voidlabs/mosaico	1782	GPL-3.0	business	Email Marketing	Mosaico - Responsive Email Template Editor	
+usewaypoint/email-builder-js	1779	MIT	business	Email Marketing	A free and open-source block-based email template builder.	
+KatrielMoses/MailAccess	1757	MIT	business	Email Marketing	Free email OSINT tool, 5000+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess	
+marclou/mailcheap	1654	AGPL-3.0	business	Email Marketing	Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.	
+maizzle/framework	1623	MIT	business	Email Marketing	The modern email development framework.	
+ColorlibHQ/email-templates	1248	MIT	business	Email Marketing	Free HTML email templates for Mailchimp and other emails services	
+LeoYeAI/openclaw-marketing-skills	1054	NOASSERTION	business	Email Marketing	33 battle-tested marketing skills for OpenClaw agents — Powered by MyClaw.ai	
+warmbly/warmbly	969	Apache-2.0	business	Email Marketing	The largest open-source B2B cold outreach and email warmup service.	
+hteumeuleu/caniemail	950	MIT	business	Email Marketing	Can I email… Support tables for HTML and CSS in emails.	
+erxes/erxes	4113	NOASSERTION	business	Employee Engagement & Intranet	Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more.	
+tmoonlight/NSmartProxy	1390	MIT	business	Employee Engagement & Intranet	NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)	
+AabyssZG/FindEverything	368	MIT	business	Employee Engagement & Intranet	内网渗透过程中搜寻指定文件内容，从而找到突破口的一个小工具	
+matomo-org/matomo-for-wordpress	142	GPL-3.0	business	Employee Engagement & Intranet	Matomo is hiring! Join us → https://matomo.org/jobs Get a fully functioning Matomo Analytics for your WordPress. Star us on Github? ⭐️ Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Privacy is built-in. 1	
+tjcsl/ion	114	GPL-2.0	business	Employee Engagement & Intranet	TJ Intranet 3	
+Stooa/Stooa	69	MPL-2.0	business	Employee Engagement & Intranet	Main Stooa's repository. The online fishbowl tool.	
+clemlesne/private-gpt	61	Apache-2.0	business	Employee Engagement & Intranet	Deploy smart and secure conversational agents for your employees, using Azure. Able to use both private and public data.	
+X1r0z/pivot-rs	58	MIT	business	Employee Engagement & Intranet	A lightweight port-forwarding and socks proxy tool written in Rust 🦀	
+VismaLietuva/simoona	58	GPL-3.0	business	Employee Engagement & Intranet	Simoona is smart and intuitive open source social intranet solution made for effective communication, empowerment, acknowledgement and social networking of your company employees.	
+projectestac/agora	44	GPL-3.0	business	Employee Engagement & Intranet	On-line service integrated in the Catalan Educational Telematic Network (XTEC) offering a full Moodle platform and a customizable WordPress/BudyPress school portal.	
+DrMint/Intranet-Lets-Encrypt-Certification	35	MIT	business	Employee Engagement & Intranet	Guide to setting up a Let's Encrypt SSL certificate for a non-public facing server.	
+ghl1024/ansible-offline-install	30	MIT	business	Employee Engagement & Intranet	Ansible 离线安装工具：为无法连接外网的内网 / 气隙环境服务器提供一键离线安装包，支持 EL 9、Ubuntu 24.04 / 22.04、Debian 12（x86_64 与 ARM64），自带常用 Galaxy collections（Offline installer for Ansible on air-gapped / intranet servers）	
+droptica/openintranet	29	NONE	business	Employee Engagement & Intranet	Open Intranet is a workplace hub that brings together news, knowledge, documents, people, and data from your existing systems—with full data ownership and unlimited customization. Built on PHP and Drupal.	
+Pubvana-CMS/pubvana	23	MIT	business	Employee Engagement & Intranet	Ready CMS for Blogging and Business. CMF to start building your custom website.	
+PaulBayfield/Better-IUT-RCC	20	MIT	business	Employee Engagement & Intranet	Better IUT RCC	
+securo-finance/securo	4211	AGPL-3.0	business	Expense & Personal Finance	Open-source personal finance manager. Self-hosted, privacy-first.	
+ananthakumaran/paisa	3234	AGPL-3.0	business	Expense & Personal Finance	Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi	
+EnhancedJax/Bagels	2938	GPL-3.0	business	Expense & Personal Finance	Powerful expense tracker that lives in your terminal.	
+moneymanagerex/moneymanagerex	2285	GPL-2.0	business	Expense & Personal Finance	Money Manager Ex is an easy to use, money management application built with wxWidgets	
+kevinschaich/mintable	1635	MIT	business	Expense & Personal Finance	🍃 Automate your personal finances – for free, with no ads, and no data collection.	
+oss-apps/split-pro	1487	MIT	business	Expense & Personal Finance	Open source alternative to Splitwise	
+RIP-Comm/sossoldi	1416	MIT	business	Expense & Personal Finance	"Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.	
+jakubgarfield/expenses	1287	MIT	business	Expense & Personal Finance	💰Expense tracker using Google Sheets 📉 as a storage written in React	
+whisper-money/whisper-money	1150	NOASSERTION	business	Expense & Personal Finance	Understand your personal finances. Forget Excels, try Whisper Money.	
+eitchtee/WYGIWYH	911	AGPL-3.0	business	Expense & Personal Finance	A simple but powerful self-hosted finance tracker	
+huhusmang/Subscription-Management	901	MIT	business	Expense & Personal Finance	Manage and track your subscriptions and expenses easily.	
+teelur/budget-board	896	AGPL-3.0	business	Expense & Personal Finance	A simple app for tracking monthly spending and working towards financial goals.	
+karanb192/itr-wala	885	MIT	business	Expense & Personal Finance	File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude Code / Codex / Gemini skill.	
+gokulkrishh/expense.fyi	757	AGPL-3.0	business	Expense & Personal Finance	Effortlessly track and manage expenses on-the-go with categorisation and logging.	
+sameersyd/Expenso-iOS	743	Apache-2.0	business	Expense & Personal Finance	A Simple Expense Tracker App built to demonstrate the use of SwiftUI, CoreData, Charts, Biometrics (Face & Touch ID), Export CSV and MVVM Architecture.	
+community/community	8916	CC-BY-4.0	business	Feedback & Roadmaps	Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!	
+ksindi/managers-playbook	5525	CC-BY-4.0	business	Feedback & Roadmaps	:book: Heuristics for effective management	
+Snipaste/feedback	3757	NONE	business	Feedback & Roadmaps	Feedback & wiki for Snipaste https://snipaste.com	
+httptoolkit/httptoolkit	3666	NONE	business	Feedback & Roadmaps	HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.	
+sparrowcode/AlertKit	2637	MIT	business	Feedback & Roadmaps	Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.	
+typora/typora-issues	1594	NONE	business	Feedback & Roadmaps	Bugs, suggestions or free discussions about the minimal markdown editor — Typora 	
+petergyang/human-review	1446	MIT	business	Feedback & Roadmaps	A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.	
+ls1intum/Artemis	827	MIT	business	Feedback & Roadmaps	Artemis - Interactive Learning with Automated Feedback	
+efremidze/Haptica	813	MIT	business	Feedback & Roadmaps	Easy Haptic Feedback Generator 📳	
+autolab/Autolab	808	Apache-2.0	business	Feedback & Roadmaps	Course management service that enables auto-graded programming assignments.	
+ways-of-working/ways-of-working	752	NONE	business	Feedback & Roadmaps	Ways of Working (WOW) has 100+ tips for teamwork, including principles, values, tenets, ground rules, aspirations, norms, agreements, expectations, understandings, and more.	
+chroxify/feedbase	676	AGPL-3.0	business	Feedback & Roadmaps	The open-source solution for collecting feedback & communicating updates.	
+clj-commons/pretty	625	Apache-2.0	business	Feedback & Roadmaps	Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions	
+Ryczko/FormsLab	546	MIT	business	Feedback & Roadmaps	😊📊 Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.	
+wiredashio/wiredash-sdk	522	NOASSERTION	business	Feedback & Roadmaps	Interactive user feedback tool for Flutter 🎉	
+Torqvoice/torqvoice	47	NOASSERTION	business	Field Service	Workshop management platform built for automotive service businesses	
+kuaigeyun/kuaigeyun-mes	46	NOASSERTION	business	Field Service	快格云制造MES 是一个功能完整的制造执行系统（Manufacturing Execution System），专为生产型企业数字化转型设计。基于RiverEdge框架，使用现代化的技术栈（FastAPI + React），提供生产计划、工单管理、质量追溯、设备监控等核心功能。亦兼具ERP基础功能，未来规划CRM、AI、极简APS模块。	
+react-hook-form/react-hook-form	44907	MIT	business	Forms & Surveys	📋 React Hooks for form state management and validation (Web + React Native)	
+alibaba/formily	12589	MIT	business	Forms & Surveys	📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3	
+cakephp/cakephp	8793	MIT	business	Forms & Surveys	CakePHP: The Rapid Development Framework for PHP - Official Repository	
+heartcombo/simple_form	8223	MIT	business	Forms & Surveys	Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.	
+ONLYOFFICE/DesktopEditors	5702	AGPL-3.0	business	Forms & Surveys	Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS	
+didi/xiaoju-survey	3802	Apache-2.0	business	Forms & Surveys	XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.	
+kevinchappell/formBuilder	2709	MIT	business	Forms & Surveys	A jQuery plugin for drag and drop form creation	
+vazco/uniforms	2103	MIT	business	Forms & Surveys	A React library for building forms from any schema.	
+kristijanhusak/laravel-form-builder	1713	MIT	business	Forms & Surveys	Laravel Form builder for version 5+!	
+vueform/vueform	1505	MIT	business	Forms & Surveys	Open-Source Form Framework for Vue	
+formers/former	1329	NONE	business	Forms & Surveys	A powerful form builder, for Laravel and other frameworks (stand-alone too)	
+surveyjs/survey-creator	1287	NOASSERTION	business	Forms & Surveys	Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.	
+risesoft-y9/WorkFlow-Engine	865	GPL-3.0	business	Forms & Surveys	工作流引擎对内提供单位/机关流程管理规则和内部业务流程的数字化落地实践；对外提供自动化地第三方业务驱动、接口接入和算法单元驱动能力。工作流引擎在提供底层驱动引擎的同时对全局透明监控、安全防御和国产化特色功能进行充分考虑，是内部流程管理和业务算法驱动的不二之选。	
+formsmd/formsmd	787	Apache-2.0	business	Forms & Surveys	Developer-first, open source Typeform alternative (formerly known as Blocks.md)	
+xaboy/form-builder	760	MIT	business	Forms & Surveys	好用的PHP表单生成器，快速生成现代化的form表单,支持前后端分离。内置17种常用表单组件。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。	
+DuarteSantos8/openGym	20097	AGPL-3.0	business	Gym & Fitness	Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.	
+DLR-RM/stable-baselines3	13983	MIT	business	Gym & Fitness	PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. 	
+vwxyzjn/cleanrl	10652	NOASSERTION	business	Gym & Fitness	High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)	
+Snouzy/workout-cool	8666	MIT	business	Gym & Fitness	🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.	
+DLR-RM/rl-baselines3-zoo	2909	MIT	business	Gym & Fitness	A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included.	
+werner-duvaud/muzero-general	2878	MIT	business	Gym & Fitness	MuZero implementation	
+learnsyslab/gym-pybullet-drones	2201	MIT	business	Gym & Fitness	PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control	
+InlitX/GymMane	1558	GPL-3.0	business	Gym & Fitness	 Offline gym log for Android. No account, no ads, no internet.	
+open-thought/reasoning-gym	1548	Apache-2.0	business	Gym & Fitness	[NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards	
+sail-sg/envpool	1533	Apache-2.0	business	Gym & Fitness	C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.	
+NVIDIA-NeMo/Gym	1322	Apache-2.0	business	Gym & Fitness	Evaluate and improve models and agents using environments	
+vietnh1009/Super-mario-bros-A3C-pytorch	1120	MIT	business	Gym & Fitness	Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros	
+Toni-SM/skrl	1105	MIT	business	Gym & Fitness	Modular Reinforcement Learning (RL) library (implemented in PyTorch, JAX, and NVIDIA Warp) with support for Gymnasium/Gym, NVIDIA Isaac Lab, MuJoCo Playground and other environments	
+LucasAlegre/sumo-rl	1102	MIT	business	Gym & Fitness	Reinforcement Learning environments for Traffic Signal Control with SUMO. Compatible with Gymnasium, PettingZoo, and popular RL libraries.	
+ZhiqingXiao/rl-book	1032	NONE	business	Gym & Fitness	Source codes for the book "Reinforcement Learning: Theory and Python Implementation"	
+sapientinc/HRM-Text	2288	Apache-2.0	business	HR & Payroll	HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.	
+WuKongOpenSource/Wukong_HRM	1593	NOASSERTION	business	HR & Payroll	悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程	
+VonHoltenCodes/SlowBooks-Pro-2026	847	NOASSERTION	business	HR & Payroll	Free, source-available accounting: double-entry bookkeeping, invoicing, US payroll, inventory, bank feeds - desktop app with built-in multi-user Server Edition (no Docker needed). A QuickBooks replacement. No cloud, no caps.	
+minthcm/minthcm	438	AGPL-3.0	business	HR & Payroll	Open-source HCM system for managing HR processes with AI agents. Full data ownership, MCP/A2A-native, no vendor lock-in.	
+urlaubsverwaltung/urlaubsverwaltung	303	Apache-2.0	business	HR & Payroll	Open-source, self-hosted leave and absence management: vacation requests, sick notes, overtime. Urlaubsverwaltung für Teams.	
+Devnawjesh/hr-payroll	298	NONE	business	HR & Payroll	HRM is a Modern and responsive Human Resource Management System. It is developed by PHP and Laravel framework. It is designed and developed for office management and company employee management.	
+MusheAbdulHakim/Laravel-Smarthr	252	NONE	business	HR & Payroll	A complete hr management system developed with the laravel framework.	
+KejawenLab/SemartHris	251	MIT	business	HR & Payroll	SemartHris adalah Enterprise Grade HRIS yang khusus diperuntukan bagi Perusahaan di Willayah Hukum Indonesia	
+Payroll-Engine/PayrollEngine	138	MIT	business	HR & Payroll	Open-source framework for regulation-driven payroll applications — multi-tenant, multi-country, API-first, with No-Code/Low-Code automation and test-driven development.	
+minusfive/knucklehead	119	MIT	business	HR & Payroll	Mnemonic, macOS-optimized ergonomic columnar layout for corne-style 42 key split keyboards, designed to ease the transition from Apple ANSI keyboards.	
+pcolby/bipolar	113	GPL-3.0	business	HR & Payroll	Free your data from Polar FlowSync	
+glowlogix/gleamhrm	108	GPL-3.0	business	HR & Payroll	GleamHRM is a Human Resource Management (HRM) System.	
+RiprLutuk/PasPapan	108	MIT	business	HR & Payroll	Enterprise workforce operations featuring Anti-Mock GPS spoof detection, Face ID biometric attendance, and automated 1-click payroll calculation.	
+shamimcse1/Human-Resource-Management-Laravel	86	NONE	business	HR & Payroll	The Human Resource Management System Project is a PHP, Laravel, and MySQL database based web application.	
+adumont/hrm-cpu	85	GPL-3.0	business	HR & Payroll	Human Resource Machine - CPU Design #HRM	
+Hufe921/canvas-editor	5259	MIT	business	Healthcare EMR & Clinic	A Canvas/SVG-based rich text editor	
+aws/aws-sdk-pandas	4122	Apache-2.0	business	Healthcare EMR & Clinic	pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).	
+dotnet/spark	2097	MIT	business	Healthcare EMR & Clinic	.NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.	
+sunlabuiuc/PyHealth	1695	MIT	business	Healthcare EMR & Clinic	A deep learning toolkit for healthcare AI: EHR (MIMIC, eICU, OMOP), clinical text, signals and imaging. 30+ models, reproducible pipelines.	
+josephmachado/beginner_de_project	616	MIT	business	Healthcare EMR & Clinic	Beginner data engineering project - batch edition	
+opensource-emr/hospital-management-emr	540	MIT	business	Healthcare EMR & Clinic	A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy.	
+dataflint/spark	498	Apache-2.0	business	Healthcare EMR & Clinic	Drop-in replacement for Apache Spark UI	
+MIT-LCP/eicu-code	411	MIT	business	Healthcare EMR & Clinic	Code and website related to the eICU Collaborative Research Database	
+ehrbase/ehrbase	388	Apache-2.0	business	Healthcare EMR & Clinic	An open source openEHR server 	
+theislab/ehrapy	371	Apache-2.0	business	Healthcare EMR & Clinic	Electronic Health Record Analysis with Python.	
+OCA/vertical-medical	298	AGPL-3.0	business	Healthcare EMR & Clinic	Open Source Healthcare System for Odoo	
+NYUMedML/GNN_for_EHR	279	GPL-3.0	business	Healthcare EMR & Clinic	Code for "Graph Neural Network on Electronic Health Records for Predicting Alzheimer’s Disease"	
+healthchainai/HealthChain	231	Apache-2.0	business	Healthcare EMR & Clinic	Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR connectivity, production deployment ✨ 🏥	
+sammargolis/OpenScribe	227	MIT	business	Healthcare EMR & Clinic	OpenScribe is an open-source AI scribe that records patient encounters and generates structured clinical notes automatically. You keep full control over data, workflows, and patient privacy with no vendor lock-in.	
+lynnlangit/learning-hadoop-and-spark	203	Apache-2.0	business	Healthcare EMR & Clinic	Companion to Learning Hadoop and Learning Spark courses on Linked In Learning	
+cskefu/cskefu	2906	NOASSERTION	business	Helpdesk & Ticketing	🌲 春松客服，开源客服系统	
+taoshihan1991/goflylivechat	2601	Apache-2.0	business	Helpdesk & Ticketing	开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang	
+mattmezza/vue-beautiful-chat	1565	MIT	business	Helpdesk & Ticketing	A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.	
+faveosuite/faveo-helpdesk	1257	OSL-3.0	business	Helpdesk & Ticketing	Faveo Open source ticketing system build on Laravel framework	
+chatwoot/chatwoot-mobile-app	1085	MIT	business	Helpdesk & Ticketing	Mobile app for Chatwoot - React Native	
+opensupports/opensupports	1037	GPL-3.0	business	Helpdesk & Ticketing	OpenSupports is a simple and beautiful open source ticket system	
+shacker/django-todo	855	BSD-3-Clause	business	Helpdesk & Ticketing	A multi-user, multi-group todo/ticketing system for Django projects. Includes CSV import and integrated mail tracking.	
+miroslavpejic85/call-me	767	AGPL-3.0	business	Helpdesk & Ticketing	📞 Open-source, self-hosted WebRTC click-to-call solution for websites. Add a video Call-Me button and let visitors instantly connect with your team through browser-based video communication. Ideal for customer support, sales, consultations, and remote assistan	
+tgoai/tgo	655	NOASSERTION	business	Helpdesk & Ticketing	Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.	
+bostrot/telegram-support-bot	618	GPL-3.0	business	Helpdesk & Ticketing	A Telegram ticketing/supporting system.	
+chaitin/KoalaQA	561	NONE	business	Helpdesk & Ticketing	KoalaQA 是一款 AI 大模型驱动的开源售后服务社区，提供 AI 回答、AI 搜索、AI 运营等能力，帮助你快速落地售后客服、社区问答、自助服务等场景，帮助团队显著降低人工运营成本、提升客户满意度与响应效率，助力实现 ZCR（Zero Contact Resolution）目标。	
+Bytedesk/bytedesk	533	AGPL-3.0	business	Helpdesk & Ticketing	Open Souce IM with AI powered live-chat, email, ticket support, omni-channel customer service，alternative to slack + zendesk/intercom/hubspot/ada/decagon/sierra	
+useopendesk/opendesk	491	Apache-2.0	business	Helpdesk & Ticketing	The open-source support inbox + live chat and inbox collaboration for teams	
+coderflexx/laravel-ticket	445	MIT	business	Helpdesk & Ticketing	A full-featured support ticket system for Laravel with Eloquent models and a clean API	
+blakmatrix/node-zendesk	376	MIT	business	Helpdesk & Ticketing	A trusted Zendesk API client library for Node.js and the browser, lovingly maintained for over 10 years.	
+tourmind-com/Tourmind-Booking-Skills	2398	MIT	business	Hotel & Property PMS	AI agent skills for end-to-end hotel and flight booking—compare live hotel rates across leading OTAs and suppliers, search and verify real-time airfares worldwide, book stays and flights, and manage reservations, hotel cancellations, and payments via the TourM	
+LetsFG/LetsFG	2243	NOASSERTION	business	Hotel & Property PMS	Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Every airline in the world, major booking sites and OTAs, with per-flight reliability history.	
+androidmalin/AndroidComponentPlugin	482	NONE	business	Hotel & Property PMS	Android上简单实现四大组件的插件化，供学习使用	
+shouryaj98/Hotel-Management-Project-Java	435	MIT	business	Hotel & Property PMS	It is a Hotel Management tool which can be used to manage activites like storing customer details, booking rooms of four different types, ordering food for particular rooms, unbooking rooms and showing the bill.	
+WailanTirajoh/Laravel-Hotel	237	NONE	business	Hotel & Property PMS	Hotel App, built with Laravel 12	
+tushar-2223/Hotel-Management-System	196	MIT	business	Hotel & Property PMS	A  PHP + MySQL + HTML +  CSS  + JS based Hotel Management System with a  beautiful user interface	
+enzoftware/hotelyn	190	NONE	business	Hotel & Property PMS	Explore a sleek Flutter demo for a hotel booking app 🏩 ❤️ Witness the synergy of code and care, delivering a polished user interface. 	
+RollingGo-AI/rollinggo-hotel-skill-cn	167	MIT	business	Hotel & Property PMS	全球酒店预订&低价监控提醒Skill，200万+精选酒店，独家优惠价格，让你的Agent轻松预订品质酒店，支持支付宝下单+查询历史订单，24 小时客服支持，全天候响应。	
+nazimamin/HotelManagement	127	NONE	business	Hotel & Property PMS	🏡 A Hotel Management system in C#	
+growerp/growerp	115	Apache-2.0	business	Hotel & Property PMS	GrowERP AI Flutter ERP for Web, Linux, MacOS, Windows, Android, IOS using Moqui.org in English, French, German, Spanish, Thai and Dutch	
+sumitmangela/hotel	101	NONE	business	Hotel & Property PMS	This is a simple HTML/CSS website for hotel booking.	
+Holo5/nitro-docker	95	NONE	business	Hotel & Property PMS	Create your own Habbo Retro with Docker and 2 commands ✨🌭🌇	
+jensenkd/plex-api	94	MIT	business	Hotel & Property PMS	.NET Core SDK for Plex Media Server	
+powxenv/hollux	89	NONE	business	Hotel & Property PMS	Hollux is a hotel website that can be used for online reservations.	
+LukasParke/plex-api-spec	85	MIT	business	Hotel & Property PMS	A Plex Media Server OpenAPI Specification maintained by the community	
+opendevops-cn/opendevops	4104	GPL-3.0	business	IT Asset Management	CODO是一款为用户提供企业多混合云、全球一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台	
+letianzj/QuantResearch	3061	MIT	business	IT Asset Management	Quantitative analysis, strategies and backtests	
+projectdiscovery/cloudlist	1058	MIT	business	IT Asset Management	Cloudlist is a tool for listing Assets from multiple Cloud Providers.	
+jonrau1/ElectricEye	1048	Apache-2.0	business	IT Asset Management	ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & SaaS environments with controls mapped to over 20 industry, 	
+dolag233/Serpent	680	MIT	business	IT Asset Management	Cross-platform digital asset management software for game artists, VFX professionals, and graphic and motion designers.	
+ArturSepp/QuantInvestStrats	649	MIT	business	IT Asset Management	Performance analytics, portfolio backtesting, risk analysis, and factsheet reporting in Python	
+agargaro/three.ez	372	MIT	business	IT Asset Management	Simplify three.js development, including events, drag & drop, binding, focus management, smart rendering, tweening and more.	
+zetavg/Inventory	362	NOASSERTION	business	IT Asset Management	An RFID asset management app for home or businesses.	
+Tenney95/AI-Canvas-tauri	338	NOASSERTION	business	IT Asset Management	AI画布、AI短剧创作工具：免费、轻量的无限画布，支持短剧剧本、角色管理、分镜、图像/视频生成和短剧剪辑，集成 ComfyUI、Agent、MCP。Free AI canvas and short drama maker.	
+fortitudo-tech/fortitudo.tech	313	GPL-3.0	business	IT Asset Management	Entropy Pooling views and stress testing combined with Conditional Value-at-Risk (CVaR) portfolio optimization in Python.	
+levinzonr/godot-asset-placer	258	MIT	business	IT Asset Management	Godot 3D Asset Placer And Manager	
+aartiq/servicenow-mcp	241	NOASSERTION	business	IT Asset Management	ServiceNow MCP server: 500+ tools and 26 AI capabilities for any AI (Claude, ChatGPT, Gemini, Cursor, Copilot). Multi-transport (stdio, SSE, HTTP), A2A, dynamic schema discovery, read-only by default. Free and source available. Part of the NowAIKit suite.	
+darwinex/dwxconnect	239	BSD-3-Clause	business	IT Asset Management	Seamlessly link any Trading Strategy in ANY programming language to Darwinex liquidity via MetaTrader 4 or 5. DWX Connect is your very own, fully customizable Trading API!	
+locus84/Locus-Bundle-System	219	NOASSERTION	business	IT Asset Management	Simple Unity Addressables Alternative That Supports Synchronized API	
+vleue/bevy_embedded_assets	217	NONE	business	IT Asset Management	Embed assets in your Bevy game	
+jeecgboot/JeecgBoot	48398	Apache-2.0	business	Internal Tools & Low-Code	【AI 时代的业务系统基座】企业级 AI 低代码平台：权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型。Java + Vue3，支持单体/微服务与信创国产化。	
+simstudioai/sim	30064	Apache-2.0	business	Internal Tools & Low-Code	Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.	
+datawhalechina/easy-vibe	20374	NONE	business	Internal Tools & Low-Code	💻  Vibe Coding 101｜Your First Course For AI Product Builders.	
+baidu/amis	18890	Apache-2.0	business	Internal Tools & Low-Code	前端低代码框架，通过 JSON 配置就能生成各种页面。	
+amplication/amplication	16010	NOASSERTION	business	Internal Tools & Low-Code	Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery acro	
+alibaba/lowcode-engine	15873	MIT	business	Internal Tools & Low-Code	An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系	
+MrXujiang/h5-Dooring	10012	GPL-3.0	business	Internal Tools & Low-Code	H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.	
+goplus/xgo	9493	Apache-2.0	business	Internal Tools & Low-Code	XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone 	
+iflytek/astron-agent	8921	Apache-2.0	business	Internal Tools & Low-Code	Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.	
+givanz/VvvebJs	8727	Apache-2.0	business	Internal Tools & Low-Code	Drag and drop page builder library written in vanilla javascript without dependencies or build tools.	
+clientIO/joint	5398	MPL-2.0	business	Internal Tools & Low-Code	A proven SVG-based JavaScript diagramming library powering exceptional UIs	
+iflytek/astron-rpa	5255	Apache-2.0	business	Internal Tools & Low-Code	Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.	
+brick-design/brick-design	5144	MIT	business	Internal Tools & Low-Code	低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态	
+dtyq/magic	5079	NOASSERTION	business	Internal Tools & Low-Code	Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)	
+langwatch/langwatch	5017	Apache-2.0	business	Internal Tools & Low-Code	Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.	
+erupts/erupt	3987	Apache-2.0	business	Internal Tools & Low-Code	Make the model your single source of truth. Erupt is a model-driven engine for enterprise apps: UI, REST APIs, RBAC, data and AI agents are built from one model at runtime — no codegen, no frontend. Java/Kotlin on Spring Boot, Solon, Quarkus & more; SDKs for P	
+1024-lab/smart-admin	3934	MIT	business	Internal Tools & Low-Code	SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。	
+TracecatHQ/tracecat	3894	AGPL-3.0	business	Internal Tools & Low-Code	Open-source security automation platform for teams and AI agents	
+buqiyuan/vite-vue3-lowcode	3407	MIT	business	Internal Tools & Low-Code	vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具	
+Kanaries/graphic-walker	3287	Apache-2.0	business	Internal Tools & Low-Code	An open source alternative to Tableau. Embeddable visual analytic	
+NetEase/tango	3135	MIT	business	Internal Tools & Low-Code	A code driven low-code builder, develop low-code app on your codebase.	
+go-dev-frame/sponge	2869	MIT	business	Internal Tools & Low-Code	A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.	
+GenieFramework/Genie.jl	2424	MIT	business	Internal Tools & Low-Code	🧞The highly productive Julia web framework	
+alan-ai/alan-sdk-web	2422	NONE	business	Internal Tools & Low-Code	The Self-Coding System for Your App — Alan AI SDK for Web	
+H5-Dooring/dooringx	2386	NONE	business	Internal Tools & Low-Code	快速高效搭建可视化拖拽平台	
+GreaterWMS/GreaterWMS	4443	Apache-2.0	business	Inventory & Warehouse	This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . You can share your vacant warehouse space, use it for those in need, and generate income	
+Velocidex/velociraptor	4426	NOASSERTION	business	Inventory & Warehouse	Digging Deeper....	
+mlabouardy/komiser	4152	NOASSERTION	business	Inventory & Warehouse	Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!	
+go2ismail/Asp.Net-Core-Inventory-Order-Management-System	1302	NOASSERTION	business	Inventory & Warehouse	Now upgraded to .NET 9, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and MediatR. It includes an ASP.NET Core Razor Pages implementation for inventory order management, combined with Vue.js for a dynamic, responsiv	
+peter-kish/gloot	992	MIT	business	Inventory & Warehouse	A universal inventory system for the Godot game engine.	
+expressobits/inventory-system	740	MIT	business	Inventory & Warehouse	Modular inventory system for godot 4 with nodes, compatible with multiplayer, separate logic from the UI, Using items as separate resources.	
+replaysMike/Binner	548	GPL-3.0	business	Inventory & Warehouse	Open source parts inventory system for makers, electronics hobby, and professional engineers	
+fajarghifar/inventory-management-system	528	NONE	business	Inventory & Warehouse	✍Building an Inventory Management System with Laravel 10.	
+sajxraj/InventoryManagementSystem	346	NONE	business	Inventory & Warehouse	A software developed using Java SE which provides as easy way to track the products, suppliers, customers as well as purchase and sales information. It also records the stock currently available in the store.	
+sadatrafsanjani/Point-of-Sales	316	MIT	business	Inventory & Warehouse	Point of Sales with inventory management system 	
+moelashmawy/inventory-application	279	NONE	business	Inventory & Warehouse	Shopping app using MERN stack	
+marius00/iagd	223	MIT	business	Inventory & Warehouse		
+LarrySnyder/stockpyl	185	MIT	business	Inventory & Warehouse	Python inventory optimization and simulation tools.	
+ConsciousUniverse/simple-stock-management	185	GPL-3.0	business	Inventory & Warehouse	Simpler Stock Management is a stock & inventory web app. Designed for small businesses, charities and non-profits.	
+dadaloop82/EverShelf	149	MIT	business	Inventory & Warehouse	EverShelf: Your pantry's best friend. A self-hosted, open source smart pantry manager with AI expiry tracking, barcode scanning, smart shopping lists, and Android Kiosk support.	
+BloopAI/vibe-kanban	28614	Apache-2.0	business	Kanban	Get 10X more out of Claude Code, Codex or any coding agent	
+cft0808/edict	17053	MIT	business	Kanban	🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails	
+basecamp/fizzy	8288	NOASSERTION	business	Kanban	Kanban as it should be. Not as it has been.	
+gitscrum-core/laravel-gitscrum	2910	MIT	business	Kanban	GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.	
+kanriapp/kanri	2084	GPL-3.0	business	Kanban	Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.	
+nimbalyst/nimbalyst	2039	MIT	business	Kanban	Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, w	
+ParabolInc/parabol	2017	NOASSERTION	business	Kanban	Free online agile retrospective meeting tool	
+vriteio/andesine	2006	NOASSERTION	business	Kanban	Open-source adaptive content workspace	
+linagora/twake-legacy	1919	AGPL-3.0	business	Kanban	Twake is a secure open source collaboration platform to improve organizational productivity. 	
+django-helpdesk/django-helpdesk	1691	BSD-3-Clause	business	Kanban	A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.	
+kaiban-ai/KaibanJS	1486	MIT	business	Kanban	KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.	
+kiswa/TaskBoard	1402	MIT	business	Kanban	A Kanban-inspired app for keeping track of things that need to get done. (Don't forget to read the Wiki page!)	
+Oxygem/Kanmail	1388	NOASSERTION	business	Kanban	📥 Turn your inbox into a kanban board.	
+AnsGoo/openDataV	1368	Apache-2.0	business	Kanban	OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。	
+Chorus-AIDLC/Chorus	1223	AGPL-3.0	business	Kanban	The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)	
+Egonex-AI/Understand-Anything	91205	MIT	business	Knowledge Base & Docs Sites	Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.	
+volcengine/OpenViking	41740	AGPL-3.0	business	Knowledge Base & Docs Sites	Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.	
+chatchat-space/Langchain-Chatchat	38715	Apache-2.0	business	Knowledge Base & Docs Sites	Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 	
+virgiliojr94/book-to-skill	37195	MIT	business	Knowledge Base & Docs Sites	Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.	
+Tencent/WeKnora	36729	NOASSERTION	business	Knowledge Base & Docs Sites	Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.	
+codexu/note-gen	12987	GPL-3.0	business	Knowledge Base & Docs Sites	Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.	
+vesoft-inc/nebula	12465	Apache-2.0	business	Knowledge Base & Docs Sites	  A distributed, fast open-source graph database featuring horizontal scalability and high availability	
+deeplethe/utopia	8688	Apache-2.0	business	Knowledge Base & Docs Sites	World's first open-source enterprise world model.	
+xwmx/nb	8466	AGPL-3.0	business	Knowledge Base & Docs Sites	CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.	
+xerrors/Yuxi	7628	MIT	business	Knowledge Base & Docs Sites	可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.	
+massCodeIO/massCode	7097	AGPL-3.0	business	Knowledge Base & Docs Sites	A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.	
+the-open-agent/openagent	5730	Apache-2.0	business	Knowledge Base & Docs Sites	⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org	
+nanbingxyz/5ire	5370	NOASSERTION	business	Knowledge Base & Docs Sites	5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .	
+colanode/colanode	5189	Apache-2.0	business	Knowledge Base & Docs Sites	Open-source and local-first Slack and Notion alternative that puts you in control of your data	
+VectifyAI/OpenKB	4857	Apache-2.0	business	Knowledge Base & Docs Sites	OpenKB: Open LLM Knowledge Base	
+ChristianLempa/cheat-sheets	4831	MIT	business	Knowledge Base & Docs Sites	This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.	
+inkeep/open-knowledge	4807	GPL-3.0	business	Knowledge Base & Docs Sites	Beautiful, AI-native markdown IDE and LLM wiki	
+slowmist/Knowledge-Base	4628	NONE	business	Knowledge Base & Docs Sites	Knowledge Base 慢雾安全团队知识库	
+typedb/typedb	4503	MPL-2.0	business	Knowledge Base & Docs Sites	TypeDB: Built for systems, not records	
+Ar9av/obsidian-wiki	3697	MIT	business	Knowledge Base & Docs Sites	Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents	
+SamurAIGPT/llm-wiki-agent	3684	MIT	business	Knowledge Base & Docs Sites	A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.	
+deta/surf	3635	Apache-2.0	business	Knowledge Base & Docs Sites	Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).	
+agenticnotetaking/arscontexta	3518	MIT	business	Knowledge Base & Docs Sites	Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.	
+gnebbia/kb	3422	GPL-3.0	business	Knowledge Base & Docs Sites	A minimalist command line knowledge base manager	
+pashpashpash/vault-ai	3385	MIT	business	Knowledge Base & Docs Sites	OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.	
+snapcast/snapcast	8050	GPL-3.0	business	LMS & E-Learning	Synchronous multiroom audio player	

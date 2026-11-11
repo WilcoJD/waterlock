@@ -1,0 +1,166 @@
+sajari/docconv	1789	MIT	devtools	PDF, Document & Report Generation	Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text	
+jesselau76/ebook-GPT-translator	1738	MIT	devtools	PDF, Document & Report Generation	Enjoy reading with your favorite style.	
+benbalter/word-to-markdown	1551	MIT	devtools	PDF, Document & Report Generation	Ruby gem & CLI to convert Word (.docx) documents to Markdown. Superseded by word-to-markdown-js at word2md.com	
+plutoprint/plutoprint	1163	MIT	devtools	PDF, Document & Report Generation	A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook	
+guigrpa/docx-templates	1099	MIT	devtools	PDF, Document & Report Generation	Template-based docx report creation	
+AlexandrosGounis/pdfx	1090	MIT	devtools	PDF, Document & Report Generation	A free-floating 2D Canvas for processing multiple PDF files simultaneously	
+SylphxAI/anymd	1065	MIT	devtools	PDF, Document & Report Generation	Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that runs on your machine. No API key.	
+Homebrew/brew	50348	BSD-2-Clause	devtools	Package Registries & Artifact Hosting	🍺 The Package Manager for Everywhere	
+yarnpkg/yarn	41459	NOASSERTION	devtools	Package Registries & Artifact Hosting	The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry	
+pnpm/pnpm	37022	MIT	devtools	Package Registries & Artifact Hosting	Fast, disk space efficient package manager	
+python-poetry/poetry	34432	MIT	devtools	Package Registries & Artifact Hosting	Python packaging and dependency management made easy	
+composer/composer	29569	MIT	devtools	Package Registries & Artifact Hosting	Dependency Manager for PHP	
+microsoft/vcpkg	27580	MIT	devtools	Package Registries & Artifact Hosting	C++ Library Manager for Windows, Linux, and MacOS	
+Devolutions/UniGetUI	26899	MIT	devtools	Package Registries & Artifact Hosting	UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers	
+microsoft/winget-cli	26564	MIT	devtools	Package Registries & Artifact Hosting	WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).	
+folke/lazy.nvim	21705	Apache-2.0	devtools	Package Registries & Artifact Hosting	💤 A modern plugin manager for Neovim	
+NixOS/nix	17983	LGPL-2.1	devtools	Package Registries & Artifact Hosting	Nix, the purely functional package manager	
+rust-lang/cargo	15684	Apache-2.0	devtools	Package Registries & Artifact Hosting	The Rust package manager	
+Carthage/Carthage	15138	NOASSERTION	devtools	Package Registries & Artifact Hosting	A simple, decentralized dependency manager for Cocoa	
+bower/bower	14894	MIT	devtools	Package Registries & Artifact Hosting	A package manager for the web	
+CocoaPods/CocoaPods	14834	NOASSERTION	devtools	Package Registries & Artifact Hosting	The Cocoa Dependency Manager.	
+volta-cli/volta	13055	NOASSERTION	devtools	Package Registries & Artifact Hosting	Volta: JS Toolchains as Code. ⚡	
+xmake-io/xmake	12291	Apache-2.0	devtools	Package Registries & Artifact Hosting	🔥 A cross-platform build utility based on Lua	
+chocolatey/choco	11560	NOASSERTION	devtools	Package Registries & Artifact Hosting	Chocolatey - the package manager for Windows	
+ds300/patch-package	11232	MIT	devtools	Package Registries & Artifact Hosting	Fix broken node modules instantly  🏃🏽‍♀️💨	
+mason-org/mason.nvim	10526	Apache-2.0	devtools	Package Registries & Artifact Hosting	Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.	
+npm/cli	10246	NOASSERTION	devtools	Package Registries & Artifact Hosting	the package manager for JavaScript	
+pkgxdev/pkgx	9931	Apache-2.0	devtools	Package Registries & Artifact Hosting	Run Anything	
+platformio/platformio-core	9585	Apache-2.0	devtools	Package Registries & Artifact Hosting	Your Gateway to Embedded Software Development Excellence :alien:	
+conan-io/conan	9559	MIT	devtools	Package Registries & Artifact Hosting	Conan - The open-source C and C++ package manager	
+MuntashirAkon/AppManager	9496	NOASSERTION	devtools	Package Registries & Artifact Hosting	A full-featured package manager and viewer for Android	
+pdm-project/pdm	8656	MIT	devtools	Package Registries & Artifact Hosting	A modern Python package and dependency manager supporting the latest PEP standards	
+t3dotgg/stripe-recommendations	6460	MIT	devtools	Payments & Billing SDKs	How to implement Stripe without going mad	
+yournextstore/yournextstore	5539	MIT	devtools	Payments & Billing SDKs	AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).	
+sadmann7/skateshop	5427	MIT	devtools	Payments & Billing SDKs	An open source e-commerce skateshop build with everything new in Next.js.	
+stripe/stripe-node	4557	MIT	devtools	Payments & Billing SDKs	Node.js library for the Stripe API.    	
+stripe/stripe-php	4029	MIT	devtools	Payments & Billing SDKs	PHP library for the Stripe API.    	
+async-labs/builderbook	3791	MIT	devtools	Payments & Billing SDKs	Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.	
+juicycleff/ultimate-backend	2906	MIT	devtools	Payments & Billing SDKs	Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication	
+stripe/stripe-go	2651	MIT	devtools	Payments & Billing SDKs	Go library for the Stripe API.    	
+stripe/stripe-ios	2577	MIT	devtools	Payments & Billing SDKs	Stripe iOS SDK    	
+mrvautin/expressCart	2250	MIT	devtools	Payments & Billing SDKs	A fully functioning Node.js shopping cart with Stripe, PayPal, Authorize.net, PayWay, Blockonomics, Adyen, Zip and Instore payments.	
+stripe/stripe-ruby	2184	MIT	devtools	Payments & Billing SDKs	Ruby library for the Stripe API.    	
+stripe/stripe-python	2059	MIT	devtools	Payments & Billing SDKs	Python library for the Stripe API.    	
+Payum/Payum	1926	MIT	devtools	Payments & Billing SDKs	PHP Payment processing library. It offers everything you need to work with payments: Credit card & offsite purchasing, subscriptions, payouts etc.	
+stripe/stripe-android	1552	MIT	devtools	Payments & Billing SDKs	Stripe Android SDK    	
+stripe/stripe-dotnet	1532	Apache-2.0	devtools	Payments & Billing SDKs	Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com.	
+pubkey/rxdb	23419	Apache-2.0	devtools	Realtime Collaboration SDKs	The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/	
+electric-sql/electric	10422	Apache-2.0	devtools	Realtime Collaboration SDKs	The agent platform built on sync.	
+orbitdb/orbitdb	8824	MIT	devtools	Realtime Collaboration SDKs	Peer-to-Peer Databases for the Decentralized Web	
+supabase/realtime	7677	Apache-2.0	devtools	Realtime Collaboration SDKs	Broadcast, Presence, and Postgres Changes via WebSockets	
+toeverything/blocksuite	6086	MPL-2.0	devtools	Realtime Collaboration SDKs	🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.	
+tinyplex/tinybase	5211	MIT	devtools	Realtime Collaboration SDKs	A reactive data store & sync engine.	
+microsoft/FluidFramework	4949	MIT	devtools	Realtime Collaboration SDKs	Library for building distributed, real-time collaborative web  applications	
+vlcn-io/cr-sqlite	3826	MIT	devtools	Realtime Collaboration SDKs	Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite	
+ueberdosis/hocuspocus	2647	MIT	devtools	Realtime Collaboration SDKs	The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.	
+y-crdt/y-crdt	2198	NOASSERTION	devtools	Realtime Collaboration SDKs	Rust port of Yjs	
+toeverything/OctoBase	2083	AGPL-3.0	devtools	Realtime Collaboration SDKs	🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.	
+teamtype/teamtype	1958	AGPL-3.0	devtools	Realtime Collaboration SDKs	Peer-to-peer, editor-agnostic collaborative editing of local text files.	
+josephg/diamond-types	1853	NONE	devtools	Realtime Collaboration SDKs	The world's fastest CRDT. WIP.	
+IceFireDB/IceFireDB	1159	MIT	devtools	Realtime Collaboration SDKs	@IceFireLabs -> IceFireDB is a database built for web3.0 It strives to fill the gap between web2 and web3.0 with a friendly database experience, making web3 application data storage more convenient, and making it easier for web2 applications to achieve decentr	
+kavinsood/yaos	1077	0BSD	devtools	Realtime Collaboration SDKs	A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.	
+alainm23/planify	5789	GPL-3.0	devtools	Scheduling & Calendar APIs	Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME	
+bitfireAT/davx5-ose	3004	GPL-3.0	devtools	Scheduling & Calendar APIs	DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.	
+kewisch/ical.js	1183	MPL-2.0	devtools	Scheduling & Calendar APIs	Javascript parser for ics (rfc5545) and vcard (rfc6350) data	
+tomsquest/docker-radicale	1116	GPL-3.0	devtools	Scheduling & Calendar APIs	Docker image for Radicale calendar and contact server :calendar: + security :closed_lock_with_key: + addons :rocket:	
+wmcmahan/react-native-calendar-events	930	MIT	devtools	Scheduling & Calendar APIs	📆 React Native Module for iOS and Android Calendar Events	
+jobisoft/TbSync	929	MPL-2.0	devtools	Scheduling & Calendar APIs	[Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird	
+agendav/agendav	834	GPL-3.0	devtools	Scheduling & Calendar APIs	A CalDAV web client similar to Google Calendar	
+adamgibbons/ics	788	ISC	devtools	Scheduling & Calendar APIs	iCalendar (ics) file generator for node.js	
+tchapi/davis	764	MIT	devtools	Scheduling & Calendar APIs	🗓 A modern, simple, feature-packed, fully translatable admin interface for sabre/dav based on Symfony 7 and Bootstrap	
+ics-py/ics-py	722	NOASSERTION	devtools	Scheduling & Calendar APIs	Pythonic and easy iCalendar library (rfc5545)	
+rlanvin/php-rrule	711	NOASSERTION	devtools	Scheduling & Calendar APIs	Lightweight and fast recurring dates library for PHP (RFC 5545)	
+nextcloud/tasks	709	AGPL-3.0	devtools	Scheduling & Calendar APIs	:white_check_mark: Tasks app for Nextcloud	
+spatie/icalendar-generator	696	MIT	devtools	Scheduling & Calendar APIs	Generate calendars in the iCalendar format	
+intri-in/manage-my-damn-life-nextjs	646	GPL-3.0	devtools	Scheduling & Calendar APIs	Manage My Damn Life (MMDL) is a self-hosted frontend for managing your CalDAV tasks and calendars.	
+bergercookie/syncall	626	MIT	devtools	Scheduling & Calendar APIs	Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more	
+ddnexus/pagy	4998	MIT	devtools	Search & Recommendations APIs	Agnostic pagination in plain ruby	
+open-wanderer/wanderer	4057	AGPL-3.0	devtools	Search & Recommendations APIs	wanderer is a self-hosted trail database. Save your adventures!	
+laravel/scout	1681	MIT	devtools	Search & Recommendations APIs	Laravel Scout provides a driver based solution to searching your Eloquent models.	
+fatwang2/search2ai	1286	MIT	devtools	Search & Recommendations APIs	Self-hosted search gateway for AI agents. Unified search, news and page extraction with provider fallback. REST API, MCP server and TypeScript library.	
+meilisearch/meilisearch-js	870	MIT	devtools	Search & Recommendations APIs	JavaScript/TypeScript client for Meilisearch	
+meilisearch/meilisearch-php	762	MIT	devtools	Search & Recommendations APIs	PHP client for Meilisearch	
+meilisearch/meilisearch-go	679	MIT	devtools	Search & Recommendations APIs	Golang wrapper for the Meilisearch API 	
+bfritscher/typesense-dashboard	658	GPL-3.0	devtools	Search & Recommendations APIs	A Typesense Dashboard to manage and browse collections.	
+meilisearch/meilisearch-python	607	MIT	devtools	Search & Recommendations APIs	Python client for Meilisearch	
+typesense/typesense-js	573	Apache-2.0	devtools	Search & Recommendations APIs	JavaScript / TypeScript client for Typesense	
+meilisearch/meilisearch-js-plugins	533	MIT	devtools	Search & Recommendations APIs	The search client to use Meilisearch with InstantSearch.	
+typesense/typesense-instantsearch-adapter	531	MIT	devtools	Search & Recommendations APIs	A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js	
+typesense/showcase-recipe-search	519	Apache-2.0	devtools	Search & Recommendations APIs	Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch)  ⚡ 🥘 🔍	
+leftmove/wallstreetlocal	480	MIT	devtools	Search & Recommendations APIs	Free and open-source stock tracking website for America's biggest money managers.	
+PHP-CMSIG/search	445	MIT	devtools	Search & Recommendations APIs	Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-cmsig.github.io/search/	
+appium/appium	22196	Apache-2.0	devtools	Testing & QA Platforms	Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol	
+google/artemis	16898	Apache-2.0	devtools	Testing & QA Platforms	ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate	
+mockito/mockito	15447	MIT	devtools	Testing & QA Platforms	Most popular Mocking framework for unit tests written in Java	
+wix/Detox	12052	MIT	devtools	Testing & QA Platforms	Gray box end-to-end testing and automation framework for mobile apps	
+AirtestProject/Airtest	9642	Apache-2.0	devtools	Testing & QA Platforms	UI Automation Framework for Games and Apps	
+testcontainers/testcontainers-java	8760	MIT	devtools	Testing & QA Platforms	Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.	
+rest-assured/rest-assured	7146	Apache-2.0	devtools	Testing & QA Platforms	Java DSL for easy testing of REST services	
+alipay/SoloPi	6364	Apache-2.0	devtools	Testing & QA Platforms	SoloPi 自动化测试工具	
+eradman/entr	5726	NOASSERTION	devtools	Testing & QA Platforms	Run arbitrary commands when files change	
+antiwork/shortest	5699	MIT	devtools	Testing & QA Platforms	QA via natural language AI tests	
+qodo-ai/qodo-cover	5683	AGPL-3.0	devtools	Testing & QA Platforms	Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞	
+TestSprite/testsprite-cli	5156	Apache-2.0	devtools	Testing & QA Platforms	Official TestSprite CLI — AI-powered automated testing from your terminal	
+microsoft/WinAppDriver	4053	MIT	devtools	Testing & QA Platforms	Windows Application Driver	
+qawolf/cli	3459	Apache-2.0	devtools	Testing & QA Platforms	QA Wolf from anywhere — your terminal, your CI, your AI agent.	
+stryker-mutator/stryker-js	3336	Apache-2.0	devtools	Testing & QA Platforms	Mutation testing for JavaScript and friends	
+getgauge/gauge	3197	Apache-2.0	devtools	Testing & QA Platforms	Light weight cross-platform test automation	
+nut-tree/nut.js	2855	NONE	devtools	Testing & QA Platforms	Native UI testing / controlling with node	
+linux-test-project/ltp	2617	GPL-2.0	devtools	Testing & QA Platforms	Linux Test Project (mailing list: https://lists.linux.it/listinfo/ltp)	
+mountebank-testing/mountebank	2108	MIT	devtools	Testing & QA Platforms	Over the wire test doubles	
+uowuo/abaddon	2232	GPL-3.0	devtools	Video & Voice SDKs	An alternative Discord client with voice support made with C++ and GTK 3	
+WSTxda/SwitchAI	1474	GPL-3.0	devtools	Video & Voice SDKs	Easily select, start, and manage your preferred AI digital assistants on Android.	
+mbailey/voicemode	1442	MIT	devtools	Video & Voice SDKs	Natural voice conversations with Claude Code	
+edumeet/edumeet	1350	MIT	devtools	Video & Voice SDKs	edumeet - multiparty web-meetings using mediasoup and WebRTC	
+awslabs/amazon-kinesis-video-streams-webrtc-sdk-c	1213	Apache-2.0	devtools	Video & Voice SDKs	Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.	
+metartc/metaRTC	1160	Apache-2.0	devtools	Video & Voice SDKs	webrtc sdk for embedded / IoT / robotics devices	
+ionorg/ion-sfu	1106	MIT	devtools	Video & Voice SDKs	Pure Go WebRTC SFU	
+henkelmax/simple-voice-chat	737	NONE	devtools	Video & Voice SDKs	A working voice chat in Minecraft!	
+versatica/mediasoup-client	671	ISC	devtools	Video & Voice SDKs	mediasoup client side JavaScript library	
+v-modal/vmodal_sdk_swift_iphoneduo	558	MIT	devtools	Video & Voice SDKs	V-Modal Visual Search SDK optimized for  IOS Swift and Iphone DUO	
+YeJe-cpu/talk-to-fengge	499	Apache-2.0	devtools	Video & Voice SDKs	Talk to 峰哥 — 克隆任何人的声音和性格，实时语音对话，工程延迟 < 1 秒 | Clone anyone's voice & personality for real-time conversation. < 1s engineering latency.	
+GetStream/stream-video-android	478	NOASSERTION	devtools	Video & Voice SDKs	📲 Android Video SDK. Stream's versatile Core + Compose UI component libraries that allow you to build video calling, audio room, and, live streaming apps based on Webrtc running on Stream's global edge network.	
+kiruna-labs/petal	471	Apache-2.0	devtools	Video & Voice SDKs	Petal: low-latency, multi-window screensharing for macOS and Windows. Every shared window becomes a real native window on every participant's desktop.	
+metartc/yangwebrtc	404	Apache-2.0	devtools	Video & Voice SDKs	A cross-platform WebRTC/RTMP/SRT SDK base on metaRTC	
+Sallyn0225/eidolon-sc	404	AGPL-3.0	devtools	Video & Voice SDKs	和《偶像大师 闪耀色彩》偶像实时语音/文字对话的 AI 分身：日语原声 + 中文字幕、回忆原作剧情、跨角色共享记忆；支持 Google/GitHub 登录与自带密钥，Docker Compose 一键部署（参考 LAPLACE Eidolon）	
+pppscn/SmsForwarder	28769	BSD-2-Clause	devtools	Webhooks, Events & Integration Hubs	短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正	
+risingwavelabs/risingwave	9403	Apache-2.0	devtools	Webhooks, Events & Integration Hubs	Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.	
+keel-hq/keel	2743	MPL-2.0	devtools	Webhooks, Events & Integration Hubs	Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates	
+zdz/ServerStatus-Rust	2334	Apache-2.0	devtools	Webhooks, Events & Integration Hubs	✨ Rust 版 ServerStatus 探针、威力加强版	
+kimdre/doco-cd	1767	Apache-2.0	devtools	Webhooks, Events & Integration Hubs	Docker Compose Continuous Deployment	
+openilink/openilink-hub	1611	MIT	devtools	Webhooks, Events & Integration Hubs	开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs	
+ncarlier/webhookd	1104	MIT	devtools	Webhooks, Events & Integration Hubs	A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.	
+kha7iq/pingme	873	MIT	devtools	Webhooks, Events & Integration Hubs	PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms	
+bogkonstantin/android_income_sms_gateway_webhook	706	MIT	devtools	Webhooks, Events & Integration Hubs	Simple Android incoming SMS to URL forwarder	
+AlexAnys/openclaw-feishu	688	MIT	devtools	Webhooks, Events & Integration Hubs	飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 （0328 - 更新飞书cli调用指南，增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）	
+telegram-bot-rb/telegram-bot	677	MIT	devtools	Webhooks, Events & Integration Hubs	Ruby gem for building Telegram Bot with optional Rails integration	
+adrgs/requestrepo	545	MIT	devtools	Webhooks, Events & Integration Hubs	Analyze HTTP, DNS and SMTP requests and create custom responses and DNS records for your subdomain	
+lovvskillz/python-discord-webhook	538	MIT	devtools	Webhooks, Events & Integration Hubs	execute discord webhooks	
+sanjusss/aliyun-ddns	537	BSD-3-Clause	devtools	Webhooks, Events & Integration Hubs	阿里云动态域名工具，支持docker和ipv6。	
+alash3al/wsify	523	NONE	devtools	Webhooks, Events & Integration Hubs	A very simple  general purpose websocket server that does the job	
+sveltejs/svelte	88661	MIT	devtools	Website & App Templates	web development for the rest of us	
+kriasoft/react-starter-kit	23709	MIT	devtools	Website & App Templates	Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.	
+jasontaylordev/CleanArchitecture	20705	MIT	devtools	Website & App Templates	Clean Architecture Solution Template for ASP.NET Core	
+federico-busato/Modern-CPP-Programming	16287	CC-BY-SA-4.0	devtools	Website & App Templates	Modern C++ Programming Course (C++03/11/14/17/20/23/26)	
+top-think/think	7883	NOASSERTION	devtools	Website & App Templates	ThinkPHP Framework ——二十年匠心的高性能PHP框架	
+evrone/go-clean-template	7717	MIT	devtools	Website & App Templates	Clean Architecture template for Golang services	
+un-pany/v3-admin-vite	7067	MIT	devtools	Website & App Templates	☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板	
+fullstackhero/dotnet-starter-kit	6859	MIT	devtools	Website & App Templates	Production Grade Cloud-Ready .NET 10 Starter Kit (Web API + React Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.	
+Armour/vue-typescript-admin-template	5658	MIT	devtools	Website & App Templates	🖖 A vue-cli 3.0 + typescript minimal admin template	
+breferrari/obsidian-mind	5509	MIT	devtools	Website & App Templates	A self-organizing Obsidian vault that gives AI coding agents persistent memory.	
+TheLartians/ModernCppStarter	5412	Unlicense	devtools	Website & App Templates	🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.	
+ln-dev7/circle	4757	MIT	devtools	Website & App Templates	UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.	
+Masterminds/sprig	4753	MIT	devtools	Website & App Templates	Useful template functions for Go templates.	
+thoughtbot/suspenders	4040	MIT	devtools	Website & App Templates	A Rails application template with our standard defaults, optimized for deployment on Heroku.	
+kriasoft/graphql-starter-kit	3968	MIT	devtools	Website & App Templates	💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.	
+Misterio77/nix-starter-configs	3851	CC0-1.0	devtools	Website & App Templates	Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!	
+stisla/stisla	3759	MIT	devtools	Website & App Templates	Component library built on constraint.	
+forwardemail/email-templates	3743	MIT	devtools	Website & App Templates	Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.	
+iczer/vue-antd-admin	3659	MIT	devtools	Website & App Templates	🐜 Ant Design Pro's implementation with Vue	
+geex-arts/django-jet	3617	AGPL-3.0	devtools	Website & App Templates	Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo	
+callstack/react-native-builder-bob	3232	NONE	devtools	Website & App Templates	Simple set of CLIs to scaffold and build React Native libraries for different targets	
+hairyhenderson/gomplate	3215	MIT	devtools	Website & App Templates	A flexible commandline tool for template rendering. Supports lots of local and remote datasources.	
+android/architecture-templates	3171	Apache-2.0	devtools	Website & App Templates		
+WebReflection/hyperHTML	3108	ISC	devtools	Website & App Templates	A Fast & Light Virtual DOM Alternative	
+zuramai/mazer	3107	MIT	devtools	Website & App Templates	Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page 	

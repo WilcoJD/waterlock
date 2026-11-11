@@ -1,0 +1,380 @@
+Casualtek/Ransomchats	576	MIT	security	Backup, Ransomware & Recovery		
+SitinCloud/Owlyshield	436	EUPL-1.2	security	Backup, Ransomware & Recovery	Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact).	
+ThreatLabz/ransomware_notes	428	MIT	security	Backup, Ransomware & Recovery	An Archive of Ransomware Notes Past and Present Collected by Zscaler ThreatLabz	
+maravento/blackweb	400	GPL-3.0	security	Backup, Ransomware & Recovery	Domains Blacklist for Squid-Cache	
+HugoLB0/Ransom0	359	MIT	security	Backup, Ransomware & Recovery	Ransom0 is a open source ransomware made with Python, designed to find and encrypt user data.	
+0x00000FF/rensenware-cut	346	GPL-3.0	security	Backup, Ransomware & Recovery	cut version of rensenware	
+prodaft/malware-ioc	322	MIT	security	Backup, Ransomware & Recovery	This repository contains indicators of compromise (IOCs) of our various investigations.	
+Hildaboo/BabukRansomwareSourceCode	297	NONE	security	Backup, Ransomware & Recovery	Leaked source code of the babuk ransomware by VXUG	
+zR00t1/WannaCry	287	GPL-3.0	security	Backup, Ransomware & Recovery	基于C#编写的WannaCry模拟病毒，通常应用于网络安全应急演练	
+usestrix/strix	74212	Apache-2.0	security	Bug Bounty & Pentest Management	Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.	
+maurosoria/dirsearch	15052	NONE	security	Bug Bounty & Pentest Management	Web path scanner	
+yogeshojha/rengine	8922	GPL-3.0	security	Bug Bounty & Pentest Management	reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User	
+six2dez/reconftw	8338	MIT	security	Bug Bounty & Pentest Management	reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities	
+LasCC/HackTools	7109	NONE	security	Bug Bounty & Pentest Management	The all-in-one browser extension for offensive security professionals 🛠	
+pry0cc/axiom	4442	MIT	security	Bug Bounty & Pentest Management	The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!	
+CyberStrikeus/CyberStrike	3423	AGPL-3.0	security	Bug Bounty & Pentest Management	Open-source AI-powered offensive security harness for automated penetration testing.	
+samugit83/redamon	3316	MIT	security	Bug Bounty & Pentest Management	Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it finds. MCP both ways: plug in any MCP server as a tool, or 	
+Armur-Ai/Pentest-Swarm-AI	3146	AGPL-3.0	security	Bug Bounty & Pentest Management	Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.	
+danieldurnea/FBI-tools	2730	NONE	security	Bug Bounty & Pentest Management	🕵️ OSINT Tools for gathering information and actions forensics 🕵️ 	
+kpcyrd/sn0int	2558	GPL-3.0	security	Bug Bounty & Pentest Management	Semi-automatic OSINT framework and package manager	
+0xSteph/pentest-ai-agents	2424	MIT	security	Bug Bounty & Pentest Management	Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.	
+DanOps-1/Gpt-Agreement-Payment	2308	MIT	security	Bug Bounty & Pentest Management	ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research	
+Autumn-27/ScopeSentry	2307	NONE	security	Bug Bounty & Pentest Management	ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes	
+haccer/subjack	2126	MIT	security	Bug Bounty & Pentest Management	DNS Takeover tool written in Go	
+dylanbai8/kmspro	1698	NONE	security	Certificate & Key Management	windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器	
+denialwm/denial	1420	NOASSERTION	security	Certificate & Key Management	 A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.	
+NiREvil/windows-activation	1384	MIT	security	Certificate & Key Management	Instant Windows & Office Activation: 40–Second Solution	
+thClaws/thClaws	1253	Apache-2.0	security	Certificate & Key Management	Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.	
+kkkgo/vlmcsd	1162	NONE	security	Certificate & Key Management	🔑Portable open-source KMS Emulator in C	
+elfordanson/windows_11_pro_product_key_activation	749	NONE	security	Certificate & Key Management	Activate Windows 11 Pro for free using CMD — no third-party tools required	
+mikolatero/docker-vlmcsd	599	NONE	security	Certificate & Key Management	vlmcsd is a replacement for Microsoft's KMS server.	
+decentralized-identity/veramo	544	Apache-2.0	security	Certificate & Key Management	A JavaScript Framework for Verifiable Data	
+glmark2/glmark2	532	GPL-3.0	security	Certificate & Key Management	glmark2 is an OpenGL 2.0 and ES 2.0 benchmark	
+starling-build/starling	415	Apache-2.0	security	Certificate & Key Management	Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps	
+Cosmian/kms	371	NOASSERTION	security	Certificate & Key Management	A feature-rich, scalable, Key Management System	
+intel/confidential-computing-zoo	367	Apache-2.0	security	Certificate & Key Management	Confidential Computing Zoo provides confidential computing solutions based on Intel SGX, TDX, HEXL, etc. technologies.	
+OpenKMIP/PyKMIP	299	Apache-2.0	security	Certificate & Key Management	A Python implementation of the KMIP specification.	
+n8tbyte/win10-enterprise-ltsc-activation	264	NONE	security	Certificate & Key Management	Activate Windows 10/11 Enterprise LTSC	
+vkmark/vkmark	247	LGPL-2.1	security	Certificate & Key Management	Vulkan benchmark	
+madhuakula/kubernetes-goat	5938	MIT	security	Cloud Security & CSPM	Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀	
+Hacking-the-Cloud/hackingthe.cloud	2793	NOASSERTION	security	Cloud Security & CSPM	An encyclopedia for offensive and defensive security knowledge in cloud native technologies.	
+BishopFox/cloudfox	2616	MIT	security	Cloud Security & CSPM	Automating situational awareness for cloud penetration tests.	
+DataDog/stratus-red-team	2442	Apache-2.0	security	Cloud Security & CSPM	:cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud	
+salesforce/cloudsplaining	2257	BSD-3-Clause	security	Cloud Security & CSPM	Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.	
+chaitin/veinmind-tools	1652	MIT	security	Cloud Security & CSPM	veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集	
+uphiago/recon-skills	1328	MIT	security	Cloud Security & CSPM	Recon & pentest skill pack. CORS, XSS, SQLi, SSRF, RCE, WordPress, MCP, cloud, subdomain takeover, and more. Field-tested. MIT. Full write-up at hiago.sh	
+paralus/paralus	1213	Apache-2.0	security	Cloud Security & CSPM	All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.	
+Zeyad-Azima/Offensive-Resources	1177	NONE	security	Cloud Security & CSPM	A Huge Learning Resources with Labs For Offensive Security Players	
+cdxiaodong/cain-agent	946	Apache-2.0	security	Cloud Security & CSPM	Real-world AI penetration testing engineer for authorized assessments — built-in cloud module covering AWS/Azure/GCP + Aliyun/Tencent/Huawei clouds. Built on Claude Agent SDK	
+cyberark/SkyArk	913	MIT	security	Cloud Security & CSPM	SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS	
+Mafifrizi/ARES	913	MIT	security	Cloud Security & CSPM	ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls, encrypted vault, and reporting.	
+aquasecurity/cloud-security-remediation-guides	745	NONE	security	Cloud Security & CSPM	Security Remediation Guides	
+Esonhugh/Attack_Code	559	NONE	security	Cloud Security & CSPM	文章 Attack Code 的详细全文。安全和开发总是具有伴生属性，尤其是云的安全方向，本篇文章是希望能帮助到读者的云安全入门材料。Full text of the article Attack Code. Security and development always have concomitant attributes, and this is especially true with the security direction of the cloud. This article is an intro	
+awslabs/iam-policy-autopilot	503	Apache-2.0	security	Cloud Security & CSPM	IAM Policy Autopilot is an open source static code analysis tool that helps you quickly create baseline AWS IAM policies that you can refine as your application evolves. This tool is available as a command-line utility and MCP server for use within AI coding a	
+trimstray/the-practical-linux-hardening-guide	10910	MIT	security	Compliance Automation & GRC	This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).	
+netwrix/pingcastle	2994	NOASSERTION	security	Compliance Automation & GRC	PingCastle - Get Active Directory Security at 80% in 20% of the time	
+ovh/debian-cis	1079	NOASSERTION	security	Compliance Automation & GRC	PCI-DSS compliant Debian 12/13 hardening	
+cloudgraphdev/cli	889	MPL-2.0	security	Compliance Automation & GRC	The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.	
+metriport/metriport	798	NOASSERTION	security	Compliance Automation & GRC	Healthcare data infrastructure for next generation care delivery.	
+TURROKS/CVE_Prioritizer	711	BSD-3-Clause	security	Compliance Automation & GRC	Streamline vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends.	
+msd0pe-1/cve-maker	486	GPL-3.0	security	Compliance Automation & GRC	Tool to find CVEs and Exploits.	
+Hey-Telo/admyral	338	Apache-2.0	security	Compliance Automation & GRC	🤖 Admyral enables continuous control monitoring for any custom control	
+theopenlane/core	337	Apache-2.0	security	Compliance Automation & GRC	Open source compliance automation for SOC 2, GDPR, ISO27001, NIST 800-53, and more	
+PeterGeelen/ISO27001	243	NONE	security	Compliance Automation & GRC	Useful templates and working document for implementing ISO 27001 - ISMS	
+Aif4thah/Dojo-101	229	GPL-3.0	security	Compliance Automation & GRC	Base de connaissances Cybersécurité & DevSecOps (Offline-First) : +250 fiches pratiques, Cheat-Sheets & ressources IA	
+langleyfoxall/laravel-nist-password-rules	211	LGPL-3.0	security	Compliance Automation & GRC	🔒 Laravel validation rules that follow the password related recommendations found in NIST Special Publication 800-63B section 5.	
+usnistgov/ACVP	211	NONE	security	Compliance Automation & GRC	Industry Working Group on Automated Cryptographic Algorithm Validation	
+MolSSI/QCElemental	203	BSD-3-Clause	security	Compliance Automation & GRC	Periodic table, physical constants, and molecule parsing for quantum chemistry.	
+smithoss/gonymizer	160	Apache-2.0	security	Compliance Automation & GRC	Gonymizer: A Tool to Anonymize Sensitive PostgreSQL Data Tables  for Use in QA and Testing	
+Albert-Weasker/niubi_guard	1304	NOASSERTION	security	Content Moderation & Trust & Safety	Open-source GitHub repository abuse detection and response system.	
+jagrosh/Vortex	596	Apache-2.0	security	Content Moderation & Trust & Safety	🌀 Discord Moderation Bot	
+bluesky-social/ozone	546	NOASSERTION	security	Content Moderation & Trust & Safety	web interface for labeling content in atproto / Bluesky	
+roostorg/osprey	500	Apache-2.0	security	Content Moderation & Trust & Safety	Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale.	
+matrix-org/mjolnir	448	Apache-2.0	security	Content Moderation & Trust & Safety	A moderation tool for Matrix	
+skyra-project/skyra	309	Apache-2.0	security	Content Moderation & Trust & Safety	A multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability.	
+iCrawl/yuudachi	281	AGPL-3.0	security	Content Moderation & Trust & Safety	Discord moderation bot	
+the-draupnir-project/Draupnir	252	NONE	security	Content Moderation & Trust & Safety	A Matrix community management platform	
+iTzArshia/GPT-Discord-Bot	236	MIT	security	Content Moderation & Trust & Safety	🧠 Example Discord Bot written in JavaScript that uses OpenAIs models such as ,`GPT 4`, `GPT-3.5-Turbo`, `Dall-E`, and `Text-Moderation-Stable` with many features such as ChatGPT-Style Conversation, image-Generator, Auto-Moderator and more!	
+KillovSky/Iris	213	MIT	security	Content Moderation & Trust & Safety	Repositório oficial do Projeto Íris, uma BOT cuidadosamente desenvolvida para o WhatsApp usando a biblioteca Baileys	
+ckt1031/DraconianBot	160	MIT	security	Content Moderation & Trust & Safety	With its robust performance, intuitive design, and vast array of functionalities, the Draconian Bot is the ultimate solution for all your needs.	
+BestGamersH/Multipurpose-Discord-Bot	152	MIT	security	Content Moderation & Trust & Safety	The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More	
+Michael-J-Scofield/discord-anti-spam	149	MIT	security	Content Moderation & Trust & Safety	A simple discord anti spam node.js module to prevent spam on your discord server	
+roostorg/coop	145	Apache-2.0	security	Content Moderation & Trust & Safety	Review and moderation, your way. Online safety dashboard, queues, routing and automatic enforcement rules, and integrations.	
+cometchat/docs-mcp	140	Apache-2.0	security	Content Moderation & Trust & Safety	CometChat docs search + implementation bundles: add chat, voice, video & moderation to your app through your AI coding agent.	
+pipelab-org/pipelock	987	Apache-2.0	security	Data Loss Prevention & Governance	Open-source AI agent firewall for MCP security and agent egress. Scans mediated HTTP, MCP, A2A, and WebSocket traffic for exfiltration, SSRF, and prompt injection, and emits mediator-signed action receipts: verifiable audit evidence from outside the agent.	
+nasa/earthdata-search	829	NOASSERTION	security	Data Loss Prevention & Governance	Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.	
+solongate/agent-security	424	Apache-2.0	security	Data Loss Prevention & Governance	Local-first, open-source security gateway for AI coding agents. Enforce tool-call policies, detect secrets, and audit actions on-device.	
+Brain0-ai/brain0	294	Apache-2.0	security	Data Loss Prevention & Governance	The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offl	
+privacyshield-ai/privacy-firewall	246	MIT	security	Data Loss Prevention & Governance	A local AI-powered DLP solution 	
+dsrhaslab/lazyfs	244	NOASSERTION	security	Data Loss Prevention & Governance	LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes	
+mthh/jenkspy	242	MIT	security	Data Loss Prevention & Governance	Compute Natural Breaks in Python (Fisher-Jenks algorithm)	
+node9-ai/node9-proxy	225	Apache-2.0	security	Data Loss Prevention & Governance	Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky actions before they run, and keep every action on the record.	
+PaperMtn/gitlab-watchman	207	GPL-3.0	security	Data Loss Prevention & Governance	Finding exposed secrets and personal data in GitLab	
+GoogleCloudPlatform/df-ml-anomaly-detection	192	Apache-2.0	security	Data Loss Prevention & Governance	Streaming Anomaly Detection Solution by using Pub/Sub, Dataflow, BQML & Cloud DLP	
+chengr28/specialdlp	175	GPL-2.0	security	Data Loss Prevention & Governance	Strict DLP Chinese (SDC) is a set of strict DLP (Dynamic Leech Protection) DLLs based on the eMule Xtreme Mod's official version. SDC variants put easyMule v2, easyMule v1 and/or eMule VeryCD Mod into "Soft Ban" or "Hard Ban" list because of GPL violation, pri	
+jnMetaCode/shellward	138	Apache-2.0	security	Data Loss Prevention & Governance	AI 应用合规网关 · 一行命令体检 AI 项目的「数据出境 / 硬编码密钥 / 个人信息暴露」（网安法·PIPL·等保2.0·数据出境·AI标识），并给出境内模型替代建议；可作运行时防护拦截注入与数据外泄 · 中文优先 · 零依赖 · 开源	
+lemonadesaltbagel/veil	134	Apache-2.0	security	Data Loss Prevention & Governance	Local privacy proxy for AI coding agents. Keep PII and secrets out of LLMs with deterministic pseudonymization.	
+lemonadesaltbagel/airlock	130	Apache-2.0	security	Data Loss Prevention & Governance	A privacy-first local coding agent that consults frontier AI models without exposing your source code.	
+decisionbox-io/decisionbox-platform	122	AGPL-3.0	security	Data Loss Prevention & Governance	DecisionBox connects to your data warehouse, runs autonomous AI agents that write and execute SQL, and surfaces validated insights and actionable recommendations — without you asking a single question.	
+LOLBAS-Project/LOLBAS	8925	GPL-3.0	security	Digital Forensics & Incident Response	Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)	
+Neo23x0/Loki	3801	GPL-3.0	security	Digital Forensics & Incident Response	Loki - Simple IOC and YARA Scanner	
+WithSecureOpenSource/chainsaw	3709	GPL-3.0	security	Digital Forensics & Incident Response	Rapidly Search and Hunt through Windows Forensic Artefacts	
+google/timesketch	3446	Apache-2.0	security	Digital Forensics & Incident Response	Collaborative forensic timeline analysis	
+JPCERTCC/LogonTracer	3303	NOASSERTION	security	Digital Forensics & Incident Response	Investigate malicious Windows logon by visualizing and analyzing Windows event log	
+olafhartong/sysmon-modular	3186	MIT	security	Digital Forensics & Incident Response	A repository of sysmon configuration modules	
+sepinf-inc/IPED	3090	NOASSERTION	security	Digital Forensics & Incident Response	IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.	
+yeti-platform/yeti	2041	Apache-2.0	security	Digital Forensics & Incident Response	Your Everyday Threat Intelligence	
+Purp1eW0lf/Blue-Team-Notes	1784	NONE	security	Digital Forensics & Incident Response	You didn't think I'd go and leave the blue team out, right? 	
+simsong/tcpflow	1779	GPL-3.0	security	Digital Forensics & Incident Response	TCP/IP packet demultiplexer. Download from:	
+Bert-JanP/Hunting-Queries-Detection-Rules	1771	BSD-3-Clause	security	Digital Forensics & Incident Response	KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules. 	
+TheHive-Project/Cortex	1646	AGPL-3.0	security	Digital Forensics & Incident Response	Cortex: a Powerful Observable Analysis and Active Response Engine	
+dfir-iris/iris-web	1621	LGPL-3.0	security	Digital Forensics & Incident Response	Collaborative Incident Response platform	
+RyanDFIR/hindsight	1554	Apache-2.0	security	Digital Forensics & Incident Response	Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox	
+ostafen/digler	1495	MIT	security	Digital Forensics & Incident Response	Digler is a tool for forensic disk analysis and file recovery. It's designed to help you unearth lost or deleted data from various disk images and raw devices.	
+hagezi/dns-blocklists	28385	GPL-3.0	security	Email Security & Anti-Spam	DNS-Blocklists: For a better internet - keep the internet clean!	
+htr-tech/zphisher	17165	GPL-3.0	security	Email Security & Anti-Spam	An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !	
+wifiphisher/wifiphisher	14948	GPL-3.0	security	Email Security & Anti-Spam	The Rogue Access Point Framework	
+gophish/gophish	14394	NOASSERTION	security	Email Security & Anti-Spam	Open-Source Phishing Toolkit	
+UndeadSec/SocialFish	4936	BSD-3-Clause	security	Email Security & Anti-Spam	Phishing Tool & Information Collector 	
+skerkour/black-hat-rust	4456	MIT	security	Email Security & Anti-Spam	Applied offensive security with Rust  - https://kerkour.com/black-hat-rust	
+Ignitetch/AdvPhishing	3338	NONE	security	Email Security & Anti-Spam	This is Advance Phishing Tool ! OTP PHISHING	
+jaykali/maskphish	3246	MIT	security	Email Security & Anti-Spam	Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.	
+CrimsonForge-io/king-phisher	2609	BSD-3-Clause	security	Email Security & Anti-Spam	Phishing Campaign Toolkit	
+mojocn/base64Captcha	2364	NOASSERTION	security	Email Security & Anti-Spam	captcha of base64 image string	
+AdrMXR/KitHack	2104	MIT	security	Email Security & Anti-Spam	Hacking tools pack & backdoors generator.	
+shivaya-dav/DogeRat	2088	NONE	security	Email Security & Anti-Spam	A multifunctional Telegram based Android RAT without port forwarding.	
+Gregwar/Captcha	1823	MIT	security	Email Security & Anti-Spam	PHP Captcha library	
+Phishing-Database/Phishing.Database	1636	MIT	security	Email Security & Anti-Spam	Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.	
+BiZken/PhishMailer	1442	MIT	security	Email Security & Anti-Spam	Generate Professional Phishing Emails Fast And Easy	
+xxh/xxh	6128	BSD-2-Clause	security	Endpoint & Device Management (MDM)	🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.	
+clong/DetectionLab	5056	MIT	security	Endpoint & Device Management (MDM)	Automate the creation of a lab environment complete with security tooling and logging best practices	
+micromdm/micromdm	2700	MIT	security	Endpoint & Device Management (MDM)	Mobile Device Management server	
+assafdori/bypass-mdm	2599	MIT	security	Endpoint & Device Management (MDM)	Bypass MDM Setup for MacOS, up to MacOS Golden Gate.	
+mcu-tools/mcuboot	2189	Apache-2.0	security	Endpoint & Device Management (MDM)	Secure boot for 32-bit Microcontrollers!	
+palantir/osquery-configuration	909	NOASSERTION	security	Endpoint & Device Management (MDM)	A repository for using osquery for incident detection and response	
+eclipse-leshan/leshan	694	BSD-3-Clause	security	Endpoint & Device Management (MDM)	Java Library for LWM2M	
+witchan/ios-mcp	686	MIT	security	Endpoint & Device Management (MDM)	让 Claude、Codex、Cursor 等 AI 助手看懂 iPhone 屏幕并直接操作手机的 iOS 自动化工具与 MCP Server，支持 UI 树获取、元素定位、截图与 OCR 识别、点击滑动、文字输入、应用管理和日志读取，适用于自动化测试与 iOS 逆向调试	
+JayRHa/intune-remediation-scripts	664	MIT	security	Endpoint & Device Management (MDM)	Detection and remediation scripts for Microsoft Intune endpoint management.	
+chainguard-dev/osquery-defense-kit	651	Apache-2.0	security	Endpoint & Device Management (MDM)	Production-ready detection & response queries for osquery	
+travisvn/stop-tahoe-update	587	MIT	security	Endpoint & Device Management (MDM)	Prevent your Mac from "upgrading" to Tahoe. A community-led effort to safely block unwanted macOS upgrades.	
+jmpsec/osctrl	545	MIT	security	Endpoint & Device Management (MDM)	Fast and efficient osquery management	
+kolide/launcher	542	NOASSERTION	security	Endpoint & Device Management (MDM)	Osquery launcher, autoupdater, and packager	
+wolfSSL/wolfBoot	538	GPL-3.0	security	Endpoint & Device Management (MDM)	wolfBoot is a portable, OS-agnostic, secure bootloader for microcontrollers, supporting firmware authentication and firmware update mechanisms.	
+ukncsc/Device-Security-Guidance-Configuration-Packs	472	Apache-2.0	security	Endpoint & Device Management (MDM)	This repository contains policy packs which can be used by system management software to configure device platforms (such as Windows 10 and iOS) in accordance with NCSC device security guidance. These configurations are aimed primarily at government and other 	
+evilsocket/opensnitch	14257	GPL-3.0	security	Firewalls & Network Security	OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.	
+henrypp/simplewall	9260	GPL-3.0	security	Firewalls & Network Security	Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.	
+chaifeng/ufw-docker	6852	GPL-3.0	security	Firewalls & Network Security	To fix the Docker and UFW security flaw without disabling iptables	
+celzero/rethink-app	5861	Apache-2.0	security	Firewalls & Network Security	DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.	
+pfsense/pfsense	5783	Apache-2.0	security	Firewalls & Network Security	Main repository for pfSense	
+martin-ger/esp_wifi_repeater	5289	MIT	security	Firewalls & Network Security	A full functional WiFi NAT Router (and now also a WiFi Repeater)	
+crazy-max/WindowsSpyBlocker	5238	MIT	security	Firewalls & Network Security	Block spying and tracking on Windows	
+emanuele-f/PCAPdroid	5120	GPL-3.0	security	Firewalls & Network Security	No-root network monitor, firewall and PCAP dumper for Android	
+tnodir/fort	3684	GPL-3.0	security	Firewalls & Network Security	Fort Firewall for Windows	
+ukanth/afwall	3529	GPL-3.0	security	Firewalls & Network Security	AFWall+ (Android Firewall +) - iptables based firewall for Android 	
+yokoffing/NextDNS-Config	3224	GPL-3.0	security	Firewalls & Network Security	Setup guide for NextDNS, a DoH proxy with advanced capabilities	
+pythops/oryx	2613	GPL-3.0	security	Firewalls & Network Security	🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux	
+lihenggui/blocker	2486	Apache-2.0	security	Firewalls & Network Security	Utilize an integrated firewall to manage application components.	
+hackerschoice/gsocket	1941	BSD-2-Clause	security	Firewalls & Network Security	Connect like there is no firewall. Securely.	
+firehol/firehol	1602	GPL-2.0	security	Firewalls & Network Security	A firewall for humans...	
+telekom-security/tpotce	9704	GPL-3.0	security	Honeypots & Deception	🍯 T-Pot - The All In One Multi Honeypot Platform 🐝	
+cowrie/cowrie	6666	NOASSERTION	security	Honeypots & Deception	Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/	
+beelzebub-labs/beelzebub	2231	GPL-3.0	security	Honeypots & Deception	A secure low code deception runtime framework, leveraging AI for System Virtualization.	
+GoSecure/pyrdp	1787	GPL-3.0	security	Honeypots & Deception	RDP monster-in-the-middle (mitm) and library for Python with the ability to watch connections live or after the fact	
+jaksi/sshesame	1774	Apache-2.0	security	Honeypots & Deception	An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity	
+mushorg/conpot	1538	GPL-2.0	security	Honeypots & Deception	ICS/SCADA honeypot	
+honeytrap/honeytrap	1313	NOASSERTION	security	Honeypots & Deception	Advanced Honeypot framework.	
+seccome/Ehoney	1273	Apache-2.0	security	Honeypots & Deception	安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions.	
+R00tS3c/DDOS-RootSec	1067	NOASSERTION	security	Honeypots & Deception	Explore RootSec's DDOS Archive, featuring top-tier scanners, powerful botnets (Mirai & QBot) and other variants, high-impact exploits, advanced methods, and efficient sniffers. Ideal for cybersecurity professionals and researchers.	
+qeeqbox/honeypots	988	AGPL-3.0	security	Honeypots & Deception	30 different honeypots in one package! (dhcp, dns, elastic, ftp, http proxy, https proxy, http, https, imap, ipp, irc, ldap, memcache, mssql, mysql, ntp, oracle, pjl, pop3, postgres, rdp, redis, sip, smb, smtp, snmp, socks5, ssh, telnet, vnc)	
+qeeqbox/chameleon	840	AGPL-3.0	security	Honeypots & Deception	19 Customizable honeypots for monitoring network traffic, bots activities and username\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap) 	
+DinoTools/dionaea	818	GPL-2.0	security	Honeypots & Deception	Home of the dionaea honeypot	
+0x4D31/fatt	686	BSD-3-Clause	security	Honeypots & Deception	FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic	
+0x4D31/galah	674	Apache-2.0	security	Honeypots & Deception	Galah: An LLM-powered web honeypot.	
+0x4D31/honeyLambda	528	GPL-3.0	security	Honeypots & Deception	honeyλ - a simple, serverless application designed to create and monitor fake HTTP endpoints (i.e. URL honeytokens) automatically, on top of AWS Lambda and Amazon API Gateway	
+FaceAISDK/FaceAISDK_Android	1275	NONE	security	Identity Verification & KYC	Android on_device Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK  端侧可离线人脸识别 活体检测 以及1:N M:N 人脸搜索SDK 	
+rushisangani/BiometricAuthentication	829	MIT	security	Identity Verification & KYC	Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.	
+MiniAiLive/Android-FaceRecognition	808	NONE	security	Identity Verification & KYC	Face Recognition App; Face Liveness Detection; Face Detection; Face Alignment; Face Identification && Face Verification && Face Compare; Face Matching; Face Tracking; Face Expression && Face Anti Spoofing; Face Attribute && Face Age; Face Transfer; Face Anti-S	
+kby-ai/FaceRecognition-Android	729	NONE	security	Identity Verification & KYC	Face Recognition FRVT, Face Liveness Detection, Face Recognition , Face Liveness, Face Identification, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Landmarks, Face Representation, Face Reconstruction	
+mgks/Android-SmartWebView	670	MIT	security	Identity Verification & KYC	A simple use webview integrated w/ native features & plugin support for building hybrid apps.	
+arpanjot-coding/AVault	615	NOASSERTION	security	Identity Verification & KYC	AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.	
+tomas-gajarsky/facetorch	614	Apache-2.0	security	Identity Verification & KYC	Python library for analysing faces using PyTorch	
+phuselab/pyVHR	599	GPL-3.0	security	Identity Verification & KYC	Python framework for Virtual Heart Rate	
+FaceAISDK/FaceRecognition_ReactNative	563	NONE	security	Identity Verification & KYC	ReactNative on-device face verification, liveness detection, and face enrollment for Android and iOS.	
+GunduLabs/gaze	544	GPL-3.0	security	Identity Verification & KYC	Facial authentication for Linux	
+cvqluu/Angular-Penalty-Softmax-Losses-Pytorch	499	MIT	security	Identity Verification & KYC	Angular penalty loss functions in Pytorch (ArcFace, SphereFace, Additive Margin, CosFace) 	
+FaceOnLive/ID-Verification-OpenKYC	468	NONE	security	Identity Verification & KYC	OpenKYC Community Project, Face Recognition & Face Liveness Detection  (Face Anti Spoofing) & ID Document Recognition	
+DmitryRyumin/CVPR-2023-24-Papers	453	MIT	security	Identity Verification & KYC	CVPR 2023-2024 Papers: Dive into advanced research presented at the leading computer vision conference. Keep up to date with the latest developments in computer vision and deep learning. Code included. ⭐ support visual intelligence development!	
+recognito-vision/Linux-FaceRecognition-FaceLivenessDetection	371	NONE	security	Identity Verification & KYC	NIST_FRVT Top 1🏆 Face Recognition, Liveness Detection(Face Anti-Spoof), Face Attribute Analysis Linux Server SDK Demo ☑️ Face Recognition ☑️ Face Matching ☑️ Face Liveness Detection ☑️ Face Identification (1:N Face Search) ☑️ Face Attribute Analysis	
+facex-engine/facex	350	Apache-2.0	security	Identity Verification & KYC	Full face stack that runs entirely in the browser. Detection, 576-point 3D mesh, recognition, anti-spoof, smile — all WebAssembly, zero server. Apache 2.0.	
+ffffffff0x/1earn	5734	NONE	security	IoT & OT Security	ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup	
+insightglacier/Dictionary-Of-Pentesting	2086	NONE	security	IoT & OT Security	Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。	
+marin-m/vmlinux-to-elf	1845	GPL-3.0	security	IoT & OT Security	A tool to recover a fully analyzable .ELF from a raw kernel, through extracting the kernel symbol table (kallsyms)	
+fkie-cad/FACT_core	1476	GPL-3.0	security	IoT & OT Security	Firmware Analysis and Comparison Tool	
+GhostESP-Revival/GhostESP	1124	GPL-3.0	security	IoT & OT Security	The open-source wireless research platform for ESP32.	
+OWASP/IoTGoat	962	MIT	security	IoT & OT Security	 IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.	
+zakharb/labshock	805	NOASSERTION	security	IoT & OT Security	OT Security Lab for ICS networks	
+Fortiphyd/GRFICSv2	650	GPL-3.0	security	IoT & OT Security	Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)	
+wolfSSL/wolfMQTT	597	GPL-3.0	security	IoT & OT Security	wolfMQTT is a small, fast, portable MQTT client implementation, including support for TLS 1.3.	
+chris-ritsen/samsung-tv-root	525	Unlicense	security	IoT & OT Security	Samsung Tizen root	
+cruise-automation/fwanalyzer	516	Apache-2.0	security	IoT & OT Security	a tool to analyze filesystem images for security	
+wolfSSL/wolfssh	510	NONE	security	IoT & OT Security	wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.	
+scriptingxss/owasp-fstm	508	CC-BY-SA-4.0	security	IoT & OT Security	The Firmware Security Testing Methodology (FSTM) is composed of nine stages tailored to enable security researchers, software developers, consultants, and Information Security professionals with conducting firmware security assessments.	
+e-m-b-a/embark	397	MIT	security	IoT & OT Security	EMBArk - The firmware security scanning environment	
+Ares-X/VulWiki	233	NONE	security	IoT & OT Security	中文漏洞知识库，整理 Web、中间件、网络设备与系统漏洞的原理和公开复现资料，支持按产品、CVE、指纹检索。Chinese vulnerability knowledge base.	
+alganzory/HaramBlur	2121	AGPL-3.0	security	Parental Controls & Content Filtering	A Browser extension that enables you to navigate the web with respect for your Islamic values, protect your privacy and reduce browsing distractions by auto detecting and blurring "Haram" content.	
+nsfw-filter/nsfw-filter	1797	GPL-3.0	security	Parental Controls & Content Filtering	A free, open source, and privacy-focused browser extension to block “not safe for work” content built using TensorFlow.js.	
+renoki-co/befriended	762	Apache-2.0	security	Parental Controls & Content Filtering	Eloquent Befriended brings social media-like features like following, blocking and filtering content based on following or blocked models.	
+NsfwSpy/NsfwSpy.NET	407	MIT	security	Parental Controls & Content Filtering	A .NET image and video classifier used to identify explicit/pornographic content written in C#.	
+GHJJ123/brainrotguard	398	MIT	security	Parental Controls & Content Filtering	YouTube approval system for kids — parent approves via Telegram, kid watches via web UI	
+Tomotsugu-dev/Hindsight	235	GPL-3.0	security	Parental Controls & Content Filtering	Local-first desktop activity tracker — see where your hours go, with on-device AI daily summaries and optional multi-device sync	
+Waishnav/Watcher	216	MIT	security	Parental Controls & Content Filtering	Minimal open source Screen-Time Tracker for Linux	
+zbarnz/Google_AI_Overviews_Blocker	158	NONE	security	Parental Controls & Content Filtering	Removes annoying (and often incorrect) Google AI Overview results.	
+majianchuan/screen-time-tracker	147	GPL-3.0	security	Parental Controls & Content Filtering	An intuitive, lightweight, and privacy-first Windows  desktop app to track screen time and application usage habits.	
+KOKOSde/localmod	116	MIT	security	Parental Controls & Content Filtering	Self-hosted content moderation API that outperforms Amazon Comprehend. 100% offline, your data never leaves your server. Text + Image moderation.	
+steelcityamir/safe-content-ai	109	MIT	security	Parental Controls & Content Filtering	A fast accurate API for detecting NSFW images.	
+helloxz/nsfw	108	AGPL-3.0	security	Parental Controls & Content Filtering	轻量级NSFW识别方案，支持私有部署和HTTP API调用。	
+Defiabell/yixi	102	MIT	security	Parental Controls & Content Filtering	打开干扰类 App 前，先呼吸十秒。自建的 One Sec 替代品，跑在 Cloudflare 免费额度上。A self-hosted One Sec alternative: breathe before the app opens.	
+msbelaid/PlugBrain	101	GPL-3.0	security	Parental Controls & Content Filtering	Break the doomscroll habit with a quick math challenge. The more you scroll, the harder it gets. Step away and it gets easier. Open source, no ads, no tracking, works offline.	
+andresribeiro/nsfwjs-docker	99	MIT	security	Parental Controls & Content Filtering	High-performance, self-hosted NSFW detection API powered by NSFWJS.	
+berzerk0/Probable-Wordlists	9387	CC-BY-SA-4.0	security	Password & Secrets Hygiene	Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!	
+Mebus/cupp	6613	GPL-3.0	security	Password & Secrets Hygiene	Common User Passwords Profiler (CUPP)	
+nextauthjs/next-auth-example	4024	ISC	security	Password & Secrets Hygiene	Example showing how to use NextAuth.js with Next.js	
+bdwgc/bdwgc	3556	NOASSERTION	security	Password & Secrets Hygiene	The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)	
+passwordless-lib/fido2-net-lib	1459	MIT	security	Password & Secrets Hygiene	Passkeys, FIDO2 and WebAuthn .NET library.	
+go-webauthn/webauthn	1359	BSD-3-Clause	security	Password & Secrets Hygiene	FIDO2 Conformant WebAuthn and Passkey backend library for golang	
+mikker/passwordless	1340	MIT	security	Password & Secrets Hygiene	🗝 Authentication for your Rails app without the icky-ness of passwords	
+zxcvbn-ts/zxcvbn	1243	MIT	security	Password & Secrets Hygiene	Low-Budget Password Strength Estimation	
+ohmybahgosh/RockYou2021.txt	1022	GPL-3.0	security	Password & Secrets Hygiene	RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  	
+MaxHu-xuan/chat-archive-guard	987	Apache-2.0	security	Password & Secrets Hygiene	Audit AI chat exports locally before sharing or migration. Find possible secrets, personal-data patterns, broken JSON/JSONL, SQLite issues, and scan gaps—without uploading the archive.	
+sgasser/pasteguard	811	Apache-2.0	security	Password & Secrets Hygiene	AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.	
+aaronn/django-rest-framework-passwordless	727	MIT	security	Password & Secrets Hygiene	Passwordless Auth for Django REST Framework	
+gitleaks/gitleaks-action	676	NOASSERTION	security	Password & Secrets Hygiene	Protect your secrets using Gitleaks-Action	
+passwordless-id/webauthn	618	MIT	security	Password & Secrets Hygiene	Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.	
+vflame6/leaker	609	MIT	security	Password & Secrets Hygiene	Passive leak enumeration tool.	
+badges/shields	27367	Apache-2.0	security	Physical Security & Visitor Systems	Concise, consistent, and legible badges in SVG and raster format	
+XAMPPRocky/tokei	15046	NOASSERTION	security	Physical Security & Visitor Systems	Count your code, quickly.	
+alexandresanlim/Badges4-README.md-Profile	13590	MIT	security	Physical Security & Visitor Systems	:octocat: Improve your README.md profile with these amazing badges.	
+Schweinepriester/github-profile-achievements	5084	MIT	security	Physical Security & Visitor Systems	A collection listing all Achievements available on the GitHub profile 🏆	
+Devlight/NavigationTabBar	4919	Apache-2.0	security	Physical Security & Visitor Systems	Navigation tab bar with colorful interactions.	
+journey-ad/Moe-Counter	3144	MIT	security	Physical Security & Visitor Systems	Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器	
+bingoogolapple/BGABadgeView-Android	2635	NONE	security	Physical Security & Visitor Systems	Android 徽章控件	
+angcyo/DslTabLayout	1763	MIT	security	Physical Security & Visitor Systems	:hearts: Android界最万能的TabLayout(不仅仅是TabLayout), 支持任意类型的item, 支持Drawable类型的指示器,智能开启滚动,支持横竖向布局等	
+badgen/badgen.net	1571	ISC	security	Physical Security & Visitor Systems	Fast badge service	
+tmdvs/TDBadgedCell	1417	MIT	security	Physical Security & Visitor Systems	TDBadgedCell is a table view cell class that adds a badge, similar to the badges in Apple's own apps	
+ossf/best-practices-badge	1373	MIT	security	Physical Security & Visitor Systems	🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge)	
+ghost1372/HandyControls	1314	MIT	security	Physical Security & Visitor Systems	Contains some simple and commonly used WPF controls based on HandyControl	
+u8views/go-u8views	1110	MIT	security	Physical Security & Visitor Systems	GitHub profile views tracker: displaying monthly view statistics	
+lovefc/china_school_badge	1023	Apache-2.0	security	Physical Security & Visitor Systems	全国高校校徽字体图标库	
+DenverCoder1/custom-icon-badges	992	MIT	security	Physical Security & Visitor Systems	🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges	
+HelloZeroNet/ZeroNet	18779	NOASSERTION	security	Privacy Tools & Anonymity	ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network	
+safing/portmaster	14033	GPL-3.0	security	Privacy Tools & Anonymity	🏔 Love Freedom - ❌ Block Mass Surveillance	
+tonyantony300/dashbeam	10248	AGPL-3.0	security	Privacy Tools & Anonymity	Share files nearby and beyond. 	
+undergroundwires/privacy.sexy	6167	AGPL-3.0	security	Privacy Tools & Anonymity	Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy	
+irbis-sh/zen-desktop	4355	MIT	security	Privacy Tools & Anonymity	System-wide ad-blocker and privacy guard for Windows, macOS and Linux.	
+constverum/ProxyBroker	4170	Apache-2.0	security	Privacy Tools & Anonymity	Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:	
+guardianproject/orbot-android	3681	NOASSERTION	security	Privacy Tools & Anonymity	The Github home of Orbot: Tor on Android (Also available on gitlab!)	
+flick9000/winscript	2992	GPL-3.0	security	Privacy Tools & Anonymity	Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.	
+Verlintas/NOIR	2857	MIT	security	Privacy Tools & Anonymity	手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.	
+i2p/i2p.i2p	2753	NOASSERTION	security	Privacy Tools & Anonymity	I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. 	
+OnionBrowser/OnionBrowser	2705	NOASSERTION	security	Privacy Tools & Anonymity	An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network	
+htrgouvea/nipe	2409	NOASSERTION	security	Privacy Tools & Anonymity	An engine to make Tor network your default gateway	
+owerdogan/whoami-project	2321	GPL-3.0	security	Privacy Tools & Anonymity	Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions	
+StellarSand/privacy-settings	2169	MIT	security	Privacy Tools & Anonymity	Guide to privacy settings for most major software and services.	
+Greedeks/GTweak	1838	BSD-3-Clause	security	Privacy Tools & Anonymity	Portable Tool for an Ideal Windows Setup	
+ihebski/DefaultCreds-cheat-sheet	6821	MIT	security	SIEM, SOC & Threat Detection	One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️	
+beenuar/AiSOC	6688	MIT	security	SIEM, SOC & Threat Detection	Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continu	
+SpinalHDL/VexRiscv	3303	MIT	security	SIEM, SOC & Threat Detection	A FPGA friendly 32 bit RISC-V CPU implementation	
+outflanknl/RedELK	2687	BSD-3-Clause	security	SIEM, SOC & Threat Detection	Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.	
+stnolting/neorv32	2305	BSD-3-Clause	security	SIEM, SOC & Threat Detection	🖥️ A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.	
+sherifabdlnaby/elastdocker	2068	MIT	security	SIEM, SOC & Threat Detection	🐳  Elastic Stack (ELK) v9+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.	
+riscv-mcu/e203_hbirdv2	1979	Apache-2.0	security	SIEM, SOC & Threat Detection	The Ultra-Low Power RISC-V Core	
+TheresAFewConors/Sooty	1494	GPL-3.0	security	SIEM, SOC & Threat Detection	The SOC Analysts all-in-one CLI tool to automate and speed up workflow.	
+FunnyWolf/agentic-soc-platform	1228	NONE	security	SIEM, SOC & Threat Detection	Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC)	
+pfelk/pfelk	1221	NOASSERTION	security	SIEM, SOC & Threat Detection	pfSense/OPNsense + Elastic Stack	
+Sec-Link/Argus-Agentic-SOC-Platform	1177	Apache-2.0	security	SIEM, SOC & Threat Detection	An open source AI-native agentic SOC platform	
+splinedrive/kianRiscV	1123	ISC	security	SIEM, SOC & Threat Detection	RISC-V XV6/Linux SoC, marchID: 0x2b, 0x34	
+edoardogerosa/sentinel-attack	1078	MIT	security	SIEM, SOC & Threat Detection	Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK	
+xboot/xboot	923	MIT	security	SIEM, SOC & Threat Detection	The extensible bootloader for embedded system with application engine, write once, run everywhere.	
+threathunters-io/laurel	876	GPL-3.0	security	SIEM, SOC & Threat Detection	Transform Linux Audit logs for SIEM usage	
+gchq/CyberChef	36337	Apache-2.0	security	Secure File Sharing & Encryption	The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis	
+openssl/openssl	31360	Apache-2.0	security	Secure File Sharing & Encryption	General purpose TLS and crypto library	
+veracrypt/VeraCrypt	12076	NOASSERTION	security	Secure File Sharing & Encryption	Disk encryption with strong security based on TrueCrypt	
+tutao/tutanota	8129	GPL-3.0	security	Secure File Sharing & Encryption	Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.	
+peazip/PeaZip	8094	LGPL-3.0	security	Secure File Sharing & Encryption	Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PA	
+robinmoisson/staticrypt	8070	MIT	security	Secure File Sharing & Encryption	Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.	
+ldqk/Masuit.Tools	6193	MIT	security	Secure File Sharing & Encryption	全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！	
+guanzhi/GmSSL	6179	Apache-2.0	security	Secure File Sharing & Encryption	支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱	
+aws/s2n-tls	4788	Apache-2.0	security	Secure File Sharing & Encryption	An implementation of the TLS/SSL protocols	
+rfjakob/gocryptfs	4754	MIT	security	Secure File Sharing & Encryption	Encrypted overlay filesystem written in Go	
+isar/hive	4391	Apache-2.0	security	Secure File Sharing & Encryption	Lightweight and blazing fast key-value database written in pure Dart.	
+privacyguides/privacyguides.org	4350	CC-BY-SA-4.0	security	Secure File Sharing & Encryption	Protect your data against global mass surveillance programs.	
+microsoft/SEAL	4063	MIT	security	Secure File Sharing & Encryption	Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.	
+sobolevn/git-secret	4057	MIT	security	Secure File Sharing & Encryption	:busts_in_silhouette: A bash-tool to store your private data inside a git repository.	
+orhanobut/hawk	3993	Apache-2.0	security	Secure File Sharing & Encryption	✔️ Secure, simple key-value storage for Android	
+google/fully-homomorphic-encryption	3786	Apache-2.0	security	Secure File Sharing & Encryption	Homomorphic Encryption demos	
+str4d/rage	3713	Apache-2.0	security	Secure File Sharing & Encryption	A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.	
+homenc/HElib	3254	NOASSERTION	security	Secure File Sharing & Encryption	HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective	
+nesaorg/nesa	3164	NONE	security	Secure File Sharing & Encryption	Run AI models end-to-end encrypted.	
+ChatSecure/ChatSecure-iOS	3151	NOASSERTION	security	Secure File Sharing & Encryption	ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.	
+ulisesbocchio/jasypt-spring-boot	3086	MIT	security	Secure File Sharing & Encryption	Jasypt integration for Spring boot	
+wolfSSL/wolfssl	2985	GPL-3.0	security	Secure File Sharing & Encryption	The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.	
+ryantm/agenix	2535	CC0-1.0	security	Secure File Sharing & Encryption	age-encrypted secrets for NixOS and Home manager	
+SheepChef/Abracadabra	2532	NOASSERTION	security	Secure File Sharing & Encryption	Abracadabra 魔曰，古文风文本加密工具	
+x2on/OpenSSL-for-iPhone	2522	Apache-2.0	security	Secure File Sharing & Encryption	A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch, AppleTV, MacCatalyst)	
+bcgit/bc-java	2711	MIT	security	Secure Messaging & Email	Bouncy Castle Java Distribution (Mirror)	
+open-keychain/open-keychain	2633	GPL-3.0	security	Secure Messaging & Email	OpenKeychain is an OpenPGP implementation for Android.	
+jstedfast/MimeKit	2010	MIT	security	Secure Messaging & Email	A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.	
+orhun/gpg-tui	1777	MIT	security	Secure Messaging & Email	Manage your GnuPG keys with ease! 🔐	
+vladimiry/ElectronMail	1685	GPL-3.0	security	Secure Messaging & Email	Unofficial ProtonMail Desktop App	
+bbottema/simple-java-mail	1293	Apache-2.0	security	Secure Messaging & Email	Simple API, Complex Emails (Jakarta Mail smtp wrapper)	
+Yubico/yubikey-manager	1216	BSD-2-Clause	security	Secure Messaging & Email	Python library and command line tool for configuring any YubiKey over all USB interfaces.	
+rpgp/rpgp	1093	Apache-2.0	security	Secure Messaging & Email	OpenPGP implemented in pure Rust, permissively licensed	
+gpg/gnupg	998	GPL-3.0	security	Secure Messaging & Email	The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/do	
+whitesmith/hawkpost	948	MIT	security	Secure Messaging & Email	Generate links that users can use to submit messages encrypted with your public key.	
+krzyzanowskim/ObjectivePGP	727	NOASSERTION	security	Secure Messaging & Email	ObjectivePGP is an open-source library for iOS and macOS that provides developers with tools for implementing OpenPGP encryption and decryption, digital signing, and signature verification in their applications, thereby enhancing security and data integrity.	
+shenxn/protonmail-bridge-docker	703	GPL-3.0	security	Secure Messaging & Email	ProtonMail IMAP/SMTP Bridge Docker container	
+github/smimesign	662	MIT	security	Secure Messaging & Email	An S/MIME signing utility for use with Git	
+max-baz/yubikey-touch-detector	550	ISC	security	Secure Messaging & Email	A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)	
+keybase/kbpgp	538	BSD-3-Clause	security	Secure Messaging & Email	OpenPGP (RFC4880) Implementation in IcedCoffeeScript	
+skills/secure-code-game	2859	MIT	security	Security Awareness & Phishing Simulation	Learn to code securely while having fun through our popular open source in-editor experience, designed for developers, students, and anyone curious about security. Get started for free in under 2 minutes, playing right from your browser.	
+FeeiCN/security-engineering	1937	NONE	security	Security Awareness & Phishing Simulation	网络安全空间安全	
+GZTimeWalker/GZCTF	1625	AGPL-3.0	security	Security Awareness & Phishing Simulation	The GZ::CTF project, an open source CTF platform.	
+blabla1337/skf-flask	831	Apache-2.0	security	Security Awareness & Phishing Simulation	Security Knowledge Framework (SKF) Python Flask / Angular project	
+The-Art-of-Hacking/websploit	612	GPL-3.0	security	Security Awareness & Phishing Simulation	This is a learning created by Omar Santos (@santosomar) for different Cybersecurity training sessions. It includes many intentionally vulnerable applications running in Docker containers and thousands of cybersecurity resources. 	
+juice-shop/multi-juicer	328	Apache-2.0	security	Security Awareness & Phishing Simulation	Host and manage multiple Juice Shop instances for security trainings and Capture The Flags	
+Fortiphyd/GRFICSv3	292	GPL-3.0	security	Security Awareness & Phishing Simulation	GRFICSv3 is a FREE and open source OT security lab with realistic networking and a 3D process simulation for training and learning ICS security	
+ret2shell/ret2shell	269	NOASSERTION	security	Security Awareness & Phishing Simulation	A feature-riches CTF challenge platform!	
+pomo-mondreganto/ForcAD	197	GPL-3.0	security	Security Awareness & Phishing Simulation	Pure-python distributable Attack-Defence CTF platform, created to be easily set up.	
+carbofish/A1CTF	165	AGPL-3.0	security	Security Awareness & Phishing Simulation	A CTF platform designed for A1natas.	
+pedrosilvaevangelista/Cyberlivre	155	MIT	security	Security Awareness & Phishing Simulation	Curso completo de Segurança Cibernética com conteúdos gratuitos em português.	
+s4ntrx/S4ntrx-Bot	146	MIT	security	Security Awareness & Phishing Simulation	The project is a multi-user cybersecurity education chatbot built with Flask, aimed at a school/classroom project.	
+abs0lut3pwn4g3/RTB-CTF-Framework	110	AGPL-3.0	security	Security Awareness & Phishing Simulation	A fast, efficient and lightweight (~100 KB) Capture The Flag framework inspired by the HackTheBox platform. Built with Flask.	
+TheMoonu/SNOWCTF	97	AGPL-3.0	security	Security Awareness & Phishing Simulation	CTF平台 | CTF竞赛 | CTF | CTF Platform  | SCTF 是一个基于 Django 构建的开源 CTF（Capture The Flag）竞赛平台，支持二次元竞赛模板	
+LinkSec/phishing-templates	93	NONE	security	Security Awareness & Phishing Simulation	Over 50 of The Most Deceptive Phishing Templates, Pages & Links for GoPhish!	
+DependencyTrack/dependency-track	4423	Apache-2.0	security	Supply Chain & SBOM	Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.	
+RetireJS/retire.js	4205	Apache-2.0	security	Supply Chain & SBOM	scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.	
+aboutcode-org/scancode-toolkit	2663	NOASSERTION	security	Supply Chain & SBOM	:mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer of Code, Azure credits, nexB and other generous sponsors!	
+microsoft/sbom-tool	2092	MIT	security	Supply Chain & SBOM	The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.	
+guacsec/guac	1570	Apache-2.0	security	Supply Chain & SBOM	GUAC aggregates software security metadata into a high fidelity graph database.	
+XmirrorSecurity/OpenSCA-cli	1135	Apache-2.0	security	Supply Chain & SBOM	OpenSCA is an open source software supply chain security solution that supports the detection of open source dependencies, vulnerabilities and license compliance with a widely noticed accuracy by the community. 	
+package-url/purl-spec	1124	NOASSERTION	security	Supply Chain & SBOM	A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby  	
+cdxgen/cdxgen	1106	Apache-2.0	security	Supply Chain & SBOM	Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server	
+rust-secure-code/cargo-auditable	875	Apache-2.0	security	Supply Chain & SBOM	Make production Rust binaries auditable	
+ARPSyndicate/puncia	664	MIT	security	Supply Chain & SBOM	Panthera(P.)uncia - Official CLI utility for Subdomain Center & Exploit Observer. 	
+kdeldycke/meta-package-manager	628	GPL-2.0	security	Supply Chain & SBOM	🎁 snapshot every package on your machine to one file, restore it on a new one	
+devops-kung-fu/bomber	628	MPL-2.0	security	Supply Chain & SBOM	Scans Software Bill of Materials (SBOMs) for security vulnerabilities	
+fsfe/reuse-tool	594	NONE	security	Supply Chain & SBOM	This is a mirror of https://codeberg.org/fsfe/reuse-tool	
+CycloneDX/specification	574	Apache-2.0	security	Supply Chain & SBOM	OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and VEX	
+microsoft/component-detection	558	MIT	security	Supply Chain & SBOM	Scans your project to determine what components you use	
+smicallef/spiderfoot	24396	MIT	security	Threat Intelligence	SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.	
+blacklanternsecurity/bbot	11003	AGPL-3.0	security	Threat Intelligence	The recursive internet scanner for hackers. 🧡	
+OpenCTI-Platform/opencti	10276	NOASSERTION	security	Threat Intelligence	Open Cyber Threat Intelligence Platform	
+mandiant/capa	6302	Apache-2.0	security	Threat Intelligence	The FLARE team's open-source tool to identify capabilities in executable files.	
+elceef/dnstwist	5777	Apache-2.0	security	Threat Intelligence	Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation	
+kaifcodec/user-scanner	5579	MIT	security	Threat Intelligence	🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digita	
+intelowlproject/IntelOwl	4805	AGPL-3.0	security	Threat Intelligence	IntelOwl: manage your Threat Intelligence at scale	
+Neo23x0/signature-base	3061	NOASSERTION	security	Threat Intelligence	YARA signature and IOC database for my scanners and tools	
+osintbrazuca/osint-brazuca	2843	MIT	security	Threat Intelligence	Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.	
+ninoseki/mitaka	1888	MIT	security	Threat Intelligence	A browser extension for OSINT search	
+OpenOSINT/OpenOSINT	1863	MIT	security	Threat Intelligence	The OSINT toolkit for AI agents: Agent Skill, MCP server and CLI. Passive by default, no API keys to start, every finding cites its tool call.	
+x0rz/phishing_catcher	1832	GPL-3.0	security	Threat Intelligence	Phishing catcher using Certstream	
+mandiant/flare-learning-hub	1823	Apache-2.0	security	Threat Intelligence	Free educational content on reverse engineering and malware analysis from the FLARE team	
+mukul975/cve-mcp-server	1760	Apache-2.0	security	Threat Intelligence	Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.	
+AmnestyTech/investigations	1729	NONE	security	Threat Intelligence	Indicators of Compromise from Amnesty International's cyber investigations	
+future-architect/vuls	12330	GPL-3.0	security	Vulnerability Scanning & ASM	Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices	
+chaitin/xray	11783	NOASSERTION	security	Vulnerability Scanning & ASM	一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档	
+google/osv-scanner	11448	Apache-2.0	security	Vulnerability Scanning & ASM	Vulnerability scanner written in Go which uses the data provided by https://osv.dev	
+lintsinghua/DeepAudit	7280	AGPL-3.0	security	Vulnerability Scanning & ASM	DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。	
+commixproject/commix	5897	NOASSERTION	security	Vulnerability Scanning & ASM	Automated Αll-in-One OS command injection exploitation tool.	
+OWASP/Nettacker	5716	Apache-2.0	security	Vulnerability Scanning & ASM	Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management	
+awarexone/Agentic-Bug-Hunter	5649	MIT	security	Vulnerability Scanning & ASM	AI-powered bug bounty hunting toolkit that works with or without subscription.	
+zan8in/afrog	4455	MIT	security	Vulnerability Scanning & ASM	A Security Tool for Bug Bounty, Pentest and Red Teaming.	
+evyatarmeged/Raccoon	4070	MIT	security	Vulnerability Scanning & ASM	A high performance offensive security tool for reconnaissance and vulnerability scanning	
+e-m-b-a/emba	3750	GPL-3.0	security	Vulnerability Scanning & ASM	EMBA - The firmware security analyzer	
+vulnersCom/nmap-vulners	3513	NOASSERTION	security	Vulnerability Scanning & ASM	Nmap NSE scripts that turn a service scan into CVEs, CVSS scores and known exploits — fingerprints software from HTTP responses and checks every detected CPE against the Vulners database.	
+almandin/fuxploider	3340	GPL-3.0	security	Vulnerability Scanning & ASM	File upload vulnerability scanner and exploitation tool.	
+Qianlitp/crawlergo	3045	GPL-3.0	security	Vulnerability Scanning & ASM	A powerful browser crawler for web vulnerability scanners	
+Kritt-ai/open-kritt	2420	AGPL-3.0	security	Vulnerability Scanning & ASM	Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.	
+tr0uble-mAker/POC-bomber	2369	GPL-3.0	security	Vulnerability Scanning & ASM	利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点	
+skavngr/rapidscan	2139	GPL-2.0	security	Vulnerability Scanning & ASM	:new: The Multi-Tool Web Vulnerability Scanner. 	

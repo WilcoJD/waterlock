@@ -1,0 +1,380 @@
+micronaut-projects/micronaut-core	6436	Apache-2.0	hosting	Serverless & FaaS	Micronaut Application Framework	
+eooce/node-ws	6246	GPL-3.0	hosting	Serverless & FaaS	基于serverless实现的vless+trojan+shadowsocks+vmess四协议 + Telegram webproxy，无内核，node环境通用项目	
+cloud-custodian/cloud-custodian	6110	Apache-2.0	hosting	Serverless & FaaS	Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources	
+alexcasalboni/aws-lambda-power-tuning	6081	Apache-2.0	hosting	Serverless & FaaS	AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, 	
+apache/dubbo	41572	Apache-2.0	hosting	Service Mesh & Orchestration	The java implementation of Apache Dubbo. An RPC and microservice framework.	
+rootsongjc/kubernetes-handbook	11640	NONE	hosting	Service Mesh & Orchestration	Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建指南	
+feiskyer/kubernetes-handbook	5531	NOASSERTION	hosting	Service Mesh & Orchestration	Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz	
+apache/dubbo-go	4975	Apache-2.0	hosting	Service Mesh & Orchestration	Go Implementation For Apache Dubbo .	
+mosn/mosn	4508	Apache-2.0	hosting	Service Mesh & Orchestration	The Cloud-Native Network Proxy Platform	
+apache/dubbo-admin	4059	Apache-2.0	hosting	Service Mesh & Orchestration	The ops and reference implementation for Apache Dubbo.	
+networknt/light-4j	3676	Apache-2.0	hosting	Service Mesh & Orchestration	A fast, lightweight and more productive microservices framework	
+kiali/kiali	3648	Apache-2.0	hosting	Service Mesh & Orchestration	Kiali project, observability for the Istio service mesh	
+linkerd/linkerd2-proxy	2146	Apache-2.0	hosting	Service Mesh & Orchestration	A purpose-built proxy for the Linkerd service mesh. Written in Rust.	
+traefik/mesh	2102	Apache-2.0	hosting	Service Mesh & Orchestration	Traefik Mesh - Simpler Service Mesh	
+sermant-io/Sermant	1342	Apache-2.0	hosting	Service Mesh & Orchestration	CNCF Sandbox project: A Cloud-Native Proxyless Service Mesh based on Java Bytecode Enhancement Technology	
+meganokeefe/learn-istio	1334	NONE	hosting	Service Mesh & Orchestration	⛵️ Istio resources 🕸	
+unionj-cloud/go-doudou	1171	MIT	hosting	Service Mesh & Orchestration	go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well.	
+EdwinVW/pitstop	1166	Apache-2.0	hosting	Service Mesh & Orchestration	This repo contains a sample application based on a Garage Management System for Pitstop - a fictitious garage. The primary goal of this sample is to demonstrate several software-architecture concepts like: Microservices, CQRS, Event Sourcing, Domain Driven Des	
+aws/aws-app-mesh-examples	865	MIT-0	hosting	Service Mesh & Orchestration	AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.	
+deployphp/deployer	11121	MIT	hosting	Static Hosting & Deploy Tools	The PHP deployment tool with support for popular frameworks out of the box	
+openspug/spug	11101	AGPL-3.0	hosting	Static Hosting & Deploy Tools	Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal, file management, application release and deployment, pipel	
+git-ftp/git-ftp	5630	GPL-3.0	hosting	Static Hosting & Deploy Tools	Uses Git to upload only changed files to FTP servers.	
+xugaoyi/vuepress-theme-vdoing	4886	MIT	hosting	Static Hosting & Deploy Tools	🚀一款简洁高效的VuePress知识管理&博客(blog)主题	
+JamesIves/github-pages-deploy-action	4613	MIT	hosting	Static Hosting & Deploy Tools	🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.	
+OpenCSGs/csghub	4080	Apache-2.0	hosting	Static Hosting & Deploy Tools	CSGHub is a brand-new open-source platform for managing LLMs, developed by the OpenCSG team. It offers both open-source and on-premise/SaaS solutions, with features comparable to Hugging Face. Gain full control over the lifecycle of LLMs, datasets, and agents,	
+welliamcao/OpsManage	3592	GPL-2.0	hosting	Static Hosting & Deploy Tools	自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI	
+vitodeploy/vito	3271	AGPL-3.0	hosting	Static Hosting & Deploy Tools	Free and Self-Hosted  Server Management Tool	
+ansistrano/deploy	2408	MIT	hosting	Static Hosting & Deploy Tools	Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style	
+welaika/wordmove	1881	MIT	hosting	Static Hosting & Deploy Tools	Multi-stage command line deploy/mirroring and task runner for Wordpress	
+zodern/meteor-up	1264	MIT	hosting	Static Hosting & Deploy Tools	Production Quality Meteor Deployment to Anywhere	
+zhenorzz/goploy	1263	GPL-3.0	hosting	Static Hosting & Deploy Tools	Devops, Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.	
+skywind3000/PyStand	1208	MIT	hosting	Static Hosting & Deploy Tools	:rocket: Python Standalone Deploy Environment !!	
+PaddlePaddle/Paddle2ONNX	951	Apache-2.0	hosting	Static Hosting & Deploy Tools	ONNX Model Exporter for PaddlePaddle	
+dotnetcore/FlubuCore	937	MIT	hosting	Static Hosting & Deploy Tools	A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.	
+istoreos/istoreos	8241	NOASSERTION	hosting	Storage & NAS	提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-24.10，main或master分支不维护请勿使用）	
+mvdctop/Movie_Data_Capture	7449	GPL-3.0	hosting	Storage & NAS	The AI local media metadata crawler	
+yourtion/30dayMakeOS	6471	NOASSERTION	hosting	Storage & NAS	《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程	
+xhongc/music-tag-web	6190	GPL-3.0	hosting	Storage & NAS	音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）	
+any-listen/any-listen	4806	NOASSERTION	hosting	Storage & NAS	A cross-platform private music playback service	
+wushuo894/ani-rss	3584	GPL-2.0	hosting	Storage & NAS	基于RSS自动追番、订阅、下载、刮削、洗版	
+AuxXxilium/arc	3569	GPL-3.0	hosting	Storage & NAS	Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwaresupport, addons, guided (semi-automated) installation and more. Multiple customization options are built-in. It is modified to run on different hardware (More informations in wiki	
+ophub/fnnas	3397	GPL-2.0	hosting	Storage & NAS	Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.	
+tinyvision/DAMO-YOLO	3194	Apache-2.0	hosting	Storage & NAS	DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.	
+Difegue/LANraragi	3143	MIT	hosting	Storage & NAS	Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.	
+IceWhaleTech/ZimaOS	3098	NONE	hosting	Storage & NAS	A Simplified, Focused and Open NAS OS_	
+tobychui/arozos	3012	GPL-3.0	hosting	Storage & NAS	Web Desktop Operating System for low power platforms, Now written in Go!	
+amtoaer/bili-sync	2657	MIT	hosting	Storage & NAS	由 Rust & Tokio 驱动的哔哩哔哩同步工具	
+opennaslab/kubespider	2191	Apache-2.0	hosting	Storage & NAS	A global resource download orchestration system, build your home download center. 	
+songloft-org/songloft	2164	Apache-2.0	hosting	Storage & NAS	🎵 插件化、无广告的免费音乐服务器	
+coolight7/musicxx	2133	MIT	hosting	Storage & NAS	全格式本地/云盘/NAS音视频播放器	
+maildev/maildev	6161	MIT	hosting	Transactional Email & SMTP Relays	:mailbox: SMTP Server + Web Interface for viewing and testing emails during development.	
+rnwood/smtp4dev	4023	BSD-3-Clause	hosting	Transactional Email & SMTP Relays	smtp4dev - the fake smtp email server for development and testing	
+ChangemakerStudios/Papercut-SMTP	3337	Apache-2.0	hosting	Transactional Email & SMTP Relays	Papercut SMTP -- The Simple Desktop Email Server	
+flashmob/go-guerrilla	2966	MIT	hosting	Transactional Email & SMTP Relays	Mini SMTP server written in golang	
+postfixadmin/postfixadmin	1268	NOASSERTION	hosting	Transactional Email & SMTP Relays	PostfixAdmin - web based virtual user administration interface for Postfix mail servers	
+buggregator/server	1078	NONE	hosting	Transactional Email & SMTP Relays	Buggregator — a single-binary debugging server for PHP. Captures exceptions, dumps, emails, profiling, logs in real-time UI. Sentry, Ray, VarDumper, SMTP, Monolog, Inspector, XHProf and more.	
+nodemailer/smtp-server	918	NOASSERTION	hosting	Transactional Email & SMTP Relays	Create custom SMTP servers on the fly	
+cosullivan/SmtpServer	828	MIT	hosting	Transactional Email & SMTP Relays	A SMTP Server component written in C#	
+markets/maily	708	MIT	hosting	Transactional Email & SMTP Relays	📫 Rails Engine to preview emails in the browser	
+decke/smtprelay	639	MIT	hosting	Transactional Email & SMTP Relays	Simple Golang SMTP relay/proxy server	
+alash3al/smtp2http	556	Apache-2.0	hosting	Transactional Email & SMTP Relays	A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request	
+opencoredev/email-sdk	514	MIT	hosting	Transactional Email & SMTP Relays	One simple SDK for transactional email across 23 adapters	
+gessnerfl/fake-smtp-server	505	Apache-2.0	hosting	Transactional Email & SMTP Relays	A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI	
+savvyagents/larasend	494	MIT	hosting	Transactional Email & SMTP Relays	Self-hosted transactional email platform — send through your own AWS SES account, keep the dashboard, API keys, delivery logs, and webhooks on your own infrastructure.	
+hyper-elements/hyper-elements	430	MIT	hosting	Transactional Email & SMTP Relays	React components for email templates, web pages, documents, and images. Generate email-safe HTML, responsive web pages, print-ready PDFs, and PNG/SVG images from one component tree.	
+MHSanaei/3x-ui	49475	GPL-3.0	hosting	Tunneling (ngrok Alternatives)	Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG) 	
+ehang-io/nps	34254	GPL-3.0	hosting	Tunneling (ngrok Alternatives)	一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.	
+ginuerzh/gost	18268	MIT	hosting	Tunneling (ngrok Alternatives)	GO Simple Tunnel - a simple tunnel written in golang	
+skywind3000/kcp	16950	MIT	hosting	Tunneling (ngrok Alternatives)	:zap: KCP - A Fast and Reliable ARQ Protocol	
+rathole-org/rathole	14425	Apache-2.0	hosting	Tunneling (ngrok Alternatives)	A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.	
+wangyu-/udp2raw	8579	MIT	hosting	Tunneling (ngrok Alternatives)	A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)	
+eooce/nodejs-argo	8453	NONE	hosting	Tunneling (ngrok Alternatives)	nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议(VLESS、VMess、Trojan)等，有直连协议(Socks5、Hysteria2、Reality)可选开启，并集成了哪吒探针功能	
+p4gefau1t/trojan-go	8383	GPL-3.0	hosting	Tunneling (ngrok Alternatives)	Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/	
+agrinman/tunnelto	7117	NONE	hosting	Tunneling (ngrok Alternatives)	Expose your local web server to the internet with a public URL.	
+eooce/Sing-box	5253	MIT	hosting	Tunneling (ngrok Alternatives)	既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务, 可添加anytls,socks5,ss-2022等协议	
+wangyu-/UDPspeeder	5195	MIT	hosting	Tunneling (ngrok Alternatives)	A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)	
+esrrhs/pingtunnel	3751	MIT	hosting	Tunneling (ngrok Alternatives)	Pingtunnel is a tool that send TCP/UDP traffic over ICMP	
+nadoo/glider	3707	GPL-3.0	hosting	Tunneling (ngrok Alternatives)	glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features.	
+ph4ntonn/Stowaway	3431	MIT	hosting	Tunneling (ngrok Alternatives)	👻Stowaway -- Multi-hop Proxy Tool for pentesters	
+mmatczuk/go-http-tunnel	3325	AGPL-3.0	hosting	Tunneling (ngrok Alternatives)	Fast and secure tunnels over HTTP/2	
+shaobeichen/dsh-pocket	2819	GPL-2.0	hosting	Tunneling (ngrok Alternatives)	把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)	
+maxmcd/webtty	2814	MIT	hosting	Tunneling (ngrok Alternatives)	Share a terminal session over WebRTC	
+enfein/mieru	2680	GPL-3.0	hosting	Tunneling (ngrok Alternatives)	mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。	
+taamarin/box_for_magisk	2520	GPL-3.0	hosting	Tunneling (ngrok Alternatives)	Transparent Proxy for Android(root) 	
+bubenshchykov/ngrok	2415	NONE	hosting	Tunneling (ngrok Alternatives)	Expose your localhost to the web. Node wrapper for ngrok.	
+ghostunnel/ghostunnel	2326	Apache-2.0	hosting	Tunneling (ngrok Alternatives)	A simple TLS proxy with mutual authentication for securing non-TLS services.	
+qwj/python-proxy	2208	MIT	hosting	Tunneling (ngrok Alternatives)	HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.	
+sleep3r/mtproto.zig	2167	MIT	hosting	Tunneling (ngrok Alternatives)	Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS	
+heiher/hev-socks5-tunnel	2099	MIT	hosting	Tunneling (ngrok Alternatives)	A lightweight, fast and reliable tun2socks	
+mudler/edgevpn	2086	Apache-2.0	hosting	Tunneling (ngrok Alternatives)	:sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens	
+bluewave-labs/Checkmate	11032	AGPL-3.0	hosting	Uptime Monitoring & Status Pages	Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)	
+operacle/checkcle	3328	MIT	hosting	Uptime Monitoring & Status Pages	CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.	
+msgbyte/tianji	3119	Apache-2.0	hosting	Uptime Monitoring & Status Pages	Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives	
+eidam/cf-workers-status-page	2813	MIT	hosting	Uptime Monitoring & Status Pages	Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.	
+brotandgames/ciao	1983	MIT	hosting	Uptime Monitoring & Status Pages	HTTP checks & tests (private & public) monitoring - check the status of your URL	
+harsxv/tinystatus	1588	MIT	hosting	Uptime Monitoring & Status Pages	Tiny status page generated by a Python script	
+lissy93/domain-locker	1560	MIT	hosting	Uptime Monitoring & Status Pages	🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!	
+goksan/statusnook	989	MIT	hosting	Uptime Monitoring & Status Pages	Effortlessly deploy a status page and start monitoring endpoints in minutes 	
+kutovoys/xray-checker	937	AGPL-3.0	hosting	Uptime Monitoring & Status Pages	Xray Checker: A Prometheus exporter for monitoring Xray proxies	
+BigBoot/AutoKuma	925	MIT	hosting	Uptime Monitoring & Status Pages	AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.	
+imsyy/site-status	897	MIT	hosting	Uptime Monitoring & Status Pages	📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site	
+statsig-io/statuspage	768	ISC	hosting	Uptime Monitoring & Status Pages	A simple, zero-dependency, pure js/html status page based on GitHub Pages and Actions.	
+KSJaay/Lunalytics	733	NOASSERTION	hosting	Uptime Monitoring & Status Pages	🚀 Open source monitoring tool built with Node.js	
+cloudprober/cloudprober	714	Apache-2.0	hosting	Uptime Monitoring & Status Pages	An active monitoring software to detect failures before your customers do.	
+CorralPeltzer/newTrackon	708	MIT	hosting	Uptime Monitoring & Status Pages	newTrackon, a public open BitTorrent trackers monitoring tool	
+2dust/v2rayNG	65494	GPL-3.0	hosting	VPN & Mesh Networking	A V2Ray client for Android, support Xray core and v2fly core	
+chen08209/FlClash	61852	GPL-3.0	hosting	VPN & Mesh Networking	A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.	
+freefq/free	43225	NONE	hosting	VPN & Mesh Networking	翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子	
+XTLS/Xray-core	42686	MPL-2.0	hosting	VPN & Mesh Networking	Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.	
+tailscale/tailscale	38757	BSD-3-Clause	hosting	VPN & Mesh Networking	The easiest, most secure way to use WireGuard and 2FA.	
+v2fly/v2ray-core	34749	MIT	hosting	VPN & Mesh Networking	A platform for building proxies to bypass network restrictions.	
+XX-net/XX-Net	33491	NONE	hosting	VPN & Mesh Networking	A proxy tool to bypass GFW.	
+hwdsl2/setup-ipsec-vpn	28971	NOASSERTION	hosting	VPN & Mesh Networking	Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and management scripts.	
+MatsuriDayo/NekoBoxForAndroid	23428	NOASSERTION	hosting	VPN & Mesh Networking	NekoBox for Android / sing-box / universal proxy toolchain for Android	
+HyNetworks/hysteria	22872	MIT	hosting	VPN & Mesh Networking	Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software	
+Nyr/openvpn-install	20655	MIT	hosting	VPN & Mesh Networking	OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora	
+DiningFactory/panda-vpn-pro	17505	Apache-2.0	hosting	VPN & Mesh Networking	🚁🚀 2026机场推荐 |  熊猫VPN（PandaVPNPro）已确定跑路！快连VPN ，小牛加速器（小牛VPN）体验不佳且价格贵。低价机场，便宜机场，平价机场，性价比机场，高速机场，稳定机场，一元机场，翻墙机场，付费机场，收费机场，冷门机场，优质机场，廉价机场。机场评测，中国翻墙，科学上网，梯子。非永久免费梯子，官网，非永久免费VPN，非免费机场！VPN China。按量计费机场，按量付费机场，不限时机场。机场节点订阅，节点分享，Clash节点，V2ray节点，非免费节点。适用ClashForWindows，V	
+getlantern/lantern	16721	GPL-3.0	hosting	VPN & Mesh Networking	Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.	
+angristan/openvpn-install	16180	MIT	hosting	VPN & Mesh Networking	Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more	
+amnezia-vpn/amnezia-client	15813	GPL-3.0	hosting	VPN & Mesh Networking	Amnezia VPN Client (Desktop+Mobile)	
+txthinking/brook	15192	GPL-3.0	hosting	VPN & Mesh Networking	A cross-platform programmable network tool	
+free-nodes/v2rayfree	14876	NONE	hosting	VPN & Mesh Networking	免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq 	
+EasyTier/EasyTier	14599	LGPL-3.0	hosting	VPN & Mesh Networking	A simple, decentralized mesh VPN with WireGuard support.	
+selierlin/Share-SSR-V2ray	12695	Apache-2.0	hosting	VPN & Mesh Networking	机场推荐、Clash / V2ray 客户端配置与代理工具指南	
+angristan/wireguard-install	11400	MIT	hosting	VPN & Mesh Networking	WireGuard VPN installer for Linux servers	
+AdAway/AdAway	9592	GPL-3.0	hosting	VPN & Mesh Networking	AdAway is a free and open source ad blocker for Android. 	
+igareck/vpn-configs-for-russia	9482	GPL-3.0	hosting	VPN & Mesh Networking	🗽Бесплатные и проверенные VPN/Tor конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN/Tor configurations that work in Russia ⚪ Whitelists bypass	
+ermaozi/get_subscribe	9447	GPL-3.0	hosting	VPN & Mesh Networking	✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙	
+hoochanlon/fq-book	9174	NONE	hosting	VPN & Mesh Networking	📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明	
+ViRb3/wgcf	8881	MIT	hosting	VPN & Mesh Networking	🚤 Cross-platform, unofficial CLI for Cloudflare Warp	
+hashicorp/terraform	50155	NOASSERTION	hosting	VPS & Cloud Management	Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and ve	
+aws/aws-cli	17346	NOASSERTION	hosting	VPS & Cloud Management	Universal Command Line Interface for Amazon Web Services	
+bin456789/reinstall	14029	GPL-3.0	hosting	VPS & Cloud Management	一键DD/重装脚本 (One-click reinstall OS on VPS)	
+skypilot-org/skypilot	10805	Apache-2.0	hosting	VPS & Cloud Management	The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.	
+boto/boto3	9930	Apache-2.0	hosting	VPS & Cloud Management	AWS SDK for Python (Boto3)	
+lollipopkit/flutter_server_box	8954	AGPL-3.0	hosting	VPS & Cloud Management	ServerBox - high performance server toolbox app & server written in Flutter & Rust.	
+awslabs/aws-shell	7333	Apache-2.0	hosting	VPS & Cloud Management	An integrated shell for working with the AWS CLI.	
+spiritLHLS/ecs	7275	MIT	hosting	VPS & Cloud Management	VPS 融合怪服务器测评脚本 —— 更推荐使用无环境依赖的 Go 版本：https://github.com/oneclickvirt/ecs VPS Fusion Monster Server Test Script — we now recommend the Go version (zero external dependencies): https://github.com/oneclickvirt/ecs	
+pyinfra-dev/pyinfra	6081	MIT	hosting	VPS & Cloud Management	🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.	
+donnemartin/saws	5297	NOASSERTION	hosting	VPS & Cloud Management	A supercharged AWS command line interface (CLI).	
+kejilion/sh	3523	Apache-2.0	hosting	VPS & Cloud Management	KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!	
+nuver-labs/vps-audit	3250	MIT	hosting	VPS & Cloud Management	lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.	
+snakem982/proxypool	2258	GPL-3.0	hosting	VPS & Cloud Management	Free Proxies，Free Nodes，免费节点，白嫖节点，免费vpn，免费v2ray，免费订阅，免费clash，Free VPN，Free v2ray，Free Sub，Free Clash	
+ffffffff0x/f8x	2173	Apache-2.0	hosting	VPS & Cloud Management	红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool	
+EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server	1984	NONE	hosting	VPS & Cloud Management	Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)	
+dockur/windows	54126	MIT	hosting	Virtualization & Hypervisors	Windows inside a Docker container.	
+trycua/cua	31930	MIT	hosting	Virtualization & Hypervisors	Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.	
+hashicorp/vagrant	27222	MIT	hosting	Virtualization & Hypervisors	Vagrant is a tool for building and distributing development environments.	
+bvaughn/react-virtualized	27067	MIT	hosting	Virtualization & Hypervisors	React components for efficiently rendering large lists and tabular data	
+yeasy/docker_practice	26354	NONE	hosting	Virtualization & Hypervisors	最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!	
+kholia/OSX-KVM	23797	NONE	hosting	Virtualization & Hypervisors	Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.	
+copy/v86	23667	BSD-2-Clause	hosting	Virtualization & Hypervisors	x86 PC emulator and x86-to-wasm JIT, running in the browser	
+winboat-org/winboat	23334	MIT	hosting	Virtualization & Hypervisors	Run Windows apps on 🐧 Linux with ✨ seamless integration	
+dockur/macos	21726	MIT	hosting	Virtualization & Hypervisors	macOS inside a Docker container.	
+quickemu-project/quickemu	16652	MIT	hosting	Virtualization & Hypervisors	Quickly create and run optimised Windows, macOS and Linux virtual machines	
+qemu/qemu	13992	NOASSERTION	hosting	Virtualization & Hypervisors	Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.	
+canonical/multipass	9337	GPL-3.0	hosting	Virtualization & Hypervisors	Multipass orchestrates virtual Ubuntu instances	
+superradcompany/microsandbox	8979	Apache-2.0	hosting	Virtualization & Hypervisors	🧱 easy, fast, programmable and local-first microVM runtime and library	
+luchina-gabriel/OSX-PROXMOX	7950	NONE	hosting	Virtualization & Hypervisors	Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.	
+openai/tart	7818	NOASSERTION	hosting	Virtualization & Hypervisors	macOS and Linux VMs on Apple Silicon to use in CI and other automations	
+TanStack/virtual	7192	MIT	hosting	Virtualization & Hypervisors	🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte	
+DroidPluginTeam/DroidPlugin	6977	LGPL-3.0	hosting	Virtualization & Hypervisors	A plugin framework on android,Run any third-party apk without installation, modification or repackage	
+cloud-hypervisor/cloud-hypervisor	6482	NONE	hosting	Virtualization & Hypervisors	A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security	
+includeos/IncludeOS	5259	Apache-2.0	hosting	Virtualization & Hypervisors	A minimal, resource efficient unikernel for cloud services	
+HyperDbg/HyperDbg	4189	GPL-3.0	hosting	Virtualization & Hypervisors	State-of-the-art native debugging tools	
+bostrot/wslmanager	4057	NOASSERTION	hosting	Virtualization & Hypervisors	GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH.	
+inokawa/virtua	3763	MIT	hosting	Virtualization & Hypervisors	A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.	
+nanovms/nanos	3224	Apache-2.0	hosting	Virtualization & Hypervisors	A kernel designed to run one and only one application in a virtualized environment	
+microvm-nix/microvm.nix	3063	MIT	hosting	Virtualization & Hypervisors	NixOS MicroVMs	
+firecracker-microvm/firecracker-containerd	2980	Apache-2.0	hosting	Virtualization & Hypervisors	firecracker-containerd enables containerd to manage containers as Firecracker microVMs	
+EnableSecurity/wafw00f	6592	BSD-3-Clause	hosting	WAF & Security	WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.	
+trimstray/htrace.sh	3865	GPL-3.0	hosting	WAF & Security	My simple Swiss Army knife for http/https troubleshooting and profiling.	
+padrino/padrino-framework	3401	MIT	hosting	WAF & Security	Padrino is a full-stack ruby framework built upon Sinatra. 	
+coreruleset/coreruleset	3343	Apache-2.0	hosting	WAF & Security	OWASP CRS (Official Repository)	
+baidu/openrasp	2991	Apache-2.0	hosting	WAF & Security	🔥Open source RASP solution	
+Ekultek/WhatWaf	2935	NOASSERTION	hosting	WAF & Security	Detect and bypass web application firewalls and protection systems	
+FWGS/xash3d-fwgs	2927	NONE	hosting	WAF & Security	Xash3D FWGS engine	
+nillerusr/source-engine	2318	NOASSERTION	hosting	WAF & Security	Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses	
+owasp-modsecurity/ModSecurity-nginx	1864	Apache-2.0	hosting	WAF & Security	ModSecurity v3 Nginx Connector	
+roxy-wi/roxy-wi	1835	Apache-2.0	hosting	WAF & Security	Web interface for managing Haproxy, Nginx, Apache and Keepalived servers	
+wallarm/gotestwaf	1816	MIT	hosting	WAF & Security	An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses	
+C0nw0nk/Nginx-Lua-Anti-DDoS	1672	MIT	hosting	WAF & Security	A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating H	
+ADD-SP/ngx_waf	1637	BSD-3-Clause	hosting	WAF & Security	Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块	
+nemesida-waf/waf-bypass	1528	MIT	hosting	WAF & Security	Check your WAF before an attacker does	
+p0pr0ck5/lua-resty-waf	1326	GPL-3.0	hosting	WAF & Security	High-performance WAF built on the OpenResty stack	
+qinguoyi/TinyWebServer	19761	Apache-2.0	hosting	Web Servers & App Hosting	:fire: Linux下C++轻量级WebServer服务器	
+sanic-org/sanic	18629	MIT	hosting	Web Servers & App Hosting	 Accelerate your web app development  | Build fast. Run fast.	
+aio-libs/aiohttp	16605	Apache-2.0	hosting	Web Servers & App Hosting	Asynchronous HTTP client/server framework for asyncio and Python	
+drogonframework/drogon	14392	MIT	hosting	Web Servers & App Hosting	Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows	
+http-party/http-server	14236	MIT	hosting	Web Servers & App Hosting	A simple, zero-configuration, command-line http server	
+postmanlabs/httpbin	13635	ISC	hosting	Web Servers & App Hosting	HTTP Request & Response Service, written in Python + Flask.	
+cesanta/mongoose	13125	NOASSERTION	hosting	Web Servers & App Hosting	Embedded web server, with TCP/IP network stack, MQTT and Websocket	
+Kludex/uvicorn	11073	BSD-3-Clause	hosting	Web Servers & App Hosting	An ASGI web server, for Python. 🦄	
+benoitc/gunicorn	10721	NOASSERTION	hosting	Web Servers & App Hosting	gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.	
+neutralinojs/neutralinojs	8684	NOASSERTION	hosting	Web Servers & App Hosting	Portable and lightweight cross-platform desktop application development framework	
+linyacool/WebServer	8215	MIT	hosting	Web Servers & App Hosting	A C++ High Performance Web Server	
+svenstaro/miniserve	8102	MIT	hosting	Web Servers & App Hosting	🌟 For when you really just want to serve some files over HTTP right now!	
+ithewei/libhv	7571	BSD-3-Clause	hosting	Web Servers & App Hosting	🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT/Redis client/server.	
+ninenines/cowboy	7520	ISC	hosting	Web Servers & App Hosting	Small, fast, modern HTTP server for Erlang/OTP.	
+sparckles/Robyn	7431	BSD-2-Clause	hosting	Web Servers & App Hosting	Robyn is a Super Fast Async Python Web Framework with a Rust runtime.	
+hugapi/hug	6871	MIT	hosting	Web Servers & App Hosting	Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.	
+Diorser/LiteMonitor	6868	NONE	hosting	Web Servers & App Hosting	一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS counter, plugin support, and memory optimization.	
+techschool/simplebank	6585	MIT	hosting	Web Servers & App Hosting	Backend master class: build a simple bank service in Go	
+emmett-framework/granian	5768	BSD-3-Clause	hosting	Web Servers & App Hosting	A Rust HTTP server for Python applications	
+line/armeria	5155	Apache-2.0	hosting	Web Servers & App Hosting	Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.	
+CrowCpp/Crow	5030	NOASSERTION	hosting	Web Servers & App Hosting	A Fast and Easy to use microframework for the web.	
+boostorg/beast	4830	BSL-1.0	hosting	Web Servers & App Hosting	HTTP and WebSocket built on Boost.Asio in C++11	
+sylar-yin/sylar	4725	NONE	hosting	Web Servers & App Hosting	C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)	
+salvo-rs/salvo	4461	Apache-2.0	hosting	Web Servers & App Hosting	A powerful web framework built with a simplified design.	
+miguelgrinberg/python-socketio	4369	MIT	hosting	Web Servers & App Hosting	Mirror of https://code.miguelgrinberg.com/miguelgrinberg/python-socketio	
+wechaty/wechaty	23530	Apache-2.0	business	AI Chatbot Builders	Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt	
+coze-dev/coze-studio	21807	Apache-2.0	business	AI Chatbot Builders	An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.	
+assistant-ui/assistant-ui	12988	MIT	business	AI Chatbot Builders	Typescript/React Library for AI Chat 💬🚀	
+axa-group/nlp.js	6579	MIT	business	AI Chatbot Builders	An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more	
+botman/botman	6147	MIT	business	AI Chatbot Builders	A framework agnostic PHP library to build chat bots	
+dograh-hq/dograh	6037	BSD-2-Clause	business	AI Chatbot Builders	Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.	
+ThilinaRajapakse/simpletransformers	4258	Apache-2.0	business	AI Chatbot Builders	Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI	
+elevenlabs/elevenlabs-python	3176	MIT	business	AI Chatbot Builders	The official Python SDK for the ElevenLabs API.	
+MemMachine/MemMachine	3085	Apache-2.0	business	AI Chatbot Builders	Universal memory layer for AI Agents. It provides scalable, extensible, and interoperable memory storage and retrieval to streamline AI agent state management for next-generation autonomous systems.	
+apache/burr	2596	Apache-2.0	business	AI Chatbot Builders	Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.	
+Mentra-Community/MentraOS	2404	Apache-2.0	business	AI Chatbot Builders	MentraOS is the leading smart glasses OS. See live captions, stream your view, talk to AI, and capture photos hands-free on compatible glasses.	
+TEN-framework/ten-vad	2303	NOASSERTION	business	AI Chatbot Builders	Voice Activity Detector (VAD) : low-latency, high-performance and lightweight	
+alfredfrancis/ai-chatbot-framework	2165	MIT	business	AI Chatbot Builders	A python chatbot framework with Natural Language Understanding and Artificial Intelligence.	
+alan-ai/alan-sdk-ios	1875	NONE	business	AI Chatbot Builders	The Self-Coding System for Your App — Alan AI SDK for iOS	
+alan-ai/alan-sdk-android	1801	NONE	business	AI Chatbot Builders	The Self-Coding System for Your App — Alan AI SDK for Android	
+vas3k/TaxHacker	6802	MIT	business	Accounting & Invoicing	Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories	
+ledger/ledger	6066	NOASSERTION	business	Accounting & Invoicing	Double-entry accounting system with a command-line reporting interface	
+hledgerorg/hledger	4814	GPL-3.0	business	Accounting & Invoicing	Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.	
+rotki/rotki	4083	AGPL-3.0	business	Accounting & Invoicing	A portfolio tracking, analytics, accounting and management application that protects your privacy	
+TNT-Likely/BeeCount	2755	NOASSERTION	business	Accounting & Invoicing	Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP	
+panshak/accountill	1694	MIT	business	Accounting & Invoicing	Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)	
+arrobalytics/django-ledger	1399	GPL-3.0	business	Accounting & Invoicing	Django Ledger is a double entry accounting system and financial analysis engine built on the Django Web Framework.	
+glink25/Cent	1262	NOASSERTION	business	Accounting & Invoicing	完全免费、开源的多人协作记账 Web App | Completely free, open-source, collaborative accounting Web App	
+range-of-motion/budget	1070	MIT	business	Accounting & Invoicing	Get a grip on your finances.	
+TheAxelander/OpenBudgeteer	973	AGPL-3.0	business	Accounting & Invoicing	OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle	
+ad-si/Transity	657	AGPL-3.0	business	Accounting & Invoicing	Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line with the plain text accounting tool of the future! 🚀	
+plaintextaccounting/plaintextaccounting	618	GPL-3.0	business	Accounting & Invoicing	The plaintextaccounting.org website, a portal to the world of Plain Text Accounting.	
+howeyc/ledger	504	ISC	business	Accounting & Invoicing	Command line double-entry accounting program	
+openaccountants/openaccountants	478	AGPL-3.0	business	Accounting & Invoicing	Open tax skills for AI: 2,250 skills across 266 jurisdictions, every figure cited to the law. Works in ChatGPT, Claude, Cursor and any MCP client.	
+envato/double_entry	461	MIT	business	Accounting & Invoicing	A double-entry accounting system for Ruby applications.	
+Affitor/affiliate-skills	771	MIT	business	Affiliate & Partner Management	50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, build landing pages, deploy — full flywheel with social intelligence. Works with Claude Code, Pi, ChatGPT, Gemini, Cursor, Windsurf, any AI.	
+sergioteula/python-amazon-paapi	289	MIT	business	Affiliate & Partner Management	Amazon Creators API wrapper for Python	
+sergioteula/python-aliexpress-api	127	MIT	business	Affiliate & Partner Management	AliExpress API wrapper for Python 🧧	
+Affitor/open-affiliate	121	NONE	business	Affiliate & Partner Management	The open registry of affiliate programs. Built for developers and AI agents.	
+bcat95/shopee-aff	109	NONE	business	Affiliate & Partner Management	Tài liệu API Shopee Affiliate: Open API chính thống (GraphQL) và Data API của data.addlivetag.com — product data, offers, market search, lịch sử   giá/hoa hồng, shop live, TikTok Shop, Lazada, ShopeeFood. Kèm code mẫu PHP/Node.js và Postman collection.	
+jijunair/laravel-referral	97	MIT	business	Affiliate & Partner Management	A custom Laravel package that provides referral system functionality for your Laravel applications.	
+noique/cross-border-ecommerce-skills	90	NOASSERTION	business	Affiliate & Partner Management	58 个跨境电商 · DTC 品牌出海 AI 技能库:Amazon 运营、SEO/GEO、广告归因、财务、联盟、红人、线下零售、VOC、众筹。事实均标来源与日期,内置证据闸——数据不足时说「数据不足」,而不是编一个数字。| 58 skills for cross-border e-commerce & DTC: sourced, dated, with evidence gates. EN/中文. Works with Claude Code & Antigravity.	
+Zeeshanahmad4/TikTok-Shop-Affiliate-Outreach-Bot	78	NONE	business	Affiliate & Partner Management	The TikTok Creator Outreach Bot is a desktop application designed to automate messaging and inviting creators for product affiliation on TikTok Seller Center. It automatically finds and messages influencers using a pre-compiled template message you provide. Th	
+Aritzherrero4/AffiliateTelegramBot	76	GPL-3.0	business	Affiliate & Partner Management	A simple python Telegram bot to generate Amazon affiliate links	
+nerin81-netizen/threads-affiliate-automation	76	MIT	business	Affiliate & Partner Management	Open-source Threads affiliate marketing & automation toolkit with local dashboard, card studio, and Graph API / Playwright support.	
+thaolst/tara-bot	62	MIT	business	Affiliate & Partner Management	Tara Bot — AI Telegram agent: search flights, compare prices, inject affiliate links	
+usherlabs/usher-referrals	60	GPL-3.0	business	Affiliate & Partner Management	Open Source Referrals & Partnerships Platform with Web3 integration and Crypto Remittance 🤝	
+dfg-ar/numok	59	MIT	business	Affiliate & Partner Management	Open Source tool to run you SaaS Affiliate Program on top of Stripe	
+soldatov-ss/django-referral-system	57	MIT	business	Affiliate & Partner Management	Django app for managing referral programs — promoters, referral tracking, commission payouts, Wise CSV export, and click analytics.	
+axnoller32/AntiDetect-26	56	MIT	business	Affiliate & Partner Management	Multi Profile + ByPass + Free Prx + AI	
+srbhr/Resume-Matcher	29166	Apache-2.0	business	Applicant Tracking	The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.	
+strelov1/freehire	3418	MIT	business	Applicant Tracking	freehire — the open-source search engine for job seekers	
+Gsync/jobsync	1512	MIT	business	Applicant Tracking	Job application tracker and AI-powered job search assistant. Helps job seekers manage their search journey with AI resume review, job matching, task logging, and application analytics, all while keeping your data private.	
+ETS2LA/ETS2LA	796	GPL-3.0	business	Applicant Tracking	Plugin based interface program for ETS2/ATS.	
+junian/markdown-resume	719	MIT	business	Applicant Tracking	Write Resume with Markdown in ATS and Human-friendly format. Free and Open Source, Privacy-friendly, Local-first resume builder. Simple, private, local.	
+andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-	511	MIT	business	Applicant Tracking	Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry.	
+MicroPyramid/opensource-job-portal	494	MIT	business	Applicant Tracking	opensource jobportal in python django	
+CoffeSiberian/truck-tools	354	GPL-3.0	business	Applicant Tracking	Edit your saves game in Euro Truck Simulator 2 and American Truck Simulator with this simple Desktop App	
+Koenvh1/ets2-local-radio	303	MPL-2.0	business	Applicant Tracking	Radio from wherever you are in ETS2/ATS	
+sliday/resume-job-matcher	275	NONE	business	Applicant Tracking	TypeScript CLI for AI resume screening: hard constraints gate candidates out before scoring, every score cites the resume span behind it, and an embedding pre-filter keeps large pools cheap. Claude, GPT, or OpenRouter.	
+colophon-group/jobseek	223	MIT	business	Applicant Tracking	 Monitors company career pages for new job postings and surfaces them in a single dashboard.	
+Rares-Muntean/TruckNav-Sim	211	GPL-3.0	business	Applicant Tracking	Real-time GPS navigation & routing for ETS2 and ATS. Works on Desktop, Android, and Browser via live telemetry.	
+coinluu/resume-jd-optimizer-cn	199	MIT	business	Applicant Tracking	JD-driven Chinese resume optimization skill for China job seekers. 解析岗位 JD、诊断简历缺口、生成真实可信的中文定制简历、ATS 纯文本版和面试追问。	
+matthewprice/JobFinderOS	188	MIT	business	Applicant Tracking	Open-source AI job search agents for Claude Code. Polls Greenhouse, Ashby and Lever job boards directly, scores roles against your profile, preps interviews, drafts outreach, and writes it all to an Obsidian vault. A recruiter, a crawler and a market analyst, 	
+Riley-Dorrington/job-board-aggregator	185	MIT	business	Applicant Tracking	Job board aggregator indexing 1,000,000+ active positions from 20,000+ companies across Greenhouse, Lever, Ashby, Workday, and other major ATS platforms. Multithreaded Python ETL pipeline, daily automated refreshes via GitHub Actions, filterable client-side se	
+hexclave/hexclave	6886	NOASSERTION	business	Billing & Subscriptions	The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.	
+naiveHobo/InvoiceNet	2698	MIT	business	Billing & Subscriptions	Deep neural network to extract intelligent information from invoice documents.	
+uselotus/lotus	1842	MIT	business	Billing & Subscriptions	Open Source Pricing & Packaging Infrastructure	
+dj-stripe/dj-stripe	1796	MIT	business	Billing & Subscriptions	dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.	
+meteroid-oss/meteroid	1355	AGPL-3.0	business	Billing & Subscriptions	Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights 	
+voltrue2/in-app-purchase	1087	NOASSERTION	business	Billing & Subscriptions	A Node.js module for in-App-Purchase for iOS, Android, Amazon and Windows.	
+getpaykit/paykit	1076	MIT	business	Billing & Subscriptions	Build Stripe billing without the glue code. Products in code, webhooks handled, billing state in your app.	
+awa/go-iap	1062	MIT	business	Billing & Subscriptions	go-iap verifies the purchase receipt via AppStore, GooglePlayStore, AmazonAppStore and Huawei HMS.	
+serso/android-checkout	1003	NOASSERTION	business	Billing & Subscriptions	Library for Android In-App Billing (Version 3+)	
+velobase/velobase-harness	620	MIT	business	Billing & Subscriptions	All AI developers deserve to get paid.  Turn your AI prototype into a paid SaaS with open-source infrastructure for usage billing, payments, attribution, affiliates, anti-abuse, and deployment.	
+lmsqueezy/laravel	591	MIT	business	Billing & Subscriptions	A package to easily integrate your Laravel application with Lemon Squeezy.	
+Merit-Systems/echo	547	NOASSERTION	business	Billing & Subscriptions	The User Pays AI SDK	
+dodopayments/billingsdk	511	GPL-3.0	business	Billing & Subscriptions	Modern Billing & Monetization UI Components Library	
+Ctrlpanel-gg/panel	504	MPL-2.0	business	Billing & Subscriptions	Free, easy-to-use billing solution for hosting providers with seamless Pterodactyl Panel integration	
+aviabird/gringotts	503	MIT	business	Billing & Subscriptions	A complete payment library for Elixir and Phoenix Framework	
+Zackriya-Solutions/meetily	32509	MIT	business	Board & Meeting Management	Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai	
+leits/MeetingBar	5396	Apache-2.0	business	Board & Meeting Management	🇺🇦 Your meetings at your fingertips in the macOS menu bar 	
+Vexa-ai/vexa	2959	Apache-2.0	business	Board & Meeting Management	Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.	
+thepersonalaicompany/amurex	2869	AGPL-3.0	business	Board & Meeting Management	World's first AI meeting copilot → The Invisible Companion for Work + Life	
+pakerwreah/Calendr	2433	MIT	business	Board & Meeting Management	Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI	
+wquguru/cicada	1606	Apache-2.0	business	Board & Meeting Management	知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.	
+amicalhq/amical	1599	MIT	business	Board & Meeting Management	🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate.	
+silverstein/minutes	1593	MIT	business	Board & Meeting Management	Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.	
+Muesli-HQ/muesli	1541	MIT	business	Board & Meeting Management	Muesli: agent-native local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)	
+stenolabs/stenoai	1355	MIT	business	Board & Meeting Management	StenographAI is the secure privacy-first AI notepad & notetaker for confidential conversations in government & defence sectors. On Windows, Linux & MacOS.	
+graphql/graphql-wg	581	NONE	business	Board & Meeting Management	Working group notes for GraphQL	
+opennookorg/betterwispr	515	Apache-2.0	business	Board & Meeting Management	Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative.	
+joincalldotco/Call	436	MIT	business	Board & Meeting Management	open source video infra system	
+Monkiia/HaloVoice	401	NONE	business	Board & Meeting Management		
+open-software-network/os-clovy	356	MIT	business	Board & Meeting Management	Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.	
+Canner/WrenAI	18104	NOASSERTION	business	Business Intelligence	GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse,	
+virgili0/Virgilio	15004	NOASSERTION	business	Business Intelligence	Your new Mentor for Data Science E-Learning.	
+perspective-dev/perspective	11402	Apache-2.0	business	Business Intelligence	A data visualization and analytics component, especially well-suited for large and/or streaming datasets.	
+ankane/blazer	4807	MIT	business	Business Intelligence	Business intelligence made simple	
+briefercloud/briefer	4325	AGPL-3.0	business	Business Intelligence	Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.	
+TuiQiao/CBoard	3100	Apache-2.0	business	Business Intelligence	An easy to use, self-service open BI reporting and BI dashboard platform.	
+quarylabs/quary	2386	Apache-2.0	business	Business Intelligence	Open-source BI for engineers	
+running-elephant/datart	2311	Apache-2.0	business	Business Intelligence	Datart is a next generation Data Visualization Open Platform	
+pretzelai/pretzelai	2189	NOASSERTION	business	Business Intelligence	The modern replacement for Jupyter Notebooks	
+getnao/nao	1994	NOASSERTION	business	Business Intelligence	👾 nao is the #1 open source agentic BI. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone	
+dbt-labs/metricflow	1866	Apache-2.0	business	Business Intelligence	MetricFlow allows you to define, build, and maintain metrics in code.	
+julien040/anyquery	1791	NOASSERTION	business	Business Intelligence	One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.	
+datageartech/datagear	1750	LGPL-3.0	business	Business Intelligence	DataGear数据可视化分析平台，自由制作任何数据看板	
+datalens-tech/datalens	1709	Apache-2.0	business	Business Intelligence	A modern, scalable analytics system	
+ariacom/Seal-Report	1642	MIT	business	Business Intelligence	Database Reporting Tool and Tasks (.Net)	
+nocobase/nocobase	24863	NONE	business	CRM	NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.	
+aureuserp/aureuserp	12178	MIT	business	CRM	Free and Open Source ERP software	
+idurar/idurar-erp-crm	8943	AGPL-3.0	business	CRM	Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React	
+openblocks-dev/openblocks	6243	AGPL-3.0	business	CRM	🔥 🔥 🔥 The Open Source Retool Alternative	
+macro-inc/macro	6192	AGPL-3.0	business	CRM	Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.	
+melgarafael/DeskcommCRM	5245	MIT	business	CRM	Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.	
+Volmarg/personal-management-system	4194	MIT	business	CRM	Your web application for managing personal data.	
+InvoicePlane/InvoicePlane	3278	NOASSERTION	business	CRM	A self-hosted open source application for managing your invoices, clients and payments.	
+ONLYOFFICE/CommunityServer	3177	Apache-2.0	business	CRM	Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.	
+1Panel-dev/CordysCRM	2838	NOASSERTION	business	CRM	🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。	
+ArnasDon/wacrm	2688	MIT	business	CRM	Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.	
+frappe/frappe_docker	2619	MIT	business	CRM	Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development	
+Django-CRM/Django-CRM	2465	MIT	business	CRM	BottleCRM: free, open-source (MIT) CRM with sales, support tickets and invoicing in one app. Unlimited users; self-host or use the hosted app.	
+Bottelet/DaybydayCRM	2331	NONE	business	CRM	DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.	
+FJ-OMS/oms-erp	1929	Apache-2.0	business	CRM	一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。	
+fullcalendar/fullcalendar	20752	MIT	business	Calendar & Resource Booking	Full-sized drag & drop event calendar in JavaScript	
+react-dates/react-dates	12159	MIT	business	Calendar & Resource Booking	An easily internationalizable, mobile-friendly datepicker library for the web	
+WenchaoD/FSCalendar	10628	MIT	business	Calendar & Resource Booking	A fully customizable iOS calendar library, compatible with Objective-C and Swift	
+wix/react-native-calendars	10324	MIT	business	Calendar & Resource Booking	React Native Calendar Components 🗓️ 📆 	
+huanghaibin-dev/CalendarView	9417	Apache-2.0	business	Calendar & Resource Booking	RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲	
+patchthecode/JTAppleCalendar	7643	MIT	business	Calendar & Resource Booking	The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable	
+amsul/pickadate.js	7640	MIT	business	Calendar & Resource Booking	The mobile-friendly, responsive, and lightweight jQuery date & time input picker.	
+gpbl/react-day-picker	6865	MIT	business	Calendar & Resource Booking	DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.	
+IonicaBizau/git-stats	6594	MIT	business	Calendar & Resource Booking	🍀 Local git statistics including GitHub-like contributions calendars.	
+sparrowcode/PermissionsKit	5812	MIT	business	Calendar & Resource Booking	Universal API for request permission and get its statuses.	
+kizitonwose/Calendar	5627	MIT	business	Calendar & Resource Booking	A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.	
+googleworkspace/apps-script-samples	5266	Apache-2.0	business	Calendar & Resource Booking	Apps Script samples for Google Workspace products.	
+dromara/carbon	5223	MIT	business	Calendar & Resource Booking	A simple, semantic and developer-friendly  time  package for golang	
+clauderic/react-infinite-calendar	4018	MIT	business	Calendar & Resource Booking	✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.	
+chronotope/chrono	3931	NOASSERTION	business	Calendar & Resource Booking	Date and time library for Rust	
+wojtekmaj/react-calendar	3788	MIT	business	Calendar & Resource Booking	Ultimate calendar for your React app.	
+jkbrzt/rrule	3751	NOASSERTION	business	Calendar & Resource Booking	JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.	
+SimpleMobileTools/Simple-Calendar	3654	GPL-3.0	business	Calendar & Resource Booking	A simple calendar with events, tasks, customizable colors, widgets and no ads.	
+neuronetio/gantt-schedule-timeline-calendar	3643	NOASSERTION	business	Calendar & Resource Booking	Gantt Gantt Gantt Timeline Schedule Calendar [ javascript gantt, js gantt, projects gantt, timeline, scheduler, gantt timeline, reservation timeline, react gantt, angular gantt, vue gantt, svelte gantt, booking manager ]	
+alamkanak/Android-Week-View	3440	Apache-2.0	business	Calendar & Resource Booking	Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.	
+HowardHinnant/date	3438	NOASSERTION	business	Calendar & Resource Booking	A date and time library based on the C++11/14/17 <chrono> header	
+wa0x6e/cal-heatmap	3126	MIT	business	Calendar & Resource Booking	Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap	
+pimutils/khal	3087	MIT	business	Calendar & Resource Booking	:calendar: CLI calendar application	
+BurntSushi/jiff	3002	Unlicense	business	Calendar & Resource Booking	A datetime library for Rust that encourages you to jump into the pit of success.	
+bevacqua/rome	2894	MIT	business	Calendar & Resource Booking	:calendar: Customizable date (and time) picker. Opt-in UI, no jQuery!	
+aixisstudio/Snitch	822	AGPL-3.0	business	Car Rental & Fleet	Real-time network monitor + outbound firewall — see & block every connection. Privacy-first, local-first, Rust fleet agent, SIEM exports, 8 languages. / Moniteur réseau temps réel + pare-feu sortant, agent de flotte Rust, exports SIEM. 100 % local.	
+orb-community/orb	681	MPL-2.0	business	Car Rental & Fleet	Orb is a dynamic network observability platform with agent fleet orchestration and data pipelines with OpenTelemetry	
+alireza787b/mavsdk_drone_show	338	NOASSERTION	business	Car Rental & Fleet	Open-source MAVLink fleet operations for PX4: SITL, drone shows, search and rescue, cooperative autonomy, and field validation	
+kurator-dev/kurator	258	Apache-2.0	business	Car Rental & Fleet	Unified resource orchestration, unified scheduling, unified traffic management and unified telemetry for distributed cloud	
+gogrlx/grlx	227	0BSD	business	Car Rental & Fleet	Effective fleet configuration management in Go: declarative recipes, NATS-powered farmer/sprout agents, and fast parallel infrastructure automation	
+AbdullahShahid01/Rent-a-Car-Management-System	203	NONE	business	Car Rental & Fleet	It is a semester project for Object Oriented Programming written in java. (a mini Project 😉 )	
+clawfleet/ClawFleet	179	MIT	business	Car Rental & Fleet	Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes — use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard.	
+mosamlife/wpmgr	167	AGPL-3.0	business	Car Rental & Fleet	Open-source, self-hostable WordPress fleet management: backups, updates, uptime monitoring, security, and image optimization for every site from one dashboard you own. A self-hosted MainWP and WP Remote alternative.	
+projectsveltos/sveltos	149	Apache-2.0	business	Car Rental & Fleet	Contains the documentation for Projectsveltos	
+googlemaps/js-route-optimization-app	138	NOASSERTION	business	Car Rental & Fleet	Solve vehicle routing problems with Google Maps Platform Route Optimization	
+thousandflowers/Raccoon	131	MIT	business	Car Rental & Fleet	macOS companion toolkit for power users	
+jfmlima/shelly-manager	129	MIT	business	Car Rental & Fleet	Local management for Shelly IoT devices without cloud connectivity.	
+liuxiaoyan199701-coder/jt-vehicle-platform	108	Apache-2.0	business	Car Rental & Fleet	JT/T 808 & JT/T 1078 vehicle monitoring platform | 部标 808/1078 车联网平台：协议网关 + 业务后端 + 控制台前端 + 浏览器裸流播放器	
+nvidia-isaac/isaac_mission_dispatch	106	Apache-2.0	business	Car Rental & Fleet	VDA5050-compatible cloud service for fleet mission dispatch	
+traccar/traccar-manager	106	Apache-2.0	business	Car Rental & Fleet	Mobile app for viewing and managing devices tracked by Traccar	
+31Carlton7/elisha	148	NONE	business	Church Management	An Offline Bible & Church App for iOS & Android. 🚀	
+igneus/church-calendar-api	138	NONE	business	Church Management	API providing Roman Catholic church calendar data for your apps	
+Johnbatey/bible-song-pro	114	NOASSERTION	business	Church Management	Bible Song Pro is a free and open-source modern church presentation system for OBS Studio.	
+meichthys/christian_foss	107	MIT-0	business	Church Management	✝️ Free and Open Source Christian Software Projects	
+igneus/calendarium-romanum	64	NONE	business	Church Management	liturgical calendar library (Roman Catholic, post-Vatican II)	
+WP-for-Church/Sermon-Manager	46	GPL-2.0	business	Church Management	Sermon Manager for WordPress is the #1 plugin for churches who want to manage their sermons easily and missionally.	
+MauCariApa-com/maucariapacom-church-starter	40	MIT	business	Church Management	An open-source starter template for building high-performance, content-driven church websites with Astro. Pure SSG, SEO-ready, built with Tailwind CSS, Markdown content, ready to integrate with any CMS	
+gerMdz/AlamedaCMS	39	MIT	business	Church Management	Cms básico para entornos con acceso ssh y pleno control del server (ej. VPS ), incluye reservas (payunpile) y enlaces (incalinks)	
+Vija02/TheOpenPresenter	38	AGPL-3.0	business	Church Management	TheOpenPresenter is open-source version of ProPresenter that uses modern technologies to simplify presenting and save time for everyone involved.	
+PeterAlaks/lyric-display-app	37	GPL-3.0	business	Church Management	LyricDisplay is a free, open-source lyric projection application for worship and live events. It works with OBS, vMix and Wirecast, offering real-time synced lyrics and multi-display output on Windows, macOS and Linux.	

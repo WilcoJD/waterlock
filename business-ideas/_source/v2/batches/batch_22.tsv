@@ -1,0 +1,380 @@
+twostraws/ControlRoom	6122	MIT	games	Simulation & Tycoon Games	A macOS app to control the Xcode Simulator.	
+devicekit/DeviceKit	4738	MIT	games	Simulation & Tycoon Games	DeviceKit is a value-type replacement of UIDevice.	
+mortbopet/Ripes	3474	MIT	games	Simulation & Tycoon Games	A graphical processor simulator and assembly editor for the RISC-V ISA	
+kubernetes-sigs/kwok	3217	Apache-2.0	games	Simulation & Tycoon Games	Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.	
+DynamoRIO/dynamorio	3200	NOASSERTION	games	Simulation & Tycoon Games	Dynamic Instrumentation Tool Platform	
+facebookresearch/habitat-lab	3187	MIT	games	Simulation & Tycoon Games	A modular high-level library to train embodied AI agents across a variety of tasks and environments.	
+gem5/gem5	2920	BSD-3-Clause	games	Simulation & Tycoon Games	The official repository for the gem5 computer-system architecture simulator.	
+ghdl/ghdl	2918	GPL-2.0	games	Simulation & Tycoon Games	VHDL 2008/93/87 simulator	
+tddworks/baguette	2276	Apache-2.0	games	Simulation & Tycoon Games	Headless control for Apple's Simulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm	
+4thfever/cultivation-world-simulator	2142	NOASSERTION	games	Simulation & Tycoon Games	基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world. 	
+FakeFishGames/Barotrauma	2287	NONE	games	Social & Party Games	A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.	
+tsoding/koil	381	MIT	games	Social & Party Games	Online Multiplayer Browser Game with Old-School Raycasting Graphics.	
+TheSuperHackers/GeneralsGamePatch	351	NOASSERTION	games	Social & Party Games	Community Patch to fix and improve original Generals Zero Hour 1.04	
+Dr-Nekoma/lyceum	329	Apache-2.0	games	Social & Party Games	An MMO game written in Erlang + PostgreSQL (+ Omnigres) + Zig (+ Raylib), powered by a Nix-based devenv	
+Robosturm/Commander_Wars	306	LGPL-3.0	games	Social & Party Games	The aim of this project is to create an Advance Wars Clone with a lot of additions customizations and modding support. For Contact Inforamtion see the wiki page. Take a view on the game.	
+Jerenaux/basic-mmo-phaser	267	MIT	games	Social & Party Games	Very basic multiplayer online game example made with Phaser, Node.js and Socket.io	
+grazianobolla/godot-monke-net	250	NONE	games	Social & Party Games	Client/Server Authoritative Multiplayer Addon for the Godot Engine	
+retrowars/retrowars	239	GPL-3.0	games	Social & Party Games	Play retro games against each other in any combination in this open source Android multiplayer game.	
+Uyouii/TPS-SLG-GAME	232	NONE	games	Social & Party Games	Unity制作的多人在线的第三人称策略类射击游戏 ，服务端实现怪物寻路，服务端由python 实现。 （服务端没有用任何python第三方库）	
+Javanaise/mrboom-libretro	231	MIT	games	Social & Party Games	Mr.Boom is an 8 player Bomberman clone for RetroArch/Libretro	
+openmultiplayer/launcher	220	NOASSERTION	games	Social & Party Games	open.mp launcher (currently compatible with samp client)	
+shnok/l2-unity	199	NONE	games	Social & Party Games	Lineage2 into Unity3D	
+racehub-io/f1-telemetry-client	174	MIT	games	Social & Party Games	Node UDP client for Formula 1 game telemetry parsing.	
+codergautam/swordbattle.io-v1	160	GPL-3.0	games	Social & Party Games	A multiplayer sword fighting IO game.	
+jeremyckahn/farmhand	147	GPL-2.0	games	Social & Party Games	A resource management game that puts a farm in your hand	
+kwsch/PKHeX	5257	NOASSERTION	games	Speedrun, Save & Randomizer Tools	Pokémon Save File Editor	
+TASEmulators/BizHawk	2811	NOASSERTION	games	Speedrun, Save & Randomizer Tools	BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.  	
+tkkcc/ArkLights	1414	Apache-2.0	games	Speedrun, Save & Randomizer Tools	明日方舟速通 arknights 本仓库不再维护，请使用  https://github.com/AegirTech/ArkLights	
+kwsch/NHSE	1255	GPL-3.0	games	Speedrun, Save & Randomizer Tools	Animal Crossing: New Horizons save editor	
+sofianeelhor/PKForge	1040	NOASSERTION	games	Speedrun, Save & Randomizer Tools	Pokémon save editor and bank for Android	
+kwsch/PKHeX.Mobile	863	NOASSERTION	games	Speedrun, Save & Randomizer Tools	Pokémon save editor for Android and iOS!	
+Ninjabrain1/Ninjabrain-Bot	847	GPL-3.0	games	Speedrun, Save & Randomizer Tools	Accurate stronghold calculator for Minecraft speedrunning.	
+zencq/nomnom	837	GPL-3.0	games	Speedrun, Save & Randomizer Tools	NomNom is one of the most complete savegame editor for No Man's Sky but also shows additional information around the data you're about to change.	
+pocco81/auto-save.nvim	775	GPL-3.0	games	Speedrun, Save & Randomizer Tools	🧶 Automatically save your changes in NeoVim	
+bucanero/apollo-ps4	704	GPL-3.0	games	Speedrun, Save & Randomizer Tools	Apollo Save Tool (PS4)	
+LIPtoH/TS-SE-Tool	668	Apache-2.0	games	Speedrun, Save & Randomizer Tools	Truck Simulator Save Editor Tool	
+bucanero/apollo-ps3	621	GPL-3.0	games	Speedrun, Save & Randomizer Tools	Apollo Save Tool (PS3)	
+mmvanheusden/SteamDepotDownloaderGUI	581	GPL-3.0	games	Speedrun, Save & Randomizer Tools	Downgrade Steam games to older versions with ease using DepotDownloader	
+trumank/uesave	487	MIT	games	Speedrun, Save & Randomizer Tools	Rust library and CLI to read and write Unreal Engine save files	
+Chnapy/PKVault	357	NOASSERTION	games	Speedrun, Save & Randomizer Tools	Centralized Pokemon storage management & Pokedex app	
+ScottfreeLLC/AlphaPy	1781	Apache-2.0	games	Sports League Management	Python AutoML for Trading Systems and Sports Betting	
+kyleskom/NBA-Machine-Learning-Sports-Betting	1774	NONE	games	Sports League Management	NBA sports betting using machine learning	
+evroon/bracket	1752	AGPL-3.0	games	Sports League Management	Selfhosted tournament system	
+0xjuanma/golazo	887	MIT	games	Sports League Management	The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.	
+perfanalytics/pose2sim	870	BSD-3-Clause	games	Sports League Management	Markerless kinematics with any cameras — From 2D Pose estimation to 3D OpenSim motion	
+jalapic/engsoccerdata	786	NONE	games	Sports League Management	English and European soccer results 1871-2022	
+linouk23/NBA-Player-Movements	757	NONE	games	Sports League Management	🏀 Visualization of NBA games from raw SportVU data logs	
+bttmly/nba	735	MIT	games	Sports League Management	Node.js client for nba.com API endpoints	
+MLB-LED-Scoreboard/mlb-led-scoreboard	724	GPL-3.0	games	Sports League Management	An LED scoreboard for Major League Baseball :baseball:	
+Sportarr/Sportarr	628	GPL-3.0	games	Sports League Management	Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.	
+roclark/sportsipy	578	MIT	games	Sports League Management	A free sports API written for python	
+panzarino/mlbgame	551	MIT	games	Sports League Management	A Python API to retrieve and read MLB GameDay data	
+pretrehr/Sports-betting	543	MIT	games	Sports League Management	Sports betting assistant (with interface) which optimizes earnings regarding odds and offers	
+itskovacs/wingfit	538	NOASSERTION	games	Sports League Management	Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data	
+SoccerNet/sn-gamestate	470	GPL-3.0	games	Sports League Management	[CVPRW'24] SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap (CVPR24 - CVSports workshop)	
+CorsixTH/CorsixTH	4653	NOASSERTION	games	Strategy Games	Open source clone of Theme Hospital	
+triplea-game/triplea	1593	GPL-3.0	games	Strategy Games	TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.	
+FreeCol/freecol	721	GPL-2.0	games	Strategy Games	FreeCol: FreeCol is a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation.	
+C7-Game/OpenCiv3	690	MIT	games	Strategy Games	OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.	
+eyalgolan/statecraft-israel	679	NOASSERTION	games	Strategy Games	A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.	
+bencbartlett/Overmind	618	MIT	games	Strategy Games	AI for Screeps, a multiplayer programming strategy game	
+ja2-stracciatella/ja2-stracciatella	547	NONE	games	Strategy Games	The continuation of the venerable JA2-Stracciatella project.	
+singularity/singularity	420	NOASSERTION	games	Strategy Games	A simulation of a true AI. Survive, grow, and learn.	
+rust-alert/ra2.exe	333	Apache-2.0	games	Strategy Games	使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。	
+raphaellepuschitz/SVG-World-Map	317	MIT	games	Strategy Games	🗺 A JavaScript library to easily integrate one or more SVG world maps with all nations (countries) and second-level political subdivisions (countries, provinces, states).	
+lechmazur/elimination_game	298	NONE	games	Strategy Games	A multi-player tournament benchmark that tests LLMs in social reasoning, strategy, and deception. Players engage in public and private conversations, form alliances, and vote to eliminate each other	
+chrisdiana/TinyCity	207	GPL-3.0	games	Strategy Games	TinyCity is a city simulation game inspired by SimCity for MicroPython	
+RyanGrieb/OpenCiv	206	NOASSERTION	games	Strategy Games	An open source civilization-like game made for the web browser.	
+tuomount/Open-Realms-of-Stars	179	GPL-2.0	games	Strategy Games	4X Strategy game	
+Zetawar/zetawar	174	MIT	games	Strategy Games	Zetawar is a turn based tactical strategy game implemented in 100% ClojureScript.	
+Ebazhanov/linkedin-skill-assessments-quizzes	28875	AGPL-3.0	games	Trivia & Quiz Platforms	Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test ques	
+ZaneH/piano-trainer	2213	MIT	games	Trivia & Quiz Platforms	🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual	
+chadyi/StudyOnTV	819	NOASSERTION	games	Trivia & Quiz Platforms	StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.	
+ditdot-dev/vue-flow-form	804	MIT	games	Trivia & Quiz Platforms	Create conversational conditional-logic forms with Vue.js.	
+sibtc/django-multiple-user-types-example	598	MIT	games	Trivia & Quiz Platforms	Django Quiz Application	
+KristiyanVachev/Question-Generation	495	GPL-3.0	games	Trivia & Quiz Platforms	Generating multiple choice questions from text using Machine Learning.	
+gbaranski/quizizz-cheat	392	GPL-3.0	games	Trivia & Quiz Platforms	Cheat for https://quizizz.com to get all correct answers	
+LeftValues/leftvalues.github.io	375	NOASSERTION	games	Trivia & Quiz Platforms	LeftValues, a leftist political quiz	
+sarveshchavan7/Quiz-Game	345	MIT	games	Trivia & Quiz Platforms	Multiple choice questions answer game for android (Quiz game).	
+fasiha/ebisu	338	Unlicense	games	Trivia & Quiz Platforms	Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!)	
+eightants/whisperify	338	GPL-3.0	games	Trivia & Quiz Platforms	An interactive way to learn about your favourite songs on Spotify. Quiz yourself on your favourite playlists and share quizzes with friends. 	
+nymanjens/quizmaster	327	NOASSERTION	games	Trivia & Quiz Platforms	A web-app for conducting a quiz over the internet	
+BDFD-Learning-Ground/Cousera_Google-Data-Analytics-Professional-Certificate	263	NONE	games	Trivia & Quiz Platforms	Quizzes & Assignment Solutions for Google Data Analytics Professional Certificate on Coursera. Also included a few resources on side that I found helpful. 	
+ram-sah/LinkedIn-Assessments	222	NONE	games	Trivia & Quiz Platforms	LinkedIn Quiz Questions Skill Assessments Preparation, Test Questions Answers HTML, JavaScript, CSS, NodeJs	
+sumitkumar1503/onlinequiz	217	MIT	games	Trivia & Quiz Platforms	Online Quiz || Python Django	
+relativty/Relativty	7271	GPL-3.0	games	VR/AR Frameworks	An open source VR headset with SteamVR supports for $200	
+immersive-web/webxr	3160	NOASSERTION	games	VR/AR Frameworks	Repository for the WebXR Device API Specification.	
+viromedia/viro	2403	MIT	games	VR/AR Frameworks	ViroReact: AR and VR using React Native	
+ReactVision/viro	1836	MIT	games	VR/AR Frameworks	ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.	
+the3deer/android-3D-model-viewer	1558	MIT	games	VR/AR Frameworks	Android OpenGL 2.x/3.x application to view 3D models. Published on Play Store	
+AsPJT/DungeonTemplateLibrary	1466	BSL-1.0	games	VR/AR Frameworks	🌏: Dungeon free resources (terrain & roguelike generation)	
+supermedium/aframe-react	1430	MIT	games	VR/AR Frameworks	:atom: Build virtual reality experiences with A-Frame and React.	
+De-Panther/unity-webxr-export	1267	Apache-2.0	games	VR/AR Frameworks	Develop and export WebXR experiences using Unity WebGL	
+networked-aframe/networked-aframe	1207	MIT	games	VR/AR Frameworks	A web framework for building multi-user virtual reality experiences.	
+julrog/nn_vis	1182	MIT	games	VR/AR Frameworks	A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.	
+immersive-web/webxr-samples	1167	MIT	games	VR/AR Frameworks	Samples to demonstrate use of the WebXR Device API	
+EyeTrackVR/EyeTrackVR	1166	NOASSERTION	games	VR/AR Frameworks	Free and Affordable, Virtual Reality Eye Tracking Platform.	
+icosa-foundation/open-brush	1145	Apache-2.0	games	VR/AR Frameworks	Open Brush is the open source, community led evolution of Tilt Brush! Forked from https://github.com/googlevr/tilt-brush	
+StereoKit/StereoKit	1092	MIT	games	VR/AR Frameworks	An easy-to-use XR engine for building AR and VR applications with C# and OpenXR!	
+SlimeVR/SlimeVR-Server	1050	Apache-2.0	games	VR/AR Frameworks	Server app for SlimeVR ecosystem	
+wintermute-cell/magick.css	1042	MIT	games	Virtual Tabletop & TTRPG	magically playful, yet simple styling. all in one file.	
+andymeneely/squib	957	MIT	games	Virtual Tabletop & TTRPG	A Ruby DSL for prototyping card games.	
+BigJk/snd	679	MIT	games	Virtual Tabletop & TTRPG	Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility	
+Kruptein/PlanarAlly	563	MIT	games	Virtual Tabletop & TTRPG	A companion tool for when you travel into the planes.	
+farirpgs/fari-app	322	AGPL-3.0	games	Virtual Tabletop & TTRPG	The Free and Open-Source VTT	
+sobolevn/ship-it-boardgame	233	NOASSERTION	games	Virtual Tabletop & TTRPG	Social and fun boardgame about IT. Best with 🍻	
+rsek/dataforged	223	NOASSERTION	games	Virtual Tabletop & TTRPG	Official content and rules data for the Ironsworn: Starforged tabletop role-playing game, formatted as JSON for use in community tools. 🚀 Includes JSON schemas and a Javascript/Typescript API.	
+fvtt-fria-ligan/forbidden-lands-foundry-vtt	205	NOASSERTION	games	Virtual Tabletop & TTRPG	This is a Forbidden Lands game System for the Foundry Virtual Tabletop. Made by @Perfectro, @patrys and @aMediocreDad. Maintained by @Cussa	
+rsek/datasworn	172	NONE	games	Virtual Tabletop & TTRPG	The successor to the original Datasworn repository and Dataforged package, which provide game rules from the Ironsworn and Ironsworn: Starforged TTRPGs in JSON.	
+DSPaul/COMPASS	164	AGPL-3.0	games	Virtual Tabletop & TTRPG	TTRPG resource manager, bringing all your books, maps, etc. in one place.	
+mythal/boluo	154	AGPL-3.0	games	Virtual Tabletop & TTRPG	A chat application designed specifically for playing RPGs.	
+amishne/mipui	147	MIT	games	Virtual Tabletop & TTRPG	Online collaborative map editor for role-playing games.	
+avrae/d20	140	MIT	games	Virtual Tabletop & TTRPG	A fast, powerful, and extensible dice engine for D&D, d20 systems, and any other system that needs dice!	
+elymsyr/dungeon-master-tool	130	NOASSERTION	games	Virtual Tabletop & TTRPG	A portable, offline-first DM tool designed for dual-monitor setups. Manage combat, take notes on mind map, track timelines, and project a rich campaign wiki seamlessly. Download for Android, Windows, Linux, and MacOS. Supports English, Türkçe, French, and Deut	
+League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima	114	MIT	games	Virtual Tabletop & TTRPG	Enter Project FU: an unofficial foundry system for Fabula Ultima, channeling the essence of the book while delivering the immersive experience of playing a JRPG in tabletop format.	
+hanmin0822/MisakaTranslator	5781	GPL-3.0	games	Visual Novel Engines	御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具	
+AhmadHassan-BTed/RoseWish	4837	MIT	games	Visual Novel Engines	A heartfelt, interactive narrative mini-game built in Python for Rose Day. Features custom entities, a dynamic dialogue system, animated particle effects, and integrated audio to deliver a unique, romantic digital experience.	
+morkt/GARbro	3362	MIT	games	Visual Novel Engines	Visual Novels resource browser	
+project-yuki/YUKI	1582	GPL-3.0	games	Visual Novel Engines	YUKI Galgame Translator	
+GoldenPotato137/PotatoVN	1479	Apache-2.0	games	Visual Novel Engines	一款Visual Novel管理软件	
+ximu3/vnite	1372	GPL-3.0	games	Visual Novel Engines	A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detailed gameplay reports.	
+dominostars/playtranslate	1349	GPL-3.0	games	Visual Novel Engines	Real-time translation and language learning Android app for games, visual novels, manga, and any other screen text. 屏幕翻译 游戏翻译	
+ciddwd/overlay-translator	1248	Apache-2.0	games	Visual Novel Engines	无需 ROOT 的开源 Android 屏幕实时翻译工具，适合游戏、视觉小说和漫画。支持端侧与云端 OCR、离线 LLM、多种翻译服务和文字朗读（TTS），译文可直接显示在画面上。Open-source no-root Android real-time screen translator for games, visual novels, and manga. Supports on-device and cloud OCR, offline LLMs, multiple translation services	
+requinDr/tsukiweb-public	857	NONE	games	Visual Novel Engines	Porting Tsukihime to the web to make it accessible on different devices with QoL improvements	
+ks233/ja-learner	852	GPL-3.0	games	Visual Novel Engines	📖简易日语学习 / 视觉小说阅读辅助工具	
+RimoChan/Librian	790	MPL-2.0	games	Visual Novel Engines	【Librian】簡明強大的 Galgame | Visual Novel 引擎	
+huoshen80/ReinaManager	736	AGPL-3.0	games	Visual Novel Engines	A lightweight galgame/visual-novel manager,Under development...	
+Lunatic-Works/Nova	722	MIT	games	Visual Novel Engines	Programmer-friendly framework for visual novels (VN) / text-based adventure games (AVG) on Unity	
+OpenWebGAL/WebGAL_Terre	662	MPL-2.0	games	Visual Novel Engines	Galgame Editing. Redefined | 视觉小说编辑，再进化	
+KunMoe/kun-galgame-stickers	503	AGPL-3.0	games	Visual Novel Engines	🐳 KUN's Visual Novel (galgame) sticker set. To recommend games to more people. Galgame 表情包仓库	
+bilawalsidhu/gods-eye-view	63333	NOASSERTION	games	Web Game Engines	A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.	
+xtermjs/xterm.js	21326	MIT	games	Web Game Engines	A terminal for the web	
+google/filament	20708	Apache-2.0	games	Web Game Engines	Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2	
+tensorflow/tfjs	19155	Apache-2.0	games	Web Game Engines	A WebGL accelerated JavaScript library for training and deploying ML models.	
+plotly/plotly.py	18880	MIT	games	Web Game Engines	The interactive graphing library for Python :sparkles:	
+bkaradzic/bgfx	17626	BSD-2-Clause	games	Web Game Engines	Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.	
+PavelDoGreat/WebGL-Fluid-Simulation	16802	MIT	games	Web Game Engines	Play with fluids in your browser (works even on mobile)	
+gpujs/gpu.js	15523	MIT	games	Web Game Engines	GPU Accelerated JavaScript	
+visgl/deck.gl	14742	MIT	games	Web Game Engines	WebGL2 powered visualization framework	
+antvis/G2	12654	MIT	games	Web Game Engines	📊 The concise and progressive visualization grammar.	
+jacomyal/sigma.js	12226	MIT	games	Web Game Engines	A JavaScript library aimed at visualizing graphs of thousands of nodes and edges	
+playcanvas/supersplat	10611	MIT	games	Web Game Engines	3D Gaussian Splat Editor	
+visgl/react-map-gl	8513	NOASSERTION	games	Web Game Engines	React friendly API wrapper around MapboxGL JS	
+MengTo/threeui	7142	MIT	games	Web Game Engines	Open-source ThreeUI Community catalog with live interactive components and complete Community source.	
+jlfwong/speedscope	6783	MIT	games	Web Game Engines	🔬 A fast, interactive web-based viewer for performance profiles.	
+shuding/cobe	6050	MIT	games	Web Game Engines	5KB WebGL globe lib.	
+hiloteam/Hilo	5934	MIT	games	Web Game Engines	A Cross-end HTML5 Game development solution	
+elysia395/dsh-wallpaper-engine	5733	MIT	games	Web Game Engines	把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Win	
+regl-project/regl	5595	MIT	games	Web Game Engines	👑 Functional WebGL	
+patriciogonzalezvivo/glslViewer	5351	BSD-3-Clause	games	Web Game Engines	Console-based GLSL Sandbox for 2D/3D shaders	
+transcranial/keras-js	4964	MIT	games	Web Game Engines	Run Keras models in the browser, with GPU support using WebGL	
+mpetroff/pannellum	4920	MIT	games	Web Game Engines	Pannellum is a lightweight, free, and open source panorama viewer for the web.	
+designfuchen/word-atlas	4379	NOASSERTION	games	Web Game Engines	词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.	
+Netflix/vizceral	4097	Apache-2.0	games	Web Game Engines	WebGL visualization for displaying animated traffic graphs	
+paper-design/shaders	3922	Apache-2.0	games	Web Game Engines	Zero-dependency canvas shaders that can be installed from npm or designed in Paper	
+timdream/wordcloud2.js	2498	MIT	games	Word Games	Tag cloud/Wordle presentation on 2D canvas or HTML	
+antfu/handle	1445	MIT	games	Word Games	A Chinese Hanzi variation of Wordle - 汉字 Wordle	
+ajeetdsouza/clidle	641	MIT	games	Word Games	Play Wordle over SSH.	
+kennylimz/anime-character-guessr	358	NOASSERTION	games	Word Games	猜二次元角色	
+MikhaD/wordle	287	GPL-3.0	games	Word Games	A recreation of the popular game Wordle with additional modes and features. Made with Svelte in Typescript.	
+nalinbhardwaj/zordle	227	MIT	games	Word Games	Wordle, but with ZK proofs!	
+the-abe-train/globle	198	NOASSERTION	games	Word Games	Use your geography knowledge to figure out the mystery country in as few guesses as possbile!	
+pietroppeter/wordle-it	148	NONE	games	Word Games	Italian version of Wordle	
+pveyes/katla	146	NONE	games	Word Games	Indonesian version of Wordle	
+LouanBen/wordle-fr	141	GPL-3.0	games	Word Games	"Le Mot" un Wordle en français.	
+jason-chao/wordle-solver	121	MIT	games	Word Games	A tool that helps people who struggle with vocabulary enjoy the famous game of WORDLE.	
+taximanli/kotobade-asobou	120	NOASSERTION	games	Word Games	日本語版 日替わり単語パズルゲーム Daily Japanese word puzzle game	
+Assios/chessguessr	105	GPL-3.0	games	Word Games	Guess the continuation of a chess game	
+cheeaun/chengyu-wordle	102	NONE	games	Word Games	Wordle, for Chinese idioms - 成语 (chéngyǔ)	
+gabtoschi/letreco	96	MIT	games	Word Games	Um jogo diário de adivinhação de palavras. Versão brasileira não-oficial do Wordle.	
+sign/translate	798	NOASSERTION	mobile	Accessibility	Effortless Real-Time Sign Language Translation	
+harshbg/Sign-Language-Interpreter-using-Deep-Learning	777	MIT	mobile	Accessibility	A sign language interpreter using live video feed from the camera. 	
+guidepup/guidepup	592	MIT	mobile	Accessibility	Screen reader automation library for testing.	
+LazoVelko/neverclick	491	NONE	mobile	Accessibility	Keyboard-driven mouse control using local computer vision.	
+Community-Access/accessibility-agents	436	MIT	mobile	Accessibility	WCAG 2.2 AA accessibility review for AI coding tools: Agent Skills, an edit gate and accessibility scanners for Claude Code, GitHub Copilot, Gemini CLI and Codex.	
+sign-language-translator/sign-language-translator	380	Apache-2.0	mobile	Accessibility	Python library & framework to build custom translators for the hearing-impaired and translate between Sign Language & Text using Artificial Intelligence.	
+emnikhil/Sign-Language-To-Text-Conversion	363	MIT	mobile	Accessibility	Sign Language to Text Conversion is a real-time system that uses a camera to capture hand gestures and translates them into text, words, and sentences using Computer Vision and Machine Learning.	
+Bitshank-2338/clicky-windows	305	MIT	mobile	Accessibility	Free offline AI assistant for Windows — reads your screen, hears your question, speaks the answer. No API key, runs locally with Ollama.	
+DresdenGman/AIGlasses_for_navigation	270	MIT	mobile	Accessibility	Open-source AI navigation glasses under $35 — they say what they see, and say 'uncertain' instead of guessing. Safety-first, printable enclosure, community build kit.	
+voqal/voqal	195	Apache-2.0	mobile	Accessibility	Voice native AI agent for the builders of tomorrow 	
+ZhengdiYu/SignAvatars	194	NONE	mobile	Accessibility	(ECCV 2024) SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark	
+ZechengLi19/Uni-Sign	186	NONE	mobile	Accessibility	[ICLR'25] Official Implement of "Uni-Sign: Toward Unified Sign Language Understanding at Scale"	
+odilia-app/odilia	173	MIT	mobile	Accessibility	A fast screenreader for the *nix desktop.	
+BelalC/sign2text	164	NONE	mobile	Accessibility	Real-time AI-powered translation of American Sign Language fingerspelling (sign to text)	
+guidepup/virtual-screen-reader	158	MIT	mobile	Accessibility	Virtual Screen Reader is a screen reader simulator for testing.	
+timmbogner/Farm-Data-Relay-System	629	MIT	mobile	Agriculture & Farm	A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.	
+geezacoleman/OpenWeedLocator	506	MIT	mobile	Agriculture & Farm	An open-source, low-cost, image-based weed detection device for in-crop and fallow scenarios.	
+reingart/pyafipws	366	LGPL-3.0	mobile	Agriculture & Farm	Factura Electrónica AFIP y otros servicios web (proyecto software libre) — Interfases, tools and apps for Argentina's gov't. webservices (soap, com/dll simil-ocx, pdf, dbf, xml, json, etc.) #python	
+meyerls/FruitNeRF	337	GPL-3.0	mobile	Agriculture & Farm	[IROS24] Offical Code for "FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework" - Inegrated into Nerfstudio	
+ersha-os/ersha-os	304	MIT	mobile	Agriculture & Farm	Digital Public Infrastructure (DPI) for Agriculture	
+FoodOntology/foodon	248	CC-BY-4.0	mobile	Agriculture & Farm	The core repository for the FOODON food ontology project. This holds the key classes of the ontology; larger files and the results of text-mining projects will be stored in other repos. 	
+maja601/EuroCrops	226	CC-BY-SA-4.0	mobile	Agriculture & Farm	The official repository for the EuroCrops dataset.	
+APSIMInitiative/ApsimX	220	NOASSERTION	mobile	Agriculture & Farm	ApsimX is the next generation of APSIM	
+rspatial/geodata	201	GPL-3.0	mobile	Agriculture & Farm	download geographic data	
+omroy07/AgriTech	128	NOASSERTION	mobile	Agriculture & Farm	AgriTech is an AI-powered web platform that offers crop recommendations, yield prediction, disease detection, and collaborative tools to empower farmers and promote smart, sustainable agriculture.	
+ricber/digital-agriculture-datasets	122	GPL-3.0	mobile	Agriculture & Farm	Open datasets for training and benchmarking AI and robotic systems in agriculture and off-road environments	
+Realistic-Farming/FS25_SoilFertilizer	117	NOASSERTION	mobile	Agriculture & Farm	Realistic soil nutrient management for Farming Simulator 25. Track N/P/K, pH, and organic matter per field — with crop-specific depletion, fertilizer replenishment, weather effects, and seasonal cycles.	
+EOA-team/eodal	99	GPL-3.0	mobile	Agriculture & Farm	Earth Observation Data Analysis Library	
+montimaj/agribound	98	Apache-2.0	mobile	Agriculture & Farm	An AI-powered field boundary delineation toolkit combining satellite foundation models, embeddings, and global training data for accurate agricultural parcel/field boundary mapping.	
+nesl/agrobot	87	BSD-3-Clause	mobile	Agriculture & Farm	Neural-Kalman GNSS/INS Navigation for Precision Agriculture	
+proyecto26/react-native-inappbrowser	1416	MIT	mobile	App Analytics & Attribution	📱InAppBrowser for React Native (Android & iOS) 🤘	
+citation-file-format/citation-file-format	563	CC-BY-4.0	mobile	App Analytics & Attribution	The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.	
+BranchMetrics/react-native-branch-deep-linking-attribution	538	MIT	mobile	App Analytics & Attribution	The Branch React Native SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user 	
+tasomaniac/OpenLinkWith	456	Apache-2.0	mobile	App Analytics & Attribution	Open the current webpage you have in another app. Magic! 🔮	
+MadryLab/context-cite	343	MIT	mobile	App Analytics & Attribution	Attribute (or cite) statements generated by LLMs back to in-context information.	
+Mohammedcha/gplay-scraper	313	MIT	mobile	App Analytics & Attribution	GPlay Scraper is a powerful Python Google Play scraper library for extracting comprehensive app data from the Google Play Store. Scrape Google Play Store apps to get ratings, install counts, reviews, ASO metrics, developer information, and 65+ data fields	
+software-mansion-labs/react-native-detour	286	MIT	mobile	App Analytics & Attribution	SDK for handling deferred deep links in React Native with seamless expo-router integration.	
+Mickinthemiddle/CLOAK	276	GPL-2.0	mobile	App Analytics & Attribution	Knowledge base on cybercriminal concealment techniques	
+chr5tphr/zennit	248	LGPL-3.0	mobile	App Analytics & Attribution	Zennit is a high-level framework in Python using PyTorch for explaining/exploring neural networks using attribution methods like LRP.	
+MadryLab/trak	248	MIT	mobile	App Analytics & Attribution	A fast, effective data attribution method for neural networks in PyTorch	
+guidelabs/steerling	240	Apache-2.0	mobile	App Analytics & Attribution	Interpretable Causal Diffusion Language Models	
+gov4git/gov4git	216	NOASSERTION	mobile	App Analytics & Attribution	Decentralized governance for Git communities	
+citation-file-format/cffconvert	143	Apache-2.0	mobile	App Analytics & Attribution	Command line program to validate and convert CITATION.cff files.	
+rachtibat/zennit-crp	141	NOASSERTION	mobile	App Analytics & Attribution	An eXplainable AI toolkit with Concept Relevance Propagation and Relevance Maximization	
+MadryLab/modelcomponents	139	MIT	mobile	App Analytics & Attribution	Decomposing and Editing Predictions by Modeling Model Computation	
+Authenticator-Extension/Authenticator	4755	MIT	mobile	Authenticator & 2FA	Authenticator generates 2-Step Verification codes in your browser.	
+Bubka/2FAuth	4215	AGPL-3.0	mobile	Authenticator & 2FA	A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes	
+guilhermerodz/input-otp	3270	MIT	mobile	Authenticator & 2FA	One time passcode Input. Accessible & unstyled.	
+yeojz/otplib	2306	MIT	mobile	Authenticator & 2FA	One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator	
+authorizerdev/authorizer	2118	Apache-2.0	mobile	Authenticator & 2FA	Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.	
+mkhorasani/Streamlit-Authenticator	2088	MIT	mobile	Authenticator & 2FA	A secure authentication module to manage user access in a Streamlit application.	
+google/google-authenticator-libpam	2020	Apache-2.0	mobile	Authenticator & 2FA	Google Authenticator PAM module	
+antonioribeiro/google2fa	2014	MIT	mobile	Authenticator & 2FA	A One Time Password Authentication package, compatible with Google Authenticator.	
+scito/extract_otp_secrets	1689	GPL-3.0	mobile	Authenticator & 2FA	Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as "Google Authenticator". The exported QR codes from authentication apps can be captured by camera, read from images, or read from text files. The secr	
+susam/mintotp	1402	MIT	mobile	Authenticator & 2FA	Minimal TOTP generator in 20 lines of Python	
+kspearrin/Otp.NET	1325	MIT	mobile	Authenticator & 2FA	A .NET implementation of TOTP and HOTP for things like two-factor authentication codes.	
+dyc3/steamguard-cli	1080	GPL-3.0	mobile	Authenticator & 2FA	A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. 	
+broamski/aws-mfa	1064	MIT	mobile	Authenticator & 2FA	Manage AWS MFA Security Credentials	
+antonioribeiro/google2fa-laravel	1053	MIT	mobile	Authenticator & 2FA	A One Time Password Authentication package, compatible with Google Authenticator for Laravel	
+leonardodino/rci	905	MIT	mobile	Authenticator & 2FA	🔢 better code inputs for react/web	
+babybuddy/babybuddy	2942	BSD-2-Clause	mobile	Baby & Parenting	A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.	
+babyname/fate	2409	MIT	mobile	Baby & Parenting	Fate is a modern science chinese name create tool. 	
+Oak-and-Sprout/sprout-track	402	NOASSERTION	mobile	Baby & Parenting	A tracker to track baby diapers, feedings, naps, pumping, and other activities.	
+xiaolai/1000-hours	221	NONE	mobile	Baby & Parenting	Pay your attention into 1000 hours, and you can master anything you need.	
+rehg-lab/eye-contact-cnn	108	NOASSERTION	mobile	Baby & Parenting	Deep neural network trained to detect eye contact from facial image	
+jcgoette/baby_buddy_homeassistant	98	MIT	mobile	Baby & Parenting	This custom integration provides sensors for Baby Buddy API endpoints.	
+porridge/bambam	84	GPL-3.0	mobile	Baby & Parenting	keyboard mashing and doodling game for babies and toddlers	
+nicolasbrailo/PianOli	78	GPL-3.0	mobile	Baby & Parenting	Android baby game	
+t0mer/Find-my-kids	66	Apache-2.0	mobile	Baby & Parenting	Self-hosted WhatsApp bot that uses local DeepFace face recognition via Green API to find your kids in group photos and forward them to you	
+jiuguangw/Agenoria	55	NOASSERTION	mobile	Baby & Parenting	Python utility for visualizing growth data from a newborn's first year, such as feeding, diapering, sleep, and growth, recorded in the Glow Baby app.	
+babydots/babydots	49	GPL-3.0	mobile	Baby & Parenting	Sensory app for young babies	
+Woyken/huckleberry-homeassistant	45	MIT	mobile	Baby & Parenting	Home Assistant integration for Huckleberry baby tracker app - monitor sleep, feeding, diapers, and growth tracking	
+brossign/dadAI	43	MIT	mobile	Baby & Parenting	LLM-powered assistant for first-time dads, fine-tuned on real parenting discussions using Mistral 7B	
+liviro/boob-o-clock	35	MIT	mobile	Baby & Parenting	Self-hosted dark-mode baby tracker for the infant days & nights	
+tmchow/hermes-kids-profile-blueprint	29	MIT	mobile	Baby & Parenting	Parent-operated starter kit for designing a private, child-facing Hermes Agent profile	
+ChromeDevTools/chrome-devtools-mcp	54926	Apache-2.0	mobile	Browsers	Chrome DevTools for coding agents	
+microsoft/monaco-editor	46959	MIT	mobile	Browsers	A browser based code editor	
+servo/servo	38417	MPL-2.0	mobile	Browsers	Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.	
+SerenityOS/serenity	33947	BSD-2-Clause	mobile	Browsers	The Serenity Operating System 🐞	
+AvaloniaUI/Avalonia	31773	MIT	mobile	Browsers	Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI	
+ianstormtaylor/slate	31745	MIT	mobile	Browsers	A completely customizable framework for building rich text editors. (Currently in beta.)	
+fingerprintjs/fingerprintjs	28704	MIT	mobile	Browsers	The most advanced free and open-source browser fingerprinting library	
+chromium/chromium	25266	BSD-3-Clause	mobile	Browsers	The official GitHub mirror of the Chromium source	
+mochajs/mocha	22912	MIT	mobile	Browsers	☕️ Classic, reliable, trusted test framework for Node.js and the browser	
+gildas-lormeau/SingleFile	22855	AGPL-3.0	mobile	Browsers	Web Extension for saving a faithful copy of a complete web page in a single HTML file	
+imputnet/helium	22453	GPL-3.0	mobile	Browsers	Private, fast, and honest web browser	
+citrolabs/ego-lite	21977	MIT	mobile	Browsers	The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.	
+fathyb/carbonyl	19595	BSD-3-Clause	mobile	Browsers	Chromium running inside your terminal	
+yudai/gotty	19558	MIT	mobile	Browsers	Share your terminal as a web application	
+huggingface/transformers.js	16406	Apache-2.0	mobile	Browsers	State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!	
+javascript-obfuscator/javascript-obfuscator	16320	BSD-2-Clause	mobile	Browsers	A powerful obfuscator for JavaScript and Node.js	
+faker-js/faker	15544	NOASSERTION	mobile	Browsers	Generate massive amounts of fake data in the browser and node.js	
+feathersjs/feathers	15256	MIT	mobile	Browsers	The API and real-time application framework	
+BrainJS/brain.js	14855	MIT	mobile	Browsers	🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js	
+browserify/browserify	14692	MIT	mobile	Browsers	browser-side require() the node.js way	
+moonD4rk/HackBrowserData	14680	MIT	mobile	Browsers	Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR.	
+kysely-org/kysely	14338	MIT	mobile	Browsers	A type-safe TypeScript SQL query builder	
+browseros-ai/BrowserOS	14271	AGPL-3.0	mobile	Browsers	🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.	
+mozilla-mobile/firefox-ios	13069	MPL-2.0	mobile	Browsers	Firefox for iOS	
+ultrafunkamsterdam/undetected-chromedriver	12899	GPL-3.0	mobile	Browsers	Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)	
+cedricp/ddt4all	1920	GPL-3.0	mobile	Car & Vehicle Apps	OBD tool	
+hypery11/flipper-tesla-fsd	1231	NOASSERTION	mobile	Car & Vehicle Apps	Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.	
+PowerBroker2/ELMduino	944	MIT	mobile	Car & Vehicle Apps	Arduino OBD-II Bluetooth Scanner Interface Library for Car Hacking Projects	
+pylessard/python-udsoncan	741	MIT	mobile	Car & Vehicle Apps	Python implementation of UDS (ISO-14229) standard.	
+provrb/obdium	453	GPL-3.0	mobile	Car & Vehicle Apps	OBDium. The free, open-source on-board diagnostics software. Where silence falls, truth rises.	
+pylessard/python-can-isotp	315	MIT	mobile	Car & Vehicle Apps	A Python package that provides support for ISO-TP (ISO-15765) protocol	
+adlerre/obd2-mqtt	278	GPL-3.0	mobile	Car & Vehicle Apps	 OBD2 to MQTT for Home Assistant	
+wiboma/hudiy	271	NONE	mobile	Car & Vehicle Apps	Official repository of the Hudiy project. Hudiy is a full-featured software platform for building Linux-based head units.	
+mickeyl/LTSupportAutomotive	255	MIT	mobile	Car & Vehicle Apps	An iOS / watchOS / macOS support library for OBD2, VIN-Decoding, and more.	
+rzetterberg/elmobd	250	MIT	mobile	Car & Vehicle Apps	A Go library for talking to cars over OBD-II	
+muki01/OBD2_K-line_Reader	244	GPL-3.0	mobile	Car & Vehicle Apps	OBD2 K-line Reader (ISO9141 and ISO14230) with microcontrollers like ESP32, Arduino.	
+eltonvs/kotlin-obd-api	237	Apache-2.0	mobile	Car & Vehicle Apps	:blue_car: A Kotlin OBD-II API for reading engine data	
+devcoons/iso15765-canbus	200	AGPL-3.0	mobile	Car & Vehicle Apps	Implementation of ISO15765-2 in C	
+LegacyNsfw/PcmHacks	193	NONE	mobile	Car & Vehicle Apps	This project has moved to https://github.com/PcmHammer/PcmHammer/	
+kerpz/ArduinoHondaOBD	192	NONE	mobile	Car & Vehicle Apps	Collections of Arduino codes that reads and translates Honda OBD codes to ELM / OBD 2 PID codes. It also process and displays the output to a LCD or transmit the output to a bluetooth channel.	
+c2g-dev/city2graph	1963	BSD-3-Clause	mobile	Car Sharing & Micromobility	Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis	
+hibuz/dev-conf-replay	1166	NONE	mobile	Car Sharing & Micromobility	🍀 최근 국내 IT 세미나 및 개발자💻  컨퍼런스 영상의 다시 보기👀 링크를 한곳에 정리했습니다!	
+ubahnverleih/WoBike	1020	NONE	mobile	Car Sharing & Micromobility	Documentation of Bike Sharing APIs 🚴🛴🛵	
+ActiveConclusion/COVID19_mobility	276	MIT	mobile	Car Sharing & Micromobility	COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉	
+transitland/transitland-atlas	199	CC-BY-4.0	mobile	Car Sharing & Micromobility	an open directory of mobility feeds and operators — powers both Transitland v1 and v2	
+cyklokoalicia/OpenSourceBikeShare	183	GPL-3.0	mobile	Car Sharing & Micromobility	The world's first low-cost and open source bike sharing system. Made in EU.	
+hackingmaterials/amset	164	NOASSERTION	mobile	Car Sharing & Micromobility	Electronic transport properties from first-principles calculations	
+Flowminder/FlowKit	97	MPL-2.0	mobile	Car Sharing & Micromobility	FlowKit: Flowminder CDR analytics toolkit	
+shuaigroup/Renormalizer	77	Apache-2.0	mobile	Car Sharing & Micromobility	Quantum dynamics package based on tensor network states	
+Xuan-1998/LPSim	76	NOASSERTION	mobile	Car Sharing & Micromobility	GPU-accelerated, multi-GPU simulator for large-scale network flow and agent-based optimization: powers ICML 2026 deep-RL dispatch, MoE routing policies, and closed-loop LLM-driven fleet optimization over networks with hundreds of thousands of nodes and million	
+FlowmapBlue/flowmapblue.R	71	NOASSERTION	mobile	Car Sharing & Micromobility	Flowmap.blue widget for R	
+interline-io/transitland-lib	53	NOASSERTION	mobile	Car Sharing & Micromobility	Library and tool for reading, writing, and processing transit data	
+BenjaminSoelberg/wilfa-e-way-electric-scooter-hack	51	NONE	mobile	Car Sharing & Micromobility	E-way Electric Scooter Speed Hack	
+rOpenSpain/spanishoddata	48	NOASSERTION	mobile	Car Sharing & Micromobility	Access national high-quality and open-access datasets on movement patterns derived from mobile telephone datasets / Accede y usa datos nacionales abiertos sobre movimientos basados en teléfonos móviles.	
+MaxHalford/bike-sharing-history	40	NONE	mobile	Car Sharing & Micromobility	🚲 Git scraping for bike sharing APIs	
+omarciovsena/abibliadigital	1008	BSD-2-Clause	mobile	Church & Community	A RESTful API for Bible	
+seven1m/bible_api	847	MIT	mobile	Church & Community	Ruby web app that serves JSON API for open and public domain bibles	
+AndBible/and-bible	828	GPL-3.0	mobile	Church & Community	AndBible: Bible Study	
+thiagobodruk/bible	784	MIT	mobile	Church & Community	Bible text in JSON and XML — 141 versions across 85 languages, ready for apps, verse search, and NLP/AI datasets	
+seven1m/open-bibles	549	NONE	mobile	Church & Community	Repository of public domain and freely (libre) licensed bible translations in some standard XML formats.	
+wldeh/bible-api	539	NONE	mobile	Church & Community	Free Unlimited Bible API with support for 200+ versions and languages.⚡	
+bibletime/bibletime	418	GPL-2.0	mobile	Church & Community	:book: BibleTime is a powerful cross platform Bible study tool.	
+Beblia/Holy-Bible-XML-Format	373	NONE	mobile	Church & Community	Holy Bible in 200+ Languages and 1000+ versions in XML Format.	
+robertrouse/theographic-bible-metadata	368	CC-BY-SA-4.0	mobile	Church & Community	A knowledge graph of biblical people, places, periods, and passages.	
+yukuku/androidbible	366	Apache-2.0	mobile	Church & Community	Open Source Bible for Android	
+tim-hub/obsidian-bible-reference	348	MIT	mobile	Church & Community	Take Bible Study notes easily in the popular note-taking app Obsidian, with automatic verse and reference suggestions.	
+ezra-bible-app/ezra-bible-app	238	GPL-2.0	mobile	Church & Community	Ezra Bible App is a modern and user-friendly Bible app for desktops, tablets and mobiles focussing on topical study	
+DSpeckhals/bible.rs	229	MIT	mobile	Church & Community	A Bible server written in Rust using Actix Web and Diesel	
+jadenzaleski/bible-translations	220	MIT	mobile	Church & Community	All available Bible Gateway translations in JSON and SQL format.	
+STEPBible/STEPBible-Data	217	NONE	mobile	Church & Community	Data created for www.STEPBible.org, available to other projects under CC BY 4.0	
+BOINC/boinc	2496	LGPL-3.0	mobile	Citizen Reporting	Open-source software for volunteer computing and grid computing.	
+OpenGammaProject/Open-Gamma-Detector	386	GPL-3.0	mobile	Citizen Reporting	☢️👁️ Hardware for a hackable DIY gamma-ray spectrometer using a popular NaI(Tl) scintillator, SiPM and a Raspberry Pi Pico.	
+dylanrees/citizen-science	336	NOASSERTION	mobile	Citizen Reporting	🔬 A repository of resources related to citizen, community-based and/or non-institutional science	
+wq/wq	264	MIT	mobile	Citizen Reporting	📱🌐📋 wq: a modular framework supporting web / native apps for mobile surveys and geospatial data collection.  Powered by Django REST Framework, Redux, React, and Material UI.	
+pyinat/pyinaturalist	189	MIT	mobile	Citizen Reporting	Python client for iNaturalist	
+stas-sl/esphome-sound-level-meter	132	NONE	mobile	Citizen Reporting		
+CMU-CREATE-Lab/deep-smoke-machine	125	BSD-3-Clause	mobile	Citizen Reporting	Deep learning models and dataset for recognizing industrial smoke emissions	
+wq/wq.app	122	MIT	mobile	Citizen Reporting	💻📱 wq's app library: a JavaScript framework powering offline-first web & native apps for geospatial data collection, mobile surveys, and citizen science.  Powered by Redux, React, Material UI and Maplibre GL.	
+wq/wq.db	119	MIT	mobile	Citizen Reporting	☁🌐 wq's db library, extending Django REST framework to support apps for geospatial field data collection, citizen science, and crowdsourcing. 	
+KnowFlow/KnowFlow_AWM	100	NONE	mobile	Citizen Reporting	KnowFlow Automatic Water Monitoring device is an open sourced tool enable everyone having access to first hand water quality data with low cost.	
+OpenHumans/open-humans	87	MIT	mobile	Citizen Reporting	Powering openhumans.org	
+panoptes/POCS	84	MIT	mobile	Citizen Reporting	An Observatory Control System for the PANOPTES citizen-science project designed to help find transiting exoplanets! :telescope: :stars:	
+emissions-api/emissions-api	78	MIT	mobile	Citizen Reporting	Web API to easily access satellite-based emission data	
+r-map/rmap	55	NONE	mobile	Citizen Reporting	rete monitoraggio ambientale partecipativo documentation at https://doc.rmap.cc	
+OpenDosimeter/OpenDosimeter	55	GPL-3.0	mobile	Citizen Reporting	Open-source project for a low-cost battery-powered personal X-ray dosimeter! Using a custom PCB powered by a Raspberry Pico with an X-ray sensor (LYSO crystal + SiPM assembly)	
+tirrenotechnologies/tirreno	1561	AGPL-3.0	mobile	Core Banking	tirreno is an open-source framework for in-house security. Event tracking, risk scoring and threat detection for your system.	
+GSabadini/go-clean-architecture	748	MIT	mobile	Core Banking	Simple API for banking routines using a Clean Architecture in Golang :credit_card: :moneybag: :money_with_wings:	
+euforic/banking.js	645	NONE	mobile	Core Banking	The Missing API for Banks - Get all of your transactions and balances using node	
+JavatoDev-com/internet-banking-concept-microservices	584	MIT	mobile	Core Banking	Internet Banking Concept Microservices	
+up-banking/api	437	MIT	mobile	Core Banking	The Up Banking API Specification	
+raphaelm/python-fints	430	LGPL-3.0	mobile	Core Banking	Pure-python FinTS (formerly known as HBCI) implementation	
+svapnil/iso20022.js	394	MIT	mobile	Core Banking	Create ACH, SEPA, FedNow, SWIFT, RTP payment initiations and process bank statements. Used in production to move hundreds of thousands of dollars a month.	
+csingley/ofxtools	349	NOASSERTION	mobile	Core Banking	Python OFX Library	
+yazgx97/frida-intercept-encrypted-api	335	MIT	mobile	Core Banking	A tool to help you intercept encrypted APIs in iOS or Android apps	
+RasaHQ/financial-demo	326	Apache-2.0	mobile	Core Banking	A demo for a financial services bot	
+not-a-bank/open-banking-tracker-data	322	NOASSERTION	mobile	Core Banking	The open banking API directory	
+kartik1502/Spring-Boot-Microservices-Banking-Application	255	NONE	mobile	Core Banking	Multi-service banking application built with Spring Boot, Eureka, Spring Cloud Gateway, Keycloak, and MySQL. Learning project — see the Arya Banking org for the event-driven platform.	
+fhqvst/avanza	248	MIT	mobile	Core Banking	A JavaScript client for the unofficial Avanza API	
+bian-official/public	214	Apache-2.0	mobile	Core Banking	This is a repository of BIAN artefacts, currently the BIAN Semantic APIs	
+FinAegis/core-banking-prototype-laravel	209	NOASSERTION	mobile	Core Banking	Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-custodial wallet backend. Laravel 12 / PHP 8.4. Reference im	
+flutter/flutter	181083	BSD-3-Clause	mobile	Cross-Platform Frameworks	Flutter makes it easy and fast to build beautiful apps for mobile and beyond	
+react/react-native	126872	MIT	mobile	Cross-Platform Frameworks	A framework for building native applications using React	
+sxyazi/yazi	43277	MIT	mobile	Cross-Platform Frameworks	💥 Blazing fast terminal file manager written in Rust, based on async I/O.	
+dcloudio/uni-app	41624	Apache-2.0	mobile	Cross-Platform Frameworks	A cross-platform framework using Vue.js	
+Predidit/Kazumi	41447	GPL-3.0	mobile	Cross-Platform Frameworks	基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。	
+vim/vim	41193	Vim	mobile	Cross-Platform Frameworks	The official Vim repository	
+spacedriveapp/spacedrive	39453	Apache-2.0	mobile	Cross-Platform Frameworks	Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.	
+balena-io/etcher	34670	Apache-2.0	mobile	Cross-Platform Frameworks	Flash OS images to SD cards & USB drives, safely and easily.	
+DevToys-app/DevToys	32208	MIT	mobile	Cross-Platform Frameworks	A Swiss Army knife for developers.	
+micro-editor/micro	29849	MIT	mobile	Cross-Platform Frameworks	A modern and intuitive terminal-based text editor	
+fyne-io/fyne	28817	BSD-3-Clause	mobile	Cross-Platform Frameworks	Cross platform GUI toolkit in Go inspired by Material Design	
+GopeedLab/gopeed	27485	GPL-3.0	mobile	Cross-Platform Frameworks	  A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.	
+BeyondDimension/SteamTools	27428	GPL-3.0	mobile	Cross-Platform Frameworks	🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。	
+google/flatbuffers	26618	Apache-2.0	mobile	Cross-Platform Frameworks	FlatBuffers: Memory Efficient Serialization Library	
+fmtlib/fmt	25912	MIT	mobile	Cross-Platform Frameworks	A modern formatting library	
+react-native-elements/react-native-elements	25873	MIT	mobile	Cross-Platform Frameworks	Cross-Platform React Native UI Toolkit	
+NativeScript/NativeScript	25694	MIT	mobile	Cross-Platform Frameworks	⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.	
+uutils/coreutils	24342	MIT	mobile	Cross-Platform Frameworks	Cross-platform Rust rewrite of the GNU coreutils	
+notable/notable	23483	NONE	mobile	Cross-Platform Frameworks	The Markdown-based note-taking app that doesn't suck.	
+mitesh77/Best-Flutter-UI-Templates	22857	NOASSERTION	mobile	Cross-Platform Frameworks	completely free for everyone. Its build-in Flutter Dart.	
+necolas/react-native-web	22161	MIT	mobile	Cross-Platform Frameworks	Cross-platform React UI packages	
+iampawan/FlutterExampleApps	21516	NONE	mobile	Cross-Platform Frameworks	[Example APPS] Basic Flutter apps, for flutter devs.	
+uNetworking/uWebSockets	19020	Apache-2.0	mobile	Cross-Platform Frameworks	Simple, secure & standards compliant web server for the most demanding of applications	
+Tencent/mars	17667	NOASSERTION	mobile	Cross-Platform Frameworks	Mars is a cross-platform network component  developed by WeChat.	
+flet-dev/flet	17522	Apache-2.0	mobile	Cross-Platform Frameworks	Build realtime web, mobile and desktop apps in Python only. No frontend experience required.	
+bitcoin-wallet/bitcoin-wallet	4171	NONE	mobile	Crypto Wallets	Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.	
+sparrowwallet/sparrow	2177	Apache-2.0	mobile	Crypto Wallets	Desktop Bitcoin Wallet focused on security and privacy. Free and open source.	
+coinbase/coinbase-wallet-sdk	1768	MIT	mobile	Crypto Wallets	An open protocol that lets users connect their mobile wallets to your DApp	
+bitcoindevkit/bdk	1078	NOASSERTION	mobile	Crypto Wallets	A modern, lightweight, descriptor-based wallet library written in Rust!	
+horizontalsystems/unstoppable-wallet-ios	911	MIT	mobile	Crypto Wallets	Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. Non-custodial storage, decentralized exchange, and extensive analytics for thousands of tokens and NFTs. Implemented on Swift.	
+Coldcard/firmware	781	NOASSERTION	mobile	Crypto Wallets	❄️ Firmware and simulator for Coldcard Hardware Wallet	
+walleth/walleth	618	GPL-3.0	mobile	Crypto Wallets	free (libre) native Android Ethereum wallet	
+vlnahp/KeyZero	477	AGPL-3.0	mobile	Crypto Wallets	KeyZero is a Python-based tool designed for brute-forcing Bitcoin private keys. It generates random or sequential private keys, computes their corresponding public addresses, and checks these addresses against an offline database or an online API to determine 	
+ranaroussi/pywallet	471	MIT	mobile	Crypto Wallets	Dead-simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE	
+Adamant-im/adamant-wallets	370	NONE	mobile	Crypto Wallets	Canonical wallet metadata and specifications for ADAMANT apps	

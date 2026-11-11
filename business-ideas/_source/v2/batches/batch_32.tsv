@@ -1,0 +1,380 @@
+cqframework/clinical_quality_language	338	Apache-2.0	science	Clinical Research & Trials	Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge that can be used within both the Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM) domains. This repository contains complementary tooling in 	
+pharmaverse/admiral	324	Apache-2.0	science	Clinical Research & Trials	ADaM in R Asset Library	
+redcap-tools/PyCap	217	MIT	science	Clinical Research & Trials	REDCap in Python	
+futianfan/clinical-trial-outcome-prediction	173	NONE	science	Clinical Research & Trials	benchmark dataset and Deep learning method (Hierarchical Interaction Network, HINT) for clinical trial approval probability prediction, published in Cell Patterns 2022.	
+genular/pandora	139	NOASSERTION	science	Clinical Research & Trials	PANDORA :computer:	
+OuhscBbmc/REDCapR	137	NOASSERTION	science	Clinical Research & Trials	R utilities for interacting with REDCap	
+sovity/edc-ce	95	NOASSERTION	science	Clinical Research & Trials	sovity Community Edition EDC	
+sebasquirarte/biostats	89	NOASSERTION	science	Clinical Research & Trials	Toolbox for biostatistics and clinical data analysis in R. Developed by the biostatistics team at Laboratorios Sophia S.A. de C.V.	
+reliatec-gmbh/LibreClinica	83	LGPL-3.0	science	Clinical Research & Trials	LibreClinica is the community driven successor of OpenClinica. It is an open source clinical trial software for Electronic Data Capture (EDC) Clinical Data Management (CDM).	
+123andy/redcap-docker-compose	82	NONE	science	Clinical Research & Trials	A docker compose project for running REDCap locally for development and testing	
+rfhb/ctrdata	62	NOASSERTION	science	Clinical Research & Trials	Aggregate and analyse clinical trials data from public registers	
+pharmaverse/cards	61	NOASSERTION	science	Clinical Research & Trials	CDISC Analysis Results Data	
+stomioka/sdtm_mapper	59	GPL-3.0	science	Clinical Research & Trials	AI SDTM mapping  (R for ML, Python, TensorFlow for DL)	
+aphp/Cohort360-FrontEnd	56	Apache-2.0	science	Clinical Research & Trials	A web application to find patients, build cohorts and visualize health records	
+atorus-research/CDISC_pilot_replication	55	MIT	science	Clinical Research & Trials	A modern replication of the CDISC pilot table outputs, using the PHUSE Test Data Factory ADaM data, using the R programming language	
+Kanaries/Rath	4688	AGPL-3.0	science	EDA & Circuit Design	Next generation of automated data exploratory analysis and visualization platform.	
+google/skywater-pdk	3786	Apache-2.0	science	EDA & Circuit Design	Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.	
+The-OpenROAD-Project/OpenROAD	3263	BSD-3-Clause	science	EDA & Circuit Design	OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/	
+fbdesignpro/sweetviz	3132	MIT	science	EDA & Circuit Design	Visualize and compare datasets, target values and associations, with one line of code.	
+JasonKessler/scattertext	2349	Apache-2.0	science	EDA & Circuit Design	Beautiful visualizations of how language differs among document types.	
+Bouni/kicad-jlcpcb-tools	2130	MIT	science	EDA & Circuit Design	Plugin to generate BOM + CPL files for JLCPCB, assigning LCSC part numbers directly from the plugin, query the JLCPCB parts database, lookup datasheets and much more.	
+devbisme/skidl	1717	MIT	science	EDA & Circuit Design	SKiDL is a library that lets you design electronic circuits using Python.	
+aklofas/kicad-happy	1605	MIT	science	EDA & Circuit Design	AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.	
+olofk/fusesoc	1482	BSD-2-Clause	science	EDA & Circuit Design	Package manager and build abstraction tool for FPGA/ASIC development	
+CodelyTV/typescript-ddd-example	1479	NONE	science	EDA & Circuit Design	🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns	
+KLayout/klayout	1255	GPL-3.0	science	EDA & Circuit Design	KLayout Main Sources	
+siliconcompiler/siliconcompiler	1242	Apache-2.0	science	EDA & Circuit Design	Modular hardware build system	
+olofk/edalize	805	BSD-2-Clause	science	EDA & Circuit Design	An abstraction library for interfacing EDA tools	
+The-OpenROAD-Project/OpenROAD-flow-scripts	798	NOASSERTION	science	EDA & Circuit Design	OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/	
+gvolpe/trading	664	Apache-2.0	science	EDA & Circuit Design	💱 Trading application written in Scala 3 that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP)	
+TanStack/table	28553	MIT	science	Energy Modelling & Grid	🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table	
+react-grid-layout/react-grid-layout	22484	MIT	science	Energy Modelling & Grid	A draggable and resizable grid layout with responsive breakpoints, for React.	
+ag-grid/ag-grid	15674	NOASSERTION	science	Energy Modelling & Grid	The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.	
+haltu/muuri	10933	MIT	science	Energy Modelling & Grid	Infinite responsive, sortable, filterable and draggable layouts	
+clauderic/react-sortable-hoc	10880	MIT	science	Energy Modelling & Grid	A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️	
+gridstack/gridstack.js	9226	MIT	science	Energy Modelling & Grid	Build interactive dashboards in minutes.	
+rebassjs/rebass	7895	MIT	science	Energy Modelling & Grid	:atom_symbol: React primitive UI components built with styled-system.	
+tabulator-tables/tabulator	7801	MIT	science	Energy Modelling & Grid	Interactive Tables and Data Grids for JavaScript	
+jbaysolutions/vue-grid-layout	7395	MIT	science	Energy Modelling & Grid	A draggable and resizable grid layout, for Vue.js.	
+glideapps/glide-data-grid	5431	MIT	science	Energy Modelling & Grid	🚀 Glide Data Grid is a no compromise, outrageously fast react data grid with rich rendering, first class accessibility, and full TypeScript support.	
+sdras/cssgridgenerator	5367	MIT	science	Energy Modelling & Grid	🧮 Generate basic CSS Grid code to make dynamic layouts!	
+grid-js/gridjs	4694	MIT	science	Energy Modelling & Grid	Advanced table plugin	
+swimlane/ngx-datatable	4665	MIT	science	Energy Modelling & Grid	✨  A feature-rich yet lightweight data-table crafted for Angular	
+peterramsing/lost	4447	MIT	science	Energy Modelling & Grid	LostGrid is a powerful grid system built in PostCSS that works with any preprocessor and even vanilla CSS.	
+Happy-Coding-Clans/vue-easytable	3799	MIT	science	Energy Modelling & Grid	A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc. 	
+dockview/dockview	3510	NOASSERTION	science	Energy Modelling & Grid	Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.	
+e-oj/Magic-Grid	3149	MIT	science	Energy Modelling & Grid	A simple, lightweight Javascript library for dynamic grid layouts.	
+tonytomov/jqGrid	2837	NONE	science	Energy Modelling & Grid	jQuery grid plugin	
+johnfercher/maroto	2780	MIT	science	Energy Modelling & Grid	A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.	
+glen-cheney/Shuffle	2374	MIT	science	Energy Modelling & Grid	Categorize, sort, and filter a responsive grid of items	
+naver/egjs-infinitegrid	2363	MIT	science	Energy Modelling & Grid	A module used to arrange card elements including content infinitely on a grid layout.	
+1000ch/grd	2176	MIT	science	Energy Modelling & Grid	A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).	
+ITI/ICS-Security-Tools	2077	CC-BY-4.0	science	Energy Modelling & Grid	Tools, tips, tricks, and more for exploring ICS Security.	
+BigBodyCobain/Shadowbroker	11475	AGPL-3.0	science	GIS & Mapping Platforms	Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen corre	
+Turfjs/turf	10536	MIT	science	GIS & Mapping Platforms	A modular geospatial engine written in JavaScript and TypeScript	
+opengeos/GeoLibre	8435	MIT	science	GIS & Mapping Platforms	A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.	
+DeanChensj/jiangshan-map	4549	GPL-3.0	science	GIS & Mapping Platforms	江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes	
+maptalks/maptalks.js	4538	NONE	science	GIS & Mapping Platforms	A light and plugable JavaScript library for integrated 2D/3D maps.	
+mbloch/mapshaper	4203	NOASSERTION	science	GIS & Mapping Platforms	Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files	
+mesa/mesa	3948	Apache-2.0	science	GIS & Mapping Platforms	Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.	
+maplibre/maputnik	2668	MIT	science	GIS & Mapping Platforms	An open source visual editor for the 'MapLibre Style Specification'	
+CesiumGS/3d-tiles	2636	NONE	science	GIS & Mapping Platforms	Specification for streaming massive heterogeneous 3D geospatial datasets :earth_americas:	
+rasterio/rasterio	2593	NOASSERTION	science	GIS & Mapping Platforms	Rasterio reads and writes geospatial raster datasets	
+NASA-AMMOS/3DTilesRendererJS	2522	Apache-2.0	science	GIS & Mapping Platforms	Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f	
+opengeos/RustGIS	2414	Apache-2.0	science	GIS & Mapping Platforms	A fast, free and open-source GIS in pure Rust.	
+nvkelso/natural-earth-vector	2275	NOASSERTION	science	GIS & Mapping Platforms	A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.	
+postgis/postgis	2263	GPL-2.0	science	GIS & Mapping Platforms	PostGIS spatial database extension to PostgreSQL [mirror]	
+locationtech/jts	2245	NOASSERTION	science	GIS & Mapping Platforms	The JTS Topology Suite is a Java library for creating and manipulating vector geometry.	
+proj4js/proj4js	2244	NOASSERTION	science	GIS & Mapping Platforms	JavaScript library to transform coordinates from one coordinate system to another, including datum transformations	
+alexreisner/geocoder	6448	MIT	science	Geocoding & Routing APIs	Complete Ruby geocoding solution.	
+geopy/geopy	4872	MIT	science	Geocoding & Routing APIs	Geocoding library for Python.	
+openaddresses/openaddresses	3288	BSD-3-Clause	science	Geocoding & Routing APIs	A global repository of open address, building, and parcel data.	
+HoshinoSuzumi/chronoframe	1974	AGPL-3.0	science	Geocoding & Routing APIs	Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.	
+wellyshen/use-places-autocomplete	1290	MIT	science	Geocoding & Routing APIs	😎 📍 React hook for Google Maps Places Autocomplete.	
+smeijer/leaflet-geosearch	1133	MIT	science	Geocoding & Routing APIs	A geocoding/address-lookup library supporting various api providers.	
+geolonia/normalize-japanese-addresses	965	MIT	science	Geocoding & Routing APIs	オープンソースの住所正規化ライブラリ。	
+geocoder-php/GeocoderLaravel	754	MIT	science	Geocoding & Routing APIs	Geocoder service provider for Laravel	
+vivet/GoogleApi	588	MIT	science	Geocoding & Routing APIs	C# .NET Core Google Api (Maps, Places, Roads, Search, Translate). Supports all endpoints and requests / responses.	
+cablate/mcp-google-map	489	MIT	science	Geocoding & Routing APIs	18 Google Maps tools and 3 Agent Skills for place search, routes, travel planning, and local SEO—via MCP or standalone CLI.	
+mapbox/mapbox-java	438	MIT	science	Geocoding & Routing APIs	The Mapbox Java SDK – Java wrappers around Mapbox APIs and other location data 	
+karam-mustafa/laravel-geographical-calculator	427	MIT	science	Geocoding & Routing APIs	laravel package helps you to implement geographical calculation, with several algorithms that help you deal with coordinates and distances.	
+gisgraphy/gisgraphy	391	LGPL-3.0	science	Geocoding & Routing APIs	geocoding and geolocalisation webservices for Geonames, Openstreetmap, Openaddresses, Tiger and quattroshapes data	
+mapbox/mapbox-gl-geocoder	389	ISC	science	Geocoding & Routing APIs	Geocoder control for mapbox-gl-js using Mapbox Geocoding API	
+beyonk/svelte-mapbox	367	MIT	science	Geocoding & Routing APIs	MapBox Map and Autocomplete components for Svelte (or Vanilla JS)	
+libplctag/libplctag	905	MPL-2.0	science	Lab Automation & Instruments	This C library provides a portable and simple API for accessing Allen-Bradley and Modbus PLC data over Ethernet.  	
+ROBOTIS-GIT/DynamixelSDK	617	Apache-2.0	science	Lab Automation & Instruments	ROBOTIS Dynamixel SDK (Protocol1.0/2.0)	
+kelu124/echomods	463	NOASSERTION	science	Lab Automation & Instruments	Open source ultrasound processing modules and building blocks	
+adamreeve/npTDMS	275	LGPL-3.0	science	Lab Automation & Instruments	NumPy based Python module for reading TDMS files produced by LabView	
+mefistotelis/pylabview	177	MIT	science	Lab Automation & Instruments	Python reader of LabVIEW RSRC files (VI, CTL, LLB). File format description on the Wiki.	
+knarfS/smuview	164	GPL-3.0	science	Lab Automation & Instruments	SmuView is a GUI for sigrok that supports power supplies, electronic loads and all sorts of measurement devices like multimeters, LCR meters and so on.	
+CAMBI-tech/BciPy	158	BSD-3-Clause	science	Lab Automation & Instruments	Python Brain-Computer Interface Software	
+synnaxlabs/synnax	128	NOASSERTION	science	Lab Automation & Instruments	The data and operations foundation for hardware.	
+daq-tools/kotori	128	AGPL-3.0	science	Lab Automation & Instruments	A flexible data historian based on InfluxDB, Grafana, MQTT, and more. Free, open, simple.	
+ni/grpc-labview	125	MIT	science	Lab Automation & Instruments	gRPC client and server support for LabVIEW	
+labjack/LabJackPython	124	MIT	science	Lab Automation & Instruments	The official Python modules and classes for interacting with the LabJack U3, U6, UE9 and U12	
+point85/OEE-Designer	121	MIT	science	Lab Automation & Instruments	The OEE-Designer is the build time environment for OEE applications.	
+Zuehlke/labview-mcp	119	MIT	science	Lab Automation & Instruments	The best way out there for any AI to connect to LabVIEW.	
+mccdaq/uldaq	116	MIT	science	Lab Automation & Instruments	MCC Universal Library for Linux 	
+nasa/NDAS	110	NOASSERTION	science	Lab Automation & Instruments	NASA Data Acquisition System (NDAS) is an integrated suite of applications that manage the complete data acquisition lifecycle—from acquisition, processing, and calibration to display, recording, and distribution. This is our code peer review tool. 	
+python-adaptive/adaptive	1232	BSD-3-Clause	science	Learning Analytics & Assessment Science	:chart_with_upwards_trend: Adaptive: parallel active learning of mathematical functions	
+GarethManning/education-agent-skills	960	NOASSERTION	science	Learning Analytics & Assessment Science	165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum, assessment and regeneration. Claude, Codex and Hermes.	
+max-baz/wluma	957	ISC	science	Learning Analytics & Assessment Science	Automatic brightness adjustment based on screen contents and ALS	
+adlnet/xAPI-Spec	955	Apache-2.0	science	Learning Analytics & Assessment Science	The xAPI Specification describes communication about learner activity and experiences between technologies.	
+adaptlearning/adapt_framework	632	GPL-3.0	science	Learning Analytics & Assessment Science	A toolkit for creating responsive, accessible, multilanguage HTML5 e-learning courses.	
+LearningLocker/learninglocker	584	GPL-3.0	science	Learning Analytics & Assessment Science	Learning Locker - The Open Source Learning Record Store. Started in 2014.	
+adlnet/ADL_LRS	334	Apache-2.0	science	Learning Analytics & Assessment Science	ADL's Open Source Learning Record Store (LRS) is used to store learning data collected with the Experience API.	
+cdslaborg/paramonte	307	NOASSERTION	science	Learning Analytics & Assessment Science	ParaMonte: Parallel Monte Carlo and Machine Learning Library for Python, MATLAB, Fortran, C++, C.	
+Li-Evan/Bloom	302	MIT	science	Learning Analytics & Assessment Science	Hire a private AI tutor for anything — it reads how you actually learn and teaches the next lesson just for you. Bloom's 2-Sigma research as a Claude Code skill + self-hostable web app · 中文优先 苏格拉底式 AI 家教	
+RusticiSoftware/TinCanJS	208	Apache-2.0	science	Learning Analytics & Assessment Science	JavaScript library for the Experience API (Tin Can API)	
+AkihikoWatanabe/paper_notes	181	MIT	science	Learning Analytics & Assessment Science	Daily notes on AI research, especially those on LLMs, VLMs, AI agents and related techniques such as pre-, mid-, post-training, RL, continual learning, test-time scaling, RSI, and more.	
+zijinz456/OpenTutor	168	MIT	science	Learning Analytics & Assessment Science	The first block-based adaptive learning workspace that runs locally. Upload any material → get AI-generated notes, quizzes, flashcards, and an adaptive tutor. Open source, self-hosted, 10+ LLM providers.	
+Bin-Cao/Bgolearn	160	MIT	science	Learning Analytics & Assessment Science	[NPJ Com. Mat.] Offical implement of Bgolearn	
+yetanalytics/lrsql	144	Apache-2.0	science	Learning Analytics & Assessment Science	A SQL-based Learning Record Store	
+ArnaudGuiovanna/tutor-mcp	97	MIT	science	Learning Analytics & Assessment Science	An open-source MCP server that turns any LLM into an Intelligent Tutoring System. 50 years of cognitive science, MIT licensed.	
+sympy/sympy	15075	NOASSERTION	science	Mathematics & Computer Algebra	A computer algebra system written in pure Python	
+zhanwen/MathModel	12427	NONE	science	Mathematics & Computer Algebra	研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT	
+Visualize-ML/Book4_Power-of-Matrix	10159	NONE	science	Mathematics & Computer Algebra	Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！	
+penrose/penrose	8013	MIT	science	Mathematics & Computer Algebra	Create beautiful diagrams just by typing notation in plain text.	
+Visualize-ML/Book3_Elements-of-Mathematics	7703	NONE	science	Mathematics & Computer Algebra	Book_3_《数学要素》 |   鸢尾花书：从加减乘除到机器学习；上架；欢迎继续纠错，纠错多的同学还会有赠书！	
+xiaoyang111222/cn-math-taxonomy	7005	NOASSERTION	science	Mathematics & Computer Algebra	数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。	
+stdlib-js/stdlib	6013	Apache-2.0	science	Mathematics & Computer Algebra	✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!	
+jonkrohn/ML-foundations	4912	MIT	science	Mathematics & Computer Algebra	Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science	
+root-project/root	3341	NOASSERTION	science	Mathematics & Computer Algebra	The official repository for ROOT: analyzing, storing and visualizing big data, scientifically	
+susam/texme	2437	MIT	science	Mathematics & Computer Algebra	Self-rendering Markdown + LaTeX documents	
+markrogoyski/math-php	2416	MIT	science	Mathematics & Computer Algebra	Powerful modern math library for PHP: Features descriptive statistics and regressions; Continuous and discrete probability distributions; Linear algebra with matrices and vectors, Numerical analysis; special mathematical functions; Algebra	
+geogebra/geogebra	2385	NONE	science	Mathematics & Computer Algebra	GeoGebra apps (mirror)	
+nschloe/meshio	2340	MIT	science	Mathematics & Computer Algebra	:spider_web: input/output for many mesh formats	
+casadi/casadi	2331	LGPL-3.0	science	Mathematics & Computer Algebra	CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as	
+igraph/igraph	2022	GPL-2.0	science	Mathematics & Computer Algebra	Library for the analysis of networks	
+kmario23/deep-learning-drizzle	12983	NONE	science	Medical Imaging & Health AI	Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!	
+OHIF/Viewers	4402	MIT	science	Medical Imaging & Health AI	OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages	
+linhandev/dataset	3640	NONE	science	Medical Imaging & Health AI	医学影像数据集列表 『An Index for Medical Imaging Datasets』	
+MrGiovanni/UNetPlusPlus	2691	NOASSERTION	science	Medical Imaging & Health AI	[IEEE TMI Best Paper Award] Official Implementation for UNet++	
+cornerstonejs/cornerstone	2107	MIT	science	Medical Imaging & Health AI	[Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/	
+black0017/MedicalZooPytorch	1924	MIT	science	Medical Imaging & Health AI	A pytorch-based deep learning framework for multi-modal 2D/3D medical image segmentation	
+nitrain/nitrain	1881	AGPL-3.0	science	Medical Imaging & Health AI	Train AI models efficiently on medical images using any framework	
+ivmartel/dwv	1854	GPL-3.0	science	Medical Imaging & Health AI	DICOM Web Viewer: open source zero footprint medical image library.	
+InsightSoftwareConsortium/ITK	1673	Apache-2.0	science	Medical Imaging & Health AI	Insight Toolkit (ITK) -- Official Repository.  ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.	
+AIM-Harvard/pyradiomics	1467	BSD-3-Clause	science	Medical Imaging & Health AI	Open-source python package for the extraction of Radiomics features from 2D and 3D images and binary masks. Support: https://discourse.slicer.org/c/community/radiomics	
+MedMNIST/MedMNIST	1419	Apache-2.0	science	Medical Imaging & Health AI	[pip install medmnist] 18x Standardized Datasets for 2D and 3D Biomedical Image Classification	
+MIC-DKFZ/medicaldetectiontoolkit	1364	Apache-2.0	science	Medical Imaging & Health AI	The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images.  	
+ImprintLab/MedSegDiff	1364	MIT	science	Medical Imaging & Health AI	Using Diffusion Models to Segment/Reconstruct Organs from Medical Images [AAAI Most influential Paper]	
+ImprintLab/Medical-SAM-Adapter	1325	GPL-3.0	science	Medical Imaging & Health AI	A lightweight adapter bridges SAM with medical imaging [MedIA]	
+JunMa11/MICCAI-OpenSourcePapers	1295	Apache-2.0	science	Medical Imaging & Health AI	MICCAI 2019-2026 Open Source Papers	
+mne-tools/mne-python	3585	BSD-3-Clause	science	Neuroscience & Brain-Computer Interfaces	MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python	
+NeuromatchAcademy/course-content	3154	CC-BY-4.0	science	Neuroscience & Brain-Computer Interfaces	NMA Computational Neuroscience course	
+jeshraghian/snntorch	2092	MIT	science	Neuroscience & Brain-Computer Interfaces	Deep and online learning with spiking neural networks in Python	
+braindecode/braindecode	1340	BSD-3-Clause	science	Neuroscience & Brain-Computer Interfaces	Deep learning software to decode EEG, ECG or MEG signals	
+brian-team/brian2	1256	NOASSERTION	science	Neuroscience & Brain-Computer Interfaces	Brian is a free, open source simulator for spiking neural networks. 	
+NeuroTechX/moabb	1083	BSD-3-Clause	science	Neuroscience & Brain-Computer Interfaces	Mother of All BCI Benchmarks	
+fieldtrip/fieldtrip	992	GPL-3.0	science	Neuroscience & Brain-Computer Interfaces	The MATLAB toolbox for MEG, EEG and iEEG analysis	
+nengo/nengo	957	NOASSERTION	science	Neuroscience & Brain-Computer Interfaces	A Python library for creating and simulating large-scale brain models	
+SpikeInterface/spikeinterface	871	MIT	science	Neuroscience & Brain-Computer Interfaces	A Python-based module for creating flexible and robust spike sorting pipelines.	
+brainglobe/brainrender	682	BSD-3-Clause	science	Neuroscience & Brain-Computer Interfaces	A Python package to visualise neuroanatomical data in atlas space	
+MouseLand/Kilosort	636	GPL-3.0	science	Neuroscience & Brain-Computer Interfaces	Fast spike sorting with drift correction	
+csinva/csinva.github.io	622	MIT	science	Neuroscience & Brain-Computer Interfaces	AI slides, paper notes, class notes, blog posts, and research overviews.	
+mikeroyal/Neuromorphic-Computing-Guide	608	NONE	science	Neuroscience & Brain-Computer Interfaces	Learn about the Neumorphic engineering process of creating large-scale integration (VLSI) systems containing electronic analog circuits to mimic neuro-biological architectures.	
+neuronsimulator/nrn	567	NOASSERTION	science	Neuroscience & Brain-Computer Interfaces	NEURON Simulator	
+wyg5208/nct	540	MIT	science	Neuroscience & Brain-Computer Interfaces	🧠 NeuroConscious Transformer (NCT) - A next-generation neuromorphic consciousness architecture integrating Transformer with Global Workspace Theory, Predictive Coding, and IIT. | 下一代神经形态意识架构，融合Transformer与全局工作空间、预测编码、整合信息理论。	
+SciTools/iris	729	BSD-3-Clause	science	Oceanography & Hydrology	A powerful, format-agnostic, and community-driven Python package for analysing and visualising Earth science data	
+VIAME/VIAME	345	NOASSERTION	science	Oceanography & Hydrology	Video and Image Analytics for Multiple Environments	
+euroargodev/argopy	232	EUPL-1.2	science	Oceanography & Hydrology	A python library for Argo data beginners and experts	
+pyTMD/pyTMD	213	MIT	science	Oceanography & Hydrology	Python-based tidal prediction software	
+JuliaGeo/NCDatasets.jl	195	MIT	science	Oceanography & Hydrology	Load and create NetCDF files in Julia	
+dankelley/oce	162	GPL-3.0	science	Oceanography & Hydrology	R package for oceanographic processing	
+A-New-BellHope/bellhopcuda	136	GPL-3.0	science	Oceanography & Hydrology	CUDA and C++ port of BELLHOP / BELLHOP3D underwater acoustics simulator	
+hainegroup/oceanspy	119	MIT	science	Oceanography & Hydrology	A Python package to facilitate ocean model data analysis and visualization.	
+wavespectra/wavespectra	114	MIT	science	Oceanography & Hydrology	Library for ocean wave spectra	
+GeoscienceAustralia/eo-tides	111	Apache-2.0	science	Oceanography & Hydrology	Tide modelling tools for large-scale satellite Earth observation analysis	
+iiasa/CWatM	101	GPL-3.0	science	Oceanography & Hydrology	Community Water Model (CWatM) is a hydrological model simulating the water cycle daily at global and local levels, historically and into the future, maintained by IIASA’s Water Security group	
+gher-uliege/DIVAnd.jl	89	GPL-2.0	science	Oceanography & Hydrology	DIVAnd performs an n-dimensional variational analysis of arbitrarily located observations	
+OceanBioME/OceanBioME.jl	81	MIT	science	Oceanography & Hydrology	🌊 🦠 🌿 A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics	
+miniufo/xgrads	77	MIT	science	Oceanography & Hydrology	Parse and read ctl and associated binary file commonly used by GrADS into xarray	
+mpiannucci/gribberish	76	MIT	science	Oceanography & Hydrology	Read GRIB files with Rust	
+Qiskit/qiskit	7957	Apache-2.0	science	Quantum Computing	Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.	
+QuipNetwork/xquad	5585	AGPL-3.0	science	Quantum Computing	A hardware-agnostic SDK for optimization problems: define a problem once, then lower it to any quantum or classical solver	
+PennyLaneAI/pennylane	3523	Apache-2.0	science	Quantum Computing	PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.	
+tensorflow/quantum	2203	Apache-2.0	science	Quantum Computing	An open-source Python framework for hybrid quantum-classical machine learning.	
+qutip/qutip	2097	BSD-3-Clause	science	Quantum Computing	QuTiP: Quantum Toolbox in Python	
+mit-han-lab/torchquantum	1682	MIT	science	Quantum Computing	A PyTorch-based framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Parameterized Quantum Circuits with support for easy deployments on real quantum computers.	
+openqasm/openqasm	1528	Apache-2.0	science	Quantum Computing	Quantum assembly language for extended quantum circuits	
+rigetti/pyquil	1501	Apache-2.0	science	Quantum Computing	A Python library for quantum programming using Quil.	
+OriginQ/QPanda-2	1206	Apache-2.0	science	Quantum Computing	QPanda 2 is an open source quantum computing framework developed by  OriginQC that can be used to build, run, and optimize quantum algorithms. 	
+NVIDIA/cuda-quantum	1188	Apache-2.0	science	Quantum Computing	C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows	
+Strilanc/Quirk	1117	Apache-2.0	science	Quantum Computing	A drag-and-drop quantum circuit simulator that runs in your browser. A toy for exploring and understanding small quantum circuits.	
+stfc/qiskit-machine-learning	1113	Apache-2.0	science	Quantum Computing	An open-source library built on Qiskit for quantum machine learning tasks at scale on quantum hardware and classical simulators	
+QuantumBFS/Yao.jl	1050	NOASSERTION	science	Quantum Computing	Extensible, Efficient Quantum Algorithm Design for Humans.	
+microsoft/qdk	1037	MIT	science	Quantum Computing	Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas	
+ProjectQ-Framework/ProjectQ	976	Apache-2.0	science	Quantum Computing	ProjectQ: An open source software framework for quantum computing	
+MuiseDestiny/zotero-gpt	7513	AGPL-3.0	science	Reference & Citation Management	GPT Meet Zotero.	
+l0o0/jasminum	7361	AGPL-3.0	science	Reference & Citation Management	A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据	
+retorquere/zotero-better-bibtex	7285	MIT	science	Reference & Citation Management	Make Zotero effective for us LaTeX holdouts	
+Galaxy-Dawn/claude-scholar	6012	MIT	science	Reference & Citation Management	Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication.	
+54yyyu/zotero-mcp	5789	MIT	science	Reference & Citation Management	Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.	
+MuiseDestiny/zotero-style	5349	AGPL-3.0	science	Reference & Citation Management	Ethereal Style for Zotero	
+l0o0/translators_CN	4784	AGPL-3.0	science	Reference & Citation Management	Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo	
+ethanwillis/zotero-scihub	4172	AGPL-3.0	science	Reference & Citation Management	A plugin that will automatically download PDFs of zotero items from sci-hub	
+wdcpclover/ai4paper	4157	NONE	science	Reference & Citation Management	PDF 全文翻译，保留排版双语对照 · 2.4 亿文献检索一键入库 · 文库知识库问答 · AI 精读论文、综述与思维导图 · 列表直显期刊分区 / 中科院 / JCR / 影响因子 · 免插件网页版 app.ai4paper.pro · 适配 Zotero 7–10	
+yilewang/llm-for-zotero	3517	AGPL-3.0	science	Reference & Citation Management	An open-source research agent system for your Zotero library.	
+dvanoni/notero	3259	MIT	science	Reference & Citation Management	A Zotero plugin for syncing items and notes into Notion	
+windingwind/zotero-actions-tags	2871	AGPL-3.0	science	Reference & Citation Management	Customize your Zotero workflow.	
+steven-jianhao-li/zotero-AI-Butler	1868	AGPL-3.0	science	Reference & Citation Management	【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！	
+syt2/zotero-addons	1839	AGPL-3.0	science	Reference & Citation Management	Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero	
+papis/papis	1800	GPL-3.0	science	Reference & Citation Management	Powerful and highly extensible command-line based document and bibliography manager.	
+amov-lab/Prometheus	3294	Apache-2.0	science	Robotics Simulation & Autonomy	Open source software for autonomous drones.	
+robin-shaun/XTDrone	1741	MIT	science	Robotics Simulation & Autonomy	UAV Simulation Platform based on PX4, ROS and Gazebo	
+reiniscimurs/DRL-robot-navigation	1380	MIT	science	Robotics Simulation & Autonomy	Deep Reinforcement Learning for mobile robot navigation in ROS Gazebo simulator. Using Twin Delayed Deep Deterministic Policy Gradient (TD3) neural network, a robot learns to navigate to a random goal point in a simulated environment while avoiding obstacles.	
+linorobot/linorobot2	1077	Apache-2.0	science	Robotics Simulation & Autonomy	Autonomous mobile robots (2WD, 4WD, Mecanum Drive)	
+6-robot/wpr_simulation	1038	GPL-3.0	science	Robotics Simulation & Autonomy		
+dfki-ric/phobos	911	BSD-3-Clause	science	Robotics Simulation & Autonomy	An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.	
+ROBOTIS-GIT/open_manipulator	678	Apache-2.0	science	Robotics Simulation & Autonomy	AI Manipulator and Open Manipulator	
+legubiao/quadruped_ros2_control	587	Apache-2.0	science	Robotics Simulation & Autonomy	ROS2-Control implementations for Quadruped robots, include sim2real	
+gazebosim/ros_gz	552	Apache-2.0	science	Robotics Simulation & Autonomy	Integration between ROS (1 and 2) and Gazebo simulation	
+ROBOTIS-GIT/turtlebot3_simulations	538	Apache-2.0	science	Robotics Simulation & Autonomy	Simulations for TurtleBot3	
+JdeRobot/RoboticsAcademy	511	GPL-3.0	science	Robotics Simulation & Autonomy	Learn Robotics with JdeRobot	
+PX4/PX4-SITL_gazebo-classic	467	NONE	science	Robotics Simulation & Autonomy	Set of plugins, models and worlds to use with OSRF Gazebo Simulator in SITL and HITL.	
+MRPT/mvsim	421	BSD-3-Clause	science	Robotics Simulation & Autonomy	Vehicle and mobile robotics simulator. C++ & Python API. Use it as a standalone application or via ROS 1 or ROS 2	
+manankharwar/fusioncore	383	Apache-2.0	science	Robotics Simulation & Autonomy	ROS 2 localization for outdoor robots: IMU, wheel encoders and GPS fused in a 23-state UKF at 100 Hz. When the estimate goes wrong it reports which sensor and why, instead of drifting silently. Apache 2.0.	
+ros-mobile-robots/diffbot	380	BSD-3-Clause	science	Robotics Simulation & Autonomy	DiffBot is an autonomous 2wd differential drive robot using ROS Noetic on a Raspberry Pi 4 B. With its SLAMTEC Lidar and the ROS Control hardware interface it's capable of navigating in an environment using the ROS Navigation stack and making use of SLAM algor	
+Imbad0202/academic-research-skills	55722	NOASSERTION	science	Scientific Publishing & Repositories	Academic Research Skills for Claude Code: research → write → review → revise → finalize	
+Imbad0202/academic-research-skills-codex	14166	NOASSERTION	science	Scientific Publishing & Repositories	Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows	
+rougier/scientific-visualization-book	11676	NOASSERTION	science	Scientific Publishing & Repositories	An open access book on scientific visualization using python and matplotlib	
+tdurieux/anonymous_github	2298	GPL-3.0	science	Scientific Publishing & Repositories	Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.	
+rougier/from-python-to-numpy	2160	NOASSERTION	science	Scientific Publishing & Repositories	An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017	
+lishix520/academic-paper-skills	1467	MIT	science	Scientific Publishing & Repositories	Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (writing) skills with quality checkpoints.	
+Spark-To-Paper-Skills/paperjury	1215	MIT	science	Scientific Publishing & Repositories	Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.	
+DSpace/DSpace	1108	BSD-3-Clause	science	Scientific Publishing & Repositories	(Official) The DSpace digital asset management system that powers your Institutional Repository	
+inveniosoftware/invenio	663	MIT	science	Scientific Publishing & Repositories	Invenio digital library framework	
+rougier/python-opengl	656	NOASSERTION	science	Scientific Publishing & Repositories	An open access book on Python, OpenGL and Scientific Visualization, Nicolas P. Rougier, 2018	
+LaPreprint/LaPreprint	585	MIT	science	Scientific Publishing & Repositories	📝 A nicely formatted LaTeX preprint template	
+pmichaillat/latex-paper	388	MIT	science	Scientific Publishing & Repositories	Minimalist LaTeX template for academic papers	
+ropensci/software-review	346	NONE	science	Scientific Publishing & Repositories	rOpenSci Software Peer Review. 	
+Michael-Jiahao-Zhang/game-the-llm-reviewer	219	MIT	science	Scientific Publishing & Repositories	Defend sound research against LLM reviewer bias through meaning-preserving rewrites.	
+wanshuiyin/Anti-Autoresearch	179	MIT	science	Scientific Publishing & Repositories	Don't trust an autoresearch paper at face value. Reviewer-side integrity forensics (self-consistency + fabrication), deterministic verdict. 61 signals: 46 integrity hack-patterns (families A–H, verdict-bearing) + 13 zero-weight AI writing-style impressions (AI	
+Asabeneh/30-Days-Of-Python	78333	NONE	science	Scientific Visualization & Plotting	The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYP	
+jakevdp/PythonDataScienceHandbook	50395	MIT	science	Scientific Visualization & Plotting	Python Data Science Handbook: full text in Jupyter Notebooks	
+donnemartin/data-science-ipython-notebooks	29386	NOASSERTION	science	Scientific Visualization & Plotting	Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.	
+matplotlib/matplotlib	23428	NONE	science	Scientific Visualization & Plotting	matplotlib: plotting with Python	
+Kanaries/pygwalker	16004	Apache-2.0	science	Scientific Visualization & Plotting	PyGWalker: Turn your dataframe into an interactive UI for visual analysis	
+mwaskom/seaborn	14099	BSD-3-Clause	science	Scientific Visualization & Plotting	Statistical data visualization in Python	
+Yorko/mlcourse.ai	10792	NOASSERTION	science	Scientific Visualization & Plotting	Open Machine Learning Course	
+iamseancheney/python_for_data_analysis_2nd_chinese_version	9021	NONE	science	Scientific Visualization & Plotting	《利用Python进行数据分析·第2版》	
+matplotlib/mplfinance	4459	NOASSERTION	science	Scientific Visualization & Plotting	Financial Markets Data Visualization using Matplotlib	
+pyqtgraph/pyqtgraph	4440	NOASSERTION	science	Scientific Visualization & Plotting	Fast data visualization and GUI tools for scientific / engineering applications	
+DistrictDataLabs/yellowbrick	4408	Apache-2.0	science	Scientific Visualization & Plotting	Visual analysis and diagnostic tools to facilitate machine learning model selection.	
+nschloe/tikzplotlib	2587	MIT	science	Scientific Visualization & Plotting	:bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.	
+llmsresearch/paperbanana	2471	MIT	science	Scientific Visualization & Plotting	Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.	
+pyglet/pyglet	2227	BSD-3-Clause	science	Scientific Visualization & Plotting	pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications.	
+dhaitz/mplcyberpunk	1847	NONE	science	Scientific Visualization & Plotting	"Cyberpunk style" for matplotlib plots	
+taojy123/KeymouseGo	10647	GPL-2.0	science	Simulation & CAE	类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input	
+ange-yaghi/engine-sim	9636	MIT	science	Simulation & CAE	Combustion engine simulator that generates realistic audio.	
+pshenok/server-survival	6479	MIT	science	Simulation & CAE	Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.	
+The-Powder-Toy/The-Powder-Toy	5395	GPL-3.0	science	Simulation & CAE	Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.	
+ProjectPhysX/FluidX3D	5358	NOASSERTION	science	Simulation & CAE	The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.	
+quantumlib/Cirq	5099	Apache-2.0	science	Simulation & CAE	Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.	
+st-tech/ppf-contact-solver	4595	Apache-2.0	science	Simulation & CAE	A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies and ⏳ sand.	
+eclipse-sumo/sumo	4262	EPL-2.0	science	Simulation & CAE	Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.	
+Revolutionary-Games/Thrive	3846	NOASSERTION	science	Simulation & CAE	The main repository for the development of the evolution game Thrive. 	
+OpenDriveLab/End-to-end-Autonomous-Driving	3728	MIT	science	Simulation & CAE	[IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving	
+davidmonterocrespo24/velxio	3637	NOASSERTION	science	Simulation & CAE	Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/3mARjJrh4E	
+hunar4321/particle-life	3366	MIT	science	Simulation & CAE	A simple program to simulate artificial life using attraction/reuplsion forces between many particles	
+Schlaubischlump/LocationSimulator	3170	GPL-3.0	science	Simulation & CAE	MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.	
+lammps/lammps	3124	GPL-2.0	science	Simulation & CAE	Public development project of the LAMMPS MD software package  	
+renode/renode	3113	NOASSERTION	science	Simulation & CAE	Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems	
+openworm/OpenWorm	3078	MIT	science	Simulation & CAE	Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues	
+nikmcfly/MiroFish-Offline	2704	AGPL-3.0	science	Simulation & CAE	Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.	
+splunk/attack_range	2581	Apache-2.0	science	Simulation & CAE	A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk 	
+idaholab/moose	2403	LGPL-2.1	science	Simulation & CAE	Multiphysics Object Oriented Simulation Environment: A robust, modern, extendable, finite element/finite volume framework that excels at creating complex multiphysics simulations.	
+johnBuffer/AntSimulator	2384	MIT	science	Simulation & CAE	Simple Ants simulator	
+JSBSim-Team/jsbsim	2338	LGPL-2.1	science	Simulation & CAE	An open source flight dynamics & control software library	
+InteractiveComputerGraphics/PositionBasedDynamics	2295	MIT	science	Simulation & CAE	PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids.	
+vasturiano/force-graph	2165	MIT	science	Simulation & CAE	Force-directed graph rendered on HTML5 canvas	
+microsoft/PromptCraft-Robotics	2124	MIT	science	Simulation & CAE	Community for applying LLMs to robotics and a robot simulator with ChatGPT integration	
+openmm/openmm	2029	NONE	science	Simulation & CAE	OpenMM is a toolkit for molecular simulation using high performance GPU code. 	
+johnkerl/miller	10055	NOASSERTION	science	Statistics & Research Tools	Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON	
+pymc-devs/pymc	9837	NOASSERTION	science	Statistics & Research Tools	Bayesian Modeling and Probabilistic Programming in Python	
+jtablesaw/tablesaw	3769	Apache-2.0	science	Statistics & Research Tools	Java dataframe and visualization library	
+rstudio/rmarkdown	3069	NOASSERTION	science	Statistics & Research Tools	Dynamic Documents for R	
+hosseinmoein/DataFrame	2999	BSD-3-Clause	science	Statistics & Research Tools	C++ DataFrame for statistical, financial, and ML analysis in modern C++	
+yihui/knitr	2470	NONE	science	Statistics & Research Tools	A general-purpose tool for dynamic report generation in R	
+IndrajeetPatil/ggstatsplot	2207	NOASSERTION	science	Statistics & Research Tools	Enhancing {ggplot2} plots with statistical analysis 📊📣	
+prospector-dev/prospector	2084	GPL-2.0	science	Statistics & Research Tools	Inspects Python source files and provides information about type and location of classes, methods etc	
+mlr-org/mlr	1686	NOASSERTION	science	Statistics & Research Tools	Machine Learning in R 	
+r-spatial/sf	1455	NOASSERTION	science	Statistics & Research Tools	Simple Features for R	
+paul-buerkner/brms	1436	GPL-2.0	science	Statistics & Research Tools	brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan	
+ropensci/drake	1344	GPL-3.0	science	Statistics & Research Tools	An R-focused pipeline toolkit for reproducibility and high-performance computing	
+bambinos/bambi	1307	MIT	science	Statistics & Research Tools	BAyesian Model-Building Interface (Bambi) in Python.	
+mitchelloharawild/vitae	1274	GPL-3.0	science	Statistics & Research Tools	R Markdown Résumés and CVs	
+ddsjoberg/gtsummary	1220	NOASSERTION	science	Statistics & Research Tools	Presentation-Ready Data Summary and Analytic Result Tables	
+progrium/darwinkit	5444	MIT	science	Structural & Civil Engineering	Native Mac APIs for Go. Previously known as MacDriver	
+marcobambini/gravity	4591	MIT	science	Structural & Civil Engineering	Gravity Programming Language	
+novnc/websockify	4487	LGPL-3.0	science	Structural & Civil Engineering	Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.	
+philippe44/AirConnect	4228	NOASSERTION	science	Structural & Civil Engineering	Use AirPlay to stream to UPnP/Sonos & Chromecast devices	
+react-native-share/react-native-share	3897	MIT	science	Structural & Civil Engineering	Social share, sending simple data to other apps.	
+mono/CppSharp	3409	MIT	science	Structural & Civil Engineering	Tools and libraries to glue C/C++ APIs to high-level languages	
+mautrix/telegram	1759	AGPL-3.0	science	Structural & Civil Engineering	A Matrix-Telegram puppeting bridge	
+fhmq/hmq	1391	Apache-2.0	science	Structural & Civil Engineering	High performance mqtt broker	
+Lision/WKWebViewJavascriptBridge	1334	MIT	science	Structural & Civil Engineering	🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.	
+jpype-project/jpype	1297	Apache-2.0	science	Structural & Civil Engineering	JPype is cross language bridge to allow Python programs full access to Java class libraries.	
+banteg/takopi	1057	MIT	science	Structural & Civil Engineering	he just wants to help-pi!	
+Luligu/matterbridge	1000	Apache-2.0	science	Structural & Civil Engineering	Matterbridge plugin manager for Matter	
+matrix-org/matrix-appservice-discord	909	Apache-2.0	science	Structural & Civil Engineering	A bridge between Matrix and Discord.	
+extremeheat/JSPyBridge	856	MIT	science	Structural & Civil Engineering	🌉. Bridge to interoperate Node.js and Python 	
+JWock82/Pynite	779	MIT	science	Structural & Civil Engineering	A 3D structural engineering finite element library for Python.	
+alicevision/AliceVision	3529	NOASSERTION	science	Surveying & Drone Mapping	3D Computer Vision Framework	
+mikeroyal/Unreal-Engine-Guide	1532	NONE	science	Surveying & Drone Mapping	Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation  5, Nintendo Switch.	
+SBCV/Blender-Addon-Photogrammetry-Importer	1379	MIT	science	Surveying & Drone Mapping	Addon to import different photogrammetry formats into Blender	
+Unity-Technologies/FontainebleauDemo	1173	NONE	science	Surveying & Drone Mapping	Fontainebleau demo	
+uhlik/bpy	1091	NONE	science	Surveying & Drone Mapping	blender python scripts	
+DmitryRyumin/ICCV-2023-25-Papers	973	MIT	science	Surveying & Drone Mapping	ICCV 2023-2025 Papers: Discover cutting-edge research from ICCV 2023-25, the leading computer vision conference. Stay updated on the latest in computer vision and deep learning, with code included. ⭐ support visual intelligence development!	
+Lewis-Stuart-11/3DGS-to-PC	819	Apache-2.0	science	Surveying & Drone Mapping	3DGS-to-PC: 3D Gaussian Splatting to Dense Point Clouds [3D-VAST: ICCVW 2025]	
+mikeroyal/ISP-Guide	725	NONE	science	Surveying & Drone Mapping	Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR correction, and image sharpening with a Specialized type of media	
+edin45/simple_photogrammetry_gui	667	GPL-3.0	science	Surveying & Drone Mapping		
+Kitware/TeleSculptor	658	NOASSERTION	science	Surveying & Drone Mapping	TeleSculptor: Aerial Photogrammetry Application powered by KWIVER	
+reality-opened/openreality	644	BSD-2-Clause	science	Surveying & Drone Mapping	Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.	
+francescofugazzi/3dgsconverter	604	MIT	science	Surveying & Drone Mapping	A Python command-line utility for converting and processing 3D Gaussian Splatting models. Supports N-to-N conversion between 3DGS (.ply), KSplat, SOG, SPZ, Splat, CloudCompare, Parquet, and Compressed PLY. Includes GPU-accelerated filtering (SOR, Density).	
+3DOM-FBK/deep-image-matching	555	NOASSERTION	science	Surveying & Drone Mapping	Multiview matching with deep-learning and hand-crafted local features for COLMAP and other SfM software. Supports high-resolution formats and images with rotations. Both CLI and GUI are supported.	
+CNES/cars	404	Apache-2.0	science	Surveying & Drone Mapping	CARS is a dedicated and open source 3D tool to produce Digital Surface Models from satellite imaging by photogrammetry. 	
+mikeroyal/Game-Console-Dev-Guide	359	NONE	science	Surveying & Drone Mapping	Game Console Dev Guide. Learn to develop games for Xbox Series X|S, PlayStation 5, Nintendo Switch, Steam Deck, and Apple Silicon. Developing with Unreal Engine 5, Unity, Godot Engine, and Blender.	
+srixivas/PcapXray	1892	GPL-2.0	science	Transportation Modelling & Traffic	:snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction	
+vergoh/vnstat	1799	GPL-2.0	science	Transportation Modelling & Traffic	vnStat - a network traffic monitor for Linux and BSD	
+appneta/tcpreplay	1353	GPL-3.0	science	Transportation Modelling & Traffic	Edit and replay captured network traffic at arbitrary speeds — a suite of pcap tools for *NIX and Windows.	
+vivo/MoonBox	1347	Apache-2.0	science	Transportation Modelling & Traffic	月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive	
+TheDuckCow/godot-road-generator	1258	MIT	science	Transportation Modelling & Traffic	A Godot plugin for creating 3D highways/streets and lane-following traffic	
+trimstray/multitor	1195	GPL-3.0	science	Transportation Modelling & Traffic	Create multiple TOR instances with a load-balancing.	
+flow-project/flow	1193	MIT	science	Transportation Modelling & Traffic	Computational framework for reinforcement learning in traffic control	
+LibCity/Bigscity-LibCity	1175	Apache-2.0	science	Transportation Modelling & Traffic	LibCity: An Open Library for Urban Spatial-temporal Data Mining	
+bstabler/TransportationNetworks	1078	NONE	science	Transportation Modelling & Traffic	Transportation Networks for Research	
+pirsch-analytics/pirsch	1032	AGPL-3.0	science	Transportation Modelling & Traffic	Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.	
+cityflow-project/CityFlow	1031	Apache-2.0	science	Transportation Modelling & Traffic	A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario	
+Netis/cloud-probe	963	BSD-3-Clause	science	Transportation Modelling & Traffic	A Software Probe for network packet capturing and forwarding in Cloud/Kubernetes and Virtualized environment.	
+chenjiandongx/sniffer	787	MIT	science	Transportation Modelling & Traffic	🤒   A modern alternative network traffic sniffer.	
+18F/analytics.usa.gov	786	NOASSERTION	science	Transportation Modelling & Traffic	The US federal government's web traffic.	
+aabc/ipt-netflow	536	NONE	science	Transportation Modelling & Traffic	Netflow iptables module for Linux kernel (official)	
+xming521/WeClone	18368	AGPL-3.0	science	Urban Planning & Digital Twins	Build a portrait of your life. Assistants that know you. Clones that talk like you.	
+fictionco/fiction	1469	NONE	science	Urban Planning & Digital Twins	Agentic Digital Self Platform	
+Edgenesis/shifu	1436	Apache-2.0	science	Urban Planning & Digital Twins	Kubernetes-native IoT gateway	
+Ch1rpys/Mirrai	1264	MIT	science	Urban Planning & Digital Twins	不在身边的时候，TA 还在这里。Upload real chat logs, rebuild a digital persona — open-source AI companion with persona distillation, an emotion engine, 11 LLM providers, and a graduation mechanism.	
+agenmod/immortal-skill	1141	MIT	science	Urban Planning & Digital Twins	♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。	
+eclipse-ditto/ditto	947	EPL-2.0	science	Urban Planning & Digital Twins	Eclipse Ditto™: Digital Twin framework of Eclipse IoT - main repository	
+iTwin/itwinjs-core	742	MIT	science	Urban Planning & Digital Twins	Monorepo for iTwin.js Library	
+jzjzzzzzzz/agent-me	629	MIT	science	Urban Planning & Digital Twins	Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.	
+pathsim/pathsim	513	MIT	science	Urban Planning & Digital Twins	A Python native dynamical system simulation framework in the block diagram paradigm.	
+Gaia3D/mago-3d-tiler	368	MPL-2.0	science	Urban Planning & Digital Twins	Official mago-3d-tiler repository, Java Version 3D Tiles Generator	
+3DStreet/3dstreet	335	NOASSERTION	science	Urban Planning & Digital Twins	🚲🚶🚌 Web-based 3D visualization of streets using A-Frame	
+tsinghua-fib-lab/DRL-urban-planning	312	MIT	science	Urban Planning & Digital Twins	A deep reinforcement learning (DRL) based approach for spatial layout of land use and roads in urban communities. (Nature Computational Science)	
+arounamounchili/linkforge	283	GPL-3.0	science	Urban Planning & Digital Twins	The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.	
+mkturkcan/valdrada	263	MIT	science	Urban Planning & Digital Twins	Valdrada is a real-time digital twin of New York City built from public data.	
+ros-claw/rosclaw	239	MIT	science	Urban Planning & Digital Twins	Physical AI runtime for embodied agents — governed action, verified experience, physical memory, and skill evolution.	
+WerWolv/ImHex	55772	GPL-2.0	security	Application Security & SAST	🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.	
+astral-sh/ruff	50860	MIT	security	Application Security & SAST	An extremely fast Python linter and code formatter, written in Rust.	
+koalaman/shellcheck	40296	GPL-3.0	security	Application Security & SAST	ShellCheck, a static analysis tool for shell scripts	
+realm/SwiftLint	19779	MIT	security	Application Security & SAST	A tool to enforce Swift style and conventions.	
+semgrep/semgrep	17536	LGPL-2.1	security	Application Security & SAST	Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.	
+nikic/PHP-Parser	17469	BSD-3-Clause	security	Application Security & SAST	A PHP parser written in PHP	
+meta/infer	15746	MIT	security	Application Security & SAST	A static analyzer for Java, C, C++, and Objective-C	
+Konloch/bytecode-viewer	15704	GPL-3.0	security	Application Security & SAST	A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)	
+phpstan/phpstan	14152	MIT	security	Application Security & SAST	PHP Static Analysis Tool - discover bugs in your code without running it!	
+PHP-CS-Fixer/PHP-CS-Fixer	13573	MIT	security	Application Security & SAST	A tool to automatically fix PHP Coding Standards issues	
+OWASP/mastg	13318	CC-BY-SA-4.0	security	Application Security & SAST	The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, whi	
+ttroy50/cmake-examples	13063	MIT	security	Application Security & SAST	Useful CMake Examples	
+hadolint/hadolint	12516	GPL-3.0	security	Application Security & SAST	Dockerfile linter, validate inline bash, written in Haskell	
+horsicq/Detect-It-Easy	11897	MIT	security	Application Security & SAST	Program for determining types of files for Windows, Linux and MacOS.	
+SonarSource/sonarqube	11159	LGPL-3.0	security	Application Security & SAST	Continuous Inspection	
+squizlabs/PHP_CodeSniffer	10765	BSD-3-Clause	security	Application Security & SAST	PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.	
+reviewdog/reviewdog	9727	MIT	security	Application Security & SAST	🐶 Automated code review tool integrated with any code analysis tools regardless of programming language	
+checkstyle/checkstyle	9636	LGPL-2.1	security	Application Security & SAST	Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command li	
+securego/gosec	9000	Apache-2.0	security	Application Security & SAST	Go security checker	
+Col-E/Recaf	7454	MIT	security	Application Security & SAST	The modern Java bytecode editor	
+sverweij/dependency-cruiser	7388	MIT	security	Application Security & SAST	Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.	
+presidentbeef/brakeman	7292	NOASSERTION	security	Application Security & SAST	A static analysis security vulnerability scanner for Ruby on Rails applications	
+google/error-prone	7265	Apache-2.0	security	Application Security & SAST	Catch common Java mistakes as compile-time errors	
+detekt/detekt	7106	Apache-2.0	security	Application Security & SAST	Static code analysis for Kotlin	
+zizmorcore/zizmor	6929	MIT	security	Application Security & SAST	Static analysis for GitHub Actions (and more)	
+hectorm/hblock	2007	MIT	security	Backup, Ransomware & Recovery	Improve your security and privacy by blocking ads, tracking and malware domains.	
+Da2dalus/The-MALWARE-Repo	1735	NONE	security	Backup, Ransomware & Recovery	A repository full of malware samples.	
+Err0r-ICA/Ransomware	920	MIT	security	Backup, Ransomware & Recovery	Ransomwares Collection. Don't Run Them on Your Device. 	
+tarcisio-marinho/GonnaCry	787	GPL-2.0	security	Backup, Ransomware & Recovery	A Linux Ransomware	
+dmdhrumilmistry/pyhtools	662	MIT	security	Backup, Ransomware & Recovery	A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, d	
+termuxhackers-id/SARA	604	MIT	security	Backup, Ransomware & Recovery	SARA - Simple Android Ransomware Attack	

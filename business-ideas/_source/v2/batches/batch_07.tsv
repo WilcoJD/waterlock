@@ -1,0 +1,380 @@
+Open-Air-Foundation/firmware-one-openair	389	CC-BY-SA-4.0	hardware	Air Quality Sensors	Firmware of open-source hardware air quality monitors AirGradient ONE (indoor) and AirGradient Open Air (outdoor).	Install outdoor AQ monitors for municipalities
+MallocArray/airgradient_esphome	337	GPL-3.0	hardware	Air Quality Sensors	ESPHome definition for an AirGradient DIY device to send data to HomeAssistant and AirGradient servers	Sell indoor air monitors to schools; CC-BY-SA hardware allows sale
+DesconBelgrade/Klimerko	140	GPL-3.0	hardware	Air Quality Sensors	☁ DIY Air Quality Monitoring Device	Sell DIY air quality kits to community groups
+koenvervloesem/ESPHome-Air-Quality-Monitor	122	MIT	hardware	Air Quality Sensors	ESPHome configuration for a DIY indoor air quality monitor for CO₂ concentration, PM2.5 and PM10 concentrations, and temperature, humidity and pressure	Sell smart-home-ready air monitors
+melkati/CO2-Gadget	106	GPL-3.0	hardware	Air Quality Sensors	An advanced CO2 Monitor/Meter firmware for ESP32 with Android and iOS App for real time visualization and charting of air data, data logger, a variety of communication options (BLE, WIFI, MQTT, ESP-Now) and many supported sensors.	Sell CO2 meters to classrooms and offices
+fablabbcn/smartcitizen-kit-2x	62	GPL-3.0	hardware	Air Quality Sensors	Smart Citizen Kit 2.X hardware and firmware	Deploy environmental sensor networks for cities
+RetroPie/RetroPie-Setup	10451	NOASSERTION	hardware	Arcade & Pinball	Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores	Sell plug-and-play retro consoles
+vpinball/vpinball	1057	NOASSERTION	hardware	Arcade & Pinball	Visual Pinball - An open source pinball table editor and simulator.	Build and sell virtual pinball cabinets
+vpinball/pinmame	320	NOASSERTION	hardware	Arcade & Pinball	PinMAME - Pinball Multiple Arcade Machine Emulator	Restore pinball machines with emulation boards
+missionpinball/mpf	261	MIT	hardware	Arcade & Pinball	Mission Pinball Framework: Open source software to run a real pinball machine.	Build custom pinball machines for bars
+SnaKKo/Bartop-2-Players-with-Raspberry-Pi	58	MIT	hardware	Arcade & Pinball	Wooden Bartop Arcade 2 Players with Raspberry Pi: 17" LCD monitor, Marquee with LED lights and stereo speakers.	Sell bartop arcade cabinets
+retrobuiltRyan/TinyCade_13in	47	NOASSERTION	hardware	Arcade & Pinball	2:3 Scale Arcade Cabinet for retro home consoles + more. Fits 13in CRT televisions or 17in LCD monitors.	Sell mini arcade cabinets
+UiharuKazari2008/openCreditIC	33	NONE	hardware	Arcade & Pinball	Opensource Networked NFC Reader for Arcade Cabinets	Install NFC payment readers on arcade machines
+leigh-hackspace/arcade-cabinet	27	NONE	hardware	Arcade & Pinball	Designs and files for Aracade Cabinet	Build arcade cabinets for venues
+dalathegreat/Battery-Emulator	3010	GPL-3.0	hardware	Batteries & Storage	This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters	Repurpose used EV batteries into home storage with installation
+Louisvdw/dbus-serialbattery	591	MIT	hardware	Batteries & Storage	Battery Monitor driver for serial battery in VenusOS GX systems	Integrate cheap BMS packs into Victron systems as a service
+foxBMS/foxbms-2	502	NOASSERTION	hardware	Batteries & Storage	foxBMS 2, online documentation at https://docs.foxbms.org	Develop custom BMS for small EV and storage OEMs
+stuartpittaway/diyBMSv4ESP32	237	NOASSERTION	hardware	Batteries & Storage	diyBMS v4 code for the ESP32 and new controller hardware	Build second-life battery packs with diyBMS for home storage; CC-BY-NC: get permission for commercial sale
+KaeptnBalu/Arduino_Spot_Welder_V3	207	GPL-3.0	hardware	Batteries & Storage		Sell battery spot welder kits to pack builders
+LMF5000/battery-pack-architect	28	GPL-3.0	hardware	Batteries & Storage	This little piece of software is for anyone building battery packs out of cylindrical cells. You can simulate as many different arrangements as you desire, and compare all the key parameters of the resulting battery pack before you ever touch the spot welder :	Offer custom 18650 pack building service
+ESP32-COOP/ESP32-COOP-DOC	168	NONE	hardware	Beekeeping & Livestock	Create an affordable and accessible automatic coop door using ESP32. DIY your chicken coop with customizable behavior based on time and light levels. Control it through a dedicated Bluetooth-enabled app. Find comprehensive build instructions, wiring diagrams.	Sell automatic chicken coop doors to homesteaders
+beepnl/BEEP	130	AGPL-3.0	hardware	Beekeeping & Livestock	BEEP - Open source bee monitoring - App/API/Measurement system	Sell hive monitoring systems to commercial beekeepers / Hive monitoring app and sensors for beekeeping associations
+hiveeyes/terkin-datalogger	64	AGPL-3.0	hardware	Beekeeping & Livestock	Datalogger for MicroPython and CPython.	Sell hive weight dataloggers to beekeeping clubs
+Hackuarium/beemos	24	NONE	hardware	Beekeeping & Livestock	BEE MOnitoring  System: create an infrastructure for monitoring beehives	Offer hive health monitoring service for pollination contracts
+beepnl/measurement-system-v3	22	NONE	hardware	Beekeeping & Livestock	BEEP base v3 (Steel design)	Manufacture hive scales and rent them per season / Manufacture hive weight bases for apiaries
+hmd83/tanen	17	Apache-2.0	hardware	Beekeeping & Livestock	LoRaWAN beehive monitor: hive weight, temperature and battery over TTN. Seeed XIAO nRF54LM20A + SX1262, Zephyr/nRF Connect SDK. ~4 uA sleep, ~10 year life on 3X AAA cell. Includes KiCad hardware and a Web Bluetooth config app.	Sell LoRaWAN hive scales to remote apiaries / LoRaWAN hive scales for commercial pollinators
+vespCV/hornet3000	16	GPL-3.0	hardware	Beekeeping & Livestock	Asian Hornet Detection with YOLOv10n: A Guide to Building a Raspberry Pi 4 Arducam Detector	Sell Asian hornet detection cameras to beekeepers
+OpenCoopControl/coop-controller	15	NONE	hardware	Beekeeping & Livestock	ESP32-based hardware controller for automated chicken coop management. Handles door operations, feeding schedules, and environmental monitoring via sensors.	Sell coop controllers with lights and feeder automation
+dbrgn/chicken-coop	8	NONE	hardware	Beekeeping & Livestock	Hardware and firmware for our chicken door automation	Sell coop door retrofit kits at farm stores
+jkarl/COTS_GPS_Collars	1	NONE	hardware	Beekeeping & Livestock	Livestock GPS Collars built from commercial, off-the-shelf products	Assemble livestock GPS collars for ranchers
+hishizuka/pizero_bikecomputer	1290	GPL-3.0	hardware	Bicycles & Cargo Bikes	An open-source bike computer with GPS and ANT+ capabilities, based on the Raspberry Pi Zero (W, WH, 2 W) or the Compute Module Zero (CM0). It also includes offline maps and navigation.	Sell open GPS bike computers
+RaemondBW/OpenTrailPaper	282	Apache-2.0	hardware	Bicycles & Cargo Bikes	Opensource Eink bike computer	Sell e-ink bike computers
+lspr98/bike-computer-32	88	NONE	hardware	Bicycles & Cargo Bikes	Simple open source bike computer based on an ESP32-C3. Supports OSM-offline maps, GPX-track rendering and Multi-Constellation GNSS positioning.	Sell ESP32 cycling computers
+radforschung/lock	18	Apache-2.0	hardware	Bicycles & Cargo Bikes	🔓📡 ESP32 based smart lock for bicycles and other shared mobility devices	Sell smart locks for bike-sharing fleets
+OpenSourceEBike/ebike_wireless_remote	12	NONE	hardware	Bicycles & Cargo Bikes	ANT+ remote button	Sell wireless e-bike handlebar remotes
+guy153/framebuild	6	NONE	hardware	Bicycles & Cargo Bikes	2D bicycle framebuilding CAD software	Offer custom bicycle frame building
+pwnage101/cargo_bike	4	NOASSERTION	hardware	Bicycles & Cargo Bikes	Fully parametric upcycled long-john cargo bike.	Weld upcycled long-john cargo bikes to order
+boucettaabdelkhalek2/Tricycle_Cargo_Bike_Original-1	2	NOASSERTION	hardware	Bicycles & Cargo Bikes	Open source cargo tricycle bike – CAD files, assembly instructions, BOM, and documentation	Fabricate cargo trikes for delivery businesses
+OpenCPN/OpenCPN	1516	GPL-2.0	hardware	Boats & Marine Electronics	A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation	Sell marine navigation PCs for sailors / Chartplotter setup for charter fleets
+bluerobotics/BlueOS	473	NOASSERTION	hardware	Boats & Marine Electronics	The open source platform for ROV, USV, robotic system operation, development, and expansion.	Offer underwater ROV inspection services
+SignalK/signalk-server	448	Apache-2.0	hardware	Boats & Marine Electronics	An implementation of a Signal K central server for boats.	Install boat data servers with dashboards for yachts / Boat data monitoring for marinas and charters
+OpenROV/openrov-software	432	NOASSERTION	hardware	Boats & Marine Electronics	Meta project for all of the OpenROV Software projects	Offer hull and dock inspection with ROVs
+IWIN-FINS/FinsROV-An-Underwater-Camera-Based-Multi-Robot-Platform	326	MIT	hardware	Boats & Marine Electronics	FinsROV is a low-cost, open-source Underwater robot platform designed for underwater task and research in robotics and AI.	Sell low-cost underwater ROVs for aquaculture
+pypilot/pypilot	280	NONE	hardware	Boats & Marine Electronics	free autopilot for sailboats written in python supporting signalk	Sell and install sailboat autopilots
+SignalK/SensESP	211	Apache-2.0	hardware	Boats & Marine Electronics	Universal Signal K sensor framework for the ESP32 platform	Sell marine sensors for bilge and tank monitoring
+jeff-burright/Autopilot_ESP32_wifi	22	NONE	hardware	Boats & Marine Electronics	Sailboat compass autopilot for ESP32 (arduino/C). Control via wifi HTML interface, ESP32 smartwatch, IR remote, or toggle button. Based on the arduino autopilot built by Jack Edwards (https://github.com/CoyoteWaits/Jack_Edwards_Autopilot).	Sell tiller autopilot kits
+OpenTransat/OpenTransat-CAD-Design	5	NOASSERTION	hardware	Boats & Marine Electronics	CAD design of the boat	Build autonomous sailing drones for ocean data
+McNeight/boatCalc	5	GPL-2.0	hardware	Boats & Marine Electronics	Make boat design calculations based on the linesplan of a boat hull.	Offer small boat design and build service
+universam1/iSpindel	885	NOASSERTION	hardware	Brewing & Distilling	electronic Hydrometer	Sell wireless hydrometers to homebrewers
+vitotai/BrewPiLess	393	NONE	hardware	Brewing & Distilling	Use an ESP8266 to replace RPI and Arduino. Running BrewPi without Pi, therefore, BrewPi-Less	Sell ESP fermentation fridge controllers
+steve71/RasPiBrew	192	MIT	hardware	Brewing & Distilling	Raspberry Pi Temperature Controller for homebrewing and sous vide cooking	Sell mash temperature controllers
+craftbeerpi/craftbeerpi4	150	GPL-3.0	hardware	Brewing & Distilling		Build automated brewing systems for brewpubs / Brewhouse automation retrofits for nano-breweries
+thorrak/fermentrack	148	MIT	hardware	Brewing & Distilling	A replacement web interface for BrewPi	Install fermentation monitoring for craft breweries / Fermentation temperature control for wineries and cideries
+BrewPi/firmware	99	AGPL-3.0	hardware	Brewing & Distilling	Brewing temperature control firmware for the BrewPi Spark (Particle Photon inside)	Sell fermentation controllers to homebrewers
+larry-athey/rpi-smart-still	26	LGPL-2.1	hardware	Brewing & Distilling	Raspberry Pi (or clone) and Arduino/ESP32 powered smart still controller system. Originally designed around the Still Spirits T500 column and boiler, but can be easily added to any other gas or electric still with a dephlegmator.	Sell still controllers to licensed craft distillers
+larry-athey/boilermaker	5	LGPL-2.1	hardware	Brewing & Distilling	Advanced WiFi enabled ESP32 driven  power controller and temperature regulator for brewing and distillation boilers. Multiple units can be combined in a master/slave configuration.	Sell boiler power controllers for stills
+gnea/grbl	4581	NOASSERTION	hardware	CNC & Laser Cutters	An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino	Sell small desktop CNC routers with GRBL controllers for sign shops
+bdring/FluidNC	2631	NOASSERTION	hardware	CNC & Laser Cutters	The next generation of motion control firmware	Sell WiFi CNC controller boards with config support
+LinuxCNC/linuxcnc	2529	GPL-2.0	hardware	CNC & Laser Cutters	LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.	Retrofit legacy lathes and mills with LinuxCNC control cabinets
+winder/Universal-G-Code-Sender	2283	GPL-3.0	hardware	CNC & Laser Cutters	A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.	Bundle CNC machines with preconfigured control laptops and training
+arkypita/LaserGRBL	1670	NOASSERTION	hardware	CNC & Laser Cutters	Laser optimized GUI for GRBL	Run a custom laser engraving shop for gifts and signage
+Jack000/Deepnest	1186	NONE	hardware	CNC & Laser Cutters	An open source nesting application for laser cutters, plasma cutters and other CNC machines	Offer nesting-optimized laser/plasma cutting job service
+grblHAL/core	523	NOASSERTION	hardware	CNC & Laser Cutters	grblHAL core code and master Wiki	Retrofit old industrial mills with grblHAL controller boards
+meerk40t/meerk40t	445	MIT	hardware	CNC & Laser Cutters	Hackable Laser software for K40 / GRBL / Fibre Lasers	Upgrade and service cheap K40 lasers for small engraving businesses
+nortd/lasersaur	398	NONE	hardware	CNC & Laser Cutters	Lasersaur -- open source laser cutter	Build large-format laser cutters for makerspaces and schools
+threedesigns/printNC	278	CC-BY-4.0	hardware	CNC & Laser Cutters	100% Free and Open Source, the PrintNC is the next generation of high performance, affordable CNC machines	Fabricate steel PrintNC frames to order for small machine shops
+MaslowCNC/Firmware	277	GPL-3.0	hardware	CNC & Laser Cutters	Maslow Firmware	Sell vertical sheet-goods CNC kits to woodworkers
+V1EngineeringInc/MPCNC_Primo	185	NONE	hardware	CNC & Laser Cutters		Sell MPCNC hardware kits and run local CNC build workshops; NC terms in repo, license before selling
+fab-machines/LaserDuo	105	NOASSERTION	hardware	CNC & Laser Cutters	Open Source Dual Laser Cutter.	Manufacture dual laser cutters for fab labs
+openmv/openmv	2895	NONE	hardware	Cameras & Telescopes	OpenMV Camera Module	Sell machine-vision camera modules for factories; NC terms in repo, license before selling
+espressif/esp32-camera	2842	Apache-2.0	hardware	Cameras & Telescopes		Sell cheap wildlife/trail cameras
+hjd1964/OnStep	622	GPL-3.0	hardware	Cameras & Telescopes	Arduino telescope goto for equatorial and alt/az mounts	Sell GoTo telescope mount conversion kits
+indilib/indi	458	LGPL-2.1	hardware	Cameras & Telescopes	INDI Core Library Repository	Sell preconfigured astronomy control boxes
+Adamslab/OpenSlider	220	GPL-3.0	hardware	Cameras & Telescopes	A 3-axis 3D printed camera slider project that utilizes Marlin and is made with common components.	Sell motorized camera sliders to videographers
+OpenAstroTech/OpenAstroTracker-Firmware	120	MIT	hardware	Cameras & Telescopes	Official firmware for the OpenAstroTracker.	Sell printed star tracker mounts for astrophotographers
+jyjblrd/3D-Printed-Film-Video-Camera	95	MIT	hardware	Cameras & Telescopes	An expensive and unreliable way to record low quality videos!	Sell novelty film camera kits
+jlecomte/ascom-telescope-cover	46	MIT	hardware	Cameras & Telescopes	Open Source ASCOM-Compatible Telescope Cover For Astrophotography	Sell motorized telescope covers for remote observatories
+TenTelescopes/Skyward150	42	NOASSERTION	hardware	Cameras & Telescopes	Open source 3D printed 6 inch Newtonian telescope on a tripod. Free STL and CAD files, BOM and build manual from Ten Telescopes in Guelph, Ontario.	Sell printed Newtonian telescope kits; NC terms in repo, license before selling
+guansk/ArcBlue-HMT-Lite	28	NOASSERTION	hardware	Cameras & Telescopes	Open-source 18-inch telescope structure with drawings, BOM, welding references, and assembly files.	Fabricate large truss Dobsonian telescopes to order
+rbckman/tarina	18	Apache-2.0	hardware	Cameras & Telescopes	3d printed Raspberry Pi gonzo camera with the essential filmmaking tools	Sell Raspberry Pi indie film cameras
+Zer0-bit/gaggiuino	2695	NOASSERTION	hardware	Coffee & Espresso	A Gaggia Classic control project using microcontrollers.	Offer Gaggia Classic mod installs; CC-BY-NC: get permission for commercial sale
+artisan-roaster-scope/artisan	1242	AGPL-3.0	hardware	Coffee & Espresso	artisan scope: the world's most trusted roasting software	Run a small-batch coffee roastery with logged profiles
+jniebuhr/gaggimate	995	NONE	hardware	Coffee & Espresso	This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.	Sell espresso machine smart-control install service; CC-BY-NC: get permission for commercial sale
+rancilio-pid/clevercoffee	418	GPL-2.0	hardware	Coffee & Espresso	Open, modular controller platform for portafilter espresso machines	Sell PID upgrade kits for home espresso machines
+decentespresso/de1app	226	NOASSERTION	hardware	Coffee & Espresso		Offer espresso profiling service for cafes
+brycesub/silvia-pi	144	MIT	hardware	Coffee & Espresso	A Raspberry Pi modification to the Rancilio Silvia Espresso Machine implementing PID temperature control.	Sell Rancilio Silvia PID retrofit kits
+jmoore52/SkywalkerRoaster	107	GPL-3.0	hardware	Coffee & Espresso	Artisian control of Skywalker Electric Coffee Roaster via Arduino. 	Sell roaster control mods for home roasters
+mwood77/koffie	46	GPL-3.0	hardware	Coffee & Espresso	An open source PID for espresso machines	Sell plug-in espresso PID kits
+mgerstgrasser/tc4plus-coffee-roaster-shield	24	NONE	hardware	Coffee & Espresso	The TC4+ is improving and expanding on the TC4 Arduino shield for DIY (and commercial) coffee roasters.	Sell roaster thermocouple shields; NC terms in repo, license before selling
+CapnBry/HeaterMeter	557	MIT	hardware	Cooking & Sous-Vide	HeaterMeter and LinkMeter Arduino BBQ Controller	Sell BBQ pit controllers to competition teams
+adafruit/Sous_Viduino	71	NONE	hardware	Cooking & Sous-Vide	Sous-vide powered by Arduino - The SousViduino!	Sell sous-vide controller kits
+WLANThermo-nano/WLANThermo_ESP32_Software	41	GPL-3.0	hardware	Cooking & Sous-Vide		Sell wireless BBQ thermometers
+egiust/SousVideAdaptativeArduino	36	AGPL-3.0	hardware	Cooking & Sous-Vide	Adaptative regulation sous-vide cooker algorithm (for arduino)	Build sous-vide baths for restaurants
+abuharsky/BBQer	30	MIT	hardware	Cooking & Sous-Vide	Arduino based BBQ smoker temperature controller with cloud analytics and notifications("add charcoal", "add wood", etc)	Sell smart smoker retrofit kits
+willblev/SmokeyTheBarrel	23	NONE	hardware	Cooking & Sous-Vide	Automatic temperature controller (ATC) for an ugly drum smoker (UDS)	Sell drum smoker temperature controllers
+MrMatt57/pitclaw	8	NONE	hardware	Cooking & Sous-Vide	ESP32-S3 BBQ temperature controller with 3.5" touchscreen and Wi-Fi. PID-controlled fan and servo damper keep your smoker dialed in, with up to 3 thermistor probes, a     responsive web UI (PWA), and predictive cook-time estimates.     	Sell touchscreen BBQ controllers
+blastomussa/soap_calc	3	NONE	hardware	Cosmetics & Soap	python soap recipe calculator	Run handmade soap brand with calculated lye recipes
+cristventcode/LyeCalculator	2	MIT	hardware	Cosmetics & Soap	Lye calculator that helps you determine how much lye you need for your next soap recipe.	Sell cold-process soap starter kits
+okhin/SoapOpera	2	NONE	hardware	Cosmetics & Soap	A python project to manage stock and recipes for soap	Small-batch soap maker inventory and recipe production
+thekevinday/soap	2	NONE	hardware	Cosmetics & Soap	Kevin's Soap Recipes	Produce artisan soaps from open recipes
+alexroussos/saponify	1	NONE	hardware	Cosmetics & Soap	Soap recipe calculator	Teach soap-making classes and sell kits
+lampros-polyzos/formularium	0	MIT	hardware	Cosmetics & Soap	A helping and inspiring tool for the home cosmetics brewer	Sell home cosmetics formulation kits
+ArduPilot/ardupilot	16328	GPL-3.0	hardware	Drones	ArduPlane, ArduCopter, ArduRover, ArduSub source	Sell crop-spraying drones with setup and pilot training
+PX4/PX4-Autopilot	12977	BSD-3-Clause	hardware	Drones	PX4 Autopilot Software	Build survey drones for agriculture mapping services
+betaflight/betaflight	11753	GPL-3.0	hardware	Drones	Open Source Flight Controller Firmware	Sell custom FPV racing quads and repair service
+ExpressLRS/ExpressLRS	5469	GPL-3.0	hardware	Drones	High Performance Open Source Radio Control Link	Manufacture long-range radio receivers and modules
+mavlink/qgroundcontrol	5096	Apache-2.0	hardware	Drones	Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)	Offer drone inspection services with rugged ground stations
+iNavFlight/inav	4293	GPL-3.0	hardware	Drones	INAV: Navigation-enabled flight control software	Build long-range fixed-wing inspection drones
+OpenHD/OpenHD	2703	GPL-3.0	hardware	Drones	OpenHD	Sell long-range HD video links for drones
+EdgeTX/edgetx	2470	GPL-2.0	hardware	Drones	EdgeTX is the cutting edge open source firmware for your R/C radio	Sell preconfigured RC transmitters for drone beginners
+bitcraze/crazyflie-firmware	1567	GPL-3.0	hardware	Drones	The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag.	Sell micro-drone swarm kits to universities
+bird-sanctuary/bluejay	540	GPL-3.0	hardware	Drones	:bird: Digital ESC firmware for controlling brushless motors in multirotors	Sell preflashed ESCs for FPV builders
+vedderb/bldc	3564	NONE	hardware	E-Bikes & EV Conversion	The VESC motor control firmware	Build electric skateboards and scooters with VESC controllers
+collin80/SavvyCAN	1919	MIT	hardware	E-Bikes & EV Conversion	QT based cross platform canbus tool	Offer CAN-bus diagnostics for EV conversion builders
+EFeru/hoverboard-firmware-hack-FOC	1836	GPL-3.0	hardware	E-Bikes & EV Conversion	With Field Oriented Control (FOC)	Turn salvaged hoverboards into carts and mobility kits
+vedderb/bldc-hardware	1395	NONE	hardware	E-Bikes & EV Conversion	Brushless DC Motor controller from Benjamin Vedder	Manufacture motor controllers for light EVs
+BotoX/xiaomi-m365-firmware-patcher	442	NONE	hardware	E-Bikes & EV Conversion	Automatize patching of Xiaomi Mijia M365 electric scooter firmware	Run e-scooter repair and upgrade shop
+OpenSourceEBike/TSDZ2-Smart-EBike	279	GPL-3.0	hardware	E-Bikes & EV Conversion	Flexible OpenSource firmware for TongSheng TSDZ2 mid drive ebike motor	Sell e-bike conversion kits with tuned open firmware installed
+EBiCS/EBiCS_Firmware	226	NONE	hardware	E-Bikes & EV Conversion	Free FOC firmware for Lishui E-Bike-Controllers	Sell quiet FOC e-bike controllers for hub motors
+jsphuebner/stm32-sine	209	GPL-3.0	hardware	E-Bikes & EV Conversion	Main firmware of the Huebner inverter project	Convert classic cars to electric with salvaged Tesla drive units
+emmebrusa/TSDZ2-Smart-EBike-860C	67	GPL-3.0	hardware	E-Bikes & EV Conversion	TSDZ2 Open Source Firmware adapted to 860C display	Offer TSDZ2 display flashing and tuning at a bike shop
+OpenSourceEBike/Bafang_BBS02_BBSHB	27	NONE	hardware	E-Bikes & EV Conversion	Flexible OpenSource firmware for Bafang BBS02 and BBSHB mid drive ebike motors	Convert customer bikes to Bafang mid-drives with custom tuning
+evcc-io/evcc	7534	MIT	hardware	EV Charging	smart charging ☀️🚘	Install solar-surplus EV charging systems for homeowners / Solar-surplus EV charging installs for electricians
+OpenEVSE/openevse_esp32_firmware	283	NONE	hardware	EV Charging	OpenEVSE v6 WiFi gateway using ESP32	Sell smart charging upgrades for existing EVSEs
+SmartEVSE/SmartEVSE-3	238	MIT	hardware	EV Charging	Smart Electric Vehicle Charging Station (EVSE)	Install load-balanced chargers for apartment buildings
+OpenEVSE/open_evse	201	GPL-3.0	hardware	EV Charging	Firmware for Open EVSE	Assemble and install EV chargers with local electrician partnership
+opulo-inc/lumenpnp	3720	NOASSERTION	hardware	Electronics Manufacturing	The LumenPnP is an open source pick and place machine.	Sell desktop pick-and-place machines to hardware startups
+openpnp/openpnp	2266	GPL-3.0	hardware	Electronics Manufacturing	Open Source SMT Pick and Place Hardware and Software	Run small-batch PCB assembly service with open pick-and-place
+UnifiedEngineering/T-962-improvements	871	GPL-3.0	hardware	Electronics Manufacturing	Improvements made to the cheap T-962 reflow oven utilizing the _existing_ controller HW	Upgrade and resell reflow ovens to makers
+UnexpectedMaker/ReflowMaster	346	NOASSERTION	hardware	Electronics Manufacturing	Reflow Master is an open source Toaster Oven reflow controller that includes both hardware and software.	Sell toaster-oven reflow controller kits
+apollo-ng/picoReflow	222	NONE	hardware	Electronics Manufacturing	Turns a Raspberry Pi into a universal, web enabled Reflow Oven Controller	Retrofit kilns and ovens with web controllers
+engineertype/Controleo3	142	MIT	hardware	Electronics Manufacturing	Software for Controleo3 Reflow Oven Controller	Sell reflow oven conversion kits
+FarmBot/farmbot_os	1178	MIT	hardware	Farm Robots	The operating system and all related software that runs on FarmBot's Raspberry Pi.	Install FarmBot gardens at schools with maintenance contracts
+FarmBot/farmbot-arduino-firmware	450	MIT	hardware	Farm Robots	Arduino firmware that executes g-code like commands over a serial line to move the FarmBot and operate the tool mount	Sell replacement FarmBot electronics and parts
+Dhruv2012/Autonomous-Farm-Robot	90	NONE	hardware	Farm Robots	UG Project 2019-20. 	Develop weeding robots for local market growers
+Twisted-Fields/acorn-robot-electronics	81	NONE	hardware	Farm Robots	PCB hardware designs in KICAD for Acorn, the precision farming rover from Twisted Fields.	Build solar farm rovers for small vegetable farms
+chobabo/open-autonomous-tractor	2	MIT	hardware	Farm Robots	Open-source ROS package for simulating autonomous tractors	Retrofit small tractors for autonomous mowing service
+homebrewing/brauhausjs	134	NONE	hardware	Food & Beverage Recipes	A beer recipe calculator for homebrewing on servers and in browsers	Sell recipe-based homebrew ingredient kits
+brewcomputer/brewcalc	127	MIT	hardware	Food & Beverage Recipes	JavaScript (ES6) home brewing recipe calculator library	Run brew-on-premise shop with recipe library / Recipe calculator embedded in homebrew retailer sites
+teijo/iba-cocktails	108	NONE	hardware	Food & Beverage Recipes	International Bartenders Association (IBA) Official Cocktails in machine readable format	Sell premixed cocktail kits and bar menus
+LemonardoSoftDrinks/CherryCola	34	NONE	hardware	Food & Beverage Recipes	100% natural Cherry Cola recipe based on Open Cola recipe.	Produce craft cola under own brand from open recipe
+mattsah/beer-recipes	27	NONE	hardware	Food & Beverage Recipes	Homebrew beer recipes	Brew and sell small-batch beer from open recipes
+stone/beerxml	12	MIT	hardware	Food & Beverage Recipes	Go package to read BeerXML files designed for the exchange of beer brewing recipes and other brewing data.	Sell all-grain kits matched to shared recipes
+RichardAntalik/Cola-recipe	4	NONE	hardware	Food & Beverage Recipes		Sell craft soda syrups to cafes
+jo/hyperwood	397	NONE	hardware	Furniture & Housing	Hyperwood is an open-source system for crafting furniture from simple wooden slats.	Sell flat-pack slat furniture made from standard lumber
+wikihouseproject/Skylark	258	NONE	hardware	Furniture & Housing	The latest WikiHouse structural system, using standardised insulated blocks, for 1-3 storey buildings	CNC-cut Skylark building kits and offer local self-build assembly
+wikihouseproject/Wren	144	NONE	hardware	Furniture & Housing	An early version Wikihouse portal frame structural system for 1-3 storey buildings	Fabricate garden studios from plywood frame kits
+DiatomStudio/SketchChair	73	GPL-3.0	hardware	Furniture & Housing	SketchChair is a free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.	Sell customer-designed CNC-cut chairs
+tav/wikihouse-plugin	56	NOASSERTION	hardware	Furniture & Housing	SketchUp extension for WikiHouse, an open source construction set that allows anyone to download, modify and print their own house	Design-and-cut service for custom WikiHouse sheds
+pelletier197/Panelizer	21	MIT	hardware	Furniture & Housing	Free, open-source tool to design paneled furniture (plywood, melamine) and generate optimized cutlists for sheet goods.	Offer custom cabinet panel cutting service for DIY renovators
+steiza/open_source_furniture	15	NONE	hardware	Furniture & Housing	Ever want to build your own furniture, but weren't sure where to start? Start here!	Build and sell simple plywood furniture in a local workshop
+rjsears/GardenPi	306	MIT	hardware	Hydroponics & Greenhouses	Multizone Hydroponic / Aquaponic / Irrigation & Fish Tank Water management and monitoring platform	Install hydroponic and aquaponic automation for small farms
+sector07-dev/ALG-1-Photobioreactor	179	CC0-1.0	hardware	Hydroponics & Greenhouses	ALG-1 is a controlled photobioreactor designed for the cultivation of edible microalgae, specifically spirulina (Arthrospira Platensis). The system was developed to explore closed-loop nutrient generation for aquaponic environments and remote installations whe	Sell desktop algae/spirulina cultivators
+NachtRaveVL/Simple-Hydroponics-Arduino	98	MIT	hardware	Hydroponics & Greenhouses	Hydruino: Simple automation controller for hydroponic grow systems using Arduino-compatible microcontrollers. Professional grade, fully configurable, open source, & 100% free. No internet connection or cloud account required.	Sell hydroponic dosing controllers to hobby growers
+mhajda/PiPonics	40	NONE	hardware	Hydroponics & Greenhouses	Aquaponics with Raspberry Pi	Run aquaponics kits plus monitoring subscription
+jjensn/esponics	37	NONE	hardware	Hydroponics & Greenhouses	Automated hydroponics with Home Assistant & ESP8266 controllers	Sell Home Assistant-ready hydroponic kits
+evandavey/OpenHydroponics	23	NOASSERTION	hardware	Hydroponics & Greenhouses	An open source hydroponics system.  Includes: aeroponics system plans, hardware schematic for an arduino based pump controller and arduino firmware.	Build and sell aeroponic tower systems
+mhgolkar/Melon_Green	23	NONE	hardware	Hydroponics & Greenhouses	Agricultural Automation Controller :seedling: (Greenhouse, Farm, Garden, etc.)	Sell greenhouse climate controllers to small growers
+pcboy/hydroponics-controller	21	NONE	hardware	Hydroponics & Greenhouses	Using an ESP32, relays, a water pump and a TDS sensor to monitor an hydroponics tower	Sell nutrient monitoring kits for container farms
+Chiumanfu/Chiumanfu-Aquaponic-Controller	13	NOASSERTION	hardware	Hydroponics & Greenhouses	Arduino Aquaponic Control System	Install aquaponic systems for schools and restaurants
+qmk/qmk_firmware	20800	GPL-2.0	hardware	Keyboards & Input Devices	Open-source keyboard firmware for Atmel AVR and Arm USB families	Sell custom mechanical keyboards with QMK
+foostan/crkbd	7732	CC-BY-4.0	hardware	Keyboards & Input Devices	Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.	Sell Corne split keyboard kits and assembled boards
+zmkfirmware/zmk	4324	MIT	hardware	Keyboards & Input Devices	ZMK Firmware Repository	Sell wireless split keyboards
+adereth/dactyl-keyboard	3177	AGPL-3.0	hardware	Keyboards & Input Devices	Parameterized ergonomic keyboard	Print and hand-wire ergonomic Dactyl keyboards to order
+josefadamcik/SofleKeyboard	2566	NOASSERTION	hardware	Keyboards & Input Devices	A split keyboard based on Lily58, Crkbd and Helix keyboards	Sell Sofle kits with cases
+kata0510/Lily58	2312	NOASSERTION	hardware	Keyboards & Input Devices	6×4+4keys column-staggered split keyboard.	Sell assembled Lily58 split keyboards
+Bastardkb/Charybdis	1872	NONE	hardware	Keyboards & Input Devices		Sell trackball split keyboards; NC terms in repo, license before selling
+KMKfw/kmk_firmware	1764	NOASSERTION	hardware	Keyboards & Input Devices	Clackety Keyboards Powered by Python	Sell CircuitPython macro pads
+abstracthat/dactyl-manuform	1631	AGPL-3.0	hardware	Keyboards & Input Devices		Sell custom-fit ergonomic keyboards for RSI sufferers; NC terms in repo, license before selling
+vial-kb/vial-qmk	1406	GPL-2.0	hardware	Keyboards & Input Devices	QMK fork with Vial-specific features.	Sell plug-and-play remappable keyboards
+pierrechevalier83/ferris	1272	NOASSERTION	hardware	Keyboards & Input Devices	A low profile split keyboard designed to satisfy one single use case elegantly	Sell minimalist 34-key boards
+keyboardio/Kaleidoscope	819	NOASSERTION	hardware	Keyboards & Input Devices	Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.	Sell programmable ergonomic keyboards
+ploopyco/classic-trackball	812	NONE	hardware	Keyboards & Input Devices	A trackball mouse. Mechanical files, PCBs, and firmware all included.	Manufacture open trackballs; CERN-OHL permits sale
+fossasia/knitlib	1543	LGPL-3.0	hardware	Knitting & Textile Machines	Knitting backend library for knitting machines	Run custom knit-on-demand printing service
+g3rard/OpenKnit	358	NONE	hardware	Knitting & Textile Machines	an open project about a digital knitting machine 	Build digital knitting machines for on-demand knitwear
+var-mar/circular_knitic	237	MIT	hardware	Knitting & Textile Machines	Circular Knitic, an open hardware knitting machine	Sell circular knitting machines for scarves and hats
+mcanet/knitic	226	GPL-3.0	hardware	Knitting & Textile Machines	The open hardware knitting machine (at the moment based in electronic Brother knitting machines)	Retrofit electronic knitting machines for textile studios
+AllYarnsAreBeautiful/ayab-desktop	102	GPL-3.0	hardware	Knitting & Textile Machines	The AYAB Software	Sell custom-patterned knitwear produced on modded machines
+UnstableDesign/AdaCAD-UI	65	NONE	hardware	Knitting & Textile Machines	MIGRATED - AdaCAD is an experimental workspace that applies parametric design to the domain of weave drafting. It supports algorithmic and playful approaches to developing woven structures and cloth, for shaft and jacquard looms. 	Offer custom woven textile production with jacquard looms
+jonnor/idda-knitting-machine	42	NONE	hardware	Knitting & Textile Machines	Developing a 3d-printable circular knitting machine	Sell printable circular knitting machine kits
+AllYarnsAreBeautiful/ayab-firmware	38	GPL-3.0	hardware	Knitting & Textile Machines	Contains the Arduino Firmware for the AYAB Shield	Sell AYAB interface boards for vintage Brother knitting machines
+wled/WLED	18995	EUPL-1.2	hardware	LED Lighting & Signage	Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!	Install addressable LED lighting for homes and venues
+FastLED/FastLED	7524	MIT	hardware	LED Lighting & Signage	The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tracking library bugs / enhancements. 	Sell custom LED art pieces
+hzeller/rpi-rgb-led-matrix	4399	GPL-2.0	hardware	LED Lighting & Signage	Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO	Build LED scoreboards and storefront signs
+hyperion-project/hyperion.ng	3976	MIT	hardware	LED Lighting & Signage	The successor to Hyperion aka Hyperion Next Generation	Install TV ambient lighting kits
+Blueforcer/awtrix3	2348	NOASSERTION	hardware	LED Lighting & Signage	⚠️ Discontinued — superseded by AWTRIX NG (github.com/Blueforcer/awtrix-ng). Archived custom firmware for the Ulanzi Smart Pixel clock and self build matrix clocks.	Sell pixel clocks for smart homes; NC terms in repo, license before selling
+LedFx/LedFx	2097	GPL-3.0	hardware	LED Lighting & Signage	LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.	Rent sound-reactive LED setups for parties
+mrcodetastic/ESP32-HUB75-MatrixPanel-DMA	1648	MIT	hardware	LED Lighting & Signage	An Adafruit GFX Compatible Library for the ESP32/S2/S3/P4 to drive HUB75 LED matrix panels using DMA for high refresh rates. Supports panel chaining.	Sell LED matrix signs for cafes
+mcallegari/qlcplus	1574	Apache-2.0	hardware	LED Lighting & Signage	Q Light Controller Plus (QLC+) is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. This project is a fork of the great QLC project written by Heikki Junnila that aims to continue the QLC dev	Rent stage lighting with DMX control for events
+xLightsSequencer/xLights	762	GPL-3.0	hardware	LED Lighting & Signage	xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers. 	Design and install Christmas light shows for businesses
+FalconChristmas/fpp	745	NOASSERTION	hardware	LED Lighting & Signage	Falcon Player	Sell holiday light show controllers
+jnthas/clockwise	702	MIT	hardware	LED Lighting & Signage	do-it-yourself, full-featured and smart wall clock device	Sell LED matrix wall clocks
+openUC2/UC2-GIT	542	NOASSERTION	hardware	Lab Equipment	Respository for Open-Science modular microscope system. 	Sell modular microscope kits to universities
+Opentrons/opentrons	532	Apache-2.0	hardware	Lab Equipment	Software for writing protocols and running them on the Opentrons Flex and Opentrons OT-2	Resell and service liquid-handling robots to small labs
+pachterlab/poseidon	256	BSD-2-Clause	hardware	Lab Equipment	poseidon system - open source syringe pumps and microscope for laboratories 	Sell syringe pump systems for microfluidics labs
+Its-Triggy/multi-channel-pipette	192	CERN-OHL-P-2.0	hardware	Lab Equipment	Open-source multi-channel pipette system for 96-well plates (8×12). Includes mechanical CAD, electronics, firmware, and build documentation. Designed for fast, parallel liquid handling using low-cost components.	Sell 96-well pipetting devices to biotech startups
+chaibio/chaipcr	97	NONE	hardware	Lab Equipment	The software behind Chai's open-source Real-Time PCR instrument	Refurbish and support open qPCR instruments
+PeterJBurke/Nanostat	96	MIT	hardware	Lab Equipment	ESP32Stat_Rev_3_5_PIO	Sell WiFi potentiostats for sensor startups
+fairscope/PlanktoScope	93	CC-BY-SA-4.0	hardware	Lab Equipment	Open and Affordable Quantitative Imaging Platform	Sell plankton imagers to marine researchers
+manimino/OpenSyringePump	90	NONE	hardware	Lab Equipment	Open Syringe Pump instructions, code, and 3D files	Sell low-cost syringe pumps to teaching labs
+jbrazio/ardufocus	58	GPL-3.0	hardware	Lab Equipment	:telescope: The most accurate Open Source focus controller	Sell motorized focusers for microscopes and telescopes; NC terms in repo, license before selling
+iorodeo/potentiostat	57	CC-BY-4.0	hardware	Lab Equipment	Rodeostat design files, software and firmware	Sell potentiostats to electrochemistry courses
+raacampbell/openstage	46	LGPL-3.0	hardware	Lab Equipment	Arduino-based microscope stage controller	Sell motorized microscope stage upgrades
+GaudiLabs/qPocketPCR	22	GPL-3.0	hardware	Lab Equipment	Quantitative PCR machine detecting fluorescence using a camera	Sell portable qPCR machines to schools and field labs
+pikvm/pikvm	10448	GPL-3.0	hardware	Laptops & Single-Board Computers	Open and inexpensive DIY IP-KVM based on Raspberry Pi	Sell IP-KVM appliances to IT departments
+raspberrypi/pico-sdk	5014	BSD-3-Clause	hardware	Laptops & Single-Board Computers		Design custom RP2040 boards for clients
+FrameworkComputer/Framework-Laptop-13	2014	CC-BY-4.0	hardware	Laptops & Single-Board Computers	Documentation for the Mainboard and other modules in the Framework Laptop 13	Sell custom expansion cards and repurposed mainboard cases
+OLIMEX/OLINUXINO	1506	NONE	hardware	Laptops & Single-Board Computers	OLINUXINO is Open Source / Open Hardware, low cost from EUR 24 Linux Industrial grade Single Board Computer capable to operate -25+85C	Manufacture industrial Linux SBCs
+FrameworkComputer/EmbeddedController	1198	NONE	hardware	Laptops & Single-Board Computers	Embedded Controller firmware for the Framework Laptop	Offer laptop repair and upgrade services
+beagleboard/beaglebone-black	466	NONE	hardware	Laptops & Single-Board Computers	Design and Document files for the BeagleBone Black from BeagleBoard.org	Build industrial controllers on BeagleBone designs
+meshtastic/firmware	8545	GPL-3.0	hardware	LoRa & Mesh Networks	The official firmware for Meshtastic, an open-source, off-grid mesh communication system.	Sell preflashed Meshtastic radios for hikers and events / Off-grid radio kits for community emergency teams
+markqvist/Reticulum	7683	NOASSERTION	hardware	LoRa & Mesh Networks	The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.	Install resilient off-grid networks for NGOs
+meshcore-dev/MeshCore	4007	MIT	hardware	LoRa & Mesh Networks	A new lightweight, hybrid routing mesh protocol for packet radios	Deploy community repeater networks with solar nodes
+TheThingsNetwork/lorawan-stack	1176	Apache-2.0	hardware	LoRa & Mesh Networks	The Things Stack, an Open Source LoRaWAN Network Server	Sell LoRaWAN gateways with managed service
+chirpstack/chirpstack	1134	MIT	hardware	LoRa & Mesh Networks	ChirpStack open-source LoRaWAN Network Server	Install private LoRaWAN networks for farms
+markqvist/RNode_Firmware	735	GPL-3.0	hardware	LoRa & Mesh Networks	RNode is an open, free and flexible digital radio interface with many uses	Sell RNode radios for off-grid comms
+Makerfabs/Lora-Soil-Moisture-Sensor	63	NONE	hardware	LoRa & Mesh Networks	Lora Soil Moisture Sensor	Sell soil moisture sensor networks to orchards
+LoopKit/Loop	1753	NOASSERTION	hardware	Medical Devices	An automated insulin delivery app for iOS, built on LoopKit	Provide RileyLink accessories and setup help to loop community
+jcl5m1/ventilator	1666	MIT	hardware	Medical Devices	Low-Cost Open Source Ventilator or PAPR	Build powered air-purifying respirators for clinics
+OpenBCI/OpenBCI_GUI	981	MIT	hardware	Medical Devices	A cross platform application for the OpenBCI Cyton and Ganglion. Tested on Mac, Windows and Ubuntu/Mint Linux.	Sell EEG headset kits to researchers
+makers-for-life/makair	846	NOASSERTION	hardware	Medical Devices	🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).	Manufacture emergency ventilators for humanitarian NGOs (needs certification)
+openaps/oref0	484	MIT	hardware	Medical Devices	oref0: The open reference implementation of the OpenAPS reference design.	Offer DIY loop setup support and hardware rigs (not regulated device)
+patchinc/heartypatch	150	NOASSERTION	hardware	Medical Devices	A single lead ECG heart-rate variability monitoring patch with ESP32	Sell ECG patch dev kits to health startups
+odriverobotics/ODrive	3831	MIT	hardware	Motor Control	High performance motor control	Sell servo motor driver boards to robotics builders
+simplefoc/Arduino-FOC	3097	MIT	hardware	Motor Control	Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library	Sell gimbal-motor FOC driver boards and kits
+mjbots/moteus	1370	Apache-2.0	hardware	Motor Control	Brushless DC motor controller	Sell high-torque actuators for legged robots
+FundamentalFrequency/LMN-3-Build-Guide	1064	GPL-3.0	hardware	Musical Instruments	Build guide for the LMN-3 project	Sell portable DAW groovebox kits
+shanteacontrols/OpenDeck	960	Apache-2.0	hardware	Musical Instruments	A platform for building interactive control and sensing devices using MIDI and OSC built with Zephyr RTOS.	Build custom MIDI controllers for DJs
+BelaPlatform/Bela	540	NOASSERTION	hardware	Musical Instruments	Bela: core code, IDE and lots of fun!	Build interactive sound installations for museums
+16n-faderbank/16n	383	NOASSERTION	hardware	Musical Instruments	Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out. Phew.	Sell MIDI fader controllers
+RyoKosaka/HelloDrum-arduino-Library	312	MIT	hardware	Musical Instruments	This is a library for making E-Drum with arduino.	Build and sell electronic drum kits from mesh pads
+GaudiLabs/OpenThereminV4	249	GPL-3.0	hardware	Musical Instruments	Open Source Theremin Instrument	Sell theremin kits and workshops
+charlesvestal/fm1-loom	67	MPL-2.0	hardware	Musical Instruments	LOOM-8: a groovebox inspired by the OP-XY: eight tracks on nine engines, step tricks and locks, weave, a conductor and throws	Sell groovebox builds to electronic musicians
+andywarburton/prusacaster-glow	0	NONE	hardware	Musical Instruments	Build your own 3d printed WLED powered sound reactive  electric guitar	Sell 3D-printed electric guitar bodies
+rachelnicole/robokitty	771	GPL-2.0	hardware	Pet Devices	A DIY Cat (or dog. or human) Feeder powered by node	Sell DIY pet feeder kits
+benleb/surepy	92	MIT	hardware	Pet Devices	🐾 Library & CLI to monitor and control the Pet Door & Cat Flap Connect 🚪 the Pet Feeder Connect 🍽 and the Felaqua 💦 sold by Sure Petcare	Install smart pet door integrations
+feedernet/petnet-feeder-service	84	MIT	hardware	Pet Devices	The Petnet v2 feeder has been hacked!	Revive bricked Petnet feeders as a service
+CatGenius/catgenius	64	NONE	hardware	Pet Devices	Alternative firmware for the CatGenie 120 litter box	Repair and upgrade CatGenie litter boxes
+Molecule5537/diy-multisensor-cat-feeder	60	NONE	hardware	Pet Devices	DIY Multi-Sensor Cat Feeder - Using ESPHome, Home Assistant, and Node Red	Sell smart cat feeders with weight sensing
+oziavci/cat-dog-feeder-wifi	44	NONE	hardware	Pet Devices	Automatic pet feeder. It can be timed and managed online. ESP8266 nodemcu project.	Sell WiFi pet feeders
+piotrwest/TheUltimateCloudCatFeeder-3DModels	31	Apache-2.0	hardware	Pet Devices	3D models for fully automated, 3D printed cat feeder, with cloud hosted dashboard, measuring cat and food weight few times per second.	Print and sell automated cat feeders
+JoeKarlsson/iot-kitty-litter-box	28	Apache-2.0	hardware	Pet Devices	Welcome to to world of IoT (Internet of Toilets 🚽). This is the code you will need to setup your very own internet connect kitty litter box!	Sell litter usage monitors for cat health
+evilsocket/pwnagotchi	9249	NOASSERTION	hardware	Phones & Handhelds	(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.	Sell assembled WiFi audit gadgets to security trainers
+ducalex/retro-go	1420	GPL-2.0	hardware	Phones & Handhelds	Retro emulation for the ODROID-GO and other ESP32 devices	Sell retro handheld consoles with firmware
+clockworkpi/uConsole	1030	NONE	hardware	Phones & Handhelds	This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents.	Sell handheld cyberdeck accessories
+Xinyuan-LilyGO/T-Deck	620	NONE	hardware	Phones & Handhelds	LilyGo-T-Deck & T-Deck-Plus	Sell off-grid messenger handhelds
+kbeckmann/game-and-watch-retro-go	494	GPL-2.0	hardware	Phones & Handhelds	Emulator collection for Nintendo® Game & Watch™	Offer Game & Watch modding service
+clockworkpi/DevTerm	480	LGPL-2.1	hardware	Phones & Handhelds	This code repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics, assembly instructions, and essential technical documents.	Sell portable terminal kits
+MLXXXp/Arduboy2	306	NOASSERTION	hardware	Phones & Handhelds	An alternative library for the Arduboy miniature game system	Sell credit-card game consoles as promotional merch
+pimoroni/picosystem	177	MIT	hardware	Phones & Handhelds	PicoSystem libraries and examples.	Sell game dev handheld kits to schools
+betrusted-io/betrusted-hardware	84	NOASSERTION	hardware	Phones & Handhelds	Hardware design files for Betrusted	Build secure communication handhelds
+ONEARMY/precious-plastic-kit	183	NONE	hardware	Plastic Recycling	Precious Plastic Downloadpack	Build shredders and extruders; sell recycled plastic products
+Craft3D/Recycled-PET-Bottle-Extruder-for-3D-Printing-	11	GPL-3.0	hardware	Plastic Recycling	Based on the original schematics by Precious Plastics, the aim of this project is to build an automatized version of the plastic extruder and filament winder, which will produce 3D printing filament from recycled PET bottles	Sell bottle-to-filament machines
+BusterBeagle3D/MK4_Automation	11	CC0-1.0	hardware	Plastic Recycling	Code to run the injection cycle of the Buster Beagle 3D MK4 Injection Molding Machine	Sell benchtop injection molding machines to small makers
+OpenSourceEcology/Extruder	9	NONE	hardware	Plastic Recycling	Building upon Lyman, Precious Plastic, and Recyclebot	Sell filament recyclers to print farms
+specollective/Open-Shredder	8	GPL-3.0	hardware	Plastic Recycling	OpenShredder is a general purpose 3D printable plastic shredder for recycling plastic	Sell desktop plastic shredders to schools
+ONEARMY/precious-plastic-starterkit-shredder	5	NONE	hardware	Plastic Recycling	Starterkit for a Shredder Workspace	Run community plastic shredding workspace
+OpenBionics/Prosthetic-Hands	193	NOASSERTION	hardware	Prosthetics & Assistive Devices	Affordable (< $200), light-weight (< 300 gr), anthropomorphic prosthetic hands, using a novel selectively-lockable differential mechanism	Fabricate low-cost prosthetic hands for clinics
+TheForgotensoul/3D-printed_Myo-electric-prosthetic-hand	37	MIT	hardware	Prosthetics & Assistive Devices	Welcome to 3D-printed Myo electric prosthetic hand Project. In this project we will build a bionic arm which can be controlled using myo electric sensors.	Run prosthetic printing workshops for NGOs
+redragonx/open-rnet	30	GPL-3.0	hardware	Prosthetics & Assistive Devices	Reverse engineering the R-Net CAN bus protocol for power wheelchair accessibility. DEFCON24 research (2016), open-sourced 2026.	Offer power wheelchair customization and repair
+pslade2/TactHand	27	Unlicense	hardware	Prosthetics & Assistive Devices	This is the open-source myoelectric prosthetic hand we developed, Tact.	Produce myoelectric hands for low-income markets
+MelbourneUniHRL/X-Limb	23	NOASSERTION	hardware	Prosthetics & Assistive Devices	A practical 3D-printed soft robotic prosthetic hand with multi-articulating capabilities	Print soft prosthetic hands fitted locally; NC terms in repo, license before selling
+SuperHouse/WMC	10	NONE	hardware	Prosthetics & Assistive Devices	Open Source wheelchair control system motor drive module with CAN bus interface	Build wheelchair motor controller retrofits
+makersmakingchange/OpenAT-Joysticks	9	NONE	hardware	Prosthetics & Assistive Devices	Main repository for open source assistive technology joysticks.	Sell adaptive joysticks to OT clinics
+makersmakingchange/Forest-Joystick-Mouse-Hub	4	NONE	hardware	Prosthetics & Assistive Devices	Enables an analog joystick and assistive switches to emulate an HID Mouse or HID Gamepad. Open source assistive technology. 	Sell assistive computer access devices
+huggingface/lerobot	28731	Apache-2.0	hardware	Robotics & Robot Arms	🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning	Sell teleoperation arm kits with training data collection service
+TheRobotStudio/SO-ARM100	8029	Apache-2.0	hardware	Robotics & Robot Arms	Standard Open Arm 100	Sell assembled low-cost robot arms for AI research labs
+Vector-Wangel/XLeRobot	5739	Apache-2.0	hardware	Robotics & Robot Arms	XLeRobot: Practical Dual-Arm Mobile Home Robot for $660	Sell low-cost home mobile manipulator kits
+PetoiCamp/OpenCat-Quadruped-Robot	5546	MIT	hardware	Robotics & Robot Arms	An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit de	Sell robot pet kits and coding workshops
+enactic/openarm	3682	Apache-2.0	hardware	Robotics & Robot Arms	A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.	Build humanoid-arm platforms for robotics startups
+Source-Robotics/PAROL6-Desktop-robot-arm	3441	CERN-OHL-S-2.0	hardware	Robotics & Robot Arms	PAROL6: open-source 3D-printed 6-axis desktop robot arm. BOM, STL and STEP files, firmware and build instructions.	Sell desktop 6-axis arms for light automation
+tonyzhaozh/aloha	2362	MIT	hardware	Robotics & Robot Arms		Build bimanual teleoperation rigs for labs
+ROBOTIS-GIT/turtlebot3	2101	Apache-2.0	hardware	Robotics & Robot Arms	ROS packages for Turtlebot3	Sell mobile robot platforms to universities
+BCN3D/BCN3D-Moveo	2016	MIT	hardware	Robotics & Robot Arms	Open Source 3D Printed Robotic Arm for educational purposes	Sell educational robot arm kits to vocational schools
+stanfordroboticsclub/StanfordQuadruped	1832	MIT	hardware	Robotics & Robot Arms		Sell quadruped robot kits to classrooms
+AngelLM/Thor	1637	CC-BY-SA-4.0	hardware	Robotics & Robot Arms	DIY 3D Printable Robotic Arm	Sell printed robot arm kits for STEM programs
+open-dynamic-robot-initiative/open_robot_actuator_hardware	1518	BSD-3-Clause	hardware	Robotics & Robot Arms		Manufacture brushless actuator modules for legged robots
+poppy-project/poppy-humanoid	1098	NONE	hardware	Robotics & Robot Arms	Poppy Humanoid is an open-source and 3D printed humanoid robot. Optimized for research and education purposes, its modularity allows for a wide range of applications and experimentations. 	Rent humanoid robots for exhibitions and education
+hshi74/toddlerbot	802	MIT	hardware	Robotics & Robot Arms		Sell small humanoid research robots; NC terms in repo, license before selling
+jess-moss/koch-v1-1	736	Apache-2.0	hardware	Robotics & Robot Arms	A version 1.1 of the Alexander Koch low cost robot arm with some small changes.	Sell leader-follower arm kits to schools
+wb2osz/direwolf	2071	GPL-2.0	hardware	Satellites & Ham Radio	Dire Wolf is a software "soundcard" AX.25 packet modem/TNC and APRS encoder/decoder. It can be used stand-alone to observe APRS traffic, as a tracker, digipeater, APRStt gateway, or Internet Gateway (IGate).   For more information, look at the bottom 1/4 of th	Sell APRS iGate boxes
+tinygs/tinyGS	1490	GPL-3.0	hardware	Satellites & Ham Radio	📡 Open Ground Station Network  🛰	Sell satellite ground station kits
+jketterl/openwebrx	1339	AGPL-3.0	hardware	Satellites & Ham Radio	Open source, multi-user SDR receiver software with a web interface	Sell web SDR receiver kits for clubs
+libcsp/libcsp	696	MIT	hardware	Satellites & Ham Radio	Cubesat Space Protocol - A small network-layer delivery protocol designed for Cubesats	Build CubeSat subsystems for university missions
+softerhardware/Hermes-Lite2	384	NONE	hardware	Satellites & Ham Radio	A second generation low-cost amateur HF software defined radio transceiver.	Sell assembled SDR transceivers to hams
+OpenSatKit/OpenSatKit	305	NONE	hardware	Satellites & Ham Radio	Core Flight System (cFS) Application Developer's Kit	Offer CubeSat flight software integration
+0xCoto/CygnusRFI	72	GPL-3.0	hardware	Satellites & Ham Radio	📡 CygnusRFI: An open-source RFI analysis tool for Ground Stations & Radio Telescopes	Offer RFI surveys for ground station sites
+Open-Source-Satellite/Mercury-GS	58	NOASSERTION	hardware	Satellites & Ham Radio	An Open Source Program that allows users to interact with a Spacecraft in a lab environment, pre-launch.	Operate ground station as a service
+omersiar/esp-rfid	1491	MIT	hardware	Security & Access Control	ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS	Install RFID access control for makerspaces and gyms
+technyon/nuki_hub	754	MIT	hardware	Security & Access Control	Use an ESP32 as a Hub between a NUKI Lock and your smarthome.	Offer smart lock local integration installs
+ultrawidelock/ultrawidelock	63	NOASSERTION	hardware	Security & Access Control	UWB & NFC Smart lock firmware that opens with your Wallet Key.	Sell wallet-key smart locks
+vogler/SmartLock	34	NONE	hardware	Security & Access Control	3D printed smart lock using ESP32 via 2 AA cells, N20 geared motor driven by TB6612FNG via 9V block	Sell retrofit door lock motors
+motioneye-project/motioneyeos	8216	NOASSERTION	hardware	Security Cameras & Doorbells	A Video Surveillance OS For Single-board Computers	Sell Pi security camera kits
+EliasKotlyar/Xiaomi-Dafang-Hacks	4321	NONE	hardware	Security Cameras & Doorbells		Offer camera de-clouding service
+themactep/thingino-firmware	2315	MIT	hardware	Security Cameras & Doorbells	Open-source firmware for Ingenic SoC IP cameras	Sell open-firmware Wyze-style cameras
+OpenIPC/firmware	2270	MIT	hardware	Security Cameras & Doorbells	Alternative IP Camera firmware from an open community	Reflash and resell cloud-free IP cameras
+frickelzeugs/FingerprintDoorbell	383	NONE	hardware	Security Cameras & Doorbells	An MQTT enabled combined fingerprint reader and doorbell based on the ESP32 MCU and the R503 fingerprint sensor called "FingerprintDoorbell".	Sell fingerprint doorbells with door opener install
+chrta/sip_call	312	AGPL-3.0	hardware	Security Cameras & Doorbells	SIP client for ESP32 to initiate a phone call from a door bell	Retrofit doorbells to ring phones
+ronschaeffer/video_doorbell_voice_response	205	NONE	hardware	Security Cameras & Doorbells	Video & audio doorbell for Home Assistant: ESP32 Cam, DFPlayer Mini, ESPHome	Sell ESP32 video doorbells
+Mat931/esp32-doorbell-bus-interface	76	NOASSERTION	hardware	Security Cameras & Doorbells	ESP32 Bus Interface for ABB-Welcome and Busch-Welcome	Sell smart intercom adapters for apartments
+inkstitch/inkstitch	1385	GPL-3.0	hardware	Sewing & Fashion Patterns	Ink/Stitch: an Inkscape extension for machine embroidery design	Run custom embroidery shop for merch and uniforms
+FashionFreedom/Seamly2D	1034	GPL-3.0	hardware	Sewing & Fashion Patterns	Open source patternmaking software to democratize fashion.	Offer custom pattern drafting service for indie designers / Made-to-measure pattern drafting for tailors
+Embroidermodder/Embroidermodder	640	Zlib	hardware	Sewing & Fashion Patterns	Free machine embroidery software supporting a variety of formats.	Offer embroidery digitizing service
+freesewing/freesewing	489	MIT	hardware	Sewing & Fashion Patterns	Freesewing's monorepo holding all our NPM packages, including our core library	Sell made-to-measure garments from parametric patterns / Custom-fit sewing patterns sold by boutiques
+EmbroidePy/pyembroidery	320	MIT	hardware	Sewing & Fashion Patterns	pyembroidery library for reading and writing a variety of embroidery formats.	Sell personalized embroidered goods via online configurator
+fatihak/InkyPi	4275	GPL-3.0	hardware	Smart Home Devices	E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins	Sell e-ink smart home dashboards
+1technophile/OpenMQTTGateway	4117	GPL-3.0	hardware	Smart Home Devices	MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.	Sell RF/BLE gateways for smart homes
+xoseperez/espurna	3057	GPL-3.0	hardware	Smart Home Devices	Home automation firmware for ESP8266-based devices	Sell custom firmware smart relays to electricians
+openshwprojects/OpenBK7231T_App	2349	NONE	hardware	Smart Home Devices	Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601, BL602, LN882H, Realtek chips and more	Reflash and resell cheap smart devices cloud-free
+ratgdo/esphome-ratgdo	557	GPL-2.0	hardware	Smart Home Devices	ratgdo for ESPHome	Install local garage door controllers
+EverythingSmartHome/everything-presence-one	535	NONE	hardware	Smart Home Devices	Official Repo for the Everything Presence One sensor!	Sell mmWave presence sensors
+lanrat/homeplate	316	Apache-2.0	hardware	Smart Home Devices	Trmnl & Home Assistant E-Ink dashboard on the Inkplate displays	Sell wall-mounted e-paper home panels
+ihormelnyk/opentherm_library	292	MIT	hardware	Smart Home Devices	Arduino/ESP8266/ESP32 OpenTherm Library for HVAC system control communication	Sell smart boiler thermostats
+tbnobody/OpenDTU	2206	GPL-2.0	hardware	Solar & Energy Systems	Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters	Sell preflashed micro-inverter monitoring gateways for balcony solar / Microinverter monitoring add-on for installers
+lumapu/ahoy	1017	NOASSERTION	hardware	Solar & Energy Systems	Various tools, examples, and documentation for communicating with Hoymiles microinverters	Sell plug-in balcony solar kits with local monitoring; CC-BY-NC: get permission for commercial sale
+victronenergy/venus	784	NONE	hardware	Solar & Energy Systems	Victron Energy Unix/Linux OS	Install and monitor off-grid battery systems for cabins and boats
+openenergymonitor/EmonLib	628	AGPL-3.0	hardware	Solar & Energy Systems	Electricity monitoring library - install in Arduino IDE's libraries folder then restart the IDE	Sell energy-monitoring clamp kits to small businesses
+jblance/mpp-solar	438	MIT	hardware	Solar & Energy Systems	Python package to communicate to MPP Solar PIP-4048MS inverters (and similar)	Offer remote monitoring for hybrid inverter installations
+openenergymonitor/emonpi	280	NONE	hardware	Solar & Energy Systems	Raspberry Pi Based Energy Monitor. Hardware, Firmware & related software for the PI.	Install home energy monitors for solar owners with subscription support
+LibreSolar/charge-controller-firmware	194	Apache-2.0	hardware	Solar & Energy Systems	Firmware for Libre Solar MPPT/PWM charge controllers	Sell off-grid solar home systems in rural markets
+LibreSolar/mppt-2420-hc	137	NOASSERTION	hardware	Solar & Energy Systems	MPPT charge controller with HS load switch and CAN bus	Manufacture MPPT charge controllers for off-grid kits
+openenergymonitor/emonhub	106	NONE	hardware	Solar & Energy Systems	Python service linking and decoding input to MQTT & Emoncms 	Offer energy audits with installed monitoring gateways
+elektra42/freifunk-open-mppt	89	NOASSERTION	hardware	Solar & Energy Systems	Open hard- and software solar maximum power point tracker	Build solar-powered mesh router stations for villages
+ClassicDIY/SkyeTracker	88	Apache-2.0	hardware	Solar & Energy Systems	Dual Axis solar tracker	Install dual-axis solar trackers for farms
+aplavins/Arduino-MPPT	79	GPL-2.0	hardware	Solar & Energy Systems	Arduino based Maximum Power Point Tracking (MPPT) solar charge controller	Sell DIY MPPT controller kits for education
+pichenettes/eurorack	3358	NONE	hardware	Synthesizers & Audio Gear	Eurorack modules	Build Eurorack module clones; CC-BY-SA, avoid trademark names
+sle118/squeezelite-esp32	2250	NONE	hardware	Synthesizers & Audio Gear	ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Hardware buttons, display and more	Install multiroom audio streamers in homes
+sensorium/Mozzi	1293	LGPL-2.1	hardware	Synthesizers & Audio Gear	sound synthesis library for Arduino	Sell Arduino synth kits for workshops
+daisyaudio/DaisySP	1271	NOASSERTION	hardware	Synthesizers & Audio Gear	A Powerful DSP Library in C++	Sell custom synth voice modules
+PaulStoffregen/Audio	1265	NONE	hardware	Synthesizers & Audio Gear	Teensy Audio Library	Sell small-batch digital synths
+GuitarML/NeuralPi	1233	GPL-3.0	hardware	Synthesizers & Audio Gear	Raspberry Pi guitar pedal using neural networks to emulate real amps and effects.	Sell AI amp-modeling pedals
+monome/norns	742	GPL-3.0	hardware	Synthesizers & Audio Gear	norns is many sound instruments.	Sell norns shield sound computers
+mxmxmx/O_C	503	NONE	hardware	Synthesizers & Audio Gear	display w/ dac	Sell assembled O_C modules to modular synth users
+daisyaudio/libDaisy	491	MIT	hardware	Synthesizers & Audio Gear	Hardware Library for the Daisy Audio Platform	Design and sell DSP effect pedals on Daisy
+TomWhitwell/RadioMusic	355	NONE	hardware	Synthesizers & Audio Gear	Virtual Radio module for Eurorack 	Sell sample-player module kits
+Ottercast/OtterCastAmp	341	MIT	hardware	Synthesizers & Audio Gear	OtterCastAmp is an open-source WiFi Speaker amplifier, based on a Sochip S3 SoC. Powered by any USB PD adapter for up to 100W of music.	Sell WiFi speaker amplifiers for multiroom audio installs
+TomWhitwell/TuringMachine	261	NONE	hardware	Synthesizers & Audio Gear	Turing Machine Mk 2 Main Module	Sell Turing Machine DIY kits
+monome/teletype	226	GPL-2.0	hardware	Synthesizers & Audio Gear	monome eurorack module	Build and sell Eurorack scripting modules
+zynthian/zynthian-ui	217	GPL-3.0	hardware	Synthesizers & Audio Gear	User Interface for Zynthian	Sell open synth boxes for live musicians
+mod-audio/mod-ui	115	AGPL-3.0	hardware	Synthesizers & Audio Gear	Web-based interface for the MOD	Build multi-effects pedalboards for guitarists
+flipperdevices/flipperzero-firmware	16851	GPL-3.0	hardware	Test & Measurement	Flipper Zero firmware source code	Sell custom accessory boards for multi-tool devices
+greatscottgadgets/hackrf	8203	GPL-2.0	hardware	Test & Measurement	low cost software radio platform	Manufacture SDR boards for RF testing labs
+GlasgowEmbedded/glasgow	2233	0BSD	hardware	Test & Measurement	Scots Army Knife for electronics	Sell electronics debug multitools to engineers
+ttrftech/NanoVNA	1435	NONE	hardware	Test & Measurement	Very Tiny Palmtop Vector Network Analyzer	Sell calibrated antenna analyzers to ham operators
+OpenHantek/OpenHantek6022	1151	GPL-3.0	hardware	Test & Measurement	OpenHantek6022 is a DSO software for Hantek USB digital signal oscilloscopes 6022BE / BL. Development OS is Debian Linux, but the program also works on FreeBSD, MacOS, RaspberryPi and Windows. No support for non-Linux related issues unless a volunteer steps in	Bundle USB scopes with open software for schools
+greatscottgadgets/greatfet	355	BSD-3-Clause	hardware	Test & Measurement	GreatFET firmware and host software	Sell hardware hacking kits for security trainers
+EddieOne/open-source-tiny-home	68	NOASSERTION	hardware	Tiny Homes & Shelters	The offical open source tiny house. Check V2 for the new design.	Build tiny homes on trailers to order using open plans
+NicklasVraa/Scaffold	62	GPL-3.0	hardware	Tiny Homes & Shelters	A repository for free-and-open-source tiny-house blueprints.	Sell tiny-house shell builds and plan customization
+VincentMuller/Pionierswoning-WikiHouse	46	NONE	hardware	Tiny Homes & Shelters	Test and showcase for the 27 WikiHouses project in Almere, Netherlands, feb 2018	Develop small affordable WikiHouse-based starter homes
+WikihouseUS/Alex-Wikished	20	NONE	hardware	Tiny Homes & Shelters	This is a Wikished, a fork of the Wikihouse project.	Sell flat-pack backyard sheds and offices
+Ralim/IronOS	8409	GPL-3.0	hardware	Tools & Workshop	Open Source Soldering Iron firmware	Sell smart soldering irons with upgraded firmware
+vlachoudis/bCNC	1758	GPL-2.0	hardware	Tools & Workshop	GRBL CNC command sender, autoleveler and g-code editor	Offer PCB milling service
+Smoothieware/Smoothieware	1414	GPL-3.0	hardware	Tools & Workshop	Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++	Sell controller boards for workshop machines
+OpenBuilds/OpenBuilds-CONTROL	274	GPL-3.0	hardware	Tools & Workshop	OpenBuilds CONTROL: Download from https://software.openbuilds.com	Sell CNC workbench machines to woodworkers
+deepnest-next/deepnest	212	NOASSERTION	hardware	Tools & Workshop	A community based  open source nesting application for laser cutters, plasma cutters and other CNC machines.	Offer material-optimized cutting for woodshops
+KaeptnBalu/Arduino_Spot_Welder_V4	108	GPL-3.0	hardware	Tools & Workshop	This is V4 of the Arduino Spot Welder. An Arduino based Spot Welder for battery welding	Sell spot welder controller kits
+MIDILLI-Tech/visual-box-designer	9	Apache-2.0	hardware	Tools & Workshop	An open-source, web-based 3D box designer for laser engravers, CNC routers, and 3D printers. Design custom boxes, cabinets, and furniture panels with precise component placement (drill holes, cutouts, labels) in an intuitive 2D/3D interface. 	Sell laser-cut custom boxes and packaging
+adafruit/circuitpython	4581	NOASSERTION	hardware	Toys & Educational Kits	CircuitPython - a Python implementation for teaching coding with microcontrollers	Sell beginner electronics kits
+MiczFlor/RPi-Jukebox-RFID	1825	MIT	hardware	Toys & Educational Kits	A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available.	Sell RFID music boxes for kids
+alanbjohnston/CubeSatSim	419	GPL-3.0	hardware	Toys & Educational Kits	CubeSatSim, the AMSAT CubeSat Simulator	Sell CubeSat simulator kits to schools
+pybricks/pybricks-micropython	354	NOASSERTION	hardware	Toys & Educational Kits	MicroPython firmware for Pybricks-compatible devices.	Teach LEGO robotics classes
+OttoDIY/OttoDIYLib	216	GPL-3.0	hardware	Toys & Educational Kits	Latest and official Libraries for Arduino Otto DIY robots	Sell biped robot kits for coding camps
+tonuino/TonUINO-TNG	212	GPL-3.0	hardware	Toys & Educational Kits	The new, "official" TonUINO Firmware. TonUINO is an Arduino based music player supporting RFID and arcade buttons as it's UI	Sell handcrafted children's audio boxes
+microbit-foundation/microbit-v2-hardware	97	CC-BY-SA-4.0	hardware	Toys & Educational Kits	The schematic and Bill of Material for the BBC micro:bit V2	Sell micro:bit accessory kits to schools
+Mobsya/aseba	18	LGPL-3.0	hardware	Toys & Educational Kits	Aseba is a set of tools which allow beginners to program robots easily and efficiently. To contact us, please open an issue.	Run educational robotics workshops
+pibooth/pibooth	839	MIT	hardware	Vending & Kiosk Machines	The pibooth project provides a Photo Booth application out-of-the-box for Raspberry Pi and opencv compatible devices	Rent photo booths for events
+PhotoboothProject/photobooth	689	MIT	hardware	Vending & Kiosk Machines	Self-hosted photo booth / photo box web app for events with live preview, collages, and printing.	Build and sell photo booth kiosks
+21isenough/LightningATM	340	MIT	hardware	Vending & Kiosk Machines	This ATM sends bitcoin over the Lightning Network - pretty fun. 	Sell small bitcoin ATMs to shops
+photobooth-app/photobooth-app	335	MIT	hardware	Vending & Kiosk Machines	Welcome to your brand-new free open-source photobooth-app! Written in Python 🐍, coming along with a modern Vue3 frontend.	Operate photo booth rental service
+alex9849/CocktailPi	195	NONE	hardware	Vending & Kiosk Machines	The webinterface and controlling software for a diy raspberry-pi based cocktail making machine	Rent cocktail robots for weddings and events
+nodestark/mdb-esp32-cashless	190	MIT	hardware	Vending & Kiosk Machines	ESP32-based MDB cashless device for vending machines, supporting EVA DTS DEX/DDCMP telemetry and payments over the MDB protocol via Bluetooth and MQTT	Retrofit vending machines with cashless payments
+AndreWohnsland/CocktailBerry	93	GPL-3.0	hardware	Vending & Kiosk Machines	Free Open-Source Software for Cocktail Machines 🐍 + 🍸 = 🥳	Sell cocktail machines to bars
+temoto/vender	91	CC0-1.0	hardware	Vending & Kiosk Machines	Open source vending machine controller firmware	Build and operate open-controller vending machines
+arcbtc/bitcoinVend	86	MIT	hardware	Vending & Kiosk Machines	Offline bitcoin vending machine	Install bitcoin-accepting vending machines
+OceanographyforEveryone/OpenCTD	226	MIT	hardware	Water Monitoring & Purification	The OpenCTD is a low-cost, open-source CTD for researchers and citizen scientists. 	Sell low-cost ocean CTD probes to researchers
+mzakharo/tubby	118	MIT	hardware	Water Monitoring & Purification	Hot Tub & Pool Water Quality Sensor 	Sell hot tub water-quality monitors to pool services
+EnviroDIY/ModularSensors	90	NOASSERTION	hardware	Water Monitoring & Purification	An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.	Sell stream monitoring stations to watershed groups
+pkErbynn/IoT-WQMS	30	NONE	hardware	Water Monitoring & Purification	An IoT-based water quality monitoring and notification system for fish farmers to determine the physio-chemical parameters of aqua-cultured sites such as fish ponds. Built with esp32-arduino microcontroller, sensors (temperature, turbidity, pH, ultrasonic), Py	Install water monitoring for fish ponds / Pond water-quality alerts for fish farmers
+CodeForAfrica/sensors.AFRICA	26	GPL-3.0	hardware	Water Monitoring & Purification	sensors.AFRICA is a citizen-science focused project by Code for Africa that seeks to address data gaps by providing low cost sensors, which people can use to measure and monitor the quality of the air, water, and sound in their communities.	Deploy community water and air sensors with NGOs
+100prznt/EzoGateway	19	MIT	hardware	Water Monitoring & Purification	Open source UWP App, to brings the Atlas Scientific EZO™ devices in the Internet of Things. Per REST API you can fetch live measdata and calibrate connected sensors. Ideal for monitoring water quality in the pool.	Sell aquaculture water probes integrated with dashboards

@@ -1,0 +1,380 @@
+ury-erp/pulse	26	AGPL-3.0	industries	Restaurants & Food Trucks	URY Pulse - Reporting and analytics frappe app for URY providing insights on profitability and operations.	
+Vigneshgbe/Food-Delivery-Website	23	GPL-3.0	industries	Restaurants & Food Trucks	Welcome to our Food Delivery Website repository! Indulge in a gastronomic journey right from your browser. Developed by G.Vignesh, this dynamic website crafted with HTML, CSS, and JavaScript offers a seamless experience for browsing, ordering, and savoring a d	
+kpatel1989/restaurant-pos	22	NONE	industries	Restaurants & Food Trucks	The Restaurant-POS System facilitates the Restaurants/café to handle/track their customer‘s orders through a computerized system. Customers can place their orders from the tablets and the manager can track their orders from the browser in the computer on his d	
+DanielleYasso/where-the-truck	22	NONE	industries	Restaurants & Food Trucks	Community powered application that helps users find food trucks in San Francisco	
+shopizer-ecommerce/shopizer	3955	Apache-2.0	industries	Retail Boutiques	Shopizer java e-commerce software	
+pbatard/Fido	2925	GPL-3.0	industries	Retail Boutiques	A PowerShell script to download Windows or UEFI Shell ISOs	
+Tencent/tdesign-miniprogram-starter-retail	871	MIT	industries	Retail Boutiques	TDesign - 微信小程序 - 零售行业模板	
+hmmhmmhm/daiso-mcp	348	MIT	industries	Retail Boutiques	다이소·편의점 재고와 생활 정보를 AI에서 바로 조회하세요. 설치·API 키 없는 공개 MCP, 웹 링크 조회, CLI·Skill을 지원합니다.	
+practical-data-science/ecommercetools	286	MIT	industries	Retail Boutiques	EcommerceTools is a Python data science toolkit for ecommerce, marketing science, and technical SEO analysis and modelling and was created by Matt Clarke.	
+BrainWise-DEV/POSNext	173	AGPL-3.0	industries	Retail Boutiques	A modern, high-performance Point of Sale system for ERPNext with offline capabilities, real-time updates, and intuitive UI.	
+emb-ai/RoboBenchMart	85	MIT	industries	Retail Boutiques	RoboBenchMart: Benchmarking Robots in Retail Environment	
+Shreerang/Vue-Nuggets	81	NONE	industries	Retail Boutiques	E-commerce UI Nuggets based on Vue	
+surgieboi/zyla	78	NONE	industries	Retail Boutiques	The fastest full-stack headless commerce platform in the world.	
+Gigacore/react-shopping-cart	77	MIT	industries	Retail Boutiques	A simple shopping cart SPA written in React & Redux	
+intelligent-retail/smart-store	75	MIT	industries	Retail Boutiques		
+google/product_video_ads	73	Apache-2.0	industries	Retail Boutiques	Product Video Ads is a solution to build video Ads at scale.	
+GoogleCloudPlatform/genai-product-catalog	71	NONE	industries	Retail Boutiques	Google Cloud Product Cataloging Solution using Generative AI	
+enghwa/ecommerce-shopfront-on-aws	61	Apache-2.0	industries	Retail Boutiques	A high availability, API-first reference architecture for ecommerce using AWS services	
+xiaoshengxianjun/retailMall	56	NONE	industries	Retail Boutiques	一个基于vue开发的零售商城项目示例，采用了vux-UI框架	
+StefanoSaffran/gobarber	84	MIT	industries	Salons & Barbershops	💈✂️ GoBarber - A Barber Schedule App  - | - Developed during the bootcamp GoStack by @Rocketseat	
+dalpat98/Barber-Booking-App	83	NONE	industries	Salons & Barbershops	Barber Booking App (Part of Fashion recommendation system). You can see nearby available barbers and their services too. Book an appointment with barber on your preferred time and available slots. Fix an appointment and Do payment with great discount.	
+sakeraldakak/Salonek	50	NONE	industries	Salons & Barbershops	This project is aimed at the Sultanate of Oman and offers the ability to book appointments at women's beauty salons or request hairdressers to come to your home. Additionally, each salon has an online store to sell beauty products	
+Abhisheksingh0303/Salon-Management-System	37	NONE	industries	Salons & Barbershops	This is a web-based application designed to help salon owners and managers manage their business operations more efficiently.	
+s1lentCommit/manageBarber	32	MIT	industries	Salons & Barbershops	Management software for barber shops	
+liberapay/salon	29	NONE	industries	Salons & Barbershops	Liberapay's salon, where the discussions that don't belong elsewhere take place	
+mjoycemilburn/barbershop	21	GPL-3.0	industries	Salons & Barbershops	Html/Php barbershop booking and admin system for mobile phone operation. The system takes upfront payments via Paypal payments and is easily configured to suit local requirements.	
+OthmanAdi/BarbersBuddies_Onlineshop_maker	21	MIT	industries	Salons & Barbershops	✂️ The complete open-source booking platform for barbershops. React + Firebase + Stripe. Multi-language, dark mode, analytics, messaging & more.	
+lucasfdsilva/my-hair-done	19	NONE	industries	Salons & Barbershops	Project Developed as part of my final year in my BSc in Computing Degree at National College of Ireland. This is a cloud-native application supported by several AWS products. In this app I used Node.js with a few 3rd party libraries (express, bcryptjs, axios..	
+apgapg/DotMyStyle_App	19	NONE	industries	Salons & Barbershops	Official Flutter App of DotMyStyle	
+Kamil732/beauty-salon	18	CC0-1.0	industries	Salons & Barbershops	Fullstack Website for beauty salons, with big calendar and communication with customers. Built using Django, React (real-time)	
+rafaabatistas/98barbershop	18	CC0-1.0	industries	Salons & Barbershops	Website criado para a 98barbershop, barbearia localizada em Guarulhos-SP, que agora procura aumentar sua visibilidade criando sua localização no mundo digital.  	
+felipecastrosales/barbershop	16	MIT	industries	Salons & Barbershops	💈 Barbershop App developed with Flutter	
+WilsonKinyua/barber-shop-web-ui	15	NONE	industries	Salons & Barbershops		
+invisible-college/tawk.space	14	Apache-2.0	industries	Salons & Barbershops	Social video chats	
+UniSecurityGuard/UniSecurityGuard	890	NONE	industries	Security Guard Companies	本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。	
+AxoraSecurity/agentguard	490	MIT	industries	Security Guard Companies	Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry.	
+PricelessToolkit/Smart-Home-Security-Guardian-Bot	213	GPL-3.0	industries	Security Guard Companies		
+ZenGuard-AI/fast-llm-security-guardrails	155	MIT	industries	Security Guard Companies	The fastest Trust Layer for AI Agents	
+kahanu/Security-Guard	57	NONE	industries	Security Guard Companies	A complete ASP.NET MVC Membership Management system using the ASP.NET Membership System to be deployed using NuGet. Now available for MVC 4!!!	
+IceApriler/dsh-remote-mobile	48	MIT	industries	Security Guard Companies	DeepSeek Harness 远程与移动端安全网关插件：零修改 DSH 底层代码安全开放局域网与 Tailscale 连接 | DeepSeek Harness (DSH) Remote & Mobile Security Guard: safely opens Tailscale/LAN with zero core modifications, QR scan auth, RSA encryption & brute-force defense.	
+theluk/react-formular	42	NONE	industries	Security Guard Companies	This libraray is an experimental approach to bind forms and its inputs and editors together using the new React Context API. It aims to be fully customizable and composable. It´s only a set of Higher-Order-Components. Because of the decoupled nature, Middlewar	
+TimelifeCzy/Security-guard	39	NONE	industries	Security Guard Companies	安全卫士r3工具集	
+phpclaw-php/phpclaw-monorepo	32	MIT	industries	Security Guard Companies	Open-source AI agent framework for PHP. Tools, memory, security guards and a ReAct loop built in. Works with Laravel, Symfony, WordPress, Drupal, Magento, Joomla, OpenCart, PrestaShop. Any LLM provider. MIT.	
+naman16/AWS-Security-Guardrails-TF	31	NONE	industries	Security Guard Companies		
+SparkShieldLab/deepseek-harness-security-guard	26	MIT	industries	Security Guard Companies	A local, rule-based security guard for DeepSeek Harness agents. It hooks agent tool calls and prompt assembly and applies a policy table with allow / block / ask / warn decisions.	
+capsulesecurity/clawguard	23	MIT	industries	Security Guard Companies	Security guard plugin for OpenClaw - uses LLM as a Judge to detect and block risky tool calls	
+aryakvnust/LLMSecGuard	22	NONE	industries	Security Guard Companies	LLM Security Guard for Code	
+2pidata/openclaw-security-guard	16	NOASSERTION	industries	Security Guard Companies	Complete security layer for OpenClaw - CLI Scanner + Live Dashboard. Secrets detection, config hardening, prompt injection scanning, MCP server auditing. Zero telemetry.	
+sbnb-io/sunny-osprey	16	NONE	industries	Security Guard Companies	Sixth Sense for Security Guards - Powered by Google's Gemma 3n	
+bee-san/RustScan	20684	GPL-3.0	industries	Shipping & Ports	🤖 The Modern Port Scanner 🤖	
+captbaritone/webamp	11336	MIT	industries	Shipping & Ports	Winamp 2 reimplemented for the browser	
+valentderah/totk-pc-recomp	5594	MIT	industries	Shipping & Ports	Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.	
+SpaiR/imgui-java	829	MIT	industries	Shipping & Ports	JNI based binding for Dear ImGui	
+viti95/FastDoom	802	GPL-2.0	industries	Shipping & Ports	Doom port for DOS, optimized to be as fast as possible!	
+SmallRob/PLC-CommunTools	784	NONE	industries	Shipping & Ports	针对工业上位机的通讯测试工具类及实例。包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，努力完善中。	
+kaklakariada/portmapper	776	GPL-3.0	industries	Shipping & Ports	A tool for managing port forwardings via UPnP	
+terrychou/iVim	647	NONE	industries	Shipping & Ports	A vim port to iOS.	
+tiaanduplessis/kill-port	572	MIT	industries	Shipping & Ports	❌ Kill the process running on given port	
+Aaronius/penpal	569	MIT	industries	Shipping & Ports	Penpal simplifies communication with iframes, workers, and windows by using promise-based methods on top of postMessage.	
+TOMB5/TOMB5	520	MIT	industries	Shipping & Ports	Tomb Raider: Chronicles Disassembly translated to C source code.	
+nathanialf/ico-pc	504	NOASSERTION	industries	Shipping & Ports	PC, Android, iOS and macOS port of the ICO (PS2) decompilation (nathanialf/ico): Windows, Linux, Steam Deck, Android, iPhone via LiveContainer and Apple-silicon Mac (contributed). Contains no game data.	
+Shagg88/COGBox	413	MIT	industries	Shipping & Ports	This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.	
+elddy/NimScan	410	MIT	industries	Shipping & Ports	🚀 Fast Port Scanner 🚀	
+node-modules/detect-port	394	MIT	industries	Shipping & Ports	Node.js module to detect available ports of the system.	
+intel/pcm	3357	BSD-3-Clause	industries	Solar & Energy	Intel® Performance Counter Monitor (Intel® PCM)	
+protontypes/open-sustainable-technology	2583	CC-BY-4.0	industries	Solar & Energy	A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc	
+hubblo-org/scaphandre	2017	Apache-2.0	industries	Solar & Energy	⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !	
+node-opcua/node-opcua	1671	MIT	industries	Solar & Energy	Unlocking the Full Potential of OPC UA with Typescript and NodeJS - http://node-opcua.github.io/	
+owid/co2-data	776	NONE	industries	Solar & Energy	Data on CO2 and greenhouse gas emissions by Our World in Data	
+greensoftwarelab/Energy-Languages	713	MIT	industries	Solar & Energy	The complete set of tools for energy consumption analysis of programming languages, using Computer Language Benchmark Game	
+PyPSA/pypsa-eur	630	NONE	industries	Solar & Energy	PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System	
+riclolsen/json-scada	502	GPL-3.0	industries	Solar & Energy	A portable and scalable SCADA/IIoT-I4.0/Gateway platform centered on the MongoDB database server.	
+monocongo/climate_indices	461	BSD-3-Clause	industries	Solar & Energy	Climate indices for multi- and compound-hazard monitoring (drought, flood, wildfire, energy)	
+gridstatus/gridstatus	454	BSD-3-Clause	industries	Solar & Energy	Extract data from ISOs and other energy grid sources	
+JGCRI/gcam-core	436	NOASSERTION	industries	Solar & Energy	GCAM -- The Global Change Analysis Model	
+owid/energy-data	436	NONE	industries	Solar & Energy	Data on energy by Our World in Data 	
+oemof/oemof-solph	428	NONE	industries	Solar & Energy	A model generator for energy system modelling and optimisation (LP/MILP).	
+wind-python/windpowerlib	396	MIT	industries	Solar & Energy	The windpowerlib is a library to model the output of wind turbines and farms.	
+ml-energy/zeus	386	Apache-2.0	industries	Solar & Energy	Measure and optimize the energy consumption of your AI applications!	
+learning-gardens/cybernetics-club	141	NONE	industries	Sports Clubs & Leagues	:arrows_clockwise: Cybernetics Reading Club	
+Times-0/Timeline	74	GPL-3.0	industries	Sports Clubs & Leagues	AS2 & AS3 CPPS Emulator, written in Python. (Club Penguin Private Server Emulator)	
+ucu-computer-science/UCU_Linux_Club	55	GPL-3.0	industries	Sports Clubs & Leagues	UCU Linux Club repository - all materials, Homeworks etc	
+wechaty/bot5	39	Apache-2.0	industries	Sports Clubs & Leagues	Bot Friday Club - BOT5	
+raysan5/raylib-code-club	27	Zlib	industries	Sports Clubs & Leagues	A code club for raylib library.	
+offbeatcc/cses	26	NONE	industries	Sports Clubs & Leagues	CSES problem solving club solutions, notes, and website. Solution programs in 'code' directory. Additional notes at https://offbeat.cc/cses/boards/.	
+brisbanesocialchess/brisbanesocialchess.github.io	24	MIT	industries	Sports Clubs & Leagues	Brisbane Social Chess Inc is a community-focused website dedicated to chess enthusiasts in Brisbane. Our goal is to provide news, events, resources, and a platform for social chess activities ♟️	
+R00tS3c/BootMe.club-Nulled	22	GPL-3.0	industries	Sports Clubs & Leagues	BootMe.club stresser Source Nulled by RootSec	
+ufosc/SwampScheduler	21	AGPL-3.0	industries	Sports Clubs & Leagues	The future of scheduling is here.	
+2662419405/Studyit-club	16	MIT	industries	Sports Clubs & Leagues	​:broken_heart:     ​针对校社团开发的一套IT俱乐部官网 -> http://sunhang.gz01.bdysite.com/	
+ClubInfoInsaT/latex-templates-insa-toulouse	15	GPL-2.0	industries	Sports Clubs & Leagues	LaTeX templates de l'INSA Toulouse 	
+UndergraduateArtificialIntelligenceClub/website	15	MIT	industries	Sports Clubs & Leagues	This is our rad 90's website.	
+thefossclub/thefossclub.github.io	13	GPL-2.0	industries	Sports Clubs & Leagues	This repository contains the code of the current official website of The FOSS Club	
+fsxfreak/club-suite	12	MIT	industries	Sports Clubs & Leagues	Club Suite is a platform where you can create a club, manage your club's finances, keep track of members, and plan events.	
+evpc-club/EVHS-Programming-Club	12	NONE	industries	Sports Clubs & Leagues	The public GitHub repo for the EVHS Programming Club	
+TimefoldAI/timefold-quickstarts	604	Apache-2.0	industries	Staffing & Recruiting	Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.	
+yangyunice/WorkMesh	95	MIT	industries	Staffing & Recruiting	Open-source AI-era employment platform connecting skills, jobs, enterprises, governance, and AI agents.	
+rodrigo-arenas/pyworkforce	91	MIT	industries	Staffing & Recruiting	Standard tools for workforce management, queuing, scheduling, rostering and optimization problems.	
+SirChri/employee-shift-scheduler	78	GPL-3.0	industries	Staffing & Recruiting	A simple employee shift scheduler, based on React, Java (SpringBoot) and PostgreSQL.	
+galojix/roster-wizard	65	MIT	industries	Staffing & Recruiting	An automatic rostering system that can handle skill mix requirements, staff requests and shift sequence rules	
+radevgit/selen	40	MIT	industries	Staffing & Recruiting	Constraint Satisfaction Problem (CSP) Solver	
+bizley/timeclock	36	MIT	industries	Staffing & Recruiting	Simple work time clocking service	
+agenticmail/enterprise	25	NOASSERTION	industries	Staffing & Recruiting	Enterprise AI Agent Platform — Identity, Email, Compliance, Microsoft 365 & Google Workspace integration, SOC 2 reporting, DLP, multi-tenant workforce management	
+antpngl92/allPOS	16	NONE	industries	Staffing & Recruiting	Final Year Project: EPOS web application implementing an electronic point of sale interface,  sales analytics, sales weekly/monthly/yearly reports, employee scheduling functionality, stock management, and intuitive decision making automatic raw goods ordering.	
+j3soon/nurse-scheduling	15	AGPL-3.0	industries	Staffing & Recruiting	An open-source web app for automated nurse schedule optimization, with a flexible backend for complex real-world constraints, proven in hospital wards, and featuring an experimental AI scheduling assistant.	
+gstvbatista/mod_turbotab	14	GPL-3.0	industries	Staffing & Recruiting	CLI-first TurboTable-style calculations (Erlang B/C/A, staffing, queue, trunks) for contact-center planning.	
+kitokoh/leopardo-hr	14	MIT	industries	Staffing & Recruiting	Leopardo — the Business OS for field-based companies: HR & payroll, attendance, CRM, accounting, operations. Web, mobile, kiosks. Free business packs for your trade.	
+Destripador/empleados	12	NOASSERTION	industries	Staffing & Recruiting	🚀 Employees Management Module for Nextcloud A complete employee management solution for Nextcloud, enabling businesses to efficiently handle employee records, roles, payroll, attendance, and document storage—all within their Nextcloud environment.	
+BlackPearl-AI/BlackPearl-CodingAgent	10	NONE	industries	Staffing & Recruiting	BlackPearl — DeepSeek-powered AI agent harness and orchestration ecosystem with 286+ skills, 273+ specialist agents, plugins, security, QA and automation.	
+Idean/sonar-swift	914	NOASSERTION	industries	Tailors & Apparel	Open source Swift plugin for SonarQube (also supports Objective-C)	
+jpntex/TextTailor.js	284	NONE	industries	Tailors & Apparel	jQuery plugin, tailor made text to fill the height of the parent element or ellipse it if it doesn't fit	
+Ubani-Studio/clo3d-mcp	50	MIT	industries	Tailors & Apparel	MCP server for CLO3D. Control 3D garment design from Claude, Cursor, or any MCP client.	
+cdrinmatane/Costumy	43	GPL-3.0	industries	Tailors & Apparel	Costumy is an open source prototype that turns 2D clothing patterns into 3D garments	
+nuwandda/ai-clothing-fashion-design-generator	26	MIT	industries	Tailors & Apparel	Transform your fashion design process with the Fashion Design Generator and unleash your creativity like never before.	
+narender-rk10/Gen-AI-Virtual-Try-On-Clothes	18	NONE	industries	Tailors & Apparel	Gen AI-Powered Virtual Try-On Clothes Platform Upload any model and garment image to preview realistic try-on results instantly. Built with Google Gemini, FastAPI, and React. Ideal for fashion, retail, and e-commerce.	
+icaife/tailor	17	NONE	industries	Tailors & Apparel	tailor for toursforfun	
+morriq/microservices-webpack-plugin	15	NONE	industries	Tailors & Apparel	 Prevent loading scripts which are already loaded in another micro-app 	
+CT83/Rumaro	13	NONE	industries	Tailors & Apparel	[Failed] AI to recognize emotions, apparel, body pose and activity in images,  and measure how they affect audience engagement. ie. likes and comments.	
+RDreamStudios/FashionAIStudio	13	MIT	industries	Tailors & Apparel	Fashion design platform powered by Stable Diffusion XL Turbo.	
+feronikanm/gojahit-client	12	Apache-2.0	industries	Tailors & Apparel	GoJahit - Aplikasi Pencari Penjahit Berbasis Android Menggunakan Teknologi Location Based Services dan Metode SMART. Teknologi Location Based Services (LBS) digunakan untuk penentuan lokasi, sedangkan metode SMART digunakan untuk perangkingan penjahit.	
+wory-bonbon/minna-no-dxf	12	NOASSERTION	industries	Tailors & Apparel		
+jinglong921284-code/aesthetic-print-designer	11	NOASSERTION	industries	Tailors & Apparel	Portable agent skill for original fashion textile print design, repeat validation, colour specifications, and production handoff.	
+zyadhajaji/threadforge	10	MIT	industries	Tailors & Apparel	Open-source mockup platform for clothing brands — t-shirt mockup generator, brand kit, collections & exports. Built with Next.js 14, Fabric.js, Prisma, Stripe.	
+YanKaFei/Costume-Director-Vault-Starter	10	NONE	industries	Tailors & Apparel	Costume Director Vault Starter，服装视觉知识库，结构、材质、Prompt与角色造型研究笔记。	
+taehoonlee/tensornets	994	MIT	industries	Theme Parks, Zoos & Attractions	High level network definitions with pre-trained weights in TensorFlow	
+masterking32/MasterCryptoFarmBot	247	CC0-1.0	industries	Theme Parks, Zoos & Attractions	MasterCryptoFarmBot is a foundational system for building crypto farming and airdrop bots for Telegram-based games.	
+JBZoo-CCK/JBZoo	172	NOASSERTION	industries	Theme Parks, Zoos & Attractions	JBZoo Community Edition (Free, Full, Professional and GPL)	
+cu1ch3n/type-inference-zoo	157	MIT	industries	Theme Parks, Zoos & Attractions	🦖 Implementations of various type inference algorithms. The new project is now at https://github.com/cu1ch3n/type-inference-zoo-frontend.	
+gabrieldim/SkopjeGuide	105	NONE	industries	Theme Parks, Zoos & Attractions	Click here to see this app: https://skopjeguide.netlify.app/ New version here: https://skopjeguidedocker.netlify.app/	
+Shadow60539/zoo_app	62	NONE	industries	Theme Parks, Zoos & Attractions	Flutter UI Challenges	
+zhaoyunxing92/docker-case	35	MIT	industries	Theme Parks, Zoos & Attractions	这个项目主要是为了快速拉起docker服务	
+troglobit/zoo	27	Unlicense	industries	Theme Parks, Zoos & Attractions	public domain zoo archive tool	
+qsharp-community/algorithm-zoo	20	MIT	industries	Theme Parks, Zoos & Attractions	Implementations of algorithms from http://quantumalgorithmzoo.org/	
+Yoctol/yoctol-keras-layer-zoo	19	GPL-3.0	industries	Theme Parks, Zoos & Attractions	Some customized keras layers used in Yoctol NLU.	
+szaghi/ZOO	19	NONE	industries	Theme Parks, Zoos & Attractions	ZOO, Zaghi fOrtran cOllection, where my wild Fortran pets will survive	
+catppuccin/theme.park	18	MIT	industries	Theme Parks, Zoos & Attractions	🎢 Soothing pastel theme for theme.park	
+sp00nznet/themepark-recomp	16	NOASSERTION	industries	Theme Parks, Zoos & Attractions	Static recompilation of Bullfrog's Theme Park (DOS, 1994) to native Windows with pcrecomp. Bring your own GOG copy.	
+drum-n-bass/kinetics	16	NONE	industries	Theme Parks, Zoos & Attractions	Versatile and easy to use open source javascript particle system that interacts with page elements	
+SirRmelTheThird/RigetZooAdventures	12	MIT	industries	Theme Parks, Zoos & Attractions	A zoo booking platform where visitors can explore animal habitats, learn about wildlife, book tickets and accommodation, and securely complete payments online.	
+GeotrekCE/Geotrek-admin	152	BSD-2-Clause	industries	Tourism & Tour Operators	Paths management for National Parks and Tourism organizations	
+iamjatinchauhan/tourindia	77	NONE	industries	Tourism & Tour Operators	Tourism Website Portfolio which displays travel destinations across Country. Features several sections, a portfolio grid (tourist-places), Blogs and About us Section.	
+Omkar-Sonawane-23/Tourism	45	NONE	industries	Tourism & Tour Operators		
+Hsuant/LifeLens	41	NOASSERTION	industries	Tourism & Tour Operators	本项目旨在构建一个全自动爬虫，用于爬取携程、去哪儿、马蜂窝、美团等平台上的景点、美食和酒店等信息。通过机器学习技术，我们将对这些信息进行情感分析、词云分析、距离热图分析和可视化等深度分析。这将有助于用户、地方更好地了解各类景点、酒店和美食的评价和特点，从而做出更明智的选择和发展决策	
+salil-gtm/SmartTourister	34	NONE	industries	Tourism & Tour Operators	We have developed a fully AI/ML-based itinerary recommendation system which when used by people coming to visit any place would allow them to better optimize their cost/time. We have 3 developed 3 inputs that are Scraping Twitter, UI Form, and FB Chatbot	
+ChenChenDS/Tourism-data-analysis	29	NONE	industries	Tourism & Tour Operators	The international travel & tourism sector is growring at a fast pace. The World Travel and Tourism Council (WTTC) report found that the travel & tourism industry generated 10.4 percent of all global economic growth. Tourism is not only a kind of leisure, it is	
+geometalab/aoi-osm	27	BSD-3-Clause	industries	Tourism & Tour Operators	Areas-of-Interest (AOI) for and with OpenStreetMap.	
+Sewvandiii/tour-package-reservation	27	MIT	industries	Tourism & Tour Operators	🛩 This is a tourism website that contains tourism packages. With this website, anyone can find all the details about their next vacation place.	
+O-Plums/Oppidums	25	MIT	industries	Tourism & Tour Operators	Oppidums is open source app that provide cultural, historical and touristic information on different cities.	
+mzdm/virtual_traveller_flutter	23	MIT	industries	Tourism & Tour Operators	Cross-platform Application (Mobile, Web, Desktop): Travel virtually and discover interesting destinations.	
+wasitkrish/NepTour	17	Apache-2.0	industries	Tourism & Tour Operators	NepTour is a tourism website designed to help improve your experience of visiting Nepal	
+MohammadJamali/beautiful-destinations	14	NONE	industries	Tourism & Tour Operators	A tourism flutter application ( Beautiful Destinations Mockup )	
+HelsinkiUniCollab/WeatherBasedRecommender	13	MIT	industries	Tourism & Tour Operators		
+Africa-Fast-Ferry/africaferry	13	MIT	industries	Tourism & Tour Operators	Smart Contract and Tokenization Framework for Africa Fast Ferry Ltd Compliant with SEC Regulation D Rule 506(c) and Regulation S — Combining Regulated Equity (AFFEQ) and Revenue-Sharing (AFFR) Tokens based on ERC-3643 Standards. 	
+perfect-less/KemanaKita	12	NONE	industries	Tourism & Tour Operators	"We will accompany you to the end of the heavens! Just tell us your destination in KemanaKita!."	
+jackmorgan/the-plain-contract	311	NONE	industries	Trades (Plumbing, Electrical, HVAC)	The Plain Contract is a crowsourced, open source freelance contract template, written in plain language.	
+tektoncd/plumbing	66	Apache-2.0	industries	Trades (Plumbing, Electrical, HVAC)	This repo holds configuration for infrastructure used across the tektoncd org 🏗️	
+peterpeterparker/daviddalbusco.com	28	MIT	industries	Trades (Plumbing, Electrical, HVAC)	Freelance Web Engineer	
+kelvinst/plumbing	8	MIT	industries	Trades (Plumbing, Electrical, HVAC)	Useful functions to work with Elixir pipes.	
+nesvet/cv	8	NONE	industries	Trades (Plumbing, Electrical, HVAC)	Curriculum vitae of an independent software contractor based in Tbilisi.	
+DerekEubanks/Revit-Addin-Full-FU-Flow-Range-Plumbing-Fixture-Flow-Server	7	MIT	industries	Trades (Plumbing, Electrical, HVAC)	Revit C# plumbing fixture flow server overrides the default Revit behavior for predominantly flush valve systems by applying accurate flow interpolation for fixture unit (FU) values below 5, where Revit otherwise assigns a fixed and oversized 15 GPM. Using 202	
+ioBroker/ioBroker.vis-plumb	6	MIT	industries	Trades (Plumbing, Electrical, HVAC)	Widgets for ioBroker.vis to visualise pipes, pumps and tanks.	
+bkeating/3057MainSt	6	NONE	industries	Trades (Plumbing, Electrical, HVAC)	🏠 Managing my home renovations & maintenance as a software project	
+phelipefox/util-eoscontractor	6	GPL-3.0	industries	Trades (Plumbing, Electrical, HVAC)	Useful commands for elementary os context menu	
+sirjofri/plumbmon	5	NONE	industries	Trades (Plumbing, Electrical, HVAC)	Plumber monitor for plan 9 systems	
+kspenc97/general-contractor-diagnostic-tool	5	NONE	industries	Trades (Plumbing, Electrical, HVAC)	A diagnostic tool meant for customers of a general contractor that need assistance on an issue in their home. Video Demonstration of Application - https://www.youtube.com/watch?v=U_uNkE9pQbo	
+TohmaN233/YN-translation-workshop	234	MIT	industries	Translation & Interpreting Agencies	Open-source AI translation and proofreading workbench for long-form fiction and game localization. Choose all-AI, fully manual or mixed workflows, with glossary and character management, automatic format preservation, independent review, translation reuse and 	
+bfsujason/bertalign	166	GPL-3.0	industries	Translation & Interpreting Agencies	Multilingual sentence alignment using sentence embeddings	
+AI4Bharat/Chitralekha	119	MIT	industries	Translation & Interpreting Agencies	Chitralekha - A video transcreation platform for Indic languages, supporting transcription, translation and voice-over	
+johnoneil/arib	80	MIT	industries	Translation & Interpreting Agencies	Japan Association of Radio Industries and Businesses (ARIB) MPEG2 Transport Stream Closed Caption Decoding Tools	
+Supervertaler/Supervertaler-Workbench	62	MIT	industries	Translation & Interpreting Agencies	Free, open-source standalone CAT tool: editor, AI translation, termbases, TMs, plus system-wide clipboard manager, SuperLookup, QuickTrans and voice dictation.	
+hlt-mt/FBK-fairseq	60	NOASSERTION	industries	Translation & Interpreting Agencies	Repository containing the open source code of works published at the FBK MT unit.	
+translate5/translate5	55	NOASSERTION	industries	Translation & Interpreting Agencies	Translate5: Data-sovereign language intelligence and orchestration platform — open source	
+AllenXiao95/Game-Localizer	45	GPL-3.0	industries	Translation & Interpreting Agencies	A traceable game localization pipeline with translation memory, model-assisted workflows, QA gates, human review, artifact builds, and multi-target publishing.	
+VadlapatiKarthik/autoclipper	41	NONE	industries	Translation & Interpreting Agencies	AI-powered Auto-Clipper: automatically detects highlight segments from YouTube channels, Twitch/Kick live streams (via audience-retention data, chat spikes and timestamped comments), clips them with FFmpeg, generates subtitles using Whisper, and uploads them t	
+moaljumaa/halfwayml_open	37	NOASSERTION	industries	Translation & Interpreting Agencies	Open source tool for transcirption and subtitling, alternative to happyscribe.	
+nidhaloff/Translator-pp	28	MIT	industries	Translation & Interpreting Agencies	A cross platform all in one translator app	
+KlaraGraff/XL_Translator	28	MIT	industries	Translation & Interpreting Agencies	大模型文档翻译工具，支持 Excel 翻译、Word 翻译、PPT 翻译、PDF 翻译、CAD 图纸翻译（DWG/DXF）和字幕翻译（SRT/VTT/ASS），双语对照输出，带翻译记忆库，适用于 macOS 和 Windows。Translate Excel, Word, PowerPoint, PDF, CAD drawings and subtitles with any LLM (OpenAI, Claude, DeepSeek, Qwen, Ollama). AI document translator w	
+iloha-openlab/omegat-textra-plugin	28	GPL-3.0	industries	Translation & Interpreting Agencies	OmegaT plugin to use TexTra(R) powered by NICT	
+ebu/ebu-tt-live-toolkit	27	BSD-3-Clause	industries	Translation & Interpreting Agencies	Toolkit for supporting the EBU-TT Live specification	
+l10n-tw/designing-with-libreoffice	20	NOASSERTION	industries	Translation & Interpreting Agencies	The work to translate Designing with LibreOffice book into traditional Chinese.	
+BruTile/BruTile	376	Apache-2.0	industries	Trucking & Freight	BruTile is a .NET library to access tile services like those of OpenStreetMap, MapBox or GeodanMaps.	
+osmlab/editor-layer-index	269	NOASSERTION	industries	Trucking & Freight	A unified layer index for OSM editors.	
+emoss08/Trenova	219	NOASSERTION	industries	Trucking & Freight	An AI-driven asset based Transportation Management System	
+olist/correios	175	Apache-2.0	industries	Trucking & Freight	A client library for Brazilian Correios APIs and services (SIGEP & SRO).	
+gumblex/tms2geotiff	169	BSD-2-Clause	industries	Trucking & Freight	Download tiles from Tile Map Server (online maps) and make a large geo-referenced image	
+MapServer/mapcache	152	NOASSERTION	industries	Trucking & Freight	MapCache source code directory. Please submit pull requests to the 'main' branch. 	
+apdevelop/tile-map-service	128	MIT	industries	Trucking & Freight	Tile server for .NET8 with MBTiles, Filesystem, GeoTIFF, HTTP sources and XYZ, TMS, WMTS, WMS endpoints (protocols support) and various output formats	
+geodesign/django-raster	99	BSD-3-Clause	industries	Trucking & Freight	Django-raster allows you to create tiled map services (TMS) and raster map algebra end points for web maps.  It is Python-based, and requires GeoDjango with a PostGIS backend.	
+brunoleocam/Documentacao-LSP-Linguagem-Senior-de-Programacao	89	MIT	industries	Trucking & Freight	Documentação - LSP - Linguagem Senior de Programação	
+geotrellis/geotrellis-server	80	Apache-2.0	industries	Trucking & Freight	Tools for building raster processing and display services	
+SAP/cloud-integration-delivery-orchestrator	71	Apache-2.0	industries	Trucking & Freight	Orchestrate SAP Cloud Integration delivery across multi-tenant landscapes — replace repetitive manual steps with a single governed workflow.	
+godwindasc7-bot/Trucker-Tuning-Companion	68	NONE	industries	Trucking & Freight	Best Euro Truck Simulator 2 Windows 11 Performance Guide and Trainer Hub 2026	
+bulokno-wq/Euro-Truck-2-Trainer-Hub	56	NONE	industries	Trucking & Freight	Euro Truck Simulator 2 Companion Tool 2026: Best Windows 11 Setup Guide for Virtual Truckers	
+Satyam0e/Euro-Truck-2-Route-Forge	55	NONE	industries	Trucking & Freight	Euro Truck Simulator 2 Pro Tuning Suite 2026 Full Setup Guide	
+pboyd04/Moto.Net	53	Apache-2.0	industries	Trucking & Freight	A C# client to handle MotoTrbo including native wire line communication, LRRP, and TMS	
+plastic-labs/tutor-gpt	933	GPL-3.0	industries	Tutoring & Private Schools	AI tutor powered by Theory-of-Mind reasoning	
+CMU-HKN/CMU-ECE-CS-Guide	683	NONE	industries	Tutoring & Private Schools	How to survive CMU as an ECE/CS major	
+pb-/gotypist	130	Unlicense	industries	Tutoring & Private Schools	A touch-typing tutor	
+flysheep-ai/education-skills	123	MIT	industries	Tutoring & Private Schools	教育类 Claude Code Skills 集合 - 包含各类教学辅导和学习支持工具	
+t1112000/tutor-management-app	110	MIT	industries	Tutoring & Private Schools	MyClass — open-source private tutoring management (students, schedules, bills, VN timezone). Next.js 15 + Postgres. Self-hosted.	
+iwangjian/Coding-Tutor	92	Apache-2.0	industries	Tutoring & Private Schools	[ACL 2025 Findings] Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case of LLMs as Your Coding Tutors	
+SeeLook/nootka	47	GPL-3.0	industries	Tutoring & Private Schools	Application for practicing playing musical scores, for ear training as well.	
+eth-lre/mathtutorbench	46	NONE	industries	Tutoring & Private Schools	Benchmark for Measuring Open-ended Pedagogical Capabilities of LLM Tutors, EMNLP 2025 Oral	
+rizukirr/no-vibe	46	MIT	industries	Tutoring & Private Schools	Turn your AI coding agent into a tutor. It learns your level and adapts to you	
+mirzayasirabdullahbaig07/EduGemma-AI-Tutor	44	NONE	industries	Tutoring & Private Schools	Your adaptive AI tutor, powered by Gemma 4. Ask me anything — I'll explain it at exactly your level, grounded in curriculum knowledge.	
+ndpvt-web/deeptutor-claude-skill	42	NOASSERTION	industries	Tutoring & Private Schools	Claude Code skill adapting DeepTutor's graph-enhanced RAG tutoring methodology. Knowledge graphs, dual-loop solving, research reports, adaptive questions. Based on HKUDS/DeepTutor.	
+JuchiaLu/tutor-server	36	NONE	industries	Tutoring & Private Schools	基于Spring Cloud全家桶的分布式微服务C2C模式RESTful风格前后端完全分离的在线家教预约平台	
+tryskilly/skilly	34	Apache-2.0	industries	Tutoring & Private Schools	Skilly :  A voice-first AI tutor that watches your screen	
+lowwwbank/anything-to-course	33	MIT	industries	Tutoring & Private Schools	Universal AI agent skill that turns any material into learning-science-based self-study courses with retrieval practice, spaced repetition, and tutor mode.	
+jurimaxam-dotcom/chemdraw-mcp	29	Apache-2.0	industries	Tutoring & Private Schools	Draw chemistry from chat: names or SMILES → publication-ready 2D structures, reaction schemes and curved-arrow mechanisms. PNG/SVG rendered offline with RDKit. MCP server for Claude Desktop (unofficial; CDXML export optional).	
+vet-run/vet	1208	MIT	industries	Veterinary Clinics	vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to	
+nishanths/exhaustive	350	NOASSERTION	industries	Veterinary Clinics	Check that expression switches and type switches in Go source code are exhaustive.	
+harksys/npmvet	207	MIT	industries	Veterinary Clinics	A simple CLI tool for vetting npm package versions	
+jennaallen/dog_days	53	NONE	industries	Veterinary Clinics	Using AWS RDS and S3 to store data about my dogs' vaccination and medical records. Creating an R shiny app to keep track of and share records with vets. :dog: :dog:	
+OpenVet-Projects/VetClaw	47	MIT	industries	Veterinary Clinics	The first veterinary AI skill library for OpenClaw. 51 species-aware, safety-first skills + openFDA reference clients for clinical, pharma, and diagnostic workflows.	
+nishanths/predeclared	31	NOASSERTION	industries	Veterinary Clinics	Find declarations that shadow any of Go's predeclared identifiers	
+kocaqi/PetStoreAndClinic	27	NONE	industries	Veterinary Clinics	Spring Boot + React Software for a Pet Shop and Veterinary	
+oldauntie/ababu	26	AGPL-3.0	industries	Veterinary Clinics	Problem oriented, open source multi-platform veterinary practice management software	
+carlosribas/medvet	19	NONE	industries	Veterinary Clinics	An open source system for vets	
+ihorkovich/Veterinary-clinic	18	NONE	industries	Veterinary Clinics	Veterinary Clinic built with React + Firebase	
+enderahmetyurt/veterinary-list-api	17	MIT	industries	Veterinary Clinics	Veterinary List REST API	
+ClaudiaRojasSoto/DB_Vet_Clinic	16	MIT	industries	Veterinary Clinics	Dive into the World of Veterinary Care 🏥 : Embark on a journey to build a comprehensive veterinary clinic database. Craft intricate tables using SQL, input data with care, and unleash the power of queries. Our aim: a seamlessly organized relational database fo	
+abhi-abhi86/disease-predictor	13	MIT	industries	Veterinary Clinics	AI disease detection and prediction for humans, plants, and animals. Complete ML project with custom training, offline operation, no API keys. Detect diseases from images using deep learning and computer vision. Open-source disease detection system for healthc	
+deerborg/VeterinaryManagementAPI	10	MIT	industries	Veterinary Clinics	VetApp is a veterinary management system built on Java with Spring Boot. It streamlines clinic operations, offering essential features like appointment scheduling, animal records, and vaccine tracking through RESTful APIs.	
+enderahmetyurt/veterinary-list	10	MIT	industries	Veterinary Clinics	Veterinary list in Turkey	
+openshiporg/openship	1664	AGPL-3.0	industries	Warehousing & 3PL	Open source order router connecting sales channels to fulfillment, built on Next.js and Keystone.js	
+san089/goodreads_etl_pipeline	1553	MIT	industries	Warehousing & 3PL	An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.	
+tensorbase/tensorbase	1460	Apache-2.0	industries	Warehousing & 3PL	TensorBase is a new big data warehousing with modern efforts.	
+siamon123/warehouse-inventory-system	468	MIT	industries	Warehousing & 3PL	Open source inventory management system with php and mysql	
+merschformann/RAWSim-O	265	GPL-3.0	industries	Warehousing & 3PL	A simulation framework for Robotic Mobile Fulfillment Systems	
+TtBigdata/ambari-env	239	Apache-2.0	industries	Warehousing & 3PL	Ambari+Bigtop一站式解决方案	
+totalhack/zillion	207	MIT	industries	Warehousing & 3PL	Make sense of it all. Semantic data modeling and analytics with a sprinkle of AI. https://totalhack.github.io/zillion/	
+sair-lab/GroundSLAM	167	GPL-3.0	industries	Warehousing & 3PL	GroundSLAM: A Robust Visual SLAM System for Warehouse Robots Using Ground Textures	
+LyapunovJingci/Warehouse_Robot_Path_Planning	162	MIT	industries	Warehousing & 3PL	A multi agent path planning solution under a warehouse scenario using Q learning and transfer learning.🤖️	
+WayneChou-bot/WareTwin	158	MIT	industries	Warehousing & 3PL	Real-time 3D digital twin of an autonomous warehouse — 20 AMRs, deterministic simulation, explainable fleet scheduling, failure injection, VLM camera perception, AI Ops Copilot and what-if scenarios. React Three Fiber + FastAPI.	
+danthegoodman1/icedb	153	NOASSERTION	industries	Warehousing & 3PL	An in-process Parquet merge engine for better data warehousing in S3 with MVCC	
+SAMMiCA/ChangeSim	140	MIT	industries	Warehousing & 3PL	A multi-modal, photo-realistic dataset for online end-to-end scene change detection and more (accepted to IROS2021).	
+WeBankFinTech/Streamis	114	Apache-2.0	industries	Warehousing & 3PL	Streaming application development and management system, based on Linkis and DSS, planning to provide the workflow-like graphical drag-and-drop development capability.	
+tswawa/xianyu-saas	105	GPL-3.0	industries	Warehousing & 3PL	闲鱼多店铺智能运营系统，集成 AI 客服、自动发货、商品知识库与智能运维。	
+Unity-Technologies/Robotics-Warehouse	94	Apache-2.0	industries	Warehousing & 3PL	A warehouse environment for robotics simulation in Unity.	
+bruxy70/Garbage-Collection	395	MIT	industries	Waste Management & Recycling	🗑 Custom Home Assistant sensor for scheduling garbage collection (or other regularly re-occurring events - weekly on given days, semi-weekly or monthly)	
+imlakshay08/waste-management-system	86	NONE	industries	Waste Management & Recycling	This project is for EcoHacks Hackathon 2022. This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities.	
+nikhilvenkatkumsetty/TrashBox	71	NONE	industries	Waste Management & Recycling	Dataset of trash objects for waste classification and detection	
+DomoticaFacile/raccolta_rifiuti	49	MIT	industries	Waste Management & Recycling	Gestione della raccolta rifiuti per Home Assistant	
+hegdepavankumar/smart-garbage-monitoring-system-using-iot	31	Apache-2.0	industries	Waste Management & Recycling	The Project promising solution to revolutionize waste management. By leveraging IoT technology, it enables real-time monitoring, efficient resource allocation, and data-driven decision-making. also it has the potential to contribute significantly to environmen	
+vinalbagaria/Garbage_Truck_Monitoring_System	29	NONE	industries	Waste Management & Recycling	A Web application for automatic smart route generation for day-to-day garbage collection which minimizes the fuel consumption of garbage trucks by providing systematic routes on the basis of real time percentage level of garbage in the bins, capacity of trucks	
+Suvoo/TrashCan	26	NONE	industries	Waste Management & Recycling	Automatic Garbage Seggregation Application using Deep Learning	
+adithyaanilkumar/ZeW-IT	25	GPL-2.0	industries	Waste Management & Recycling	Zero Waste Intergrated Technology is an automated waste segregation and managment system.	
+Lakhankumawat/sort_it	24	MIT	industries	Waste Management & Recycling	✅Nothing is waste, but it becomes one when it is in the wrong place ,🤷but who has the time to sort it and put it at its right place? That\'s what ♻️Sort lt- app does! puts your waste in the right place.🚯 Not every waste is landfill , take a step towards greene	
+Harsh9524/AquaTrash	24	MIT	industries	Waste Management & Recycling	A dataset of Trash Images for the proper waste management and protection of Aquatic Life	
+AJAY2-R/WasteManagementSystem	17	NONE	industries	Waste Management & Recycling	The Waste Management System is a comprehensive solution aimed at transforming waste collection, processing, and recycling practices to achieve enhanced efficiency and environmental sustainability. This system is developed using Python and Django.	
+tanishq-ctrl/waste-classification	17	NONE	industries	Waste Management & Recycling	A deep learning-based web application that classifies different types of waste materials using computer vision. The system helps in proper waste segregation by identifying whether an item belongs to categories like cardboard, glass, metal, paper, plastic, or t	
+jonkristian/wasteplan_trv	15	MIT	industries	Waste Management & Recycling	Home Assistant component for Trondheim renholdsverk pickups.	
+C4J/Commander4j	14	NONE	industries	Waste Management & Recycling	Commander4j Production Recording and Labelling using EAN128 barcodes. Now includes Weight Checks, Waste Logging, Quality Control and much more. Supports mySQL, MS SQL Server and Oracle Databases. Java Swing Client and Javascript web pages for Zebra/Motorolla/S	
+pra17dod/Waste-Segregation	12	Apache-2.0	industries	Waste Management & Recycling	Waste Segregation @HackBash2021 : ML based deployed waste segregation web app	
+jordanbaird/Ice	29981	GPL-3.0	industries	Water Utilities	Powerful menu bar manager for macOS	
+lwouis/alt-tab-macos	16499	GPL-3.0	industries	Water Utilities	Windows alt-tab on macOS 	
+thaw-app/Thaw	12595	GPL-3.0	industries	Water Utilities	The open source menu bar manager	
+noah-nuebling/mac-mouse-fix	11220	NOASSERTION	industries	Water Utilities	Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!	
+claudiodangelis/qrcp	10522	MIT	industries	Water Utilities	:zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.	
+ronitsingh10/FineTune	10055	GPL-3.0	industries	Water Utilities	FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.	
+darrylmorley/whatcable	9090	NOASSERTION	industries	Water Utilities	macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do	
+Mortennn/Dozer	8717	MPL-2.0	industries	Water Utilities	Hide menu bar icons on macOS	
+nxtrace/NTrace-core	8275	GPL-3.0	industries	Water Utilities	NextTrace, an open source visual route tracking CLI tool	
+donnemartin/gitsome	7692	NOASSERTION	industries	Water Utilities	A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools	
+linearmouse/linearmouse	7136	MIT	industries	Water Utilities	The mouse and trackpad utility for Mac.	
+newmarcel/KeepingYouAwake	7037	MIT	industries	Water Utilities	Prevents your Mac from going to sleep.	
+basscss/basscss	5898	MIT	industries	Water Utilities	Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library	
+vercel/ms	5564	MIT	industries	Water Utilities	Tiny millisecond conversion utility	
+remeda/remeda	5451	MIT	industries	Water Utilities	A utility library for JavaScript and TypeScript.	
+laochiangx/Common.Utility	5294	NONE	industries	Water Utilities	Various helper class	
+Archeb/opentrace	4488	GPL-3.0	industries	Water Utilities	Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.	
+jhspetersson/fselect	4475	Apache-2.0	industries	Water Utilities	Find files with SQL-like queries	
+DDoSolitary/LxRunOffline	4266	MIT	industries	Water Utilities	A full-featured utility for managing Windows Subsystem for Linux (WSL)	
+donnemartin/haxor-news	4091	NOASSERTION	industries	Water Utilities	Browse Hacker News like a haxor: A Hacker News command line interface (CLI).	
+laravel-zero/laravel-zero	4014	NONE	industries	Water Utilities	A PHP framework for console artisans	
+DamascenoRafael/reminders-menubar	4010	GPL-3.0	industries	Water Utilities	Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.	
+johnfanv2/LenovoLegionLinux	3539	GPL-2.0	industries	Water Utilities	Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.	
+esamattis/underscore.string	3355	NONE	industries	Water Utilities	String manipulation helpers for javascript	
+veeso/termscp	3151	MIT	industries	Water Utilities	🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV	
+ksm26/Multi-AI-Agent-Systems-with-crewAI	171	NONE	industries	Wedding & Event Planners	Master the art of designing and organizing AI agents. Learn to automate complex, multi-step business processes by creating specialized AI agent teams using the open-source library crewAI.	
+lakshmantgld/comingOrNot	87	NONE	industries	Wedding & Event Planners	A perfect event organizer	
+classiebit/eventmie-pro-docs	17	NONE	industries	Wedding & Event Planners	Eventmie Pro - PHP Script – Self-hosted multi-organization (multi-vendor)  event management Laravel package (PHP script). Launch a dedicated platform for Event selling website on your own domain and streamline the event planning process through automation. 	
+fcollf/DayPlannerUI	14	MIT	industries	Wedding & Event Planners	DayPlannerUI provides an interactive SwiftUI DayPlannerView for organizing daily activities. Users can dynamically arrange their schedules by dragging and resizing elements.	
+hugohutri/istu	11	NONE	industries	Wedding & Event Planners	A seat planner application for your event	
+danielbrendel/dnyActifisys	9	MIT	industries	Wedding & Event Planners	A social network that revolves around activities and events	
+topninja/venue-studio	9	NONE	industries	Wedding & Event Planners	Professional browser-based venue seating map editor with built-in arena layouts	
+dnd-side-project/dnd-8th-8-backend	7	NONE	industries	Wedding & Event Planners	나만의 웨딩플래너, 웨딩맵 💍	
+lukefire5156/EVENT-PROMOTER-APP	7	NONE	industries	Wedding & Event Planners	This app is created for promoting and advertising the events organised by clubs and chapters in colleges. 	
+Step3-kakao-tech-campus/Team5_BE	6	MIT	industries	Wedding & Event Planners	투명한 가격으로 웨딩 플래너와 예비 부부를 매칭하다, `순수 웨딩`	
+gabriel1ll7/Seating-Planner	6	MIT	industries	Wedding & Event Planners	 Beautiful, intuitive visual seating chart planner for events. Drag-and-drop interface for weddings, conferences, and celebrations.	
+cycle-sync-ai/ai-agent-with-crewai	6	NONE	industries	Wedding & Event Planners	Automate complex business workflows with our Multi-AI-Agent Systems using crewAI. This framework leverages autonomous, role-specific AI agents to collaboratively perform multi-step tasks, enhancing efficiency and accuracy across various domains. Ideal for appl	
+event-list/event-list	6	NONE	industries	Wedding & Event Planners	Event list is a new way to share events. Avoid being surprised with people quantity at your event, make a guest list easily with Event List.	
+KiwiGaze/FlowAgenda	5	MIT	industries	Wedding & Event Planners	FlowAgenda: Transform natural language into calendar events effortlessly by large language models. Perfect for individuals who want a faster, more intuitive way to manage their schedules.	
+joe-cole1/rsvp-to-me	5	AGPL-3.0	industries	Wedding & Event Planners	A modern, self-hosted RSVP and event management application built with Next.js and Prisma. Easily create events, track invitations, and manage guest responses.	
+unionlabs/union	73720	Apache-2.0	finance	Blockchain Nodes & Infrastructure	The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.	
+FuelLabs/fuel-core	56768	Apache-2.0	finance	Blockchain Nodes & Infrastructure	Rust full node implementation of the Fuel v2 protocol.	
+ethereum/go-ethereum	51466	LGPL-3.0	finance	Blockchain Nodes & Infrastructure	Go implementation of the Ethereum protocol	
+anoma/anoma	33553	MIT	finance	Blockchain Nodes & Infrastructure	Reference implementation of Anoma	
+linera-io/linera-protocol	32036	Apache-2.0	finance	Blockchain Nodes & Infrastructure	Main repository for the Linera protocol	
+shardeum/shardeum	31179	MIT	finance	Blockchain Nodes & Infrastructure	Shardeum is an EVM based autoscaling blockchain	
+argotorg/solidity	25764	GPL-3.0	finance	Blockchain Nodes & Infrastructure	Solidity, the Smart Contract Programming Language	
+bitcoinbook/bitcoinbook	25344	NOASSERTION	finance	Blockchain Nodes & Infrastructure	Mastering Bitcoin 3rd Edition - Programming the Open Blockchain	
+zama-ai/fhevm	24744	NOASSERTION	finance	Blockchain Nodes & Infrastructure	FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications	
+ethereumbook/ethereumbook	21546	NONE	finance	Blockchain Nodes & Infrastructure	Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini	
+UFund-Me/Qbot	18781	MIT	finance	Blockchain Nodes & Infrastructure	[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant	
+hyperledger/fabric	16764	Apache-2.0	finance	Blockchain Nodes & Infrastructure	Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables	
+diem/diem	16656	Apache-2.0	finance	Blockchain Nodes & Infrastructure	Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.	
+smartcontractkit/full-blockchain-solidity-course-js	14054	NONE	finance	Blockchain Nodes & Infrastructure	Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript	
+smartcontractkit/full-blockchain-solidity-course-py	11217	MIT	finance	Blockchain Nodes & Infrastructure	Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition	
+monero-project/monero	10985	NOASSERTION	finance	Blockchain Nodes & Infrastructure	Monero: the secure, private, untraceable cryptocurrency	
+Chia-Network/chia-blockchain	10795	Apache-2.0	finance	Blockchain Nodes & Infrastructure	Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)	
+foundry-rs/foundry	10767	Apache-2.0	finance	Blockchain Nodes & Infrastructure	Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.	
+ethers-io/ethers.js	8735	MIT	finance	Blockchain Nodes & Infrastructure	Complete Ethereum library and wallet implementation in JavaScript.	
+NomicFoundation/hardhat	8521	NOASSERTION	finance	Blockchain Nodes & Infrastructure	Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. 	
+smartcontractkit/chainlink	8253	NOASSERTION	finance	Blockchain Nodes & Infrastructure	node of the decentralized oracle network, bridging on and off-chain computation	
+dvf/blockchain	8041	MIT	finance	Blockchain Nodes & Infrastructure	A simple Blockchain in Python	
+datahaven-xyz/datahaven	7876	GPL-3.0	finance	Blockchain Nodes & Infrastructure	An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer	
+IBAX-io/go-ibax	7850	Apache-2.0	finance	Blockchain Nodes & Infrastructure	An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. 	
+MystenLabs/sui	7782	Apache-2.0	finance	Blockchain Nodes & Infrastructure	 Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language	
+deb-sig/double-entry-generator	734	Apache-2.0	finance	Core Banking & Ledgers	Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi etc. to Beancount/Ledger).	
+hoophq/sequence	512	Apache-2.0	finance	Core Banking & Ledgers	Immutable, scalable, and easy to use ledger service.	
+pgr0ss/pgledger	504	MIT	finance	Core Banking & Ledgers	A double entry ledger implementation in PostgreSQL	
+tigerbeetle-rust/tigerbeetle-unofficial	76	Apache-2.0	finance	Core Banking & Ledgers	Safe bindings to TigerBeetle client.	
+datasignstech/pyluca	69	MIT	finance	Core Banking & Ledgers	A python Double Entry Accounting library	
+imetaxas/double-entry-bookkeeping-api	64	MIT	finance	Core Banking & Ledgers	A Double-entry bookkeeping library which is available from the Central Repository.	
+skylot/jadx	51666	Apache-2.0	finance	Crypto Exchanges & DEX	Dex to Java decompiler	
+androguard/androguard	6409	Apache-2.0	finance	Crypto Exchanges & DEX	Reverse engineering and pentesting for Android applications 	
+lief-project/LIEF	5638	Apache-2.0	finance	Crypto Exchanges & DEX	LIEF - Library to Instrument Executable Formats (C++, Python, Rust)	
+sea-protocol/seaprotocol	5035	NOASSERTION	finance	Crypto Exchanges & DEX	Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime!	
+MG1937/ASC	2667	Apache-2.0	finance	Crypto Exchanges & DEX	ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.	
+MegatronKing/StringFog	2025	Apache-2.0	finance	Crypto Exchanges & DEX	一款自动对字节码中的字符串进行加密Android插件工具	
+githubXiaowangzi/NP-Manager	1860	NONE	finance	Crypto Exchanges & DEX	Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)；  一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG添加； 一键添加字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持	
+reversenseorg/dexcalibur	1188	AGPL-3.0	finance	Crypto Exchanges & DEX	Reversense (Dexcalibur2) is a fully rewriting and rethinking of Dexcalibur.  Reversense is a binary intelligence platform that automates the reverse engineering of mobile and embedded applications. 	
+bitshares/bitshares-core	1182	NOASSERTION	finance	Crypto Exchanges & DEX	BitShares Blockchain node and command-line wallet	
+luoyesiqiu/dpt-shell	1173	MIT	finance	Crypto Exchanges & DEX	An android Dex protection shell implementation	
+anestisb/vdexExtractor	1147	Apache-2.0	finance	Crypto Exchanges & DEX	Tool to decompile & extract Android Dex bytecode from Vdex files	
+CodingGay/BlackObfuscator	1133	Apache-2.0	finance	Crypto Exchanges & DEX	Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow.	
+piotrostr/listen	1092	AGPL-3.0	finance	Crypto Exchanges & DEX	DeFAI Swiss Army Knife	
+LuckyPray/DexKit	1079	Apache-2.0	finance	Crypto Exchanges & DEX	An easy-to-use, high-performance dex deobfuscation library.	
+romainguy/kotlin-explorer	972	Apache-2.0	finance	Crypto Exchanges & DEX	Desktop tool to quickly explore disassembled Kotlin code.	
+lightningnetwork/lnd	8211	MIT	finance	Crypto Payments & Invoicing	Lightning Network Daemon ⚡️	
+ElementsProject/lightning	3105	NOASSERTION	finance	Crypto Payments & Invoicing	Core Lightning — Lightning Network implementation focusing on spec compliance and performance	
+lnbook/lnbook	2972	CC-BY-SA-4.0	finance	Crypto Payments & Invoicing	Mastering the Lightning Network (LN)	
+lightning/bolts	2252	NONE	finance	Crypto Payments & Invoicing	BOLT: Basis of Lightning Technology (Lightning Network Specifications)	
+damus-io/damus	2150	GPL-3.0	finance	Crypto Payments & Invoicing	iOS nostr client	
+lightningdevkit/rust-lightning	1373	NOASSERTION	finance	Crypto Payments & Invoicing	Active development happens on git.rust-bitcoin.org, this repo is a mirror of https://git.rust-bitcoin.org/lightningdevkit/rust-lightning	
+ACINQ/eclair	1350	Apache-2.0	finance	Crypto Payments & Invoicing	A scala implementation of the Lightning Network.	
+BlueWallet/LndHub	1072	MIT	finance	Crypto Payments & Invoicing	Wrapper for Lightning Network Daemon. It provides separate accounts for end-users	
+lightninglabs/neutrino	977	MIT	finance	Crypto Payments & Invoicing	Privacy-Preserving Bitcoin Light Client	
+omnilaboratory/OBAndroid	921	MIT	finance	Crypto Payments & Invoicing	OBAndroid is a self-custodial OmniBOLT Lightning wallet for android devices. It provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments	
+jamaljsr/polar	860	MIT	finance	Crypto Payments & Invoicing	One-click Bitcoin Lightning networks for local app development & testing	
+cameri/nostream	834	MIT	finance	Crypto Payments & Invoicing	Own a relay for social network nobody can switch off	
+Ride-The-Lightning/RTL	801	MIT	finance	Crypto Payments & Invoicing	Ride The Lightning - A full function web browser app for LND, C-Lightning and Eclair	
+zapstore/zapstore	714	NONE	finance	Crypto Payments & Invoicing	The open app store	
+fedimint/fedimint	703	MIT	finance	Crypto Payments & Invoicing	Federated E-Cash Mint	
+codereverser/casparser	241	MIT	finance	Crypto Tax & Accounting	Parser for Consolidated Account Statements (CAS) generated from CAMS/Karvy/Kfintech 	
+Gemma41/Onchain-Accounting	80	MIT	finance	Crypto Tax & Accounting	Privacy-first, self-hosted crypto accounting app with zero cloud data sharing. Aggregates exchange, wallet and multi-chain history, calculates FIFO/LIFO/HIFO cost basis, realized/unrealized PnL and capital gains, tracks staking/airdrop income, and exports tax-	
+volodymyr-kovtun/Pitly	48	MIT	finance	Crypto Tax & Accounting	Polish PIT-38 tax calculator for Interactive Brokers — converts trades & dividends to PLN,   calculates FIFO capital gains, and generates ready-to-file PIT-38 values	
+cojapacze/bitcointaxer	38	AGPL-3.0	finance	Crypto Tax & Accounting	Crypto-TAX Gain/Loss Calculator	
+DaKheera47/job-ops	4107	NOASSERTION	finance	Donations & Fundraising Tech	job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process	
+JiayiLu2003/WorldCupROI	130	NONE	finance	Donations & Fundraising Tech	Sports sponsorship intelligence platform for World Cup match data, real-source text signals, ROI prediction, uncertainty analysis, and scenario recommendations.	
+adrielcafe/chroma	129	MIT	finance	Donations & Fundraising Tech	🎶 Chromatic tuner app for Android	
+opencollective/documentation-old	96	MIT	finance	Donations & Fundraising Tech	All documentation for Open Collective	
+ultrametricai/ultrametric	83	Apache-2.0	finance	Equity, Cap Tables & Fund Admin	The open startup repo — everything a founder needs to start and run a company in the agentic era: the comprehensive founder processes from an agentic lens, open documents, situations founders might find themselves in, law that governs the business logic, start	
+tdavidson/portfolio	74	Apache-2.0	finance	Equity, Cap Tables & Fund Admin	Manage deal flow, portfolio reporting, fund operations, LPs, and accounting, without stitching together spreadsheets and multiple tools. Open source, self-host, powered by your AI.	
+iloveitaly/openbook	66	MIT	finance	Equity, Cap Tables & Fund Admin	Like pitchbook, but open. An open source investor/venture capital database	
+lool-ventures/founder-skills	52	Apache-2.0	finance	Equity, Cap Tables & Fund Admin	AI agent skills for high-velocity startup founders	
+tdavidson/cap-table-tool	50	NOASSERTION	finance	Equity, Cap Tables & Fund Admin	Cap Table and Exit Waterfall Tool, https://foresight.is/cap-table	
+EarningsCall/earningscall-python	36	MIT	finance	Equity, Cap Tables & Fund Admin	The EarningsCall Python library provides convenient access to the EarningsCall API.	
+0xnyn/subsignal	32	NONE	finance	Equity, Cap Tables & Fund Admin	Open Source Deal Flow Monitoring Infrastructure Built for VCs | Competitive Intelligence Infrastructure Built for Founders	
+Nimbus318/miracle-plus-gallery	26	MIT	finance	Equity, Cap Tables & Fund Admin	非官方奇绩创坛项目数据库。收录 2021-2025 历届路演项目，提供高校势力榜、赛道风向标及年度热词、人脉关联推荐，助你发现 AI、具身智能与出海赛道的下一个独角兽。	
+Open-Cap-Stack/opencap	25	Apache-2.0	finance	Equity, Cap Tables & Fund Admin	Open-source cap table & equity management platform — free Carta alternative for startups	
+abysswarrior/crypto-funds-portfolio	23	GPL-3.0	finance	Equity, Cap Tables & Fund Admin	A webapp that shows the portfolio of the most famous cryptocurrency hedge funds. 💰	
+redriverwest/ddvc-hackathon	22	MIT	finance	Equity, Cap Tables & Fund Admin	Projects from DDVC Hackathon 2025	
+chinasatokolo/BlackinComputing	18	NOASSERTION	finance	Equity, Cap Tables & Fund Admin	Aggregating resources, databases, and relevant information regarding Black students, faculty, and professionals in computing.	
+zszendro/vc-teardown	18	MIT	finance	Equity, Cap Tables & Fund Admin	A Claude Skill that stress-tests your startup idea as a skeptical VC, then rebuilds it into a business plan with a defensible moat, MVP scope, GTM and kill criteria.	
+baran-cicek/vc-diligence-ai	16	MIT	finance	Equity, Cap Tables & Fund Admin	Automated financial KPI extraction for VC due diligence.	
+carta/plugins	15	Apache-2.0	finance	Equity, Cap Tables & Fund Admin	Centralized repository for public facing plugins	
+alexdlaird/amazon-orders	206	MIT	finance	Expense & Spend Management	A Python library (and CLI) for Amazon order history, line items, and transactions	
+sypht-team/sypht-python-client	163	MIT	finance	Expense & Spend Management	A python client for the Sypht API	

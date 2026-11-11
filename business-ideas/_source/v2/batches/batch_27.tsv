@@ -1,0 +1,380 @@
+ngx-rocket/generator-ngx-rocket	1501	MIT	hardware	Space & Rocketry	:rocket: Extensible Angular 14+ enterprise-grade project generator	
+badtuxx/giropops-monitoring	1338	Apache-2.0	hardware	Space & Rocketry	Full stack tools for monitoring containers and other stuff. ;)	
+ngx-rocket/starter-kit	1259	NONE	hardware	Space & Rocketry	:package: Angular 14+ starter kit for enterprise-grade projects	
+RocketPy-Team/RocketPy	1165	MIT	hardware	Space & Rocketry	Next generation High-Power Rocketry 6-DOF Trajectory Simulation	
+ryanjon2040/Unreal-Binary-Builder	699	MIT	hardware	Space & Rocketry	An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source.	
+reilleya/openMotor	656	GPL-3.0	hardware	Space & Rocketry	An open-source internal ballistics simulator for rocket motor experimenters	
+OpenGeometry-io/OpenGeometry	543	MPL-2.0	hardware	Space & Rocketry	Geometry CAD Kernel for Humans and AI Agents	
+rocket/rocket	393	Zlib	hardware	Space & Rocketry	Rocket	
+svenstaro/rust-web-boilerplate	327	MIT	hardware	Space & Rocketry	Rust web template for modern web backend applications	
+nasa/cea	225	Apache-2.0	hardware	Space & Rocketry	CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product concentrations to determine thermodynamic and transport properties. It includes a large database of species with thermodynamic curve-fit data, and	
+GuidodiPasquo/AeroVECTOR	189	GPL-3.0	hardware	Space & Rocketry	Model Rocket Simulator oriented to the design and tuning of active control systems, be them in the form of TVC, Active Fin Control or just parachute deployment algorithms on passively stable rockets. It is able to simulate non-linear actuator dynamics and has 	
+EmbersArc/SCpp	175	MIT	hardware	Space & Rocketry	Implementation of SCvx, linear MPC and LQR for trajectory generation and tracking	
+surge-synthesizer/surge	4103	GPL-3.0	hardware	Synthesizers & Audio Gear	Free and open source hybrid synthesizer as a virtual instrument (previously released by Vember Audio as Surge)	
+chaosprint/glicol	3015	MIT	hardware	Synthesizers & Audio Gear	Graph-oriented live coding language and music/audio DSP library written in Rust	
+bitfieldaudio/OTTO	2756	NOASSERTION	hardware	Synthesizers & Audio Gear	Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]	
+FluidSynth/fluidsynth	2539	LGPL-2.1	hardware	Synthesizers & Audio Gear	Software synthesizer based on the SoundFont 2 specifications	
+AudioKit/AudioKitSynthOne	1801	MIT	hardware	Synthesizers & Audio Gear	AudioKit Synth One: Open-Source iOS Synthesizer App	
+probonopd/MiniDexed	1709	GPL-3.0	hardware	Synthesizers & Audio Gear	Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)	
+stewdio/beep.js	1368	NOASSERTION	hardware	Synthesizers & Audio Gear	Beep is a JavaScript toolkit for building browser-based synthesizers.	
+SamiPerttu/fundsp	1230	Apache-2.0	hardware	Synthesizers & Audio Gear	Library for audio processing and synthesis	
+maximecb/noisecraft	1229	GPL-2.0	hardware	Synthesizers & Audio Gear	Browser-based visual programming language and platform for sound synthesis.	
+zynaddsubfx/zynaddsubfx	1184	GPL-2.0	hardware	Synthesizers & Audio Gear	ZynAddSubFX open source synthesizer	
+surikov/webaudiofont	990	GPL-3.0	hardware	Synthesizers & Audio Gear	Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.	
+shorepine/tulipcc	978	NOASSERTION	hardware	Synthesizers & Audio Gear	The Tulip Creative Computer and AMYboard - portable Python synthesizers	
+schellingb/TinySoundFont	896	MIT	hardware	Synthesizers & Audio Gear	SoundFont2 synthesizer library in a single C/C++ file	
+greatest-ape/OctaSine	822	AGPL-3.0	hardware	Synthesizers & Audio Gear	Frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.	
+calf-studio-gear/calf	806	LGPL-2.1	hardware	Synthesizers & Audio Gear	Developers repository of Calf Studio Gear. Expect some issues when using it for production.	
+BojanJurca/Esp32_oscilloscope	1090	MIT	hardware	Test & Measurement	ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them 	
+OpenHantek/openhantek	831	GPL-3.0	hardware	Test & Measurement	OpenHantek is a DSO software for Hantek (Voltcraft/Darkwire/Protek/Acetech) USB digital signal oscilloscopes	
+skiars/SerialTool	781	GPL-3.0	hardware	Test & Measurement	A cross platform Serial-Port/TCP/UDP debugging tool.	
+alemidev/scope-tui	755	MIT	hardware	Test & Measurement	oscilloscope/vectorscope/spectroscope for your terminal	
+nominal-io/instro	729	Apache-2.0	hardware	Test & Measurement	An open-source library for hardware test instrumentation	
+analogdevicesinc/scopy	503	GPL-3.0	hardware	Test & Measurement	A software oscilloscope and signal analysis toolset	
+drandyhaas/HaasoscopePro	485	MIT	hardware	Test & Measurement	Affordable 2 GHz 3.2 GS/s 12 bit open-source open-hardware expandable USB real-time oscilloscope	
+parezj/EMBO	393	MIT	hardware	Test & Measurement	EMBO - Scope for only $6. Embedded instruments: Oscilloscope, Logic Analyzer, Voltmeter, Counter, PWM and Signal Generator on STM32 MCUs (F1, F3, L4, G4 ....). PC app for Windows, Ubuntu and macOS. Firmware is in C, PC GUI app is in C++ Qt 5.	
+analogdevicesinc/iio-oscilloscope	347	GPL-2.0	hardware	Test & Measurement	A GTK+ based oscilloscope application for interfacing with various IIO devices	
+macumbista/vectorsynthesis	316	MIT	hardware	Test & Measurement	This library allows the creation and manipulation of vector shapes using audio signals sent directly to oscilloscopes, modified Vectrex consoles, ILDA laser displays, and oscilloscope emulation software using the Pure Data programming environment. Please scrol	
+mich-w/QtSerialMonitor	270	GPL-3.0	hardware	Test & Measurement	Qt serial monitor and data plotter	
+httpsworldview/openmeters	232	GPL-3.0	hardware	Test & Measurement	Fast and professional audio metering/visualization for Linux.	
+maxim-zhao/SidWizPlus	227	MIT	hardware	Test & Measurement	Oscilloscope view audio renderer originally based on SidWiz	
+pklaus/ds1054z	200	NONE	hardware	Test & Measurement	Python package for the Rigol DS1054Z Oscilloscope	
+ankitaggarwal011/PiScope	194	MIT	hardware	Test & Measurement	Turn your Raspberry Pi into an Oscilloscope/XY Plotter with Python	
+Legcord/Legcord	3518	OSL-3.0	hardware	Tiny Homes & Shelters	Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.	
+markqvist/NomadNet	2639	GPL-3.0	hardware	Tiny Homes & Shelters	Communicate Freely	
+torlando-tech/columba	1260	MPL-2.0	hardware	Tiny Homes & Shelters	Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum	
+Milkshiift/GoofCord	1014	OSL-3.0	hardware	Tiny Homes & Shelters	:shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.	
+cabinjs/cabin	889	MIT	hardware	Tiny Homes & Shelters	:evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.	
+vaibhav-mattoo/bitchat-tui	379	MIT	hardware	Tiny Homes & Shelters	🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.	
+btcven/locha	297	Apache-2.0	hardware	Tiny Homes & Shelters	Communicate with others and broadcast Bitcoin transactions off-grid without internet access or even power grid.	
+CSaratakij/i3-rice-rin-shelter	261	NONE	hardware	Tiny Homes & Shelters	My i3wm rice with theme "Rin : shelter"	
+wadadawadada/blackbox_node	175	NOASSERTION	hardware	Tiny Homes & Shelters	Off-grid mesh node with local AI TAK integration and Bitcoin Cashu payments built on Meshtastic	
+lrnselfreliance/wrolpi	165	GPL-3.0	hardware	Tiny Homes & Shelters	Create your own off-grid library	
+cvhviz/CAIRN	117	NONE	hardware	Tiny Homes & Shelters	Cairn: custom MeshCore companion firmware with a touch UI for the Wio Tracker L2 Pro, Heltec V4 and LilyGO T-Display SF32, plus builds for the Wio Tracker L1 Pro, Heltec T096 and about 30 preview boards. Works with the official MeshCore apps. Release images.	
+meshsat/meshsat	96	GPL-3.0	hardware	Tiny Homes & Shelters	Open source gateway bridging Meshtastic LoRa, Iridium satellite, cellular SMS, APRS and TAK over a Reticulum routing layer. Keeps people connected when the network is not. Runs on a   Raspberry Pi.	
+Alkia/electra	74	BSD-3-Clause	hardware	Tiny Homes & Shelters	This is Electra blockchain's repository for a decentralized micro-grid electricity exchange solution	
+LFManifesto/ReticulumHF	68	NONE	hardware	Tiny Homes & Shelters	Encrypted communication over HF radio using the Reticulum Network Stack and FreeDV digital modes	
+SpikeHD/shelter-plugins	66	GPL-3.0	hardware	Tiny Homes & Shelters	Shelter plugins, some of them Dorion related	
+ghuntley/how-to-build-a-coding-agent	5921	NONE	hardware	Tools & Workshop	A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.	
+epicweb-dev/react-fundamentals	5311	NOASSERTION	hardware	Tools & Workshop	Material for my React Fundamentals Workshop	
+railsbridge/docs	3890	NOASSERTION	hardware	Tools & Workshop	Curriculum for RailsBridge workshops	
+epicweb-dev/advanced-react-patterns	3518	NOASSERTION	hardware	Tools & Workshop	This is the latest advanced react patterns workshop	
+epicweb-dev/react-hooks	2815	NOASSERTION	hardware	Tools & Workshop	Learn React Hooks! 🎣 ⚛	
+campoy/go-tooling-workshop	2772	Apache-2.0	hardware	Tools & Workshop	A workshop covering all the tools gophers use in their day to day life	
+epicweb-dev/advanced-react-apis	2119	NOASSERTION	hardware	Tools & Workshop	Learn Advanced React Hooks workshop	
+chvancooten/maldev-for-dummies	1834	NOASSERTION	hardware	Tools & Workshop	A workshop about Malware Development	
+epicweb-dev/react-performance	1814	NOASSERTION	hardware	Tools & Workshop	Let's make our apps fast ⚡	
+rothgar/mastering-zsh	1658	NONE	hardware	Tools & Workshop	Advanced topics to take advantage of zsh 👩‍💻👨‍💻	
+electricsquare/raymarching-workshop	1009	MIT	hardware	Tools & Workshop	An Introduction to Raymarching	
+Machine-Learning-Tokyo/DL-workshop-series	936	Apache-2.0	hardware	Tools & Workshop	Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)	
+epicweb-dev/react-suspense	862	NOASSERTION	hardware	Tools & Workshop	React Suspense workshop	
+VirtualAlllocEx/DEFCON-31-Syscalls-Workshop	788	NONE	hardware	Tools & Workshop	Contains all the material from the DEF CON 31 workshop "(In)direct Syscalls: A Journey from High to Low". 	
+luxas/kubeadm-workshop	677	MIT	hardware	Tools & Workshop	Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring	
+Katee/quietnet	2940	MIT	hardware	Toys & Educational Kits	Simple chat program that communicates using inaudible sounds	
+HugeCatLab/ChatTutor	1325	AGPL-3.0	hardware	Toys & Educational Kits	👨‍🏫 ChatTutor: Visual and Interactive AI Tutor	
+webfp/tor-browser-selenium	591	MIT	hardware	Toys & Educational Kits	Tor Browser automation with Selenium.	
+PetoiCamp/OpenCatEsp32-Quadruped-Robot	542	MIT	hardware	Toys & Educational Kits	An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY rob	
+tidwall/digitalrain	388	MIT	hardware	Toys & Educational Kits	Matrix Digital Rain written in Go for HTML5 + Canvas	
+DexterInd/GoPiGo	341	NONE	hardware	Toys & Educational Kits	The GoPiGo Robot for Raspberry Pi	
+pirate/mac-hardware-toys	311	NONE	hardware	Toys & Educational Kits	🔆 Programmatically control Mac keyboard & display brightness, accelerometer & gyro, lid angle, ambient brightness, fan speed, microphone, speaker, and more like modular synth components connected by shell piping.	
+fengyanhao/3D_Magnetic_Pieces	307	MIT	hardware	Toys & Educational Kits	一个面向儿童和家长的开源交互式 3D 磁力片搭建与教程平台，基于 React、TypeScript 和 Three.js 构建。	
+codepath/student-career-handbook	302	NONE	hardware	Toys & Educational Kits	Covers all things student career, internships, and industry context	
+pycroscopy/pycroscopy	280	MIT	hardware	Toys & Educational Kits	Scientific analysis of nanoscale materials imaging data	
+krgamestudios/Toy	265	Zlib	hardware	Toys & Educational Kits	The Toy Scripting Language. Mirrored nightly.	
+SenmuuuuW/universal-diagnostic-tutor-skill	259	MIT	hardware	Toys & Educational Kits	One diagnosis-first AI tutor for STEM, AI/CS, and beyond — no mode or command menu. It decides the next useful teaching step, checks understanding, and builds mastery.	
+FredTungsten/ScriptPlayer	225	GPL-3.0	hardware	Toys & Educational Kits	ScriptPlayer is a video player that controls the Handy and lots of other toys in sync with videos.	
+tinyMLx/courseware	222	NOASSERTION	hardware	Toys & Educational Kits	In this repository you will find TinyML course syllabi, assignments/labs, code walkthroughs, links to student projects, and lecture videos (where applicable).	
+MeArm/MeArm	220	NONE	hardware	Toys & Educational Kits	An open source and affordable robot arm. Perfect for STEM, Coding & Robotics education, IoT robotics, research, and DIY robotics kit development. The world's most copied robotics project. 	
+maxvfischer/DIY-arcade	481	NONE	hardware	Vending & Kiosk Machines	How to build your own full-size arcade machine from scratch	
+reuterbal/photobooth	359	AGPL-3.0	hardware	Vending & Kiosk Machines	A flexible photobooth software	
+andreknieriem/photobooth	320	MIT	hardware	Vending & Kiosk Machines	A photobooth Web-Application for raspberry pi with gphoto2	
+perdidor/Arduino-MDB-UART	155	NONE	hardware	Vending & Kiosk Machines	Atmega1284 PLC as MDB-UART converter/MDB Master/MDB VMC emulator	
+thesaltree/low-level-design-golang	105	NONE	hardware	Vending & Kiosk Machines	Low level system design solutions in Golang	
+LanguidSmartass/mdb-arduino-cashless	88	NONE	hardware	Vending & Kiosk Machines	MDB Cashless Device implementation based on Arduino Uno and GPRS Shield	
+jdogresorg/freewallet-desktop	80	MIT	hardware	Vending & Kiosk Machines	Desktop wallet for Win/Mac/Linux which supports Bitcoin and Counterparty	
+liamcottle/atlas-for-rust	75	NONE	hardware	Vending & Kiosk Machines	Atlas is an unofficial interactive map experience for Rust.	
+jibbius/raspberry_pi_photo_booth	61	NONE	hardware	Vending & Kiosk Machines	The code for my Raspberry Pi photo booth.	
+Davidy22/SkunkBooth	52	NOASSERTION	hardware	Vending & Kiosk Machines	Text based command line webcam photobooth app	
+armiko/boothlev	41	NONE	hardware	Vending & Kiosk Machines	Boothlev is a privacy-first web application that brings the authentic photobooth experience directly to your browser. The core editor runs fully client-side, and all AI features run on a self-hosted standalone backend. No app installations, no external APIs, a	
+adlerweb/fotobox	32	MIT	hardware	Vending & Kiosk Machines	Python based photo-booth script for Raspberry Pi and RPi Camera	
+pibooth/pibooth-picture-template	30	GPL-3.0	hardware	Vending & Kiosk Machines	Pibooth plugin to customize the final picture layout using Flowchart Maker	
+Lauszus/ArduinoVendingMachine	26	NONE	hardware	Vending & Kiosk Machines	Arduino code for an old vending machine	
+AvinashDalvi89/virtual-photobooth	24	NONE	hardware	Vending & Kiosk Machines	Simple HTML based virtual photo booth website.	
+exelban/stats	43211	MIT	hardware	Watches & Clocks	macOS system monitor in your menu bar	
+vladelaina/Catime	4964	Apache-2.0	hardware	Watches & Clocks	💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g	
+HamzaGhazouani/HGCircularSlider	2618	MIT	hardware	Watches & Clocks	A custom reusable circular / progress slider control for iOS application.	
+vicolo-dev/chrono	1827	GPL-3.0	hardware	Watches & Clocks	A modern and powerful clock, alarms, timer and stopwatch app for Android!	
+instacart/truetime-android	1468	Apache-2.0	hardware	Watches & Clocks	Android NTP time library. Get the true current time impervious to device clock time changes	
+poetaman/arttime	1396	NOASSERTION	hardware	Watches & Clocks	arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰	
+Dsiner/UIUtil	1348	NONE	hardware	Watches & Clocks	UIUtil for Android, Lyrics, Tick animations, Comparisons, Satellite menus, Praise, Slide buttons, TAB indicators, Contact sorting, Drag sorting, Skidding deletes, Shadow effects, RecyclerView nesting RecyclerView, Map list Poi/Drawer effects, Progress settings	
+BlackyHawky/Clock	1185	GPL-3.0	hardware	Watches & Clocks	Customizable, privacy‑first, open-source clock app inspired by AOSP Clock	
+pendulum-project/ntpd-rs	1157	NOASSERTION	hardware	Watches & Clocks	A full-featured implementation of the Network Time Protocol, including NTS support.	
+miickel/flutter_particle_clock	996	NONE	hardware	Watches & Clocks	The Grand Prize-winning entry of the #FlutterClock challenge.	
+bartgryszko/react-native-circular-slider	883	MIT	hardware	Watches & Clocks	React Native component for creating circular slider :radio_button:	
+octobanana/peaclock	806	MIT	hardware	Watches & Clocks	A responsive and customizable clock, timer, and stopwatch for the terminal.	
+widget-js/widgets	741	NONE	hardware	Watches & Clocks	Desktop widgets for windows. built with react	
+FossifyOrg/Clock	724	GPL-3.0	hardware	Watches & Clocks	Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads	
+JohsEnevoldsen/literature-clock	719	NOASSERTION	hardware	Watches & Clocks	Clock using time quotes from the literature, based on the work of Jaap Meijers	
+vinitshahdeo/Water-Monitoring-System	156	MIT	hardware	Water Monitoring & Purification	Water Monitoring System is an IOT based Liquid Level Monitoring system that has mechanisms to keep the user alerted in case of liquid overflow or when tank depletes.	
+wilsto/pool-monitor-card	130	MIT	hardware	Water Monitoring & Purification	Keep your swimming pool safe and crystal clear by monitoring up to 25 water chemistry parameters at a glance.	
+DOI-USGS/EGRET	101	NOASSERTION	hardware	Water Monitoring & Purification	An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season (WRTDS). https://doi-usgs.github.io/EGRET/	
+SERVIR/water-quality-gee	97	MIT	hardware	Water Monitoring & Purification	Water quality scripts for Google Earth Engine	
+Vitens/phreeqpython	93	Apache-2.0	hardware	Water Monitoring & Purification	Object-oriented python wrapper for the VIPhreeqc module	
+philippkraft/cmf	63	GPL-3.0	hardware	Water Monitoring & Purification	Catchment Modelling Framework, a hydrologic modelling toolbox	
+yuntech-bdrc/WaterQuality	56	NONE	hardware	Water Monitoring & Purification	An explainable water quality classification model	
+RAJohansen/waterquality	53	NOASSERTION	hardware	Water Monitoring & Purification	Package designed to detect and quantify water quality and cyanobacterial harmful algal bloom (CHABs) from remotely sensed imagery	
+respec/BASINS	34	NONE	hardware	Water Monitoring & Purification	BASINS source code development repository. For official releases see EPA:	
+AquaticEcoDynamics/glm-aed	34	GPL-3.0	hardware	Water Monitoring & Purification	Home of the GLM-AED project - software to simulate aquatic systems	
+Rekin226/aquascope	31	MIT	hardware	Water Monitoring & Purification	Explore river records and run reproducible water analyses in your browser. Open hydrology data, methods, and exports.	
+smart-data-models/SmartWater	29	NOASSERTION	hardware	Water Monitoring & Purification	Data models related  to the Water Management Domain. Includes data models for Waste Water, Water Quality, Water Distribution & etc.	
+kcofoni/ha-netro-watering	26	Apache-2.0	hardware	Water Monitoring & Purification	Netro Smart Garden integration for Home Assistant	
+ImperialCollegeLondon/wsi	23	BSD-3-Clause	hardware	Water Monitoring & Purification	WSIMOD is a software for simulating water quality and quantity	
+DOI-USGS/toxEval	22	NOASSERTION	hardware	Water Monitoring & Purification	The toxEval R-package includes a set of functions to analyze, visualize, and organize measured concentration data as it relates to chosen biological effects benchmarks. See https://doi-usgs.github.io/toxEval/ for more details 	
+ZSWatch/ZSWatch	3431	GPL-3.0	hardware	Wearables	ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.	
+No-Chicken/OV-Watch	2588	GPL-3.0	hardware	Wearables	A powerful Smart Watch based on STM32, FreeRTOS, LVGL.	
+Mentra-Community/OpenSourceSmartGlasses	1241	NONE	hardware	Wearables	Open Source smart glasses designed to be 1. All day wearable 2. Immediately useful 3. Extendable for makers, startups, and everyone else.	
+wasp-os/wasp-os	945	GPL-3.0	hardware	Wearables	A MicroPython based development environment for smart watches (including Pine64 PineTime)	
+OpenStrap/edge	884	AGPL-3.0	hardware	Wearables	App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.	
+spaceamoeba-t/tapq	647	Apache-2.0	hardware	Wearables	Multi-modal voice agent for your AI agents. Talk with Claude Code, Codex, and others by voice: answer their prompts, give instructions, ask what they did. Or just nod.	
+sharandac/My-TTGO-Watch	602	GPL-2.0	hardware	Wearables	A GUI named hedge for smartwatch like devices based on ESP32. Currently support for T-Watch2020 (V1,V2,V3), T-Watch2021, M5Paper, M5Core2 and native Linux support for testing.	
+infinition/waveshare-watch-rs	381	NOASSERTION	hardware	Wearables	100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06	
+WorldFamousElectronics/PulseSensorPlayground	235	MIT	hardware	Wearables	A PulseSensor library (for Arduino) that collects our most popular projects in one place. 	
+freakified/TimeStylePebble	234	MIT	hardware	Wearables	A stylish, customizable face for the Pebble Time.	
+Szybet/InkWatchy	227	GPL-3.0	hardware	Wearables	A firmware for the open source Watchy/Yatchy - with some unique features	
+Mentra-Community/SmartGlassesManager	216	MIT	hardware	Wearables	Smart glasses software framework. Write 1 app that runs on any pair of smart glasses.	
+RoboticWorx/Gateway-Smartwatch	214	NOASSERTION	hardware	Wearables	Everything you need to build my Gateway ESP32 smartwatch project!	
+umutsevdi/wear-pico	209	GPL-3.0	hardware	Wearables	An open source Smartwatch firmware written in C for the Raspberry Pi Pico	
+rayl15/OpenVision	192	MIT	hardware	Wearables	Open-source iOS app connecting Meta Ray-Ban smart glasses to AI — 5 backends (on-device MLX models, Apple Intelligence, OpenAI, Gemini Live, OpenClaw), on-device neural voice, face recognition & live web search. Private and offline-capable.	
+mfactory-osaka/ESPTimeCast	1562	NOASSERTION	hardware	Weather Stations	ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-based configuration interface — all in one compact design.	
+ThingPulse/esp8266-weather-station	1148	MIT	hardware	Weather Stations	ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources	
+ThingPulse/esp8266-weather-station-color	602	MIT	hardware	Weather Stations	ESP8266 Weather Station in Color using ILI9341 TFT 240x320 display	
+poblabs/weewx-belchertown	224	GPL-3.0	hardware	Weather Stations	A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com	
+jcallaghan/home-assistant-config	179	MIT	hardware	Weather Stations	My Home Assistant configuration & documentation.	
+byte4geek/weatherstation	154	MIT	hardware	Weather Stations	A feature-rich, high-precision ESP8266-based Smart Weather Station with a modern responsive Web Dashboard, dynamic sensor detection, customizable moving-average filters, Home Assistant MQTT Auto-Discovery, full backup/restore capability, and hardware factory r	
+3KUdelta/Solar_WiFi_Weather_Station	117	NONE	hardware	Weather Stations	Based on the work of Open Green Energy: First solar Zambretti Forecaster	
+MeteoSwiss/opendata	114	NONE	hardware	Weather Stations	MeteoSwiss' continuosly updated Open Data documentation	
+TilmanGriesel/ha_trmnl_weather_station	101	MIT	hardware	Weather Stations	🌤️ TRMNL Home Assistant Weather Station	
+TheAmadeus25/LaColorduino	92	GPL-3.0	hardware	Weather Stations	I build my own clone of "LaMetric"-smartwatch but with some Colorduino for Twitch, YouTube, Twitter, CSGO, etc.. (Working)	
+felddy/weewx-docker	91	MIT	hardware	Weather Stations	Docker container for WeeWx weather station server	
+iz0qwm/ecowitt_http_gateway	65	NONE	hardware	Weather Stations	Simple HTTP gateway that receives data from GW-1000 with Ecowitt protocol and resend data to Meteotemplate or csv, json, ecc.	
+alexlenk/ecowitt_local	65	MIT	hardware	Weather Stations	Home Assistant custom integration for Ecowitt weather stations via local web interface	
+acuparse/acuparse	64	AGPL-3.0	hardware	Weather Stations	Captures, stores, and displays data from an AcuRite ‎Iris/Atlas weather station and towers via an Access/smartHUB. Uploads data to Weather Underground, CWOP, Weathercloud, PWS Weather, Windy, Windguru, and OpenWeatherMap. *** MIRROR REPO | See: https://gitlab.	
+vinthewrench/offgrid-weather-station	61	NOASSERTION	hardware	Weather Stations	A fully local, Raspberry Pi–based weather station using an Ecowitt WS90 and RTL-SDR.	
+BittyTax/BittyTax	508	AGPL-3.0	industries	Accounting & Tax Firms	Crypto-currency tax calculator with support for all popular wallets, exchanges, explorers and migration from other crypto tax platforms	
+doino-gretchenliev/revolut-stocks	200	MIT	industries	Accounting & Tax Firms	A tax calculator for stocks and dividends activities.  	
+azu/github-sponsors-tax	177	CC0-1.0	industries	Accounting & Tax Firms	GitHub Sponsorsの確定申告手順	
+PolicyEngine/policyengine-us	171	AGPL-3.0	industries	Accounting & Tax Firms	The PolicyEngine US Python package contains a rules engine of the US tax-benefit system, and microdata generation for microsimulation analysis.	
+filedcom/opentax	131	AGPL-3.0	industries	Accounting & Tax Firms	Fully open-source US federal tax engine. Single binary cli. Runs on macOS, Linux, and Windows. Built for AI agents using AI agents.	
+kdeldycke/vat-rates	102	BSD-2-Clause	industries	Accounting & Tax Firms	💸 {Digital,Cloud,Electronic,Online} Services VAT Rate Database	
+pH-7/eu-vat-validator	98	GPL-3.0	industries	Accounting & Tax Firms	:moneybag: A simple and clean PHP library that validates EU VAT registration numbers against the central ec.europa.eu database (using the official europa API) :eu:	
+wes4m/zatca-xml-js	92	MIT	industries	Accounting & Tax Firms	An implementation of Saudi Arabia ZATCA's E-Invoicing requirements, processes, and standards in TypeScript.	
+ron86i/go-siat	88	MIT	industries	Accounting & Tax Firms	Go SDK for integration with the Integrated Tax Administration System (SIAT).	
+kimlawtech/korean-jangbu-for	88	Apache-2.0	industries	Accounting & Tax Firms	한국 스타트업, 1인 법인, 프리랜서, 개인 사업자를 위한 장부 자동 생성 Claude Code 스킬. 카드명세서 PDF·은행 CSV → 재무제표·세무사 전달 CSV 자동 생성. Level 2 민감정보 마스킹 적용.	
+assoft-portugal/SAF-T-AO	82	MIT	industries	Accounting & Tax Firms	Official XSD from the Government of Angola for use in SAF-T AO	
+laroche/tastyworks-pnl	82	BSD-3-Clause	industries	Accounting & Tax Firms	prepare German tax statement with Tastyworks transaction history	
+spatie/tax-calculator	82	MIT	industries	Accounting & Tax Firms	A set of interfaces and methods to clean up your application's tax calculations	
+eprbell/dali-rp2	80	Apache-2.0	industries	Accounting & Tax Firms	DaLI (Data Loader Interface) is a data loader and input generator for RP2 (https://pypi.org/project/rp2), the privacy-focused, free, open-source cryptocurrency tax calculator: DaLI removes the need to manually prepare RP2 input files. Just like RP2, DaLI is al	
+epogrebnyak/abacus	72	GPL-3.0	industries	Accounting & Tax Firms	A small yet valid double-entry accounting system in Python and command line.	
+rtl-airband/RTLSDR-Airband	962	GPL-2.0	industries	Airlines & Aviation	Multichannel AM/NFM demodulator	
+ANG13T/skytrack	536	NONE	industries	Airlines & Aviation	skytrack is a planespotting and aircraft OSINT tool made using Python 🛩🔍	
+JeanExtreme002/FlightRadarAPI	437	MIT	industries	Airlines & Aviation	:airplane: Unofficial SDK for FlightRadar24 for Python 3, NodeJS and Golang.	
+pbogre/jetlog	351	GPL-2.0	industries	Airlines & Aviation	Personal flight tracker and viewer	
+marek-cel/mscsim	350	NOASSERTION	industries	Airlines & Aviation	Simple flight simulator.	
+kewonit/aeris	348	AGPL-3.0	industries	Airlines & Aviation	Aeris is a real-time 3D flight radar for the web	
+nicespoon/retro-adsb-radar	304	MIT	industries	Airlines & Aviation	Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.	
+szpajder/dumpvdl2	260	GPL-3.0	industries	Airlines & Aviation	VDL Mode 2 message decoder and protocol analyzer	
+ANG13T/fly-catcher	246	MIT	industries	Airlines & Aviation	✈️ A device that detects for aircraft spoofing by monitoring for malicious ADS-B signals in the 1090MHz frequency. Built using a Raspberry Pi 3B and a FlightAware SDR	
+marek-cel/QFlightinstruments	242	MIT	industries	Airlines & Aviation	QFlightInstruments is a Qt library containing flight instruments widgets including: Airspeed Indicator, Altimeter, Vertical Speed Indicator, Turn Coordinator, Attitude Indicator, Heading Indicator, Electronic Attitude Direction Indicator (EADI) and Electronic 	
+lyusupov/ADSB-Out	169	GPL-3.0	industries	Airlines & Aviation	:signal_strength:  1090ES ADS-B Out Add-on	
+szpajder/dumphfdl	162	GPL-3.0	industries	Airlines & Aviation	Multichannel HFDL decoder	
+CaviraOSS/Akashic	161	NOASSERTION	industries	Airlines & Aviation	Akashic is an open-source Palantir alternative for connecting, exploring, and analyzing complex data. Fully self-hosted, privacy-first, and requiring no API keys.	
+szpajder/libacars	157	MIT	industries	Airlines & Aviation	A library for decoding various ACARS message payloads	
+Akaflieg-Freiburg/enroute	154	GPL-3.0	industries	Airlines & Aviation	A free navigation app for VFR pilots	
+mehanix/arcada	428	Apache-2.0	industries	Architecture & Interior Design	📐 react & pixi.js interior design software / floor plan creator	
+manycore-research/InteriorGS	314	NONE	industries	Architecture & Interior Design	InteriorGS: 3D Gaussian Splatting Dataset of Semantically Labeled Indoor Scenes	
+U-C4N/Autocad-MCP	243	MIT	industries	Architecture & Interior Design	AutoCAD MCP server for AI agents (Claude, Cursor, any MCP client): 240+ tools to draw, edit and read DWG/DXF drawings. Live AutoCAD via COM, or headless with ezdxf — no AutoCAD needed. Mechanical sheets with ISO GD&T and tolerances, P&ID (ISA-5.1), floor plans	
+charmlinn/blueprint3d-modern	155	MIT	industries	Architecture & Interior Design	A modern TypeScript-based rewrite of blueprint3d — faster, cleaner, and actively maintained.	
+drink-cat/Book_Program-Principles	148	NOASSERTION	industries	Architecture & Interior Design	硬核书<<程序原理>>，有难度，有深度，值得拥有！    使用汇编、C、Java全面系统讲解，理论结合实践，图表并茂。	
+Greminn/ha-spatial-context	122	MIT	industries	Architecture & Interior Design	Trace your floor plans, place your real devices on them, and see your Zigbee, Wi-Fi, Matter, Thread and Bluetooth links where they physically are. A floor-plan map of your home for Home Assistant, built to give AI assistants real-world context.	
+therealMRBK/NextFloor	116	MIT	industries	Architecture & Interior Design	NextFloor: draw your home in Home Assistant and watch it live in 3D. Free forever – every feature, every furniture pack, no Pro, no shop. Build your own furniture, plugins welcome. No cloud, no account.	
+alaradirik/sd-interior-design	109	MIT	industries	Architecture & Interior Design	Layout preserving realistic interior design using text and image prompts	
+LieutenantRise/SketchUp-Pro-Edition	89	NOASSERTION	industries	Architecture & Interior Design	sketchup pro edition download windows — SketchUp Pro for Windows 11 & 10. README includes download steps, install sequence, and desktop setup tips.	
+tomatoparkdao/omniailab-ai-architect	76	MIT	industries	Architecture & Interior Design	OmniAiLab AI Architect｜建筑与室内设计全流程 AI 总设计师 Skill：先问清需求与场地，再按主导专业（建筑／室内／景观）推敲空间与形态，从任务书、概念、平面一路做到施工图深度 DXF、三维模型、工程量清单与可编辑 PPTX。An end-to-end AI architecture & interior design Skill: requirements first, discipline-led spatial reasoning, from brief to construction	
+laurent512/opencalque	72	MIT	industries	Architecture & Interior Design	Open-source 2D architectural editor with a Figma-like interface, a local CLI, and practical workflows for humans and AI agents.	
+pras75299/InteriorWebsite	57	NONE	industries	Architecture & Interior Design	Static Website for Interior Decorator company	
+ratulraihan/interior-design-portfolio	54	NONE	industries	Architecture & Interior Design	Stunning interior design portfolio built with Next.js, React, and Tailwind CSS. Explore our projects and get inspired!	
+leandrodaf/3d-new-era-ai	49	Apache-2.0	industries	Architecture & Interior Design	Open-source home design and floor plan editor in Rust (a Sweet Home 3D alternative) with a built-in MCP server: your AI agent draws walls, furnishes rooms, checks lighting and ergonomics, and renders photos — live, on your own machine.	
+Vanuan/sweethome3d	46	NOASSERTION	industries	Architecture & Interior Design	This repository was imported using cvs2git tool	
+commaai/opendbc	3544	MIT	industries	Auto Repair Shops	a Python API for your car	
+jherrodthomas/automotive-skills-suite	3306	MIT	industries	Auto Repair Shops	100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a co	
+linux-can/can-utils	2955	NONE	industries	Auto Repair Shops	Linux-CAN / SocketCAN user space applications	
+COVESA/vsomeip	1464	MPL-2.0	industries	Auto Repair Shops	An implementation of Scalable service-Oriented MiddlewarE over IP	
+GENIVI/CANdevStudio	1151	MPL-2.0	industries	Auto Repair Shops	Development tool for CAN bus simulation	
+f-io/LIVI	1083	GPL-3.0	industries	Auto Repair Shops	Native CarPlay Ultra & Android Auto head unit for Linux, macOS and Android, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.	
+autoas/as-deprecated	1055	NONE	industries	Auto Repair Shops	automotive software(OSEK & AUTOSAR) and its tool-chain	
+OpenSparX/MasterAgent	979	Apache-2.0	industries	Auto Repair Shops	Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.	
+cauliflowermossgrape/idrive7-apps	537	MIT	industries	Auto Repair Shops	Custom apps for the iDrive 7 head unit (shift lights, virtual dyno, brake and drag timers, G-meter, fault scanner) plus an SDK kit to build and install your own.	
+MaJerle/lwmem	464	MIT	industries	Auto Repair Shops	Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions	
+howerj/dbcc	460	MIT	industries	Auto Repair Shops	CAN DBC to C (and CSV, JSON and XML) compiler using the mpc parser combinator library	
+TOSUN-Shanghai/TSMaster	442	LGPL-2.1	industries	Auto Repair Shops	A powerful open environment for automotive bus monitoring, simulation, testing, diagnostics, calibration and so on. It supports all kinds of mainstream hardware such as TOSUN, Vector, IXXAT, PEAK, Kvaser, Intrepidcs, ZLG, CANable, CandleLight, cantact and so o	
+toyota-connected/ivi-homescreen	401	NOASSERTION	industries	Auto Repair Shops	Flutter Linux C++ embedder for desktop and embedded/automotive displays — Wayland, DRM/KMS, EGL, Vulkan (incl. zero-copy dma-buf), and software backends	
+driftregion/iso14229	375	MIT	industries	Auto Repair Shops	ISO 14229 (UDS) server and client for embedded systems	
+johschmitz/blender-driving-scenario-creator	333	GPL-3.0	industries	Auto Repair Shops	Blender add-on for creating OpenDRIVE and OpenSCENARIO based automotive driving scenarios including 3D models	
+idlesign/vininfo	153	BSD-3-Clause	industries	Automotive Dealerships	Extracts useful information from Vehicle Identification Number (VIN)	
+sunrise-php/vin	88	MIT	industries	Automotive Dealerships	Simple VIN decoder for PHP 7.1+ based on ISO-3779	
+Defcon27/Autorizz-Car-Dealership-System-using-NodeJS-Express-MongoDB	87	MIT	industries	Automotive Dealerships	It is a web-based DMS application that facilitates the management of automobile dealership increasing its efficiency and makes management much easier.	
+ShaggyTech/nhtsa-api-wrapper	41	MIT	industries	Automotive Dealerships	Decode and Validate Vehicle VINs - Javascript Client Wrapper for the nhtsa.dot.gov VPIC Vehicles API.	
+adaptant-labs/vin-decoder-dart	37	Apache-2.0	industries	Automotive Dealerships	A VIN decoding, validation, and generation library for Dart.	
+YTiOSer/ScanCode_Swift	37	NONE	industries	Automotive Dealerships	二维码 VIN码扫描 支持拍照相册选择图片识别, 功能强大, UI漂亮, 集成简单!	
+WALL-E/vin-decoder	33	NONE	industries	Automotive Dealerships	Vehicle Identification Number	
+rahul-sb/VINS	31	GPL-3.0	industries	Automotive Dealerships	Sensor Fusion using Extended Kalman Filter	
+tramyardg/autoexpress	30	Apache-2.0	industries	Automotive Dealerships	Autoexpress.co.nf is a car dealership app built for both car dealers and car buyers. A car dealer manages the car being viewed on the website by adding, updating, deleting, and uploading photos of a car. On the other hand, a car buyer can search for the vehicl	
+jomoza/Offensive_Callback	25	NONE	industries	Automotive Dealerships	 Offensive Callback is a browser fingerprinting tool designed to collect and analyze data about a user's browser and environment through various modules called "dealers." 	
+moxystudio/node-token-dealer	24	MIT	industries	Automotive Dealerships	Circumvent API rate limits by having several API tokens and let the dealer manage and give them to you	
+Wal33D/nhtsa-vin-decoder	24	MIT	industries	Automotive Dealerships	Official NHTSA vPIC API wrapper with offline WMI database fallback. Decodes VINs using government data for complete vehicle specs. Features 2000+ manufacturer codes for offline operation. Zero dependencies Python implementation.	
+Tessman404/cave-a-vin	19	MIT	industries	Automotive Dealerships	Tessvine 🍷 Gestion de cave à vin pour Home Assistant : plan de cave, bouteilles dessinées, lecture d'étiquette par IA, garde, accords mets & vins	
+bouletmarc/Converter	16	NONE	industries	Automotive Dealerships	Honda Tuning Files Converter (Convert eCtune .cal to .bin, Extract Neptune RTP and Hondata SManager .bin)	
+yushulx/flutter_ocr_sdk	15	MIT	industries	Automotive Dealerships	Detect machine-readable zones (MRZ) in passports, travel documents, and ID cards	
+MerlinVR/VRC-Bakery-Adapter	103	MIT	industries	Bakeries & Food Production	A script that handles converting Bakery RNM and SH directional lightmap bindings into a format that VRChat can process	
+ionicfirebaseapp/ionic-3-restaurantapp	87	GPL-3.0	industries	Bakeries & Food Production	Free Ionic Restaurant | Online Food Ordering Mobile App.	
+z3y/XatlasLightmap	64	MIT	industries	Bakeries & Food Production	Better lightmap packing for Unity	
+elabit/robotmk	60	GPL-2.0	industries	Bakeries & Food Production	Robotmk - the Robot Framework integration for Checkmk	
+abdulsamadayoade/Bakery	45	NONE	industries	Bakeries & Food Production	A simple and clean theme for a bakery. Built using HTML, CSS and Javascript	
+smartrecruiters/docker-bakery	44	MIT	industries	Bakeries & Food Production	Dockerfile hierarchy management tool with automatic rebuilding of dependent images when parent changes	
+heeplr/rpi-cookstrap	18	NONE	industries	Bakeries & Food Production	bake customized raspberry pi sdcard images automatically	
+TornadoInsight/Cake-eCommerce-Shop-built-in-Laravel	16	MIT	industries	Bakeries & Food Production	Cake eCommerce Shop is an open-source storefront template built with Next.js for bakeries and cake sellers. It provides a responsive, accessible product catalog, shopping cart, checkout-ready payment integration, and SEO-optimized pages to help you launch a pr	
+bubblevy/bubblebakery	11	MIT	industries	Bakeries & Food Production	BubbleBakery is a web landing page for Bakeries. This website was created using HTML, CSS, Javascript.	
+kdmoreira/CTT-Padaria	11	NONE	industries	Bakeries & Food Production	This web API is a bakery management system using ASP.NET Core, for Campinas Tech Talent's final assignment | Projeto Padaria, TCC Campinas Tech Talents - Grupo 2.	
+mikel-ao/food-labelling-audit	10	NONE	industries	Bakeries & Food Production	Audit of the current food labeling system	
+JoaciFaustino/front-cake-ecommerce	9	MIT	industries	Bakeries & Food Production	A platform designed to manage a fictional online cake store, built with Next.js, React, Typescript and Sass.	
+genpat-it/cgDist	9	MIT	industries	Bakeries & Food Production	Ultra-fast SNP/indel-level distance calculator for core and whole genome MLST (cg/wgMLST) analysis in bacterial genomics	
+imshota1009/Cat-Sweets	8	Apache-2.0	industries	Bakeries & Food Production	A Ghibli-inspired immersive portfolio themed "Witch's Forest Bakery." Features real-time atmospheric changes and interactive animations built with Vanilla JS and Tailwind CSS.	
+AoiKamishiro/UnityCustomEditor_BakeryAutoSetup	7	MIT	industries	Bakeries & Food Production	Bakery Component Attach	
+git-tips/tips	21722	MIT	industries	Bars, Nightlife & Hospitality Staff	Most commonly used git tips and tricks.	
+mhinz/vim-galore	18048	CC-BY-SA-4.0	industries	Bars, Nightlife & Hospitality Staff	:mortar_board: All things Vim!	
+go101/go101	6053	NOASSERTION	industries	Bars, Nightlife & Hospitality Staff	An up-to-date (unofficial) knowledge base for Go programming self learning	
+ben-nour/SQL-tips-and-tricks	2311	MIT	industries	Bars, Nightlife & Hospitality Staff	SQL tips and tricks	
+Naetw/CTF-pwn-tips	1830	NONE	industries	Bars, Nightlife & Hospitality Staff	Here record some tips about pwn. Something is obsoleted and won't be updated. Sorry about that.	
+Cyber-Guy1/API-SecurityEmpire	1443	NONE	industries	Bars, Nightlife & Hospitality Staff	API Security Project aims to present unique attack & defense methods in API Security field	
+emreozdil/Swift-Daily-Tips	1360	MIT	industries	Bars, Nightlife & Hospitality Staff	:octocat: Daily Tips from Swift World	
+OussamaMater/Laravel-Tips	1316	NONE	industries	Bars, Nightlife & Hospitality Staff	Daily Laravel and PHP tips.	
+blackode/elixir-tips	1095	NONE	industries	Bars, Nightlife & Hospitality Staff	The Killer Elixir Tips and Tricks...from the experience...	
+codebytere/so-you-want-an-internship	1062	NONE	industries	Bars, Nightlife & Hospitality Staff	for those seeking software engineering internships	
+vincent-pradeilles/swift-tips	1009	MIT	industries	Bars, Nightlife & Hospitality Staff	A collection useful tips for the Swift language	
+xl7dev/BurpSuite	999	NONE	industries	Bars, Nightlife & Hospitality Staff	BurpSuite using the document and some extensions	
+cctanfujun/android-tips-tricks-cn	925	NONE	industries	Bars, Nightlife & Hospitality Staff	震惊！这么多的安卓开发Tips	
+michael-rubel/livewire-best-practices	910	MIT	industries	Bars, Nightlife & Hospitality Staff	Laravel Livewire Best Practices	
+Imangazaliev/git-tips	628	MIT	industries	Bars, Nightlife & Hospitality Staff	Часто используемые трюки и советы при работе с Git	
+ethersphere/bee	1485	BSD-3-Clause	industries	Beekeeping	Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.	
+s-mang/test2doc	334	MIT	industries	Beekeeping	Generate documentation for your REST/HTTP API from your Go unit tests	
+thecopy/apiary2postman	204	MIT	industries	Beekeeping	Tool for generating a Postman collection from Blueprint API markup or the Apiary API	
+wandercn/hotbuild	200	NOASSERTION	industries	Beekeeping	a cross platform hot compilation tool for golang	
+ethersphere/bee-dashboard	142	BSD-3-Clause	industries	Beekeeping	An app which helps users to setup their Bee node and do actions like cash out cheques	
+prgumd/EVDodgeNet	121	BSD-3-Clause	industries	Beekeeping	EVDodgeNet: Deep Dynamic Obstacle Dodging with event cameras	
+jch254/serverless-node-dynamodb-api	85	MIT	industries	Beekeeping	API powered by Serverless, TypeScript, Webpack and DynamoDB, intended as a starting point for Serverless APIs	
+plantbreeding/BrAPI	79	MIT	industries	Beekeeping	Repository for version control of the BrAPI specifications	
+sschmid/bee	78	MIT	industries	Beekeeping	🐝 bee - plugin-based bash automation	
+isovalent/ebeedex	75	NOASSERTION	industries	Beekeeping	Find your favorite eBee	
+kudakwashechanda-byte/Bee-Swarm-Task-Automation-Suite	68	NONE	industries	Beekeeping	Automated Bee Swarm Simulator 2026 Memory Script with ESP and Movement Tools	
+ethersphere/bee-js	67	BSD-3-Clause	industries	Beekeeping	Javascript client library for connecting to Bee decentralised storage	
+MattMcFarland/rot-web-api	59	MIT	industries	Beekeeping	roguelike dungeon generator RESTful web api	
+ethersphere/swarm-cli	50	BSD-3-Clause	industries	Beekeeping	Manage your Bee node and interact with the Swarm network via the CLI	
+BeeAlarmed/BeeAlarmed	46	GPL-3.0	industries	Beekeeping	A camera based bee-hive monitoring that identifies and tracks bees. It also identifies bee characteristics with a neural network, such as pollen packages, wasps, varroa mite infestations or bees trying to cool the hive.	
+doitsujin/dxvk	18437	Zlib	industries	Breweries & Wineries	Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine	
+winapps-org/winapps	16144	NOASSERTION	industries	Breweries & Wineries	 Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/	
+zq1997/deepin-wine	5286	GPL-3.0	industries	Breweries & Wineries	【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式	
+Gictorbit/photoshopCClinux	4528	GPL-2.0	industries	Breweries & Wineries	Photoshop CC v19  installer for Gnu/Linux	
+robbert-vdh/yabridge	4230	GPL-3.0	industries	Breweries & Wineries	A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux	
+Winetricks/winetricks	3559	LGPL-2.1	industries	Breweries & Wineries	Winetricks is an easy way to work around problems in Wine	
+askme765cs/Wine-QQ-TIM	3141	NONE	industries	Breweries & Wineries	提供在Linux上运行最新版腾讯QQ与TIM的解决方案 Easiest Way to Run QQ&TIM on Linux	
+gauthierpiarrette/highball	2192	GPL-3.0	industries	Breweries & Wineries	Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.	
+Vysp3r/ProtonPlus	1867	GPL-3.0	industries	Breweries & Wineries	A modern compatibility tools manager	
+MythicApp/Mythic	1463	GPL-3.0	industries	Breweries & Wineries	An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple's Game Porting Toolkit, with support for multiple storefronts.	
+Kron4ek/Wine-Builds	1300	MIT	industries	Breweries & Wineries	Wine builds (Vanilla, Staging, TkG and Proton)	
+3Shain/dxmt	1274	NOASSERTION	industries	Breweries & Wineries	Metal-based implementation of D3D11 and D3D10 for macOS / Wine	
+LinSoftWin/Photoshop-CC2022-Linux	1174	BSD-3-Clause	industries	Breweries & Wineries	Installer from Photoshop CC 2021 to 2022 on linux with a GUI	
+Kron4ek/Conty	1130	MIT	industries	Breweries & Wineries	Easy to use unprivileged Linux container packed into a single portable executable	
+danoon2/Boxedwine	1111	GPL-2.0	industries	Breweries & Wineries	Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine	
+OTRF/ThreatHunter-Playbook	4709	MIT	industries	Campgrounds, Outfitters & Outdoor Guides	A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.	
+hacklcx/HFish	4551	NONE	industries	Campgrounds, Outfitters & Outdoor Guides	安全、可靠、简单、免费的企业级蜜罐	
+Cyb3rWard0g/HELK	3936	GPL-3.0	industries	Campgrounds, Outfitters & Outdoor Guides	The Hunting ELK	
+Yamato-Security/hayabusa	3442	AGPL-3.0	industries	Campgrounds, Outfitters & Outdoor Guides	Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.	
+FalconForceTeam/FalconFriday	937	BSD-3-Clause	industries	Campgrounds, Outfitters & Outdoor Guides	Hunting queries and detections	
+Yamato-Security/WELA-deprecated	774	GPL-3.0	industries	Campgrounds, Outfitters & Outdoor Guides	WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）	
+THORCollective/HEARTH	360	NONE	industries	Campgrounds, Outfitters & Outdoor Guides	A community-driven repository for threat hunting ideas, methodologies, and research that serves as a central gathering place for hunters to share knowledge, collaborate on techniques, and advance the field of threat hunting.	
+DefensiveOrigins/AtomicPurpleTeam	307	GPL-3.0	industries	Campgrounds, Outfitters & Outdoor Guides	Atomic Purple Team Framework and Lifecycle	
+eshlomo1/Microsoft-Sentinel-SecOps	270	MIT	industries	Campgrounds, Outfitters & Outdoor Guides	Microsoft Sentinel SOC Operations	
+jurelou/epagneul	253	NONE	industries	Campgrounds, Outfitters & Outdoor Guides	Graph Visualization for windows event logs	
+Yamato-Security/suzaku	237	AGPL-3.0	industries	Campgrounds, Outfitters & Outdoor Guides	Suzaku (朱雀) is a sigma-based threat hunting and fast forensics timeline generator for cloud logs.	
+rastrea2r/rastrea2r	237	MIT	industries	Campgrounds, Outfitters & Outdoor Guides	Collecting & Hunting for IOCs with gusto and style	
+alexverboon/Hunting-Queries-Detection-Rules	210	MIT	industries	Campgrounds, Outfitters & Outdoor Guides	KQL Queries. Microsoft Defender, Microsoft Sentinel	
+burpheart/hachimi	195	Apache-2.0	industries	Campgrounds, Outfitters & Outdoor Guides	哈基米 一个分布式蜜网系统 | hachimi A Distributed Honeypot System	
+Pymmdrza/Pyromid	177	NONE	industries	Campgrounds, Outfitters & Outdoor Guides	Pyromid For Hack and Cracking Private Key and Address Bitcoin Wallet From Mnemonic [Words - Passphrase]	
+yeqifu/carRental	349	NONE	industries	Car Rental	汽车租赁系统	
+Daniel-Krzyczkowski/Cars-Island-On-Azure	286	MIT	industries	Car Rental	Cars Island is a fake car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.	
+Hamed-Hasan/Online-Booking-Management	273	NONE	industries	Car Rental	🏠🗺️ Chisfis: A Next.js template for all your booking needs! 🎉 Features 30+ pages, 🌓 Dark/Light modes, 🗺️ Google Maps, 📅 Date-pickers, and more. Built with 💪 Next.js 13, 🎨 TailwindCSS v3, and 📝 TypeScript. Ideal for 🏨 Accommodations, 🚗 Car Rentals, 🛳️ Cruises, 	
+codewithsadee/ridex	200	NONE	industries	Car Rental	Ridex is fully responsive car rental website	
+eduamdev/carhive	198	MIT	industries	Car Rental	A car rental website built with Next.js (App Router) and TypeScript featuring dynamic routing, a responsive UI with Tailwind CSS, Clerk authentication, Vercel Postgres, Drizzle ORM, and Cloudinary for images. It includes search filters, an infinite logo slider	
+affromero/flight-finder	184	MIT	industries	Car Rental	Self-hosted flight, hotel, and car rental price tracking with alerts, price history, and web and CLI interfaces.	
+gerfagerfa/car_rental	159	NONE	industries	Car Rental	Car Rental App in Flutter	
+Shashank02051997/CarRentalUI-Android	146	GPL-3.0	industries	Car Rental	Check out the new style for App Design aims for Car rent...😉😀😁😎	
+Singh-Shivani/hopOn	138	MIT	industries	Car Rental	A car rental flutter application using firebase and google maps API	
+ugurkryl41/CarRentalProject	135	NONE	industries	Car Rental	ReCapProject	
+PWB97/carrent	112	NONE	industries	Car Rental	SpringBoot汽车租赁系统-Car Rental Management On Spring Boot	
+MonsieurZbanowanYY/Car-Rental-App-UI-Flutter	108	Apache-2.0	industries	Car Rental	Beautiful Car Rental App UI with support for dark mode. Created by Martin Gogołowicz.	
+poyrazaktas/Car-Rental-Project	107	MIT	industries	Car Rental	A car rental project developed with ASP.Net Core & Angular.	
+Ellie-Y/CarRentalSystem	103	NONE	industries	Car Rental	Qt creator used	
+devmuhib/React-Car-Rental-Website	96	NONE	industries	Car Rental	Responsive car rental website using react.js	
+openmensa/openmensa	88	AGPL-3.0	industries	Catering & Meal Prep	Central hub for canteen information (meals, location ...)	
+kronos-et-al/MensaApp	77	MIT	industries	Catering & Meal Prep	Application for communication and collective exchange of menu information in university catering facilities	
+sanjaysans/Food-Ordering-App-Cassia	55	NONE	industries	Catering & Meal Prep	A Flutter App for ordering food online from college canteen.	
+roshan9419/CafyTheOfficeCafeteria	38	NONE	industries	Catering & Meal Prep	An app for office/college employees/students to make their orders online. It's a prototype...	
+Cedarest/iCanteen	30	Apache-2.0	industries	Catering & Meal Prep	爱食堂是一款提供菜品打分、点赞、评论和讨论平台的微信小程序，后端采用Serverless架构实现。	
+kiliankoe/MensaDresden	29	MIT	industries	Catering & Meal Prep	🌯 See what's for lunch at Dresden's canteens	
+NextCafeteria/cafeteria	25	MIT	industries	Catering & Meal Prep	Cafeteria App - Online ordering and store management for coffe shops	
+schorschii/MensaGuthaben-iOS	25	GPL-3.0	industries	Catering & Meal Prep	Read the balance of your mensa/canteen card	
+aditmodhvadia/Canteen_App	18	GPL-3.0	industries	Catering & Meal Prep	An app to order food from a canteen in an easy way.	
+theArjun/cafeteria-management-system	18	GPL-3.0	industries	Catering & Meal Prep	Cafeteria management system	
+cvzi/mensahd	17	GPL-3.0	industries	Catering & Meal Prep	☕ Parser for openmensa.org for canteens of Studierendenwerk Heidelberg, Mannheim, Stuttgart, Ulm and Hamburg	
+kavindyasinthasilva/online-canteen-nsbm-web-project	16	NOASSERTION	industries	Catering & Meal Prep	19.1 web presentation - PHP use this	
+Threepeng7196/mcd-organizer-hub	13	NONE	industries	Catering & Meal Prep	面向漫展/宅舞/社团活动主办方的麦当劳企业团餐批量采购 + 主题派对预约一站式 Skill｜麦当劳程序员创意开发大赛参赛作品	
+anotherwebguy/Canteen-Automation-App	13	GPL-3.0	industries	Catering & Meal Prep	A canteen automation app to automate the manual canteen management system.	
+mammuth/alexa-mensa-munich	12	Apache-2.0	industries	Catering & Meal Prep	Alexa skill for Munich's canteens :spaghetti: :fork_and_knife: :apple:	
+arunsworld/nursery	71	Apache-2.0	industries	Childcare & Daycare	Structured Concurrency in Go	
+pieforproviders/pieforproviders	27	GPL-3.0	industries	Childcare & Daycare	We help child care providers and families claim the government funding for which they are already eligible. 	
+studio1247/gertrude	17	GPL-3.0	industries	Childcare & Daycare	Gestion de crèches / haltes-garderies	
+FourDivs/HerbWorld	13	NONE	industries	Childcare & Daycare	An Online Portal To Connect Nursery and Customer With each other.	
+noponies/daycare	6	NONE	industries	Childcare & Daycare	Humanist display typeface	
+geogengames-hue/MonitorAndControl	6	NOASSERTION	industries	Childcare & Daycare	🖥️ Free parental control for Windows — track app usage, enforce daily limits,  schedule rules, web dashboard. Supports Fortnite, Roblox, Minecraft & more.	
+DidulaGamage-lk/Nursery-management-system	6	MIT	industries	Childcare & Daycare	This is a C# forms based nursery management system for teachers, students, admin	
+owanvik/esPriam32	6	MIT	industries	Childcare & Daycare	ESP32-C6 BLE-to-WiFi bridge for Cybex E-Priam stroller. Control rocking, drive modes, and monitor battery via Home Assistant or web interface. Native ESP-IDF with OTA updates.	
+ananyasethh/GreenLeaf	5	NONE	industries	Childcare & Daycare	The repository consists of all development files and resources of website GreenLeaf. GreenLeaf is an e-Nursery website with a range of producst in Plants, Accessories and Pots. Site under development.	
+iqbalhasandev/kindergarten-school-management	5	NONE	industries	Childcare & Daycare	Kinco Kindergarten School Management that can beused for preschool and day care institutions, children groups, play schools, kindergartens and kids stores. Ir has all the needed functionality for a kindergarten of a day care website, as well as for children go	
+mac-cleanup/mac-cleanup-sh	2811	MIT	industries	Cleaning Services	🗑️ Cleanup script for macOS (DEPRECATED)	
+sfu-db/dataprep	2270	MIT	industries	Cleaning Services	Open-source low code data preparation library in python. Collect, clean and visualization your data in python with a few lines of code.	
+mewebstudio/Purifier	1979	MIT	industries	Cleaning Services	HTMLPurifier for Laravel 5+	
+jckuester/awsweeper	496	MPL-2.0	industries	Cleaning Services	A tool for cleaning your AWS account	
+AraafRoyall/Cleaner-Royall	253	NOASSERTION	industries	Cleaning Services	🚀 𝗔 𝗠𝗼𝘀𝘁 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 [Root]	
+ayman-ibrahim/ProcessLoadingView	251	MIT	industries	Cleaning Services	ProcessLoadingView is a step indicator loading animation built using CABasicAnimation	
+5cover/WinClean	209	MIT	industries	Cleaning Services	Windows optimization and debloating utility.	
+sindresorhus/run-electron	204	MIT	industries	Cleaning Services	Run Electron without all the junk terminal output	
+jckuester/awsrm	104	MIT	industries	Cleaning Services	A remove command for AWS resources	
+sassman/putzen-rs	92	GPL-3.0	industries	Cleaning Services	"putzen" is German and means cleaning. It helps keeping your disk clean of build and dependency artifacts safely.	
+kburchfiel/pfn	91	MIT	industries	Cleaning Services	Python For Nonprofits demonstrates how to use Python to retrieve, analyze, visualize, and share nonprofit data.	
+ARBML/tnkeeh	77	MIT	industries	Cleaning Services	Arabic cleaning, normalization and segmentation library. 	
+GGiecold-zz/pyRMT	75	MIT	industries	Cleaning Services	Python for Random Matrix Theory: cleaning schemes for noisy correlation matrices.	
+dungba88/cleaner_robot	66	Unlicense	industries	Cleaning Services	A simple room cleaning algorithm	
+Calamari/facebook-cleaner	52	MIT	industries	Cleaning Services	It is almost spring, so time for a pre spring cleaning. This time: taking care of your Facebook. This script can safe you a lot of time if you would try to do that by hand.	
+alibaba/dawn	1128	MIT	industries	Construction & Contractors	:sunrise: Dawn is a lightweight task management and build tool for front-end and nodejs. 	
+OpenAEC-Foundation/open-pdf-studio	1013	LGPL-3.0	industries	Construction & Contractors	An open source PDF viewer/editor with it's own blazing fast rust engine	
+jwiegley/category-theory	819	BSD-3-Clause	industries	Construction & Contractors	An axiom-free formalization of category theory in Coq for personal study and practical work	
+viliwonka/KDTree	598	MIT	industries	Construction & Contractors	Fast KDTree for Unity, with thread-safe querying.	
+ThatOpen/web-ifc-three	597	MIT	industries	Construction & Contractors	The official IFC Loader for Three.js.	
+larsjanssen6/underconstruction	558	MIT	industries	Construction & Contractors	This Laravel 8 package makes it possible for you to set your website in "Under Construction" mode. Only users with the correct 4 (or more) digit code can access your site. :fire:  :boom: :fire:	
+nimit95/Real-world-Design-Patterns-Node-JS	427	MIT	industries	Construction & Contractors	All the 23 (GoF) design patterns implemented in Javascript with Real World Example using Node.js APIs	
+hypar-io/Elements	422	MIT	industries	Construction & Contractors	The smallest useful BIM.	
+datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction	395	MIT	industries	Construction & Contractors	221 AI skills for construction: BIM analysis, cost estimation, scheduling, document control, and automation with Claude Code	
+egmalt/house-planner	381	MIT	industries	Construction & Contractors	Self-hosted house planner: true-scale 2D floor plan, 3D, satellite map overlay, sewer, electrical, water and underfloor heating with calculations, priced bill of materials. React + PHP, no database. By the team behind homedesignsai.pro	
+datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR	273	NOASSERTION	industries	Construction & Contractors	Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB	
+GSharker/G-Shark	241	MIT	industries	Construction & Contractors	G-Shark is a free and open-source geometry library designed for computational designers and software developers in the Architecture, Engineering, and Construction (AEC) industry.	
+mac137/ConSLAM	158	NOASSERTION	industries	Construction & Contractors	ConSLAM: Construction Dataset for SLAM	

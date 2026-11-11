@@ -1,0 +1,380 @@
+yairm210/Unciv	11534	MPL-2.0	games	Strategy Games	Open-source Android/Desktop remake of Civ V	Civ-like mobile game; ad-supported fork (Civ trademark caution)
+OpenTTD/OpenTTD	8474	NOASSERTION	games	Strategy Games	OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe	Transport tycoon clone; host servers, avoid original TTD assets
+wesnoth/wesnoth	6977	GPL-2.0	games	Strategy Games	An open source, turn-based strategy game with a high fantasy theme.	Original GPL strategy; sell mobile ports and premium campaigns
+beyond-all-reason/Beyond-All-Reason	4346	NOASSERTION	games	Strategy Games	Main game repository for Beyond All Reason.	Community RTS; sponsorship and hosted tournaments
+Warzone2100/warzone2100	4049	GPL-2.0	games	Strategy Games	Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+	RTS hosting and premium multiplayer lobbies
+widelands/widelands	3121	GPL-2.0	games	Strategy Games	Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.	Settlers-like original economy game; mobile port
+0ad/0ad	2828	NOASSERTION	games	Strategy Games	[DEPRECATED] Git mirror of the 0 A.D. SVN source code (migrated to https://gitea.wildfiregames.com on August 20th 2024)	Historical RTS for education licensing and Steam distribution
+FreezingMoon/AncientBeast	1890	AGPL-3.0	games	Strategy Games	The Turn Based Strategy Game/eSport. Master your beasts! 🐺	Turn-based browser strategy with cosmetic microtransactions
+freeciv/freeciv	1630	GPL-2.0	games	Strategy Games	Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://redmine.freeciv.org/projects/freeciv	Hosted multiplayer civ server with premium accounts
+unknown-horizons/unknown-horizons	1563	NONE	games	Strategy Games	Unknown Horizons official code repository	City-building sim reskinned for educational markets
+freeorion/freeorion	1062	NONE	games	Strategy Games	Source code repository of the FreeOrion project.	Space 4X with custom content packs on Steam
+MegaGlest/megaglest-source	420	NONE	games	Strategy Games	MegaGlest real-time strategy game engine (cross-platform, 3-d)	3D RTS reskin for branded edutainment
+longturn/freeciv21	274	GPL-3.0	games	Strategy Games	Develop your civilization from humble roots to a global empire	Longturn-style hosted strategy community subscriptions
+mawoka-myblock/ClassQuiz	737	MPL-2.0	games	Trivia & Quiz Platforms	ClassQuiz is a quiz-application like Kahoot!, but open-source.	Kahoot alternative SaaS for schools and corporate training
+mholzi/beatify	235	MIT	games	Trivia & Quiz Platforms	🎵 Music quiz party game for Home Assistant with two modes, guess the release year or name the title and artist. Streams from Spotify, Apple Music, Tidal, Deezer, YouTube Music and Amazon Music, or plays your own library via Plex, Jellyfin and local files. Runs	Music trivia party game for bars
+supabase-community/kahoot-alternative	171	MIT	games	Trivia & Quiz Platforms	An open source Kahoot alternative made with Next.js and Supabase	Live quiz events for companies and bars
+h5p/h5p-php-library	154	GPL-3.0	games	Trivia & Quiz Platforms		Interactive quiz content hosting for LMS vendors
+lykoss/lykos	143	NOASSERTION	games	Trivia & Quiz Platforms	Werewolf, the popular detective/social party game (a theme of Mafia)	IRC werewolf bot for hosted social deduction events
+cynicaloptimist/longwave	100	MIT	games	Trivia & Quiz Platforms	Real-time online adaptation of the Wavelength party game	Online party guessing game for remote team building
+quizdock/quizdock	13	MIT	games	Trivia & Quiz Platforms	A self-hosted Kahoot alternative	Self-hosted quiz platform for trainers
+Rishi-ZAiFi/open.mentimeter	2	MIT	games	Trivia & Quiz Platforms	mentimeter-alternative, kahoot-alternative, local-first, offline-first, live-quiz, socket-io, react, nodejs, real-time, examination-system, air-gapped, classroom-tool, excel-export, zero-cloud	Interactive presentation quizzes for conferences
+alphasecio/pollinator	1	MIT	games	Trivia & Quiz Platforms	A minimal, self-hosted Kahoot alternative for live polls.	Live polling and trivia for events
+aframevr/aframe	17691	MIT	games	VR/AR Frameworks	:a: Web framework for building virtual reality experiences.	WebXR experiences agency for brands
+google/model-viewer	8314	Apache-2.0	games	VR/AR Frameworks	Easily display interactive 3D models on the web and in AR! 	AR product viewer for e-commerce
+alvr-org/ALVR	8052	MIT	games	VR/AR Frameworks	Stream VR games from your PC to your headset via Wi-Fi	Wireless VR streaming for arcades
+AR-js-org/AR.js	5995	MIT	games	VR/AR Frameworks	Image tracking, Location Based AR, Marker tracking. All on the Web.	Marker AR campaigns for print and packaging
+hiukim/mind-ar-js	2756	MIT	games	VR/AR Frameworks	Web Augmented Reality. Image Tracking, Face Tracking. Tensorflow.js	Web AR image tracking for marketing
+pmndrs/xr	2622	NOASSERTION	games	VR/AR Frameworks	🤳 VR/AR for react-three-fiber	React VR app development services
+protectwise/troika	1986	MIT	games	VR/AR Frameworks	A JavaScript framework for interactive 3D and 2D visualizations	3D UI for WebXR apps
+Unity-Technologies/XR-Interaction-Toolkit-Examples	1316	NOASSERTION	games	VR/AR Frameworks	This repository contains various examples to use with the XR Interaction Toolkit	VR prototyping agency
+KhronosGroup/OpenXR-SDK	1162	Apache-2.0	games	VR/AR Frameworks	Generated headers and sources for OpenXR loader.	VR app porting services
+GodotVR/godot-xr-tools	744	MIT	games	VR/AR Frameworks	Support scenes for AR and VR in Godot	VR training sim development
+immersive-web/webxr-polyfill	416	Apache-2.0	games	VR/AR Frameworks	Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard	Cross-device WebXR deployments
+felddy/foundryvtt-docker	947	MIT	games	Virtual Tabletop & TTRPG	An easy-to-deploy containerized Foundry Virtual Tabletop server.	Managed Foundry hosting service
+RPTools/maptool	931	AGPL-3.0	games	Virtual Tabletop & TTRPG	Virtual Tabletop for playing roleplaying games with remote players or face to face.	Hosted VTT campaigns for game masters
+atlas-vtt/atlas-vtt	667	AGPL-3.0	games	Virtual Tabletop & TTRPG	Open Source virtual tabletop for Obsidian: battle maps, tokens, fog of war, dice, initiative and a separate player view.	Self-hosted VTT SaaS for TTRPG groups
+foundryvtt/dnd5e	610	MIT	games	Virtual Tabletop & TTRPG	An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).	Paid modules for Foundry users (SRD licensing)
+cynicaloptimist/improved-initiative	348	MIT	games	Virtual Tabletop & TTRPG	Combat tracker for Dungeons and Dragons (D&D) 5th Edition	Combat tracker with Patreon tiers
+MrPrimate/ddb-importer	253	MIT	games	Virtual Tabletop & TTRPG	Integrate your dndbeyond.com content into Foundry virtual tabletop	Patreon-funded integrations for VTT users
+Durtur/Dungeoneer	217	AGPL-3.0	games	Virtual Tabletop & TTRPG	A virtual tabletop designed for 5e D&D, includes a map tool with dynamic lighting, initiative tracker, combat tracker and homebrew management. 	DM toolkit sold with content packs
+Rolisteam/rolisteam	200	NOASSERTION	games	Virtual Tabletop & TTRPG	Rolisteam is a virtual tabletop. It helps you to manage tabletop role playing games with remote friends/players. It provides many features to share maps, pictures, dice roller, manage background music and much more. The main git repository is available here: [	Role-playing session software for clubs
+owlbear-rodeo/owlbear-rodeo-legacy	194	NONE	games	Virtual Tabletop & TTRPG	The source code for Owlbear Rodeo 1.0 released for your non-profit use	Simple browser battle maps; hosted premium tier
+samcf/ogres	193	AGPL-3.0	games	Virtual Tabletop & TTRPG	Free online virtual tabletop that runs in your browser. No sign ups, no ads, no nonsense.	Browser VTT with premium hosted maps
+renpy/renpy	6984	NONE	games	Visual Novel Engines	The Ren'Py Visual Novel Engine	Visual novel studio with Steam and Patreon releases
+dialogic-godot/dialogic	6151	MIT	games	Visual Novel Engines	💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!	Godot dialogue/VN templates marketplace
+OpenWebGAL/WebGAL	4023	MPL-2.0	games	Visual Novel Engines	A brand new web Visual Novel engine | 全新的网页端视觉小说引擎	Hosted web visual novel platform for creators
+Monogatari/Monogatari	895	MIT	games	Visual Novel Engines	Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web.	Web visual novels for brand storytelling
+ShikemokuMK/tyranoscript	540	NOASSERTION	games	Visual Novel Engines	novel game engine for Browser, iOS, Android , etc 	Japanese-style VN production service
+Uni-Gal/Ayaka	247	MIT	games	Visual Novel Engines	A visual novel engine written in Rust. Just Ayaka.	Multilingual VN engine for localization studios
+CommitteeOfZero/impacto	210	ISC	games	Visual Novel Engines	"MAGES." visual novel engine reimplementation 	VN engine reimplementation for localization services
+prompt-engineering/chat-visual-novel	175	MIT	games	Visual Novel Engines	ChatVisualNovel - a fully customizable visual novel engine powered by ChatGPT. ChatVisualNovel —— 基于ChatGPT的定制化视觉小说引擎。	AI-generated visual novels subscription app
+mrdoob/three.js	117791	MIT	games	Web Game Engines	JavaScript 3D Library.	Immersive brand web experiences agency
+pixijs/pixijs	48644	MIT	games	Web Game Engines	The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.	Interactive web casual games for publishers and sweepstakes
+phaserjs/phaser	40658	MIT	games	Web Game Engines	Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.	HTML5 advergame studio for brand marketing campaigns
+pmndrs/react-three-fiber	33555	MIT	games	Web Game Engines	🇨🇭 A React renderer for Three.js	3D web game and experience agency for React teams
+BabylonJS/Babylon.js	26304	Apache-2.0	games	Web Game Engines	Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.	3D product configurators and web games for retailers
+liabru/matter-js	18604	MIT	games	Web Game Engines	a 2D rigid body physics engine for the web ▲● ■	Physics puzzle games for web portals and ads
+playcanvas/engine	17234	MIT	games	Web Game Engines	Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF	Self-hosted playable ad and 3D web game platform
+melonjs/melonJS	6441	MIT	games	Web Game Engines	A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio.	Lightweight HTML5 games for instant-play portals
+KilledByAPixel/LittleJS	4372	MIT	games	Web Game Engines	Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.	Tiny web games for embedded promotions and newsletters
+excaliburjs/Excalibur	2362	BSD-2-Clause	games	Web Game Engines	🎮 Your friendly TypeScript 2D game engine for the web 🗡️	TypeScript game templates sold to indie developers
+tentone/nunuStudio	2242	MIT	games	Web Game Engines	Web powered cross-platform 3D, WebXR game engine.	Hosted visual 3D web app editor for agencies
+kaplayjs/kaplay	1825	MIT	games	Web Game Engines	🦖 A JavaScript/TypeScript Game Library that feels like a game.	Beginner game creation platform for schools
+playcanvas/editor	1364	MIT	games	Web Game Engines	Browser-based visual editor for building WebGL, WebGPU, WebXR apps	Host a branded collaborative web game editor SaaS
+straker/kontra	1080	MIT	games	Web Game Engines	A lightweight JavaScript gaming micro-library, optimized for js13kGames.	Micro-game builder for marketing microsites
+Lattyware/massivedecks	500	AGPL-3.0	games	Word Games	A comedy party game for PC, mobile & chromecast. 	Party card game (CAH-like); brand your own decks
+Jimbly/regex-crossword	318	NONE	games	Word Games	Implementation of a RegExp crossword.	Developer puzzle site with sponsor placements
+JaredReisinger/react-crossword	226	MIT	games	Word Games	A flexible, responsive, and easy-to-use crossword component for React apps.	Embeddable crossword widget for newspapers
+quackle/quackle	210	NOASSERTION	games	Word Games	Quackle crossword game artificial intelligence and analysis tool	Crossword board game AI for training apps
+thisisparker/xword-dl	208	MIT	games	Word Games	▞ Command line tool to scrape crosswords from online solvers and save them as .puz files ▚	Crossword aggregation tooling for puzzle apps
+riverrun/genxword	202	GPL-3.0	games	Word Games	Crossword generator written in Python.	Crossword generator for educational worksheets
+WebDevSimplified/wordle-clone	178	MIT	games	Word Games		Branded daily word game for media sites (avoid Wordle name)
+CTNicholas/wordle-wars	92	NONE	games	Word Games	Multiplayer Wordle clone built with Vue.js & Liveblocks.	Multiplayer word race with sponsored rooms
+narze/thwordle	66	NONE	games	Word Games	Thai Wordle clone, built with Svelte & TailwindCSS	Regional-language word game with ads
+rhasspy/piper	11318	MIT	mobile	Accessibility	A fast, local neural text to speech system	Offline voice for assistive apps
+dequelabs/axe-core	7776	MPL-2.0	mobile	Accessibility	Accessibility engine for automated Web UI testing	WCAG compliance scanning SaaS
+espeak-ng/espeak-ng	7005	GPL-3.0	mobile	Accessibility	eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.	Multilingual TTS for accessibility apps
+pa11y/pa11y	4593	LGPL-3.0	mobile	Accessibility	Pa11y is your automated accessibility testing pal	Accessibility monitoring service
+nvaccess/nvda	2684	NOASSERTION	mobile	Accessibility	NVDA, the free and open source Screen Reader for Microsoft Windows	Screen reader training and support
+cboard-org/cboard	766	GPL-3.0	mobile	Accessibility	Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser	AAC communication app for special-needs schools
+google/project-gameface	631	Apache-2.0	mobile	Accessibility		Hands-free control for disabled users
+asterics/AsTeRICS-Grid	-1	NONE	mobile	Accessibility		AAC grid boards for therapists
+kizniche/Mycodo	3303	GPL-3.0	mobile	Agriculture & Farm	An environmental monitoring and regulation system	Greenhouse automation installs / Sell mushroom grow-room environmental controllers / Greenhouse and mushroom-farm environment controllers
+danielbrendel/hortusfox-web	1693	MIT	mobile	Agriculture & Farm	Self-hosted collaborative plant management and tracking system for plant enthusiasts	Plant care app for nurseries
+farmOS/farmOS	1385	GPL-2.0	mobile	Agriculture & Farm	farmOS: A web-based farm record keeping application.	Hosted farm records for growers / Hosted farm records for small diversified farms, $15/mo / Livestock movement and health logs for homesteads
+MDeLuise/plant-it	1377	GPL-3.0	mobile	Agriculture & Farm	🪴 Open source Android gardening companion app	Plant care tracker for garden centers
+FarmBot/Farmbot-Web-App	977	MIT	mobile	Agriculture & Farm	Setup, customize, and control FarmBot from any device	Robotic garden SaaS / Offer managed FarmBot gardens for restaurants / Precision garden robots for schools and urban farms
+usetania/tania-core	824	Apache-2.0	mobile	Agriculture & Farm	Tania is a farm management software for the hobbyist and smallholder farmer.	Small farm planner subscription / Simple farm planner for market gardeners
+getodk/collect	801	NOASSERTION	mobile	Agriculture & Farm	ODK Collect is an Android app for filling out forms. It's been used to collect billions of data points in challenging environments around the world. Contribute and make the world a better place! ✨📋✨	Field surveys for agri NGOs
+farmOS/field-kit	69	GPL-3.0	mobile	Agriculture & Farm	A modular, offline-first companion app to farmOS.	Branded field app for agronomists
+beemdevelopment/Aegis	13486	GPL-3.0	mobile	Authenticator & 2FA	A free, secure and open source app for Android to manage your 2-step verification tokens.	Branded authenticator for enterprises
+stratumauth/app	4637	GPL-3.0	mobile	Authenticator & 2FA	📱 Two-Factor Authentication (2FA) client for Android + Wear OS	Branded authenticator app
+privacyidea/privacyidea	1790	AGPL-3.0	mobile	Authenticator & 2FA	:closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP, FIDO Server)	MFA server for enterprises
+twofas/2fas-android	1569	GPL-3.0	mobile	Authenticator & 2FA	Source code for 2FAS Auth Android app 	White-label 2FA app
+twofas/2fas-ios	759	GPL-3.0	mobile	Authenticator & 2FA	Source code for 2FAS Auth iOS app	Branded iOS authenticator
+helloworld1/FreeOTPPlus	750	Apache-2.0	mobile	Authenticator & 2FA	Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator	Open authenticator for organizations
+LadybirdBrowser/ladybird	66907	BSD-2-Clause	mobile	Browsers	Truly independent web browser	Embedded browser engine consulting
+zen-browser/desktop	45639	MPL-2.0	mobile	Browsers	Welcome to a calmer internet	Branded productivity browser
+ungoogled-software/ungoogled-chromium	28186	BSD-3-Clause	mobile	Browsers	Google Chromium, sans integration with Google	Private-label secure browser
+brave/brave-browser	24137	MPL-2.0	mobile	Browsers	Brave browser for Android, iOS, Linux, macOS, Windows.	Rebranded privacy browser with ads revenue
+minbrowser/min	9240	Apache-2.0	mobile	Browsers	A fast, minimal browser that protects your privacy	Minimal browser for kiosks
+Floorp-Projects/Floorp	8475	MPL-2.0	mobile	Browsers	All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊	Custom Firefox fork for companies
+uazo/cromite	8474	GPL-3.0	mobile	Browsers	Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!	Hardened browser for enterprises
+Alex313031/thorium	7629	BSD-3-Clause	mobile	Browsers	Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.	Performance browser builds
+fork-maintainers/iceraven-browser	6563	NONE	mobile	Browsers	Iceraven Browser	Mobile browser with add-ons
+duckduckgo/Android	4886	Apache-2.0	mobile	Browsers	DuckDuckGo Android App	Privacy browser reference for brands
+openpetra/openpetra	117	GPL-3.0	mobile	Church & Community	OpenPetra is an administration software (CRM+ERP) for charities	Charity donor management SaaS
+freedomofpress/securedrop	3892	NOASSERTION	mobile	Citizen Reporting	GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!	Secure tip line for newsrooms
+guardianproject/proofmode-android	266	GPL-3.0	mobile	Citizen Reporting	THIS REPOSITORY IS MIRROR OF: https://gitlab.com/guardianproject/proofmode/proofmode-android	Verified media capture for NGOs
+Horizontal-org/Tella-Android	117	MIT	mobile	Citizen Reporting	The Android version of our app Tella. Tella is a mobile app designed to protect human rights defenders, advocates, and journalists by encrypting and hiding their sensitive data and safely uploading it to their organization's server.	Secure evidence documentation for journalists / Evidence documentation app for human rights lawyers
+enketo/enketo	42	Apache-2.0	mobile	Citizen Reporting	Enketo is an open source project that produces web form software based on open-source standards. 	Offline web forms for field reporting
+globaleaks/globaleaks	-1	NONE	mobile	Citizen Reporting		Whistleblowing platform for compliance
+apache/fineract	2605	Apache-2.0	mobile	Core Banking	Apache Fineract	Hosted core banking for credit unions and MFIs / Collateral loan ledger for pawn lenders / Core banking hosting for microfinance institutions
+OpenBankProject/OBP-API	1745	AGPL-3.0	mobile	Core Banking	An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.	Open banking API layer for banks
+checkmarble/marble	618	NOASSERTION	mobile	Core Banking	Marble - the real time decision engine for fraud and AML	Transaction monitoring for neobanks
+moov-io/ach	572	Apache-2.0	mobile	Core Banking	ACH implements a reader, writer, and validator for Automated Clearing House (ACH) files. The HTTP server is available in a Docker image and the Go package is available.	ACH file processing for payment startups
+moov-io/watchman	518	Apache-2.0	mobile	Core Banking	AML/CTF/KYC/OFAC Search of global watchlist and sanctions	Sanctions screening SaaS for fintechs
+openMF/web-app	395	MPL-2.0	mobile	Core Banking	Mifos X Web App is the Web-UI component of Mifos X. It currently uses Apache Fineract as the backend and leverages the popular Angular framework.  Main Branch is the latest Stable Release, Dev should be used for all development ahead of release.	Back-office portal for lenders / Loan officer web app for MFIs
+frappe/lending	366	GPL-3.0	mobile	Core Banking	Open Source Lending software	Loan management SaaS for NBFCs
+openMF/android-client	-1	NONE	mobile	Core Banking		Field officer app for microlenders / Field loan officer app for village banking
+spesmilo/electrum	8653	MIT	mobile	Crypto Wallets	Electrum Bitcoin Wallet	Branded Bitcoin wallet for communities
+rainbow-me/rainbow	4401	GPL-3.0	mobile	Crypto Wallets	🌈‒ the Ethereum wallet that lives in your pocket 	Ethereum wallet with swap revenue
+trustwallet/wallet-core	3585	Apache-2.0	mobile	Crypto Wallets	Cross-platform, cross-blockchain wallet library.	Wallet SDK for custom crypto apps
+BlueWallet/BlueWallet	3347	MIT	mobile	Crypto Wallets	Bitcoin wallet for iOS & Android. Built with React Native 	Branded Bitcoin wallet for exchanges
+MetaMask/metamask-mobile	3084	NOASSERTION	mobile	Crypto Wallets	Mobile web browser providing access to websites that use the Ethereum blockchain	Reference wallet for custom Web3 apps
+cake-tech/cake_wallet	2011	MIT	mobile	Crypto Wallets	The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com	Privacy wallet with exchange fees
+RabbyHub/Rabby	1929	NOASSERTION	mobile	Crypto Wallets	The game-changing wallet for Ethereum and all EVM chains	Browser wallet with swap integrations
+ZeusLN/zeus	1408	NOASSERTION	mobile	Crypto Wallets	A mobile Bitcoin wallet fit for the gods. ⚡️ Est. 563345	Lightning wallet for merchants
+horizontalsystems/unstoppable-wallet-android	1269	MIT	mobile	Crypto Wallets	A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, ex	Multi-chain wallet with swap fees
+ACINQ/phoenix	879	Apache-2.0	mobile	Crypto Wallets	Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments.	Lightning wallet with channel fees
+duolicious/duolicious-frontend	1	AGPL-3.0	mobile	Dating	The internet's most popular open-source dating app's frontend	Branded dating app frontend
+guysoft/FullPageOS	4492	GPL-3.0	mobile	Digital Signage	A raspberrypi distro to display a full page browser on boot	Kiosk dashboards for offices
+Screenly/Anthias	3721	NOASSERTION	mobile	Digital Signage	The world's most popular open source digital signage project.	Managed digital signage for retail
+colloqi/piSignage	747	NONE	mobile	Digital Signage	Digital Signage Player Software for Raspberry Pi, more details at	Low-cost signage subscription
+xibosignage/xibo-cms	517	AGPL-3.0	mobile	Digital Signage	Xibo Content Management System	Signage CMS reseller for agencies
+concerto/concerto	484	Apache-2.0	mobile	Digital Signage	Concerto Digital Signage System	Campus signage for schools
+screenlite/screenlite	364	MIT	mobile	Digital Signage	Open-source digital signage software	Signage SaaS for restaurants
+sagiadinos/garlic-player	-1	NONE	mobile	Digital Signage		SMIL signage player for vendors
+koreader/koreader	30933	AGPL-3.0	mobile	Ebook, Comic & Audiobook	An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices	Custom reader firmware for e-ink devices
+kovidgoyal/calibre	26376	GPL-3.0	mobile	Ebook, Comic & Audiobook	The official source code repository for the calibre ebook manager	Ebook conversion services for authors
+readest/readest	26033	AGPL-3.0	mobile	Ebook, Comic & Audiobook	Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.	Branded ebook reader app with sync
+mihonapp/mihon	25094	Apache-2.0	mobile	Ebook, Comic & Audiobook	Free and open source manga reader for Android	Comic reader for webtoon platforms
+edrlab/thorium-reader	2935	BSD-3-Clause	mobile	Ebook, Comic & Audiobook	A cross platform desktop reading app, based on the Readium Desktop toolkit	Branded EPUB reader for libraries
+advplyr/audiobookshelf-app	2825	GPL-3.0	mobile	Ebook, Comic & Audiobook	Mobile application for Audiobookshelf	Branded audiobook player app
+booklore-app/booklore	1337	AGPL-3.0	mobile	Ebook, Comic & Audiobook	BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.	Hosted digital library for families
+readium/kotlin-toolkit	396	BSD-3-Clause	mobile	Ebook, Comic & Audiobook	A toolkit for ebooks, audiobooks and comics written in Kotlin	Reader SDK for publisher apps
+fossasia/open-event-frontend	2335	Apache-2.0	mobile	Event & Ticketing	The frontend for the Open Event API Server https://test.eventyay.com	Branded event microsites
+formancehq/ledger	1474	NONE	mobile	Fintech Wallets	The programmable open source core ledger for fintech	Programmable ledger for fintech startups
+blnkfinance/blnk	583	Apache-2.0	mobile	Fintech Wallets	Blnk is an open-source ledger & financial core for shipping fintech products fast.	Ledger backend for wallet and payout apps
+openMF/mifos-mobile	367	MPL-2.0	mobile	Fintech Wallets	Repository for the Mifos Mobile Banking App for clients.  Default Branch for PRs is Dev.  Main is for release code and subject to Release Process	Branded banking app for microfinance institutions / Member mobile banking for SACCOs
+mojaloop/central-ledger	60	NOASSERTION	mobile	Fintech Wallets	Central Ledger hosted by a scheme to record and settle transfers	Interoperable mobile money for regulators and banks
+openMF/mobile-wallet	-1	NONE	mobile	Fintech Wallets		White-label mobile wallet for MFIs
+OpenTracksApp/OpenTracks	1401	Apache-2.0	mobile	Fitness & Workout	Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks	Privacy-first sports tracker for clubs
+SamR1/FitTrackee	1176	AGPL-3.0	mobile	Fitness & Workout	Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]	Hosted workout tracking for athletic communities
+wger-project/flutter	989	AGPL-3.0	mobile	Fitness & Workout	Flutter fitness/workout app for wger	Branded gym member app
+astashov/liftosaur	774	AGPL-3.0	mobile	Fitness & Workout	Weightlifting tracker app for coders	Programmable lifting app for coaches
+joaovitoriasilva/endurain	-1	NONE	mobile	Fitness & Workout		Self-hosted Strava alternative for running clubs
+Vincenius/workout-lol	-1	NONE	mobile	Fitness & Workout		Workout generator as freemium web app
+brandonp2412/Flexify	-1	NONE	mobile	Fitness & Workout		Gym tracker resold as gym-branded app
+owntracks/android	1778	EPL-1.0	mobile	Fleet & GPS Tracking	OwnTracks Android App	Branded location sharing app
+owntracks/recorder	1222	NOASSERTION	mobile	Fleet & GPS Tracking	Store and access data published by OwnTracks apps	Family and staff location tracking
+traccar/traccar-web	1201	Apache-2.0	mobile	Fleet & GPS Tracking	Web dashboard for Traccar, the open source GPS tracking platform	Rebranded tracking dashboard / Rental fleet GPS and geofence alerts, per-vehicle fee
+traccar/traccar-client-android	762	Apache-2.0	mobile	Fleet & GPS Tracking	Traccar Client for Android	Driver tracking app for fleets
+traccar/traccar-manager-android	320	Apache-2.0	mobile	Fleet & GPS Tracking	Traccar Manager for Android	Branded fleet manager app
+julien-nc/phonetrack	183	AGPL-3.0	mobile	Fleet & GPS Tracking	Nextcloud app to create tracking sessions to display phones position in real time and export activity to gpx.	Nextcloud location tracking for teams
+AlfHou/hammond	160	AGPL-3.0	mobile	Fleet & GPS Tracking	Self hosted vehicle and expense management system. Like Clarkson, but better	Fuel and expense tracking for fleets
+fleetbase/fleetops	46	AGPL-3.0	mobile	Fleet & GPS Tracking	Fleet & Transport Management Extension for Fleetbase	Fleet operations module for logistics clients
+openfoodfoundation/openfoodnetwork	1301	AGPL-3.0	mobile	Food Delivery	Connect suppliers, distributors and consumers to trade local produce.	Local farm-to-table marketplace hosting for co-ops / Online farmers market and food hub platform
+enatega/food-delivery-singlevendor	685	MIT	mobile	Food Delivery	A fully functional and white label food delivery solution. Capable of building your own food delivery application! Includes customer, rider and restaurant apps.	Single-restaurant branded ordering app
+iSoron/uhabits	10397	GPL-3.0	mobile	Habit Trackers	Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits	Branded habit app for coaches
+daya0576/beaverhabits	1852	BSD-3-Clause	mobile	Habit Trackers	A self-hosted habit tracking app without "Goals"	Hosted habit tracker subscription
+HabitRPG/habitica-android	1839	GPL-3.0	mobile	Habit Trackers	Native Android app for Habitica	Branded gamified habit app
+FriesI23/mhabit	1692	Apache-2.0	mobile	Habit Trackers	Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.	Habit app reskin with premium
+SamAmco/track-and-graph	660	GPL-3.0	mobile	Habit Trackers	An android app for tracking personal data and creating custom graphs	Data tracking app for coaches
+johannesjo/super-productivity	-1	NONE	mobile	Habit Trackers		Productivity app for agencies
+HospitalRun/hospitalrun-frontend	6888	MIT	mobile	Health & Telemedicine	Frontend for HospitalRun	Offline-first clinic management SaaS / Offline-first hospital software for developing regions
+fastenhealth/fasten-onprem	2793	GPL-3.0	mobile	Health & Telemedicine	Fasten is an open-source, self-hosted, personal/family electronic medical record manager	Personal health record app for families
+informatici/openhospital	639	GPL-3.0	mobile	Health & Telemedicine	OH - Open Hospital is a free and open-source Electronic Health Record (EHR) software application. This repository is used to build its releases.	Hospital management for low-resource clinics
+medic/cht-core	563	AGPL-3.0	mobile	Health & Telemedicine	The CHT Core Framework makes it faster to build responsive, offline-first digital health apps that equip health workers to provide better care in their communities. It is a central resource of the Community Health Toolkit.	Community health worker apps for NGOs / Community health worker app for home visit programs
+arendst/Tasmota	24969	GPL-3.0	mobile	Home Automation & IoT	Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at	Rebranded smart plugs and switches / Sell preflashed cloud-free smart plugs and switches
+thingsboard/thingsboard	22645	NOASSERTION	mobile	Home Automation & IoT	All-in-one IoT Platform - Device management, data collection, processing and visualization.	White-label IoT dashboards for industries
+Koenkk/zigbee2mqtt	15795	GPL-3.0	mobile	Home Automation & IoT	Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨	Vendor-neutral smart home hubs / Sell Zigbee coordinator sticks and setup service
+esphome/esphome	12064	NOASSERTION	mobile	Home Automation & IoT	ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.	Branded smart devices firmware / Install local smart home sensors for homeowners
+home-assistant/android	4029	Apache-2.0	mobile	Home Automation & IoT	Home Assistant Companion for Android	Branded smart home companion app
+domoticz/domoticz	3834	GPL-3.0	mobile	Home Automation & IoT	Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.	Low-cost home automation installs
+GladysAssistant/Gladys	3271	Apache-2.0	mobile	Home Automation & IoT	A privacy-first, open-source home assistant	Privacy smart home hub product
+absmach/magistrala	2659	Apache-2.0	mobile	Home Automation & IoT	IoT Platform Framework	IoT platform as a service
+home-assistant/iOS	2405	Apache-2.0	mobile	Home Automation & IoT	:iphone: Home Assistant for Apple platforms	Branded iOS app for installers
+openhab/openhab-core	1160	EPL-2.0	mobile	Home Automation & IoT	Core framework of openHAB	Smart building integration services
+openNDS/openNDS	504	GPL-2.0	mobile	Hotel & Hospitality	openNDS (open Network Demarcation Service) is a high performance, small footprint, Captive Portal.  It provides a border control gateway between a public local area network and the Internet.	Guest WiFi captive portal for hotels
+jrnl-org/jrnl	7352	GPL-3.0	mobile	Journaling	Collect your thoughts and notes without leaving the command line.	CLI journaling with paid sync
+standardnotes/app	6702	AGPL-3.0	mobile	Journaling	Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.	Encrypted journal with subscription
+PhiTux/DailyTxT	511	MIT	mobile	Journaling	Encrypted Diary Web-App	Encrypted diary hosting
+florisboard/florisboard	8759	Apache-2.0	mobile	Keyboards	An open-source keyboard for Android which respects your privacy. Currently in beta.	Branded keyboard for brands and languages
+fcitx5-android/fcitx5-android	5846	LGPL-2.1	mobile	Keyboards	Fcitx5 input method framework and engines ported to Android	Input method for Asian language apps
+AnySoftKeyboard/AnySoftKeyboard	3389	Apache-2.0	mobile	Keyboards	Android on screen keyboard for multiple languages and NO internet access	Language-pack keyboards for regions
+Julow/Unexpected-Keyboard	3339	GPL-3.0	mobile	Keyboards	A lightweight keyboard for Android	Developer keyboard with premium themes
+openboard-team/openboard	2759	GPL-3.0	mobile	Keyboards		OEM keyboard customization
+rkkr/simple-keyboard	1609	Apache-2.0	mobile	Keyboards		Lightweight keyboard for OEMs
+dessalines/thumb-key	1571	AGPL-3.0	mobile	Keyboards	A privacy-conscious Android keyboard made for your thumbs	Accessible keyboard for niche users
+smc/Indic-Keyboard	154	Apache-2.0	mobile	Keyboards	A privacy aware versatile keyboard for Android, supporting 23 languages and 60 layouts. Mirror of original GitLab repository - https://gitlab.com/indicproject/indic-keyboard	Regional language keyboard apps
+Helium314/HeliBoard	-1	NONE	mobile	Keyboards		Privacy keyboard white-label
+moodlehq/moodleapp	1005	Apache-2.0	mobile	Kids & Education	The Moodle App	Branded mobile LMS app for institutions
+oppia/oppia-android	420	Apache-2.0	mobile	Kids & Education	A free online & offline learning platform to make quality education accessible for all.	Branded kids learning app
+electron/electron	123817	MIT	mobile	Kiosk	:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS	Self-service kiosk app development
+tauri-apps/tauri	112585	Apache-2.0	mobile	Kiosk	Build smaller, faster, and more secure desktop and mobile applications with a web frontend.	Build kiosk check-in apps for clinics
+cage-kiosk/cage	2130	MIT	mobile	Kiosk	A Wayland kiosk	Kiosk compositor for appliance builders
+Igalia/cog	353	MIT	mobile	Kiosk	WPE launcher and webapp container	Embedded kiosk browser for hardware vendors
+canonical/ubuntu-frame	191	GPL-3.0	mobile	Kiosk	The foundation for many embedded graphical display implementations	Kiosk OS for self-service terminals
+ankitects/anki	32647	NOASSERTION	mobile	Language Learning & Flashcards	Anki is a smart spaced repetition flashcard program	Branded flashcard decks for exam prep
+ankidroid/Anki-Android	12184	GPL-3.0	mobile	Language Learning & Flashcards	AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.	Rebranded study app for schools
+LuteOrg/lute-v3	1605	MIT	mobile	Language Learning & Flashcards	LUTE = Learning Using Texts: learn languages through reading.	Language reading app subscription
+simjanos-dev/LinguaCafe	1478	GPL-3.0	mobile	Language Learning & Flashcards	LinguaCafe is a self-hosted software that helps language learners read foreign languages.	Reading-based language school platform
+open-spaced-repetition/ts-fsrs	859	MIT	mobile	Language Learning & Flashcards	ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. 	Spaced repetition engine for edtech apps
+FreeLanguageTools/vocabsieve	546	GPL-3.0	mobile	Language Learning & Flashcards	Simple sentence mining tool for language learning	Vocabulary mining tool for learners
+LibreLingo/LibreLingo	-1	NONE	mobile	Language Learning & Flashcards		Duolingo-style courses for minority languages
+HugoFara/lwt	-1	NONE	mobile	Language Learning & Flashcards		Hosted reading tutor for language schools
+LawnchairLauncher/lawnchair	13888	NOASSERTION	mobile	Launchers	No clever tagline needed.	OEM-branded launcher for device makers
+MM2-0/Kvaesitso	5360	GPL-3.0	mobile	Launchers	A search-focused Android launcher	Search-first launcher for enterprises
+tanujnotes/Olauncher	3957	GPL-3.0	mobile	Launchers	Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.	Minimal launcher with premium themes
+Neamar/KISS	3536	GPL-3.0	mobile	Launchers	Lightning fast, open-source, < 250kb Android launcher	Lightweight launcher for budget devices
+NeoApplications/Neo-Launcher	2161	GPL-3.0	mobile	Launchers	Neo-Launcher	Branded launcher for tablets
+h-mdm/hmdm-server	569	Apache-2.0	mobile	Launchers	Mobile Device Management System for Android: web control panel. Manage Android devices, install and update apps, get device info. See website for more features!	Kiosk launcher and MDM for enterprises
+jrpie/launcher	504	NOASSERTION	mobile	Launchers	A distraction-free, minimal homescreen for Android.	Minimalist focus launcher
+h-mdm/hmdm-android	372	Apache-2.0	mobile	Launchers	Mobile Device Management (MDM) System for Android (mobile agent - launcher). Used for silent app installation and sending the info to the server. See more info on the website!	Locked-down launcher for field devices
+falzonv/discreet-launcher	276	GPL-3.0	mobile	Launchers	Enjoy a clean home screen while accessing everything in an instant! (Profitez d'un écran d'accueil épuré tout en accédant à tout en un instant !)	Simplified launcher for seniors
+GIScience/openrouteservice	1990	GPL-3.0	mobile	Logistics & Delivery	🌍 The open source route planner api with plenty of features.	Isochrone and routing APIs for logistics
+VROOM-Project/vroom	1911	BSD-2-Clause	mobile	Logistics & Delivery	Vehicle Routing Open-source Optimization Machine	Route optimization API for delivery firms / Daily route optimization for lawn-care crews / Multi-stop move route optimization for movers / Collection route optimization for haulers
+TimefoldAI/timefold-solver	1858	Apache-2.0	mobile	Logistics & Delivery	The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.	Delivery scheduling optimization consulting / Driver scheduling optimizer for trucking companies
+graphhopper/jsprit	1838	Apache-2.0	mobile	Logistics & Delivery	jsprit is a java based, open source toolkit for solving rich vehicle routing problems	Vehicle routing for courier companies / Load and route optimization consulting for carriers
+karrioapi/karrio	811	NOASSERTION	mobile	Logistics & Delivery	Programmable Shipping APIs (self-hosted)	Multi-carrier shipping API for merchants / Multi-carrier shipping API for 3PLs and shippers / Shipping label platform for 3PLs
+organicmaps/organicmaps	15899	NOASSERTION	mobile	Maps & Navigation	🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Ple	Offline maps app for tourism boards
+maplibre/maplibre-gl-js	12037	NOASSERTION	mobile	Maps & Navigation	MapLibre GL JS - Interactive vector tile maps in the browser	Map SDK for custom location apps
+osmandapp/OsmAnd	6132	NOASSERTION	mobile	Maps & Navigation	OsmAnd	Custom offline navigation for field teams
+streetcomplete/StreetComplete	5136	GPL-3.0	mobile	Maps & Navigation	Easy to use OpenStreetMap editor for Android and iOS	Gamified mapping for municipalities
+osm-search/Nominatim	4554	GPL-3.0	mobile	Maps & Navigation	Open Source search based on OpenStreetMap data	Self-hosted geocoding API service
+openmaptiles/openmaptiles	3220	NOASSERTION	mobile	Maps & Navigation	OpenMapTiles Vector Tile Schema Implementation	Branded vector tile hosting
+komoot/photon	3178	Apache-2.0	mobile	Maps & Navigation	an open source geocoder for openstreetmap data	Search-as-you-type geocoder API
+protomaps/PMTiles	3104	NOASSERTION	mobile	Maps & Navigation	Pyramids of map tiles in a single file on static storage	Cheap self-hosted map tiles for apps
+headwaymaps/headway	3014	Apache-2.0	mobile	Maps & Navigation	Self-hostable maps stack, powered by OpenStreetMap.	Self-hosted maps stack for privacy clients
+maptiler/tileserver-gl	2918	NOASSERTION	mobile	Maps & Navigation	Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.	Map tile hosting service
+maplibre/maplibre-native	2304	BSD-2-Clause	mobile	Maps & Navigation	MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.	Native map SDK for white-label apps
+ionic-team/ionic-framework	52746	MIT	mobile	Mobile App Starter Kits	A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.	Hybrid app shell for rebranded client apps
+infinitered/ignite	19950	NOASSERTION	mobile	Mobile App Starter Kits	Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.	Agency boilerplate to ship client React Native apps faster
+flutter/samples	19287	NOASSERTION	mobile	Mobile App Starter Kits	A collection of Flutter examples and demos	Reference architectures to package as paid app templates
+ionic-team/capacitor	17045	MIT	mobile	Mobile App Starter Kits	Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️	Wrap client web apps into store-ready native apps
+tamagui/tamagui	14302	MIT	mobile	Mobile App Starter Kits	Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.	Cross-platform UI kit for themed white-label apps
+t3-oss/create-t3-turbo	6111	MIT	mobile	Mobile App Starter Kits	Clean and simple starter repo using the T3 Stack along with Expo React Native	Monorepo SaaS + mobile starter for client projects
+thecodingmachine/react-native-boilerplate	5564	MIT	mobile	Mobile App Starter Kits	A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙 (you choose).	Starter for agency-built RN apps
+obytes/react-native-template-obytes	4363	MIT	mobile	Mobile App Starter Kits	📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.	Sell fixed-price MVP builds on a production RN stack
+VeryGoodOpenSource/very_good_cli	2429	MIT	mobile	Mobile App Starter Kits	A Very Good Command-Line Interface for Dart created by Very Good Ventures 🦄	Flutter agency template for enterprise client apps
+expo/router	1378	NONE	mobile	Mobile App Starter Kits	[ARCHIVE]: Expo Router has moved to expo/expo -- The File-based router for universal React Native apps	Build universal white-label apps for web and mobile clients
+supabase/supabase-flutter	1045	MIT	mobile	Mobile App Starter Kits	Flutter integration for Supabase. These packages makes it simple for developers to build secure and scalable products.	Backend-backed Flutter MVPs for startups
+jeffvli/feishin	10352	GPL-3.0	mobile	Music Streaming	A modern self-hosted music player.	Desktop music player for hosted servers
+Lidarr/Lidarr	5811	GPL-3.0	mobile	Music Streaming	Looks and smells like Sonarr but made for music.	Music collection management
+CappielloAntonio/tempo	2269	GPL-3.0	mobile	Music Streaming	An open source and lightweight music client for Subsonic, designed and built natively for Android.	Subsonic client for music hosts
+dweymouth/supersonic	-1	NONE	mobile	Music Streaming		Branded desktop music client
+badaix/snapcast	-1	NONE	mobile	Music Streaming		Multiroom audio for venues
+streetwriters/notesnook	14895	GPL-3.0	mobile	Notes Apps	A fully open source & end-to-end encrypted note taking alternative to Evernote.	E2EE notes with premium tier
+gsantner/markor	6390	NOASSERTION	mobile	Notes Apps	Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..	Branded Markdown note app
+standardnotes/server	481	GPL-3.0	mobile	Notes Apps	Server ecosystem for Standard Notes; fully self-hostable.	Encrypted notes hosting
+blinko-space/blinko	-1	NONE	mobile	Notes Apps		AI note capture subscription
+invoiceninja/admin-portal	1757	NOASSERTION	mobile	On-Demand Services	Invoice Ninja: Desktop/mobile admin portal built with Flutter	White-label invoicing mobile app
+openalpr/openalpr	11479	AGPL-3.0	mobile	Parking	Automatic License Plate Recognition library	License plate recognition for parking lots / License-plate recognition for parking lots
+steve-community/steve	1148	GPL-3.0	mobile	Parking	SteVe - OCPP server implementation in Java. Your trusted open-source EV charging station management system since 2013. Used by CPOs, manufacturers and developers worldwide. Managed cloud → 	OCPP charging backend for garages / OCPP backend for EV charging operators
+ankandrew/fast-alpr	856	MIT	mobile	Parking	Fast Automatic License Plate Recognition (ALPR) framework.	ALPR engine for parking access control
+citrineos/citrineos-core	308	Apache-2.0	mobile	Parking	Charging Station Management System based on OCPP 2.0.1	EV charging management for parking operators
+sap-labs-france/ev-server	176	Apache-2.0	mobile	Parking	The Open e-Mobility Charging Station management backend server (check also ev-dashboard and ev-mobile)	EV charging station SaaS
+offenesdresden/ParkAPI	91	MIT	mobile	Parking	🅿️ open API serving parking lot data for multiple cities	Parking availability API for cities
+EVerest/everest-core	-1	NONE	mobile	Parking		EV charger firmware for parking hardware / Charger firmware stack for EVSE manufacturers
+nightscout/cgm-remote-monitor	2858	AGPL-3.0	mobile	Period & Health Trackers	nightscout web monitor	Hosted CGM monitoring for families / Sell CGM display devices for caregivers
+oliexdev/openScale	2645	GPL-3.0	mobile	Period & Health Trackers	Open-source weight and body metrics tracker, with support for Bluetooth scales	Body metrics app for gyms
+NightscoutFoundation/xDrip	1821	GPL-3.0	mobile	Period & Health Trackers	Nightscout version of xDrip+	Diabetes monitoring for care providers / Sell CGM watch faces and bridge hardware
+meditohq/medito-app	1334	AGPL-3.0	mobile	Period & Health Trackers	The Medito app is a 100% free meditation app built with flutter. The app is available on Android and iOS.	Meditation app for wellness brands
+nightscout/AndroidAPS	1249	AGPL-3.0	mobile	Period & Health Trackers	Opensource automated insulin delivery system (closed loop)	Diabetes care app support / Sell compatible phone and accessory bundles for DIY loopers
+Futsch1/medTimer	653	MIT	mobile	Period & Health Trackers	MedTimer Android app	Medication reminder app for pharmacies
+derdilla/blood-pressure-monitor-fl	155	GPL-3.0	mobile	Period & Health Trackers	A diary app for blood pressure values with customizable export and bluetooth input. 	BP tracker for clinics
+bloodyhealth/drip	21	GPL-3.0	mobile	Period & Health Trackers		Privacy cycle tracker for clinics
+maybe-finance/maybe	54197	AGPL-3.0	mobile	Personal Budgeting	The personal finance app for everyone	Wealth dashboard for advisors' clients
+mayswind/ezbookkeeping	6018	MIT	mobile	Personal Budgeting	ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.	Lightweight bookkeeping app for families
+jameskokoska/Cashew	4790	GPL-3.0	mobile	Personal Budgeting	💸 An app created to help users manage a budget and purchases	Rebranded budgeting app with premium tier
+Ivy-Apps/ivy-wallet	3187	GPL-3.0	mobile	Personal Budgeting	Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.	Budgeting app white-labeled for banks
+moneymanagerex/android-money-manager-ex	724	GPL-3.0	mobile	Personal Budgeting	Local-first personal finance app. Encrypted, self-hosted, sync across devices.	Expense tracker with paid sync
+BrunoBernardino/budgetzen-web	114	AGPL-3.0	mobile	Personal Budgeting	Simple, Encrypted Budgets & Expenses. 💵	Simple encrypted budgeting subscription
+afadil/wealthfolio	-1	NONE	mobile	Personal Budgeting		Investment tracker for advisors
+spring-projects/spring-petclinic	9629	Apache-2.0	mobile	Pet Care	A sample Spring-based application	Starter for vet clinic SaaS / Starter codebase for a custom vet clinic app
+bobintetley/asm3	-1	NONE	mobile	Pet Care		Hosted shelter management for rescues
+nextcloud/android	5681	GPL-2.0	mobile	Photo Backup	📱 Nextcloud Android app	Branded file sync app
+Automattic/pocket-casts-android	2854	MPL-2.0	mobile	Podcast Apps	Pocket Casts Android 🎧	Reference podcast app for media brands
+Automattic/pocket-casts-ios	1835	MPL-2.0	mobile	Podcast Apps	Pocket Casts iOS app 🎧	Branded iOS podcast player
+podverse/podverse-rn	287	AGPL-3.0	mobile	Podcast Apps	Podverse mobile app written in React Native for iOS, Android, and F-Droid	Podcast app with Value4Value payments
+KDE/kasts	69	NONE	mobile	Podcast Apps	Kirigami-based podcast player	Desktop/mobile podcast app reskin
+TomBursch/kitchenowl	3816	AGPL-3.0	mobile	Recipe & Meal Planning	KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.	Family grocery and meal app
+simonoppowa/OpenNutriTracker	2826	GPL-3.0	mobile	Recipe & Meal Planning	🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.	Calorie tracker for nutritionists
+openfoodfacts/smooth-app	1449	Apache-2.0	mobile	Recipe & Meal Planning	🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart	Branded food scanner for retailers
+cooklang/cookcli	1430	MIT	mobile	Recipe & Meal Planning	Recipe Management CLI + embedded web-server in one binary	Recipe publishing tool for chefs
+patzly/grocy-android	1210	GPL-3.0	mobile	Recipe & Meal Planning	ERP beyond your fridge, now on your phone – An awesome companion app for Grocy	Branded pantry companion app
+openfoodfacts/openfoodfacts-server	1201	AGPL-3.0	mobile	Recipe & Meal Planning	Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor	Nutrition data API for food apps / Nutrition and allergen label generation for food producers / Product barcode database feeding store catalogs
+julianpoy/RecipeSage	992	NONE	mobile	Recipe & Meal Planning	A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.	Recipe keeper with premium tier
+reaper47/recipya	412	GPL-3.0	mobile	Recipe & Meal Planning	A clean, simple and powerful recipe manager your whole family will enjoy.	Recipe manager hosting
+Project-OSRM/osrm-backend	8195	BSD-2-Clause	mobile	Ride-Hailing & Taxi	Open Source Routing Machine - C++ backend	Self-hosted routing for dispatch and fare estimates / Truck routing engine for regional dispatchers
+graphhopper/graphhopper	6758	Apache-2.0	mobile	Ride-Hailing & Taxi	Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.	Route optimization API for taxi dispatch / Truck-aware routing service for freight planners
+valhalla/valhalla	6422	NOASSERTION	mobile	Ride-Hailing & Taxi	Open Source Routing Engine for OpenStreetMap	Routing and ETA engine for ride-hailing platforms
+opentripplanner/OpenTripPlanner	2771	NOASSERTION	mobile	Ride-Hailing & Taxi	An open source multi-modal trip planner	Multimodal routing engine for mobility apps / Trip planning for tourist boards / Trip planner hosting for regional transit
+nammayatri/nammayatri	2579	AGPL-3.0	mobile	Ride-Hailing & Taxi	A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.	Zero-commission ride-hailing for driver cooperatives
+beckn/protocol-specifications	456	NOASSERTION	mobile	Ride-Hailing & Taxi	Core protocol specification for peer-to-peer consumer-provider interaction	Open mobility network for driver-owned ride platforms
+fleetbase/storefront-app	194	AGPL-3.0	mobile	Ride-Hailing & Taxi	Storefront by Fleetbase is an open source hyperlocal shopping or services app. Enables users to quickly launch their own shop or service booking app or setup a multi-vendor marketplace.	Branded on-demand ordering app for merchants
+fleetbase/navigator-app	124	AGPL-3.0	mobile	Ride-Hailing & Taxi	GPS and Order Management Mobile App for Drivers built with React Native	White-label driver app for dispatch clients
+signalapp/Signal-Android	29596	AGPL-3.0	mobile	Secure Messaging	A private messenger for Android.	Fork as private-label secure messenger
+simplex-chat/simplex-chat	19655	AGPL-3.0	mobile	Secure Messaging	SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!	Privacy messenger with premium relays
+krille-chan/fluffychat	3279	AGPL-3.0	mobile	Secure Messaging	The cutest instant messenger in the [matrix]	Branded Matrix chat app
+matrix-construct/tuwunel	2739	Apache-2.0	mobile	Secure Messaging	Official successor to conduwuit	Lightweight Matrix hosting for SMBs
+element-hq/element-x-android	2484	AGPL-3.0	mobile	Secure Messaging	Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose	Branded secure messenger for organizations
+deltachat/deltachat-android	1864	GPL-3.0	mobile	Secure Messaging	Decentralized private messenger with chat-shared tools and games for Android	Email-based messenger for organizations
+element-hq/element-x-ios	971	AGPL-3.0	mobile	Secure Messaging	Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.	Branded iOS messenger for clients
+openstreetmap/openstreetmap-website	2884	GPL-2.0	mobile	Smart City & Civic Tech	The Rails application that powers OpenStreetMap	Local mapping portal for cities
+ushahidi/platform	734	NOASSERTION	mobile	Smart City & Civic Tech	Ushahidi Platform API version 3+	Crisis reporting deployments for NGOs / Crisis reporting maps for emergency agencies
+mysociety/fixmystreet	625	NOASSERTION	mobile	Smart City & Civic Tech	This is mySociety's popular map-based reporting platform: easy to install in new countries and regions	Pothole reporting SaaS for councils / Pothole and issue reporting portal for councils
+telefonicaid/fiware-orion	224	AGPL-3.0	mobile	Smart City & Civic Tech	Context Broker and CEF building block for context data management, providing NGSI interfaces.	Smart city context broker deployments
+sensebox/openSenseMap-API	56	MIT	mobile	Smart City & Civic Tech	API for opensensemap.org	Air quality sensor network for cities
+ushahidi/platform-client-mzima	17	NOASSERTION	mobile	Smart City & Civic Tech		Branded crisis mapping app
+markaspot/mark-a-spot	-1	NONE	mobile	Smart City & Civic Tech		311 citizen service platform
+bluesky-social/social-app	18381	MIT	mobile	Social Apps	The Bluesky Social application for Web, iOS, and Android	Custom AT Protocol client for communities
+tuskyapp/Tusky	2566	GPL-3.0	mobile	Social Apps	An Android client for the microblogging server Mastodon	Rebranded Mastodon client for instance owners
+mastodon/mastodon-ios	2282	GPL-3.0	mobile	Social Apps	Official iOS app for Mastodon	Branded app for hosted instances
+mastodon/mastodon-android	2071	GPL-3.0	mobile	Social Apps	Official Android app for Mastodon	Branded Android app for instances
+joinloops/loops-server	466	AGPL-3.0	mobile	Social Apps	The federated short video sharing platform.	Short-video social app for communities
+Freika/dawarich	10840	AGPL-3.0	mobile	Travel & Trip Planning	Your favorite self-hostable alternative to Google Timeline (Google Location History)	Self-hosted location history subscription
+grote/Transportr	1170	GPL-3.0	mobile	Travel & Trip Planning	Free Public Transport Assistant without Ads or Tracking	Public transit app for regional agencies
+bilde2910/Hauk	946	Apache-2.0	mobile	Travel & Trip Planning	Open-source realtime location sharing	Live location sharing for tour operators
+motis-project/motis	624	MIT	mobile	Travel & Trip Planning	multimodal routing, geocoding, and map tiles	Journey planner for transit operators
+rohitkumbhar/surmai	290	MIT	mobile	Travel & Trip Planning	Surmai is a personal/family travel organizer	Trip planner for travel agencies
+TeamNewPipe/NewPipe	40489	GPL-3.0	mobile	Video Streaming & Media	A libre lightweight streaming front-end for Android.	Lightweight video client reskin
+tubearchivist/tubearchivist	8581	GPL-3.0	mobile	Video Streaming & Media	Your self hosted YouTube media server	Video archiving for educators
+streamyfin/streamyfin	5347	MPL-2.0	mobile	Video Streaming & Media	A modern Jellyfin client built with Expo	Branded Jellyfin mobile client
+jellyfin/jellyfin-androidtv	4716	GPL-2.0	mobile	Video Streaming & Media	Android TV Client for Jellyfin	Branded TV app for IPTV clients
+jarnedemeulemeester/findroid	4304	GPL-3.0	mobile	Video Streaming & Media	Third-party native Jellyfin Android app	Native Jellyfin client for media hosts
+MagicMirrorOrg/MagicMirror	24185	MIT	mobile	Weather	MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.	Smart mirror weather displays for hotels
+breezy-weather/breezy-weather	11904	LGPL-3.0	mobile	Weather	A feature-rich weather app with good visualizations and more than 50 sources.	Branded weather app for media outlets
+open-meteo/open-meteo	6612	AGPL-3.0	mobile	Weather	Free Weather Forecast API for non-commercial use	Weather API reseller for apps
+PranshulGG/WeatherMaster	3156	GPL-3.0	mobile	Weather	A Weather app for android with multiple sources 🌦🌞☔	Premium weather app reskin
+WangDaYeeeeee/GeometricWeather	2520	LGPL-3.0	mobile	Weather	A Material Design Weather Application	Customizable weather app white-label
+weewx/weewx	1207	GPL-3.0	mobile	Weather	WeeWX code repository	Weather station dashboards for farms / Install farm weather stations with hosted dashboards
+darkmoonight/Rain	1092	MIT	mobile	Weather	🌦️ Weather application	Material weather app with premium
+Pirate-Weather/pirateweather	912	Apache-2.0	mobile	Weather	Code and documentation for the Pirate Weather API	Hosted weather API subscriptions
+openscad/openscad	10609	NOASSERTION	hardware	3D Printable Designs	OpenSCAD - The Programmers Solid 3D CAD Modeller  	Sell personalized printed products via online customizer storefront
+CadQuery/cadquery	6073	NOASSERTION	hardware	3D Printable Designs	A python parametric CAD scripting framework based on OCCT	Sell parametric configurable products made to customer dimensions
+gumyr/build123d	3646	Apache-2.0	hardware	3D Printable Designs	A python CAD programming library	Run a custom part design-and-print bureau
+BelfrySCAD/BOSL2	2450	BSD-2-Clause	hardware	3D Printable Designs	The Belfry OpenScad Library, v2.0.  An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier.  BETA	Offer parametric replacement-part printing service
+kennetek/gridfinity-rebuilt-openscad	2296	NOASSERTION	hardware	3D Printable Designs	A ground-up rebuild of the stock gridfinity bins in OpenSCAD	Sell printed custom Gridfinity storage bins and drawer inserts
+nophead/NopSCADlib	1663	GPL-3.0	hardware	3D Printable Designs	Library of parts modelled in OpenSCAD and a framework for making projects	Design and print custom electronics enclosures for small firms
+ostat/gridfinity_extended_openscad	939	GPL-3.0	hardware	3D Printable Designs	Gridfinity Extended OpenSCAD Model	Print-on-demand workshop organizer sets for tradespeople
+rcolyer/threads-scad	305	CC0-1.0	hardware	3D Printable Designs	OpenSCAD threading library	Print custom threaded caps and fittings on demand
+michaelgale/cq-gridfinity	205	MIT	hardware	3D Printable Designs	A python library to build parameterized gridfinity compatible objects such a baseplates and boxes.	Generate custom-fit toolbox inserts as a paid service
+MarlinFirmware/Marlin	17651	GPL-3.0	hardware	3D Printers	Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific mac	Local printer repair shop flashing and upgrading Marlin machines
+Klipper3d/klipper	12031	GPL-3.0	hardware	3D Printers	Klipper is a 3d-printer firmware	Retrofit customer printers with Klipper boards for speed upgrades
+OctoPrint/OctoPrint	9187	AGPL-3.0	hardware	3D Printers	OctoPrint is the snappy web interface for your 3D printer!	Sell plug-and-play Pi print servers with cameras preinstalled / Remote 3D printer control for print-on-demand shops
+VoronDesign/Voron-2	4600	GPL-3.0	hardware	3D Printers	Voron 2 CoreXY 3D Printer design	Sell sourced Voron 2.4 kits plus paid build-and-tune service
+EtteGit/EnragedRabbitProject	2583	GPL-3.0	hardware	3D Printers		Sell multi-material ERCF kits and install them on Vorons
+mainsail-crew/mainsail	2244	GPL-3.0	hardware	3D Printers	Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.	Bundle touchscreen control units with Mainsail for printer retrofits / Klipper printer dashboards for print farms
+prusa3d/Original-Prusa-i3	1723	GPL-2.0	hardware	3D Printers	Original Prusa i3 MK2 3D printer printed parts	Sell assembled i3-style printers and spare parts kits to schools and makers
+VoronDesign/Voron-0	1674	GPL-3.0	hardware	3D Printers	Voron 0 CoreXY 3D Printer design	Sell compact V0 kits and printed-parts packs to hobbyists
+prusa3d/Prusa-Firmware-Buddy	1633	NOASSERTION	hardware	3D Printers	Firmware for the Original Prusa MINI, Original Prusa MK4, Original Prusa XL and Prusa CORE One 3D printers by Prusa Research.	Offer printer refurbishment and firmware upgrade service for MK4/XL fleets; NC terms in repo, license before selling
+VoronDesign/Voron-Stealthburner	1282	GPL-3.0	hardware	3D Printers		Sell printed toolhead kits with LEDs and wiring harnesses
+ArmoredTurtle/BoxTurtle	1202	GPL-3.0	hardware	3D Printers	Modular compact automated filament changer for klipper 3d printers	Sell assembled multi-filament changers for Klipper printers
+VoronDesign/Voron-Trident	1140	NONE	hardware	3D Printers	Voron Trident CoreXY 3D Printer design	Build turnkey Trident printers for small print farms with warranty
+moggieuk/Happy-Hare	1081	GPL-3.0	hardware	3D Printers	MMU software driver for Klipper (ERCF, Tradrack, Box Turtle, Night Owl, QuattroBox, Angry Beaver, 3MS, VVD, KMS, EMU...)	Offer MMU setup and calibration service for print farms
+gregsaun/prusa_i3_bear_upgrade	1024	GPL-3.0	hardware	3D Printers	Stronger frame for Prusa i3 MK2(s), MK2.5 and MK3	Sell aluminum Bear frame kits for Prusa MK3 owners
+VoronDesign/Voron-Switchwire	572	GPL-3.0	hardware	3D Printers	VORON Switchwire	Offer Ender-to-Switchwire conversion kits and installation
+Rat-OS/RatOS	235	GPL-3.0	hardware	3D Printers	The preconfigured Raspberry Pi image that makes it easy to run Klipper + Moonraker + Mainsail on your printer.	Sell preconfigured control boards for Rat Rig style printers
+AgOpenGPS-Official/AgOpenGPS	980	Apache-2.0	hardware	Agriculture Machinery	Ag Precision Mapping, Section Control and Guidance Software	Install low-cost tractor autosteer kits for farmers / Low-cost tractor autosteer kits for small farms
+Dan-in-CA/SIP	421	NONE	hardware	Agriculture Machinery	A highly customizable DIY irrigation/sprinkler controller based on Raspberry Pi	Install smart irrigation controllers for orchards / Raspberry Pi irrigation controllers sold by landscapers
+GormR/HW_for_AgOpenGPS	74	NOASSERTION	hardware	Agriculture Machinery	Autosteering and RTK-GNSS units for AgOpenGPS / QtOpenGuidance	Assemble and sell RTK autosteer boxes to farms; NC terms in repo, license before selling
+mtz8302/AOG_GPS_ESP32	47	GPL-3.0	hardware	Agriculture Machinery	DUAL or SINGLE GPS bridge between AgOpenGPS an GPS receiver. Works with 2 UBlox to calculate heading+roll. Corrects and filters. ESP32 + Arduino MEGA	Sell dual-GNSS heading receivers for tractors
+SK21/AOG_RC	45	GPL-3.0	hardware	Agriculture Machinery	AgOpenGPS rate control.	Install variable-rate fertilizer control on sprayers
+calvinmclean/automated-garden	35	Apache-2.0	hardware	Agriculture Machinery	weather-based smart irrigation controller and backend	Install weather-based irrigation for landscapers
+philhoward/Tractor-Fred	3	MIT	hardware	Agriculture Machinery	Open Source/Open Hardware Electronic governor for tractors	Retrofit electronic governors on older tractors
+Hypfer/esp8266-vindriktning-particle-sensor	1242	Apache-2.0	hardware	Air Quality Sensors	Wifi MQTT Data Logging via an esp8266 for the Ikea VINDRIKTNING PM2.5 air quality sensor	Sell WiFi-upgraded IKEA air sensors
+yashmulgaonkar/halo	958	NOASSERTION	hardware	Air Quality Sensors	An open-source, ESP32-powered air quality monitor with an RGB ring, touchscreen, and comprehensive environmental sensors. Firmware installer: https://yashmulgaonkar.github.io/halo/	Sell designer air quality lamps; NC terms in repo, license before selling
+opendata-stuttgart/sensors-software	612	NONE	hardware	Air Quality Sensors	sourcecode for reading sensor data	Sell preassembled particulate sensors to citizens and councils

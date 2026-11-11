@@ -1,0 +1,380 @@
+stoatchat/discussions	2319	NONE	business	Team Chat	Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions	
+advanced-chat/advanced-chat-components	2085	MIT	business	Team Chat	Framework-neutral chat web component and typed Vue 3 component library	
+mezonai/mezon	2015	NONE	business	Team Chat	Mezon is a new way to communicate with your team. It's faster, better organized, better for WFH.	
+GoBelieveIO/im_service	1988	GPL-2.0	business	Team Chat	golang   im   server	
+igdmapps/igdm	1985	MIT	business	Team Chat	Desktop application for Instagram DMs	
+abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme	1531	NONE	business	Team Chat		
+balzack/databag	1513	Apache-2.0	business	Team Chat	fast & lightweight self-hosted messenger	
+aozorae/Edgechat	1415	GPL-3.0	business	Team Chat	 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密 A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. |	
+CharlyKeleb/SocialMedia-App	1235	MIT	business	Team Chat	A fully functional social media app built with flutter with multiple features	
+mlc-ai/web-llm-chat	1138	Apache-2.0	business	Team Chat	Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.	
+kone-net/go-chat	1087	NONE	business	Team Chat	go-chat.使用Go基于WebSocket开发的web聊天应用。单聊，群聊。文字，图片，语音，视频消息，屏幕共享，剪切板图片，基于WebRTC的P2P语音通话，视频聊天。	
+tommyxchow/frosty	1077	AGPL-3.0	business	Team Chat	A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support.	
+ekazaev/ChatLayout	1062	MIT	business	Team Chat	ChatLayout is an alternative solution to MessageKit. It uses custom UICollectionViewLayout to provide you full control over the presentation as well as all the tools available in UICollectionView. It supports dynamic cells and supplementary view sizes.	
+JerryZLiu/Dayflow	7399	MIT	business	Time Tracking	The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.	
+wm94i/Work-Review	1825	MIT	business	Time Tracking	 Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.	
+GothenburgBitFactory/timewarrior	1669	MIT	business	Time Tracking	Timewarrior - Commandline Time Tracking and Reporting	
+wakatime/vscode-wakatime	1511	BSD-3-Clause	business	Time Tracking	Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.	
+wakatime/jetbrains-wakatime	1236	BSD-3-Clause	business	Time Tracking	IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.	
+wakatime/vim-wakatime	1169	BSD-3-Clause	business	Time Tracking	Vim plugin for automatic time tracking and metrics generated from your programming activity.	
+sheepzh/time-tracker-4-browser	1029	MIT	business	Time Tracking	A browser extension that helps you track time, analyze your habits and block addictive sites	
+WINBIGFOX/TimeScribe	933	GPL-3.0	business	Time Tracking	Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.	
+mutativejs/travels	920	MIT	business	Time Tracking	A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch	
+nikolassv/bartib	855	GPL-3.0	business	Time Tracking	A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.	
+dominikbraun/timetrace	793	Apache-2.0	business	Time Tracking	A simple CLI for tracking your working time.	
+jotaen/klog	690	MIT	business	Time Tracking	Command-line tool for time tracking in a human-readable, plain-text file format.	
+mrusme/zeit	593	NOASSERTION	business	Time Tracking	Zeit, erfassen. A command line tool for tracking time. (https://tty.fail/mrus/zeit)	
+wakatime/sublime-wakatime	528	BSD-3-Clause	business	Time Tracking	Sublime Text 2 & 3 plugin for automatic time tracking and metrics generated from your programming activity.	
+kriuchkov/tock	504	GPL-3.0	business	Time Tracking	Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.	
+AtsushiSakai/PythonRobotics	30872	NOASSERTION	business	Translation & Localization Management	Python sample codes and textbook for robotics algorithms.	
+Huanshere/VideoLingo	19110	Apache-2.0	business	Translation & Localization Management	Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组	
+formatjs/formatjs	14753	NONE	business	Translation & Localization Management	The monorepo home to all of the FormatJS related libraries, most notably react-intl.	
+krillinai/OpenCreator	14210	Apache-2.0	business	Translation & Localization Management	Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, and edits with Agents in one place. For your Social Media lik	
+Humanizr/Humanizer	9962	NOASSERTION	business	Translation & Localization Management	Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities	
+SwiftGen/SwiftGen	9540	MIT	business	Translation & Localization Management	The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!	
+cartographer-project/cartographer	8002	Apache-2.0	business	Translation & Localization Management	Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.	
+lingui/js-lingui	5934	MIT	business	Translation & Localization Management	🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript	
+introlab/rtabmap	4086	NOASSERTION	business	Translation & Localization Management	RTAB-Map library and standalone application	
+github/relative-time-element	4043	MIT	business	Translation & Localization Management	Web component extensions to the standard <time> element.	
+1186258278/OpenClawChineseTranslation	3792	NOASSERTION	business	Translation & Localization Management	🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！	
+hybridsjs/hybrids	3190	MIT	business	Translation & Localization Management	Extraordinary JavaScript UI framework with unique declarative and functional architecture	
+jeremykenedy/laravel-auth	3040	MIT	business	Translation & Localization Management	A complete Laravel 13 application foundation: email verification, social sign in, roles and permissions, user profiles, and admin user management.	
+ArcSurge/Termius-Pro-zh_CN	2912	NONE	business	Translation & Localization Management	Termius 汉化	
+aralroca/next-translate	2733	MIT	business	Translation & Localization Management	Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!	
+symfony/intl	2625	MIT	business	Translation & Localization Management	Provides access to the localization data of the ICU library	
+codingcommons/typesafe-i18n	2478	MIT	business	Translation & Localization Management	A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.	
+onlytailei/CppRobotics	2243	MIT	business	Translation & Localization Management	cpp implementation of robotics algorithms including localization, mapping, SLAM, path planning and control	
+mdn/translated-content	2044	NOASSERTION	business	Translation & Localization Management	7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.	
+opral/inlang	2006	NONE	business	Translation & Localization Management	Git-based translation management system	
+webtorrent/webtorrent	31470	MIT	business	Video Conferencing	⚡️ Streaming torrent client for the web	
+pavlobu/deskreen	21722	AGPL-3.0	business	Video Conferencing	Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!	
+SnapDrop/snapdrop	19712	GPL-3.0	business	Video Conferencing	A Progressive Web App for local file sharing 	
+ZLMediaKit/ZLMediaKit	17676	NOASSERTION	business	Video Conferencing	WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11	
+pion/webrtc	16885	MIT	business	Video Conferencing	Pure Go implementation of the WebRTC API	
+peers/peerjs	13508	MIT	business	Video Conferencing	Simple peer-to-peer with WebRTC.	
+jason5ng32/MyIP	12318	AGPL-3.0	business	Video Conferencing	The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.	
+schlagmichdoch/PairDrop	11766	GPL-3.0	business	Video Conferencing	PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.	
+ShareDropio/sharedrop	10767	MIT	business	Video Conferencing	Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop	
+screego/server	10748	GPL-3.0	business	Video Conferencing	screen sharing for developers https://screego.net/	
+kern/filepizza	10270	NOASSERTION	business	Video Conferencing	:pizza: Peer-to-peer file transfers in your browser	
+webtorrent/webtorrent-desktop	10147	MIT	business	Video Conferencing	❤️ Streaming torrent app for Mac, Windows, and Linux	
+fonoster/fonoster	8161	MIT	business	Video Conferencing	The AI that answers the phone.	
+feross/simple-peer	7798	MIT	business	Video Conferencing	📡 Simple WebRTC video, voice, and data channels	
+muaz-khan/RecordRTC	6920	MIT	business	Video Conferencing	RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.	
+EasyDarwin/EasyDarwin	6841	MIT	business	Video Conferencing	open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.	
+0voice/audio_video_streaming	6260	NONE	business	Video Conferencing	音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。	
+xiangyuecn/Recorder	5640	MIT	business	Video Conferencing	html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分Web浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码	
+webrtc-rs/webrtc	5181	Apache-2.0	business	Video Conferencing	Async-friendly WebRTC implementation in Rust	
+aiortc/aiortc	5124	BSD-3-Clause	business	Video Conferencing	WebRTC and ORTC implementation for Python using asyncio	
+react-native-webrtc/react-native-webrtc	4997	MIT	business	Video Conferencing	The WebRTC module for React Native	
+anyrtcIO-Community/anyRTC-RTMP-OpenSource	4911	GPL-3.0	business	Video Conferencing	RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码	
+peers/peerjs-server	4700	MIT	business	Video Conferencing	Server for PeerJS	
+flutter-webrtc/flutter-webrtc	4504	MIT	business	Video Conferencing	WebRTC plugin for Flutter Mobile/Desktop/Web	
+TNTcraftHIM/Piik	4124	MIT	business	Video Conferencing	Free, open-source screen sharing for private live streams with friends. Watch together in a browser or self-host Piik. 免费开源的私密屏幕共享，支持游戏直播、一起看电影与自部署。	
+poteto/hiring-without-whiteboards	53130	MIT	business	Whiteboards & Diagrams	⭐️  Companies that don't have a broken hiring process	
+plait-board/drawnix	15021	MIT	business	Whiteboards & Diagrams	开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.	
+konvajs/react-konva	6444	MIT	business	Whiteboards & Diagrams	React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.	
+netless-io/flat	6442	MIT	business	Whiteboards & Diagrams	Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.	
+coderamp-labs/pad.ws	4205	MIT	business	Whiteboards & Diagrams	Whiteboard as an IDE, draw and code in your browser	
+LHRUN/paint-board	2644	MIT	business	Whiteboards & Diagrams	🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!	
+korbinjoe/excalidraw-cn	2470	MIT	business	Whiteboards & Diagrams	Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.	
+dgmjs/dgmjs	1678	GPL-3.0	business	Whiteboards & Diagrams	An infinite canvas with smart shapes	
+konvajs/vue-konva	1360	MIT	business	Whiteboards & Diagrams	Vue components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards in Vue.	
+ifer47/markeron	1200	MIT	business	Whiteboards & Diagrams	Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS.	
+bugkeep/ai-draw	944	MIT	business	Whiteboards & Diagrams	Create and edit drawings through conversation.	
+cracker0dks/whiteboard	846	MIT	business	Whiteboards & Diagrams	Lightweight collaborative Whiteboard / Sketchboard	
+worktile/plait	699	MIT	business	Whiteboards & Diagrams	A completely customizable framework for building all-in-one drawing whiteboard	
+tldraw/tldraw-offline	685	NONE	business	Whiteboards & Diagrams	A desktop app for using tldraw with local files.	
+KitionAI/kition	603	Apache-2.0	business	Whiteboards & Diagrams	Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. 	
+AsyncFuncAI/deepwiki-open	18372	MIT	business	Wiki	Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme	
+iamgio/quarkdown	16349	GPL-3.0	business	Wiki	🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.	
+chaitin/PandaWiki	10476	AGPL-3.0	business	Wiki	PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。	
+brightmart/nlp_chinese_corpus	9937	MIT	business	Wiki	大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP	
+ctf-wiki/ctf-wiki	9754	NOASSERTION	business	Wiki	Come and join us, we need you!	
+vimwiki/vimwiki	9517	NOASSERTION	business	Wiki	Personal Wiki for Vim	
+persepolisdm/persepolis	7495	GPL-3.0	business	Wiki	Persepolis is a download manager written in Python.	
+MaggieAppleton/digital-gardeners	4849	MIT	business	Wiki	Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs	
+A-poc/BlueTeam-Tools	4659	NONE	business	Wiki	Tools and Techniques for Blue Team / Incident Response	
+LLMQuant/quant-wiki	4414	NONE	business	Wiki	We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。	
+mapnik/mapnik	3973	LGPL-2.1	business	Wiki	Mapnik is an open source toolkit for developing mapping applications	
+dullage/flatnotes	3278	MIT	business	Wiki	A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.	
+wotakumoe/wotaku	3115	NOASSERTION	business	Wiki	An otaku index for everything! ⭐ Star the project if you like it!	
+wikimedia/apps-android-wikipedia	3058	Apache-2.0	business	Wiki	 📱The official Wikipedia app for Android!	
+JXA-Cookbook/JXA-Cookbook	2994	MIT	business	Wiki	Cookbook for JavaScript for Automation in Mac OS X Yosemite	
+zk-org/zk	2866	GPL-3.0	business	Wiki	A plain text note-taking assistant	
+SusionSuc/AdvancedAndroid	2555	NONE	business	Wiki	Android 进阶	
+six2dez/pentest-book	2120	NONE	business	Wiki		
+Matterwiki/Matterwiki	2093	MIT	business	Wiki	A simple and beautiful wiki for teams	
+xaoxuu/hexo-theme-stellar	2066	MIT	business	Wiki	基于 Hexo 的全能个人知识库，开箱即用，内置海量标签和动态数据组件。可用于个人博客、项目文档、知识库、专栏、笔记等。	
+irinabuht12-oss/google-ads-meta-ads-mcp	7046	MIT	web	Ad Serving	Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + Google Analytics MCP (GA4) + Search Console in one hosted remote MCP for Claude, ChatGPT, Cursor & n8n: OAuth login, no API keys, approval-gated writes, 7-day free trial. By Ryze AI.	
+Gedsh/InviZible	2877	GPL-3.0	web	Ad Serving	Android application for online privacy and security	
+pipeboard-co/meta-ads-mcp	1356	NOASSERTION	web	Ad Serving	Meta Ads (Facebook/Instagram) MCP server for Claude, ChatGPT, Perplexity & Cursor — the Meta node of Pipeboard’s 5-platform family (+ Google, TikTok, Snap, Reddit). Hosted remote MCP, badged Meta Business Partner, free plan — no self-hosting required.	
+realkimbarrett/advertising-skills	777	NONE	web	Ad Serving	Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.	
+hiddevdploeg/Billboard	604	MIT	web	Ad Serving	a Swift Package that lets you add beautiful and privacy-friendly Ads to your app. These are Advertisements for Indies, by Indies.	
+Silentely/AdBlock-Acceleration	552	GPL-3.0	web	Ad Serving	Accelerated subscription for international/China region ad filtering rules（国际/中国地区广告过滤规则的加速订阅）	
+buluslan/gpt-image2-ecommerce	442	MIT	web	Ad Serving	E-commerce product image generator skill — 39 scenario templates, GPT-Image-2/2.5 (Flare/Sunburst) model routing, campaign consistency lock, platform compliance. 电商做图 Skill：39 场景模板×双模型路由×套图一致性×平台合规。	
+easezyc/Multitask-Recommendation-Library	347	MIT	web	Ad Serving	MTReclib provides a PyTorch implementation of multi-task recommendation models and common datasets.	
+crawfordxx/xiaoma-durex-copywriter	341	NOASSERTION	web	Ad Serving	杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线	
+smixs/creative-director-skill	300	CC-BY-4.0	web	Ad Serving	World-class creative director in a skill. Methodology-driven ideation (SIT, TRIZ, Lateral Thinking, bisociation) + a Cannes Lions evaluation engine, powered by a library of 571 legendary award-winning cases.	
+readthedocs/ethical-ad-server	273	AGPL-3.0	web	Ad Serving	The ethical ad server - ads for developers without all the tracking	
+seanZhang414/openadserver	261	NOASSERTION	web	Ad Serving	Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google Ad Manager | Python, FastAPI, PyTorch	
+denisneuf/python-amazon-ad-api	205	MIT	web	Ad Serving	Python Amazon Advertising API	
+amazon-science/auction-gym	203	Apache-2.0	web	Ad Serving	AuctionGym is a simulation environment that enables reproducible evaluation of bandit and reinforcement learning methods for online advertising auctions.	
+stafyniaksacha/vite-plugin-radar	178	MIT	web	Ad Serving	All in one analytics loader for vite	
+cassidoo/getting-a-gig	7907	NONE	web	Affiliate & Referral	Guide for getting a gig as a tech student.	
+svtcore/telegram-referral-bot	190	MIT	web	Affiliate & Referral	Invites multiple Telegram accounts as referrals to a bot using your referral code	
+marinedotsh/better-auth-referral	85	MIT	web	Affiliate & Referral	A Better Auth plugin for adding user referrals to your app.	
+exmanka/ksiVPN-telegram-bot	48	BSD-3-Clause	web	Affiliate & Referral	Aiogram + Remnawave + PostgreSQL + Docker + ChatGPT + P2P payments + YooKassa	
+itsAPK/Telegram-Referral-Bot	44	NONE	web	Affiliate & Referral	Telegram Refferal Bot allows users to generate referral links, track total referrals, and view a leaderboard of top referrers.	
+SMOService/SMMPanel-SMOService-Telegram-Bot	37	NONE	web	Affiliate & Referral	Your ideal tool for promoting on social networks! Get more subscribers, views and more with ease and efficiency.	
+RutikKulkarni/ReferralNetworkHub	34	MIT	web	Affiliate & Referral	ReferralNetworkHub is a platform that simplifies the job referral process by connecting professionals with job seekers. It enhances collaboration among employees and candidates, streamlining referrals and improving job search outcomes.	
+pdazcom/laravel-referrals	31	MIT	web	Affiliate & Referral	Referrals system for Laravel	
+aaamosh/codex-reset	28	MIT	web	Affiliate & Referral	Redeem your Codex banked rate-limit reset from the command line — no UI required.	
+juftin/camply	656	MIT	web	Appointment Booking	camply, the campsite finder ⛺️ - a tool to find campsites at sold out campgrounds through sites like recreation.gov	
+ranjan-mohanty/vfs-appointment-bot	406	MIT	web	Appointment Booking	VFS Appointment Bot - This script automates checking for appointments at VFS Global offices in a specified country.	
+Project-Based-Learning-IT/healthcare-appointment-scheduling-app	145	NONE	web	Appointment Booking	• This is a patient doctor appointment booking WebApp. Patient signs in using google account and Doctor needs to register prior in the system to login. • Patient can book appointment in slot and calendar event with meeting link will be created. • It also has F	
+voygr-tech/placecall	111	MIT	web	Appointment Booking	The phone is your last API. Give your agent a voice to call any US business - reservations, inquiries, quotes. Verified outcome + transcript. First 250 calls free.	
+shayan-yousefi/lara-reserve	89	MIT	web	Appointment Booking	a package to add reservation feature to laravel	
+adityayaduvanshi/Appointment-Booking-System	72	MIT	web	Appointment Booking	The Appointment Booking System is a web-based application that allows users to create an account, book appointments for various services, and manage their business services.	
+foad-heidari/dj-booking	71	NOASSERTION	web	Appointment Booking	free and complete booking package for Django	
+Awaisali36/Outbound-Real-State-Voice-AI-Agent-	64	MIT	web	Appointment Booking	📞 Automated voice AI calling system using VAPI, n8n, and Airtable. Calls leads automatically, conducts natural conversations, and books appointments via Calendly. Multi-channel follow-up with email and WhatsApp.	
+alextselegidis/easyappointments-docker	63	NONE	web	Appointment Booking	📅 Docker Official Image packaging for Easy!Appointments	
+kishor10d/Hotel-Room-Booking-System	57	GPL-3.0	web	Appointment Booking	Simple Hotel Room Booking System using CodeIgniter	
+KoljaWindeler/ics	55	NONE	web	Appointment Booking	Integration that displays the next event of an ics link (support reoccuring events)	
+jairiidriss/barbershop-website-php-mysql	54	MIT	web	Appointment Booking	Barbershop Website | Barbershop Management website using PHP & MYSQL | Reservation System	
+alextselegidis/easyappointments-wordpress	53	GPL-3.0	web	Appointment Booking	📅 Add appointment bookings to your WordPress site	
+pjborowiecki/SEAT-FRENZY-Restaurant-Table-Booking-System	49	MIT	web	Appointment Booking	SeatFrenzy is a restaurant table booking system, allowing visitors to quickly check availability and easily book a table at their favourite restaurant. Similar to OpenTable. Built with Next.js 14, DrizzleORM, MySQL database hosted with PlanetScale, Clerk, Tail	
+ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API	49	NONE	web	Appointment Booking	An odoo project to manage a dental clinic appointments, patients and prescriptions. It features an authentication-based API to login and create new appointments.	
+AmazingAng/WTF-Solidity	14062	NOASSERTION	web	Auctions	WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy	
+FB208/OpenBidKit_Yibiao	3288	AGPL-3.0	web	Auctions	开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用	
+TelegramMessenger/telemint	435	GPL-3.0	web	Auctions	Telegram Auction Platform smart contracts	
+anbang/professional-solidity	375	MIT	web	Auctions	《Solidity 高级程序设计》面向专业开发者的Solidity教程！目前已经完成了最初的 V0.0.1 版本	
+venediktov/vanilla-rtb	340	GPL-3.0	web	Auctions	Real Time Bidding (RTB) - Demand Side Platform framework  	
+hmellor/auction-website	151	MIT	web	Auctions	An open-source auction hosting system	
+Shpigford/dutch-auction	98	AGPL-3.0	web	Auctions	Dutch auction template	
+HunterLzap/rag-tender	96	MIT	web	Auctions	面向招投标场景的本地化 RAG 标书解析、资质匹配与红线提醒助手	
+echoface/be_indexer	58	MIT	web	Auctions	a extensible boolean expression index implementation, especially for RTB ad selection. both vldb09-indexing(Standford and Yahoo's paper) and roartingbitmap-based algorithem implemented 	
+byte-ai-fullstack/ByteDanceliveauctioni	43	MIT	web	Auctions	A full-stack live auction platform featuring real-time bidding, WebSocket synchronization, Redis runtime, order settlement, and AI-powered auction assistance.	
+ikhsan3adi/flutter-auction-app	35	MIT	web	Auctions	🏷️ Multivendor auction app built using Flutter w/ Bloc pattern, Repository pattern, Reactive programming using dart streams and REST API with JWT auth	
+hendurhance/bazaar	34	AGPL-3.0	web	Auctions	The Open Source Ad Auction Marketplace	
+natainditama/auctionx	32	MIT	web	Auctions	🚗 Efficient online vehicle auctions	
+DIMFLIX/SatsMarket	32	NONE	web	Auctions	Conducts auctions of any goods and services. Collects the sum of lots by the group. Gives everyone a chance to win at any price 🧶 🧵	
+hello-fengsir/godbiao	30	MIT	web	Auctions	AI 智能标书比对系统 — 上传投标文件+招标要求，逐条核查，防止标书出错	
+mqyqingfeng/Blog	31059	NONE	web	Blogging Platforms	冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。	
+timqian/chinese-independent-blogs	24410	MIT	web	Blogging Platforms	中文独立博客列表	
+halfrost/Halfrost-Field	13251	CC-BY-SA-4.0	web	Blogging Platforms	✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记 	
+notionnext-org/NotionNext	11904	MIT	web	Blogging Platforms	Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.	
+pretzelhammer/rust-blog	8395	Apache-2.0	web	Blogging Platforms	Educational blog posts for Rust beginners	
+joemccann/dillinger	8297	MIT	web	Blogging Platforms	The last Markdown editor, ever.	
+fluid-dev/hexo-theme-fluid	8171	GPL-3.0	web	Blogging Platforms	:ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo	
+leerob/next-mdx-blog	7581	NONE	web	Blogging Platforms	Next.js + MDX blog template with Tailwind CSS and TypeScript.	
+liangliangyy/DjangoBlog	7430	MIT	web	Blogging Platforms	🍺基于Django的博客系统	
+transitive-bullshit/nextjs-notion-starter-kit	7040	MIT	web	Blogging Platforms	Deploy your own Notion-powered website in minutes with Next.js and Vercel.	
+wechatsync/Wechatsync	6576	GPL-3.0	web	Blogging Platforms	一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力	
+code-hike/codehike	5396	MIT	web	Blogging Platforms	Build rich content websites with Markdown and React	
+saicaca/fuwari	5145	MIT	web	Blogging Platforms	✨A static blog template built with Astro. 	
+saysky/ForestBlog	4714	NONE	web	Blogging Platforms	一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统	
+linhaojun857/aurora	4661	Apache-2.0	web	Blogging Platforms	基于SpringBoot+Vue开发的个人博客系统	
+youngwind/blog	4648	NONE	web	Blogging Platforms	梁少峰的个人博客	
+MariaLetta/free-gophers-pack	4013	CC0-1.0	web	Blogging Platforms	✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.	
+blossom-editor/blossom	3800	MIT	web	Blogging Platforms	A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）	
+dwqs/blog	3769	MIT	web	Blogging Platforms	:dog: :clap: :star2: Welcome to star	
+varHarrie/varharrie.github.io	3671	MIT	web	Blogging Platforms	:blue_book: Personal blog site based on github issues.	
+Mereithhh/vanblog	3583	GPL-3.0	web	Blogging Platforms	A self-hosted blogging system with Markdown editing, a full admin dashboard, analytics, image hosting, comments, and automatic HTTPS.	
+probberechts/hexo-theme-cactus	3511	MIT	web	Blogging Platforms	:cactus: A responsive, clean and simple theme for Hexo.	
+gautamkrishnar/blog-post-workflow	3449	AGPL-3.0	web	Blogging Platforms	Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed	
+austintoddj/canvas	3360	MIT	web	Blogging Platforms	Publishing on your own terms	
+qiubaiying/qiubaiying.github.io	3312	MIT	web	Blogging Platforms	BY Blog ->	
+omnivore-app/omnivore	16408	AGPL-3.0	web	Bookmark Managers	Omnivore is a complete, open source read-it-later solution for people who like reading.	
+floccusaddon/floccus	8621	MPL-2.0	web	Bookmark Managers	:cloud: Sync your bookmarks privately across browsers and devices	
+alyssaxuu/omni	7889	MIT	web	Bookmark Managers	The all-in-one tool to supercharge your productivity ⌨️	
+viperrcrypto/Siftly	3087	MIT	web	Bookmark Managers	Local Twitter/X bookmark organizer with AI categorization and mindmap visualization	
+dudor/BookmarkHub	2575	Apache-2.0	web	Bookmark Managers	BookmarkHub , sync bookmarks across different browsers	
+dreikanter/ruby-bookmarks	2310	NONE	web	Bookmark Managers	Ruby and Ruby on Rails bookmarks collection	
+zombieFox/nightTab	2071	GPL-3.0	web	Bookmark Managers	A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.	
+afar1/fieldtheory-cli	2055	MIT	web	Bookmark Managers	Field Theory CLI for bookmarks, Library, commands, and agent workflows	
+kanishka-linux/reminiscence	1859	AGPL-3.0	web	Bookmark Managers	Self-Hosted Bookmark And Archive Manager	
+denho/faved	1350	MIT	web	Bookmark Managers	Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.	
+ivnvxd/arc-export	1273	MIT	web	Bookmark Managers	Export pinned Arc Browser tabs for importing bookmarks into other browsers	
+nextcloud/bookmarks	1225	AGPL-3.0	web	Bookmark Managers	🔖 Bookmark app for Nextcloud	
+dreikanter/sublime-bookmarks	1076	NONE	web	Bookmark Managers	Sublime Text essential plugins and resources	
+fr0tt/benotes	862	MIT	web	Bookmark Managers	An open source self hosted notes and bookmarks taking web app.	
+LimerBoy/Adamantium-Thief	822	NONE	web	Bookmark Managers	:key: (THIS CODE IS OUTDATED FOR NEW CHROME VERSIONS) Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported.	
+sijeeshmiziha/olx	101	NONE	web	Classifieds	olx-clone using react js , firease as backend ,deployed in firebase , react-router,context,react hooks,olx web app project , olx single page app, olx app, demo site is avialable well documented react js project simple react js project 	
+slyapustin/django-classified-demo	60	MIT	web	Classifieds	Django Classified Demo	
+Pythondeveloper6/Build-OLX-Clone-With-Python-Django-	32	NONE	web	Classifieds		
+Packapeer/React_tutorial_olx_clone	28	NONE	web	Classifieds		
+elchin92/avito-mcp	26	MIT	web	Classifieds	Avito MCP server for chats, listings, orders and analytics. 148 tools, read-only profiles, dry runs and confirmations. Try the local demo without API keys.	
+themefisher/classimax-bootstrap	26	MIT	web	Classifieds	Classimax is the most popular free Bootstrap classified website template.	
+microsoft/tsdoc	4975	MIT	web	Comment Systems	A doc comment standard for TypeScript	
+liveblocks/liveblocks	4770	NOASSERTION	web	Comment Systems	Realtime infrastructure for multiplayer apps and agents	
+chatscope/chat-ui-kit-react	1788	MIT	web	Comment Systems	Build your own chat UI with React components in few minutes. Chat UI Kit from chatscope is an open source UI toolkit for developing web chat applications.	
+JosephLai241/URS	1045	MIT	web	Comment Systems	Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.	
+pgilad/leasot	816	MIT	web	Comment Systems	Parse and output TODOs and FIXMEs from comments in your files	
+vkuznecovas/mouthful	777	MIT	web	Comment Systems	Mouthful is a self-hosted alternative to Disqus	
+laravelista/comments	739	MIT	web	Comment Systems	Native comments for your Laravel application.	
+danirus/django-comments-xtd	620	BSD-2-Clause	web	Comment Systems	A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.	
+liuyib/hexo-theme-stun	619	MIT	web	Comment Systems	🦄 An elegant theme for Hexo	
+devrsi0n/chirpy	600	AGPL-3.0	web	Comment Systems	💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。	
+beyondcode/laravel-comments	600	MIT	web	Comment Systems	Add comments to your Laravel application	
+discourse/wp-discourse	544	GPL-3.0	web	Comment Systems	WordPress plugin that lets you use Discourse as the community engine for a WordPress blog	
+sansan0/bilibili-comment-analyzer	531	GPL-3.0	web	Comment Systems	🎯 哔哩哔哩(bilibili)评论区数据可视化分析软件-- up主可用于指导自己的题材选择，明确自己的粉丝群体	
+Sensinum/strapi-plugin-comments	436	MIT	web	Comment Systems	A plugin for Strapi Headless CMS that provides end to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.	
+fuma-nama/fuma-comment	418	NONE	web	Comment Systems	user friendly, beautiful comment area to your blog	
+surya-koritala/loomfeed	126	MIT	web	Community Platforms	The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.	
+we-dance/v3	61	GPL-3.0	web	Community Platforms	Community platform for dancers	
+oblyk/oblyk-app	50	AGPL-3.0	web	Community Platforms	App part of Oblyk Project. The open source climbing platform !	
+orestbida/cookieconsent	5743	MIT	web	Cookie Consent & Privacy	:cookie: Simple cross-browser cookie-consent plugin written in vanilla js	
+cavi-au/Consent-O-Matic	4313	NOASSERTION	web	Cookie Consent & Privacy	Browser extension that automatically fills out cookie popups based on your preferences	
+osano/cookieconsent	3582	MIT	web	Cookie Consent & Privacy	A free solution to the EU, GDPR, and California Cookie Laws	
+c15t/c15t	2020	Apache-2.0	web	Cookie Consent & Privacy	Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.	
+capitalone/DataProfiler	1596	Apache-2.0	web	Cookie Consent & Privacy	What's in your data? Extract schema, statistics and entities from datasets	
+zama-ai/concrete	1583	NOASSERTION	web	Cookie Consent & Privacy	Concrete: TFHE Compiler that converts python programs into FHE equivalent	
+kiprotect/klaro	1525	NOASSERTION	web	Cookie Consent & Privacy	Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.	
+AmauriC/tarteaucitron.js	1059	MIT	web	Cookie Consent & Privacy	Open-source JavaScript cookie consent manager for GDPR / RGPD. Customizable banner, service-level controls and Google Consent Mode v2 support.	
+elbywan/yett	802	MIT	web	Cookie Consent & Privacy	🔐A small webpage library to control the execution of (third party) scripts	
+privacytrustlab/ml_privacy_meter	729	MIT	web	Cookie Consent & Privacy	Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms.	
+prey/gdpr_rails	637	MIT	web	Cookie Consent & Privacy	Rails Engine for the GDPR compliance	
+laurentpayot/minidenticons	619	MIT	web	Cookie Consent & Privacy	Super lightweight SVG identicon (pixelated avatar) generator	
+sourcentis/mercator	562	GPL-3.0	web	Cookie Consent & Privacy	Mapping the information system / Cartographie du système d'information	
+spatie/laravel-personal-data-export	546	MIT	web	Cookie Consent & Privacy	Create zip files containing personal data	
+Alex-D/Cookies-EU-banner	448	MIT	web	Cookie Consent & Privacy	1kb vanilla JS script which manages cookies consent banner display like asked by GDPR	
+patrikx3/redis-ui	808	MIT	web	Crowdfunding & Donations	📡 P3X Redis UI: A highly functional and convenient database GUI that fits in your pocket, accessible on both responsive web and desktop applications.	
+Safouene1/support-palestine-banner	344	MIT	web	Crowdfunding & Donations	Simply setup banner for websites to show support for Palestinians. 	
+Kaiyuan/sponsor-page	341	MIT	web	Crowdfunding & Donations		
+3dproger/AxelChat	325	NONE	web	Crowdfunding & Donations	A cross-platform multi-chat for live streams, featuring OBS widgets, a combined viewer counter, and much more. It is being developed by a single person out of personal enthusiasm	
+SatSale/SatSale	255	MIT	web	Crowdfunding & Donations	Lightweight Bitcoin payment processor written in easily deployable Python. Self custody donations and payments on-chain & Lightning network, directly connected to your own Bitcoin node! No middleman/custodian.	
+KangLin/SerialPortAssistant	236	GPL-3.0	web	Crowdfunding & Donations	This project is a cross-platform serial port assistant. It can run on WINDOWS, linux、android、macos system.   	
+Barracuda09/SATPI	174	GPL-2.0	web	Crowdfunding & Donations	SATIP server for linux, suitable to run on an Raspberry Pi, Vu+, GigaBlue or any other linux box. currently supporting DVB-S/S2/T/C  and transform DVB-S requests to DVB-C	
+patroninc/patron	165	Apache-2.0	web	Crowdfunding & Donations	Open source Patreon alternative with lower fees designed for creators who publish ongoing sequential content like books, podcasts, and comics.	
+JeffVandrewJr/patron	131	NOASSERTION	web	Crowdfunding & Donations	LibrePatron: A Self-Hosted Patreon Alternative for BTCPay	
+ajfriesen/PokyPow	119	NONE	web	Crowdfunding & Donations	PokyPow: turn on/off and monitor your PC or Server with Home Assistant. Build with ESPHome.	
+MineTrax/minetrax	118	MIT	web	Crowdfunding & Donations	Complete Web Suite for Minecraft Servers	
+CHETHANKUMAR1/ed-donation-drive	114	NONE	web	Crowdfunding & Donations	Ultimate EDD Crowdfunding Plugin Guide 2026 for WordPress Campaigns	
+spandan114/Crowdfunding-DAPP	83	NONE	web	Crowdfunding & Donations	Decentralized crowd funding platform where user can start fundraising , anyone can contribute & Fund riser need permission of contributor before withdrawing amount from contract .	
+preshpi/SupportHive	74	MIT	web	Crowdfunding & Donations	Discover an easy and effective way to raise funds for personal initiatives, charitable projects, and friends in need.	
+Issotos/Saweria-Roblox-Bridge	70	NONE	web	Crowdfunding & Donations	Saweria Roblox Donation Board 2026: Multi-Tenant Private Server Integration	
+hotcoffeeshake/tong-jincheng-skill	2984	MIT	web	Dating Sites	童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系	
+The-Osint-Toolbox/Social-Media-OSINT	1079	NONE	web	Dating Sites	Social Media OSINT collection containing - tools, techniques & tradecraft.	
+Alovoa/alovoa	724	AGPL-3.0	web	Dating Sites	Free and open-source dating platform that respects your privacy	
+BeamusWayne/simp-skill	335	MIT	web	Dating Sites	不教 PUA，只教真心。Win your crush before it's too late. Inspired by colleague-skill（同事skill）	
+hfreire/get-me-a-date	327	MIT	web	Dating Sites	:heart_eyes: Help me get a :cupid: date tonight :first_quarter_moon_with_face:	
+ElJaviLuki/GrindrPlus	223	GPL-3.0	web	Dating Sites	Making Grindr funnier than ever before!	
+duolicious/duolicious	195	AGPL-3.0	web	Dating Sites	The internet's most popular open-source dating app	
+Grigorij-Dudnik/TinderGPT	120	Apache-2.0	web	Dating Sites	Your AI mate who chats on tinder and schedules dates for you.	
+mayukh18/BlindChat	120	MIT	web	Dating Sites	a facebook messenger bot that allows users to chat with other people on facebook anonymously	
+damianstone/toogether-mobile	113	NOASSERTION	web	Dating Sites	💃🕺🏼React Native (bare) social dating app where users can create a group with their friends, match with other groups, chat and hang out	
+damianstone/toogether-backend	99	NOASSERTION	web	Dating Sites	🐍 Django REST social dating app where users can create a group with their friends, match with other groups, chat and hang out	
+b1rdmania/hinge-profile-optimizer	94	MIT	web	Dating Sites	Research-backed Hinge profile optimizer for ChatGPT, Codex and Claude Code: screenshot audits, photo strategy, prompt writing and settings.	
+Prakashchandra-007/humbble	76	MIT	web	Dating Sites	Humbble is an open-source dating app built with React Native + Expo, designed as a free alternative to Bumble. It lets users swipe, match, and chat while prioritizing privacy, inclusivity, and transparency—no hidden fees, just real connections. 💛🚀	
+DRincs-Productions/DS-toolkit	63	MIT	web	Dating Sites	Dating sim toolkit for Ren'py	
+devvsima/dating-bot	46	NOASSERTION	web	Dating Sites	Telegram dating bot Michalangelo(Michi), an analog of Daivinchik(Leo). The bot is intended for making new acquaintances, including friendly ones. 	
+dougdotcon/drive-tube	132	NOASSERTION	web	Digital Downloads & Creator Stores	Plataforma SaaS multi-tenant para distribuição, controle de acesso e monetização de vídeos via Google Drive, com suporte a pagamentos em criptomoedas.	
+AOSSIE-Org/InPactAI	104	GPL-3.0	web	Digital Downloads & Creator Stores	Inpact is an open-source AI-powered platform designed to connect content creators, brands, and agencies through data-driven insights. By leveraging Generative AI (GenAI), audience analytics, and engagement metrics, Inpact ensures highly relevant sponsorship op	
+AgriciDaniel/youtuber	76	Apache-2.0	web	Digital Downloads & Creator Stores	A source-cited YouTube brain: creator growth & strategy, the developer API, and paid advertising. Unofficial; not affiliated with YouTube/Google.	
+moiz-za/etsy-seller-seo-system	48	MIT	web	Digital Downloads & Creator Stores	Free Etsy SEO tool for AI assistants — optimize Etsy titles, tags, and listings with live autocomplete research, competitor SERP analysis, and 2026 Etsy policy checks. Runs in Claude, ChatGPT, and Gemini.	
+CzzzzzzJ/mdldm-knowledge-kit	47	Apache-2.0	web	Digital Downloads & Creator Stores	开源知识站脚手架：图文/视频、会员订阅与单课购买，面向 Coding Agent 一键搭建	
+shixinzhang/tiktok-viral-hooks	42	NOASSERTION	web	Digital Downloads & Creator Stores	The open library of viral TikTok hooks. Every video gets a transcript, a mind map, and a 2-sentence formula you can steal. 爆款 TikTok 深度拆解 —— 钩子分析、完整文稿、思维导图,免费开放。	
+OneInterface/stormy-cookbook	38	MIT	web	Digital Downloads & Creator Stores	Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find veri	
+AIPMAndy/HowToBeAnAICreator	32	MIT	web	Digital Downloads & Creator Stores	人人都能成为 AI 博主：从零起号、AI 产品实测、内容制作、商业合作，59 张操作卡 + 30 天打卡｜AI creator handbook (Chinese)	
+oguzhankayan/etsy-engine	30	MIT	web	Digital Downloads & Creator Stores	Open-source Etsy digital product engine: demand-validated printables, mockups, SEO and drafts. Images by Raywake.	
+flyfish-dev/shop	30	AGPL-3.0	web	Digital Downloads & Creator Stores	飞鱼小铺：面向数字产品、源码仓库与开发者服务的开源交易和自动交付系统，内置共享认证、Stripe/H5 支付、任务重试与 Docker Native 一键体验。	
+openclaw/clawhub	9550	MIT	web	Directories	Skill + Plugin Registry for OpenClaw	
+TheKingOfDuck/fuzzDicts	8443	NONE	web	Directories	You Know, For WEB Fuzzing ! 	
+Pintree-io/pintree	2595	MIT	web	Directories	Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.	
+MinhasKamal/DownGit	2278	MIT	web	Directories	Create GitHub Resource Download Link	
+thecodrr/fdir	1738	MIT	web	Directories	⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s	
+KoalaBear84/OpenDirectoryDownloader	1420	GPL-3.0	web	Directories	Indexes open directories	
+react-native-community/directory	1410	MIT	web	Directories	A searchable and filterable directory of React Native libraries.	
+PlumHound/PlumHound	1337	GPL-3.0	web	Directories	Bloodhound Reporting for Blue and Purple Teams	
+xdesro/personalsit.es	982	NONE	web	Directories	📇 A little directory of people's personal sites	
+spatie/temporary-directory	972	MIT	web	Directories	A simple class to work with a temporary directory	
+thedaviddias/llms-txt-hub	925	NOASSERTION	web	Directories	🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard	
+fabiocaccamo/FCFileManager	905	MIT	web	Directories	:iphone: :open_file_folder:  iOS file manager on top of NSFileManager for simplifying files management.	
+cxong/tinydir	875	NOASSERTION	web	Directories	Lightweight, portable and easy to integrate C directory and file reader	
+s0md3v/Breacher	847	NOASSERTION	web	Directories	An advanced multithreaded admin panel finder written in python.	
+otiai10/copy	773	MIT	web	Directories	Go copy directory recursively	
+DigitalPlatDev/FreeDomain	207431	AGPL-3.0	web	Documentation Sites	Free domain registration and practical DNS learning resources for everyone.	
+jlevy/the-art-of-command-line	162698	NONE	web	Documentation Sites	Master the command line, in one page	
+storybookjs/storybook	91479	MIT	web	Documentation Sites	Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation	
+freeCodeCamp/devdocs	39610	MPL-2.0	web	Documentation Sites	API Documentation Browser	
+satwikkansal/wtfpython	37137	WTFPL	web	Documentation Sites	What the f*ck Python? 😱	
+GitbookIO/gitbook	29095	GPL-3.0	web	Documentation Sites	The open source frontend for GitBook doc sites	
+shimohq/chinese-programmer-wrong-pronunciation	23380	NONE	web	Documentation Sites	中国程序员容易发音错误的单词	
+sparanoid/chinese-copywriting-guidelines	15834	MIT	web	Documentation Sites	Chinese copywriting guidelines for better written communication／中文文案排版指北	
+github/opensource.guide	15787	CC-BY-4.0	web	Documentation Sites	📚 Community guides for open source creators	
+jsdoc/jsdoc	15470	Apache-2.0	web	Documentation Sites	An API documentation generator for JavaScript.	
+yusufkaraaslan/Skill_Seekers	15292	MIT	web	Documentation Sites	Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection	
+pandao/editor.md	14308	MIT	web	Documentation Sites	The open source embeddable online markdown editor (component).	
+zealdocs/zeal	12868	GPL-3.0	web	Documentation Sites	Offline documentation browser. Your personal reference library, searchable in an instant.	
+reactjs/react.dev	11835	CC-BY-4.0	web	Documentation Sites	The React documentation website	
+mdn/content	11127	NOASSERTION	web	Documentation Sites	The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.	
+styleguidist/react-styleguidist	11049	MIT	web	Documentation Sites	Isolated React component development environment with a living style guide	
+awsdocs/aws-doc-sdk-examples	10466	Apache-2.0	web	Documentation Sites	Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.	
+home-assistant/home-assistant.io	10129	NOASSERTION	web	Documentation Sites	:blue_book: Home Assistant User documentation	
+matheusfelipeog/beautiful-docs	9549	MIT	web	Documentation Sites	Pointers to useful, well-written, and otherwise beautiful documentation.	
+just-the-docs/just-the-docs	9230	MIT	web	Documentation Sites	A modern, high customizable, responsive Jekyll theme for documentation with built-in search.	
+sysprog21/lkmpg	8640	OSL-3.0	web	Documentation Sites	The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)	
+markdoc/markdoc	8520	MIT	web	Documentation Sites	A powerful, flexible, Markdown-based authoring framework.	
+TypeStrong/typedoc	8454	Apache-2.0	web	Documentation Sites	Documentation generator for TypeScript projects.	
+repowise-dev/repowise	8088	AGPL-3.0	web	Documentation Sites	Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.	
+sphinx-doc/sphinx	8085	NOASSERTION	web	Documentation Sites	The Sphinx documentation generator	
+is-a-dev/register	11760	MIT	web	Domain & WHOIS Tools	Grab your own sweet-looking '.is-a.dev' subdomain.	
+luolongfei/freenom	3329	MIT	web	Domain & WHOIS Tools	Freenom 域名自动续期。Freenom domain name renews automatically.	
+bespoyasov/frontend-clean-architecture	2592	NONE	web	Domain & WHOIS Tools	React + TypeScript app built using the clean architecture principles in a more functional way.	
+dromara/domain-admin	2457	MIT	web	Domain & WHOIS Tools	域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System. 	
+brandonyoungdev/tldx	1934	Apache-2.0	web	Domain & WHOIS Tools	Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats	
+mschwager/fierce	1828	GPL-3.0	web	Domain & WHOIS Tools	A DNS reconnaissance tool for locating non-contiguous IP space.	
+thedev-id/thedev.id	1812	NONE	web	Domain & WHOIS Tools	Identity for developers on the web.	
+microlinkhq/unavatar	1478	MIT	web	Domain & WHOIS Tools	Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.	
+neodevpro/neodevhost	1370	MIT	web	Domain & WHOIS Tools	 The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告	
+HG-ha/ICP_Query	1106	NONE	web	Domain & WHOIS Tools	查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API	
+Olivr/free-domain	805	NONE	web	Domain & WHOIS Tools	Get a cluster.ws & wip.la domain for free and instantly	
+remusao/tldts	773	MIT	web	Domain & WHOIS Tools	JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.	
+pluwen/china-domain-allowlist	672	GPL-3.0	web	Domain & WHOIS Tools	常用中国网站白名单，纯列表，用于 SwitchyOmega，控制不走代理的网站。	
+is-a-good-dev/register	641	GPL-3.0	web	Domain & WHOIS Tools	Register for your is-a-good.dev domain!	
+xuemian168/domain-scanner	611	AGPL-3.0	web	Domain & WHOIS Tools	【域名扫描器】一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This domain scanner helps you find available domain based on various patterns and filters.	
+reactioncommerce/reaction	12400	GPL-3.0	web	E-commerce Platforms	Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 	
+aimeos/aimeos	5475	MIT	web	E-commerce Platforms	Integrated online shop based on Laravel and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce	
+gz-yami/mall4j	5322	AGPL-3.0	web	E-commerce Platforms	⭐️⭐️⭐️ 电商商城 小程序电商商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城 跨境商城	
+Kaustubh-Natuskar/moreThanFAANGM	5261	MIT	web	E-commerce Platforms	This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.	
+fecshop/yii2_fecshop	5260	BSD-3-Clause	web	E-commerce Platforms	yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等	
+abuanwar072/E-commerce-Complete-Flutter-UI	4847	NONE	web	E-commerce Platforms	The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter.	
+aimeos/aimeos-core	4543	NOASSERTION	web	E-commerce Platforms	Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce	
+simplcommerce/SimplCommerce	4412	Apache-2.0	web	E-commerce Platforms	A simple, cross platform, modulith ecommerce system built on .NET	
+lunarphp/lunar	3770	MIT	web	E-commerce Platforms	An open-source package that brings the power of modern headless e-commerce functionality to Laravel.	
+vuestorefront/storefront-ui	2812	MIT	web	E-commerce Platforms	A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.	
+aimeos/aimeos-headless	2582	NONE	web	E-commerce Platforms	Aimeos cloud-native, API-first ecommerce headless distribution based on Laravel for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce	
+jeffersonRibeiro/react-shopping-cart	2582	NONE	web	E-commerce Platforms	🛍️ Simple ecommerce cart application built with Typescript and React	
+shuup/shuup	2406	NOASSERTION	web	E-commerce Platforms	E-Commerce Platform	
+justdjango/django-ecommerce	2359	GPL-3.0	web	E-commerce Platforms	An e-commerce website built with Django	
+adrianhajdin/ecommerce_sanity_stripe	2314	NONE	web	E-commerce Platforms	Modern Full Stack ECommerce Application with Stripe	
+jsdecena/laracom	2040	NONE	web	E-commerce Platforms	Laravel FREE E-Commerce Software	
+ThreeDotsLabs/watermill	9944	MIT	web	Events & Ticketing	Building event-driven applications the easy way in Go.	
+ddd-by-examples/library	5988	MIT	web	Events & Ticketing	A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.	
+krisleech/wisper	3332	NONE	web	Events & Ticketing	A micro library providing Ruby objects with Publish-Subscribe capabilities	
+eventflow/EventFlow	2568	NOASSERTION	web	Events & Ticketing	Async/await first CQRS+ES and DDD framework for .NET	
+LeaVerou/bliss	2392	MIT	web	Events & Ticketing	Blissful JavaScript	
+karafka/karafka	2254	NOASSERTION	web	Events & Ticketing	Ruby and Rails efficient Kafka processing framework	
+karolkozer/planby	1722	NOASSERTION	web	Events & Ticketing	Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you to operate on a really big amount of data.	
+knative/eventing	1560	Apache-2.0	web	Events & Ticketing	Event-driven application platform for Kubernetes	
+Unity-Technologies/InputSystem	1526	NOASSERTION	web	Events & Ticketing	An efficient and versatile input system for Unity.	
+BadChoice/handesk	1449	MIT	web	Events & Ticketing	A Powerful Laravel Help Desk and Lead Management App	
+jruizgit/rules	1303	MIT	web	Events & Ticketing	Durable Rules Engine	
+jcubic/sysend	1163	MIT	web	Events & Ticketing	Web application synchronization between different tabs	
+aquametalabs/aquameta	1098	GPL-3.0	web	Events & Ticketing	Web development platform built entirely in PostgreSQL	
+laminas/laminas-eventmanager	1015	BSD-3-Clause	web	Events & Ticketing	Trigger and listen to events within a PHP application	
+openSUSE/osem	930	MIT	web	Events & Ticketing	Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.	
+aeharding/voyager	1833	AGPL-3.0	web	Fediverse & Social Networks	Voyager — a beautiful app for Lemmy and Piefed	
+snarfed/bridgy-fed	1251	CC0-1.0	web	Fediverse & Social Networks	🌉 A bridge between decentralized social networks	
+nolanlawson/pinafore	1034	AGPL-3.0	web	Fediverse & Social Networks	Alternative web client for Mastodon (UNMAINTAINED)	
+thunder-app/thunder	1028	AGPL-3.0	web	Fediverse & Social Networks	An open-source cross-platform Lemmy & PieFed client for iOS and Android	
+joyeusenoelle/GuideToMastodon	924	MIT	web	Fediverse & Social Networks	An increasingly less-brief guide to Mastodon	
+ernestwisniewski/kbin	807	AGPL-3.0	web	Fediverse & Social Networks	A reddit-like content aggregator and micro-blogging platform for the fediverse.	
+neet/masto.js	784	MIT	web	Fediverse & Social Networks	🐘 Universal Mastodon API client for JavaScript	
+GeopJr/Tuba	774	GPL-3.0	web	Fediverse & Social Networks	Browse the Fediverse	
+Minds/minds	732	NOASSERTION	web	Fediverse & Social Networks	mirror of https://gitlab.com/minds/minds	
+asciimoo/omnom	666	AGPL-3.0	web	Fediverse & Social Networks	A web content preservation service	
+Automattic/wordpress-activitypub	583	MIT	web	Fediverse & Social Networks	The ActivityPub plugin connects your WordPress site to the Fediverse. Your site becomes a profile people can follow from Mastodon, and every post you publish is automatically delivered to your followers' feeds, where their likes, boosts and replies come back a	
+Xyphyn/photon	558	AGPL-3.0	web	Fediverse & Social Networks	A faster, prettier, and nicer fediverse client	
+grishka/Smithereen	545	Unlicense	web	Fediverse & Social Networks	Federated, ActivityPub-compatible social network server with friends, walls, and groups.	

@@ -1,0 +1,380 @@
+MuwMx/YumaPlayer	1134	GPL-3.0	mobile	Music Streaming	🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫	
+mantou132/Spotify-Lyrics	1064	NONE	mobile	Music Streaming	🎉 Desktop Spotify Web Player Instant Synchronised Lyrics	
+better-lyrics/better-lyrics	1005	GPL-3.0	mobile	Music Streaming	Better Lyrics for YouTube Music - Enhance YouTube Music with beautiful time-synced lyrics, multilingual support, real-time translations and more ✨	
+arnoldhao/xiadown	758	Apache-2.0	mobile	Music Streaming	🐣一款支持视频下载的资源库管理应用    A media library manager with video download support	
+trimstray/nginx-admins-handbook	14338	MIT	mobile	Notes Apps	How to improve NGINX performance, security, and other important things.	
+hackjutsu/Lepton	10347	MIT	mobile	Notes Apps	💻     Democratizing Snippet Management (macOS/Win/Linux)	
+hackmdio/codimd	10163	AGPL-3.0	mobile	Notes Apps	CodiMD - Realtime collaborative markdown notes on all platforms.	
+GcsSloop/AndroidNote	9347	NONE	mobile	Notes Apps	安卓学习笔记	
+windingwind/zotero-better-notes	8427	AGPL-3.0	mobile	Notes Apps	Everything about note management. All in Zotero.	
+JuanCrg90/Clean-Code-Notes	6123	NONE	mobile	Notes Apps	My notes of Clean Code book	
+saber-notes/saber	5025	GPL-3.0	mobile	Notes Apps	The cross-platform open-source app built for handwriting	
+orgzly/orgzly-android	2819	GPL-3.0	mobile	Notes Apps	Outliner for taking notes and managing to-do lists	
+ZenNotes/zennotes	2583	MIT	mobile	Notes Apps	Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.	
+antonmedv/textarea	2529	MIT	mobile	Notes Apps	A minimalist text editor that lives in URL	
+OmGodse/Notally	2206	GPL-3.0	mobile	Notes Apps	A beautiful notes app	
+BlackZhangJX/Android-Notes	2140	NONE	mobile	Notes Apps	Android开发核心知识点笔记（不断更新中🔥）	
+feigeCode/navop	2109	NOASSERTION	mobile	Notes Apps	A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.	
+seaswalker/jdk-sourcecode-analysis	1972	NONE	mobile	Notes Apps	JDK源码阅读笔记 	
+psaumur/CCNA_Course_Notes	1770	NONE	mobile	Notes Apps	This is the repository of my personal notes taken during Jeremy's IT Lab Complete CCNA 200-301 course	
+windicss/windicss	6495	MIT	mobile	On-Demand Services	Next generation utility-first CSS framework.	
+machulav/ec2-github-runner	862	MIT	mobile	On-Demand Services	On-demand self-hosted AWS EC2 runner for GitHub Actions	
+developer-1px/adorable-css	303	NONE	mobile	On-Demand Services	Rapid On-Demand Atomic CSS Framework	
+sogelink-research/ctod	69	MIT	mobile	On-Demand Services	Cesium Terrain On Demand: Generate Cesium terrain tiles on demand from a Cloud Optimized GeoTIFF	
+UffizziCloud/preview-action	58	NONE	mobile	On-Demand Services	GitHub Action to preview pull requests before merging	
+burghardt/clamfs	57	GPL-2.0	mobile	On-Demand Services	ClamFS is a FUSE-based user-space file system for Linux and BSD with on-access anti-virus file scanning	
+ctfer-io/chall-manager	45	Apache-2.0	mobile	On-Demand Services	Challenge Instances on Demand, anywhere at any time	
+ctfer-io/ctfd-chall-manager	29	Apache-2.0	mobile	On-Demand Services	CTFd plugin to deploy challenge instances on demand, using https://github.com/ctfer-io/chall-manager	
+atas/autotunnel	28	MIT	mobile	On-Demand Services	On-demand port forwarding to k8s.	
+WitteShadovv/deferred-apps	26	GPL-3.0	mobile	On-Demand Services	Download apps on-demand while still showing them as installed to keep the host lighter	
+unblocked/ec2-action-builder	24	Apache-2.0	mobile	On-Demand Services	This is a custom GitHub action to provision and manage self-hosted runners using AWS EC2 On-Demand and/or Spot instances.	
+EastSun5566/cc-gram	24	MIT	mobile	On-Demand Services	🖼 A CSS & Canvas Instagram-like image filter	
+Dexerto/on-demand-revalidation	22	GPL-3.0	mobile	On-Demand Services	Next.js On-Demand Revalidation for Wordpress on the post update revalidates specific paths.	
+open-anywhere/open-anywhere	15	NONE	mobile	On-Demand Services	说出你的需要，让应用在身边的屏幕上诞生——云端编码 Agent 当场生成 Web 应用，投到电视或投影上，并用语音继续操作。	
+ever-co/ever-demand-docs	13	NOASSERTION	mobile	On-Demand Services	Documentation for Ever® Demand™ Platform - https://docs.everdemand.co	
+jingsongliujing/OnnxOCR	1884	Apache-2.0	mobile	Parking	基于PaddleOCR重构，并且脱离PaddlePaddle深度学习训练框架的轻量级OCR，推理速度超快   ——  A lightweight OCR system based on PaddleOCR, decoupled from the PaddlePaddle deep learning training framework, with ultra-fast inference speed.	
+sirius-ai/LPRNet_Pytorch	1164	Apache-2.0	mobile	Parking	Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework. 	
+ankandrew/fast-plate-ocr	807	MIT	mobile	Parking	Lightweight & fast OCR models for license plate text recognition.	
+DoubangoTelecom/ultimateALPR-SDK	749	NOASSERTION	mobile	Parking	World's fastest ANPR / ALPR implementation for CPUs, GPUs, VPUs and NPUs using Transformers (ONNX, Tensorflow lite, TensorRT, Hailo, OpenVINO, RKNN2). Multi-Charset (Latin, Korean, Chinese) & Multi-OS (Jetson, Android, Raspberry Pi, Linux, Windows) & Multi-Arc	
+parkpow/deep-license-plate-recognition	672	MIT	mobile	Parking	Automatic License Plate Recognition (ALPR) or Automatic Number Plate Recognition (ANPR) software that works with any camera.	
+truthofmatthew/persian-license-plate-recognition	450	GPL-3.0	mobile	Parking	PLPR utilizes YOLOv5 and custom models for high-accuracy Persian license plate recognition, featuring real-time processing and an intuitive interface in an open-source framework.	
+we0091234/yolov7_plate	395	NONE	mobile	Parking	yolov7 车牌检测 车牌识别  中文车牌识别 检测   支持双层车牌 支持12种中文车牌	
+Meltedd/scarecrow	393	GPL-3.0	mobile	Parking	An adversarial frame pattern optimizer for evading automated license plate recognition, personalized to your plate.	
+apoorva-dave/LicensePlateDetector	361	NONE	mobile	Parking	Detects license plate of car and recognizes its characters	
+MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8	279	NONE	mobile	Parking	Automatic Number Plate Detection YOLOv8	
+faisalthaheem/open-lpr	236	Apache-2.0	mobile	Parking	Open Source and Free License Plate Recognition Software	
+connervieira/Predator	194	AGPL-3.0	mobile	Parking	The ultimate customizable dash-cam platform, with ALPR and object recognition capabilities	
+oxedom/parker	153	MIT	mobile	Parking	Parking detection and monitoring webapp that runs entirely in the browser	
+raysonlaroca/rodosol-alpr-dataset	140	NONE	mobile	Parking	RodoSol-ALPR: a dataset for license plate detection and recognition that includes 20K images of vehicles with Brazilian/Mercosur license plates.	
+jiamiya/HOPE	138	GPL-3.0	mobile	Parking	Reinforcement Learning-based Hybrid Policy Path Planning in Diverse Parking Scenarios	
+hello-nyxo/nyxo-app	303	GPL-3.0	mobile	Period & Health Trackers	The repository for Nyxo React Native app, a personal sleep tracker and sleep coach	
+IATkachenko/HA-SleepAsAndroid	192	Apache-2.0	mobile	Period & Health Trackers	Sleep As Android integration for Home Assistant	
+J-shw/Menstrudel	114	GPL-3.0	mobile	Period & Health Trackers	Period tracking app - Free, offline, and open source.	
+IraSoro/peri	109	MIT	mobile	Period & Health Trackers	The period tracker app	
+lucidcode/Halovision-INSPEC	67	NONE	mobile	Period & Health Trackers	The INSPEC is a lucid dreaming device with real-time REM detection that triggers audio cues to promote lucidity when used in conjunction with cognitive training. Like having a private sleep lab technician that watches you sleep and alerts you when you are drea	
+aradar46/Mooneva-Cycle-Private-Period-Tracker	49	GPL-3.0	mobile	Period & Health Trackers	Period tracking app - Free, offline, private, and open source.  Android and IOS- no account, no cloud, no ads.  GPL-3.0, on-device encryption, zero internet permission. symptom & mood tracking, PIN lock, discrete mode.	
+LollosoSi/bruxism-detector	46	GPL-3.0	mobile	Period & Health Trackers	This small suite helps you detect bruxism and interrupt it.	
+SysAdminDoc/AlarmClockXtreme	44	Apache-2.0	mobile	Period & Health Trackers	Open-source Android alarm clock for heavy sleepers. Exact scheduling and 30 dismiss challenges help you wake up and stay up. No ads or account. Nothing tracks you.	
+JuneYaooo/mediwise-health-suite	37	MIT	mobile	Period & Health Trackers	Family health management skill for agent – health records, diet tracking     家庭健康管理助手 for agent | 健康档案、饮食追踪、体重管理、就医摘要 | 本地 SQLite 存储，隐私优先	
+cilab-ufersa/period_cycle_prediction	30	MIT	mobile	Period & Health Trackers	PERIOD CYCLE PREDICTION©: Predictive Modeling of Menstrual Cycle Length: A Time Series Forecasting Approach ♀ https://arxiv.org/pdf/2308.07927.pdf	
+OpenHumans/quantified-flu	26	MIT	mobile	Period & Health Trackers	Can wearables warn us when we're getting sick? A community citsci project – open source & open data!	
+zenzer0s/kimon	22	NOASSERTION	mobile	Period & Health Trackers	A focus, planning and sleep companion for Android, built with Jetpack Compose and Material 3 Expressive.	
+neizsche/canihavesex.today	21	AGPL-3.0	mobile	Period & Health Trackers	Self-hosted, open-source period & fertility tracker. Private by design — no ads, no tracking.	
+samyak2403/PeriodTracker	20	MIT	mobile	Period & Health Trackers	PeriodTracker - Your Personal Health Companion	
+youngbryanyu/titan-health-app	20	MIT	mobile	Period & Health Trackers	An all-in-one fitness, nutrition, and health tracking web application that integrates with Purdue dining menus.	
+toolkit-for-ynab/toolkit-for-ynab	1518	MIT	mobile	Personal Budgeting	A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!	
+Pool-Of-Tears/GreenStash	792	MIT	mobile	Personal Budgeting	Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.	
+Cloeille/picsou-finance	659	NOASSERTION	mobile	Personal Budgeting	Self-hosted personal finance dashboard  Track bank accounts, brokerage, crypto, and net worth — all in one place.	
+piggyvault/piggyvault	546	MIT	mobile	Personal Budgeting	Family finance management app.	
+agstrike/silverstrike	425	MIT	mobile	Personal Budgeting	Finance Management Made Easy	
+Feromond/budget-tracker-tui	383	GPL-3.0	mobile	Personal Budgeting	A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.	
+Optum/dce	357	Apache-2.0	mobile	Personal Budgeting	Disposable Cloud Environment	
+DumbWareio/DumbBudget	343	GPL-3.0	mobile	Personal Budgeting	A stupid simple budget app!	
+afaneca/myfin	318	GPL-3.0	mobile	Personal Budgeting	MyFin Budget - Web frontend for the personal finances platform that'll help you budget, keep track of your income/spending and forecast your financial future.	
+PSLmodels/Tax-Calculator	316	NOASSERTION	mobile	Personal Budgeting	USA Federal Individual Income and Payroll Tax Microsimulation Model	
+ardov/zerro	286	GPL-2.0	mobile	Personal Budgeting	Unofficial ZenMoney client with envelope budgeting superpowers	
+brafdlog/caspion	272	MIT	mobile	Personal Budgeting	Automated budget tracking from Israeli financial institutions	
+enrique-lozano/Monekin	269	AGPL-3.0	mobile	Personal Budgeting	Track your money, not your data. Monekin is a fast, simple, offline-first personal finance app — 100% open source, zero ads, striking design.	
+MattFaz/actuali	228	NOASSERTION	mobile	Personal Budgeting	iOS client for Actual Budget 	
+maraf/Money	213	Apache-2.0	mobile	Personal Budgeting	Personal Expense Manager -- UWP (+ Blazor) and CQRS+ES.	
+ayangweb/BongoCat	24532	Apache-2.0	mobile	Pet Care	🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!	
+shinyflvre/Mate-Engine	3855	NOASSERTION	mobile	Pet Care	A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.	
+NVIDIA/NVFlare	1008	Apache-2.0	mobile	Pet Care	NVIDIA Federated Learning Application Runtime Environment	
+animavita/animavita	734	GPL-2.0	mobile	Pet Care	Trigger life-saving alerts, register animals for adoption and find the closest pet friend to adopt :dog:	
+SeakMengs/WindowPet	675	MIT	mobile	Pet Care	Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.	
+jifunks/botany	558	ISC	mobile	Pet Care	command line virtual plant buddy	
+puppylinux-woof-CE/woof-CE	456	GPL-2.0	mobile	Pet Care	woof - the Puppy builder	
+Hanzoe/Pet-GPT	435	GPL-3.0	mobile	Pet Care	Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！	
+vlln/whale-girl	405	MIT	mobile	Pet Care	DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。	
+Marksonthegamer/Mate-Engine-Linux-Port	336	NOASSERTION	mobile	Pet Care	VRM desktop pet software for Linux (aka Unofficial Linux port of shinyflvre's MateEngine)	
+OpenGATE/Gate	285	LGPL-3.0	mobile	Pet Care	Official public repository of Gate	
+spm/spm	224	GPL-2.0	mobile	Pet Care	SPM (Statistical Parametric Mapping) - Development Version	
+MyPetORG/MyPet	210	LGPL-3.0	mobile	Pet Care	🐕 Extensive pet plugin for Spigot/Paper Minecraft servers	
+Donders-Institute/bidscoin	162	GPL-3.0	mobile	Pet Care	BIDScoin converts your source-level neuroimaging data to BIDS	
+UCL/STIR	160	NOASSERTION	mobile	Pet Care	Software for Tomographic Image Reconstruction	
+zetbaitsu/Compressor	7229	NONE	mobile	Photo Backup	An android image compression library.	
+simulot/immich-go	7159	AGPL-3.0	mobile	Photo Backup	An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.	
+RhetTbull/osxphotos	3986	MIT	mobile	Photo Backup	Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata. 	
+libjxl/libjxl	3838	BSD-3-Clause	mobile	Photo Backup	JPEG XL image format reference implementation	
+Skykai521/StickerCamera	3171	NONE	mobile	Photo Backup	This is an Android application with camera,picture cropping,collage sticking and tagging.贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签。	
+boredazfcuk/docker-icloudpd	2964	NONE	mobile	Photo Backup	An Alpine Linux container for the iCloud Photos Downloader command line utility 	
+suzuki-0000/SKPhotoBrowser	2735	MIT	mobile	Photo Backup	Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift	
+unsplash/unsplash-js	2195	MIT	mobile	Photo Backup	🤖 Official JavaScript wrapper for the Unsplash API	
+extesy/hoverzoom	2090	MIT	mobile	Photo Backup	Google Chrome extension for zooming images on mouse hover	
+damongolding/immich-kiosk	1737	AGPL-3.0	mobile	Photo Backup	Highly configurable slideshows for displaying Immich assets on browsers and devices.	
+jmathai/elodie	1506	Apache-2.0	mobile	Photo Backup	An EXIF-based photo assistant, organizer  and workflow automation tool.	
+mikaoj/BSImagePicker	1370	MIT	mobile	Photo Backup	A multiple image picker for iOS	
+itouch2/PhotoTweaks	1246	MIT	mobile	Photo Backup	Drag, Rotate, Scale and Crop	
+dixudx/tumblr-crawler	1161	NONE	mobile	Photo Backup	Easily download all the photos/videos from tumblr blogs. 下载指定的 Tumblr 博客中的图片，视频	
+DrizzleTime/Foxel	1153	MIT	mobile	Photo Backup	A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.	
+TheRealSavi/iOpenPod	511	GPL-3.0	mobile	Podcast Apps	Free, open-source iPod manager and iTunes alternative for Windows, macOS, and Linux. Sync music, edit playlists and metadata, and review changes before Sync.	
+thrillfall/nextcloud-gpodder	270	AGPL-3.0	mobile	Podcast Apps	nextcloud app that replicates basic gpodder.net api 	
+xthursdayx/gpodder-docker	58	GPL-3.0	mobile	Podcast Apps	📦   Dockerized version of gPodder podcatcher.	
+kvannotten/pcd	56	GPL-3.0	mobile	Podcast Apps	CLI podcast client (podcatcher) written in golang	
+manualdousuario/sintoniza	47	GPL-3.0	mobile	Podcast Apps	Sintoniza is a powerful podcast synchronization server based on the gPodder protocol. It helps you keep your podcast subscriptions, episodes, and listening history in sync across all your devices!	
+jbierfeldt/podcast-feed-parser	43	MIT	mobile	Podcast Apps	A highly customizable package for fetching and parsing podcast feeds into simple and manageable JavaScript objects. For use with node or in the browser.	
+realChakrawarti/ingest	37	GPL-3.0	mobile	Podcast Apps	Discover new channels, subreddits, curate your favorite videos and posts. Stay organized	
+alatiera/gnome-podcasts	31	GPL-3.0	mobile	Podcast Apps	Main repository is over at the GNOME gitlab instance	
+hyperoslo/BarcodeScanner	1717	NOASSERTION	mobile	QR, Scanners & Utilities	:mag_right: A simple and beautiful barcode scanner.	
+mchehab/zbar	1389	LGPL-2.1	mobile	QR, Scanners & Utilities	ZBar is an open source software suite for reading bar codes from various sources, including webcams.  This is the main repository for reporting issues and send PRs. There's a clone at at https://git.linuxtv.org/zbar.git/, and another one at https://gitlab.com/	
+sz3/cfc	966	MIT	mobile	QR, Scanners & Utilities	Demo/test android app for libcimbar. Copy files over the cell phone camera!	
+ericblade/quagga2	913	MIT	mobile	QR, Scanners & Utilities	An advanced barcode-scanner written in Javascript and TypeScript - Continuation from https://github.com/serratus/quaggajs	
+ftylitak/qzxing	669	Apache-2.0	mobile	QR, Scanners & Utilities	Qt/QML wrapper library for the ZXing library.  1D/2D barcode image processing library	
+AmolGangadhare/flutter_barcode_scanner	395	MIT	mobile	QR, Scanners & Utilities	Barcode scanner plugin for flutter. Supports barcode scanning for Android and iOS	
+JimmyPun610/BarcodeScanner.Mobile	375	MIT	mobile	QR, Scanners & Utilities	Barcode Scanner using GoogleVision API for Xamarin Form, Maui	
+hongquan/CoBang	353	GPL-3.0	mobile	QR, Scanners & Utilities	A QR code scanner desktop app for Linux	
+afriscic/BarcodeScanning.Native.Maui	346	MIT	mobile	QR, Scanners & Utilities	Barcode scanning library for .NET MAUI	
+rxing-core/rxing	334	Apache-2.0	mobile	QR, Scanners & Utilities	cRustacean Crossing	
+shahnawaz/react-native-barcode-mask	318	MIT	mobile	QR, Scanners & Utilities	A barcode and QR scan layout for react-native applications with customizable styling	
+heart/CarBode-Barcode-Scanner-For-SwiftUI	302	MIT	mobile	QR, Scanners & Utilities	CarBode : Free & Opensource barcode scanner & generator for SwiftUI	
+Sec-ant/barcode-detector	241	MIT	mobile	QR, Scanners & Utilities	A Barcode Detection API ponyfill/polyfill that uses ZXing-C++ WebAssembly under the hood.	
+olefirenko/vue-barcode-reader	231	NONE	mobile	QR, Scanners & Utilities	A Vue.js set of components to scan barcodes and QR codes.	
+MarkHopper24/barcodrod.io	230	Apache-2.0	mobile	QR, Scanners & Utilities	A free, modern barcode and QR code toolkit for Windows. 	
+symfony/property-access	2814	MIT	mobile	Real Estate & Property	Provides functions to read and write from/to an object or array using a simple string notation	
+symfony/property-info	2220	MIT	mobile	Real Estate & Property	Extracts information about PHP class' properties using metadata of popular sources	
+opencypher/openCypher	1028	Apache-2.0	mobile	Real Estate & Property	Specification of the Cypher property graph query language	
+g-makarov/dot-path-value	355	MIT	mobile	Real Estate & Property	Safely get and set deep nested properties using dot notation.	
+nycdb/nycdb	271	AGPL-3.0	mobile	Real Estate & Property	Database of NYC Housing Data	
+FelixTheC/strongtyping	121	NOASSERTION	mobile	Real Estate & Property	Decorator which checks whether the function is called with the correct type of parameters.	
+B1Z0N/homelander	97	MIT	mobile	Real Estate & Property	Desktop app that automates apartment applications on Immoscout24 — polls listings and auto-fills contact forms via a bundled Chromium browser.	
+wieslawsoltes/ReactiveGenerator	86	MIT	mobile	Real Estate & Property	ReactiveGenerator is a modern C# source generator that automates property change notification implementation, supporting both standard INotifyPropertyChanged and ReactiveUI patterns. 	
+chenmisss/shanghai-landing-kit	81	MIT	mobile	Real Estate & Property	来上海落地包:公租房通勤地图(高德API,任意目的地)+毕业生落地指南(落户/积分/租房/求职/就医/新城七模块计算器)——零依赖,双击即用	
+qualcomm/crash-plugins	52	GPL-2.0	mobile	Real Estate & Property	The plugins of crash-utility	
+urban-displacement/displacement-typologies	50	GPL-3.0	mobile	Real Estate & Property	The Urban Displacement Project's Displacement Typology Map code	
+INET-Complexity/housing-model	49	MIT	mobile	Real Estate & Property	Agent-based model of the UK housing market.	
+wooorm/property-information	46	MIT	mobile	Real Estate & Property	Info on the properties and attributes of the web platform	
+Nikolay-Lysenko/renovation	45	MIT	mobile	Real Estate & Property	Drawing tool that produces floor plans needed to renovate an apartment.	
+bloom-housing/bloom	40	Apache-2.0	mobile	Real Estate & Property	Bloom is Exygy’s affordable housing platform. Bloom's goal is to be a single entry point for affordable housing seekers and a hub for application and listing management for developers.	
+Anduin2017/HowToCook	103681	Unlicense	mobile	Recipe & Meal Planning	Programmer's guide about how to cook at home.	
+hendricius/the-bread-code	4144	MIT	mobile	Recipe & Meal Planning	Learn how to master the art of baking the programmer way.	
+cypress-io/cypress-example-recipes	3475	NONE	mobile	Recipe & Meal Planning	Various recipes for testing common scenarios with Cypress	
+norish-recipes/norish	1522	AGPL-3.0	mobile	Recipe & Meal Planning	Norish - A realtime, self-hosted recipe app for families & friends 	
+karlomikus/bar-assistant	1117	MIT	mobile	Recipe & Meal Planning	Bar assistant is a all-in-one solution for managing your home bar	
+symfony/recipes	1029	MIT	mobile	Recipe & Meal Planning	Symfony Recipes Repository	
+dopebase/react-native-recipes-app	817	MIT	mobile	Recipe & Meal Planning	Recipes App in React Native	
+rin-nas/postgresql-patterns-library	784	MIT	mobile	Recipe & Meal Planning	Коллекция готовых SQL запросов для PostgreSQL по часто возникающим задачам (получение и модификация данных, ускорение запросов, обслуживание БД)	
+kitshn-app/kitshn	753	GPL-3.0	mobile	Recipe & Meal Planning	 Unofficial Tandoor client for Android, iOS and Desktop devices	
+cooklang/spec	699	MIT	mobile	Recipe & Meal Planning	Home for language specification and discussions.	
+ColinKennedy/USD-Cookbook	694	MIT	mobile	Recipe & Meal Planning	USD Example Projects	
+char0n/ramda-adjunct	687	BSD-3-Clause	mobile	Recipe & Meal Planning	Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.	
+nextcloud/cookbook	653	AGPL-3.0	mobile	Recipe & Meal Planning	🍲 A library for all your recipes	
+symfony/recipes-contrib	558	MIT	mobile	Recipe & Meal Planning	Symfony Contrib Recipes Repositories	
+labstack/echox	440	MIT	mobile	Recipe & Meal Planning	Echo cookbook and website	
+adrianhajdin/uber	2210	NONE	mobile	Ride-Hailing & Taxi	Build a full-stack Uber Clone Application with Expo’s latest features and lightning-fast edge-ready Postgres database in React Native.	
+amitshekhariitbhu/ridesharing-uber-lyft-app	1680	NONE	mobile	Ride-Hailing & Taxi	Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project	
+openmobilityfoundation/mobility-data-specification	754	NOASSERTION	mobile	Ride-Hailing & Taxi	A data specification to enable right-of-way regulation, digital policy, geofencing, and two-way communication between mobility companies and public agencies worldwide for any regulated, shared, or agency vehicle.	
+VadimNotJustDev/UberClone	313	MIT	mobile	Ride-Hailing & Taxi	React Native Uber Mobile App	
+STS-Rosario/carpoolear	103	LGPL-3.0	mobile	Ride-Hailing & Taxi	The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: Carpoolear	
+callmespring/RL-short-course	101	NOASSERTION	mobile	Ride-Hailing & Taxi	Reinforcement Learning Short Course	
+sitatec/Taluxi-Open-Source	98	GPL-3.0	mobile	Ride-Hailing & Taxi	Open source uber-like apps (passenger/driver) built with Flutter	
+offfahad/uber-clone	77	NONE	mobile	Ride-Hailing & Taxi	A cross-platform ride-sharing app with user, driver, and admin panels using Flutter and Firebase. Integrated Google Maps, Geolocator, and Geofire for location tracking and push notifications.	
+nytimes/redux-taxi	70	NOASSERTION	mobile	Ride-Hailing & Taxi	🚕 Component-driven asynchronous SSR in isomorphic Redux apps	
+openmobilityfoundation/curb-data-specification	69	NOASSERTION	mobile	Ride-Hailing & Taxi	A data specification to help cities manage their curb zone and parking programs and surrounding areas, and measure the utilization and impact.	
+othreecodes/MY-RIDE	68	MIT	mobile	Ride-Hailing & Taxi	Carpooling / Ride sharing app done with django and bootstrap	
+STS-Rosario/carpoolear_backend	68	GPL-3.0	mobile	Ride-Hailing & Taxi	The open source Laravel backend for the argentinian carpooling application: Carpoolear	
+dshukertjr/uber-clone	62	NONE	mobile	Ride-Hailing & Taxi		
+hyderali0889/Trippo	57	NONE	mobile	Ride-Hailing & Taxi	Trippo is an Uber clone built using Flutter for cross-platform mobile app development (iOS and Android) and Firebase for backend services. The app provides a seamless experience for riders and drivers, including features like ride booking, real-time tracking, 	
+Autofleet/locomotion	55	MIT	mobile	Ride-Hailing & Taxi	An open-source rider/passenger mobile app written in React Native and Node.js that can be customized and modified to support any ride-hailing	
+yihong0618/running_page	4562	MIT	mobile	Running, Cycling & Outdoor	Make your own running home page	
+GoldenCheetah/GoldenCheetah	2252	GPL-2.0	mobile	Running, Cycling & Outdoor	Performance Software for Cyclists, Runners, Triathletes and Coaches	
+yihong0618/GitHubPoster	1854	MIT	mobile	Running, Cycling & Outdoor	Make everything a GitHub svg poster and Skyline!	
+thomaschampagne/elevate	1470	MPL-2.0	mobile	Running, Cycling & Outdoor	A sport app to "Elevate" your training experience and goals! Track your fitness and progressions over time. Analyse deeper your activities. And more...	
+dvmarinoff/Auuki	913	AGPL-3.0	mobile	Running, Cycling & Outdoor	Indoor Cycling App for Structured Training	
+cagnulein/qdomyos-zwift	901	GPL-3.0	mobile	Running, Cycling & Outdoor	Zwift bridge for smart treadmills and bike/cyclette	
+erik/derive	591	MIT	mobile	Running, Cycling & Outdoor	Generate personal heatmap from GPX/TCX/FIT/IGC data	
+ropensci/stplanr	443	NOASSERTION	mobile	Running, Cycling & Outdoor	Sustainable transport planning with R	
+allister-grange/startertab	413	GPL-3.0	mobile	Running, Cycling & Outdoor	A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)	
+valterc/ki2	393	MIT	mobile	Running, Cycling & Outdoor	Karoo companion app for Japanese electronic shifting groupsets. Display gear/battery information and control Karoo ride screen.	
+alex-hhh/ActivityLog2	370	GPL-3.0	mobile	Running, Cycling & Outdoor	Analyze data from swim, bike and run activities	
+cyclosm/cyclosm-cartocss-style	281	NOASSERTION	mobile	Running, Cycling & Outdoor	Cycle oriented CartoCSS style.	
+SauceLLC/sauce4strava	279	MIT	mobile	Running, Cycling & Outdoor	Sauce for Strava™	
+EmGi96/TrailPrint3D	259	GPL-3.0	mobile	Running, Cycling & Outdoor	Blender Addon to turn your GPX files into 3D Printable Full-color Maps	
+felixrieseberg/claude-coach	229	MIT	mobile	Running, Cycling & Outdoor	Claude as your endurance coach for marathons, triathlons, Ironman events, and more	
+keybase/client	9271	BSD-3-Clause	mobile	Secure Messaging	Keybase Go Library, Client, Service, OS X, iOS, Android, Electron	
+build-trust/ockam	4640	Apache-2.0	mobile	Secure Messaging	Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.	
+Peergos/Peergos	2552	AGPL-3.0	mobile	Secure Messaging	A p2p, secure file storage, social network and application protocol	
+garden-co/classic-jazz	2538	MIT	mobile	Secure Messaging	A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.	
+meganz/MEGAsync	1922	NOASSERTION	mobile	Secure Messaging	Easy automated syncing between your computers and your MEGA Cloud Drive	
+meganz/android	1893	NOASSERTION	mobile	Secure Messaging	MEGA Android App	
+sniptt-official/ots	1848	Apache-2.0	mobile	Secure Messaging	🔐 Share end-to-end encrypted secrets with others via a one-time URL	
+etesync/server	1780	AGPL-3.0	mobile	Secure Messaging	The Etebase server (so you can run your own)	
+cs01/termpair	1777	MIT	mobile	Secure Messaging	View and control terminals from your browser with end-to-end encryption 🔒	
+robinkarlberg/transfer.zip-web	1510	AGPL-3.0	mobile	Secure Messaging	A self-hostable complete file-sharing solution that focuses on reliability, security and ease of use. 	
+maqp/tfc	1322	NOASSERTION	mobile	Secure Messaging	Tinfoil Chat - Onion-routed, endpoint secure messaging system	
+psanford/wormhole-william	1261	MIT	mobile	Secure Messaging	End-to-end encrypted file transfer. A magic wormhole CLI and API in Go (golang).	
+wireapp/wire-webapp	1192	GPL-3.0	mobile	Secure Messaging	Wire for Web	
+shuaiplus/nodecrypt	898	ISC	mobile	Secure Messaging	🔒True end-to-end encrypted (E2EE) chat system in web. 🔒真正的网页端到端加密聊天系统	
+amnesica/KryptEY	879	GPL-3.0	mobile	Secure Messaging	Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE	
+Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist	1642	MIT	mobile	Shopping Lists & Household	The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected wi	
+eljojo/rememory	1498	Apache-2.0	mobile	Shopping Lists & Household	a digital safe with multiple keys, held by people you trust	
+cmintey/wishlist	681	MIT	mobile	Shopping Lists & Household	Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!	
+Albert221/FastShopping	262	Apache-2.0	mobile	Shopping Lists & Household	Simple app for easy shopping list making, developed with simplicity in mind.	
+candiddev/homechart	242	NONE	mobile	Shopping Lists & Household	Your Family's Mission Control	
+Serg-Norseman/GEDKeeper	216	GPL-3.0	mobile	Shopping Lists & Household	GEDKeeper - program for work with personal genealogical database	
+michelesalvador/FamilyGem	200	GPL-3.0	mobile	Shopping Lists & Household	Android app for genealogical trees	
+cristicretu/family-drawer	155	NONE	mobile	Shopping Lists & Household	Pure SwiftUI Family Drawer recreation!	
+alexbates/Tamari	148	GPL-3.0	mobile	Shopping Lists & Household	A fully-featured recipe manager web application built using Python and the Flask Framework.	
+DanielRendox/GroceryGenius	144	GPL-3.0	mobile	Shopping Lists & Household	A feature-rich shopping list Android app with offline-first mode and Material You design	
+watkins-matt/home-assistant-google-keep-sync	129	MIT	mobile	Shopping Lists & Household	Custom component for Home Assistant that enables bidirectional synchronization with Google Keep lists.	
+prestomation/ha-home-keeper	129	MIT	mobile	Shopping Lists & Household	Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration 	
+siddhiparkar151992/Online-Book-Store	122	NONE	mobile	Shopping Lists & Household	An online Book Store createed with Python / Flask rest, MySql,Angular and Bootstrap 	
+krelltunez/lastGLANCE	103	MIT	mobile	Shopping Lists & Household	When did you last...?	
+Prisma-care/mobile-app	101	NONE	mobile	Shopping Lists & Household	Color your memories	
+okfn-brasil/serenata-de-amor	4623	MIT	mobile	Smart City & Civic Tech	🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**	
+kolplattformen/skolplattformen	809	Apache-2.0	mobile	Smart City & Civic Tech	The source code to the civic tech project Öppna Skolplattformen.	
+streetmix/streetmix	754	NOASSERTION	mobile	Smart City & Civic Tech	Streetmix makes it easy for people to design public spaces together.	
+CiviWiki/OpenCiviWiki	633	NOASSERTION	mobile	Smart City & Civic Tech	Building a Better Democracy for the Internet Age	
+CMSgov/design-system	374	NOASSERTION	mobile	Smart City & Civic Tech	Open source design and front-end development resources for creating Section 508 compliant, responsive, and consistent websites.	
+jayanthmb14/forthepeople	313	MIT	mobile	Smart City & Civic Tech	India's free, real-time district-level civic transparency platform. 29 dashboards per district.	
+GSA/code-gov	295	NOASSERTION	mobile	Smart City & Civic Tech	An informative repo for all Code.gov repos	
+mysociety/theyworkforyou	264	NOASSERTION	mobile	Smart City & Civic Tech	Keeping tabs on the UK's parliaments and assemblies	
+everypolitician/everypolitician-data	257	NONE	mobile	Smart City & Civic Tech	data for national legislatures worldwide	
+CitizenLabDotCo/citizenlab	240	NOASSERTION	mobile	Smart City & Civic Tech	Go Vocal is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community projects. 	
+JustFixNYC/who-owns-what	216	GPL-3.0	mobile	Smart City & Civic Tech	Who owns what in nyc?	
+regardscitoyens/nosdeputes.fr	155	AGPL-3.0	mobile	Smart City & Civic Tech	Repository of NosDéputés.fr : the french parliamentary monitoring website	
+x4dqn/Open3Dmap	141	NOASSERTION	mobile	Smart City & Civic Tech	Open-source platform for GPS-anchored 3D mapping using crowdsourced mobile scans	
+kokes/od	139	MPL-2.0	mobile	Smart City & Civic Tech	Česká otevřená data	
+studentinsights/studentinsights	136	MIT	mobile	Smart City & Civic Tech	We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!	
+TheAlphamerc/flutter_twitter_clone	4243	MIT	mobile	Social Apps	Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage	
+yTakkar/React-Instagram-Clone-2.0	1018	MIT	mobile	Social Apps	A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.	
+ccrsxx/twitter-clone	958	MIT	mobile	Social Apps	Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage	
+SaiUpadhyayula/spring-reddit-clone	726	NONE	mobile	Social Apps	Reddit clone built using Spring Boot, Spring Security with JWT Authentication, Spring Data JPA with MySQL, Spring MVC. The frontend is built using Angular - You can find the frontend source code here - https://github.com/SaiUpadhyayula/angular-reddit-clone	
+merikbest/twitter-spring-reactjs	403	MIT	mobile	Social Apps	:bird: Twitter Clone with Microservice Architecture using Java 17, Spring Boot, Spring Cloud, PostgreSQL, S3 bucket, JWT, TypeScript, React.js, Redux-Saga, Material-UI	
+ihtasham42/social-media-app	215	Unlicense	mobile	Social Apps	Social media application built with the MERN stack	
+PankajGaikar/Instagram-Clone-SwiftUI	169	MIT	mobile	Social Apps	A perfect clone of Instagram UI written with SwiftUI	
+Coders-HQ/CodersHQ	167	MIT	mobile	Social Apps	Social platform for developers to network, create and challenge themselves	
+rrdhoi/SocialMediaApp	163	MIT	mobile	Social Apps	Social Media App built with Flutter - Clean & Modern UI, Clean Code, Custom Widget	
+carlnewton/habitat	151	AGPL-3.0	mobile	Social Apps	Habitat is a free and open source self-hosted social platform for local communities	
+TheLordA/Instagram-Clone	137	NONE	mobile	Social Apps	Building an Instagram web app clone using MERN Stack ( MongoDB , Express.js , React.js , Node.js ) and bring some additional features	
+GateAnchorage/canva-pro	122	NONE	mobile	Social Apps	Canva Pro 2026 pre-configured production build for professional desktop software utility configuration, ready for isolated local...	
+nixrajput/social-media-app-flutter	121	GPL-3.0	mobile	Social Apps	Rippl is a social media application developed using Flutter and managed with the GetX state management tool. It vows to revolutionize your social engagements by offering a smooth and immersive experience.	
+jigar-sable/web-ui-clones	121	NONE	mobile	Social Apps	Website UI Clones using TailwindCSS	
+Subhajit25Mondal/hashtag.io	111	MIT	mobile	Social Apps	Hashtag.io is a PHP based social networking website, which supports exclusive multimedia content, sharing and private or group messaging service.	
+SimplifyJobs/Summer2027-Internships	48328	NONE	mobile	Student & Campus Apps	Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.	
+speedyapply/2027-SWE-College-Jobs	9605	NONE	mobile	Student & Campus Apps	2027 SWE internship & new graduate job list updated daily	
+speedyapply/2027-AI-College-Jobs	6628	NONE	mobile	Student & Campus Apps	2027 AI/ML internship & new graduate job list updated daily	
+zapplyjobs/Internships-2027	5259	NOASSERTION	mobile	Student & Campus Apps	2027 tech & software engineering internships for students — new grad US roles, summer & full-year	
+vanshb03/New-Grad-2027	2698	MIT	mobile	Student & Campus Apps	2026 & 2027 New grad full-time roles in SWE, Quant, and PM. 	
+ejwa/gitinspector	2512	GPL-3.0	mobile	Student & Campus Apps	:bar_chart: The statistical analysis tool for git repositories	
+coursera-dl/edx-dl	1963	LGPL-3.0	mobile	Student & Campus Apps	A simple tool to download video lectures from edx.org (and other openedx sites)	
+zapplyjobs/New-Grad-Jobs-2027	1595	NOASSERTION	mobile	Student & Campus Apps	2027 entry-level jobs in tech, finance, healthcare & more — new grad US roles across software, business, operations & beyond	
+nushackers/notes-to-cs-freshmen-from-the-future	1441	NONE	mobile	Student & Campus Apps	Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)	
+ckane/CS7038-Malware-Analysis	1397	NONE	mobile	Student & Campus Apps	Course Repository for University of Cincinnati Malware Analysis Class (CS[567]038)	
+whutug/whu-thesis	1358	LPPL-1.3c	mobile	Student & Campus Apps	武汉大学毕业论文 LaTeX 模版 2025	
+nwuzmedoutlook/university	1230	Apache-2.0	mobile	Student & Campus Apps	:octocat:120+国内高校课程资源纯手工整理，欢迎补充、修订	
+d0r1h/ML-University	954	NONE	mobile	Student & Campus Apps	Machine Learning Open Source University	
+sndsh404/summer-2027-internships	936	MIT	mobile	Student & Campus Apps	Summer 2027 and off-season tech internships in the US. Software, data and ML, hardware, quant, and product roles, updated regularly.	
+tecnickcom/tcexam	629	NOASSERTION	mobile	Student & Campus Apps	TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams.	
+public-transport/transitous	748	NONE	mobile	Transit & Ticketing	Free and open public transport routing.	
+metrodroid/metrodroid	666	GPL-3.0	mobile	Transit & Ticketing	Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)	
+BlinkTagInc/node-gtfs	506	MIT	mobile	Transit & Ticketing	Import, validate, query, and export GTFS Schedule and Realtime data with SQLite, PostgreSQL, and MySQL.	
+public-transport/hafas-client	370	ISC	mobile	Transit & Ticketing	JavaScript client for HAFAS public transport APIs.	
+better-rail/app	311	AGPL-3.0	mobile	Transit & Ticketing	An alternative mobile client for Israel Railways	
+r-transit/tidytransit	173	NONE	mobile	Transit & Ticketing	R package for working with GTFS data	
+EastsideUrbanism/transit-tracker	162	NOASSERTION	mobile	Transit & Ticketing	🚏 Open-source DIY public transit arrivals board for your home	
+public-transport/gtfs-via-postgres	148	NOASSERTION	mobile	Transit & Ticketing	Analyse GTFS Schedule data by importing it into a PostgreSQL database.	
+iRail/iRail	139	NONE	mobile	Transit & Ticketing	iRail API / scraper	
+coppermilk/wiener_linien_esp32_monitor	133	NONE	mobile	Transit & Ticketing	A script for using a T-Display S3 ESP32S3 as a departure board.	
+planarnetwork/raptor	121	NONE	mobile	Transit & Ticketing	Implementation of the Route Based Public Transit Algorithm (Raptor)	
+traines-source/transport-network-animator	120	MIT	mobile	Transit & Ticketing	SVG-based Tool to Animate Maps of Public Transport Networks	
+trufi-association/trufi-core	116	GPL-3.0	mobile	Transit & Ticketing	Trufi - A Flutter app for Public Transportation	
+derhuerst/bvg-rest	113	ISC	mobile	Transit & Ticketing	An HTTP API for Berlin & Brandenburg public transport.	
+alexander-albers/tripkit	110	MIT	mobile	Transit & Ticketing	Swift library for querying data from public transport providers.	
+JideGuru/FlutterTravel	1196	WTFPL	mobile	Travel & Trip Planning	Flutter representation of a Travel App Concept.	
+JourniOne-ai/JourniOne-Planning-Skills	1183	NONE	mobile	Travel & Trip Planning	JourniOne 旅行规划 Skill：从灵感与逐日路线，到带地图、可分享的 Travel Journal，按需衔接酒店与航班。	
+hove-io/navitia	457	AGPL-3.0	mobile	Travel & Trip Planning	The open source software to build cool stuff with locomotion	
+awangwang123/jianhao-travel-planner	424	MIT	mobile	Travel & Trip Planning	出行路书工作流 skill：联网实查 + 多源交叉验证，产出可核验、能执行的旅行攻略。覆盖吃住行游拍避全维度，附美食情报卡、基准骨架与校验工具，支持一键部署在线版。	
+megumi-ben/marco-polo.skill	139	NONE	mobile	Travel & Trip Planning	AI travel planning skill · 旅行攻略助手 | Real routes, reservation checklists & interactive travel handbooks.	
+shsarv/TravelYaari-react	112	NONE	mobile	Travel & Trip Planning	This project delivers a travel website that inspires wanderlust through vibrant imagery and key destination highlights. It offers budget-friendly bookings, easy payments, and full customer support, along with immersive virtual tours via videos and images.	
+geekjourneyx/travel-guidebook	95	MIT	mobile	Travel & Trip Planning	AI agent skill that generates beautifully typeset travel guidebook PDFs —  from research to print, powered by parallel agents and Amap MCP.	
+shaheennabi/Production-Ready-TripPlanner-Multi-AI-Agents-Project	80	MIT	mobile	Travel & Trip Planning	✈️🌍 Production-Ready TripPlanner Multi-AI Agent Project: Transform your travel planning with AI-driven assistance! From discovering dream destinations, creating custom itineraries, exploring avenues of nature, to finding local attractions and beach spots 🔍💡—al	
+zaanposni/vvspy	68	MIT	mobile	Travel & Trip Planning	simple python module for the VVS and SSB API (Verkehrsverbund Stuttgart)	
+LeeFly-cn/TripStar-Java	65	GPL-2.0	mobile	Travel & Trip Planning	TripStar multi-agent travel planner powered by Spring Boot 4, Spring AI Alibaba, StateGraph, multimodal note understanding and AMap	
+lastnamearya/React-Travel-App	64	NONE	mobile	Travel & Trip Planning	React.js - Weekend hackathon app	
+Trunks820/Yuntu	54	MIT	mobile	Travel & Trip Planning	AI travel planning engine with deterministic route scheduling, verified POIs, and fact-grounded LLM generation.	
+JuditKaramazov/TakeYouThere	43	MIT	mobile	Travel & Trip Planning	🚀🌿 karamaSystem v3 - An interactive map enabling us to pin and share pictures of places we've visited together.	
+nicomazz/fastgtfs	42	GPL-3.0	mobile	Travel & Trip Planning	A pure Rust library that provides GTFS parsing, navigation, time table creation, and real-time network simulation. 	
+BjornMelin/tripsage-ai	40	MIT	mobile	Travel & Trip Planning	AI-powered travel planning and itinerary optimization with Next.js 16, Vercel AI SDK v7, Supabase/pgvector, and Upstash Redis/QStash.	
+iina/iina	47040	GPL-3.0	mobile	Video Streaming & Media	The modern video player for macOS.	
+videojs/video.js	40109	NOASSERTION	mobile	Video Streaming & Media	Video.js v10 - open source media player framework for HTML and React.	
+bytedance/xgplayer	9311	MIT	mobile	Video Streaming & Media	A HTML5 video player with a parser that saves traffic	
+clappr/clappr	7524	BSD-3-Clause	mobile	Video Streaming & Media	An extensible, plugin-oriented, HTML5-first media player for the web	
+waligoraamodio288-rgb/hongguo-desktop-releases	5536	NONE	mobile	Video Streaming & Media	红果短剧第三方客户端｜Windows 正式版、Mac M系列测试版、Android TV ARM32/ARM64 测试版。找剧、收藏、本机续播与电视遥控操作；免费使用，由渠道有数独立维护。	
+Doikki/DKVideoPlayer	5334	Apache-2.0	mobile	Video Streaming & Media	Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜	
+tiajinsha/JKVideo	4994	MIT	mobile	Video Streaming & Media	高颜值第三方 B 站 React Native 客户端	
+anilbeesetti/nextplayer	4694	GPL-3.0	mobile	Video Streaming & Media	An Android native video player	
+xxxily/h5player	3800	GPL-3.0	mobile	Video Streaming & Media	This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom settings, and extensions, etc., providing you with a pleasan	
+mpv-android/mpv-android	3682	MIT	mobile	Video Streaming & Media	Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat	
+GhostenEditor/Ghosten-Player	3408	AGPL-3.0	mobile	Video Streaming & Media	一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.	
+mytv-android/mytv-android	3023	MIT	mobile	Video Streaming & Media	Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC.	
+yangbin1322/hongguo-player	2917	NONE	mobile	Video Streaming & Media	红果短剧电脑版 · 不用安卓模拟器，直接在 Windows / macOS 上刷红果短剧 · 国内下载: hongguo.235698.xyz · 打不开用蓝奏云 (无需密码): wwalp.lanzout.com/b0rbj88ji	
+moneytoo/Player	2795	Unlicense	mobile	Video Streaming & Media	▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer	
+muxinc/media-chrome	2767	MIT	mobile	Video Streaming & Media	Custom elements (web components) for making audio and video player controls that look great in your website or app.	
+video-react/video-react	2724	MIT	mobile	Video Streaming & Media	Deprecated in favour of Video.js 10; security fixes only. A web video player built for the HTML5 world using React library.	
+IENT/YUView	2318	NOASSERTION	mobile	Video Streaming & Media	The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset	
+xqq/mpegts.js	2297	Apache-2.0	mobile	Video Streaming & Media	HTML5 MPEG2-TS / FLV Stream Player	
+jianjunxiao/NiceVieoPlayer	2235	NONE	mobile	Video Streaming & Media	IjkPlayer/MediaPlayer+TextureView，支持列表，完美切换全屏、小窗口的Android视频播放器 	
+piemonte/Player	2192	MIT	mobile	Video Streaming & Media	▶️ Play and stream media in Swift	
+fluttercommunity/chewie	2067	MIT	mobile	Video Streaming & Media	The video player for Flutter with a heart of gold	
+diana7127/mpv.net-DW	2004	NONE	mobile	Video Streaming & Media	mpv.net_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器	
+BrikerMan/BMPlayer	2002	MIT	mobile	Video Streaming & Media	A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles. 	
+SDWebImage/SDWebImage	25608	MIT	mobile	Wearables & Watch Apps	Asynchronous image downloader with cache support as a UIImageView category	
+Tencent/MMKV	18771	NOASSERTION	mobile	Wearables & Watch Apps	An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.	
+mac-cain13/R.swift	9545	MIT	mobile	Wearables & Watch Apps	Strong typed, autocompleted resources like images, fonts and segues in Swift projects	
+amosgyamfi/open-swiftui-animations	5688	Unlicense	mobile	Wearables & Watch Apps	You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expressive SwiftUI animations like loading/progress, looping, on-off, enter, exit, fade, spin, and backgr	
+PerryTS/perry	5085	MIT	mobile	Wearables & Watch Apps	A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.	
+square/Valet	4174	Apache-2.0	mobile	Wearables & Watch Apps	Valet lets you securely store data in the iOS, tvOS, watchOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.	
+nihui/opencv-mobile	3375	Apache-2.0	mobile	Wearables & Watch Apps	The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, HarmonyOS, WebAssembly, watchOS, tvOS, visionOS	
+dotnet/macios	2913	NOASSERTION	mobile	Wearables & Watch Apps	.NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#	
+OpenCombine/OpenCombine	2796	MIT	mobile	Wearables & Watch Apps	Open source implementation of Apple's Combine framework for processing values over time.	
+paololeonardi/WaterfallGrid	2661	MIT	mobile	Wearables & Watch Apps	A waterfall grid layout view for SwiftUI.	
+Blackjacx/WWDC	2597	MIT	mobile	Wearables & Watch Apps	You don't have the time to watch all the WWDC session videos yourself? No problem me and many contributors extracted the gist for you 🥳	
+SDWebImage/SDWebImageSwiftUI	2563	MIT	mobile	Wearables & Watch Apps	SwiftUI Image loading and Animation framework powered by SDWebImage	
+leetal/ios-cmake	2184	BSD-3-Clause	mobile	Wearables & Watch Apps	A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS & tvOS C/C++/Obj-C++ development	
+1hakr/AnExplorer	2050	Apache-2.0	mobile	Wearables & Watch Apps	📁 Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a full	
+codenameone/CodenameOne	1935	NOASSERTION	mobile	Wearables & Watch Apps	Open-source framework for native apps from one Java codebase, with a custom-rendered UI you control across iOS, Android, desktop, web, and watches.	
+chubin/wttr.in	30749	Apache-2.0	mobile	Weather	:partly_sunny: The right way to check the weather	
+schachmat/wego	8566	ISC	mobile	Weather	weather app for the terminal	
+google-deepmind/weathernext	7732	Apache-2.0	mobile	Weather		
+Veirt/weathr	3080	GPL-3.0	mobile	Weather	a terminal weather app with ascii animation	
+kylecorry31/Trail-Sense	3013	MIT	mobile	Weather	An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.	
+ByronNote/MinimalistWeather	2447	NONE	mobile	Weather	一款基于 Kotlin、Jetpack Compose 与 Clean Architecture 构建的现代 Android 天气应用，支持动态天气场景、全球城市搜索、空气质量、24 小时与 7 日预报，数据来自 Open-Meteo。	
+fcambus/ansiweather	1947	BSD-2-Clause	mobile	Weather	Weather in terminal, with ANSI colors and Unicode symbols	
+wrf-model/WRF	1799	NOASSERTION	mobile	Weather	The official repository for the Weather Research and Forecasting (WRF) model	
+basmilius/meteocons	1687	MIT	mobile	Weather	Beautiful, hand-crafted animated weather icons that feel alive.	
+Clooos/Home-Assistant-Mobile-First	1390	MIT	mobile	Weather	A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.	
+NVIDIA/earth2studio	1233	Apache-2.0	mobile	Weather	Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows.	
+pytroll/satpy	1216	Apache-2.0	mobile	Weather	Python package for earth-observing satellite data processing	
+cyoung/stratux	1134	BSD-3-Clause	mobile	Weather	Aviation weather and traffic receiver based on RTL-SDR.	
+ReikanYsora/Helios	1060	GPL-3.0	mobile	Weather	Helios - Make your energy visible, in 2.5D in a Lovelace card for Home Assistant	
+bmaroti9/Overmorrow	818	GPL-3.0	mobile	Weather	modern material design weather app	
+Adam-CAD/CADAM	5404	GPL-3.0	hardware	3D Printable Designs	CADAM is the open source text-to-CAD web application	
+scottbez1/splitflap	4201	NOASSERTION	hardware	3D Printable Designs	DIY split-flap display	
+JustinSDK/dotSCAD	937	LGPL-3.0	hardware	3D Printable Designs	Reduce the burden of mathematics when playing OpenSCAD	
+Irev-Dev/Round-Anything	683	MIT	hardware	3D Printable Designs	A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts.	
+partcad/partcad	527	Apache-2.0	hardware	3D Printable Designs	Package manager for things. Start designing modular hardware! PartCAD is the standard for documenting manufacturable physical products (a.k.a. Digital Thread or TDP). It comes with a set of tools to maintain product information and to facilitate efficient and 	
+adrianschlatter/threadlib	486	BSD-3-Clause	hardware	3D Printable Designs	thread library for OpenSCAD	
+geoffder/dometyl-keyboard	303	AGPL-3.0	hardware	3D Printable Designs	A parametric generator for designing split, concave, ergonomic keyboards written in ocaml.	
+rwb27/openflexure_microscope	279	NOASSERTION	hardware	3D Printable Designs	This repository has now moved to GitLab.com/openflexure/openflexure-microscope	
+nophead/Mendel90	273	NONE	hardware	3D Printable Designs	A RepRap Mendel variant using sheets for the frame instead of rods	
+moehriegitt/hob3l	266	GPL-3.0	hardware	3D Printable Designs	100x Faster Slicing of SCAD Files for 3D Printing	
+mecparts/RetroWiFiModem	259	GPL-3.0	hardware	3D Printable Designs	An ESP8266 based RS232 <-> WiFi modem with Hayes AT style commands and LED indicators	
+zacharyfmarion/openscad-studio	250	GPL-2.0	hardware	3D Printable Designs	Create 2D and 3D designs with AI	
+codeofaxel/Kiln	242	AGPL-3.0	hardware	3D Printable Designs	From idea to object, and every version in between. Kiln is the open-source MCP server for 3D printing: AI agents (ChatGPT, Claude, Codex, Cursor, Gemini, Grok, Hermes Agent, or any MCP client) design, slice and print on Bambu Lab, Creality, Prusa, Elegoo, Klip	
+smkent/monoscad	236	CC-BY-4.0	hardware	3D Printable Designs	🏗️ 🖨️ Monorepository of OpenSCAD models for 3D printing	
+ubitux/shimonbox	200	NONE	hardware	3D Printable Designs	Semi-automatically generated 3D printable cases for development boards using OpenSCAD	
+OrcaSlicer/OrcaSlicer	16355	AGPL-3.0	hardware	3D Printers	G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)	
+makerspet/oomwoo	13004	Apache-2.0	hardware	3D Printers	Open-source vacuum robot cleaner	
+Ultimaker/Cura	7074	LGPL-3.0	hardware	3D Printers	3D printer / slicing GUI built on top of the Uranium framework	
+dw-0/kiauh	4585	GPL-3.0	hardware	3D Printers	Klipper Installation And Update Helper	
+Keychron/Keychron-Keyboards-Hardware-Design	3826	NOASSERTION	hardware	3D Printers	Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.	
+slic3r/Slic3r	3671	AGPL-3.0	hardware	3D Printers	Open Source toolpath generator for 3D printers	
+maziggy/bambuddy	3274	AGPL-3.0	hardware	3D Printers	Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. 	
+Donkie/Spoolman	2990	MIT	hardware	3D Printers	Keep track of your inventory of 3D-printer filament spools.	
+bencbartlett/3D-printed-mirror-array	2538	MIT	hardware	3D Printers	3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns	
+greghesp/ha-bambulab	2421	MIT	hardware	3D Printers	A Home Assistant Integration for Bambu Lab Printers	
+braindefender/KLP-Lame-Keycaps	2339	CC-BY-SA-4.0	hardware	3D Printers	Sculpted and curved keycaps for Kailh Choc and MX switches	
+MarlinFirmware/Configurations	2287	GPL-3.0	hardware	3D Printers	Configurations for Marlin Firmware	
+fogleman/sdf	2015	MIT	hardware	3D Printers	Simple SDF mesh generation in Python	
+luc-github/ESP3D	2003	GPL-3.0	hardware	3D Printers	FW for ESP8266/ESP8285/ESP32 used with 3D printer	
+fluidd-core/fluidd	1842	GPL-3.0	hardware	3D Printers	Fluidd, the klipper UI.	

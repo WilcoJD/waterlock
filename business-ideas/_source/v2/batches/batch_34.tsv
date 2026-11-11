@@ -1,0 +1,380 @@
+Miaotofu01/Study-Mate	1386	MIT	education	AI Tutors & Study Assistants	你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目	
+24kchengYe/human-skill-tree	590	NOASSERTION	education	AI Tutors & Study Assistants	🌳 AI-Powered Skill Tree for Lifelong Human Learning. 30+ skills from K-12 to career & social intelligence, built on cognitive science. | 人类养成记：AI 驱动的终身学习技能树	
+JuneYaooo/teacher-to-skills	470	Apache-2.0	education	AI Tutors & Study Assistants	Distill your teacher into a source-backed Skill that teaches you until you can work on your own.	
+Fazmin/AILearningGuide	249	MIT	education	AI Tutors & Study Assistants	Interactive desktop app with 58 labs covering ML fundamentals, transformers, RAG, agents, fine-tuning and quantization and more.	
+nichochar/ari	217	MIT	education	AI Tutors & Study Assistants	learn stuff with pen + paper + AI	
+liuliu667/cram-engine	178	MIT	education	AI Tutors & Study Assistants	这是一个能帮你速通考试的 Skill。它基于学习科学原理，通过四阶段交互式教学，帮你在有限时间里，快速把重点学懂、记住、用到答题上。	
+m4vic/socratic	134	MIT	education	AI Tutors & Study Assistants	self questioning skill for agents , claude code , codex etc	
+PrepLabsAI/InterviewMentor	116	MIT	education	AI Tutors & Study Assistants	AI Based mock interviews for preparing for tech jobs	
+DAMO-NLP-SG/M3Exam	105	NONE	education	AI Tutors & Study Assistants	Data and code for paper "M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models"	
+FiloSottile/mkcert	59841	BSD-3-Clause	education	Certifications & Credentials	A simple zero-config tool to make locally trusted development certificates with any names you'd like.	
+win-acme/win-acme	5833	Apache-2.0	education	Certifications & Credentials	Automate SSL/TLS certificates on Windows with ease	
+chris2511/xca	2029	NOASSERTION	education	Certifications & Credentials	X Certificate and Key management	
+LadyKerr/github-certification-guide	2002	MIT	education	Certifications & Credentials	Resources to help you get GitHub certified ✨	
+Evalle/DCA	1413	Apache-2.0	education	Certifications & Credentials	Docker Certified Associate Exam Preparation Guide	
+davewasmer/devcert	1309	NONE	education	Certifications & Credentials	Local HTTPS development made easy	
+v-fidelusaleksander/ghcertified	994	GPL-3.0	education	Certifications & Credentials	Prepare for GitHub Certification exams!	
+enix/x509-certificate-exporter	964	MIT	education	Certifications & Credentials	A Prometheus exporter for X.509 certificates, built for Kubernetes first but equally happy as a standalone binary	
+adalkiran/webrtc-nuts-and-bolts	931	Apache-2.0	education	Certifications & Credentials	A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.	
+aws/aws-workload-credentials-provider	707	Apache-2.0	education	Certifications & Credentials	The AWS Workload Credentials Provider (formerly the AWS Secrets Manager Agent) is a client-side solution that helps you standardize how you consume credentials from AWS services across your compute environments.	
+simple-acme/simple-acme	672	Apache-2.0	education	Certifications & Credentials	A simple cross platform ACME client (for use with Let's Encrypt et al.)	
+ldez/traefik-certs-dumper	638	NOASSERTION	education	Certifications & Credentials	Dump ACME data from Traefik to certificates	
+kelunik/acme-client	396	MIT	education	Certifications & Credentials	Let's Encrypt / ACME client written in PHP for the CLI.	
+franccesco/getaltname	391	MIT	education	Certifications & Credentials	Extract subdomains from SSL certificates in HTTPS sites.	
+trimstray/mkchain	383	GPL-3.0	education	Certifications & Credentials	Open source tool to help you build a valid SSL certificate chain.	
+mrniko/netty-socketio	7015	Apache-2.0	education	Classroom Tools & Engagement	Socket.IO server implemented on Java. Realtime java framework	
+rubenlagus/TelegramBots	5546	MIT	education	Classroom Tools & Engagement	Java library to create bots using Telegram Bots API	
+primus/primus	4464	MIT	education	Classroom Tools & Engagement	:zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.	
+Blur009/Blur-AutoClicker	2116	GPL-3.0	education	Classroom Tools & Engagement	An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.	
+radovskyb/watcher	1506	BSD-3-Clause	education	Classroom Tools & Engagement	watcher is a Go package for watching for files or directory changes without using filesystem events.	
+beltromatti/get-it	1152	Apache-2.0	education	Classroom Tools & Engagement	Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.	
+AppiumTestDistribution/appium-device-farm	659	Apache-2.0	education	Classroom Tools & Engagement	This is an Appium 2.0 plugin designed to manage and create driver sessions on available devices.	
+oriash93/AutoClicker	526	MIT	education	Classroom Tools & Engagement	AutoClicker is a useful simple tool for automating mouse clicks.	
+sitor-ai/frametell	482	AGPL-3.0	education	Classroom Tools & Engagement	Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.	
+bot4s/telegram	432	Apache-2.0	education	Classroom Tools & Engagement	Telegram Bot API Wrapper for Scala	
+tsugiproject/tsugi	377	Apache-2.0	education	Classroom Tools & Engagement	Tsugi Admin, Developer, and Management Console (pls join the dev list)	
+fsinfuhh/Bitpoll	319	GPL-3.0	education	Classroom Tools & Engagement	A web application for scheduling meetings and general polling.	
+SJRiz/pytogether	262	MIT	education	Classroom Tools & Engagement	Source code for pytogether.org — A fully browser-based collaborative IDE with real-time editing, live drawing, and voice chat.	
+ephymew/Pokeclicker-Scripts	221	GPL-3.0	education	Classroom Tools & Engagement	Various scripts & enhancements for the game Pokéclicker.	
+learning-commons-org/knowledge-graph	168	NOASSERTION	education	Classroom Tools & Engagement	The data layer for smarter educational AI. Integrate trusted instructional content and research directly into your AI-powered tools — improving precision, relevance, and instructional alignment.	
+freeCodeCamp/freeCodeCamp	458703	BSD-3-Clause	education	Coding Education & Bootcamps	freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.	
+getify/You-Dont-Know-JS	184846	NOASSERTION	education	Coding Education & Bootcamps	A book series (2 published editions) on the JS language.	
+Chalarangelo/30-seconds-of-code	129443	CC-BY-4.0	education	Coding Education & Bootcamps	Coding articles to level up your development skills	
+FreeCodeCampChina/freecodecamp.cn	37786	NOASSERTION	education	Coding Education & Bootcamps	FCC China open source codebase and curriculum. Learn to code and help nonprofits.	
+kanaka/mal	10760	NOASSERTION	education	Coding Education & Bootcamps	mal - Make a Lisp	
+thejsway/thejsway	7883	NOASSERTION	education	Coding Education & Bootcamps	The JavaScript Way book	
+apptension/developer-handbook	5951	MIT	education	Coding Education & Bootcamps	An opinionated guide on how to become a professional Web/Mobile App Developer.	
+louisfb01/start-machine-learning	5309	MIT	education	Coding Education & Bootcamps	A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!	
+hackclub/hackclub	2640	NOASSERTION	education	Coding Education & Bootcamps	🌎 Hack Club is a worldwide community of high school hackers. We make things. We help one another. We have fun.	
+talkpython/100daysofcode-with-python-course	2209	MIT	education	Coding Education & Bootcamps	Course materials and handouts for #100DaysOfCode in Python course	
+ishtms/learn-nodejs-hard-way	1875	NOASSERTION	education	Coding Education & Bootcamps	Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies.	
+google/codeworld	1270	Apache-2.0	education	Coding Education & Bootcamps	Educational computer programming environment using Haskell	
+odan/learn-php	1176	MIT	education	Coding Education & Bootcamps	:elephant: Learn modern PHP	
+jlord/patchwork	1171	NOASSERTION	education	Coding Education & Bootcamps	All the Git-it Workshop completers! 	
+colbyfayock/50-projects-for-react-and-the-static-web	1137	MIT	education	Coding Education & Bootcamps	⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!	
+microsoft/codetour	4600	MIT	education	Corporate Training & Compliance Courses	VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.	
+elrumordelaluz/reactour	4095	MIT	education	Corporate Training & Compliance Courses	Tourist Guide into your React Components	
+andreamazz/AMPopTip	3321	MIT	education	Corporate Training & Compliance Courses	An animated popover that pops out a given frame, great for subtle UI tips and onboarding.	
+usertour/usertour	2334	NOASSERTION	education	Corporate Training & Compliance Courses	Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to Userflow and Appcues	
+exyte/ConcentricOnboarding	1568	MIT	education	Corporate Training & Compliance Courses	SwiftUI library for a walkthrough or onboarding flow with tap actions	
+uixmat/onborda	1411	NONE	education	Corporate Training & Compliance Courses	An onboarding wizard flow / product tour for Next.js animated by framer motion	
+jfilter/react-native-onboarding-swiper	1082	NOASSERTION	education	Corporate Training & Compliance Courses	🛳 Delightful onboarding for your React-Native app	
+spatie/laravel-onboard	847	MIT	education	Corporate Training & Compliance Courses	A Laravel package to help track user onboarding steps	
+lascic/UIOnboarding	820	MIT	education	Corporate Training & Compliance Courses	Apple-esque animated welcome screen for iOS and iPadOS. Configurable.	
+sjmc11/tourguide-js	736	MIT	education	Corporate Training & Compliance Courses	TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.	
+richtabor/MerlinWP	700	GPL-3.0	education	Corporate Training & Compliance Courses	Better WordPress Theme Onboarding	
+aagarwal1012/IntroViews-Flutter	661	MIT	education	Corporate Training & Compliance Courses	☀️ A Flutter package for some material design app intro screens with some cool animations.	
+svenjacobs/reveal	628	MIT	education	Corporate Training & Compliance Courses	Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web	
+spatie/laravel-welcome-notification	594	MIT	education	Corporate Training & Compliance Courses	Send a welcome notification to new users	
+NikolaKirev/OnboardKit	548	MIT	education	Corporate Training & Compliance Courses	Customisable user onboarding for your iOS app	
+DozenTwelve/Papermorph	1377	MIT	education	Course Authoring & Interactive Content	An AI skill that turns books into animated, narrated, interactive web experiences	
+tunapanda/h5p-standalone	346	MIT	education	Course Authoring & Interactive Content	Display H5P content without the need for an H5P server	
+cybercussion/SCOBot	165	NOASSERTION	education	Course Authoring & Interactive Content	SCORM API for Content. JavaScript library, QUnit tests and examples.	
+sr258/scorm-h5p-wrapper	59	MIT	education	Course Authoring & Interactive Content	A NodeJS application that packs H5P content into SCORM objects	
+open-spaced-repetition/fsrs4anki	4127	MIT	education	Flashcards & Spaced Repetition	A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm	
+srsran/srsRAN_4G	4104	AGPL-3.0	education	Flashcards & Spaced Repetition	Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g	
+st3v3nmw/obsidian-spaced-repetition	2615	MIT	education	Flashcards & Spaced Repetition	Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian	
+iab0x00/ProxyRules	842	NONE	education	Flashcards & Spaced Repetition		
+ad-si/Coding-Flashcards	766	NONE	education	Flashcards & Spaced Repetition	Over 1000 flashcards to learn Rust, SQLite, Lua, C, Godot, or Wolfram Language from first principles. Written in markdown with script to convert them to Anki decks or PDF files.	
+ossrs/state-threads	762	NOASSERTION	education	Flashcards & Spaced Repetition	Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.	
+open-spaced-repetition/free-spaced-repetition-scheduler	732	MIT	education	Flashcards & Spaced Repetition	A spaced repetition algorithm based on DSR model	
+Roznoshchik/Lurnby	705	BSD-3-Clause	education	Flashcards & Spaced Repetition	A tool for active reading and personal knowledge management	
+Stvad/CrowdAnki	645	MIT	education	Flashcards & Spaced Repetition	Plugin for Anki SRS designed to facilitate cooperation on creation of notes and decks.	
+superconvert/smart_rtmpd	584	NONE	education	Flashcards & Spaced Repetition	Smart RTMPD is a high-performance, easy-to-use, multi-system-supported and easy-to-maintain streaming media server. It supports multi-protocol push streaming and multi-protocol pull streaming.	
+ankimcp/anki-mcp-server	547	MIT	education	Flashcards & Spaced Repetition	A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.	
+open-spaced-repetition/py-fsrs	524	MIT	education	Flashcards & Spaced Repetition	Python Package for FSRS Spaced Repetition	
+glutanimate/image-occlusion-enhanced	445	NOASSERTION	education	Flashcards & Spaced Repetition	Anki add-on that transforms images into cloze tests	
+ossrs/srs-bench	441	MIT	education	Flashcards & Spaced Repetition	SB(SRS Bench) is a set of benchmark and regression test tools, for SRS and other media servers, supports HTTP-FLV, RTMP, HLS, WebRTC and GB28181.	
+tristcoil/hanabira.org	434	MIT	education	Flashcards & Spaced Repetition	Free Open-Source Japanese and Korean language learning portal. Allows for Self-Hosting. MIT License.	
+lucivpav/cwg	95	GPL-3.0	education	Homeschool & Parent Tools	Chinese Worksheet Generator	
+Altaxo/Altaxo	27	GPL-3.0	education	Homeschool & Parent Tools	Plotting and data analyzation with C# scripting	
+buger/homelearnai	26	NOASSERTION	education	Homeschool & Parent Tools	AI-powered homeschool learning management system with spaced repetition, curriculum planning, and multi-child support	
+tooladda-online/worksheet-generator	25	NONE	education	Homeschool & Parent Tools	Worksheet Generator — Use Worksheet Generator free on ToolAdda — quick, accurate, and browser-based. Free on ToolAdda.online.	
+Orenda-Project/rumi-platform	24	Apache-2.0	education	Homeschool & Parent Tools	Open-source AI teaching assistant on WhatsApp — classroom coaching, reading assessments, lesson plans, and voice interaction in 9 languages	
+palewire/go-big-with-github-actions	13	MIT	education	Homeschool & Parent Tools	Learn how to scale up your data pipelines using GitHub’s powerful Actions framework	
+palewire/first-llm-classifier	12	MIT	education	Homeschool & Parent Tools	Learn how journalists use large-language models to organize and analyze massive datasets	
+CathyErer/frog-and-toad-studio	12	MIT	education	Homeschool & Parent Tools	Claude & Codex skill that generates per-chapter teaching materials for Arnold Lobel's Frog and Toad series — interactive keyword-map HTML, student workbook & answer key (I Can Read L2, ESL Grade 1)	
+palewire/first-automated-chart	11	MIT	education	Homeschool & Parent Tools	Learn how you can use Python and the Datawrapper API to create a limitless number of charts and maps	
+The-CerealDev/speed-maths	10	MIT	education	Homeschool & Parent Tools	Speed Maths — daily drill worksheets for TMUA, SMC & BMO1 prep. Open source: add your own questions.	
+geektutu/7days-golang	17034	MIT	education	Kids Coding & STEM	7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列	
+ailyProject/aily-blockly	3872	GPL-3.0	education	Kids Coding & STEM	AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...	
+jrottenberg/ffmpeg	1647	Apache-2.0	education	Kids Coding & STEM	Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi	
+RaspberryPiFoundation/blockly-samples	974	Apache-2.0	education	Kids Coding & STEM	Codelabs and examples related to the Blockly library.	
+ScratchAddons/ScratchAddons	821	GPL-3.0	education	Kids Coding & STEM	All-in-one browser extension for Scratch.	
+microsoft/pxt-microbit	806	NOASSERTION	education	Kids Coding & STEM	A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode	
+watscho/express-mongodb-rest-api-boilerplate	649	MIT	education	Kids Coding & STEM	A boilerplate for Node.js apps / Rest API / Authentication from scratch - express, mongodb (mongoose). Typescript	
+BlocklyDuino/BlocklyDuino	645	NONE	education	Kids Coding & STEM	BlocklyDuino is a web-based visual programming editor for arduino.	
+TurboWarp/desktop	636	GPL-3.0	education	Kids Coding & STEM	A better offline editor for Scratch 3.	
+open-scratch/teaching-open	632	Apache-2.0	education	Kids Coding & STEM	Scratch少儿编程教学平台，集成Scratch、ScratchJr、Python教学工具。包含课程、班级、作业、权限、社区等。	
+aspizu/goboscript	577	MIT	education	Kids Coding & STEM	goboscript is the Scratch compiler	
+carlosperate/ardublockly	490	Apache-2.0	education	Kids Coding & STEM	Visual programming for Arduino. Based on blockly, implements Arduino code generation and facilitates program uploading.	
+chekoduadarsh/BlocklyML	473	Apache-2.0	education	Kids Coding & STEM	BlocklyML is a simple visual programming Tool for python and ML.  🧩   🖥️	
+scratchblocks/scratchblocks	456	NOASSERTION	education	Kids Coding & STEM	Make pictures of Scratch blocks from text.	
+weihuajiang/WPF-Blockly	415	MIT	education	Kids Coding & STEM	A WPF based visual programming editor and execution engine, which support all the code syntax (including module and object oriented programming), and even you can define your own syntax. 	
+ddev/ddev	3946	Apache-2.0	education	LMS Platforms	Docker-based local PHP+Node.js web development environments	
+ucfopen/canvasapi	681	MIT	education	LMS Platforms	Python API wrapper for Instructure's Canvas LMS. Easily manage courses, users, gradebooks, and more.	
+C0D3D3V/Moodle-DL	663	GPL-3.0	education	LMS Platforms	Moodle-DL downloads course content fast from Moodle (eg. lecture pdfs)	
+alaliqing/claude-paper	356	MIT	education	LMS Platforms	📖 Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DeepSeek Harness—quick summaries, deep study materials, code demos, and a local web viewer.	
+edrys-org/edrys	334	MPL-2.0	education	LMS Platforms	Edrys is an open and modular remote teaching platform (and the first live LMS)	
+Berserk-hub150/moodle-ai-skill-navigator	271	GPL-3.0	education	LMS Platforms	AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.	
+tmuras/moosh	262	GPL-3.0	education	LMS Platforms	Moosh	
+skyzh/canvas_grab	230	MIT	education	LMS Platforms	🌐 One-click script to synchronize files from Canvas LMS.	
+Faixiang/Moodle-MCP	200	MIT	education	LMS Platforms	Zero-dependency MCP server for the Moodle Web Service API — read-only course, assignment, quiz, deadline and file tools for Claude, Cursor and any MCP client. Actively maintained · v1.4.0 · 10 tools · docs in 10 languages.	
+willianmano/moodle-theme_moove	193	GPL-3.0	education	LMS Platforms	A Moodle Boost child theme	
+h5p/moodle-mod_hvp	159	GPL-3.0	education	LMS Platforms	H5P Plugin for Moodle	
+openfun/marsha	152	MIT	education	LMS Platforms	:clapper: An opensource LTI Learning Content Management System (LCMS)	
+moodlebox/moodlebox	145	AGPL-3.0	education	LMS Platforms	A Moodle server and Wi-Fi router on Raspberry Pi Zero 2w, 3, 4 and 5	
+jcrodriguez-dis/moodle-mod_vpl	129	GPL-3.0	education	LMS Platforms	Virtual Programming Lab for Moodle (Module)	
+X-isdoingreat/canvas-pilot	125	AGPL-3.0	education	LMS Platforms	Local-first Canvas LMS AI agent that learns each course's recurring assignment workflow and reuses it through scan -> approval -> execute with student review.	
+byoungd/up	70239	NOASSERTION	education	Language Learning Platforms	韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生	
+RealKai42/qwerty-learner	23722	GPL-3.0	education	Language Learning Platforms	为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers	
+tangshimin/MuJing	4815	GPL-3.0	education	Language Learning Platforms	一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。	
+szcf-weiya/ESL-CN	2800	GPL-3.0	education	Language Learning Platforms	The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。	
+andylee1890/NewConceptEnglish	2048	GPL-3.0	education	Language Learning Platforms	新概念学习笔记、英语学习资料、英语学习工具分享。	
+xiaochong/hi-kid	1179	MIT	education	Language Learning Platforms	HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.	
+SSmJaE/WELearnHelper	927	GPL-3.0	education	Language Learning Platforms	显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成	
+ahpxex/Aictionary	846	MIT	education	Language Learning Platforms	Another desktop dictionary, but way more faster and definition-rich, which makes you truly understand language.	
+codeyu/EnglishGrammarBook	805	MIT	education	Language Learning Platforms	旋元佑进阶文法	
+protogenesis/New-Concept-English	747	NONE	education	Language Learning Platforms	English for Chinese, 新概念英语笔记,英语学习资料	
+Benature/WordReview	681	LGPL-3.0	education	Language Learning Platforms	📚 背单词网页 Django + MySQL + Pug + JS	
+caoliang1918/contact-center	651	GPL-3.0	education	Language Learning Platforms	智能电话外呼系统  呼叫中心系统  freeswitch webrtc	
+furrtek/PrecIR	462	GPL-3.0	education	Language Learning Platforms	You know what this is for ;-)	
+heygsc/word-wind	327	NONE	education	Language Learning Platforms	在线背单词网页	
+xckevin/magic-english-buddy	320	NOASSERTION	education	Language Learning Platforms	专为儿童设计的 AI 英语阅读学习助手	
+talkgo/night	12279	MIT	education	Libraries & Reading Platforms	Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。	
+Aidoku/Aidoku	4710	GPL-3.0	education	Libraries & Reading Platforms	Manga reading app for iOS, iPadOS, and macOS	
+Acclorite/book-story	1424	GPL-3.0	education	Libraries & Reading Platforms	Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.	
+ZlibraryKO/zlibrary.koplugin	865	AGPL-3.0	education	Libraries & Reading Platforms	Home of the KOReader Zlibrary plugin	
+JiashuWu/Books	752	MIT	education	Libraries & Reading Platforms	My book list	
+bayang/jelu	751	MIT	education	Libraries & Reading Platforms	Self hosted read and to-read list book tracker	
+TastSong/GameProgrammerStudyNotes	451	MIT	education	Libraries & Reading Platforms	游戏开发学习笔记	
+estepona/wx-read-desktop	355	MIT	education	Libraries & Reading Platforms	一个极简版微信读书桌面客户端	
+DavideWiest/LetoReader	317	GPL-3.0	education	Libraries & Reading Platforms	A free self-hostable speed reader. Highly customizable. Implements chunking (RSVP), pacing and highlighting. Modern UI and local-storage only.	
+jrnxf/fsrx	310	MIT	education	Libraries & Reading Platforms	📚 flow state reading in the terminal	
+elboletaire/manga-downloader	295	AGPL-3.0	education	Libraries & Reading Platforms	📚 Download manga (and comics) from 500+ online reading websites	
+Cveinnt/bionify	284	GPL-3.0	education	Libraries & Reading Platforms	Convert any webpage into bionified text!	
+zongxi1115/PaperSpark	281	NOASSERTION	education	Libraries & Reading Platforms	AI驱动的一站式论文搜集、写作、精读论文、协同助写方案	
+PAIR-code/lumi	210	Apache-2.0	education	Libraries & Reading Platforms	Lumi uses AI-powered features to help you read arXiv papers.	
+robertmartin8/KindleClippings	201	MIT	education	Libraries & Reading Platforms	Extract kindle highlights into organised text files	
+NVIDIAGameWorks/kaolin	5192	Apache-2.0	education	Math & Science Learning	A PyTorch Library for Accelerating 3D Deep Learning Research	
+google-deepmind/dm_control	4724	Apache-2.0	education	Math & Science Learning	Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.	
+godot-jolt/godot-jolt	2605	MIT	education	Math & Science Learning	Godot Jolt is a Godot extension that integrates the Jolt physics engine	
+NVlabs/ProtoMotions	2478	Apache-2.0	education	Math & Science Learning	ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.	
+robocasa/robocasa	1869	NOASSERTION	education	Math & Science Learning	RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots	
+fegennari/3DWorld	1435	GPL-3.0	education	Math & Science Learning	3D Procedural Game Engine Using OpenGL 	
+ZhengyiLuo/PHC	1307	NOASSERTION	education	Math & Science Learning	Official Implementation of the ICCV 2023 paper:  Perpetual Humanoid Control for Real-time Simulated Avatars	
+markaren/threepp	1211	MIT	education	Math & Science Learning	A cross-platform C++20 3D library with Python bindings and the high-level API of three.js. 	
+nv-tlabs/ASE	1131	NOASSERTION	education	Math & Science Learning	Adversarial skill embeddings for training reusable controllers for physically simulated characters.	
+skevy/wobble	865	MIT	education	Math & Science Learning	A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.	
+brucefan1983/GPUMD	863	NONE	education	Math & Science Learning	Graphics Processing Units Molecular Dynamics	
+ComputationalRadiationPhysics/picongpu	800	NOASSERTION	education	Math & Science Learning	Performance-Portable Particle-in-Cell Simulations for the Exascale Era :sparkles:	
+quinton-ashley/p5play	748	NOASSERTION	education	Math & Science Learning	JavaScript game engine that uses q5.js/p5.js for graphics and Box2D for physics.	
+flaport/fdtd	728	MIT	education	Math & Science Learning	A 3D electromagnetic FDTD simulator written in Python with optional GPU support	
+netket/netket	706	Apache-2.0	education	Math & Science Learning	Machine learning algorithms for many-body quantum systems 	
+CoderLine/alphaTab	1907	NOASSERTION	education	Music & Arts Education	alphaTab is a cross platform music notation and guitar tablature rendering library.	
+rism-digital/verovio	970	LGPL-3.0	education	Music & Arts Education	🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (JavaScript, Python)	
+Squarebow/Orfeo	659	NOASSERTION	education	Music & Arts Education	A modern piano-learning and MIDI visualization cross-platform app — falling notes, interactive chord & scale explorers, real-time chord detection. From MIDI to mastery.	
+powertab/powertabeditor	640	GPL-3.0	education	Music & Arts Education	View and edit guitar tablature.	
+steinbergmedia/bravura	436	OFL-1.1	education	Music & Arts Education	Bravura music font, reference font for SMuFL (Standard Music Font Layout)	
+Abjad/abjad	267	GPL-3.0	education	Music & Arts Education	Abjad is a Python API for building LilyPond files. Use Abjad to make PDFs of music notation.	
+w3c-cg/smufl	260	NONE	education	Music & Arts Education	Standard Music Font Layout	
+music-encoding/music-encoding	241	ECL-2.0	education	Music & Arts Education	美 The Music Encoding Initiative schema and guidelines development repository	
+gregorio-project/gregorio	222	NOASSERTION	education	Music & Arts Education	The Gregorio Project	
+aspiers/ly2video	197	GPL-3.0	education	Music & Arts Education	generating videos from LilyPond projects	
+grame-cncm/guidolib	183	MPL-2.0	education	Music & Arts Education	Guido project - music score layout engine - music description language	
+grame-cncm/libmusicxml	173	MPL-2.0	education	Music & Arts Education	A C/C++ library to support the MusicXML format.	
+jabbey1/UGDownloader	167	NONE	education	Music & Arts Education	Ultimate Guitar tab downloader	
+MarcTheSpark/scamp	156	GPL-3.0	education	Music & Arts Education	a Suite in Python for Computer-Assisted Music	
+BeauNouvelle/SwiftyGuitarChords	146	MIT	education	Music & Arts Education	A guitar chord diagram drawing library built in Swift	
+mindskip/xzs	3912	AGPL-3.0	education	Online Exams & Proctoring	在线考试系统	
+mindskip/xzs-mysql	3604	AGPL-3.0	education	Online Exams & Proctoring	学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。	
+Udayraj123/OMRChecker	1190	MIT	education	Online Exams & Proctoring	Evaluate OMR sheets fast and accurately using a scanner 🖨 or your phone 🤳. 	
+Alanosy/exam-platform	886	MIT	education	Online Exams & Proctoring	在线考试系统	
+vardanagarwal/Proctoring-AI	633	MIT	education	Online Exams & Proctoring	Creating a software for automatic monitoring in online proctoring	
+cu-sanjay/Amazon-ML-Summer-School-2026	626	NOASSERTION	education	Online Exams & Proctoring	Learn Machine Learning with Amazon ML Summer School Program 2026. Access session summaries, previous year MCQs, programming questions, and official test material. Practice module-wise coding tasks and build a strong foundation for interviews and real-world app	
+wells2333/sg-exam	562	Apache-2.0	education	Online Exams & Proctoring	基于Spring Boot搭建的新一代教学管理平台，提供权限管理、考试、问卷、练习等功能	
+JudgePeach/math-question-bank	385	AGPL-3.0	education	Online Exams & Proctoring	本地化高中数学题库管理系统，支持 LaTeX 实时渲染、智能大模型 AI 解析与 OCR 公式识别。Localized High School Math Question Bank Management System, supporting real-time LaTeX rendering, smart LLM AI parsing & solving, and formula OCR recognition.	
+SafeExamBrowser/seb-win-refactoring	366	MPL-2.0	education	Online Exams & Proctoring	Safe Exam Browser for Windows.	
+narender-rk10/MyProctor.ai-AI-BASED-SMART-ONLINE-EXAMINATION-PROCTORING-SYSYTEM	236	NONE	education	Online Exams & Proctoring	This is a AI Based Smart Exam Proctoring System using python flask, mysql as database, yolov4	
+gygy-open/question-bank	90	AGPL-3.0	education	Online Exams & Proctoring	AI-native question bank & paper composition system: smart import from Word/Markdown/images, LaTeX, review workflow, MCP. Desktop(Windows, Mac) & Docker. | AI 原生题库与组稿系统：多学科、智能导入、知识点匹配、MCP，支持桌面版（Windows、Mac）与 Docker	
+tusharnankani/Aankh	86	GPL-3.0	education	Online Exams & Proctoring	Aankh - A real time proctoring solution 🦄	
+rishank-shah/Exam-Portal	75	NONE	education	Online Exams & Proctoring	Online Examination system made using Django	
+openwallet-foundation/owl-agent-test-harness	72	Apache-2.0	education	Online Exams & Proctoring	Aries agent test framework, with agent backchannel support	
+pang-qin/chaoxing-toolkit	64	NONE	education	Online Exams & Proctoring	超星学习通全自动刷课工具 — 任务点自动跳转、视频静音播放、章节测验/作业/考试自动答题，支持自建题库服务器精确匹配答案，支持 DeepSeek 等大模型 AI 解题，附带题库管理后台和 Vue 3 前端界面。	
+nndl/nndl	19574	NONE	education	Open Textbooks & Courseware	邱锡鹏《神经网络与深度学习》第二版与通识版：电子书、章节目录、学习资源与勘误。	
+adamschwartz/magic-of-css	6675	MIT	education	Open Textbooks & Courseware	A CSS course to turn you into a magician.	
+openmlsys/openmlsys	4875	NONE	education	Open Textbooks & Courseware	《Machine Learning Systems: Design and Implementation》 (V2 is launching soon）	
+AllenDowney/ThinkDSP	4687	MIT	education	Open Textbooks & Courseware	Think DSP: Digital Signal Processing in Python, by Allen B. Downey.	
+AllenDowney/ThinkStats2	4242	GPL-3.0	education	Open Textbooks & Courseware	Text and supporting code for Think Stats, 2nd Edition	
+AllenDowney/ThinkPython	2772	NONE	education	Open Textbooks & Courseware	Jupyter notebooks and other resources for Think Python by Allen Downey, published by O'Reilly Media.	
+wizardforcel/sicp-py-zh	2311	NONE	education	Open Textbooks & Courseware	:book:【译】UCB CS61a SICP Python	
+vEnhance/napkin	1990	NOASSERTION	education	Open Textbooks & Courseware	An Infinitely Large Napkin	
+camoverride/lit	1889	NONE	education	Open Textbooks & Courseware	Literature for the self-taught AI practitioner! 📚	
+smithjohn78390/tongjiang-lab	1665	NOASSERTION	education	Open Textbooks & Courseware	Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app	
+hahhforest/pi-textbook	1427	MIT	education	Open Textbooks & Courseware	《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent	
+AllenDowney/ThinkStats	1314	MIT	education	Open Textbooks & Courseware	Notebooks for the third edition of Think Stats	
+source-academy/sicp	1026	CC-BY-SA-4.0	education	Open Textbooks & Courseware	XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions	
+AllenDowney/ModSimPy	939	MIT	education	Open Textbooks & Courseware	Text and supporting code for Modeling and Simulation in Python	
+spatialaudio/digital-signal-processing-lecture	888	NOASSERTION	education	Open Textbooks & Courseware	Digital Signal Processing - Theory and Computational Examples	
+BeckyGlobal/PaidToStudyAbroad	1408	NOASSERTION	education	Safety, Vocational & VR Training	高性价比人生指南·海外版：高性价比留学。出国留学奖学金、免学费、政府全奖、带薪读博，德国日本学手艺有人发钱，美加澳奖学金单独成节。不是你花钱去留学，是你拿钱去留学。71 条，只引官方来源。关注作者：微信视频号 Becky在地球村	
+Techtonica/curriculum	670	CC-BY-SA-4.0	education	Safety, Vocational & VR Training	This repo contains the curriculum of Techtonica, a tech training program for women and non-binary adults with low incomes.	
+theforeman/forklift	191	GPL-3.0	education	Safety, Vocational & VR Training	Helpful deployment scripts for Foreman and Katello	
+sergeymild/react-native-jsi-cpr	94	MIT	education	Safety, Vocational & VR Training	React Native JSI wrapper for cpr curl HTTP client	
+DonHulieo/don-forklift	93	GPL-3.0	education	Safety, Vocational & VR Training	Don's Warehousing System with Forklift Logistics for FiveM.	
+keineahnung2345/cpp-code-snippets	72	NONE	education	Safety, Vocational & VR Training	Some useful C++ code snippets	
+JamesBuciaIt3A/Agent-Forge	68	NONE	education	Safety, Vocational & VR Training	Foreman 2026: AI-Agnostic Build Playbook for Shipping Real Websites Fast	
+cvsinghjodha15/Logic-Lab-Arduino	56	NONE	education	Safety, Vocational & VR Training	Arduino Digital Logic Lab 2026: Best STEM Trainer for Vocational High School Electronics	
+hedronvision/bazel-make-cc-https-easy	34	NOASSERTION	education	Safety, Vocational & VR Training	Goal: Make it easy to place HTTPS Requests from C++, leveraging Bazel, CPR, and CURL.	
+kubev2v/forklift-documentation	23	Apache-2.0	education	Safety, Vocational & VR Training	Forklift documentation	
+catppuccin/forklift-4	17	MIT	education	Safety, Vocational & VR Training	🚜 Soothing pastel theme for Forklift 4.	
+vr4vet/vr4vet	16	MIT	education	Safety, Vocational & VR Training	VR4VET or "Virtual Reality for Career Guidance and Vocational Education and Training" is a project that maintains this repository. The VR4VET project is funded by the EU under the Erasmus+ program	
+yaacov/kubectl-mtv	13	Apache-2.0	education	Safety, Vocational & VR Training	A kubectl plugin that helps users of Forklift migrate virtualization workloads from oVirt, VMware, OpenStack, and OVA files to KubeVirt on Kubernetes.	
+forklift-run/forklift	11	Apache-2.0	education	Safety, Vocational & VR Training	A configurable bill-of-materials (CBOM) system for declaratively composing and upgrading/downgrading your hardware-specific embedded Linux operating systems	
+UseInterstellar/Interstellar	2197	AGPL-3.0	education	School Administration & SIS	Interstellar is a web proxy service offering blazing-fast speeds, a wide variety of games, and has served over 17 million users since 2022	
+agavrel/42_CheatSheet	2021	NONE	education	School Administration & SIS	A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language	
+b310-digital/teammapper	517	MIT	education	School Administration & SIS	Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.	
+0u44/Kitty-Tools	501	CC0-1.0	education	School Administration & SIS	Kahoot API client (TUI/GUI/web), built as an exercise in reverse-engineering a live web API. Usable on all types of diffrent platforms.	
+TacoGuy21/Greatsword-V3	438	WTFPL	education	School Administration & SIS		
+SharezoneApp/sharezone-app	311	EUPL-1.2	education	School Administration & SIS	Sharezone is a collaborative school organization app for iOS, Android, macOS and web with +500,000 downloads. Built with Flutter & Firebase.	
+szkolny-eu/szkolny-android	266	GPL-3.0	education	School Administration & SIS	Nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce.	
+red-stone-network/clockwork	244	NONE	education	School Administration & SIS	It's like an operating system in your browser! [LIKE THIS REPO? STAR IT!]	
+Mati365/librus-api	213	NONE	education	School Administration & SIS	📚🇵🇱 A free, open-source utility for scraping data from the Synergia Librus (http://synergia.librus.pl/) electronic gradebook. Developed and maintained by the community, it allows easy access to grades, attendance, messages, and more - completely free of charge	
+SchoolUtils/WebUntis	213	MIT	education	School Administration & SIS	JavaScript WebUntis API Client	
+a456pur/seraph	194	GPL-3.0	education	School Administration & SIS	an open source game website that hosts 500+ games with customisable settings, full rehosting support and a beautiful design	
+BG-IT-Edu/School-Programming	167	NOASSERTION	education	School Administration & SIS	Хранилище за свободно учебно съдържание по програмиране, информатика и ИТ за българските училища в помощ на ИТ учителите	
+55gms/55GMS	163	AGPL-3.0	education	School Administration & SIS	Your gateway to unblocked games and websites using our fast web proxy!	
+JonasJoKuJonas/homeassistant-WebUntis	153	MIT	education	School Administration & SIS	Custom component to access data from Web Untis in Home Assistant	
+pickle69420/picklebox	153	NONE	education	School Administration & SIS	PickleHub is a hub for students who are bored in school, contained in a bookmarklet!	
+KyleBing/english-vocabulary	2188	BSD-3-Clause	education	Test Prep & Exam Practice	英文单词，英语单词，四六级 CET4 CET6、考研、SAT单词，txt 文件, json 文件	
+R-O-C-K-E-T/Factorio-SAT	784	GPL-3.0	education	Test Prep & Exam Practice	Enhancing the Factorio experience with SAT solvers	
+sarsko/CreuSAT	705	MIT	education	Test Prep & Exam Practice	CreuSAT - A formally verified SAT solver written in Rust and verified with Creusot.	
+avidevelops/claude-architect-exam-prep	595	NOASSERTION	education	Test Prep & Exam Practice		
+jin-zi-xuan/kaobuddy-pwa	396	NONE	education	Test Prep & Exam Practice	一个帮你临时抱佛脚的项目	
+mudler/luet	307	GPL-3.0	education	Test Prep & Exam Practice	:package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning	
+a1076559139/XForge	250	MIT	education	Test Prep & Exam Practice	CocosCreator游戏开发框架 — 入门轻松、功能强大、渐进式。An approachable, performant and versatile framework for building game clients. Topics：CocosCreator、CocosCreator3、3、3.x、3.8、framework.	
+nastaso/cloudcertprep	247	MIT	education	Test Prep & Exam Practice	Free, open-source AWS Cloud Practitioner (CLF-C02) & AI Practitioner (AIF-C01) practice exams - 1,469 questions with explanations, timed mock exams, no signup, no ads. MIT licensed.	
+KeWang0622/kaogong-skill	226	MIT	education	Test Prep & Exam Practice	公务员与事业单位 AI 备考技能：行测、申论、职测、综应、公基、公文、面试与错题复盘。免费开源，支持 Agent Skills 和单文件使用。	
+welchbj/tt	219	MIT	education	Test Prep & Exam Practice	a Pythonic toolkit for working with Boolean expressions	
+phpcfdi/sat-ws-descarga-masiva	197	MIT	education	Test Prep & Exam Practice	Librería para usar el servicio web del SAT de Descarga Masiva	
+frones/ACBr	186	NONE	education	Test Prep & Exam Practice	Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.	
+elonwoo-02/11408	173	NONE	education	Test Prep & Exam Practice	计算机科学与技术专业硕士研究生入学考试（11408）复习笔记与考研经验贴	
+jmplonka/InventorLoader	171	GPL-2.0	education	Test Prep & Exam Practice	Workbench for FreeCAD to loads or import Autodesk (R) Inventor (R) files.	
+SAT-CFDI/python-satcfdi	168	MIT	education	Test Prep & Exam Practice	The best open-source python library to generate and process SAT's CFDI	
+google/comprehensive-rust	33500	Apache-2.0	education	Tutoring Marketplaces & Live Classes	This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.	
+oceanbase/miniob	4436	MulanPSL-2.0	education	Tutoring Marketplaces & Live Classes	MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.	
+ClassIsland/ClassIsland	2909	GPL-3.0	education	Tutoring Marketplaces & Live Classes	一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。	
+bigbluebutton/greenlight	850	LGPL-3.0	education	Tutoring Marketplaces & Live Classes	A really simple end-user interface for your BigBlueButton server.	
+bigbluebutton/bbb-install	663	LGPL-3.0	education	Tutoring Marketplaces & Live Classes	BASH script to install BigBlueButton in 30 minutes.	
+foundation50/classroom50	231	GPL-3.0	education	Tutoring Marketplaces & Live Classes	The free, open-source alternative to GitHub Classroom	
+bigbluebutton/bigbluebutton-api-php	192	LGPL-3.0	education	Tutoring Marketplaces & Live Classes	Offical @BigBlueButton PHP API	
+popcodeorg/popcode	190	MIT	education	Tutoring Marketplaces & Live Classes	An HTML/CSS/JavaScript editor for use in the classroom	
+greenstatic/bigbluebutton-exporter	171	MIT	education	Tutoring Marketplaces & Live Classes	Prometheus exporter for BigBlueButton	
+joisarjignesh/bigbluebutton	161	MIT	education	Tutoring Marketplaces & Live Classes	Package that provides easily communicate between bigbluebutton server and laravel framework	
+ebbba-org/ansible-role-bigbluebutton	142	MIT	education	Tutoring Marketplaces & Live Classes	Ansible role for BigBlueButton	
+tilmanmoser/bbb-video-download	128	MIT	education	Tutoring Marketplaces & Live Classes	A BigBlueButton recording postscript to provide video download	
+zuramai/kelaskita	107	MIT	education	Tutoring Marketplaces & Live Classes	A website for classroom management built with Laravel 9	
+lu0973-cb02d/ClassCue	102	MIT	education	Tutoring Marketplaces & Live Classes	按课表记好每一节课、被点名时及时提醒的本地优先 Android 课堂助手：离线录音转写、点名提醒、课后回放搜索与可选 AI 答案	
+classmoji/classmoji	87	AGPL-3.0	education	Tutoring Marketplaces & Live Classes	The open-source Git-native toolkit for CS education, built by educators and students!	
+python/mypy	20716	NOASSERTION	education	Typing, Memory & Brain Training	Optional static typing for Python	
+DenverCoder1/readme-typing-svg	9504	MIT	education	Typing, Memory & Brain Training	⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.	
+meta/pyrefly	7188	MIT	education	Typing, Memory & Brain Training	A fast type checker and language server for Python	
+aradzie/keybr.com	4835	AGPL-3.0	education	Typing, Memory & Brain Training	The smartest way to learn touch typing and improve your typing speed.	
+DetachHead/basedpyright	3646	NOASSERTION	education	Typing, Memory & Brain Training	pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server	
+kraanzu/smassh	2058	GPL-3.0	education	Typing, Memory & Brain Training	Smassh your Keyboard, TUI Edition	
+patrick-kidger/jaxtyping	1881	NOASSERTION	education	Typing, Memory & Brain Training	Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/	
+python/typing	1783	NOASSERTION	education	Typing, Memory & Brain Training	Python static typing home. Hosts the documentation and a user help forum.	
+max-niederman/ttyper	1612	MIT	education	Typing, Memory & Brain Training	Terminal-based typing test.	
+camwiegert/typical	1574	MIT	education	Typing, Memory & Brain Training	Animated typing in ~400 bytes 🐡 of JavaScript	
+patrick-kidger/torchtyping	1485	Apache-2.0	education	Typing, Memory & Brain Training	Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.	
+lucemia/typed-ffmpeg	1164	MIT	education	Typing, Memory & Brain Training	Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs	
+bloznelis/typioca	948	MIT	education	Typing, Memory & Brain Training	Cozy typing speed tester in terminal	
+lemnos/tt	927	MIT	education	Typing, Memory & Brain Training	A terminal based typing test.	
+life4/deal	920	MIT	education	Typing, Memory & Brain Training	🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.	
+bdebye/thesisuestc	1698	NONE	education	University & Campus Systems	ThesisUESTC-电子科技大学毕业论文模板	
+note286/xduts	1153	LPPL-1.3c	education	University & Campus Systems	Xidian University TeX Suite 西安电子科技大学LaTeX套装	
+fmarotta/kaobook	1122	LPPL-1.3c	education	University & Campus Systems	A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.	
+derric/cleanthesis	922	NONE	education	University & Campus Systems	Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents.	
+NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis	624	GPL-3.0	education	University & Campus Systems	西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University	
+CheckBoxStudio/BUAAThesis	613	MIT	education	University & Campus Systems	北航研究生学位论文模板（Word+LaTeX）.	
+FoShmily/ai-paper-system	531	NONE	education	University & Campus Systems	AI论文系统 · AI论文生成、AI论文写作，一键论文生成，降AIGC、降重、答辩PPT · OEM白标招商加盟	
+federicodeponte/opendraft	527	MIT	education	University & Campus Systems	The open-source agent system that writes research papers with verified citations. Every citation checked against Crossref, OpenAlex and Semantic Scholar.	
+the-shy123456/thesis-docx	483	MIT	education	University & Campus Systems	写论文的skill	
+TJ-CSCCG/TongjiThesis	465	LPPL-1.3c	education	University & Campus Systems	同济大学毕业设计论文 LaTeX 模板 | TongjiThesis - LaTeX Thesis Template for Tongji University	
+SUSTech-Application/SUSTechapplication	399	MIT	education	University & Campus Systems	南方科技大学飞跃手册同步仓库	
+nanmu42/CQUThesis	346	NOASSERTION	education	University & Campus Systems	:pencil: 重庆大学毕业论文LaTeX模板---LaTeX Thesis Template for Chongqing University	
+note286/xdupgthesis	343	LPPL-1.3c	education	University & Campus Systems	[停止维护 请使用note286/xduts]西安电子科技大学研究生学位论文XeLaTeX模板	
+1195343015/nwputhesis	303	GPL-3.0	education	University & Campus Systems	西北工业大学本科毕业设计/硕士博士学位论文 LaTeX 模板 （2026）	
+OpenEducationAnalytics/OpenEducationAnalytics	274	CC-BY-4.0	education	University & Campus Systems	This project provides open source Education Analytics solutions built on Azure.	
+huggingface/agents-course	34558	Apache-2.0	devtools	AI SDKs & Integration Frameworks	This repository contains the Hugging Face Agents Course. 	
+langchain-ai/deepagents	31063	MIT	devtools	AI SDKs & Integration Frameworks	The batteries-included agent harness.	
+meta-llama/llama-cookbook	18583	MIT	devtools	AI SDKs & Integration Frameworks	Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  	
+thesysdev/openui	14915	MIT	devtools	AI SDKs & Integration Frameworks	The Open Standard for Generative UI	
+cloudwego/eino	13578	Apache-2.0	devtools	AI SDKs & Integration Frameworks	The ultimate LLM/AI application development framework in Go.	
+The-Pocket/PocketFlow	11307	MIT	devtools	AI SDKs & Integration Frameworks	Pocket Flow: 100-line LLM framework. Let Agents build Agents!	
+tmc/langchaingo	9766	MIT	devtools	AI SDKs & Integration Frameworks	LangChain for Go, the easiest way to write LLM-based programs in Go	
+liaokongVFX/LangChain-Chinese-Getting-Started-Guide	9145	NONE	devtools	AI SDKs & Integration Frameworks	LangChain 的中文入门教程	
+zilliztech/GPTCache	8221	MIT	devtools	AI SDKs & Integration Frameworks	Semantic cache for LLMs. Fully integrated with LangChain and llama_index. 	
+kyegomez/swarms	7361	Apache-2.0	devtools	AI SDKs & Integration Frameworks	The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai	
+BitterSecurity/Decepticon	6560	Apache-2.0	devtools	AI SDKs & Integration Frameworks	Autonomous Hacking Agent for Red Team	
+AgentOps-AI/agentops	5948	MIT	devtools	AI SDKs & Integration Frameworks	Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI	
+TaskingAI/TaskingAI	5409	Apache-2.0	devtools	AI SDKs & Integration Frameworks	The open source platform for AI-native application development.	
+neo4j-labs/llm-graph-builder	5301	Apache-2.0	devtools	AI SDKs & Integration Frameworks	Neo4j graph construction from unstructured data using LLMs	
+FareedKhan-dev/all-agentic-architectures	4691	MIT	devtools	AI SDKs & Integration Frameworks	35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.	
+GiovanniPasq/agentic-rag-for-dummies	4345	MIT	devtools	AI SDKs & Integration Frameworks	A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.	
+sandbox-quantum/switch	4199	NOASSERTION	devtools	AI SDKs & Integration Frameworks	Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.	
+LazyAGI/LazyLLM	3891	Apache-2.0	devtools	AI SDKs & Integration Frameworks	Easiest and laziest way for  building multi-agent LLMs applications.	
+shroominic/codeinterpreter-api	3841	MIT	devtools	AI SDKs & Integration Frameworks	👾 Open source implementation of the ChatGPT Code Interpreter	
+FireRedTeam/FireRed-OpenStoryline	3645	Apache-2.0	devtools	AI SDKs & Integration Frameworks	FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestration. It facilitates transparent, human-in-the-loop creation	
+minitap-ai/mobile-use	3369	Apache-2.0	devtools	AI SDKs & Integration Frameworks	AI agents can now use real Android and iOS apps, just like a human.	
+OpenGVLab/Ask-Anything	3364	MIT	devtools	AI SDKs & Integration Frameworks	[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.	
+X-D-Lab/LangChain-ChatGLM-Webui	3305	Apache-2.0	devtools	AI SDKs & Integration Frameworks	基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答	
+rag-web-ui/rag-web-ui	3297	Apache-2.0	devtools	AI SDKs & Integration Frameworks	RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology.	
+pezzolabs/pezzo	3279	Apache-2.0	devtools	AI SDKs & Integration Frameworks	🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.	
+fastapi/fastapi	104543	MIT	devtools	API Platforms & Documentation	FastAPI framework, high performance, easy to learn, fast to code, ready for production	
+grpc-ecosystem/grpc-gateway	20010	BSD-3-Clause	devtools	API Platforms & Documentation	gRPC to JSON proxy generator following the gRPC HTTP spec	
+swagger-api/swagger-codegen	17797	Apache-2.0	devtools	API Platforms & Documentation	swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.	
+swaggo/swag	13048	MIT	devtools	API Platforms & Documentation	Automatically generate RESTful API documentation with Swagger 2.0 for Go.	
+alufers/mitmproxy2swagger	9693	NONE	devtools	API Platforms & Documentation	Automagically reverse-engineer REST APIs via capturing traffic	
+swagger-api/swagger-editor	9471	NONE	devtools	API Platforms & Documentation	Swagger Editor	
+vitalik/django-ninja	9237	MIT	devtools	API Platforms & Documentation	💨  Fast, Async-ready, Openapi, type hints based framework for building APIs	
+api-platform/api-platform	9201	MIT	devtools	API Platforms & Documentation	🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.	
+oapi-codegen/oapi-codegen	8650	Apache-2.0	devtools	API Platforms & Documentation	Generate Go client and server boilerplate from OpenAPI 3 specifications	
+yangzongzhuan/RuoYi	8641	MIT	devtools	API Platforms & Documentation	:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用	
+litestar-org/litestar	8537	MIT	devtools	API Platforms & Documentation	Light, flexible and extensible ASGI framework | Built to scale	
+openapi-ts/openapi-typescript	8432	MIT	devtools	API Platforms & Documentation	Generate TypeScript types from OpenAPI 3 specs	
+swagger-api/swagger-core	7535	Apache-2.0	devtools	API Platforms & Documentation	Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API	
+RicoSuter/NSwag	7368	MIT	devtools	API Platforms & Documentation	The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. 	
+orval-labs/orval	6593	MIT	devtools	API Platforms & Documentation	orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺	
+goadesign/goa	6122	MIT	devtools	API Platforms & Documentation	Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.	
+springfox/springfox	5916	Apache-2.0	devtools	API Platforms & Documentation	Automated JSON API documentation for API's built with Spring	
+hey-api/hey-api	5561	MIT	devtools	API Platforms & Documentation	👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.	
+anjoy8/Blog.Core	5282	Apache-2.0	devtools	API Platforms & Documentation	💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：	
+loopbackio/loopback-next	5102	NOASSERTION	devtools	API Platforms & Documentation	LoopBack makes it easy to build modern API applications that require complex integrations.	
+Azure/autorest	4790	MIT	devtools	API Platforms & Documentation	OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python	
+spec-first/connexion	4612	Apache-2.0	devtools	API Platforms & Documentation	Connexion is a modern Python web framework that makes spec-first and api-first development easy.	
+APIs-guru/openapi-directory	4597	CC0-1.0	devtools	API Platforms & Documentation	🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format	
+xiaoymin/knife4j	4587	Apache-2.0	devtools	API Platforms & Documentation	Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution	
+Cysharp/MagicOnion	4459	MIT	devtools	API Platforms & Documentation	Unified Realtime/API framework for .NET platform and Unity.	
+yokoffing/Betterfox	10967	MIT	devtools	Analytics & Event Tracking SDKs	Firefox user.js for optimal privacy and security. Your favorite browser, but better.	
+jofpin/trape	9068	NONE	devtools	Analytics & Event Tracking SDKs	People tracker on the Internet: OSINT analysis and research tool by Jose Pino	
+MVIG-SJTU/AlphaPose	8617	NOASSERTION	devtools	Analytics & Event Tracking SDKs	Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System	
+alexjustesen/speedtest-tracker	6075	MIT	devtools	Analytics & Event Tracking SDKs	Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.	
+STVIR/pysot	4609	Apache-2.0	devtools	Analytics & Event Tracking SDKs	SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.	
+open-mmlab/mmtracking	3912	Apache-2.0	devtools	Analytics & Event Tracking SDKs	OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.	
+EFForg/privacybadger	3885	NOASSERTION	devtools	Analytics & Event Tracking SDKs	Privacy Badger is a browser extension that automatically learns to block hidden trackers	
+visionml/pytracking	3525	GPL-3.0	devtools	Analytics & Event Tracking SDKs	Visual tracking library based on PyTorch.	
+public-activity/public_activity	2989	MIT	devtools	Analytics & Event Tracking SDKs	Easy activity tracking for models - similar to Github's Public Activity	
+EnergizedProtection/block	2836	MIT	devtools	Analytics & Event Tracking SDKs	Let's make an annoyance free, better open internet, altogether!	
+zhm-real/MotionPlanning	2763	NONE	devtools	Analytics & Event Tracking SDKs	Motion planning algorithms commonly used on autonomous vehicles. (path planning + path tracking)	
+badmojr/1Hosts	2266	MPL-2.0	devtools	Analytics & Event Tracking SDKs	Advanced DNS filter/blocklists for privacy, security, and clean browsing.	
+nytimes/react-tracking	1896	NOASSERTION	devtools	Analytics & Event Tracking SDKs	🎯 Declarative tracking for React apps.	
+xinshuoweng/AB3DMOT	1851	NOASSERTION	devtools	Analytics & Event Tracking SDKs	(IROS 2020, ECCVW 2020) Official Python Implementation for "3D Multi-Object Tracking: A Baseline and New Evaluation Metrics"	
+szad670401/HyperLandmark	1711	Apache-2.0	devtools	Analytics & Event Tracking SDKs	Deep Learning Based Free Mobile Real-Time  Face Landmark Detector. Contact:jack-yu-business@foxmail.com	
+nextauthjs/next-auth	28374	ISC	devtools	Auth & User Management SDKs	Authentication for the Web.	
+lucia-auth/lucia	10448	MIT	devtools	Auth & User Management SDKs	Authentication, simple and clean	
+golang-jwt/jwt	9266	MIT	devtools	Auth & User Management SDKs	Go implementation of JSON Web Tokens (JWT).	
+laravel/jetstream	4058	MIT	devtools	Auth & User Management SDKs	Tailwind scaffolding for the Laravel framework.	
+JosephSilber/bouncer	3578	MIT	devtools	Auth & User Management SDKs	Laravel Eloquent roles and abilities.	
+workos/authkit	3360	MIT	devtools	Auth & User Management SDKs	The world's best login box powered by WorkOS and Radix.	
+laravel/breeze	3058	MIT	devtools	Auth & User Management SDKs	Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.	
+laravel/sanctum	2987	MIT	devtools	Auth & User Management SDKs	Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.	

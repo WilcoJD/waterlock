@@ -1,0 +1,380 @@
+gatsbyjs/gatsby	55918	MIT	web	Static Site Generators	React-based framework with performance, scalability, and security built in.	Migrate legacy Gatsby sites to managed hosting
+jekyll/jekyll	51749	MIT	web	Static Site Generators	:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby	GitHub Pages-style hosting with premium themes
+hexojs/hexo	41772	MIT	web	Static Site Generators	A fast, simple & powerful blog framework, powered by Node.js.	Blog hosting for Asian developer markets
+getzola/zola	17587	EUPL-1.2	web	Static Site Generators	A fast static site generator in a single binary with everything built-in. https://www.getzola.org	Single-binary site hosting for privacy-focused clients
+jackyzha0/quartz	13546	MIT	web	Static Site Generators	🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites	Hosted digital-garden publishing for Obsidian users
+getpelican/pelican	13366	AGPL-3.0	web	Static Site Generators	Static site generator that supports Markdown and reST syntax. Powered by Python.	Python static blog hosting with theme marketplace
+11ty/eleventy	-1	NONE	web	Static Site Generators		Performance-focused agency builds with flat hosting fee
+polarsource/polar	10464	Apache-2.0	web	Subscription Billing	Polar — A billing platform for the intelligence era	Merchant-of-record for developer products / Sell digital products and subscriptions to developers
+pay-rails/pay	2263	MIT	web	Subscription Billing	Payments for Ruby on Rails apps	Rails subscription billing setup service
+getgrav/grav	15719	MIT	web	Traditional CMS	Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony	Flat-file CMS hosting for brochure sites at low cost per site
+octobercms/october	11157	NOASSERTION	web	Traditional CMS	Self-hosted CMS platform based on the Laravel PHP Framework.	Laravel-based client sites with paid plugin bundles
+django-cms/django-cms	10680	NOASSERTION	web	Traditional CMS	The easy-to-use and developer-friendly enterprise CMS powered by Django 	Python CMS hosting with enterprise support tiers
+OrchardCMS/OrchardCore	8224	BSD-3-Clause	web	Traditional CMS	Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.	Multi-tenant .NET site SaaS with per-tenant pricing
+joomla/joomla-cms	5167	GPL-2.0	web	Traditional CMS	Home of the Joomla! Content Management System	Joomla hosting plus template marketplace for small businesses
+drupal/drupal	4296	NONE	web	Traditional CMS	Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.	Vertical Drupal distributions for governments and universities with support SLAs
+craftcms/cms	3623	NOASSERTION	web	Traditional CMS	Build bespoke content experiences with Craft.	Agency builds with recurring hosting and content support contracts
+microweber/microweber	3441	MIT	web	Traditional CMS	Drag and Drop Website Builder and CMS with E-commerce	Drag-and-drop site plus store SaaS for small merchants
+wintercms/winter	1524	MIT	web	Traditional CMS	Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.	White-label Laravel CMS for agency client portals
+TYPO3/typo3	1219	GPL-2.0	web	Traditional CMS	The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/q/project:Packages/TYPO3.CMS	Enterprise multisite TYPO3 hosting and DACH-market support
+processwire/processwire	1159	NOASSERTION	web	Traditional CMS	ProcessWire 3.x is a friendly and powerful open source CMS with a strong API. 	Custom content-model sites sold as managed packages
+backdrop/backdrop	1052	GPL-2.0	web	Traditional CMS	Backdrop core code repository.	Affordable Drupal-7 migration hosting for nonprofits
+concretecms/concretecms	854	MIT	web	Traditional CMS	Official repository for Concrete CMS development	In-context editing sites for nontechnical SMB clients on monthly retainer
+seanmorley15/AdventureLog	3863	GPL-3.0	web	Travel & Hotel Booking	Self-hostable travel tracker and trip planner.	Travel planning SaaS for travelers / Travel journal SaaS for travelers
+tramyardg/hotel-mgmt-system	318	Apache-2.0	web	Travel & Hotel Booking	Hotel booking system for customers added with an admin feature to manage reservations.	Guesthouse booking for local B&Bs
+LaravelDaily/Hotel-Booking	183	NONE	web	Travel & Hotel Booking	Laravel 5.5 Demo-project for booking hotel rooms, mostly generated with https://quickadminpanel.com	Small-hotel reservation sites
+Flomp/wanderer	-1	NONE	web	Travel & Hotel Booking		Trail and hiking route sharing community / Hiking trail database for outdoor brands
+datarhei/restreamer	5233	Apache-2.0	web	Video Platforms	The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive vide	Live streaming to multiple platforms for venues / Restream.io-style multistreaming service for churches / Esports stream distribution for organizers
+WWBN/AVideo	2112	NOASSERTION	web	Video Platforms	Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP	White-label video and live streaming platform
+arslancb/clipbucket	423	NOASSERTION	web	Video Platforms	Open source video sharing website script, Tune.pk clone, Youtube clone, dailymotion clone. PHP.	YouTube-style site with ad revenue
+milesmcc/shynet	3157	Apache-2.0	web	Web Analytics	Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.	Cookieless analytics for agencies
+benvinegar/counterscale	2177	MIT	web	Web Analytics	Scalable web analytics you run yourself on Cloudflare	Cloudflare-hosted analytics deployed for clients
+Swetrix/swetrix	1217	AGPL-3.0	web	Web Analytics	📈 Open source, privacy-first web analytics — a cookie-less Google Analytics alternative with built-in error tracking and performance monitoring. Self-host it or use our cloud. Get started for free!	Analytics plus uptime and errors SaaS
+offen/offen	982	Apache-2.0	web	Web Analytics	Offen Fair Web Analytics	Fair analytics with user consent for EU publishers
+medama-io/medama	641	NONE	web	Web Analytics	Self-hostable, privacy-focused website analytics.	Lightweight cookieless analytics hosting
+explodingcamera/liwan	221	Apache-2.0	web	Web Analytics	liwan - Lightweight Analytics	Single-binary analytics for indie sites
+onlook-dev/onlook	27134	Apache-2.0	web	Website Builders	The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.	AI-assisted visual React editing service for designers / AI visual React editor SaaS
+GrapesJS/grapesjs	26394	NOASSERTION	web	Website Builders	Free and Open source Web Builder Framework. Next generation tool for building templates without coding	Embed white-label drag-and-drop builder into your SaaS / Embedded web builder for SaaS platforms
+puckeditor/puck	13644	MIT	web	Website Builders	The visual editor for React.	React visual editor embedded in vertical site-builder SaaS
+webstudio-is/webstudio	9153	AGPL-3.0	web	Website Builders	Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.	Self-hosted visual builder sold to agencies as Webflow alternative / Webflow alternative for agencies
+BuilderIO/builder	8886	MIT	web	Website Builders	Visual Development for React, Vue, Svelte, Qwik, and more	Visual CMS integration services for ecommerce brands
+prevwong/craft.js	8767	MIT	web	Website Builders	🚀 A React Framework for building extensible drag and drop page editors	Framework to ship a branded page editor inside products
+plasmicapp/plasmic	7153	MIT	web	Website Builders	Visual builder for React. Build apps, websites, and content. Integrate with your codebase.	Visual page building for marketing teams on headless stacks / Visual page builder for marketing teams
+silexlabs/Silex	3033	AGPL-3.0	web	Website Builders	Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.	No-code static site builder hosted for freelancers / No-code website builder for agencies
+frappe/builder	2473	MIT	web	Website Builders	Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly	Low-cost website builder bundled with Frappe hosting
+stephen-mclean/project-knot	17	NONE	web	Wedding & RSVP	Wedding RSVP application	Wedding website service with RSVP
+alistairjoelquinn/wedding-invites	10	MIT	web	Wedding & RSVP	Application for managing wedding RSVPs with user admin dashboard. Nextjs, MUI, MongoDB and AWS SES.	Digital invitations with RSVP tracking
+eddmann/our-wedding-website	9	NONE	web	Wedding & RSVP	Because every Wedding RSVP website needs to follow DDD, CQRS, Hexagonal Architecture, Event Sourcing, and be deployed on Lambda.	Custom wedding sites for couples
+manuelbrgr/wedding-rsvp	7	MIT	web	Wedding & RSVP	Wedding in Tuscany! 🌿 RSVP and multilingual website for our unforgettable day in 2022. 💍 Built with React, Gatsby, and AWS serverless architecture. 	Event RSVP pages for planners
+Linbreux/wikmd	423	MIT	web	Wiki Farms	A file based wiki that uses markdown	File-based markdown wiki hosting
+Significant-Gravitas/AutoGPT	187931	NOASSERTION	media_ai	AI Agent Frameworks	AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.	Hosted autonomous agent marketplace
+langflow-ai/langflow	156408	MIT	media_ai	AI Agent Frameworks	Langflow is a powerful tool for building and deploying AI-powered agents and workflows.	Visual AI workflow hosting for agencies
+langchain-ai/langchain	149153	MIT	media_ai	AI Agent Frameworks	The agent engineering platform.	Agent development agency services
+browser-use/browser-use	120246	MIT	media_ai	AI Agent Frameworks	Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.	Browser automation agents for data entry
+OpenHands/OpenHands	92874	MIT	media_ai	AI Agent Frameworks	🙌 OpenHands: AI-Driven Development	Hosted AI coding agent for dev teams
+FoundationAgents/MetaGPT	71207	MIT	media_ai	AI Agent Frameworks	🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming	AI software team service for prototypes
+microsoft/autogen	61738	CC-BY-4.0	media_ai	AI Agent Frameworks	A programming framework for agentic AI	Multi-agent automation for back offices
+crewAIInc/crewAI	60608	MIT	media_ai	AI Agent Frameworks	Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.	Packaged AI crews for marketing tasks
+langchain-ai/langgraph	44614	MIT	media_ai	AI Agent Frameworks	Build resilient agents.	Managed stateful agent hosting
+agno-agi/agno	43093	Apache-2.0	media_ai	AI Agent Frameworks	The self-driving agent platform	Agent-as-a-service for vertical niches
+mastra-ai/mastra	29395	NOASSERTION	media_ai	AI Agent Frameworks	Mastra is the modern TypeScript framework for AI-powered applications and agents.	TypeScript agent hosting for SaaS builders
+letta-ai/letta	25376	Apache-2.0	media_ai	AI Agent Frameworks	Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.	Memory-backed AI companions platform
+pydantic/pydantic-ai	21073	MIT	media_ai	AI Agent Frameworks	How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.	Typed agent builds for fintech clients
+ChatGPTNextWeb/NextChat	88945	MIT	media_ai	AI Chat Interfaces	✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.	Resell API access via branded chat UI
+lobehub/lobehub	84305	NOASSERTION	media_ai	AI Chat Interfaces	🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.	Consumer AI chat app with subscriptions
+CherryHQ/cherry-studio	53317	AGPL-3.0	media_ai	AI Chat Interfaces	Your AI workspace for models, agents, and productivity.	Branded desktop AI client for teams
+oobabooga/textgen	47736	AGPL-3.0	media_ai	AI Chat Interfaces	Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.	Hosted GPU chat instances for hobbyists
+janhq/jan	45553	NOASSERTION	media_ai	AI Chat Interfaces	Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.	Offline AI desktop app for regulated industries
+chatboxai/chatbox	42269	GPL-3.0	media_ai	AI Chat Interfaces	Powerful AI Client	Desktop AI client with pro features
+mckaywrigley/chatbot-ui	33318	MIT	media_ai	AI Chat Interfaces	AI chat for any model.	White-label AI chat for agencies' clients
+huggingface/chat-ui	11025	Apache-2.0	media_ai	AI Chat Interfaces	The open source codebase powering HuggingChat	Hosted open-model chat for privacy-conscious firms
+enricoros/big-AGI	7166	MIT	media_ai	AI Chat Interfaces	AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for dev	Power-user AI workspace subscriptions
+cline/cline	71439	Apache-2.0	media_ai	AI Coding Assistants	Autonomous coding agent as an SDK, IDE extension, or CLI assistant.	Agentic coding workflows for agencies
+aaif-goose/goose	56325	Apache-2.0	media_ai	AI Coding Assistants	an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM	Developer agent deployments
+Aider-AI/aider	50007	Apache-2.0	media_ai	AI Coding Assistants	aider is AI pair programming in your terminal	AI pair-programming consulting
+continuedev/continue	36428	Apache-2.0	media_ai	AI Coding Assistants	open-source coding agent	Private code assistant for enterprises
+TabbyML/tabby	33922	NOASSERTION	media_ai	AI Coding Assistants	Self-hosted AI coding assistant	Self-hosted Copilot for regulated firms
+stackblitz-labs/bolt.diy	20051	MIT	media_ai	AI Coding Assistants	Prompt, run, edit, and deploy full-stack web applications using any LLM you want!	AI app builder SaaS
+AUTOMATIC1111/stable-diffusion-webui	165252	AGPL-3.0	media_ai	AI Image Generation	Stable Diffusion web UI	Hosted GPU image generation subscriptions
+Comfy-Org/ComfyUI	145542	GPL-3.0	media_ai	AI Image Generation	The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.	Workflow-based image generation API service
+lllyasviel/Fooocus	53833	GPL-3.0	media_ai	AI Image Generation	Focus on prompting and generating	Simple consumer AI art app
+huggingface/diffusers	34883	Apache-2.0	media_ai	AI Image Generation	🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.	Custom fine-tuned image models for brands
+facefusion/facefusion	30568	NOASSERTION	media_ai	AI Image Generation	Industry leading face manipulation platform	Licensed face swap for film production
+invoke-ai/InvokeAI	29014	Apache-2.0	media_ai	AI Image Generation	Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the fo	Creative studio AI image tool for agencies
+lllyasviel/stable-diffusion-webui-forge	13115	AGPL-3.0	media_ai	AI Image Generation		Low-VRAM image gen cloud plans
+bmaltais/kohya_ss	12660	Apache-2.0	media_ai	AI Image Generation		LoRA training service for product photos
+Acly/krita-ai-diffusion	10850	GPL-3.0	media_ai	AI Image Generation	Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.	AI painting plugin bundles for illustrators
+vladmandic/sdnext	7371	Apache-2.0	media_ai	AI Image Generation	SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing	Multi-backend image gen hosting
+mcmonkeyprojects/SwarmUI	4750	MIT	media_ai	AI Image Generation	SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.	Multi-GPU image generation farm
+deezer/spleeter	28518	MIT	media_ai	AI Music & Audio	Deezer source separation library including pretrained models.	Karaoke track creation service
+Anjok07/ultimatevocalremovergui	27006	MIT	media_ai	AI Music & Audio	 GUI for a Vocal Remover that uses Deep Neural Networks.	Vocal isolation for remixers / Vocal removal for karaoke track production
+facebookresearch/audiocraft	23832	MIT	media_ai	AI Music & Audio	Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.	Royalty-free music generation SaaS
+audacity/audacity	18982	NOASSERTION	media_ai	AI Music & Audio	Audio Editor                                     	Audio editing courses and plugins / Game audio editing services
+multimodal-art-projection/YuE	13156	Apache-2.0	media_ai	AI Music & Audio	YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.	AI song generation app
+spotify/basic-pitch	6033	Apache-2.0	media_ai	AI Music & Audio	A lightweight yet powerful audio-to-MIDI converter with pitch bend detection	Audio-to-MIDI conversion service
+Ardour/ardour	5413	NOASSERTION	media_ai	AI Music & Audio	Mirror of Ardour Source Code	Studio DAW bundles
+Rikorose/DeepFilterNet	4967	NOASSERTION	media_ai	AI Music & Audio	Noise supression using deep filtering	Noise removal API for podcasts
+riffusion/riffusion-hobby	3906	MIT	media_ai	AI Music & Audio	Stable diffusion for real-time music generation	Music loop generation
+harry0703/MoneyPrinterTurbo	140546	MIT	media_ai	AI Video & Avatars	利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.	Automated short video creation service
+hacksider/Deep-Live-Cam	97751	AGPL-3.0	media_ai	AI Video & Avatars	real time face swap and one-click video deepfake with only a single image	Licensed live VFX for streamers
+hpcaitech/Open-Sora	29918	Apache-2.0	media_ai	AI Video & Avatars	Open-Sora: Democratizing Efficient Video Production for All	AI video generation for ads
+KlingAIResearch/LivePortrait	19423	NOASSERTION	media_ai	AI Video & Avatars	Bring portraits to life!	Animated portrait service
+Wan-Video/Wan2.1	17400	Apache-2.0	media_ai	AI Video & Avatars	Wan: Open and Advanced Large-Scale Video Generative Models	Short-form video generation SaaS
+OpenTalker/SadTalker	14188	NOASSERTION	media_ai	AI Video & Avatars	[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation	Talking avatar videos for marketing
+Rudrabha/Wav2Lip	13270	NONE	media_ai	AI Video & Avatars	This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs 	Lip-sync dubbing service
+zai-org/CogVideo	13187	Apache-2.0	media_ai	AI Video & Avatars	text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)	Product video generation API
+Tencent-Hunyuan/HunyuanVideo	12738	NOASSERTION	media_ai	AI Video & Avatars	HunyuanVideo: A Systematic Framework For Large Video Generation Model	Text-to-video generation API
+RayVentura/ShortGPT	8120	MIT	media_ai	AI Video & Avatars	🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation	Faceless YouTube channel automation
+usebruno/bruno	48263	MIT	media_ai	API Dev Tools & Mocking	Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)	Offline API client pro licenses
+Kong/insomnia	40134	Apache-2.0	media_ai	API Dev Tools & Mocking	The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.	API client with sync plans
+swagger-api/swagger-ui	29078	Apache-2.0	media_ai	API Dev Tools & Mocking	Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.	Branded API docs portals
+mountain-loop/yaak	19456	MIT	media_ai	API Dev Tools & Mocking	The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬	API client team licenses
+mockoon/mockoon	8474	MIT	media_ai	API Dev Tools & Mocking	Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.	Hosted API mocks for QA teams
+wiremock/wiremock	7418	Apache-2.0	media_ai	API Dev Tools & Mocking	A tool for mocking HTTP services	Cloud API mocking service
+stoplightio/prism	5068	Apache-2.0	media_ai	API Dev Tools & Mocking	Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.	OpenAPI mock servers as a service
+microcks/microcks	2080	Apache-2.0	media_ai	API Dev Tools & Mocking	The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀	Contract testing platform for enterprises
+apache/echarts	67690	Apache-2.0	media_ai	BI & Dashboards	Apache ECharts is a powerful, interactive charting and data visualization library for browser	Custom dashboard development
+streamlit/streamlit	46256	Apache-2.0	media_ai	BI & Dashboards	Streamlit — A faster way to build and share data apps.	Data app hosting for analysts
+dataease/dataease	24680	NOASSERTION	media_ai	BI & Dashboards	🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.	BI for Asian-market SMBs
+elastic/kibana	21356	NOASSERTION	media_ai	BI & Dashboards	Your window into all of your data	Log analytics dashboards service
+cube-js/cube	21189	NOASSERTION	media_ai	BI & Dashboards	📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics	Semantic layer for embedded analytics
+rilldata/rill	2985	Apache-2.0	media_ai	BI & Dashboards	The fastest business intelligence tool for humans and agents.	Fast operational dashboards SaaS
+home-assistant/core	92045	Apache-2.0	media_ai	Chatbot & Voice Assistants	:house_with_garden: Open source home automation that puts local control and privacy first.	Smart home installation services / Installed smart home packages for homeowners / Sell installed Home Assistant hubs with support plans
+leon-ai/leon	17646	MIT	media_ai	Chatbot & Voice Assistants	🧠 Leon is your open-source personal assistant.	Personal assistant subscriptions
+pipecat-ai/pipecat	17110	BSD-2-Clause	media_ai	Chatbot & Voice Assistants	Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.	Voice AI agents for phone lines
+livekit/agents	15125	Apache-2.0	media_ai	Chatbot & Voice Assistants	A framework for building realtime voice AI agents 🤖🎙️📹 	Real-time voice bots for clinics
+fixie-ai/ultravox	4585	MIT	media_ai	Chatbot & Voice Assistants	A fast multimodal LLM for real-time voice	Speech-native LLM voice service
+vocodedev/vocode-core	3809	MIT	media_ai	Chatbot & Voice Assistants	🤖 Build voice-based LLM agents. Modular + open source.	AI phone receptionist SaaS
+OpenVoiceOS/ovos-core	300	Apache-2.0	media_ai	Chatbot & Voice Assistants	OpenVoiceOS Core, the FOSS Artificial Intelligence platform. 	Privacy voice assistant hardware
+opencv/opencv	91478	Apache-2.0	media_ai	Computer Vision	Open Source Computer Vision Library	Vision consulting
+ultralytics/ultralytics	63196	AGPL-3.0	media_ai	Computer Vision	Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking	Custom object detection for factories
+facebookresearch/segment-anything	55101	Apache-2.0	media_ai	Computer Vision	The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.	Auto-masking API for designers
+roboflow/supervision	51535	MIT	media_ai	Computer Vision	We write your reusable computer vision tools. 💜	Video analytics dashboards
+google-ai-edge/mediapipe	37591	Apache-2.0	media_ai	Computer Vision	Cross-platform, customizable ML solutions for live and streaming media.	Fitness and pose tracking apps
+facebookresearch/detectron2	34974	Apache-2.0	media_ai	Computer Vision	Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.	Segmentation models for agriculture
+deepinsight/insightface	30158	NONE	media_ai	Computer Vision	State-of-the-art 2D and 3D Face Analysis Project	Face analytics licensing
+serengil/deepface	23655	MIT	media_ai	Computer Vision	A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python	Face verification for KYC
+exadel-inc/CompreFace	8411	Apache-2.0	media_ai	Computer Vision	Leading free and open-source face recognition system	Face recognition API for access control
+roboflow/inference	2488	NOASSERTION	media_ai	Computer Vision	Turn any computer or edge device into a command center for your computer vision projects.	Edge vision deployment service
+open-metadata/OpenMetadata	15708	Apache-2.0	media_ai	Data Catalogs	The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.	Data governance platform hosting
+datahub-project/datahub	12962	Apache-2.0	media_ai	Data Catalogs	The Context Platform for your Data and AI Stack	Managed data catalog for enterprises
+fivetran/great_expectations	11916	Apache-2.0	media_ai	Data Catalogs	Always know what to expect from your data.	Data quality testing service
+ckan/ckan	5151	NOASSERTION	media_ai	Data Catalogs	CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.	Open data portals for governments / Open data portals for governments / Open data portal hosting for cities
+unitycatalog/unitycatalog	3572	Apache-2.0	media_ai	Data Catalogs	Open, Multi-modal Catalog for Data & AI	Lakehouse governance consulting
+sodadata/soda-core	2462	NOASSERTION	media_ai	Data Catalogs	Data Contracts engine for the modern data stack. https://www.soda.io	Data quality monitoring SaaS
+MarquezProject/marquez	2303	Apache-2.0	media_ai	Data Catalogs	Collect, aggregate, and visualize a data ecosystem's metadata	Data lineage service
+apache/atlas	2164	Apache-2.0	media_ai	Data Catalogs	Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond	Hadoop governance consulting
+magda-io/magda	606	Apache-2.0	media_ai	Data Catalogs	A federated, open-source data catalog for all your big data and small data	Data catalog for public sector
+HumanSignal/label-studio	28646	Apache-2.0	media_ai	Data Labeling	Label Studio is a multi-type data labeling and annotation tool with standardized output format	Managed labeling platform with workforce
+cvat-ai/cvat	17091	MIT	media_ai	Data Labeling	CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer	Image annotation services for autonomy
+cleanlab/cleanlab	11736	Apache-2.0	media_ai	Data Labeling	Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.	Data quality audits for ML datasets
+voxel51/fiftyone	11282	Apache-2.0	media_ai	Data Labeling	Refine high-quality datasets and visual AI models	Dataset curation consulting for CV teams
+CVHub520/X-AnyLabeling	10907	GPL-3.0	media_ai	Data Labeling	X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export.	AI-assisted labeling service
+doccano/doccano	10806	MIT	media_ai	Data Labeling	Open source annotation tool for machine learning practitioners.	Text annotation service for NLP teams
+argilla-io/argilla	5193	Apache-2.0	media_ai	Data Labeling	Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets	LLM feedback data curation service
+SkalskiP/make-sense	3572	GPL-3.0	media_ai	Data Labeling	Free to use online tool for labelling photos. https://makesense.ai	Browser labeling tool for agencies
+diffgram/diffgram	1910	NOASSERTION	media_ai	Data Labeling	The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.	Enterprise training data platform
+duckdb/duckdb	42883	MIT	media_ai	Databases & Analytics Engines	DuckDB is a high-performance analytical database system	Embedded analytics consulting
+influxdata/influxdb	31803	Apache-2.0	media_ai	Databases & Analytics Engines	Scalable datastore for metrics, events, and real-time analytics	Metrics storage SaaS
+timescale/timescaledb	23820	NOASSERTION	media_ai	Databases & Analytics Engines	A time-series database for high-performance real-time analytics packaged as a Postgres extension	Time-series database hosting for IoT
+questdb/questdb	17507	Apache-2.0	media_ai	Databases & Analytics Engines	QuestDB is a high performance, open-source, time-series database	Fast time-series DB for trading firms
+apache/druid	14099	Apache-2.0	media_ai	Databases & Analytics Engines	Apache Druid: a high performance real-time analytics database.	Real-time OLAP hosting
+trinodb/trino	13479	Apache-2.0	media_ai	Databases & Analytics Engines	Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)	Federated query engine service
+StarRocks/starrocks	12243	Apache-2.0	media_ai	Databases & Analytics Engines	The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-ho	Lakehouse analytics consulting
+apache/pinot	6172	Apache-2.0	media_ai	Databases & Analytics Engines	Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications	User-facing analytics backend
+fabricjs/fabric.js	31548	MIT	media_ai	Design Tools	Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser	Custom product designer for merch stores
+konvajs/konva	14925	NOASSERTION	media_ai	Design Tools	Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.	Canvas design editors for print-on-demand
+evolus/pencil	9898	GPL-2.0	media_ai	Design Tools	The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. 	Wireframing templates
+iconify/iconify	6384	MIT	media_ai	Design Tools	Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). SVG framework, React, Vue and Svelte components!	Icon delivery CDN
+KlausSchaefers/quant-ux	2757	GPL-3.0	media_ai	Design Tools	Quant-UX - Prototype, Test and Learn	Prototyping and usability testing SaaS
+ente/ente	29959	AGPL-3.0	media_ai	Digital Asset Management	💚 End-to-end encrypted cloud for everything.	E2E encrypted photo storage subscriptions
+tagspaces/tagspaces	5367	AGPL-3.0	media_ai	Digital Asset Management	TagSpaces is an offline, open source, document manager with tagging support	File tagging for creative teams
+pimcore/pimcore	3889	NOASSERTION	media_ai	Digital Asset Management	Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)	DAM and PIM for retailers
+pulsejet/memories	3876	AGPL-3.0	media_ai	Digital Asset Management	Fast, modern and advanced photo management suite. Runs as a Nextcloud app.	Photo management add-on hosting / Photo app bundled with Nextcloud hosting
+hydrusnetwork/hydrus	3257	NOASSERTION	media_ai	Digital Asset Management	A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.	Media tagging archives
+airbytehq/airbyte	22331	NOASSERTION	media_ai	ETL & ELT	Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.	Managed data connectors for SMBs
+dbt-labs/dbt	14131	Apache-2.0	media_ai	ETL & ELT	dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.	Analytics engineering consulting
+mage-ai/mage-ai	8844	Apache-2.0	media_ai	ETL & ELT	🧙 Build, run, and manage data pipelines for integrating and transforming data.	Notebook-style pipelines for analysts
+redpanda-data/connect	8793	NONE	media_ai	ETL & ELT	Fancy stream processing made operationally mundane	Stream processing integrations
+apache/nifi	6300	Apache-2.0	media_ai	ETL & ELT	Apache NiFi	Data flow integration for government
+dlt-hub/dlt	6063	Apache-2.0	media_ai	ETL & ELT	data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ 	Python pipeline building service
+meltano/meltano	2677	MIT	media_ai	ETL & ELT	Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.	ELT pipelines as a service
+apache/hop	1523	Apache-2.0	media_ai	ETL & ELT	Hop Orchestration Platform	Visual ETL for consultancies
+resend/react-email	19916	MIT	media_ai	Email Marketing	💌 Build and send emails using React	Email template builder service
+mjmlio/mjml	18286	MIT	media_ai	Email Marketing	MJML: the only framework that makes responsive email easy	Email template design agency
+formbase-dev/formbase	157	AGPL-3.0	media_ai	Forms & Surveys	Open Source Form Backend	Form submission endpoints
+LibrePhotos/librephotos	8134	MIT	media_ai	Image Hosting	A self-hosted open source photo management service. 	Private family photo cloud subscriptions / Self-hosted photo cloud for families
+SoftwareBrothers/adminjs	8996	MIT	media_ai	Internal Tool Builders	AdminJS is an admin panel for apps written in node.js	Admin panel development service
+jet-admin/jet-bridge	1800	MIT	media_ai	Internal Tool Builders	Jet Admin – No-code Business App builder	Internal tool backend bridge
+ForestAdmin/agent-nodejs	86	Apache-2.0	media_ai	Internal Tool Builders	🌱  Node.js agent for Forest Admin	Admin panels for startups
+mixxxdj/mixxx	7368	NOASSERTION	media_ai	Internet Radio	Mixxx is Free DJ software that gives you everything you need to perform live mixes.	Branded DJ software bundles with hardware
+AzuraCast/AzuraCast	4088	AGPL-3.0	media_ai	Internet Radio	A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.	Managed web radio station hosting / Hosted internet radio for community stations
+savonet/liquidsoap	1756	GPL-2.0	media_ai	Internet Radio	Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.	Custom radio automation for broadcasters
+libretime/libretime	938	AGPL-3.0	media_ai	Internet Radio	LibreTime: Radio Broadcast & Automation Platform	Radio automation SaaS for community stations / Radio automation for campus stations
+xiph/Icecast-Server	559	GPL-2.0	media_ai	Internet Radio	Icecast streaming media server (Mirror) - Please report bugs at https://gitlab.xiph.org/xiph/icecast-server/issues	Shoutcast-style stream hosting plans
+ElvishArtisan/rivendell	248	NONE	media_ai	Internet Radio	A full-featured radio automation system targeted for use in professional broadcast and media environments	Broadcast automation installation and support / Broadcast automation for FM stations
+langfuse/langfuse	37124	NOASSERTION	media_ai	LLM Gateways & Observability	🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.	LLM observability SaaS for app teams
+promptfoo/promptfoo	26933	MIT	media_ai	LLM Gateways & Observability	Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.	LLM red-teaming audits as a service
+comet-ml/opik	23241	Apache-2.0	media_ai	LLM Gateways & Observability	Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.	Hosted LLM eval dashboards for agencies
+Arize-ai/phoenix	12191	NOASSERTION	media_ai	LLM Gateways & Observability	AI Observability & Evaluation	LLM evaluation and tracing service
+Helicone/helicone	6273	Apache-2.0	media_ai	LLM Gateways & Observability	🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓	LLM cost monitoring for startups
+openlit/openlit	2956	Apache-2.0	media_ai	LLM Gateways & Observability	Same agent Smaller bill. The tools and infrastructure to get more work from your AI. Fewer tokens. Less compute. Lower cost.	OpenTelemetry AI monitoring for enterprises
+ollama/ollama	186238	MIT	media_ai	LLM Serving & Inference	Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.	Private on-prem LLM appliances for SMBs
+ggml-org/llama.cpp	133635	MIT	media_ai	LLM Serving & Inference	LLM inference in C/C++	Edge inference consulting for device makers
+vllm-project/vllm	96512	Apache-2.0	media_ai	LLM Serving & Inference	A high-throughput and memory-efficient inference and serving engine for LLMs	Managed open-model inference API
+mudler/LocalAI	50242	MIT	media_ai	LLM Serving & Inference	LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.	OpenAI-compatible private API for compliance clients
+ray-project/ray	44232	Apache-2.0	media_ai	LLM Serving & Inference	Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.	Managed distributed compute clusters
+sgl-project/sglang	38556	Apache-2.0	media_ai	LLM Serving & Inference	SGLang is a high-performance serving framework for large language models and multimodal models.	High-throughput inference cloud reselling tokens
+NVIDIA/TensorRT-LLM	15033	NOASSERTION	media_ai	LLM Serving & Inference	TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtim	GPU inference optimization consulting
+xorbitsai/inference	9647	Apache-2.0	media_ai	LLM Serving & Inference	Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.	Enterprise model serving with support contracts
+bentoml/BentoML	8935	Apache-2.0	media_ai	LLM Serving & Inference	The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!	Model deployment platform for ML teams
+ossrs/srs	29432	MIT	media_ai	Live Streaming	SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.	Live streaming infrastructure-as-a-service for apps
+bluenviron/mediamtx	20639	MIT	media_ai	Live Streaming	Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams.	Managed RTSP/camera relay for security integrators
+arut/nginx-rtmp-module	14023	BSD-2-Clause	media_ai	Live Streaming	NGINX-based Media Streaming Server	Turnkey RTMP ingest servers for event producers
+ant-media/Ant-Media-Server	4747	NOASSERTION	media_ai	Live Streaming	Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling	WebRTC streaming platform for telehealth and education
+OvenMediaLabs/OvenMediaEngine	3300	AGPL-3.0	media_ai	Live Streaming	OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS	Sub-second latency streaming CDN for auctions and betting
+livepeer/go-livepeer	587	MIT	media_ai	Live Streaming	Official Go implementation of the Livepeer protocol	Decentralized transcoding reseller for video platforms
+DDVTECH/mistserver	520	Unlicense	media_ai	Live Streaming	The official mistserver source repository - www.mistserver.com	OEM streaming engine licensing for broadcasters
+illacloud/illa-builder	12348	Apache-2.0	media_ai	Low-Code App Builders	Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automa	AI-powered internal apps service
+mlflow/mlflow	28716	Apache-2.0	media_ai	MLOps	The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.	Managed experiment tracking for data teams
+treeverse/dvc	15967	Apache-2.0	media_ai	MLOps	🦉 Data Versioning and ML Experiments	Data versioning services for ML teams
+kubeflow/kubeflow	15955	Apache-2.0	media_ai	MLOps	The Cloud Native AI Platform	ML platform deployments for enterprises
+kedro-org/kedro	11046	NOASSERTION	media_ai	MLOps	Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.	Data pipeline project templates for consultancies
+Netflix/metaflow	10342	Apache-2.0	media_ai	MLOps	Build, Manage and Deploy AI/ML Systems	Managed data science workflows
+evidentlyai/evidently	8047	Apache-2.0	media_ai	MLOps	Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.	Model monitoring SaaS
+feast-dev/feast	7356	Apache-2.0	media_ai	MLOps	The Open Source Feature Store for AI/ML	Feature store hosting for fintech
+clearml/clearml	6934	Apache-2.0	media_ai	MLOps	ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution	Hosted ML ops for research labs
+aimhubio/aim	6295	Apache-2.0	media_ai	MLOps	Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.	Experiment tracking hosting
+kserve/kserve	6199	Apache-2.0	media_ai	MLOps	Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes	Kubernetes model serving setup service
+zenml-io/zenml	5637	Apache-2.0	media_ai	MLOps	ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.	MLOps pipeline consulting
+SeldonIO/seldon-core	4785	NOASSERTION	media_ai	MLOps	An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models	Model deployment for regulated industries
+LibreTranslate/LibreTranslate	17290	AGPL-3.0	media_ai	Machine Translation	Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.	Translation API with paid keys
+OpenNMT/OpenNMT-py	7023	MIT	media_ai	Machine Translation	Open Source Neural Machine Translation and (Large) Language Models in PyTorch	Custom domain translation models
+argosopentech/argos-translate	6627	MIT	media_ai	Machine Translation	Open-source offline translation library written in Python	Offline translation for field teams
+WeblateOrg/weblate	6161	GPL-3.0	media_ai	Machine Translation	Web based localization tool with tight version control integration.	Hosted localization platform for software
+OpenNMT/CTranslate2	4734	MIT	media_ai	Machine Translation	Fast inference engine for Transformer models	Fast inference for translation services
+tolgee/tolgee-platform	4155	NOASSERTION	media_ai	Machine Translation	Developer & translator friendly web-based localization platform	Localization SaaS for web apps
+ever-co/ever-traduora	2139	AGPL-3.0	media_ai	Machine Translation	Ever® Traduora™ - Open Translation Management Platform - https://traduora.co	Translation management for agencies
+mozilla/pontoon	1678	BSD-3-Clause	media_ai	Machine Translation	Mozilla's Localization Platform	Community translation portals
+browsermt/bergamot-translator	561	MPL-2.0	media_ai	Machine Translation	Cross platform C++ library focusing on optimized machine translation on the consumer-grade device. 	Private in-browser translation SDK
+xbmc/xbmc	21448	NOASSERTION	media_ai	Media Servers	Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.	Custom branded Kodi builds for hotels / Branded media center for set-top boxes
+Sonarr/Sonarr	17593	GPL-3.0	media_ai	Media Servers	Smart PVR for newsgroup and bittorrent users.	Seedbox bundles with automated media management
+Stremio/stremio-web	14990	GPL-2.0	media_ai	Media Servers	Stremio - Freedom to Stream	Branded streaming client for content licensors / Media aggregation app with addons
+advplyr/audiobookshelf	14934	GPL-3.0	media_ai	Media Servers	Self-hosted audiobook and podcast server	Audiobook library hosting for libraries and publishers / Audiobook hosting for indie publishers
+Radarr/Radarr	14729	GPL-3.0	media_ai	Media Servers	Movie organizer/manager for usenet and torrent users.	Managed media automation stacks for seedbox providers
+zoriya/Kyoo	2561	GPL-3.0	media_ai	Media Servers	A portable and vast media library solution.	Hosted personal media library service
+gerbera/gerbera	1406	NOASSERTION	media_ai	Media Servers	UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺	UPnP media appliance for retail displays
+navidrome/navidrome	24563	GPL-3.0	media_ai	Music Streaming	🎧 Your Personal Streaming Service 	Hosted personal music cloud subscription / Music streaming server for labels
+koel/koel	17334	MIT	media_ai	Music Streaming	Music streaming solution that works.	Private music streaming for small labels / Personal music streaming SaaS
+mopidy/mopidy	8608	Apache-2.0	media_ai	Music Streaming	Mopidy is an extensible music server written in Python	In-store music systems for retail chains / Music server for hospitality audio
+jellyfin/jellyfin-web	3967	GPL-2.0	media_ai	Music Streaming	The Free Software Media System - Official Web Client	Branded music/video web client for resellers
+ampache/ampache	3845	AGPL-3.0	media_ai	Music Streaming	A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.	Managed music library hosting for DJs / Hosted music library for labels
+music-assistant/server	3293	Apache-2.0	media_ai	Music Streaming	Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a	Multi-room audio setups for smart home installers
+sentriz/gonic	2651	GPL-3.0	media_ai	Music Streaming	music streaming server / free-software subsonic server API implementation	Low-cost music streaming VPS plans / Lightweight music server for NAS vendors
+airsonic-advanced/airsonic-advanced	1404	GPL-3.0	media_ai	Music Streaming		Subsonic-compatible music hosting service
+janeczku/calibre-web	18539	GPL-3.0	media_ai	Newsletters & Publishing	:books: Web app for browsing, reading and downloading eBooks stored in a Calibre database	Ebook library hosting / Ebook library for schools / Ebook lending portal for community libraries
+Kareadita/Kavita	12077	GPL-3.0	media_ai	Newsletters & Publishing	Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.	Comics and manga reader hosting / Hosted reading server for book clubs
+gotson/komga	6828	MIT	media_ai	Newsletters & Publishing	Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support	Comic library subscriptions / Comic server for publishers
+gradio-app/gradio	43997	Apache-2.0	media_ai	Notebooks & Data Science	Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!	ML demo hosting for researchers
+marimo-team/marimo	23463	Apache-2.0	media_ai	Notebooks & Data Science	A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.	Reactive notebook app hosting
+jupyterlab/jupyterlab	15390	BSD-3-Clause	media_ai	Notebooks & Data Science	JupyterLab computational environment.	Data science workspace hosting
+simonw/datasette	11547	Apache-2.0	media_ai	Notebooks & Data Science	An open source multi-tool for exploring and publishing data	Publish open data for newsrooms
+jupyterhub/jupyterhub	8364	BSD-3-Clause	media_ai	Notebooks & Data Science	Multi-user server for Jupyter notebooks	Hosted notebooks for universities
+apache/zeppelin	6669	Apache-2.0	media_ai	Notebooks & Data Science	Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.	Big data notebooks for enterprises
+quarto-dev/quarto-cli	6155	NOASSERTION	media_ai	Notebooks & Data Science	Open-source scientific and technical publishing system built on Pandoc.	Branded report publishing service
+voila-dashboards/voila	5957	NOASSERTION	media_ai	Notebooks & Data Science	Voilà turns Jupyter notebooks into standalone web applications	Notebook-to-dashboard publishing
+polynote/polynote	4596	Apache-2.0	media_ai	Notebooks & Data Science	A better notebook for Scala (and more)	Scala notebooks for data teams
+observablehq/framework	3676	ISC	media_ai	Notebooks & Data Science	A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.	Data app development agency
+PaddlePaddle/PaddleOCR	92398	Apache-2.0	media_ai	OCR & Document AI	Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.	Invoice and receipt extraction service
+opendatalab/MinerU	83260	NOASSERTION	media_ai	OCR & Document AI	Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.	Scientific paper extraction service
+tesseract-ocr/tesseract	77401	Apache-2.0	media_ai	OCR & Document AI	Tesseract Open Source OCR Engine (main repository)	OCR API for document digitization
+datalab-to/marker	40804	Apache-2.0	media_ai	OCR & Document AI	Convert PDF to markdown + JSON quickly with high accuracy	PDF to Markdown conversion service
+ocrmypdf/OCRmyPDF	35259	MPL-2.0	media_ai	OCR & Document AI	OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched	Searchable PDF conversion for archives
+JaidedAI/EasyOCR	30130	Apache-2.0	media_ai	OCR & Document AI	Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.	Multilingual OCR for logistics
+datalab-to/surya	21582	Apache-2.0	media_ai	OCR & Document AI	OCR, layout analysis, reading order, table recognition in 90+ languages	Layout-aware OCR for publishers
+Unstructured-IO/unstructured	15695	Apache-2.0	media_ai	OCR & Document AI	Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for 	ETL for unstructured documents
+mindee/doctr	6420	Apache-2.0	media_ai	OCR & Document AI	docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k.	ID document parsing for KYC
+Forceu/Gokapi	2996	AGPL-3.0	media_ai	Pastebins & File Drop	Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.	Expiring file shares for law firms
+chibisafe/chibisafe	2805	MIT	media_ai	Pastebins & File Drop	Blazing fast file vault written in TypeScript! 🚀	Paid file upload hosting service
+ldidry/lufi	359	AGPL-3.0	media_ai	Pastebins & File Drop	Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/	E2E encrypted file drop for healthcare
+upscayl/upscayl	51907	AGPL-3.0	media_ai	Photo Editing	🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.	AI image upscaling SaaS
+TencentARC/GFPGAN	37698	NOASSERTION	media_ai	Photo Editing	GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.	Old photo restoration service
+xinntao/Real-ESRGAN	37402	BSD-3-Clause	media_ai	Photo Editing	Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.	Photo enhancement API
+GraphiteEditor/Graphite	27854	Apache-2.0	media_ai	Photo Editing	Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine	Vector and raster editor hosting
+danielgatis/rembg	25373	MIT	media_ai	Photo Editing	Rembg is a tool to remove images background	Background removal API
+darktable-org/darktable	13407	GPL-3.0	media_ai	Photo Editing	darktable is an open source photography workflow application and raw developer	RAW editing presets marketplace
+KDE/krita	10707	GPL-3.0	media_ai	Photo Editing	Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.	Digital art courses and brushes / Digital painting training and game art courses
+GNOME/gimp	6568	NOASSERTION	media_ai	Photo Editing	Read-only mirror of https://gitlab.gnome.org/GNOME/gimp	Branded design suite bundles
+RawTherapee/RawTherapee	4281	GPL-3.0	media_ai	Photo Editing	A powerful cross-platform raw photo processing program	Photo processing service
+viliusle/miniPaint	3489	NOASSERTION	media_ai	Photo Editing	online image editor	Embedded web image editor
+scaleflex/filerobot-image-editor	1930	MIT	media_ai	Photo Editing	Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues	Image editor widget for CMS
+AntennaPod/AntennaPod	8272	GPL-3.0	media_ai	Podcast Hosting	A podcast manager for Android	White-label podcast player apps for networks / Branded podcast app for networks
+bbc/audiowaveform	2171	GPL-3.0	media_ai	Podcast Hosting	C++ program to generate waveform data and render waveform images from audio files	Waveform generation API for podcast platforms
+akhilrex/podgrab	1993	GPL-3.0	media_ai	Podcast Hosting	A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.	Podcast archival service for researchers / Podcast archiving service
+gpodder/gpodder	1455	GPL-3.0	media_ai	Podcast Hosting	The gPodder podcast client.	Podcast sync service subscriptions / Podcast sync service
+madeofpendletonwool/PinePods	1049	GPL-3.0	media_ai	Podcast Hosting	Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!	Managed podcast management for households / Hosted podcast management for households
+SamTV12345/PodFetch	521	Apache-2.0	media_ai	Podcast Hosting	 A sleek and efficient podcast downloader.	Hosted podcast sync for enterprises
+podverse/podverse-web	100	AGPL-3.0	media_ai	Podcast Hosting	Podverse web app written with React and Next.js	Podcast app with Value4Value monetization
+usefathom/fathom	8034	MIT	media_ai	Product Analytics	Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.	Simple web analytics hosting
+appleboy/gorush	8798	MIT	media_ai	Push Notifications	A push notification server written in Go (Golang).	Mobile push gateway hosting
+web-push-libs/web-push	3572	NOASSERTION	media_ai	Push Notifications	Web Push library for Node.js	Web push campaigns for publishers
+pushbits/server	371	ISC	media_ai	Push Notifications	A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯	Matrix-based push relay
+infiniflow/ragflow	93721	Apache-2.0	media_ai	RAG & Knowledge Bots	RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.	Enterprise document Q&A deployments
+zylon-ai/private-gpt	57631	Apache-2.0	media_ai	RAG & Knowledge Bots	Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.	On-prem private document AI for government
+run-llama/llama_index	52841	MIT	media_ai	RAG & Knowledge Bots	LlamaIndex is the document processing platform for AI	RAG consulting and data connectors
+The-Vibe-Company/quivr	39635	MIT	media_ai	RAG & Knowledge Bots	An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.	Second-brain AI for consultants
+khoj-ai/khoj	38042	AGPL-3.0	media_ai	RAG & Knowledge Bots	Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - f	Personal AI assistant subscriptions
+onyx-dot-app/onyx	33273	NOASSERTION	media_ai	RAG & Knowledge Bots	Open Source AI Platform - AI Chat with advanced features that works with every LLM	Enterprise workplace search with connectors
+labring/FastGPT	30000	NOASSERTION	media_ai	RAG & Knowledge Bots	FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering 	Customer service knowledge bots for ecommerce
+deepset-ai/haystack	26941	Apache-2.0	media_ai	RAG & Knowledge Bots	Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multi	Custom search and RAG builds for enterprises
+Cinnamon/kotaemon	25873	Apache-2.0	media_ai	RAG & Knowledge Bots	An open-source RAG-based tool for chatting with your documents.	Branded document QA for research firms
+wwebjs/whatsapp-web.js	22867	Apache-2.0	media_ai	SMS & WhatsApp Gateways	A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app	WhatsApp bots for small businesses
+WhiskeySockets/Baileys	11560	MIT	media_ai	SMS & WhatsApp Gateways	Socket-based TS/JavaScript API for WhatsApp Web	WhatsApp automation SaaS
+evolution-foundation/evolution-api	10060	NOASSERTION	media_ai	SMS & WhatsApp Gateways	Evolution API is an open-source WhatsApp integration API	WhatsApp API reselling for agencies
+devlikeapro/waha	7765	Apache-2.0	media_ai	SMS & WhatsApp Gateways	WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! Multiple engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go), WPP (browser)	WhatsApp HTTP API hosting
+NdoleStudio/httpsms	6292	AGPL-3.0	media_ai	SMS & WhatsApp Gateways	Send and receive SMS messages using your Android phone programmatically via a simple HTTP API with end to end encryption supported.	Android phone as SMS API
+capcom6/android-sms-gateway	5990	Apache-2.0	media_ai	SMS & WhatsApp Gateways	The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.	Low-cost SMS API for emerging markets
+typpo/textbelt	3391	MIT	media_ai	SMS & WhatsApp Gateways	Free API for outgoing SMS	Simple SMS API service
+mautrix/whatsapp	1919	AGPL-3.0	media_ai	SMS & WhatsApp Gateways	A Matrix-WhatsApp puppeting bridge	Unified messaging bridges for teams
+jookies/jasmin	1220	NOASSERTION	media_ai	SMS & WhatsApp Gateways	Jasmin - Open source SMS gateway	SMS aggregator business
+playsms/playsms	894	GPL-3.0	media_ai	SMS & WhatsApp Gateways	playSMS is a web interface for SMS gateways and bulk SMS services	Bulk SMS portal for resellers
+gammu/gammu	596	GPL-2.0	media_ai	SMS & WhatsApp Gateways	Gammu All Mobile Management Utilities	GSM modem SMS solutions
+obsproject/obs-studio	79115	GPL-2.0	media_ai	Screen Recording	OBS Studio - Free and open source software for live streaming and screen recording	Branded streaming setups and plugins / Streaming setup services for gamers
+ShareX/ShareX	40755	GPL-3.0	media_ai	Screen Recording	ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.	Screenshot upload hosting plans
+flameshot-org/flameshot	31443	GPL-3.0	media_ai	Screen Recording	Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:	Enterprise screenshot tooling
+NickeManarin/ScreenToGif	27893	MS-PL	media_ai	Screen Recording	🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.	Tutorial GIF production service
+wulkano/Kap	19418	MIT	media_ai	Screen Recording	An open-source screen recorder built with web technology	Branded screen recorder for teams
+alyssaxuu/screenity	18964	GPL-3.0	media_ai	Screen Recording	The free and privacy-friendly screen recorder with no limits 🎥	Loom-style Chrome recorder SaaS
+asciinema/asciinema	17946	GPL-3.0	media_ai	Screen Recording	Terminal session recorder, streamer and player 📹	Terminal recording hosting
+jaywink/socialhome	379	NOASSERTION	media_ai	Social Media Management	A federated social home	Federated social portfolio
+openai/whisper	112164	MIT	media_ai	Speech-to-Text	Robust Speech Recognition via Large-Scale Weak Supervision	Transcription API for media companies / Captioning service for deaf users
+ggml-org/whisper.cpp	54994	MIT	media_ai	Speech-to-Text	Port of OpenAI's Whisper model in C/C++	On-device transcription SDK for apps
+SYSTRAN/faster-whisper	26562	MIT	media_ai	Speech-to-Text	Faster Whisper transcription with CTranslate2	Low-cost bulk transcription service
+m-bain/whisperX	25137	BSD-2-Clause	media_ai	Speech-to-Text	WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)	Diarized meeting transcripts for legal
+NVIDIA-NeMo/Speech	18713	Apache-2.0	media_ai	Speech-to-Text	A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)	Custom ASR models for domain jargon
+kaldi-asr/kaldi	15510	NOASSERTION	media_ai	Speech-to-Text	kaldi-asr/kaldi is the official location of the Kaldi project.	Low-resource language ASR services
+alphacep/vosk-api	15231	Apache-2.0	media_ai	Speech-to-Text	Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node	Offline speech recognition for call centers / Offline speech recognition for accessibility apps
+speechbrain/speechbrain	11927	Apache-2.0	media_ai	Speech-to-Text	A PyTorch-based Speech Toolkit	Speech analytics consulting
+rishikanthc/Scriberr	3139	MIT	media_ai	Speech-to-Text	Self-hosted AI audio transcription	Private transcription app for journalists
+pluja/whishper	3103	AGPL-3.0	media_ai	Speech-to-Text	Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!	Subtitle generation service for creators
+buildship-ai/rowy	6845	NOASSERTION	media_ai	Spreadsheet Databases	Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.	Firestore spreadsheet UI for startups
+mathesar-foundation/mathesar	5169	GPL-3.0	media_ai	Spreadsheet Databases	An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgres access control.	Postgres spreadsheet UI for nonprofits
+audreyt/ethercalc	3063	NOASSERTION	media_ai	Spreadsheet Databases	Web spreadsheet — no sign-up, no install.	Collaborative spreadsheets for classrooms
+signalapp/Signal-Server	10771	AGPL-3.0	media_ai	Team Chat & Messaging	Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS	Private secure messenger for enterprises / Private secure messaging backend
+stoatchat/stoatchat	3454	NOASSERTION	media_ai	Team Chat & Messaging	The software powering Stoat	Discord alternative for communities
+continuwuity/continuwuity	1164	Apache-2.0	media_ai	Team Chat & Messaging	A community-driven Matrix homeserver	Lightweight Matrix hosting
+RVC-Boss/GPT-SoVITS	64482	MIT	media_ai	Text-to-Speech	1 min voice data can also be used to train a good TTS model! (few shot voice cloning)	Voice cloning studio for creators
+coqui-ai/TTS	46192	MPL-2.0	media_ai	Text-to-Speech	🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production	Voiceover generation for e-learning
+suno-ai/bark	39318	MIT	media_ai	Text-to-Speech	🔊 Text-Prompted Generative Audio Model	Expressive audio generation API
+RVC-Project/Retrieval-based-Voice-Conversion-WebUI	39087	MIT	media_ai	Text-to-Speech	Easily train a good VC model with voice data <= 10 mins!	Voice conversion for music producers
+myshell-ai/OpenVoice	38170	MIT	media_ai	Text-to-Speech	Instant voice cloning by MIT and MyShell. Audio foundation model.	Multilingual voice cloning for dubbing
+resemble-ai/chatterbox	27641	MIT	media_ai	Text-to-Speech	SoTA open-source TTS	Branded voice agents for businesses
+SWivid/F5-TTS	15530	MIT	media_ai	Text-to-Speech	Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"	Zero-shot voice cloning SaaS
+neonbjb/tortoise-tts	14895	Apache-2.0	media_ai	Text-to-Speech	A multi-voice TTS system trained with an emphasis on quality	Audiobook narration service
+hexgrad/kokoro	9951	Apache-2.0	media_ai	Text-to-Speech	https://hf.co/hexgrad/Kokoro-82M	Cheap high-quality TTS API
+yl4579/StyleTTS2	6383	MIT	media_ai	Text-to-Speech	StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models	Premium voice packs for games
+OHF-Voice/piper1-gpl	6196	GPL-3.0	media_ai	Text-to-Speech	Fast and local neural text-to-speech engine	Offline TTS for kiosks and IVR
+facebookresearch/faiss	41263	MIT	media_ai	Vector Databases	A library for efficient similarity search and clustering of dense vectors.	Similarity search consulting
+chroma-core/chroma	29650	Apache-2.0	media_ai	Vector Databases	Search infrastructure for AI	Embedded vector store hosting for startups
+pgvector/pgvector	23611	NOASSERTION	media_ai	Vector Databases	Open-source vector similarity search for Postgres	Managed Postgres with vector search
+lancedb/lancedb	11857	Apache-2.0	media_ai	Vector Databases	Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.	Multimodal search for media archives
+marqo-ai/marqo	5024	Apache-2.0	media_ai	Vector Databases	Ecommerce Search and Discovery - marqo.ai	Ecommerce visual search service
+vdaas/vald	1736	Apache-2.0	media_ai	Vector Databases	Vald.  A Highly Scalable Distributed Vector Search Engine	Distributed ANN search for ad-tech
+meetecho/janus-gateway	9201	GPL-3.0	media_ai	Video Conferencing	Janus WebRTC Server	WebRTC gateway consulting and hosting
+versatica/mediasoup	7416	ISC	media_ai	Video Conferencing	Cutting Edge WebRTC Video Conferencing	Custom video conferencing builds for agencies
+remotion-dev/remotion	71440	NOASSERTION	media_ai	Video Editing	🎥      Make videos programmatically with React	Programmatic video generation SaaS
+FFmpeg/FFmpeg	66687	NOASSERTION	media_ai	Video Editing	Mirror of https://git.ffmpeg.org/ffmpeg.git	Video transcoding API service
+mifi/lossless-cut	45787	GPL-2.0	media_ai	Video Editing	The swiss army knife of lossless video/audio editing	Quick clipping tool licenses
+HandBrake/HandBrake	24911	NOASSERTION	media_ai	Video Editing	HandBrake's development repository 	Batch encoding services
+motion-canvas/motion-canvas	19717	MIT	media_ai	Video Editing	Visualize Your Ideas With Code	Animated explainer video agency
+mltframework/shotcut	15628	GPL-3.0	media_ai	Video Editing	cross-platform (Qt), open-source (GPLv3) video editor	Video editing courses and templates
+olive-editor/olive	9149	GPL-3.0	media_ai	Video Editing	Free open-source non-linear video editor	Pro editing workstation builds
+OpenShot/openshot-qt	6753	NOASSERTION	media_ai	Video Editing	OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.	Simple editor for schools
+KDE/kdenlive	6063	GPL-3.0	media_ai	Video Editing	Free and open source video editor, based on MLT Framework and KDE Frameworks	Branded editor bundles for creators
+WyattBlue/auto-editor	5802	Unlicense	media_ai	Video Editing	Effort free video editing!	Silence removal service for podcasters
+mifi/editly	5590	MIT	media_ai	Video Editing	Slick, declarative command line video editing & API	Automated slideshow video service
+HaveAGitGat/Tdarr	4388	NOASSERTION	media_ai	Video Editing	Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)	Distributed transcoding for media libraries
+iv-org/invidious	25894	AGPL-3.0	media_ai	Video Hosting	Invidious is an alternative front-end to YouTube	Privacy-focused YouTube frontend hosting with subscription tiers
+TeamPiped/Piped	10317	AGPL-3.0	media_ai	Video Hosting	An alternative privacy-friendly YouTube frontend which is efficient by design.	Hosted ad-free YouTube proxy with premium tier
+streamaserver/streama	9820	MIT	media_ai	Video Hosting	Self hosted streaming media server. https://docs.streama-project.com/	Private Netflix-style portal for indie film libraries
+MacWarrior/clipbucket-v5	183	NOASSERTION	media_ai	Video Hosting	Open source video hosting with PHP	Niche video community SaaS with ads and memberships

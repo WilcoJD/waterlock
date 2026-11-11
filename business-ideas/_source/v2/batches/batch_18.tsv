@@ -1,0 +1,380 @@
+alchemy-fr/Phraseanet	276	NOASSERTION	media_ai	Digital Asset Management	Digital Asset Management PHP app	
+Techiebutler/freeframe	249	MIT	media_ai	Digital Asset Management	Open source alternative for frame.io	
+humanmade/asset-manager-framework	189	GPL-2.0	media_ai	Digital Asset Management	A framework for overriding the WordPress media library with an external asset provider, such as a DAM	
+ventic/ventic	182	MIT	media_ai	Digital Asset Management	A media library and BitTorrent player for desktop and Android - phone, tablet and TV. Streams torrents into a real embedded mpv window. Built with Nuxt and Tauri. Ships with no sources.	
+classic-o/nova-media-library	152	MIT	media_ai	Digital Asset Management	Media Library for admin panel "Laravel Nova"	
+awslabs/visual-asset-management-system	147	Apache-2.0	media_ai	Digital Asset Management	Visual Asset Management System (VAMS) is a purpose-built, AWS native accelerator solution for the management and distribution of traditional to specialized visual assets used in physical AI and spatial computing. 	
+sukov/CachingPlayerItem	126	MIT	media_ai	Digital Asset Management	An AVPlayerItem subclass that lets you stream and cache media content on iOS, macOS, tvOS and visionOS.	
+microsoft/markitdown	194275	MIT	media_ai	E-book & PDF Tools	Python tool for converting files and office documents to Markdown.	
+justjavac/free-programming-books-zh_CN	119517	GPL-3.0	media_ai	E-book & PDF Tools	:books: 免费的计算机编程类中文书籍，欢迎投稿	
+PDFMathTranslate/PDFMathTranslate	38273	AGPL-3.0	media_ai	E-book & PDF Tools	[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero	
+koodo-reader/koodo-reader	28753	AGPL-3.0	media_ai	E-book & PDF Tools	A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web	
+forthespada/CS-Books	27992	NONE	media_ai	E-book & PDF Tools	🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~	
+firecrawl/pdf-inspector	19927	MIT	media_ai	E-book & PDF Tools	Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.	
+sumatrapdfreader/sumatrapdf	17954	GPL-3.0	media_ai	E-book & PDF Tools	SumatraPDF reader	
+diegomura/react-pdf	16851	MIT	media_ai	E-book & PDF Tools	📄  Create PDF files using React	
+salomonelli/best-resume-ever	16487	MIT	media_ai	E-book & PDF Tools	:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.	
+xournalpp/xournalpp	15640	GPL-2.0	media_ai	E-book & PDF Tools	Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.	
+T8RIN/ImageToolbox	15469	Apache-2.0	media_ai	E-book & PDF Tools	🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options	
+KAYOKG/BibliotecaDev	15289	MIT	media_ai	E-book & PDF Tools	📚 Biblioteca de livros essenciais da área da programação.	
+janishar/mit-deep-learning-book-pdf	14302	NONE	media_ai	E-book & PDF Tools	MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville	
+QuestPDF/QuestPDF	14219	NOASSERTION	media_ai	E-book & PDF Tools	QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.	
+gotenberg/gotenberg	13535	MIT	media_ai	E-book & PDF Tools	A developer-friendly API for converting many document formats into PDF files, and more!	
+0voice/expert_readed_books	12828	NONE	media_ai	E-book & PDF Tools	2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍	
+tw93/Kami	12355	MIT	media_ai	E-book & PDF Tools	👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.	
+windingwind/zotero-pdf-translate	12241	AGPL-3.0	media_ai	E-book & PDF Tools	Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.	
+hmemcpy/milewski-ctfp-pdf	11709	NOASSERTION	media_ai	E-book & PDF Tools	Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source	
+wojtekmaj/react-pdf	11198	MIT	media_ai	E-book & PDF Tools	Display PDFs in your React app as easily as if they were images.	
+jsvine/pdfplumber	10885	MIT	media_ai	E-book & PDF Tools	Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.	
+py-pdf/pypdf	10291	NOASSERTION	media_ai	E-book & PDF Tools	A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files	
+tpn/pdfs	10242	NONE	media_ai	E-book & PDF Tools	Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) — browse & search it at tpn.github.io/pdfs	
+ahrm/sioyek	9986	GPL-3.0	media_ai	E-book & PDF Tools	Sioyek is a PDF viewer with a focus on textbooks and research papers	
+pdfcpu/pdfcpu	8897	Apache-2.0	media_ai	E-book & PDF Tools	PDF tooling for Go and the command line.	
+pathwaycom/pathway	62012	NOASSERTION	media_ai	ETL & ELT	Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.	
+turbot/steampipe	7997	AGPL-3.0	media_ai	ETL & ELT	Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.	
+cloudquery/cloudquery	6552	MPL-2.0	media_ai	ETL & ELT	Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.	
+apache/flink-cdc	6495	Apache-2.0	media_ai	ETL & ELT	Flink CDC is a streaming data integration tool	
+Eventual-Inc/Daft	5831	Apache-2.0	media_ai	ETL & ELT	High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale	
+ucbepic/docetl	4212	MIT	media_ai	ETL & ELT	A system for agentic LLM-powered data processing and ETL	
+SQLMesh/sqlmesh	3347	Apache-2.0	media_ai	ETL & ELT	Scalable and efficient data transformation framework - backwards compatible with dbt.	
+PeerDB-io/peerdb	3315	AGPL-3.0	media_ai	ETL & ELT	Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage	
+apache/devlake	3191	Apache-2.0	media_ai	ETL & ELT	Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.	
+blockchain-etl/ethereum-etl	3131	MIT	media_ai	ETL & ELT	Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ	
+timeplus-io/proton	2281	Apache-2.0	media_ai	ETL & ELT	The fastest unified streaming SQL Engine in a single C++ binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute stateful context from streams, logs, metrics, events, and CDC.	
+mara/mara-pipelines	2091	MIT	media_ai	ETL & ELT	A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow	
+data-engineering-community/data-engineering-wiki	2058	CC0-1.0	media_ai	ETL & ELT	The best place to learn data engineering. Built and maintained by the data engineering community.	
+yobix-ai/extractous	1787	Apache-2.0	media_ai	ETL & ELT	Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.	
+thbar/kiba	1776	NOASSERTION	media_ai	ETL & ELT	Data processing & ETL framework for Ruby	
+hiyouga/LlamaFactory	75925	Apache-2.0	media_ai	Fine-Tuning & Training	Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)	
+huggingface/peft	21876	Apache-2.0	media_ai	Fine-Tuning & Training	🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.	
+axolotl-ai-cloud/axolotl	12671	Apache-2.0	media_ai	Fine-Tuning & Training	Go ahead and axolotl questions	
+ludwig-ai/ludwig	11793	Apache-2.0	media_ai	Fine-Tuning & Training	Low-code framework for building custom LLMs, neural networks, and other AI models	
+MakazhanAlpamys/Soup	10275	Apache-2.0	media_ai	Fine-Tuning & Training	Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.	
+oumi-ai/oumi	9429	Apache-2.0	media_ai	Fine-Tuning & Training	Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!	
+Kiln-AI/Kiln	5259	NOASSERTION	media_ai	Fine-Tuning & Training	Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.	
+h2oai/h2o-llmstudio	5193	Apache-2.0	media_ai	Fine-Tuning & Training	H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/	
+LLMBook-zh/LLMBook-zh.github.io	4625	NONE	media_ai	Fine-Tuning & Training	《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣	
+AIDotNet/OpenDeepWiki	3658	MIT	media_ai	Fine-Tuning & Training	OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customi	
+ZhaoJ9014/face.evoLVe	3599	MIT	media_ai	Fine-Tuning & Training	🔥🔥High-Performance Face Recognition Library on PaddlePaddle & PyTorch🔥🔥	
+Nerogar/OneTrainer	3261	AGPL-3.0	media_ai	Fine-Tuning & Training	OneTrainer is a one-stop solution for all your Diffusion training needs.	
+dbiir/UER-py	3116	Apache-2.0	media_ai	Fine-Tuning & Training	Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo	
+ashishpatel26/LLM-Finetuning	2996	NONE	media_ai	Fine-Tuning & Training	LLM Finetuning with peft	
+roboflow/maestro	2695	Apache-2.0	media_ai	Fine-Tuning & Training	streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL	
+stochasticai/xTuring	2679	Apache-2.0	media_ai	Fine-Tuning & Training	Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6	
+pykeio/ort	2610	Apache-2.0	media_ai	Fine-Tuning & Training	Fast ML inference & training for ONNX models in Rust	
+AI-Hypercomputer/maxtext	2458	Apache-2.0	media_ai	Fine-Tuning & Training	A simple, performant, and scalable Jax LLM!	
+adithya-s-k/AI-Engineering.academy	2387	MIT	media_ai	Fine-Tuning & Training	Mastering Applied AI, One Concept at a Time 	
+dstackai/dstack	2306	MPL-2.0	media_ai	Fine-Tuning & Training	A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.	
+NVIDIA-NeMo/Nemotron	2304	Apache-2.0	media_ai	Fine-Tuning & Training	Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models	
+eosphoros-ai/DB-GPT-Hub	2016	MIT	media_ai	Fine-Tuning & Training	A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL	
+tonsky/FiraCode	82178	OFL-1.1	media_ai	Fonts & Typography	Free monospaced font with programming ligatures	
+subframe7536/maple-font	29694	OFL-1.1	media_ai	Fonts & Typography	Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项	
+lxgw/LxgwWenKai	26855	OFL-1.1	media_ai	Fonts & Typography	An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  	
+be5invis/Iosevka	23214	OFL-1.1	media_ai	Fonts & Typography	Versatile typeface for code, from code.	
+you-dont-need/You-Dont-Need-JavaScript	20577	GPL-3.0	media_ai	Fonts & Typography	CSS is powerful, you can do a lot of things without JS.	
+rsms/inter	20043	OFL-1.1	media_ai	Fonts & Typography	The Inter font family	
+githubnext/monaspace	19802	OFL-1.1	media_ai	Fonts & Typography	An innovative superfamily of fonts for code	
+adobe-fonts/source-han-sans	17450	NOASSERTION	media_ai	Fonts & Typography	Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕	
+faressoft/terminalizer	16172	MIT	media_ai	Fonts & Typography	🦄 Record your terminal and generate animated gif images or share a web player	
+atelier-anchor/smiley-sans	14959	OFL-1.1	media_ai	Fonts & Typography	得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体	
+JetBrains/JetBrainsMono	13153	OFL-1.1	media_ai	Fonts & Typography	JetBrains Mono – the free and open-source typeface for developers	
+be5invis/Sarasa-Gothic	12983	NOASSERTION	media_ai	Fonts & Typography	Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕	
+snowie2000/mactype	12004	GPL-3.0	media_ai	Fonts & Typography	Better font rendering for Windows.	
+devicons/devicon	11871	MIT	media_ai	Fonts & Typography	Set of icons representing programming languages, designing & development tools	
+IBM/plex	11753	OFL-1.1	media_ai	Fonts & Typography	The package of IBM’s typeface, IBM Plex.	
+IdreesInc/Monocraft	11468	OFL-1.1	media_ai	Fonts & Typography	A monospaced programming font inspired by the Minecraft typeface	
+adobe-fonts/source-han-serif	9825	NOASSERTION	media_ai	Fonts & Typography	Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조	
+twbs/icons	8174	MIT	media_ai	Fonts & Typography	Official open source SVG icon library for Bootstrap.	
+belluzj/fantasque-sans	7473	OFL-1.1	media_ai	Fonts & Typography	A font family with a great monospaced variant for programmers.	
+ubuwaits/beautiful-web-type	7346	MIT	media_ai	Fonts & Typography	In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com	
+olikraus/u8g2	6748	NOASSERTION	media_ai	Fonts & Typography	U8glib library for monochrome displays, version 2 	
+wordshub/free-font	6513	NONE	media_ai	Fonts & Typography	大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...	
+fontsource/fontsource	6269	MIT	media_ai	Fonts & Typography	Self-host Open Source fonts in neatly bundled NPM packages.	
+ecomfe/fontmin	6221	MIT	media_ai	Fonts & Typography	Minify font seamlessly	
+opentypejs/opentype.js	5043	MIT	media_ai	Fonts & Typography	Read and write OpenType fonts using JavaScript.	
+meta/prophet	20475	MIT	media_ai	Forecasting & Time Series	Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.	
+NVIDIA/DeepLearningExamples	14869	NONE	media_ai	Forecasting & Time Series	State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.	
+statsmodels/statsmodels	11746	BSD-3-Clause	media_ai	Forecasting & Time Series	Statsmodels: statistical modeling and econometrics in Python	
+sktime/sktime	10091	BSD-3-Clause	media_ai	Forecasting & Time Series	A unified framework for machine learning with time series	
+unit8co/darts	9578	Apache-2.0	media_ai	Forecasting & Time Series	A python library for user-friendly forecasting and anomaly detection on time series.	
+zhouhaoyi/Informer2020	6541	Apache-2.0	media_ai	Forecasting & Time Series	The GitHub repository for the paper "Informer" accepted by AAAI 2021.	
+amazon-science/chronos-forecasting	6270	Apache-2.0	media_ai	Forecasting & Time Series	Chronos: Pretrained Models for Time Series Forecasting	
+timeseriesAI/tsai	6141	Apache-2.0	media_ai	Forecasting & Time Series	Time series Timeseries Deep Learning Machine Learning Python Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai	
+awslabs/gluonts	5259	Apache-2.0	media_ai	Forecasting & Time Series	Probabilistic time series modeling in Python	
+sktime/pytorch-forecasting	5011	MIT	media_ai	Forecasting & Time Series	Time series forecasting with PyTorch	
+Nixtla/statsforecast	4968	Apache-2.0	media_ai	Forecasting & Time Series	Lightning ⚡️ fast forecasting with statistical and econometric models.	
+ourownstory/neural_prophet	4315	MIT	media_ai	Forecasting & Time Series	NeuralProphet: A simple forecasting package	
+Nixtla/neuralforecast	4310	Apache-2.0	media_ai	Forecasting & Time Series	Scalable and user friendly neural :brain: forecasting algorithms.	
+Nixtla/nixtla	4043	NOASSERTION	media_ai	Forecasting & Time Series	TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as ret	
+cure-lab/LTSF-Linear	2530	Apache-2.0	media_ai	Forecasting & Time Series	[AAAI-23 Oral] Official implementation of the paper "Are Transformers Effective for Time Series Forecasting?"	
+AIStream-Peelout/flow-forecast	2308	GPL-3.0	media_ai	Forecasting & Time Series	Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).	
+WenjieDu/PyPOTS	2093	BSD-3-Clause	media_ai	Forecasting & Time Series	A Python toolkit/library for reality-centric machine/deep learning & data mining on partially-observed time series, with 50+ SOTA neural network models for scientific analysis tasks (imputation, classification, clustering, forecasting, anomaly detection, clean	
+uber/orbit	2083	NOASSERTION	media_ai	Forecasting & Time Series	A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.	
+Oldcircle/geo-sleuth	6401	MIT	media_ai	Geospatial AI & Satellite	An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.	
+torchgeo/torchgeo	4237	MIT	media_ai	Geospatial AI & Satellite	TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data	
+mapbox/robosat	2068	MIT	media_ai	Geospatial AI & Satellite	 Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds	
+nasa-gibs/worldview	1959	NOASSERTION	media_ai	Geospatial AI & Satellite	Interactive interface for browsing global, full-resolution satellite imagery	
+satellite-image-deep-learning/datasets	1221	NONE	media_ai	Geospatial AI & Satellite	Datasets for deep learning with satellite & aerial imagery	
+radiantearth/stac-spec	941	Apache-2.0	media_ai	Geospatial AI & Satellite	SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable	
+sentinel-hub/sentinelhub-py	915	MIT	media_ai	Geospatial AI & Satellite	Download and process satellite imagery in Python using Sentinel Hub services.	
+Belluxx/Aleph	839	MIT	media_ai	Geospatial AI & Satellite	Give satellite imagery, terrain data, buildings, streetview photos to your LLM	
+ucam-eo/tessera	775	MIT	media_ai	Geospatial AI & Satellite	[CVPR26] TESSERA is a foundation model that can process time-series satellite imagery for applications such as land classification and canopy height prediction. Developed at the University of Cambridge, it enables efficient extraction of temporal patterns from	
+planetlabs/notebooks	681	Apache-2.0	media_ai	Geospatial AI & Satellite	interactive notebooks from Planet Engineering	
+wgcban/ChangeFormer	630	MIT	media_ai	Geospatial AI & Satellite	[IGARSS'22]: A Transformer-Based Siamese Network for Change Detection	
+rishikksh20/ResUnet	552	NONE	media_ai	Geospatial AI & Satellite	Pytorch implementation of ResUnet and ResUnet ++	
+e-sensing/sits	550	GPL-2.0	media_ai	Geospatial AI & Satellite	Satellite image time series in R	
+GeoscienceAustralia/dea-notebooks	542	Apache-2.0	media_ai	Geospatial AI & Satellite	Open-source Jupyter Notebooks and Python tools for geospatial analysis with Digital Earth Australia, Open Data Cube, and Xarray	
+duy-phamduc68/TrafficLab-3D	505	MIT	media_ai	Geospatial AI & Satellite	Create a digital-twin style traffic visualization using only mp4 CCTV footage and its Google Maps location.	
+Molunerfinn/PicGo	27466	MIT	media_ai	Image Hosting	:rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.	
+RipMeApp/ripme	4141	MIT	media_ai	Image Hosting	Downloads albums from the web in bulk for archive purposes	
+Kuingsmile/PicList	3795	MIT	media_ai	Image Hosting	An image upload and manage tool, base on PicGo	
+Serene-Arc/bulk-downloader-for-reddit	2625	GPL-3.0	media_ai	Image Hosting	Downloads and archives content from reddit	
+Donaldcwl/browser-image-compression	1723	MIT	media_ai	Image Hosting	Image compression in web browser	
+Hello-hao/Tbed	1456	AGPL-3.0	media_ai	Image Hosting	Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。	
+CaramelFur/Picsur	1248	AGPL-3.0	media_ai	Image Hosting	An easy to use, selfhostable image sharing service like Imgur with built in converting	
+Kuingsmile/PicHoro	1021	MIT	media_ai	Image Hosting	一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github	
+stefansundin/rssbox	814	AGPL-3.0	media_ai	Image Hosting	:newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.	
+pluveto/upgit	626	MIT	media_ai	Image Hosting	Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.	
+samayo/bulletproof	398	MIT	media_ai	Image Hosting	Simple and secure image uploader in PHP	
+hauxir/imgpush	359	MIT	media_ai	Image Hosting	Minimalist Self-hosted Image Service for user submitted images in your app 	
+nomad-software/meme	304	MIT	media_ai	Image Hosting	A command line utility for creating memes	
+OttoAllmendinger/gnome-shell-screenshot	266	MIT	media_ai	Image Hosting	Gnome Shell extension for making and uploading screenshots	
+gavvvr/obsidian-imgur-plugin	263	MIT	media_ai	Image Hosting	Pastes images right to imgur.com	
+ColorlibHQ/gentelella	21561	MIT	media_ai	Internal Tool Builders	Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery.	
+satnaing/shadcn-admin	16599	MIT	media_ai	Internal Tool Builders	Admin Dashboard UI built with Shadcn and Vite.	
+coreui/coreui-free-bootstrap-admin-template	12260	MIT	media_ai	Internal Tool Builders	Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development	
+epicmaxco/vuestic-admin	10955	MIT	media_ai	Internal Tool Builders	Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. Maintained by Epicmax (@epicmaxco).	
+coreui/coreui-free-react-admin-template	4968	MIT	media_ai	Internal Tool Builders	Free React Admin & Dashboard Template Built for AI-Assisted Development	
+coreui/coreui-free-vue-admin-template	3409	MIT	media_ai	Internal Tool Builders	Free Vue Admin & Dashboard Template Built for AI-Assisted Development	
+arhamkhnz/next-shadcn-admin-dashboard	3264	MIT	media_ai	Internal Tool Builders	Modern Admin Dashboard Template built with Shadcn UI and Next.js 16	
+mikestefanello/pagoda	2962	MIT	media_ai	Internal Tool Builders	Rapid, easy full-stack web development starter kit and admin panel in Go	
+serenity-is/Serenity	2692	MIT	media_ai	Internal Tool Builders	Business Apps Made Simple with Asp.Net Core MVC / TypeScript	
+TailAdmin/tailadmin-free-tailwind-dashboard-template	2390	MIT	media_ai	Internal Tool Builders	Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements	
+santigarcor/laratrust	2274	MIT	media_ai	Internal Tool Builders	Handle roles and permissions in your Laravel application	
+Aurora-Admin-Panel/deploy	1989	MIT	media_ai	Internal Tool Builders	一个多服务器端口租用管理面板	
+coreui/coreui-free-angular-admin-template	1827	MIT	media_ai	Internal Tool Builders	CoreUI for Angular 22 free admin template based on Bootstrap 5	
+salimi-my/shadcn-ui-sidebar	1797	MIT	media_ai	Internal Tool Builders	A stunning, functional and responsive retractable sidebar for Next.js built on top of shadcn/ui.	
+webcrumbs-community/webcrumbs	1790	AGPL-3.0	media_ai	Internal Tool Builders	Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!	
+fanmingming/live	28792	GPL-3.0	media_ai	Internet Radio	✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕	
+wenzhixin/bootstrap-table	11813	MIT	media_ai	Internet Radio	An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)	
+x-extends/vxe-table	8631	MIT	media_ai	Internet Radio	vxe table 支持 vue2, vue3 的表格解决方案	
+BruceDevices/firmware	7168	AGPL-3.0	media_ai	Internet Radio	Predatory ESP32 Firmware	
+fulldecent/system-bus-radio	6729	MIT	media_ai	Internet Radio	Transmits AM radio on computers without radio transmitting hardware.	
+geo-tp/ESP32-Bit-Pirate	6350	MIT	media_ai	Internet Radio	A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 	
+gnuradio/gnuradio	6330	GPL-3.0	media_ai	Internet Radio	GNU Radio – the Free and Open Software Radio Ecosystem	
+portapack-mayhem/mayhem-firmware	5523	GPL-3.0	media_ai	Internet Radio	The firmware for the HackRF+PortaPack H1/H2/H4/H4M	
+sgoudelis/ground-station	4884	GPL-3.0	media_ai	Internet Radio	Browser-based ground station suite for celestial body, mission and satellite tracking, SDR reception, hardware control, and telemetry decoding	
+owntone/owntone-server	2587	GPL-2.0	media_ai	Internet Radio	Audio server that can play to AirPlay 1+2 speakers (multiroom), Chromecast and locally. Supports Spotify, internet radio and many file formats. Also MPD server, iTunes DAAP, smart playlists, Apple Remote and much more.	
+cjcliffe/CubicSDR	2302	GPL-2.0	media_ai	Internet Radio	Cross-Platform Software-Defined Radio Application	
+greatscottgadgets/ubertooth	2156	GPL-2.0	media_ai	Internet Radio	Software, firmware, and hardware designs for Ubertooth	
+meshtastic/Meshtastic-Android	1915	GPL-3.0	media_ai	Internet Radio	Android application for Meshtastic	
+rt-bishop/Look4Sat	1535	GPL-3.0	media_ai	Internet Radio	Satellite tracker and pass predictor for Android, inspired by Gpredict	
+xmikos/qspectrumanalyzer	1463	GPL-3.0	media_ai	Internet Radio	Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)	
+QuantumNous/new-api	51534	AGPL-3.0	media_ai	LLM Gateways & Observability	Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.	
+coaidev/coai	9343	Apache-2.0	media_ai	LLM Gateways & Observability	🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Cost Management, Chat Share, Cloud Sync, Credit/Subscription B	
+bestruirui/octopus	2742	AGPL-3.0	media_ai	LLM Gateways & Observability	One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关	
+theopenco/llmgateway	1729	NOASSERTION	media_ai	LLM Gateways & Observability	Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.	
+Paritok-official/paritok-4b-v1	1443	Apache-2.0	media_ai	LLM Gateways & Observability	Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cu	
+ENTERPILOT/GoModel	1309	MIT	media_ai	LLM Gateways & Observability	AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative with observability, guardrails, streaming, cost tracking, inte	
+mozilla-ai/otari	865	Apache-2.0	media_ai	LLM Gateways & Observability	Open-source AI gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.	
+zexadev/gemini-web2api-go	811	MIT	media_ai	LLM Gateways & Observability	Gemini web → OpenAI-compatible + native Gemini API, self-hosted, no API key. Gemini 4 Argon from a paid account cookie, strict_model (429 instead of a silent downgrade), cookie pool with auto-renewal, proxy pool, admin panel, image & video generation, single G	
+vllora/vllora	810	NOASSERTION	media_ai	LLM Gateways & Observability	Debug your AI agents	
+ThinkWatchProject/ThinkWatch-Lite	726	MIT	media_ai	LLM Gateways & Observability	Local gateway for Claude Code, Codex and other AI clients on macOS, Windows and Linux: switch upstreams without touching clients, keep API keys from relays, cut off malicious tool calls, trace every request.	
+NadirRouter/NadirClaw	662	NOASSERTION	media_ai	LLM Gateways & Observability	Source-available LLM router and AI cost optimizer. Routes simple prompts to cheap or local models and complex ones to premium models, automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor and OpenClaw. Self-hosted, no middleman.	
+apache/casbin-gateway	647	Apache-2.0	media_ai	LLM Gateways & Observability	See what every AI coding agent on your machine is doing, and whether the API behind it is the one you paid for. Claude Code, Codex, Cursor, Gemini CLI and more: one endpoint for 44 model vendors, A–F API authenticity grading, per-agent permissions, usage and p	
+Fast-Editor/Lynkr	639	Apache-2.0	media_ai	LLM Gateways & Observability	Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.	
+respanai/respan-gateway	595	Apache-2.0	media_ai	LLM Gateways & Observability	Open-source LLM gateway in Rust. One endpoint for OpenAI, Anthropic, Gemini and every other vendor. Any SDK, any model, any tool.	
+higress-group/HiRoute	422	Apache-2.0	media_ai	LLM Gateways & Observability	Make Codex and Claude Code subscriptions go further: a local model router that gives routine agent work to economical models and keeps your strongest model for the hard parts.	
+liguodongiot/llm-action	25261	Apache-2.0	media_ai	LLM Serving & Inference	本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）	
+Lightning-AI/litgpt	13747	Apache-2.0	media_ai	LLM Serving & Inference	20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.	
+bentoml/OpenLLM	12586	Apache-2.0	media_ai	LLM Serving & Inference	Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.	
+FareedKhan-dev/kimi-k3-in-c	11128	Apache-2.0	media_ai	LLM Serving & Inference	A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.	
+openvinotoolkit/openvino	11127	Apache-2.0	media_ai	LLM Serving & Inference	OpenVINO™ is an open source toolkit for optimizing and deploying AI inference	
+Tiiny-AI/PowerInfer	9872	MIT	media_ai	LLM Serving & Inference	High-speed Large Language Model Serving for Local Deployment	
+ai-dynamo/dynamo	8453	NOASSERTION	media_ai	LLM Serving & Inference	A Datacenter Scale Distributed Inference Serving Framework	
+InternLM/lmdeploy	8135	Apache-2.0	media_ai	LLM Serving & Inference	LMDeploy is a toolkit for compressing, deploying, and serving LLMs.	
+algorithmicsuperintelligence/openevolve	7727	Apache-2.0	media_ai	LLM Serving & Inference	Open-source implementation of AlphaEvolve	
+bojieli/ai-infra-book	7368	Apache-2.0	media_ai	LLM Serving & Inference	《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验	
+drumih/turbo-fieldfare	7302	Apache-2.0	media_ai	LLM Serving & Inference	Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook	
+katanemo/plano	7110	Apache-2.0	media_ai	LLM Serving & Inference	Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.	
+flashinfer-ai/flashinfer	6870	Apache-2.0	media_ai	LLM Serving & Inference	FlashInfer: Kernel Library for LLM Serving	
+cactus-compute/engine	6187	NOASSERTION	media_ai	LLM Serving & Inference	2bit quants, kernels and runtime for consumer devices. 	
+lemonade-sdk/lemonade	6135	Apache-2.0	media_ai	LLM Serving & Inference	Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk	
+Michael-A-Kuykendall/shimmy	6012	Apache-2.0	media_ai	LLM Serving & Inference	⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.	
+gpustack/gpustack	5989	Apache-2.0	media_ai	LLM Serving & Inference	A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.	
+superduper-io/superduper	5330	Apache-2.0	media_ai	LLM Serving & Inference	Superduper: End-to-end framework for building custom AI applications and agents.	
+FellouAI/eko	4963	MIT	media_ai	LLM Serving & Inference	Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai	
+ruvnet/RuVector	4672	MIT	media_ai	LLM Serving & Inference	RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust.	
+NVIDIA/GenerativeAIExamples	4224	Apache-2.0	media_ai	LLM Serving & Inference	Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.	
+raullenchai/Rapid-MLX	4108	NOASSERTION	media_ai	LLM Serving & Inference	Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights.	
+b4rtaz/distributed-llama	3132	MIT	media_ai	LLM Serving & Inference	Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.	
+spiceai/spiceai	3130	Apache-2.0	media_ai	LLM Serving & Inference	Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.	
+FasterDecoding/Medusa	2774	Apache-2.0	media_ai	LLM Serving & Inference	Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads	
+begeekmyfriend/yasea	4943	MIT	media_ai	Live Streaming	RTMP live streaming client for Android	
+ihmily/StreamCap	4400	Apache-2.0	media_ai	Live Streaming	Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码	
+Haivision/srt	3626	MPL-2.0	media_ai	Live Streaming	Secure, Reliable, Transport	
+Red5/red5-server	3415	Apache-2.0	media_ai	Live Streaming	Red5 Server core	
+winshining/nginx-http-flv-module	2926	BSD-2-Clause	media_ai	Live Streaming	A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache, VHosts (one IP for multi domain names) and JSON style statistics are supported now.	
+alfg/docker-nginx-rtmp	1108	MIT	media_ai	Live Streaming	🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.	
+illuspas/nginx-live-win32	1060	NONE	media_ai	Live Streaming	nginx-live-module Windows builds. 	
+HTWMedia/HTV	824	Apache-2.0	media_ai	Live Streaming	📺 免费无广告的电视直播 App｜央视/卫视/地方台｜手机与电视盒子通用｜Free IPTV live TV player for Android & Android TV	
+cyber-xiaoya/cyber-xiaoya-live	786	AGPL-3.0	media_ai	Live Streaming	赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）	
+streamlinevideo/streamline	784	MIT	media_ai	Live Streaming	A reference system for end to end live streaming video. Capture, encode, package, uplink, origin, CDN, and player. 	
+bbc/brave	693	Apache-2.0	media_ai	Live Streaming	Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud	
+superuser404notfound/AetherEngine	391	NOASSERTION	media_ai	Live Streaming	Media player engine for iOS, tvOS, macOS and visionOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode, live TV with DVR timeshift and hardware deinterlace, Dolby Atmos passthrough, lossless TrueHD and DTS:X height channels, HDR10 / HDR10+ / Dolby Visio	
+ThibaultBee/StreamPack	375	Apache-2.0	media_ai	Live Streaming	Multiprotocol (SRT, RTMP and others) live streaming broadcaster libraries for Android	
+MeshLive/meshlive-android	342	GPL-3.0	media_ai	Live Streaming	Encrypted voice and video calls, live audio and video streams between phones over a Bluetooth mesh. No internet needed.	
+josephnhtam/live-streaming-server-net	334	MIT	media_ai	Live Streaming	A .NET implementation of RTMP live streaming server, supporting HTTP-FLV, WebSocket-FLV, HLS, Kubernetes, cloud storage services integration and more.	
+LearningCircuit/local-deep-research	9515	MIT	media_ai	Local AI & Model Runners	 ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.	
+open-multi-agent/open-multi-agent	7047	MIT	media_ai	Local AI & Model Runners	Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.	
+maziyarpanahi/openmed	5784	Apache-2.0	media_ai	Local AI & Model Runners	Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.	
+vinta/pangu.js	4860	MIT	media_ai	Local AI & Model Runners	Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment	
+AienTech/dossier	4780	AGPL-3.0	media_ai	Local AI & Model Runners	A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile.	
+langroid/langroid	4127	MIT	media_ai	Local AI & Model Runners	Harness LLMs with Multi-Agent Programming	
+nicedreamzapp/claude-code-local	3480	MIT	media_ai	Local AI & Model Runners	Hit your Claude Code usage limit? Keep going free and offline on a local model. Claude Code Local runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home.	
+AtomicBot-ai/atomic-agent	3355	MIT	media_ai	Local AI & Model Runners	Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.	
+xyproto/algernon	3031	BSD-3-Clause	media_ai	Local AI & Model Runners	Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++	
+itayinbarr/little-coder	2719	Apache-2.0	media_ai	Local AI & Model Runners	A harness optimized to smaller LLMs	
+papersgpt/papersgpt-for-zotero	2698	AGPL-3.0	media_ai	Local AI & Model Runners	Professional AI research tool for Zotero: chat with PDFs, whole-library search, Literature Radar, AutoPilot. 30+ LLMs or local models; built-in MCP server.	
+inferstep/ATLAS	2111	AGPL-3.0	media_ai	Local AI & Model Runners	Adaptive Test-time Learning and Autonomous Specialization	
+axoviq-ai/synthadoc	1927	AGPL-3.0	media_ai	Local AI & Model Runners	Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.	
+siddsachar/row-bot	1684	Apache-2.0	media_ai	Local AI & Model Runners	Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud mode	
+Roy3838/Observer	1672	AGPL-3.0	media_ai	Local AI & Model Runners	The agent that monitors anything for you. Open-source, running completely locally.	
+xaboy/form-create	7118	MIT	media_ai	Low-Code App Builders	:fire::fire::fire: 强大的低代码动态表单组件，通过 JSON 数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。	
+blocks/blocks	5098	MIT	media_ai	Low-Code App Builders	A JSX-based page builder for creating beautiful websites without writing code	
+imcuttle/mometa	4085	MIT	media_ai	Low-Code App Builders	🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 The coding tools which is visual code editing, auxiliary and Low-code metaprogramming for R&D	
+opentiny/tiny-engine	2785	MIT	media_ai	Low-Code App Builders	TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台	
+xaboy/form-create-designer	2378	MIT	media_ai	Low-Code App Builders	好用的Vue低代码可视化 AI 表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。支持PC端和移动端，目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。	
+cloudtogo/pageplug	2180	Apache-2.0	media_ai	Low-Code App Builders	PagePlug是 Appsmith 的中国化项目，基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的前后端一体低代码Lowcode，项目逻辑主要是在前端的解释器和设计器上	
+jd-opensource/drip-table	1650	MIT	media_ai	Low-Code App Builders	A tiny and powerful enterprise-class solution for building lowcode tables. 轻量、强大的企业级表格可视化搭建解决方案。	
+JackySoft/marsview	1644	Apache-2.0	media_ai	Low-Code App Builders	Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。   Marsview is a low code visualization platform for middle and backend direction, supporting event interaction, interface calling, data linkage, and logical orches	
+nocode-js/sequential-workflow-designer	1484	MIT	media_ai	Low-Code App Builders	Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com	
+mbrg/power-pwn	1266	MIT	media_ai	Low-Code App Builders	An offensive/defense security toolset for discovery, recon and ethical assessment of AI Agents	
+somta/Juggle	1168	GPL-3.0	media_ai	Low-Code App Builders	一个零码 , 低码 , AI的微服务接口编排 & 系统集成的强大编排平台，支持Http , Dubbo , WebService等协议的接口编排，支持通过Groovy , JavaScript , Python , Java等多种脚本语言来增强流程，支持使用MySQL，达梦等多种常见数据源。	
+aizuda/flowlong	834	NOASSERTION	media_ai	Low-Code App Builders	飞龙工作流 FlowLong workflow🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗	
+mfish-qf/mfish-nocode	749	Apache-2.0	media_ai	Low-Code App Builders	摸鱼低代码平台，是一款致力于让开发像摸鱼一样轻松的低代码/无代码平台。首创微服务单体服务一体化架构。基于SpringBoot4、Spring Ai、Vue3等最新前后端技术栈。已用于多个成熟项目，学习和实战两不误。我们希望打破技术门槛，让程序员和非程序员都能快速构建业务系统，提升效率，释放创造力。	
+entropy-cloud/nop-entropy	701	Apache-2.0	media_ai	Low-Code App Builders	Nop Platform 2.0 is a next-generation low-code development platform built from scratch based on the principles of reversible computation, adopting a language-oriented programming paradigm. It includes a suite of fully designed engines such as a GraphQL engine,	
+r3-team/r3	586	NOASSERTION	media_ai	Low-Code App Builders	REI3 - Free and open low code	
+GokuMohandas/Made-With-ML	49951	MIT	media_ai	MLOps	Learn how to develop, deploy and iterate on production-grade ML applications.	
+jina-ai/serve	21849	Apache-2.0	media_ai	MLOps	☁️ Build multimodal AI applications with cloud-native stack	
+stas00/ml-engineering	19679	CC-BY-SA-4.0	media_ai	MLOps	Machine Learning Engineering Open Book	
+microsoft/agent-lightning	18913	MIT	media_ai	MLOps	The absolute trainer to light up AI agents.	
+DataTalksClub/mlops-zoomcamp	15530	NONE	media_ai	MLOps	Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort	
+wandb/wandb	11312	MIT	media_ai	MLOps	The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.	
+aws/amazon-sagemaker-examples	11003	Apache-2.0	media_ai	MLOps	Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 	
+pycaret/pycaret	9857	NOASSERTION	media_ai	MLOps	Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.	
+flyteorg/flyte	7831	Apache-2.0	media_ai	MLOps	Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)	
+lance-format/lance	7266	Apache-2.0	media_ai	MLOps	Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..	
+Giskard-AI/giskard-oss	5947	Apache-2.0	media_ai	MLOps	🐢 Open-Source Evaluation & Testing library for LLM Agents	
+PacktPublishing/LLM-Engineers-Handbook	5422	MIT	media_ai	MLOps	The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices	
+ashleve/lightning-hydra-template	5382	NONE	media_ai	MLOps	PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡	
+tencentmusic/cube-studio	5088	NOASSERTION	media_ai	MLOps	cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddl	
+kubeflow/pipelines	4262	Apache-2.0	media_ai	MLOps	Machine Learning Pipelines for Kubeflow	
+FedML-AI/FedML	4071	Apache-2.0	media_ai	MLOps	FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this library, T	
+deepchecks/deepchecks	4069	NOASSERTION	media_ai	MLOps	Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and models from research to production.	
+polyaxon/polyaxon	3746	Apache-2.0	media_ai	MLOps	AI Infra / AI Orchestration / AI Control Plane	
+superlinked/sie	3476	Apache-2.0	media_ai	MLOps	Open-source inference server and production cluster for all the models your agent needs.	
+GokuMohandas/mlops-course	3415	MIT	media_ai	MLOps	Learn how to design, develop, deploy and iterate on production-grade ML applications.	
+determined-ai/determined	3246	Apache-2.0	media_ai	MLOps	Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.	
+decodingai-magazine/second-brain-ai-assistant-course	3132	MIT	media_ai	MLOps	Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.	
+vllm-project/vllm-ascend	3057	Apache-2.0	media_ai	MLOps	Community maintained hardware plugin for vLLM on Huawei Ascend	
+plexe-ai/plexe	2648	Apache-2.0	media_ai	MLOps	✨ Build a machine learning model from a prompt	
+apache/hamilton	2625	Apache-2.0	media_ai	MLOps	Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.	
+sebastianruder/NLP-progress	22958	MIT	media_ai	Machine Translation	Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.	
+hgmzhn/manga-translator-ui	3216	GPL-3.0	media_ai	Machine Translation	基于manga-image-translator 实现的开源漫画AI翻译桌面工具。支持日、韩、英文漫画自动处理，集成OpenAl、Gemini等多翻译引擎；实现OCR文字检测、原文擦除、AI翻译、图像修复、译文排版完整链路，自带可视化编辑器，支持自定义文本样式，一键部署开箱即用。	
+ogkalu2/comic-translate	3004	Apache-2.0	media_ai	Machine Translation	AI comic and manga translator app/browser extension for automatically translating comics, manga, manhwa, BDs, fumetti, and more in multiple languages and formats (Images, PDF, EPUB, CBR, CBZ etc).	
+NiuTrans/MTBook	2793	NONE	media_ai	Machine Translation	《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models	
+THUNLP-MT/MT-Reading-List	2432	BSD-3-Clause	media_ai	Machine Translation	A machine translation reading list maintained by Tsinghua Natural Language Processing Group	
+allenai/RL4LMs	2400	Apache-2.0	media_ai	Machine Translation	A modular RL library to fine-tune language models to human preferences	
+asyml/texar	2393	Apache-2.0	media_ai	Machine Translation	Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/	
+rsennrich/subword-nmt	2280	MIT	media_ai	Machine Translation	Unsupervised Word Segmentation for Neural Machine Translation and Text Generation	
+bilibili/Index-Translate	1968	Apache-2.0	media_ai	Machine Translation	A Multilingual, Multimodal Translation Model Family	
+Tencent/TurboTransformers	1553	NOASSERTION	media_ai	Machine Translation	a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.	
+OpenNMT/OpenNMT-tf	1484	MIT	media_ai	Machine Translation	Neural machine translation and sequence learning using TensorFlow	
+Maluuba/nlg-eval	1392	NOASSERTION	media_ai	Machine Translation	Evaluation code for various unsupervised automated metrics for Natural Language Generation.	
+awslabs/sockeye	1214	Apache-2.0	media_ai	Machine Translation	Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch	
+translate-tools/linguist	1083	BSD-3-Clause	media_ai	Machine Translation	Translate web pages, highlighted text, Netflix subtitles, private messages, speak the translated text, and save important translations to your personal dictionary to learn words even offline	
+Helsinki-NLP/Opus-MT	873	MIT	media_ai	Machine Translation	Open neural machine translation models and web services	
+yt-dlp/yt-dlp	205945	Unlicense	media_ai	Media Download & Conversion	A feature-rich command-line audio/video downloader	
+JunkFood02/Seal	30423	GPL-3.0	media_ai	Media Download & Conversion	🦭 Video/Audio Downloader for Android, based on yt-dlp	
+ArchiveBox/ArchiveBox	28973	MIT	media_ai	Media Download & Conversion	🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...	
+alexta69/metube	15210	AGPL-3.0	media_ai	Media Download & Conversion	Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)	
+deniscerri/ytdlnis	11005	GPL-3.0	media_ai	Media Download & Conversion	Full-featured audio/video downloader for Android using yt-dlp	
+aandrew-me/ytDownloader	10592	GPL-3.0	media_ai	Media Download & Conversion	Desktop app to download audio/video from hundreds of sites	
+jely2002/youtube-dl-gui	9667	AGPL-3.0	media_ai	Media Download & Conversion	Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.	
+NickvisionApps/Parabolic	7562	MIT	media_ai	Media Download & Conversion	Download web video and audio	
+kieraneglin/pinchflat	5444	AGPL-3.0	media_ai	Media Download & Conversion	Your next YouTube media manager	
+oop7/YTSage	4703	MIT	media_ai	Media Download & Conversion	Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponsorBlock, and view video metadata. Built with yt-dlp for reliable performance.	
+deepjyoti30/ytmdl	3553	MIT	media_ai	Media Download & Conversion	A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.	
+CharlesPikachu/videodl	3218	NOASSERTION	media_ai	Media Download & Conversion	Videodl: A lightweight video downloader written in pure python. (轻量级视频下载器，优先高清无水印，支持抖音，快手，小红书，B站，TikTok，YouTube，FIFA+，优酷，腾讯，爱奇艺，1905电影网，乐视，芒果，咪咕，PPTV，搜狐，Facebook，Twitter，新浪微博，今日头条，网易公开课，全民K歌，CCTV央视频，酷狗音乐MV，新片场，知乎，百度贴吧，TED等海量流媒体平台)	
+Tzahi12345/YoutubeDL-Material	3199	MIT	media_ai	Media Download & Conversion	Self-hosted YouTube downloader built on Material Design	
+SkyTubeTeam/SkyTube	2807	GPL-3.0	media_ai	Media Download & Conversion	Copylefted libre / open source YouTube player for Android	
+kannagi0303/yt-dlp-gui	2735	MIT	media_ai	Media Download & Conversion	Windows GUI for yt-dlp	
+Owez/yark	2194	MIT	media_ai	Media Download & Conversion	OSINT for YouTube made simple.	
+vzhd1701/gridplayer	2160	GPL-3.0	media_ai	Media Download & Conversion	Play videos side-by-side	
+illuspas/Node-Media-Server	6241	Apache-2.0	media_ai	Media Servers	A Node.js implementation of RTMP/HTTP-FLV Media Server	
+5rahim/seanime	4312	GPL-3.0	media_ai	Media Servers	Open-source media server with a web interface and desktop app for anime and manga.	
+meeb/tubesync	2808	AGPL-3.0	media_ai	Media Servers	Syncs YouTube channels and playlists to a locally hosted media server	
+stumpapp/stump	2777	MIT	media_ai	Media Servers	A free and open source comics, manga and digital book server with OPDS support	
+UniversalMediaServer/UniversalMediaServer	2669	GPL-2.0	media_ai	Media Servers	A DLNA, UPnP and HTTP(S) Media Server.	
+harlanc/xiu	2338	MIT	media_ai	Media Servers	 A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀	
+Super-Badmen-Viper/NSMusicS	2245	AGPL-3.0	media_ai	Media Servers	NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby	
+midarrlabs/midarr-server	1404	MIT	media_ai	Media Servers	🔥Midarr, the minimal lightweight media server.	
+halcyon-video/halcyon-video	972	GPL-3.0	media_ai	Media Servers	Your Jellyfin or Plex library as a walkable 1990s video rental store, self-hosted	
+ossrs/oryx	892	MIT	media_ai	Media Servers	Oryx (SRS Stack) is an AI-driven, all-in-one, out-of-the-box, and open-source video solution for creating online video services, including live streaming and WebRTC, in the cloud or through self-hosting.	
+jamcalli/Pulsarr	762	AGPL-3.0	media_ai	Media Servers	Pulsarr: Real-time Plex watchlist monitoring and content acquisition tool. Seamlessly sync Plex watchlists with Sonarr and Radarr, featuring intelligent predicated content routing, multi-instance support, Discord, and Apprise notifications. Automate your media	
+kanishka-linux/kawaii-player	714	GPL-3.0	media_ai	Media Servers	Multimedia player, media library manager and portable media server with PC-To-PC casting feature.	
+weebzone/Telegram-Stremio	676	GPL-3.0	media_ai	Media Servers	A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.	
+vscodev/neokikoeru	642	NONE	media_ai	Media Servers	Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.	
+OpenIPC/smolrtsp	512	MIT	media_ai	Media Servers	A lightweight real-time streaming library for IP cameras	
+JuliusBrussee/caveman	118113	Apache-2.0	media_ai	Memes, GIFs & Stickers	🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.	
+Externalizable/bongo.cat	3811	MIT	media_ai	Memes, GIFs & Stickers	Hit the bongos like Bongo Cat!	
+giacomo-b/rust-stakeholder	2589	MIT	media_ai	Memes, GIFs & Stickers	Generate impressive-looking terminal output to look busy when stakeholders walk by	
+RonSijm/ButtFish	1514	NONE	media_ai	Memes, GIFs & Stickers	Effortlessly transmitting Morse Code of chess moves to your butthole 💝	
+sterlingcrispin/nothing-ever-happens	978	CC0-1.0	media_ai	Memes, GIFs & Stickers	Polymarket bot that buys "No" on all non-sports markets. For entertainment only, mostly a meme.	
+Brainrotlang/brainrot	629	GPL-3.0	media_ai	Memes, GIFs & Stickers	Brainrot programming language interpreter	
+nhovongoc0-max/meme-radar	554	AGPL-3.0	media_ai	Memes, GIFs & Stickers	Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具	
+yyh-001/dsh-meme	537	MIT	media_ai	Memes, GIFs & Stickers	DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.	
+mc-meme/mc-meme	436	NOASSERTION	media_ai	Memes, GIFs & Stickers	some meme about Minecraft	
+OhMyMeme/OhMyMeme	383	GPL-3.0	media_ai	Memes, GIFs & Stickers	轻量化跨平台表情包管理系统-桌面端	
+gsantner/memetastic	342	GPL-3.0	media_ai	Memes, GIFs & Stickers	Meme Creator for Android - Simple & Ad-Free	
+CypsscreekChant/robinhood-meme-sniper-bot	303	NONE	media_ai	Memes, GIFs & Stickers	robinhood meme | robinhood sniper | robinhood bot: A modular TypeScript trading bot for new WETH pairs on Robinhood Chain.	
+YogaSakti/imageToSticker	277	NONE	media_ai	Memes, GIFs & Stickers	Whatsapp Bot - sticker creator	
+01Virex/dsh-status-rotator	227	MIT	media_ai	Memes, GIFs & Stickers	将 DSH Web 默认的 Deep Diving.../深度求索中... 换成：1379 条梗 · 打字机特效 · 昼夜渐变 · 弹幕 · 5 套外观主题 · 四个鲸尾动作,14 个词库包可编辑 | Custom phrases, typewriter, day/night gradients, danmaku, themes & whale-tail motion for the DSH status line (1379 phrases, 14 packs).	
+tomwangcn/solana_meme	222	NONE	media_ai	Memes, GIFs & Stickers	Monitor the Solana blockchain for new pump.fun meme coins in real-time using Rust! This tool listens to on-chain events and alerts you whenever a new meme token appears	
+lyswhut/lx-music-desktop	55149	Apache-2.0	media_ai	Music Streaming	一个基于 Electron 的音乐软件	
+team-spotube/spotube	50643	AGPL-3.0	media_ai	Music Streaming	🎧 Open source music streaming app! Available for both desktop & mobile!	
+pear-devs/pear-desktop	33999	MIT	media_ai	Music Streaming	Pear 🍐 is extension for music player	
+qier222/YesPlayMusic	33594	MIT	media_ai	Music Streaming	高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 	
+maotoumao/MusicFree	28315	AGPL-3.0	media_ai	Music Streaming	插件化、定制化、无广告的免费音乐播放器	
+lyswhut/lx-music-mobile	19190	Apache-2.0	media_ai	Music Streaming	一个基于 React native 开发的音乐软件	
+nukeop/nuclear	18890	AGPL-3.0	media_ai	Music Streaming	Streaming music player that finds free music for you	
+algerkong/AlgerMusicPlayer	17321	MIT	media_ai	Music Streaming	一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制	
+MetrolistGroup/Metrolist	14063	GPL-3.0	media_ai	Music Streaming	YouTube Music client for Android	
+listen1/listen1_chrome_extension	12122	MIT	media_ai	Music Streaming	one for all free music in china (chrome extension, also works for firefox)	
+chthollyphile/folia-major	11944	AGPL-3.0	media_ai	Music Streaming	专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics.	
+listen1/listen1_desktop	11447	MIT	media_ai	Music Streaming	one for all free music in china (Windows, Mac, Linux desktop)	
+crmne/spotifast	9859	MIT	media_ai	Music Streaming	Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.	
+maotoumao/MusicFreeDesktop	9117	AGPL-3.0	media_ai	Music Streaming	插件化、定制化、无广告的免费音乐播放器	
+rukamori/ArchiveTune	8046	GPL-3.0	media_ai	Music Streaming	🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!	
+aome510/spotify-player	7305	MIT	media_ai	Music Streaming	A Spotify player in the terminal with full feature parity	
+namidaco/namida	6798	NOASSERTION	media_ai	Music Streaming	A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter	
+ytmdesktop/ytmdesktop	6726	GPL-3.0	media_ai	Music Streaming	A Desktop App for YouTube Music	
+z-huang/InnerTune	6142	GPL-3.0	media_ai	Music Streaming	A Material 3 YouTube Music client for Android	
+mpvnet-player/mpv.net	5548	GPL-2.0	media_ai	Music Streaming	🎞 mpv.net is a media player for Windows with a modern GUI.	
+OuterTune/OuterTune	5447	GPL-3.0	media_ai	Music Streaming	A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune	
+RetroMusicPlayer/RetroMusicPlayer	5390	GPL-3.0	media_ai	Music Streaming	Best Material You Design music player for Android	
+Soundnode/soundnode-app	5287	NOASSERTION	media_ai	Music Streaming	Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.	
+clangen/musikcube	4860	BSD-3-Clause	media_ai	Music Streaming	a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++	
+harmonoid/harmonoid	4806	NOASSERTION	media_ai	Music Streaming	🎵 Beautiful music player for desktop & mobile.	
+huggingface/transformers	168623	Apache-2.0	media_ai	NLP & Text Analytics	🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 	
+microsoft/AI-For-Beginners	70624	MIT	media_ai	NLP & Text Analytics	12 Weeks, 24 Lessons, AI for All!	
+apachecn/ailearning	42625	NOASSERTION	media_ai	NLP & Text Analytics	AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2	
+666ghj/BettaFish	42605	GPL-2.0	media_ai	NLP & Text Analytics	微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。	
+google/langextract	39277	Apache-2.0	media_ai	NLP & Text Analytics	A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.	
+ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code	37668	NONE	media_ai	NLP & Text Analytics	500 AI Machine learning Deep learning Computer vision NLP Projects with code	
+hankcs/HanLP	36537	Apache-2.0	media_ai	NLP & Text Analytics	中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理	
+NandhaKishorM/laya	35161	Apache-2.0	media_ai	NLP & Text Analytics	Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.	
+explosion/spaCy	34034	MIT	media_ai	NLP & Text Analytics	💫 Industrial-strength Natural Language Processing (NLP) in Python	
+stanford-oval/storm	31819	MIT	media_ai	NLP & Text Analytics	An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.	
+microsoft/unilm	22240	MIT	media_ai	NLP & Text Analytics	Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities	

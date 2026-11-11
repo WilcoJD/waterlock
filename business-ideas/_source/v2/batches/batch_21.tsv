@@ -1,0 +1,380 @@
+spite/ShaderEditorExtension	635	MIT	games	Game Dev Tools & Editors	Google Chrome DevTools extension to live edit WebGL GLSL shaders	
+r-lyeh/v1	526	NONE	games	Game Dev Tools & Editors	💎 3D game framework in C, v1.	
+EasyRPG/Editor	435	GPL-3.0	games	Game Dev Tools & Editors	Game editor similar to RPG Maker	
+Rubonnek/dialogue-engine	351	MIT	games	Game Dev Tools & Editors	A powerful yet minimalistic dialogue engine for the Godot Game Engine	
+dfranx/ShaderDebugger	329	MIT	games	Game Dev Tools & Editors	[DEPRECATED] C++ library for debugging HLSL & GLSL shaders	
+openshaders/openshaders	288	MIT	games	Game Dev Tools & Editors	The biggest open-source home for shaders on the web.	
+bradleybauer/music_visualizer	262	NONE	games	Game Dev Tools & Editors	Shader viewer / music visualizer for Windows and Linux	
+skywalker023/sodaverse	245	MIT	games	Game Dev Tools & Editors	🥤🧑🏻‍🚀Code and dataset for our EMNLP 2023 paper - "SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization"	
+TeodorVecerdi/DialogueGraph	215	MIT	games	Game Dev Tools & Editors	Open-source node-based tool for developing branching conversation trees	
+SproutyLabs/SproutyDialogs	178	MIT	games	Game Dev Tools & Editors	A graph-based visual dialogue system plugin for Godot, to create dialogues in your games incredibly easy! 🌱	
+ViciousSquid/Fio	150	MIT	games	Game Dev Tools & Editors	Unified Liminal World Editor, Procedural Engine & Game Creation Toolkit inspired by Radiant and Hammer. Optimised for low-power CPUs.	
+viniciusgerevini/godot-clyde-dialogue	150	MIT	games	Game Dev Tools & Editors	Clyde Dialogue Language Importer and interpreter for Godot.	
+cxreiff/lifecycler	186	MIT	games	Game Jams & Community	Bevy Game Jam #5 submission. Terminal aquarium.	
+Tw1ddle/Sky-Shader	154	MIT	games	Game Jams & Community	:sunny: WebGL sky and sun shader editor	
+lichendust/lena	138	BSD-3-Clause	games	Game Jams & Community	🕹️ A handmade framework for making tiny games	
+MageStudio/Mage	115	NOASSERTION	games	Game Jams & Community	Mage is a 3D Game Engine, built on top of THREE.js. It features Unity-like scripting, AMMO.js powered physics workers, an Infernojs powered UI and a clean API. Under (very) active development.	
+raysan5/raylib-gamejam-template	99	Zlib	games	Game Jams & Community	A template for the raylib gamejams	
+TheSwiftAlps/GameJam	98	MIT	games	Game Jams & Community	App for the Swift Alps Game Jam! 🕹	
+ImXico/cyberpunk	78	MIT	games	Game Jams & Community	⚡️ Power up your libGDX game!	
+czyzby/bialjam17	60	AGPL-3.0	games	Game Jams & Community	:dizzy: The game that won the BialJam'17 event	
+LeHaine/ggo2022	57	MIT	games	Game Jams & Community	A month long game made for GitHub Game Off 2022. 	
+Daivuk/onut	51	MIT	games	Game Jams & Community	onut. A little framework to make games in C++ or JavaScript	
+Calinou/escape-space	47	MIT	games	Game Jams & Community	A top-down game featuring Pong, Breakout and pinball mechanics	
+bcvery1/tilepix	46	MIT	games	Game Jams & Community	Library for combining tiled maps with pixel	
+zesterer/the-bitwise-challenge	42	NONE	games	Game Jams & Community	Can you build a game in just 8 bytes?	
+odditica/0x0D	41	NONE	games	Game Jams & Community	A shoot-em-up made in 48 hours for the 20th gm(48) game jam.	
+JROB774/grow-your-guarden	37	MIT	games	Game Jams & Community	A tower defence game made for My First Game Jam: Winter 2023.	
+Gathin23/cleanyourtv	53683	NOASSERTION	games	Game Launchers & Stores	Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.	
+Wox-launcher/Wox	27610	GPL-3.0	games	Game Launchers & Stores	A cross-platform launcher that simply works	
+jarun/nnn	22112	BSD-2-Clause	games	Game Launchers & Stores	n³ The unorthodox terminal file manager	
+albertlauncher/albert	8007	NOASSERTION	games	Game Launchers & Stores	A fast and flexible keyboard launcher	
+simbasjungles/free-my-tv	6010	MIT	games	Game Launchers & Stores	A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.	
+sayanarijit/xplr	4851	MIT	games	Game Launchers & Stores	A hackable, minimal, fast TUI file explorer	
+oliverschwendener/ueli	4616	MIT	games	Game Launchers & Stores	Cross-Platform Keystroke Launcher	
+Ulauncher/Ulauncher	4536	NOASSERTION	games	Game Launchers & Stores	Feature rich application Launcher for Linux	
+cairoshell/cairoshell	3408	Apache-2.0	games	Game Launchers & Stores	Cairo is a customizable, intuitive desktop environment for Windows.	
+SuperCmdLabs/SuperCmd	3227	MIT	games	Game Launchers & Stores	Powerful MacOS Launcher	
+goatcorp/FFXIVQuickLauncher	3203	GPL-3.0	games	Game Launchers & Stores	Custom launcher for FFXIV	
+ospfranco/sol	3202	MIT	games	Game Launchers & Stores	MacOS launcher & command palette	
+bloxstraplabs/bloxstrap	3197	MIT	games	Game Launchers & Stores	An alternative bootstrapper for Roblox with a bunch of extra features.	
+JackyAndroid/AndroidTVLauncher	3147	GPL-3.0	games	Game Launchers & Stores	This is a leanback style tv launcher(minSdkVersion 17)	
+DSH-APP/DSHA	3142	MIT	games	Game Launchers & Stores	免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢	
+coursier/coursier	2142	Apache-2.0	games	Game Launchers & Stores	Pure Scala Artifact Fetching	
+SirDiabo/GithubLauncher	2067	MIT	games	Game Launchers & Stores	A Launcher that Downloads and Updates Applications from Github Releases	
+OpenRCT2/OpenRCT2	16551	GPL-3.0	games	Game Networking	An open source re-implementation of RollerCoaster Tycoon 2 🎢	
+fogleman/Craft	11139	MIT	games	Game Networking	A simple Minecraft clone written in C using modern OpenGL (shaders).	
+TrinityCore/TrinityCore	10864	GPL-2.0	games	Game Networking	TrinityCore Open Source MMO Framework (master = 12.1.5.70783, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)	
+aspen-cloud/triplit	3118	AGPL-3.0	games	Game Networking	A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).	
+Unity-Technologies/com.unity.multiplayer.samples.coop	2003	NOASSERTION	games	Game Networking	A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.	
+TeamHypersomnia/Hypersomnia	1724	AGPL-3.0	games	Game Networking	Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱	
+LodyAI/Lody	1674	Apache-2.0	games	Game Networking	Share coding agents with your team on phone and desktop	
+zpl-c/librg	1516	BSD-3-Clause	games	Game Networking	🚀  Making multi-player gamedev simpler since 2017	
+drwhut/tabletop-club	1469	MIT	games	Game Networking	An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.	
+opensoldat/opensoldat	1466	MIT	games	Game Networking	OpenSoldat is a unique 2D (side-view) multiplayer action game	
+Reinisch/Darkest-Dungeon-Unity	1398	GPL-3.0	games	Game Networking	Darkest Dungeon port in Unity. Almost completely identical to the original. Platforms: PC/Android.	
+IntQuant/noita_entangled_worlds	1356	Apache-2.0	games	Game Networking	True coop multiplayer mod for Noita.	
+mirror-engine/the-mirror	1301	NOASSERTION	games	Game Networking	V1, Mirror Classic. V2, Mirror Engine: Join Discord for access.	
+RiptideNetworking/Riptide	1296	MIT	games	Game Networking	Lightweight C# networking solution for multiplayer games.	
+Armour/Multiplayer-FPS	1264	MIT	games	Game Networking	:video_game: A multiplayer first person shooter game based on Unity Game Engine	
+thijsvanloef/palworld-server-docker	3216	MIT	games	Game Server Hosting	A Docker Container to easily run a Palworld dedicated server.	
+jammsen/docker-palworld-dedicated-server	1011	MIT	games	Game Server Hosting	Docker container to easily provision and manage Palworld Dedicated Server	
+TheRemote/MinecraftBedrockServer	975	MIT	games	Game Server Hosting	Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup	
+oxylabs/dedicated-isp-proxies	972	NONE	games	Game Server Hosting	Technical overview of dedicated proxies and dedicated ISP proxies, covering features, setup, and use cases for reliable web scraping and automation.	
+Nimdy/Dedicated_Valheim_Server_Script	711	AGPL-3.0	games	Game Server Hosting	Valheim Server Manager .  Supports: ValheimPlus, Bepinex, Multi-world, Multi-Lang, Update, Backup, Restore and more: Built for Linux 	
+WindowsGSM/WindowsGSM	640	MIT	games	Game Server Hosting	🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.	
+Lixeer/ValleyServer	580	Apache-2.0	games	Game Server Hosting	星露谷物语多人游戏专用服务器/Stardew Valley Dedicated Server	
+joedwards32/CS2	545	MIT	games	Game Server Hosting	CS2 Dedicated Server Docker Image	
+mathielo/dst-dedicated-server	341	MIT	games	Game Server Hosting	Don't Starve Together dedicated server guide for all platforms (Linux, Mac, Windows) with Docker. Extensive documentation covering mods installation, server config and performance, world generation and setting up admins.	
+ariadata/proxmox-hetzner	336	MIT	games	Game Server Hosting	Install Proxmox-VE on Hetzner dedicated-server without KVM console	
+pelican/wings	328	MIT	games	Game Server Hosting	Pelican's server control daemon: runs each game server in its own Docker container.	
+MCPI-Revival/minecraft-pi-reborn	308	MIT	games	Game Server Hosting	Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.	
+CM2Walki/steamcmd	287	MIT	games	Game Server Hosting	Minimal image containing Valve's SteamCMD binary: https://hub.docker.com/r/cm2network/steamcmd/	
+deinfreu/hytale-server-container	264	GPL-3.0	games	Game Server Hosting	Lightweight, user-friendly Hytale server Docker container. 📦 Tiny 61.7MB footprint, ARM64 support, secure non-root execution, in-game updates, and comprehensive documentation.	
+TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate	225	MIT	games	Game Server Hosting	Legendary Java Minecraft + Geyser + Floodgate + Paper Dedicated Server for Docker allowing Bedrock players to connect to a Java server	
+moonlight-stream/moonlight-android	7435	GPL-3.0	games	Game Streaming	GameStream client for Android	
+Steam-Headless/docker-steam-headless	4991	GPL-2.0	games	Game Streaming	A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI	
+OpenCloudGaming/OpenNOW	3557	MIT	games	Game Streaming	Custom GeForce Now Client Named OpenNOW	
+chiaki-ng/chiaki-ng	2971	AGPL-3.0	games	Game Streaming	Next-Generation of Chiaki (the open-source remote play client for PlayStation)	
+m4dEngi/RemotePlayWhatever	1939	MIT	games	Game Streaming	Tiny application that lets you force remote play together any game you have in your steam library including non-steam ones.	
+moonlight-stream/moonlight-ios	1714	GPL-3.0	games	Game Streaming	GameStream client for iOS/tvOS	
+XITRIX/Moonlight-Switch	1685	GPL-3.0	games	Game Streaming	Moonlight port for Nintendo Switch	
+moonlight-stream/moonlight-embedded	1669	GPL-3.0	games	Game Streaming	Gamestream client for embedded systems	
+moonlight-stream/Internet-Hosting-Tool	1249	GPL-3.0	games	Game Streaming	Enable Moonlight streaming from your PC over the Internet with no configuration required	
+giongto35/cloud-morph	1185	MIT	games	Game Streaming	Decentralize, Self-host Cloud Gaming/Application	
+hmlendea/gfn-electron	633	GPL-3.0	games	Game Streaming	Linux Desktop client for Nvidia's GeForce NOW game streaming service.	
+moonlight-stream/moonlight-common-c	584	GPL-3.0	games	Game Streaming	Core implementation of Nvidia's GameStream protocol	
+std-microblock/audivis-relay	530	NONE	games	Game Streaming	Stream your microphone from Android/Linux/Mac/Windows/.. to Windows, easily.	
+papi-ux/polaris	500	GPL-3.0	games	Game Streaming	linux game streaming that answers to you.	
+qiin2333/sunshine-control-panel	455	MIT	games	Game Streaming	🎮 Sunshine Foundation 大屏桌面管理器 | Tauri + Vue 3，游戏库管理、米塔AI助手、内存监控、Steam封面搜索、启动助手	
+AhmadHassan-BTed/AuraEconomy	2772	NONE	games	Gamification Engines	Interactive Twitch gamification engine combining C# Streamer.bot pipelines, WAL-mode SQLite, and visual WebSockets overlays.	
+unhappychoice/gittype	1661	MIT	games	Gamification Engines	A CLI code-typing game that turns your source code into typing challenges	
+qcod/laravel-gamify	679	MIT	games	Gamification Engines	Gamify your Laravel app with Reputation Points & Achievements Badges support	
+cjmellor/level-up	675	MIT	games	Gamification Engines	Level-Up is a Laravel package introducing gamification into your applications. Users earn experience points (XP) and levels through interactions, while also unlocking achievements. It promotes engagement, competition, and fun through its dynamic leaderboard fe	
+thepeacemonk/Onigiri	492	GPL-3.0	games	Gamification Engines	Onigiri is an experimental add-on that replaces the standard Anki interface with a modern, highly customizable, and personalized dashboard, completely transforming how Anki looks. 	
+alyssaxuu/carden	491	MIT	games	Gamification Engines	Flashcards with spaced repetition and gamification 🌱	
+ActiDoo/gamification-engine	478	MIT	games	Gamification Engines	gamification-engine (gengine) is a framework for developing gamification features for your application	
+ccpk1/ChoreOps	457	GPL-3.0	games	Gamification Engines	☑️ ChoreOps - A sophisticated household task and routine manager for Home Assistant. Gamify your chores for motivation, or just ensure the trash gets taken out on time.	
+Ayagikei/LifeUp	312	NONE	games	Gamification Engines	Pure and highly customizable gamified to-do and habit-forming app.	
+gstt/laravel-achievements	294	MIT	games	Gamification Engines	Achievements for Laravel 5.3+	
+milosilo/try-harder	248	NONE	games	Gamification Engines	"Try Harder" is a cybersecurity retro game designed to simulate 100 real-world scenarios that will help you prepare for the Offensive Security Certified Professional (OSCP) exam, all while offering an immersive experience and retro aesthetic. Enter Real comman	
+mattjegan/django-gamification	176	NOASSERTION	games	Gamification Engines	The missing Django Gamification Package	
+FMCorz/moodle-block_xp	163	NONE	games	Gamification Engines	A gamification plugin for Moodle allowing learners to gain experience points and level up.	
+OWASP/cornucopia	155	CC-BY-SA-4.0	games	Gamification Engines	The source files and tools needed to build the OWASP Cornucopia decks in various languages	
+IgorAugustoHH/The-Order-1886-PC-Port	154	GPL-2.0	games	Gamification Engines	The first PC port of The Order: 1886, and the one behind most of the bug fixes so far, now widely used by other projects. It runs natively on Windows 10/11: the PS4’s original cinematic camera, NVIDIA DLSS, up to 4K at 120 FPS, 21:9 ultrawide, 23 languages and	
+historicalsource/zork1	2965	MIT	games	Interactive Fiction	Zork I (Microcomputer Version) by Infocom	
+ganelson/inform	1664	Artistic-2.0	games	Interactive Fiction	The core software distribution for the Inform 7 programming language.	
+mhgolkar/Arrow	1372	MIT	games	Interactive Fiction	Game Narrative Design Tool	
+historicalsource/hitchhikersguide	1096	NONE	games	Interactive Fiction	The Hitchhiker's Guide to the Galaxy, by Steve Meretzky and Douglas Adams (Infocom)	
+zenstory-ai/novel-to-game	978	MIT	games	Interactive Fiction	把小说改编成可玩游戏的 AI skill 合集：从文字冒险、策略经营到互动影游，一站式生成策划案、可运行代码与实机验收，适配 Claude Code / Codex 等 ｜ Agent skills for adapting novels into playable games	
+historicalsource/zork3	919	MIT	games	Interactive Fiction	Zork III (Infocom)	
+historicalsource/zork2	844	MIT	games	Interactive Fiction	Zork II (Microcomputer Version) (Infocom)	
+Kirilllive/tuesday-js	701	MIT	games	Interactive Fiction	simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document	
+daha1216/dsh-adult-tension	511	NONE	games	Interactive Fiction	DeepSeek 自带破甲 18+ 互动叙事：活人感 NPC（自主决策/拒绝迎合）、211个世界与上万素材、开局随心定制、世界自行运转、零漂移存档。	
+okaybenji/text-engine	376	GPL-3.0	games	Interactive Fiction	A browser-based text adventure game engine and sample game	
+facundoolano/advenjure	318	EPL-1.0	games	Interactive Fiction	A declarative text adventure engine	
+historicalsource/zork	298	NONE	games	Interactive Fiction	Mainframe Version of Zork (Infocom)	
+instead-hub/instead	258	NOASSERTION	games	Interactive Fiction	  INSTEAD - Simple Text Adventure Interpreter	
+newideas99/open-dungeon	240	MIT	games	Interactive Fiction	Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud.	
+lizadaly/windrift	237	MIT	games	Interactive Fiction	A JS framework for writing mutable stories	
+Eddycrack864/UVR5-UI	798	MIT	games	Karaoke	Ultimate Vocal Remover 5 with Gradio UI. Separate an audio file into various stems, using multiple models	
+Yigder/Prism	369	GPL-3.0	games	Karaoke	Free, open-source YouTube Music client for Android: word-by-word lyrics, on-device mixes, karaoke, a DJ mode, Replay and Android Auto. No ads, no tracking.	
+Vocaluxe/Vocaluxe	344	GPL-3.0	games	Karaoke	Vocaluxe is an open source singing game inspired by SingStar™ and Ultrastar Deluxe.	
+Empty-57/ZeroBit-Player	289	GPL-3.0	games	Karaoke	基于 flutter(dart) + rust + bass 开发的Material风格本地音乐播放器	
+Asvarox/allkaraoke	269	NONE	games	Karaoke	Online Karaoke game with pitch detection in your browser	
+karaoke-dev/karaoke	237	GPL-3.0	games	Karaoke	Will be the best karaoke system.	
+JMPerez/karaoke	236	NONE	games	Karaoke	Karaoke built with Web Audio API 	
+francesclluis/source-separation-wavenet	227	MIT	games	Karaoke	A neural network for end-to-end music source separation 	
+Seekladoom/Aegisub-Karaoke-Effect-481-Templates	227	NONE	games	Karaoke	转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect	
+qingyueyin/Pure-music	216	GPL-3.0	games	Karaoke	Windows端本地音乐播放器	
+OpenKJ/OpenKJ	200	GPL-3.0	games	Karaoke	Open source karaoke show hosting software.	
+CoffeeStraw/PyonFX	188	LGPL-3.0	games	Karaoke	An easy way to create KFX (Karaoke Effects) and complex typesetting using the ASS format (Advanced Substation Alpha).	
+nomadkaraoke/karaoke-gen	185	MIT	games	Karaoke	Generate karaoke videos, by downloading audio and lyrics, separating instrumentals, synchronising lyrics using transcription models, rendering CDG and uploading videos to YouTube / Dropbox / Google Drive	
+saurabhshri/CCAligner	174	NONE	games	Karaoke	🔮 Word by word audio subtitle synchronisation tool and API. Developed under GSoC 2017 with CCExtractor.	
+guoyunhe/rabbit-lyrics	174	AGPL-3.0	games	Karaoke	JavaScript audio and timed lyrics synchronizer.	
+stared/science-based-games-list	1653	NOASSERTION	games	Kids Educational Games	Science-based games - a collaborative list	
+s010s/prehistoric-animal-museum	1201	AGPL-3.0	games	Kids Educational Games	A free, open-source bilingual 3D museum where young children and their grown-ups explore prehistoric animals across land, sea, and sky.	
+sromku/memory-game	597	Apache-2.0	games	Kids Educational Games	Simple and beautiful memory game for kids (since 2014)	
+GeoGuess/GeoGuess	594	MIT	games	Kids Educational Games	GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.	
+codergautam/worldguessr	565	NOASSERTION	games	Kids Educational Games	Free & Open source version of Geoguessr	
+wolandark/bash-dungeon	397	BSD-3-Clause	games	Kids Educational Games	An educational dungeon crawler in the shell	
+madebydia/tiny-terminal	238	MIT	games	Kids Educational Games	A fake terminal where kids can type anything and get fun responses. Teaches keyboard familiarity and cause-effect thinking.	
+vgwb/Antura	128	NOASSERTION	games	Kids Educational Games	the award winning open source literacy and language learning game for kids	
+prashant-andani/AR-Alphabets	128	MIT	games	Kids Educational Games	Augmented Reality on Web (Web AR) for Kids to learn Alphabets with fun. AR on all Mobile Devices	
+EkaAI-Tech/learn	126	MIT	games	Kids Educational Games	Learning app for kids	
+ktonga/reactive-turtle	121	Apache-2.0	games	Kids Educational Games	Scala and Akka for kids. A Functional Programming approach for the well known LOGO.	
+mannychen0225/Agent-Hive-Workbench	119	NONE	games	Kids Educational Games	Open Source Office Agent & Game Platform Beta 2026	
+fiorix/cat-o-licious	104	NOASSERTION	games	Kids Educational Games	Cat game written in Go	
+shaom/keyboard-island	101	MIT	games	Kids Educational Games	Two playful typing adventures for kids: Keyboard Island (96 chapters) and Sentence Post Office (32 English letters), with local progress.	
+iamankushpandit/Gume	98	GPL-3.0	games	Kids Educational Games	Open-source ESP32 educational game console firmware — 40 games, two-player play over BLE, CYD touchscreen, browser flasher, no telemetry https://hackaday.io/project/206948-braino-a-40-game-learning-console-on-a-cyd	
+Amulet-Team/Amulet-Map-Editor	2256	NOASSERTION	games	Level & Map Editors	A Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.	
+LogicalError/realtime-CSG-for-unity	1015	MIT	games	Level & Map Editors	Realtime-CSG, CSG level editor for Unity 	
+sirjuddington/SLADE	881	GPL-2.0	games	Level & Map Editors	It's a Doom editor	
+huderlem/porymap	676	LGPL-3.0	games	Level & Map Editors	Map editor for pokeemerald, pokefirered, and pokeruby	
+actboy168/YDWE	551	GPL-3.0	games	Level & Map Editors	A Tool to Help the Creation of  Warcraft III Map	
+Garux/netradiant-custom	470	NOASSERTION	games	Level & Map Editors	The open-source, cross-platform level editor for id Tech based games.	
+Cammin/LDtkToUnity	427	MIT	games	Level & Map Editors	Unity importer for the LDtk level editor	
+H2xDev/GodotVMF	419	MIT	games	Level & Map Editors	Run Valve Hammer (VMF) maps in Godot Engine	
+Rangi42/polished-map	253	NOASSERTION	games	Level & Map Editors	A map and tileset editor for pokecrystal, pokered, and projects based on them. Written in C++ with FLTK.	
+Amulet-Team/Amulet-Core	251	NOASSERTION	games	Level & Map Editors	A Python library for reading and writing the Minecraft save formats. See Amulet for the actual editor.	
+idanarye/bevy-yoleck	234	NOASSERTION	games	Level & Map Editors	Your Own Level Editor Creation Kit	
+codereader/DarkRadiant	182	NOASSERTION	games	Level & Map Editors	DarkRadiant is the map editor for The Dark Mod and other idTech4/Doom3-based games	
+bananaturtlesandwich/stove	164	NONE	games	Level & Map Editors	an editor for cooked unreal engine 4/5 maps	
+laleksic/tiny_csg	163	Unlicense	games	Level & Map Editors	tiny_csg is a C++ library that generates meshes from brush-based level data and supports incremental updates (real-time CSG). It is intended to be used as a backend in 3d level editors and/or generators.	
+radiatoryang/scopa	163	MIT	games	Level & Map Editors	Unity level design plugin that adds support for Quake .MAP / Half-Life .RMF / Source .VMF, Q1 HL1 .WAD textures, and .FGD export.	
+simoncos/lola	142	NONE	games	Live Ops & Analytics	LoL (League of Legends) game data analysis / analytics	
+mmegasuporte/roblox-experience-pulse	70	NONE	games	Live Ops & Analytics	Roblox Live Player Stats Tracker 2026: No API Key Needed for Any Game	
+eldioss21/gamebeast-api-lens	68	NONE	games	Live Ops & Analytics	Gamebeast-Style Game Studio Analytics API Guide 2026: A/B Testing and LiveOps	
+nickname21kmr/gameops-investigator	41	MIT	games	Live Ops & Analytics	Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.	
+thequantumfalcon/spirescope	28	MIT	games	Live Ops & Analytics	Local-first STS2 companion — card/relic/enemy browser, live run tracker, deck analyzer, run analytics, overlay mode. No cloud, no accounts. Open source.	
+csuka1219/Flutter_League	28	MIT	games	Live Ops & Analytics	Flutter League is a companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games.	
+EnigmahavenIce75216/rpocket-team-mod-playerbots-portable	23	NONE	games	Live Ops & Analytics	Portable Windows AzerothCore server with earned Vanilla, TBC and Wrath progression, historical talents, autonomous bot dungeons, raid support, bot auction trading and automatic updates.	
+joshuatochinwachi/Solana-Game-Signals-and-Predictive-Modelling	20	NOASSERTION	games	Live Ops & Analytics	Next-generation analytics & ML-powered churn prediction for Solana gaming. Self-training models predict player churn 14 days in advance. Live dashboard + REST API analyzing 60M+ on-chain transactions across 12 games.	
+Jackzmc/l4d2-stats-plugin	20	MIT	games	Live Ops & Analytics	L4D2 statistics tracking plugin & website	
+baoliay2008/lccn_predictor	828	MIT	games	Matchmaking & Ratings	A fast and accurate contest rating prediction web application	
+mcekovic/tennis-crystal-ball	295	Apache-2.0	games	Matchmaking & Ratings	Ultimate Tennis Statistics and Tennis Crystal Ball - Tennis Big Data Analysis and Prediction	
+aws-samples/aws-gamelift-sample	247	Apache-2.0	games	Matchmaking & Ratings	A simple full-stack game sample using GameLift and AWS services. 	
+EbTech/Elo-MMR	214	MIT	games	Matchmaking & Ratings	Skill estimation systems for multiplayer competitions	
+tankdadank/cardian	182	NOASSERTION	games	Matchmaking & Ratings	Discord card game bot with button driven UI, ranked play, SVS, and a companion website. Built for fair, replayable gameplay.	
+elovation/elovation	173	MIT	games	Matchmaking & Ratings	Simple rails app to track your game results with elo and trueskill ratings	
+Project-Reload/Reload-Backend	154	NOASSERTION	games	Matchmaking & Ratings	Created by Burlone, This is a modded backend, all main backend credits to Lawin	
+dzhalaevd/Donatello	134	Apache-2.0	games	Matchmaking & Ratings	Make Dating Great Again. An open source dating platform	
+zelytra/BetterFleet	109	NOASSERTION	games	Matchmaking & Ratings	BetterFleet is an innovative, open-source application to help you find an alliance with other players	
+Octops/agones-discover-openmatch	104	Apache-2.0	games	Matchmaking & Ratings	How to implement a matchmaking system using Agones and OpenMatch	
+Hicruben/world-cup-2026-prediction-model	94	MIT	games	Matchmaking & Ratings	Open-source statistical model (Elo + Dixon-Coles + Monte Carlo) for the 2026 FIFA World Cup — now running year-round on club football at https://theopenmodel.com	
+fatihkahveci/simple-matchmaking	90	MIT	games	Matchmaking & Ratings	Simple rule based matchmaking for your online game with support of Redcon(RESP) protocol.	
+ddm7018/Elo	86	MIT	games	Matchmaking & Ratings	Elo algorithm implementation in Python	
+nehalist/hilde	84	MIT	games	Matchmaking & Ratings	Hilde is an open source match tracking tool for games like foosball, air hockey, chess and similar	
+denniskupec/valve-matchmaking-ip-ranges	70	NONE	games	Matchmaking & Ratings	Lists of locations & IP addresses of Valve servers	
+amark/gun	19161	NOASSERTION	games	Metaverse & 3D Worlds	An open source cybersecurity protocol for syncing decentralized graph data.	
+YuliangXiu/ICON	1679	NOASSERTION	games	Metaverse & 3D Worlds	[CVPR'22] ICON: Implicit Clothed humans Obtained from Normals	
+YuliangXiu/ECON	1213	NOASSERTION	games	Metaverse & 3D Worlds	[CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration	
+hypercube-lab/hypercube	726	GPL-3.0	games	Metaverse & 3D Worlds	HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big	
+uezo/aiavatarkit	704	Apache-2.0	games	Metaverse & 3D Worlds	🥰 Building AI-based conversational avatars lightning fast ⚡️💬	
+sketchpunklabs/ossos	509	MIT	games	Metaverse & 3D Worlds	Webbased Character Animation System	
+leetvr/hotham	432	Apache-2.0	games	Metaverse & 3D Worlds	Hotham is a tool for creating incredible standalone VR games.	
+panaverse/panaverse.github.io	377	MIT	games	Metaverse & 3D Worlds	Certified Web3 and Metaverse Developer Syllabus and Details by Panaverse	
+omigroup/omigroup	329	NONE	games	Metaverse & 3D Worlds	Sandbox for discussing Open Metaverse Interoperability objectives. Want to get involved? Join us in GitHub discussions, and on Discord. PR's welcome!	
+Jon-Becker/nft-generator-py	316	MIT	games	Metaverse & 3D Worlds	This tool allows users to generate sets of unique images and metadata using weighted layer collections.	
+secondlife/viewer	310	LGPL-2.1	games	Metaverse & 3D Worlds	🖥️ Second Life's official client	
+mvs-org/metaverse	305	AGPL-3.0	games	Metaverse & 3D Worlds	The Metaverse individual chain service ETP coin and immutable data space for Hyperspace.	
+vcamapp/app	281	MIT	games	Metaverse & 3D Worlds	VTuber Camera, macOS app that shows your avatar using CoreMedia I/O's virtual camera.	
+River-Zhang/SIFU	276	MIT	games	Metaverse & 3D Worlds	[CVPR 2024 Highlight] Official repository for paper "SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction"	
+billmei/every-proximity-chat-app	244	MIT	games	Metaverse & 3D Worlds	Every Proximity Chat, Metaverse, and Video Conference Socializing App	
+louis-e/arnis	18564	Apache-2.0	games	Minecraft & Voxel	Generate any location from the real world in Minecraft with a high level of detail.	
+HMCL-dev/HMCL	10926	GPL-3.0	games	Minecraft & Voxel	A Minecraft Launcher which is multi-functional, cross-platform and popular	
+Meloong-Git/PCL	9604	NOASSERTION	games	Minecraft & Voxel	Minecraft 启动器 Plain Craft Launcher（PCL）。	
+cabaletta/baritone	9341	LGPL-3.0	games	Minecraft & Voxel	google maps for block game	
+MinecraftForge/MinecraftForge	7850	NOASSERTION	games	Minecraft & Voxel	Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/	
+PrismarineJS/mineflayer	7726	MIT	games	Minecraft & Voxel	Create Minecraft bots with a powerful, stable, and high level JavaScript API.	
+MineDojo/Voyager	7316	MIT	games	Minecraft & Voxel	An Open-Ended Embodied Agent with Large Language Models	
+CaffeineMC/sodium	5844	NOASSERTION	games	Minecraft & Voxel	A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter	
+PCL-Community/PCL-CE	5091	Apache-2.0	games	Minecraft & Voxel	PCL 社区版 由社区开发者维护与管理	
+Querz/mcaselector	4974	MIT	games	Minecraft & Voxel	A tool to select chunks from Minecraft worlds for deletion or export.	
+PaperMC/Folia	4713	GPL-3.0	games	Minecraft & Voxel	Fork of Paper which adds regionised multithreading to the dedicated server.	
+MultiMC/Launcher	4690	NOASSERTION	games	Minecraft & Voxel	A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once	
+Lxtharia/minegrub-theme	4644	MIT	games	Minecraft & Voxel	A Grub Theme in the style of Minecraft!	
+Creators-of-Create/Create	4607	NOASSERTION	games	Minecraft & Voxel	[NeoForge Mod] Building Tools and Aesthetic Technology	
+MeteorDevelopment/meteor-client	3997	GPL-3.0	games	Minecraft & Voxel	Based Minecraft utility mod.	
+danijar/dreamerv3	3949	MIT	games	Minecraft & Voxel	Mastering Diverse Domains through World Models	
+IrisShaders/Iris	3892	LGPL-3.0	games	Minecraft & Voxel	A modern shaders mod for Minecraft compatible with existing OptiFine shader packs	
+Elaina69/Yes-Steve-Model-Repo	3566	NONE	games	Minecraft & Voxel	YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:	
+EngineHub/WorldEdit	3535	NOASSERTION	games	Minecraft & Voxel	🗺️ Minecraft map editor and mod	
+mouse0w0/MinecraftDeveloperGuide	3397	NONE	games	Minecraft & Voxel	📝Minecraft developer Chinese guide，我的世界开发者中文指南	
+valence-rs/valence	3288	MIT	games	Minecraft & Voxel	A Rust framework for building Minecraft servers.	
+FabricMC/fabric-api	3210	Apache-2.0	games	Minecraft & Voxel	Essential hooks for modding with Fabric.	
+EVV1E/waylandcraft	2998	GPL-3.0	games	Minecraft & Voxel	Wayland Compositor in Minecraft	
+YouHaveTrouble/minecraft-optimization	2888	NONE	games	Minecraft & Voxel	Minecraft server optimization guide	
+feather-rs/feather	2696	Apache-2.0	games	Minecraft & Voxel	A Minecraft server implementation in Rust	
+ReVanced/revanced-manager	30094	GPL-3.0	games	Modding Platforms	💊 Application to use ReVanced on Android 	
+praydog/REFramework	5729	MIT	games	Modding Platforms	Mod loader, scripting platform, and VR support for all RE Engine games	
+praydog/UEVR	4665	NOASSERTION	games	Modding Platforms	Universal Unreal Engine VR Mod (4.8 - 5.4)	
+LavaGang/MelonLoader	4328	Apache-2.0	games	Modding Platforms	The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono	
+geode-sdk/geode	3249	BSL-1.0	games	Modding Platforms	The ultimate Geometry Dash modding framework	
+o-gs/dji-firmware-tools	2288	GPL-3.0	games	Modding Platforms	Tools for handling firmwares of DJI products, with focus on quadcopters.	
+fholger/openvr_fsr	1808	NOASSERTION	games	Modding Platforms	Add Image Upscaling via AMD FidelityFX SuperResolution or NVIDIA Image Scaling to SteamVR games	
+loot/loot	1800	GPL-3.0	games	Modding Platforms	A modding utility for Starfield and some Elder Scrolls and Fallout games.	
+ChrisDKN/Amethyst-Mod-Manager	1376	GPL-3.0	games	Modding Platforms	A Linux native mod manager for a variety of games	
+Buckminsterfullerene02/UE-Modding-Tools	1266	NONE	games	Modding Platforms	A databank of every UE modding tool & guide that have potential to be used across multiple UE games	
+alliedmodders/sourcemod	1155	NONE	games	Modding Platforms	SourceMod - Source Engine Scripting and Administration	
+community-shaders/skyrim-community-shaders	1141	GPL-3.0	games	Modding Platforms	Community-driven advanced graphics modifications for AE, SE and VR.	
+atenfyr/UAssetGUI	1104	MIT	games	Modding Platforms	A tool designed for low-level examination and modification of Unreal Engine game assets by hand.	
+xenia-manager/xenia-manager	1098	BSD-3-Clause	games	Modding Platforms	Xenia Manager is a tool that tries to make using Xenia Emulator easier.	
+wabbajack-tools/wabbajack	1012	NOASSERTION	games	Modding Platforms	An automated Modlist installer for various games.	
+openfrontio/OpenFrontIO	2878	AGPL-3.0	games	Multiplayer Browser Games (.io)	Online browser-based RTS game	
+HasangerGames/suroi	517	GPL-3.0	games	Multiplayer Browser Games (.io)	An open-source 2D battle royale game inspired by surviv.io. Work in progress.	
+vzhou842/example-.io-game	454	MIT	games	Multiplayer Browser Games (.io)	An example multiplayer (.io) web game.	
+pessimistic-io/slitherin	377	AGPL-3.0	games	Multiplayer Browser Games (.io)	Slither Detectors by Pessimistic.io	
+magicsea/h5game	246	NONE	games	Multiplayer Browser Games (.io)	io类开房间游戏类型，服务器使用golang，客户端使用cocos creator	
+whxaxes/slither	179	NONE	games	Multiplayer Browser Games (.io)	slither.io imitation	
+trailofbits/slither-mcp	98	AGPL-3.0	games	Multiplayer Browser Games (.io)	MCP server for Slither static analysis of Solidity smart contracts	
+norah1499/solidity-flow-navigator	88	AGPL-3.0	games	Multiplayer Browser Games (.io)	Per-entry-point, navigable call-graph visualizations of Solidity repositories — for Web3 security auditors.	
+jerryshell/agarust	49	MIT	games	Multiplayer Browser Games (.io)	Multiplayer online game powered by Godot 4 and Rust 🤖🦀	
+d0scoo1/Naga	44	AGPL-3.0	games	Multiplayer Browser Games (.io)	A static tool that detects centralized security risks in smart contracts	
+devsnek/slither	42	MIT	games	Multiplayer Browser Games (.io)	A programming language for the modern world.	
+luism6n/insort	31	NONE	games	Multiplayer Browser Games (.io)	An online multiplayer IO-like game that tests your general knowledge.	
+DmNote-App/DmNote	4111	GPL-3.0	games	Music & Rhythm Games	Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.	
+bemusic/bemuse	1255	AGPL-3.0	games	Music & Rhythm Games	⬤▗▚▚▚ Web-based online rhythm action game. Based on HTML5 technologies, React, Redux and Pixi.js.	
+osudroid/osu-droid	721	Apache-2.0	games	Music & Rhythm Games		
+MewoLab/AquaDX	594	NOASSERTION	games	Music & Rhythm Games	A magical server for certain arcade rhythm games 🪄	
+Euterpe-org/App	521	GPL-3.0	games	Music & Rhythm Games	Desktop app of Euterpe, the Muse Dash community platform for custom charts, mods, and creator tools	
+setchi/NoteEditor	447	MIT	games	Music & Rhythm Games	Note editor for rhythm games.	
+chrislo27/PolyrhythmMania	268	GPL-3.0	games	Music & Rhythm Games	A game that faithfully recreates the Polyrhythm minigame from Rhythm Tengoku (リズム天国), with a built-in level editor	
+Rhythia/sound-space-plus	262	MIT	games	Music & Rhythm Games	[Old Rhythia, now unmaintained] Rhythm-based aim game	
+TeamRizu/OutFox	255	Apache-2.0	games	Music & Rhythm Games	The Bug Reporting Repository for OutFox Alpha 4 LTS / V, Beta I Builds	
+zkldi/Tachi	240	NONE	games	Music & Rhythm Games	A Cutting-Edge, Modular Score Tracker	
+elicoggins/keyboardwarrior	216	NOASSERTION	games	Music & Rhythm Games	A rhythm typing game built in Rust. Type letters in time with the music, using your existing Clone Hero / YARG chart library.	
+Naptie/nearcade	185	MPL-2.0	games	Music & Rhythm Games	全球音游街机地图 | The global rhythm game map.	
+Rhythia/Client	161	AGPL-3.0	games	Music & Rhythm Games	Aim-based rhythm game client, built in Godot 4	
+yuameshi/PhiCommunity	154	AGPL-3.0	games	Music & Rhythm Games	A community driven project to make a game like phigros.	
+RuolinZheng08/renpy-rhythm	150	MIT	games	Music & Rhythm Games	A light-weight rhythm game engine with auto beat map generation built with Ren'Py	
+chrxh/alien	5569	BSD-3-Clause	games	Physics & Game Libraries	ALIEN is a CUDA-powered artificial life simulation program.	
+schteppe/cannon.js	5012	MIT	games	Physics & Game Libraries	A lightweight 3D physics engine written in JavaScript.	
+cyberbotics/webots	4756	Apache-2.0	games	Physics & Game Libraries	Webots Robot Simulator	
+projectchrono/chrono	3142	BSD-3-Clause	games	Physics & Game Libraries	High-performance C++ library for multiphysics and multibody dynamics simulations	
+bepu/bepuphysics2	2979	Apache-2.0	games	Physics & Game Libraries	Pure C# 3D real time physics simulation library, now with a higher version number.	
+schteppe/p2.js	2694	NOASSERTION	games	Physics & Game Libraries	JavaScript 2D physics library	
+simbody/simbody	2571	Apache-2.0	games	Physics & Game Libraries	High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.	
+doyubkim/fluid-engine-dev	2106	MIT	games	Physics & Game Libraries	Fluid simulation engine for computer graphics applications	
+allenai/ai2thor	1829	Apache-2.0	games	Physics & Game Libraries	An open-source platform for Visual AI.	
+DanielChappuis/reactphysics3d	1776	Zlib	games	Physics & Game Libraries	Open source C++ physics engine library in 3D	
+dimforge/nphysics	1650	Apache-2.0	games	Physics & Game Libraries	2 and 3-dimensional rigid body physics engine for Rust.	
+dartsim/dart	1224	BSD-2-Clause	games	Physics & Game Libraries	DART: Dynamic Animation and Robotics Toolkit	
+viblo/pymunk	1081	MIT	games	Physics & Game Libraries	Pymunk is a easy-to-use pythonic 2d physics library that can be used whenever  you need 2d rigid body physics from Python	
+appsinacup/godot-rapier-physics	1040	MIT	games	Physics & Game Libraries	Godot Rapier Physics – 2D and 3D physics engine for the Godot game engine. with better stability, performance, liquids, determinism, state serialization and no ghost collisions.	
+saharan/OimoPhysics	959	MIT	games	Physics & Game Libraries	A cross-platform 3D physics engine	
+aseprite/aseprite	40753	NONE	games	Pixel Art & Sprite Tools	Animated sprite editor & pixel art tool (Windows, macOS, Linux)	
+dicebear/dicebear	10042	MIT	games	Pixel Art & Sprite Tools	DiceBear is an avatar library for designers and developers. 🌍	
+gelstudios/gitfiti	8447	MIT	games	Pixel Art & Sprite Tools	abusing github commit history for the lulz	
+ringhyacinth/Star-Office-UI	7564	NOASSERTION	games	Pixel Art & Sprite Tools	A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.	
+rullerzhou-afk/clawd-on-desk	6692	AGPL-3.0	games	Pixel Art & Sprite Tools	A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.	
+jvalen/pixel-art-react	6062	MIT	games	Pixel Art & Sprite Tools	Pixel art animation and drawing web app powered by React	
+patch-gg/pixelfx	5760	MIT	games	Pixel Art & Sprite Tools	244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.	
+0x0funky/agent-sprite-forge	5351	MIT	games	Pixel Art & Sprite Tools	Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.	
+crafter-station/petdex	4338	MIT	games	Pixel Art & Sprite Tools	A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.	
+aldegad/sprite-gen	3884	Apache-2.0	games	Pixel Art & Sprite Tools	Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.	
+cloudhead/rx	3498	GPL-3.0	games	Pixel Art & Sprite Tools	👾 Modern and minimalist pixel editor	
+nosir/obelisk.js	2323	NOASSERTION	games	Pixel Art & Sprite Tools	Build pixel isometric graphics with HTML5 canvas	
+CytopiaTeam/Cytopia	2179	GPL-3.0	games	Pixel Art & Sprite Tools	:deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game	
+giventofly/pixelit	1787	MIT	games	Pixel Art & Sprite Tools	Create pixel art from an image 	
+androoAGI/starnet	1757	MIT	games	Pixel Art & Sprite Tools	A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.	
+gdquest-demos/godot-platformer-2d	818	MIT	games	Platformers & Arcade	2d Metroidvania-inspired game for the 2019 GDquest Godot Kickstarter course project.	
+mx0c/super-mario-python	701	NONE	games	Platformers & Arcade	super mario in python and pygame	
+masonicGIT/pacman	401	GPL-3.0	games	Platformers & Arcade	A historical tribute to pac-man	
+hfjooste/UltimateStarterKit	358	MIT	games	Platformers & Arcade	The Ultimate Starter Kit plugin to speed up development of Unreal Engine games	
+tsoding/nothing	298	MIT	games	Platformers & Arcade	A simple platformer about nothing	
+viewizard/astromenace	295	NOASSERTION	games	Platformers & Arcade	Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.	
+WohlSoft/Moondust-Project	282	GPL-3.0	games	Platformers & Arcade	Moondust Project by Wohlstand	
+furrtek/SiliconRE	231	GPL-2.0	games	Platformers & Arcade	Traces, schematics, and general infos about custom chips reverse-engineered from silicon	
+Akshat4112/1000_Project_Ideas	224	MIT	games	Platformers & Arcade	1000 Project Ideas to be coded in any language	
+mgerhardy/caveexpress	165	NOASSERTION	games	Platformers & Arcade	CaveExpress is a classic 2D platformer with physics-based gameplay and dozens of levels. CavePacker is a Sokoban game.	
+mechakotik/tails-adventure	160	GPL-3.0	games	Platformers & Arcade	Tails Adventure remade from the ground up for PC and Android	
+NightsWatchGames/celeste	145	MIT	games	Platformers & Arcade	Celeste classic platformer game made with bevy engine.	
+striderzz/2D-Platformer-Unity	142	MIT	games	Platformers & Arcade	2D platformer game and starter template built in Unity (C#).	
+WispSnow/SunnyLand	138	CC0-1.0	games	Platformers & Arcade	A platformer game developed in C++ with SDL3, glm, nlohmann-json and Tiled.	
+genxium/DelayNoMoreUnity	136	NONE	games	Platformers & Arcade	A Multiplayer Platformer game demo on websocket+UDP peer-to-peer with delayed-input Rollback Netcode inspired by GGPO	
+gdquest-demos/godot-open-rpg	3049	MIT	games	RPG Games	Learn to create turn-based combat with this Open Source RPG demo ⚔	
+m969/EGamePlay	2402	MIT	games	RPG Games	一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables.	
+a327ex/SNKRX	2009	MIT	games	RPG Games	A replayable arcade shooter where you control a snake of heroes.	
+sdlpal/sdlpal	1996	GPL-3.0	games	RPG Games	SDL-based reimplementation of the classic Chinese-language RPG known as PAL.	
+RSamaium/RPG-JS	1682	MIT	games	RPG Games	Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript	
+rpgtex/DND-5e-LaTeX-Template	1639	MIT	games	RPG Games	LaTeX package to typeset material for the fifth edition of the "world's greatest roleplaying game".	
+a327ex/BYTEPATH	1545	NOASSERTION	games	RPG Games	A replayable arcade shooter with a focus on build theorycrafting.	
+naturalcrit/homebrewery	1368	MIT	games	RPG Games	Create authentic looking D&D homebrews using only markdown	
+jzyong/game-server	1228	MIT	games	RPG Games	Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI too	
+xoreos/xoreos	1197	GPL-3.0	games	RPG Games	A reimplementation of BioWare's Aurora engine (and derivatives). Pre-pre-alpha :P	
+bitbrain/pandora	1131	MIT	games	RPG Games	Godot 4 addon for RPG data management such items, inventories, spells, mobs, quests and NPCs.	
+0x7c13/Pal3.Unity	1058	GPL-3.0	games	RPG Games	The Legend of Sword and Fairy 3 (仙剑奇侠传三) & The Legend of Sword and Fairy 3 Gaiden: Wenqing Pian (仙剑奇侠传三外传：问情篇) re-implementation using C#/Unity	
+iniside/ActionRPGGame	1039	NONE	games	RPG Games	Unreal Engine 4 Action RPG type game starter kit.	
+AnyRPG/AnyRPGCore	1030	MIT	games	RPG Games	Open source Role Playing Game engine for Unity 3D written in C#.	
+Mudlet/Mudlet	919	GPL-3.0	games	RPG Games	⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua	
+br-g/openf1	1854	NOASSERTION	games	Racing Games	OpenF1 API - Real-time and historical Formula 1 data	
+rusefi/rusefi	1207	NOASSERTION	games	Racing Games	rusefi - GPL internal combustion engine control unit	
+MagnusThome/RejsaCAN-ESP32	822	NONE	games	Racing Games	ESP32 and ESP32-S3 board with CAN interface, runs on 12V power (with auto shutdown)	
+Lovely-Sim-Racing/lovely-dashboard	754	NONE	games	Racing Games	A multifunctional feature packed SimHub Dashboard (DDU) and a matching Stream Overlay.	
+juanmanzanero/fastest-lap	657	MIT	games	Racing Games	Fastest-lap is a vehicle dynamics simulator. It can be used to understand vehicle dynamics, to learn about driving techniques, to design car prototypes, or just for fun!	
+tbs-trappy/source_one	655	NONE	games	Racing Games	Open Source FPV Drone Frame	
+SpeedBreakerProject/speedbreaker	643	GPL-3.0	games	Racing Games	Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port for Steam Deck, Steam Machine, Steam Frame, Linux and Mac (iPhone/iPad: sideload the experimental IPA or build it yourself). Bring your own disc: no ga	
+toUpperCase78/formula1-datasets	426	GPL-3.0	games	Racing Games	Datasets & Analyses for Formula 1 World Championship	
+TinyPedal/TinyPedal	401	GPL-3.0	games	Racing Games	Free and Open Source telemetry overlay application for racing simulation	
+EQMOD/EQM_OBDWEB	394	GPL-3.0	games	Racing Games	A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module	
+knaufinator/6DOF-Rotary-Stewart-Motion-Simulator	386	NOASSERTION	games	Racing Games	A high-performance 6 Degrees of Freedom motion simulator platform powered by AC servo motors with AASD15A drivers	
+Hypha-ROS/hypharos_minicar	342	Apache-2.0	games	Racing Games	1/20 MiniCar: An ackermann based rover for MPC and Pure-Pursuit controller	
+juzzlin/DustRacing2D	341	GPL-3.0	games	Racing Games	Dust Racing 2D is a traditional top-down car racing game including a level editor.	
+SimFeedback/SimFeedback-AC-Servo	333	NONE	games	Racing Games	SimFeedback AC Servo Version - Virtual Racing Motion Simulator 	
+jukibom/FlyDangerous	305	GPL-3.0	games	Racing Games	A love letter to the Elite Dangerous racing community ❤	
+PixelGuys/Cubyz	3752	GPL-3.0	games	Sandbox & Survival Games	Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.	
+RigsOfRods/rigs-of-rods	1288	GPL-3.0	games	Sandbox & Survival Games	Main development repository for Rigs of Rods soft-body physics simulator	
+FoundationVision/GLEE	1168	MIT	games	Sandbox & Survival Games	[CVPR2024 Highlight]GLEE: General Object Foundation Model for Images and Videos at Scale	
+IDEA-Research/Grounding-DINO-1.5-API	1148	Apache-2.0	games	Sandbox & Survival Games	Grounding DINO 1.5: IDEA Research's Most Capable Open-World Object Detection Model Series	
+LAMDA-CL/PyCIL	1120	NOASSERTION	games	Sandbox & Survival Games	PyCIL: A Python Toolbox for Class-Incremental Learning	
+JosephKJ/OWOD	1073	Apache-2.0	games	Sandbox & Survival Games	(CVPR 2021 Oral) Open World Object Detection	
+longzw1997/Open-GroundingDino	852	MIT	games	Sandbox & Survival Games	This is the third party implementation of the paper Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.	
+mental-os/Aurora-OS.js	754	AGPL-3.0	games	Sandbox & Survival Games	Aurora OS.js — extensible web OS game and hacking simulator framework for developers and gamers. Virtual OS experience with scripting, apps, terminals & sandboxed gameplay, set in the mental.os() universe.	
+shenyunhang/APE	626	Apache-2.0	games	Sandbox & Survival Games	[CVPR 2024] Aligning and Prompting Everything All at Once for Universal Visual Perception	
+Dreamtowards/Ethertum	557	GPL-3.0	games	Sandbox & Survival Games	A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.	
+SlashScreen/skelerealms	494	MIT	games	Sandbox & Survival Games	An open world RPG framework for Godot 4.	
+openfw-game/OpenLiberty	487	MIT	games	Sandbox & Survival Games	Open-world game implemented in Godot Engine that can load GTA 3D-era models and textures	
+nv-tlabs/PartField	477	NOASSERTION	games	Sandbox & Survival Games	[ICCV 2025] PartField: Learning 3D Feature Fields for Part Segmentation and Beyond	
+Bithack/principia	430	NOASSERTION	games	Sandbox & Survival Games	Open source physics-based sandbox game with electronic circuitry, mechanics, robots, puzzles, Lua scripting and more.	
+CraftJarvis/MineStudio	420	MIT	games	Sandbox & Survival Games	MineStudio: A Streamlined Package for Minecraft AI Agent Development	
+Atlas-OS/Atlas	22047	GPL-3.0	games	Shooters & Arena Games	🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.	
+aozhimin/iOS-Monitor-Platform	2621	MIT	games	Shooters & Arena Games	:books: iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理	
+chocolate-doom/chocolate-doom	2454	GPL-2.0	games	Shooters & Arena Games	Chocolate Doom is a Doom source port that is minimalist and historically accurate.	
+ssloy/tinyraycaster	2089	WTFPL	games	Shooters & Arena Games	486 lines of C++: old-school FPS in a weekend	
+pikvm/ustreamer	2048	GPL-3.0	games	Shooters & Arena Games	µStreamer - Lightweight and fast MJPEG-HTTP streamer	
+fzyzcjy/flutter_smooth	1710	MIT	games	Shooters & Arena Games	Achieve ~60 FPS, no matter how heavy the tree is to build/layout	
+smart-test-ti/SoloX	1273	MIT	games	Shooters & Arena Games	💯SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance\app性能测试工具）	
+lacymorrow/crossover	1270	NOASSERTION	games	Shooters & Arena Games	🎯 A Crosshair Overlay for any screen. 	
+wasabeef/Takt	1145	Apache-2.0	games	Shooters & Arena Games	Takt is Android library for measuring the FPS using Choreographer.	
+Interrupt/systemshock	912	GPL-3.0	games	Shooters & Arena Games	Shockolate - A minimalist and cross platform System Shock source port.	
+klaussilveira/qengine	893	GPL-2.0	games	Shooters & Arena Games	Retro game engine for creating games like it's 1997	
+farice/ARShooter	810	Apache-2.0	games	Shooters & Arena Games	A demo Augmented Reality shooter made with ARKit in Swift (iOS 11)	
+solenum/exengine	794	MIT	games	Shooters & Arena Games	A C99 3D game engine	
+bradharding/doomretro	783	GPL-3.0	games	Shooters & Arena Games	The classic, refined DOOM source port. For Windows PC.	
+alibaba/mobileperf	764	MIT	games	Shooters & Arena Games	Android performance test	
+microsoft/AirSim	18604	NOASSERTION	games	Simulation & Tycoon Games	Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research	
+carla-simulator/carla	14575	MIT	games	Simulation & Tycoon Games	Open-source simulator for autonomous driving research.	
+mobile-next/mobile-mcp	10382	Apache-2.0	games	Simulation & Tycoon Games	Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.	
+logisim-evolution/logisim-evolution	7906	GPL-3.0	games	Simulation & Tycoon Games	Digital logic design tool and simulator	
+hneemann/Digital	6146	GPL-3.0	games	Simulation & Tycoon Games	A digital logic designer and circuit simulator.	

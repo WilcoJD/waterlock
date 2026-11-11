@@ -1,0 +1,380 @@
+aDragon0707/sacp	106	MIT	finance	Expense & Spend Management	State-Aware Collaboration Protocol: auditable work receipts for AI agents.	
+alfianlosari/AIReceiptScanner	95	MIT	finance	Expense & Spend Management	Swift library that utilize GPT-4o for scanning receipt and its items	
+rheeloaded/paperpull	92	AGPL-3.0	finance	Expense & Spend Management	Download years of statements, receipts, pay stubs and tax forms from 60+ banks, cards, employers, stores and utilities as PDFs, then turn them into spreadsheets. You sign in, it only downloads and never pays a bill, moves money or changes a setting. Free, open	
+ephes/kptncook	87	MIT	finance	Expense & Spend Management	Fetch receipts from kptncook API and export them to mealie or paprika	
+cfanatic/ocr-receipt	76	MIT	finance	Expense & Spend Management	Perform optical character recognition on receipts	
+jeremybarbet/iap	74	MIT	finance	Expense & Spend Management	Node.js and NestJS wrapper to help verifying Google and Apple receipts.	
+sw-carlos-cristobal/sharetab	66	MIT	finance	Expense & Spend Management	Self-hosted, open-source Splitwise alternative with AI receipt scanning. One Docker container, no external database.	
+agent-passport-system/agent-passport-system	64	Apache-2.0	finance	Expense & Spend Management	Open protocol and TypeScript SDK for AI agent authority: identity, scoped delegation, enforcement before the action, and signed receipts.	
+goldmansachs/gs-quant	13946	Apache-2.0	finance	Financial Modelling & Risk	Python toolkit for quantitative finance	
+microsoft/Security-101	7033	CC0-1.0	finance	Financial Modelling & Risk	8 Lessons, Kick-start Your Cybersecurity Learning.	
+JerBouma/FinanceToolkit	5511	MIT	finance	Financial Modelling & Risk	Transparent and Efficient Financial Analysis	
+jianweiweng05/qsx-strategy-score	927	MIT	finance	Financial Modelling & Risk	Free strategy scorecard for trading backtests. Detect overfitting, weak edge, drawdown risk, and random-timing luck from returns, equity curves, or trade logs.	
+Threagile/threagile	787	MIT	finance	Financial Modelling & Risk	Agile Threat Modeling Toolkit	
+risk-first/website	764	CC-BY-4.0	finance	Financial Modelling & Risk	Risk-First Software Development	
+skyhackvip/risk_engine	677	Apache-2.0	finance	Financial Modelling & Risk	天网决策引擎系统	
+codez0mb1e/resistance	606	CC0-1.0	finance	Financial Modelling & Risk	Pre-crisis Risk Management for Personal Finance	
+auto-differentiation/xad	440	AGPL-3.0	finance	Financial Modelling & Risk	The fastest automatic differentiation library for C++, with Python bindings. Forward, adjoint and higher-order derivatives, checkpointing, Eigen support and JIT. Reproducible benchmarks against CppAD, Adept and autodiff.	
+VivekPa/OptimalPortfolio	375	MIT	finance	Financial Modelling & Risk	An open source library for portfolio optimisation	
+attack68/rateslib	370	NOASSERTION	finance	Financial Modelling & Risk	A fixed income library for pricing bonds and bond futures, and derivatives such as interest rate swaps (IRS), cross-currency swaps (XCS) and FX swaps. Contains tools for full curveset construction with market standard optimisers and automatic differentiation (	
+YizhiSong/FriesTrader	299	MIT	finance	Financial Modelling & Risk	Robinhood Agentic Trading agent — a fully automated AI trading bot placing real orders through Robinhood's Agentic Trading MCP, under mechanical, auditable risk rules the model cannot override. Able to run unattended on Claude Pro, no metered API spend. Not fi	
+usnistgov/PrivacyEngCollabSpace	284	NONE	finance	Financial Modelling & Risk	Privacy Engineering Collaboration Space	
+BYTEX-TRADE/bytex	282	Apache-2.0	finance	Financial Modelling & Risk	Event-driven algorithmic trading engine for .NET. Write a strategy once and run it unchanged in backtest, paper and live trading, deterministic, with fixed-point money and adapters for Binance, Bybit, OKX, Kraken, Bitget, Gate, KuCoin and Hyperliquid.	
+AnthonyBradford/optionmatrix	252	GPL-3.0	finance	Financial Modelling & Risk	Financial Derivatives Calculator with 171+ Models (Options Calculator)	
+spacewalk01/yolov5-fire-detection	340	MIT	finance	Financial Planning & Calculators	Training YOLOv5/YOLOv9 to detect fire in a video	
+venil7/assets	185	NONE	finance	Financial Planning & Calculators	A self-hosted FIRE tracker.	
+Lisprez/so_stupid_search	179	LGPL-2.1	finance	Financial Planning & Calculators	It's my honor to drive you fucking fire faster, to have more time with your Family and Sunshine.This tool is for those who often want to search for a string Deeply into a directory in Recursive mode, but not with the great tools: grep, ack, ripgrep .........ev	
+joseballester/muFunds	106	MIT	finance	Financial Planning & Calculators	muFunds lets you import your asset data from Morningstar and other sources to your Google Sheets spreadsheet by using a simple formula.	
+Gregable/social-security-tools	99	MIT	finance	Financial Planning & Calculators	Website Source for https://ssa.tools/	
+mdlacasse/Owl	97	GPL-3.0	finance	Financial Planning & Calculators	Retirement planner with great wisdom	
+JackMorrissey/beyond-rule-4	97	MIT	finance	Financial Planning & Calculators	YNAB Financial Independence (FIRE) Calculator	
+ScanOC/trunk-player	87	MIT	finance	Financial Planning & Calculators	Trunk Player - Python Django project to play back recorded radio transmissions used on site	
+G-OTW/OpenTraderWorld	83	NOASSERTION	finance	Financial Planning & Calculators	Free and source-available, self-hostable trading workspace: data, backtest, trading journal, news aggregator, rich-doc editor, portfolio, 20+ modules with a built-in MCP server and AI agent.	
+GiuseppeDM98/net-worth-tracker	80	AGPL-3.0	finance	Financial Planning & Calculators	Track your net worth and investment portfolio with automatic price updates, asset allocation, expense tracking, and FIRE calculator. Modern alternative to spreadsheets. Next.js + Firebase + TypeScript.	
+datasets/publicbodies	77	MIT	finance	Financial Planning & Calculators	A database of public bodies such as government departments, ministries etc.	
+skapebolt/SquirrelPlan	76	MIT	finance	Financial Planning & Calculators	SquirrelPlan is a client-side, single-page web application for personal financial planning and wealth simulation. It allows users to input detailed financial data—including assets, liabilities, income, and expenses—to project their financial future.	
+MikePiper/open-social-security	75	MIT	finance	Financial Planning & Calculators	Open-source calculator for determining best Social Security claiming age(s)	
+cjpatten/canadian-finance-planner-skill	68	MIT	finance	Financial Planning & Calculators	A Claude skill that turns Claude into your personal financial planner — built specifically for Canadians. Interviews, budgets, action plans, interactive dashboards, and ongoing coaching.	
+moov-io/irs	60	Apache-2.0	finance	Financial Planning & Calculators	Internal Revenue Service (IRS) Filing Information Returns Electronically (FIRE)	
+yzhao062/pyod	10080	BSD-2-Clause	finance	Fraud Detection & AML	A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.	
+yzhao062/anomaly-detection-resources	9440	AGPL-3.0	finance	Fraud Detection & AML	Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!	
+MISP/MISP	6650	AGPL-3.0	finance	Fraud Detection & AML	MISP (core software) - Open Source Threat Intelligence and Sharing Platform	
+pygod-team/pygod	1500	BSD-2-Clause	finance	Fraud Detection & AML	A Python Library for Graph Outlier Detection (Anomaly Detection)	
+thumbmarkjs/thumbmarkjs	1177	MIT	finance	Fraud Detection & AML	A free, open-source javascript fingerprinting library	
+pedramamini/ThreatIngestor	931	GPL-2.0	finance	Fraud Detection & AML	Extract and aggregate threat intelligence.	
+antoinevastel/fpscanner	798	MIT	finance	Fraud Detection & AML	Self-hosted browser fingerprinting and bot detection with real-world constraints in mind.	
+Stream-AD/MIDAS	778	Apache-2.0	finance	Fraud Detection & AML	Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.	
+Fraud-Detection-Handbook/fraud-detection-handbook	751	NOASSERTION	finance	Fraud Detection & AML	Reproducible Machine Learning for Credit Card Fraud Detection - Practical Handbook	
+talsec/Free-RASP-Community	522	MIT	finance	Fraud Detection & AML	SDK providing threat detection & security monitoring for mobile devices. Works with Flutter, React Native, Android and iOS. Shield your app with free RASP. Detect reverse engineering, root (Magisk), jailbreak, Frida, emulators, bots, tampering and integrity is	
+Faceplugin-ltd/FaceRecognition-Android	472	NONE	finance	Fraud Detection & AML	Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks	
+IBM/AMLSim	412	Apache-2.0	finance	Fraud Detection & AML	The AMLSim project is intended to provide a multi-agent based simulator that generates synthetic banking transaction data together with a set of known money laundering patterns - mainly for the purpose of testing machine learning models and graph algorithms.  	
+sublime-security/emailrep.io	382	NONE	finance	Fraud Detection & AML	emailrep.io Public API	
+aws-solutions-library-samples/fraud-detection-using-machine-learning	341	Apache-2.0	finance	Fraud Detection & AML	Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker	
+blackdotsh/getIPIntel	333	NONE	finance	Fraud Detection & AML	IP Intelligence is a free Proxy VPN TOR and Bad IP detection tool to prevent Fraud, stolen content, and malicious users. Block proxies, VPN connections, web host IPs, TOR IPs, and compromised systems with a simple API. GeoIP lookup available.	
+awslabs/hcls-agent-skills	74	MIT-0	finance	Insurance Tech	Open-source healthcare AI agent skills and life sciences agent skills. 42 skills for medical coding, risk adjustment, claims analytics, quality measures, genomics, imaging, and drug discovery across 13 HCLS domains.	
+DhananjayBhosale/Indian-Health-Insurance-Claim-Help	62	MIT	finance	Insurance Tech	Share this link with ChatGPT or Claude to get an Indian health insurance reimbursement claim ready: which documents to send, what is missing, and how to upload them.	
+invoicerr-app/invoicerr	732	AGPL-3.0	finance	Invoice Automation & E-Invoicing	Invoicerr is a freelance-focused invoicing app that lets you create quotes, generate invoices, track payments, and collect secure signatures.	
+DRYTRIX/TimeTracker	640	GPL-3.0	finance	Invoice Automation & E-Invoicing	Self-hosted time tracking & invoicing for freelancers and teams: timers, projects, PDF and Peppol e-invoicing. Open-source Toggl/Clockify alternative.	
+ZUGFeRD/mustangproject	492	Apache-2.0	finance	Invoice Automation & E-Invoicing	Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)	
+horstoeko/zugferd	443	MIT	finance	Invoice Automation & E-Invoicing	ZUGFeRD/XRechnung/Factur-X Library	
+stephanstapel/ZUGFeRD-csharp	395	Apache-2.0	finance	Invoice Automation & E-Invoicing	Open source C# e-invoicing library. Enables creating and reading ZUGFeRD invoices.	
+gflohr/e-invoice-eu	375	NOASSERTION	finance	Invoice Automation & E-Invoicing	🇪🇺 💶 Generate e-invoices (E-Rechnung in German) conforming to EN16931 (Factur-X/ZUGFeRD, UBL, CII, XRechnung aka X-Rechnung) from LibreOffice Calc/Excel data or JSON.	
+ConnectingEurope/eInvoicing-EN16931	269	NOASSERTION	finance	Invoice Automation & E-Invoicing	Validation artefacts for the European eInvoicing standard EN 16931	
+phax/phase4	246	Apache-2.0	finance	Invoice Automation & E-Invoicing	phase4 - AS4 client and server for integration into existing systems. Specific support for Peppol and CEF eDelivery built-in.	
+phax/phoss-smp	213	NOASSERTION	finance	Invoice Automation & E-Invoicing	phoss SMP - a Peppol and OASIS BDXR SMP Server; EC eDelivery compliant	
+ZUGFeRD/quba-viewer	210	Apache-2.0	finance	Invoice Automation & E-Invoicing	Quba is a viewer for electronic invoices	
+itplr-kosit/validator	193	Apache-2.0	finance	Invoice Automation & E-Invoicing	Validates XML documents with XML Schema and Schematron	
+Universidade-Livre/universidade-livre.github.io	193	NONE	finance	Invoice Automation & E-Invoicing	🌐 Nosso website para apresentar nosso projeto de forma simples e intuitiva, sendo totalmente open-source e mantido por nossos membros	
+pretix/python-drafthorse	182	Apache-2.0	finance	Invoice Automation & E-Invoicing	Pure-python ZUGFeRD implementation	
+josemmo/einvoicing	179	MIT	finance	Invoice Automation & E-Invoicing	Library for reading and creating European-compliant electronic invoices (EN 16931)	
+jcthiele/OpenXRechnungToolbox	172	GPL-3.0	finance	Invoice Automation & E-Invoicing	Graphische Benutzeroberfläche für die Visualisierung und Validierung von XRechnung (und anderen EN16931-konformen E-Rechnungen) sowie ein Tool für die Berechnung und Prüfung von Leitweg-IDs. ||                                                 Engl.: Graphical U	
+al1abb/invoify	6386	MIT	finance	Invoicing & Billing Platforms	An invoice generator app built using Next.js, Typescript, and Shadcn	
+hql287/Manta	5490	LGPL-3.0	finance	Invoicing & Billing Platforms	🎉 Flexible invoicing desktop app with beautiful & customizable templates.	
+tuanpham-dev/react-invoice-generator	680	MIT	finance	Invoicing & Billing Platforms	React Invoice Generator allows you quickly make invoices and export them as PDF	
+mokuappio/serverless-invoices	546	MIT	finance	Invoicing & Billing Platforms	Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.	
+IamRamgarhia/Free-GST-Billing-Software	463	MIT	finance	Invoicing & Billing Platforms	Free invoice builder & GST billing software for India. Make GST invoices, quotations, bills of supply and credit notes as PDF; GSTR-1/3B reports. Free invoice maker for shops, freelancers & small businesses. Free Tally alternative: open source, 100% offline, n	
+ElegantEngineeringTech/laravel-invoices	237	MIT	finance	Invoicing & Billing Platforms	📑 Store and generate beautiful PDF invoices in Laravel	
+kirilkirkov/Electronic-Invoicing-And-Warehouse-Management-System	208	NONE	finance	Invoicing & Billing Platforms	A self-hosted open-source application built with CodeIgniter and Bootstrap. Features include electronic invoicing, PDF generation, invoice status tracking, client and item management, employee permissions, protocols, warranties, import/export (Excel, XML), rep	
+AmbalviUsman/Billing-System	137	NONE	finance	Invoicing & Billing Platforms	A GUI Based Complete Store Billing System in java that generates Invoice of each sale.	
+code-boxx/invoicr	114	NONE	finance	Invoicing & Billing Platforms	Invoicr is a free and open-source PHP invoice generator that is capable of churning out HTML, PDF, DOCX, and PNG invoices.	
+domokane/FinancePy	3217	GPL-3.0	finance	Lending & Credit Scoring	A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives. 	
+AdaptiveConsulting/ReactiveTraderCloud	1857	Apache-2.0	finance	Lending & Credit Scoring	Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.	
+ShichenXie/scorecardpy	813	MIT	finance	Lending & Credit Scoring	Scorecard Development in python, 评分卡	
+guillermo-navas-palencia/optbinning	535	Apache-2.0	finance	Lending & Credit Scoring	Optimal binning: monotonic binning with constraints.  Support batch & stream optimal binning. Scorecard modelling and counterfactual explanations.	
+amphibian-dev/toad	529	MIT	finance	Lending & Credit Scoring	ESC Team's credit scorecard tools.	
+eddyzzl/marvis-risk-agent	393	MIT	finance	Lending & Credit Scoring	MARVIS-Agent: all-purpose credit risk agent for model development, validation, data processing, feature engineering, and strategy workflows.	
+itlubber/scorecardpipeline	264	MIT	finance	Lending & Credit Scoring	scorecardpipeline封装常用的风控策略分析和评分卡建模相关组件，支持pipeline式端到端评分卡建模、三方数据分析、规则集效果评估、特征有效性分析、excel报告输出、评分卡PMML导出、全流程超参数搜索等功能。核心功能：评分卡，策略分析，风控，规则挖掘，特征筛选，自动分箱	
+jouaaaaaa/mcd-self-butler	208	MIT	finance	Lending & Credit Scoring	麦当劳自助管家 McButler — 基于麦当劳 MCP 的点单参谋：每日推荐 / 套餐健康体检 / 门店全成本比价 / 团餐智能配餐 / 麦险分信用评级 / 麦门小剧场。麦当劳 1024 程序员节参赛作品。	
+hendrirach/financemasters	172	NONE	finance	Lending & Credit Scoring	Curriculum for Finance  	
+ShichenXie/scorecard	170	NOASSERTION	finance	Lending & Credit Scoring	Scorecard Development in R, 评分卡	
+lakshmiDRIP/DROP	144	Apache-2.0	finance	Lending & Credit Scoring	Fixed Income Analytics, Portfolio Construction Analytics, Transaction Cost Analytics, Counter Party Analytics, Asset Backed Analytics	
+naenumtou/ifrs9	134	NONE	finance	Lending & Credit Scoring	The full scope of IFRS 9 Impairment models including PD, LGD and EAD are provided. It also covers ECL, which is the combination of those three parameters as well as staging criteria.	
+ing-bank/skorecard	116	MIT	finance	Lending & Credit Scoring	scikit-learn compatible tools for building credit risk acceptance models	
+guastallaigor/vue-paycard	108	MIT	finance	Lending & Credit Scoring	Credit card component made with Vue.js (works with Vue 2 & 3)	
+open-risk/transitionMatrix	89	Apache-2.0	finance	Lending & Credit Scoring	Statistical analysis and visualization of state transition phenomena	
+metaplex-foundation/metaplex	3355	Apache-2.0	finance	NFT & Digital Collectibles	A directory of what the Metaplex Foundation works on!	
+sepandhaghighi/samila	1189	MIT	finance	NFT & Digital Collectibles	A Generative Art Generator	
+man-c/pycoingecko	1092	MIT	finance	NFT & Digital Collectibles	Python wrapper for the CoinGecko API	
+torrinworx/Blend_My_NFTs	1020	GPL-3.0	finance	NFT & Digital Collectibles	Easily generate thousands of 3D models, images, and animation automatically in Blender for free with Blend_My_NFTs.	
+unlock-protocol/unlock	885	MIT	finance	NFT & Digital Collectibles	Ʉnlock is a protocol for memberships built on a blockchain.	
+PatrickAlphaC/nft-mix	805	MIT	finance	NFT & Digital Collectibles		
+samuelvanderwaal/metaboss	714	Apache-2.0	finance	NFT & Digital Collectibles	The Metaplex NFT-standard Swiss Army Knife tool.	
+getgems-io/nft-contracts	679	MIT	finance	NFT & Digital Collectibles	Set of TON NFT related contracts & code	
+solana-foundation/create-solana-dapp	656	MIT	finance	NFT & Digital Collectibles	The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates	
+metaplex-foundation/metaplex-program-library	644	NOASSERTION	finance	NFT & Digital Collectibles	Smart contracts maintained by the Metaplex team	
+nftstorage/nft.storage	602	NOASSERTION	finance	NFT & Digital Collectibles	**Notice: Uploads Decommissioned - Existing Data is Safe!**     	
+scrtlabs/SecretNetwork	584	NOASSERTION	finance	NFT & Digital Collectibles	𝕊 The Secret Network	
+nft-api/nft-api	543	NONE	finance	NFT & Digital Collectibles	The Moralis NFT API: Your ultimate ally for top-tier NFT dApps. Build gaming platforms, secure wallets, bustling marketplaces, analytics tools, dazzling dashboards, and more with ease. Unlock your NFT potential.	
+dmfxyz/murky	515	MIT	finance	NFT & Digital Collectibles	Merkle Proof Generator and Validator in Solidity	
+Quillhash/QuillAudit_smart_contract_audit_Reports	473	NONE	finance	NFT & Digital Collectibles	QuillAudits — Smart Contract Audits for DeFi, RWA, DEXs, Tokens, DeAI & DApps	
+firefly-iii/data-importer	857	AGPL-3.0	finance	Open Banking & Aggregation	The Firefly III Data Importer can import data into Firefly III	
+alexandremendoncaalvaro/CorridorKey-Runtime	784	NOASSERTION	finance	Open Banking & Aggregation	Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital.	
+reubano/csv2ofx	224	MIT	finance	Open Banking & Aggregation	A Python library and command line tool for converting csv to ofx and qif files	
+Netbetweenacclaim/whale-tracker	221	NONE	finance	Open Banking & Aggregation	Whale Tracker 2023 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless local...	
+hbci4j/hbci4java	196	LGPL-2.1	finance	Open Banking & Aggregation	Java-based FinTS protocol implementation that supports all features (chipTAN, pushTAN, HHD, SEPA, PSD2,...) 	
+adorsys/xs2a	154	AGPL-3.0	finance	Open Banking & Aggregation	Open Source NextGenPSD2 XS2A Implementation from adorsys.	
+ccavanaugh/jgnash	151	NOASSERTION	finance	Open Banking & Aggregation	jGnash Personal Finance	
+ezet/stripe-sdk	139	NOASSERTION	finance	Open Banking & Aggregation	A simple and flexible Stripe library for Flutter with complete support for SCA and PSD2.	
+dominique1993/Crypto-Whale-Tracker	97	MIT	finance	Open Banking & Aggregation	Real-time Ethereum whale tracker with WebSocket transaction streaming, ETH/ERC-20 decoding, and instant Telegram alerts above a configurable USD threshold. Wallet labels, counterparty analysis, smart-money PnL, exchange flows, SQLite storage, CSV/XLSX/JSON exp	
+adorsys/XS2A-Sandbox	81	AGPL-3.0	finance	Open Banking & Aggregation	Open Source PSD2-compatible banking system emulator solution from adorsys	
+ChrisBuilds/moneyterm	71	MIT	finance	Open Banking & Aggregation	TUI expense and budget tracker.	
+leogregianin/ofx-reader	70	MIT	finance	Open Banking & Aggregation	:money_with_wings: :moneybag: OFX, OFC and CSV bank statement formats library in Pascal/Object Pascal for Delphi and Lazarus	
+hrydgard/ppsspp	14851	NOASSERTION	finance	Payment Processors & Gateways	A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.	
+Swordfish90/Lemuroid	4483	GPL-3.0	finance	Payment Processors & Gateways	All in one emulator on Android!	
+pocket-nexus/pocketjs	1837	MIT	finance	Payment Processors & Gateways	PocketJS: create UI on every screen you love. JavaScript components drawn as native pixels on handhelds, desktops and embedded screens. Also home to Pocket3D and MicroTS.	
+pspdev/pspsdk	1204	NOASSERTION	finance	Payment Processors & Gateways	An open-source SDK for PSP homebrew development.	
+overdrivenpotato/rust-psp	831	NOASSERTION	finance	Payment Processors & Gateways	Rust on PSP. Panic and allocation support. Access PSP system libraries.	
+SlickAmogus/silent-hill-decomp	831	GPL-3.0	finance	Payment Processors & Gateways	Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.	
+TeamGDB/Yakumo	593	MIT	finance	Payment Processors & Gateways	Static recompilation of a PSP game into a native executable. Vulkan and SDL3. Bring your own copy of the game.	
+omnuron/omniclaw	570	MIT	finance	Payment Processors & Gateways	The first agentic payment network: policy-controlled, gasless, and real money-ready.  OmniClaw CLI + Financial Policy Engine let autonomous agents pay and earn safely at machine speed.	
+YuriSizuku/GalgameReverse	475	NONE	finance	Payment Processors & Gateways	Reverse Projects for Galgame	
+uofw/uofw	445	NOASSERTION	finance	Payment Processors & Gateways	The unofficial Official FirmWare, a complete latest PSP firmware reverse engineering project	
+SvenGDK/PS-Multi-Tools	421	AGPL-3.0	finance	Payment Processors & Gateways	Backup manager with utilities for PS1, PS2, PSX (DVR), PS3, PS4, PS5, PSP & PS Vita, containing downloads for homebrew, firmwares, payloads & more.	
+snuri00/psp-web-recomp	418	MIT	finance	Payment Processors & Gateways	PSP games in the browser, static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer	
+RupertAvery/PSXPackager	385	NOASSERTION	finance	Payment Processors & Gateways	A utility to convert Playstation disc images in various formats to PBP format and back	
+bucanero/pkgi-psp	294	GPL-3.0	finance	Payment Processors & Gateways	A PlayStation Portable (PSP) package download tool	
+paid-tw/skills	283	MIT	finance	Payment Processors & Gateways	台灣第三方金流 Skills for AI Agents - 藍新金流、綠界科技 ECPay、統一金流 PAYUNi	
+devnied/EMV-NFC-Paycard-Enrollment	1670	Apache-2.0	finance	Payment Terminals & SoftPOS	A Java library used to read and extract data from NFC EMV credit cards (Android/PCSC).	
+cuamckuu/nfc-frog	365	MIT	finance	Payment Terminals & SoftPOS	Contactless EMV credit card reader	
+renatomb/php_qrcode_pix	220	CC0-1.0	finance	Payment Terminals & SoftPOS	Implementação da geração de QRCode do Pix em PHP	
+santigimeno/node-pcsclite	176	ISC	finance	Payment Terminals & SoftPOS	Bindings over pcsclite to access Smart Cards	
+binaryfoo/emv-bertlv	174	MIT	finance	Payment Terminals & SoftPOS	Deciphering EMV data encoded in the not so basic "basic encoding rules".	
+stustapay/stustapay	160	AGPL-3.0	finance	Payment Terminals & SoftPOS	Electronic Payment System for Events using NFC Wristbands	
+tomkp/smartcard	153	MIT	finance	Payment Terminals & SoftPOS	PCSC smartcard reader library for nodejs	
+mvallim/emv-qrcode	136	Apache-2.0	finance	Payment Terminals & SoftPOS	Java Based EMV QR Code Generator and Parser (MPM, CPM)	
+tomkp/card-spy	120	NONE	finance	Payment Terminals & SoftPOS	SmartCard / ISO7816 / EMV diagnostic tool	
+thalesog/pix-utils	96	MIT	finance	Payment Terminals & SoftPOS	Set of tools to parse, generate and validate payments of Brazil Instant Payment System (Pix) in Javascript	
+mrautio/emv-card-simulator	80	Zlib	finance	Payment Terminals & SoftPOS	JavaCard implementation of an EMV card for payment terminal testing	
+mercari/go-emv-code	71	MIT	finance	Payment Terminals & SoftPOS	EMV® QR Code Encoder/Decoder for Go.	
+mrautio/emvpt	68	Zlib	finance	Payment Terminals & SoftPOS	Minimum Viable Payment Terminal	
+dongri/emv-qrcode	60	MIT	finance	Payment Terminals & SoftPOS	Golang Based EMV QR Code Generator and Parser (MPM, CPM)	
+bassrehab/ISO8583-Simulator	59	AGPL-3.0	finance	Payment Terminals & SoftPOS	Modern ISO 8583 simulator with CLI, Python SDK, and interactive notebooks. Parse/build/validate messages at 180k+ TPS. Supports all major card networks and EMV chip data.	
+Stellar-Pathfinder/stellar-pathfinder	131	Apache-2.0	finance	Payroll & Payouts	A corridor-integrity monitor for the Stellar network. Prices stablecoin→fiat-token corridors, scores routes against independent reference rates, and refuses to recommend when all options are unusable. Features wallet integration (Freighter/Albedo) and on-chain	
+hukenovs/hh_research	128	GPL-3.0	finance	Payroll & Payouts	Автоматизация поиска и исследования вакансий с сайта hh.ru (Headhunter) с помощью методов Python. Классификация данных, поиск статистических параметров.	
+Hikari-Tsai/software-salary	93	MIT	finance	Payroll & Payouts	台灣軟體工程師薪水分布與求職洞察	
+GuidoPenta/galactic-negotiation-guide-for-developers	71	MIT	finance	Payroll & Payouts	Tips & Tricks for salary negotiation	
+vlvagerviwager/salary-negotiation-tech	60	NONE	finance	Payroll & Payouts	Articles and posts on salary negotiation for devs/nerds/software engineers/tech people.	
+AIPMAndy/how-to-job-hop-and-raise-salary	48	MIT	finance	Payroll & Payouts	跳槽涨薪保姆级指南：选岗、简历、面试、谈薪全流程，10 章教程 + 26 份模板｜Job-hop & salary negotiation guide (China)	
+qiyascc/ubique-pay	39	NONE	finance	Payroll & Payouts	Cross-border payments: card → USDT (cheapest network) → card. Single hardened Django app with web UI, REST API and a real Telegram Mini App.	
+foorilla/ai-jobs-net-salaries	30	CC0-1.0	finance	Payroll & Payouts	A dataset of global salaries in AI/ML and Big Data.	
+cobiwave/simplefolio	14223	MIT	finance	Portfolio Trackers & Wealth	⚡️ A minimal portfolio template for Developers	
+codewithsadee/vcard-personal-portfolio	8161	MIT	finance	Portfolio Trackers & Wealth	vCard is a fully responsive personal portfolio website, responsive for all devices.	
+saadpasta/developerFolio	6644	GPL-3.0	finance	Portfolio Trackers & Wealth	🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)	
+soumyajit4419/Portfolio	6512	NONE	finance	Portfolio Trackers & Wealth	My self coded personal website build with React.js	
+RyanFitzgerald/devportfolio	4994	MIT	finance	Portfolio Trackers & Wealth	A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.	
+ashutosh1919/masterPortfolio	4226	MIT	finance	Portfolio Trackers & Wealth	🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.	
+portfolio-performance/portfolio	4150	EPL-1.0	finance	Portfolio Trackers & Wealth	Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.	
+AI4Finance-Foundation/FinRL-Trading	3911	Apache-2.0	finance	Portfolio Trackers & Wealth	FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading	
+rammcodes/Dopefolio	3758	GPL-3.0	finance	Portfolio Trackers & Wealth	Dopefolio 🔥 - Portfolio Template for Developers 🚀	
+fasiondog/hikyuu	3689	Apache-2.0	finance	Portfolio Trackers & Wealth	An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting	
+Tangent-Wei/crypto_info	2881	NONE	finance	Portfolio Trackers & Wealth	（原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新	
+skfolio/skfolio	2605	BSD-3-Clause	finance	Portfolio Trackers & Wealth	Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn	
+henryjeff/portfolio-website	2579	MIT	finance	Portfolio Trackers & Wealth		
+ncdai/chanhdai.com	2415	MIT	finance	Portfolio Trackers & Wealth	A pixel-perfect dev portfolio and shadcn registry.	
+said7388/developer-portfolio	2413	NONE	finance	Portfolio Trackers & Wealth	Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.	
+arifszn/gitprofile	2326	MIT	finance	Portfolio Trackers & Wealth	🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.	
+tbakerx/react-resume-template	2145	MIT	finance	Portfolio Trackers & Wealth	A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css	
+Jon-Becker/prediction-market-analysis	3932	MIT	finance	Prediction Markets & Forecasting	A framework for collecting and analyzing prediction market data, including the largest publicly available dataset of Polymarket and Kalshi market and trade data.	
+pmxt-dev/pmxt	2204	MIT	finance	Prediction Markets & Forecasting	CCXT for prediction markets. PMXT is a unified API for trading on Polymarket, Kalshi, and more.	
+evan-kolberg/prediction-market-backtesting	1266	NOASSERTION	finance	Prediction Markets & Forecasting	An extension for Nautilus Trader	
+ent0n29/polybot	1045	MIT	finance	Prediction Markets & Forecasting	Reverse-engineering of  every polymarket strategy and high-frequency trading infrastructure for Polymarket	
+komako-workshop/digital-oracle	910	MIT	finance	Prediction Markets & Forecasting	AI agent skill that answers macro questions — housing, gold, BTC, geopolitics — with probability estimates mined from 13 financial data sources (Polymarket, Kalshi, CFTC, SEC & more). For Claude Code / Cursor / Codex / OpenClaw. | 让 AI Agent 从金融数据中挖掘宏观趋势的数字先知	
+microsoft/0xDeCA10B	612	MIT	finance	Prediction Markets & Forecasting	Sharing Updatable Models (SUM) on Blockchain	
+OctagonAI/kalshi-trading-bot-cli	413	MIT	finance	Prediction Markets & Forecasting	AI-native CLI for trading Kalshi prediction markets. Runs deep fundamental research, generates independent probability estimates, computes edge vs. live order books, and executes trades with Kelly sizing and a 5-gate risk engine. 	
+brodyautomates/polymarket-pipeline	370	NONE	finance	Prediction Markets & Forecasting	Event-driven AI pipeline that monitors breaking news in real time, classifies market impact with Claude, and trades niche Polymarket markets automatically.	
+NYTEMODEONLY/polyterm	363	MIT	finance	Prediction Markets & Forecasting	Polymarket in your terminal.	
+yangyuan-zhen/PolyWeather	341	AGPL-3.0	finance	Prediction Markets & Forecasting	polymarket Intelligent Weather Quant Analysis Bot	
+CarlosIbCu/polymarket-kalshi-btc-arbitrage-bot	256	MIT	finance	Prediction Markets & Forecasting	Real-time arbitrage bot detecting risk-free opportunities in Bitcoin 1-Hour Price markets between Polymarket and Kalshi	
+livetennisapi/polymarket-tennis	253	MIT	finance	Prediction Markets & Forecasting	Polymarket tennis trading toolkit (Python, MIT, observe-only). Discover tennis markets on the Gamma API and match them to live tennis matches. Watch market price against live score, server and break point. The data layer for a Polymarket or Kalshi tennis tradi	
+betcode-org/flumine	251	MIT	finance	Prediction Markets & Forecasting	flūmine - Betting trading framework	
+bennyjo/phil	249	Apache-2.0	finance	Prediction Markets & Forecasting	Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.	
+jtranq/polyfill-rs	234	Apache-2.0	finance	Prediction Markets & Forecasting	The Fastest Polymarket Rust Client	
+lmammino/financial	726	MIT	finance	Real Estate Investing & Mortgages	A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser	
+kbr/fritzconnection	405	MIT	finance	Real Estate Investing & Mortgages	Python-Tool to communicate with the AVM Fritz!Box by the TR-064 protocol and the AHA-HTTP-Interface	
+algorand/pyteal	287	MIT	finance	Real Estate Investing & Mortgages	Algorand Smart Contracts in Python	
+PeterPawn/YourFritz	279	GPL-2.0	finance	Real Estate Investing & Mortgages	dynamic package management for AVM routers	
+dengji85/avm	137	NONE	finance	Real Estate Investing & Mortgages	Scrape. Organize. Play. Analyze. — Your local JAV hub.一款现代化的本地 JAV 管理平台。不只是管理文件，更能通过播放记录、标签频次、演员分布等数据，自动生成你的个人观影报告。集刮削、整理、播放、分析于一体，是你的私人影库，更是你的观影喜好洞察工具。无需安装，下载即用。	
+Azure/terraform-azurerm-avm-ptn-alz	134	MIT	finance	Real Estate Investing & Mortgages	Terraform Azure Verified Pattern Module for Azure Landing Zone Management Groups and Policy	
+smarthomeNG/smarthome	128	GPL-3.0	finance	Real Estate Investing & Mortgages	Device integration platform for your smart home	
+PeterPawn/decoder	97	GPL-2.0	finance	Real Estate Investing & Mortgages	"secrets" decoding for FRITZ!OS devices	
+tinymanorg/tealish	92	MIT	finance	Real Estate Investing & Mortgages	Tealish: A readable language for Algorand	
+MiladJoodi/Mortgages_Hamed	90	MIT	finance	Real Estate Investing & Mortgages	A Full Stack web application suitable for Mortgage use. In this project, an admin dashboard has also been developed, allowing you to publish new content. Authentication in this project is implemented using Clerk. 🤩	
+algorandfoundation/specs	73	CC-BY-4.0	finance	Real Estate Investing & Mortgages	Algorand Specifications	
+butterwecksolutions/Spotmarket-Switcher	61	NOASSERTION	finance	Real Estate Investing & Mortgages	Shell script that manages Victron Venus OS ESS-Systems and/or Shelly Plug S and/or AVM Fritz!DECT200 and 210 switchable sockets so that it charges/switches, when spot-market prices are low. 	
+Azure/terraform-azurerm-avm-res-keyvault-vault	50	MIT	finance	Real Estate Investing & Mortgages	Terraform Azure Verified Resource Module for Key Vault	
+Azure/terraform-azurerm-avm-ptn-aks-production	44	MIT	finance	Real Estate Investing & Mortgages	Terraform Azure Verified Pattern Module for Azure Kubernetes Service	
+smarthomeNG/plugins	43	NONE	finance	Real Estate Investing & Mortgages	Plugins for SmartHomeNG - The device integration platform for your smart home	
+SunWeb3Sec/DeFiHackLabs	6839	Apache-2.0	finance	Smart Contracts & DeFi	Reproduce DeFi hacked incidents using Foundry.	
+ccyanxyz/uniswap-arbitrage-analysis	2123	NONE	finance	Smart Contracts & DeFi	Uniswap arbitrage problem analysis	
+SunWeb3Sec/DeFiVulnLabs	1987	NONE	finance	Smart Contracts & DeFi	To learn common smart contract vulnerabilities using Foundry!	
+rango-exchange/rango-sdk	1657	Apache-2.0	finance	Smart Contracts & DeFi	Rango Exchange Typescript SDK	
+DimensionDev/Maskbook	1588	AGPL-3.0	finance	Smart Contracts & DeFi	The portal to the new, open Internet. ([I:b])	
+frankiefab100/Blockchain-Development-Resources	1575	CC0-1.0	finance	Smart Contracts & DeFi	The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.	
+JumpCrypto/crypto-reading-list	1416	NONE	finance	Smart Contracts & DeFi		
+rango-exchange/rango-client	1124	Apache-2.0	finance	Smart Contracts & DeFi	Rango Exchange Widget & Wallets Library	
+curvefi/curve-contract	1119	NOASSERTION	finance	Smart Contracts & DeFi	Vyper contracts used in Curve.fi exchange pools.	
+ApeWorX/ape	1054	Apache-2.0	finance	Smart Contracts & DeFi	Build and explore on-chain with Python	
+studydefi/money-legos	1030	MIT	finance	Smart Contracts & DeFi	💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!	
+PaulRBerg/prb-math	1008	MIT	finance	Smart Contracts & DeFi	Solidity library for advanced fixed-point math	
+superfluid-org/protocol-monorepo	903	NOASSERTION	finance	Smart Contracts & DeFi	Superfluid Protocol Monorepo: the specification, implementations, peripherals and development kits.	
+lawmaster10/howcryptoworksbook	898	NONE	finance	Smart Contracts & DeFi	A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and prediction markets.	
+zeriontech/defi-sdk	844	LGPL-3.0	finance	Smart Contracts & DeFi	DeFi SDK Makes Money Lego Work	
+Open-Dev-Society/OpenStock	21260	AGPL-3.0	finance	Stock Market Data & Analysis	OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.	
+xbtlin/ai-berkshire	17048	MIT	finance	Stock Market Data & Analysis	AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.	
+waditu/tushare	15484	BSD-3-Clause	finance	Stock Market Data & Analysis	TuShare is a utility for crawling historical data of China stocks	
+OpenByteInc/QuantDinger	13596	Apache-2.0	finance	Stock Market Data & Analysis	The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, MCP, and multi-tenant SaaS in one auditable stack.	
+simonlin1212/a-stock-data	11569	Apache-2.0	finance	Stock Market Data & Analysis	A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·	
+ValueCell-ai/valuecell	11048	Apache-2.0	finance	Stock Market Data & Analysis	ValueCell is a community-driven, multi-agent platform for financial applications.	
+JerBouma/FinanceDatabase	9595	MIT	finance	Stock Market Data & Analysis	This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.	
+achannarasappa/ticker	6264	GPL-3.0	finance	Stock Market Data & Analysis	Track stocks, crypto, and derivatives prices and positions in real time from your terminal	
+Jakeschincariol/day-trader-skill	5893	MIT	finance	Stock Market Data & Analysis	11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.	
+atilaahmettaner/tradingview-mcp	5224	MIT	finance	Stock Market Data & Analysis	MCP server for market analysis in AI assistants: screeners, multi-timeframe technical analysis, backtests and sentiment for crypto, stocks, forex and futures. 39 tools. Self-host free, or use the hosted version, TradingMCP.	
+shashankvemuri/Finance	4366	MIT	finance	Stock Market Data & Analysis	Python toolkit for quantitative finance: stock analysis, technical indicators, strategy backtesting, portfolio optimization, and financial modeling.	
+simonlin1212/Vibe-Research	3522	MIT	finance	Stock Market Data & Analysis	Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.	
+TradeMaster-NTU/TradeMaster	3124	Apache-2.0	finance	Stock Market Data & Analysis	TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:	
+exchange-core/exchange-core	2666	Apache-2.0	finance	Stock Market Data & Analysis	Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.	
+shirosaidev/stocksight	2552	Apache-2.0	finance	Stock Market Data & Analysis	Stock market analyzer and predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis	
+mop-tracker/mop	2214	MIT	finance	Stock Market Data & Analysis	Stock market tracker for hackers.	
+jmfernandes/robin_stocks	2126	MIT	finance	Stock Market Data & Analysis	This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the performance of your portfolio, and can also get tax documen	
+LastAncientOne/Stock_Analysis_For_Quant	2089	MIT	finance	Stock Market Data & Analysis	Various Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau	
+NatroTeam/NatroMacro	2442	GPL-3.0	finance	Telecom & Utility Billing (BSS)	A Bee Swarm Simulator macro for Windows	
+poingstudios/godot-admob-plugin	649	MIT	finance	Telecom & Utility Billing (BSS)	Complete AdMob (Google Mobile Ads SDK) plugin for Godot. Supports GDScript and C#.	
+hydra-billing/homs	329	Apache-2.0	finance	Telecom & Utility Billing (BSS)	Hydra Order Management System	
+canlab/CanlabCore	173	NOASSERTION	finance	Telecom & Utility Billing (BSS)	Core tools required for running Canlab Matlab toolboxes. The heart of this toolbox is object-oriented tools that enable interactive analysis of neuroimaging data and simple scripts using high-level commands tailored to neuroimaging analysis. 	
+fakufaku/fast_bss_eval	150	MIT	finance	Telecom & Utility Billing (BSS)	A fast implementation of bss_eval metrics for blind source separation	
+BrownsugarZeer/Multi_SSL	97	MIT	finance	Telecom & Utility Billing (BSS)	Combine sound source separation with SRP-PHAT to achieve multi-source localization.	
+nutcas3/telecom-platform	77	MIT	finance	Telecom & Utility Billing (BSS)	This is a comprehensive, sovereign cellular connectivity solution that enables organizations to deploy and manage their own private 5G/LTE networks. This full-stack platform provides end-to-end capabilities from core network integration to subscriber managemen	
+crlandsc/torch-log-wmse	50	Apache-2.0	finance	Telecom & Utility Billing (BSS)	logWMSE, an audio quality metric & loss function with support for digital silence target. Useful for training and evaluating audio source separation systems.	
+crlandsc/torch-l1-snr	45	MIT	finance	Telecom & Utility Billing (BSS)	Variations of L1 SNR Loss function for training audio source separation machine learning models	
+crlandsc/moises-light	37	MIT	finance	Telecom & Utility Billing (BSS)	Unofficial PyTorch implementation of "Moises-Light: Resource-efficient Band-split U-Net For Music Source Separation"	
+wso2/choreo-apim-mediation-policies	34	Apache-2.0	finance	Telecom & Utility Billing (BSS)	A set of mediation policies provided out of the box in Choreo	
+PirateAcrossValkyrie5580/bdo-viewer-resocket	27	NONE	finance	Telecom & Utility Billing (BSS)	Desktop companion to bdo-data-extractor: browse Black Desert items, recipes, knowledge, NPCs, with a cost-aware crafting calculator & gear builder. Wails3 + React. Fully local from your game files.	
+OllieJC/oebd	23	Unlicense	finance	Telecom & Utility Billing (BSS)	Octopus Energy Bill Downloader	
+GMDP-Developers/Billing-ISP	23	NONE	finance	Telecom & Utility Billing (BSS)	Aplikasi eBilling ISP Berbasis Website. Dengan fitur Pembayaran Tagihan, Pengelola Pelanggan, hingga Pelaporan pajak PPN, BHP / USO dan KSO yang sesuai dengan regulasi Indonesia	
+decentralized-identity/didcomm-demo	20	MIT	finance	Telecom & Utility Billing (BSS)	In browser DIDComm v2 demo.	
+QuantConnect/Lean	22432	Apache-2.0	finance	Trading Bots & Algo Trading	Lean Algorithmic Trading Engine by QuantConnect (Python, C#)	
+Drakkar-Software/OctoBot	6907	GPL-3.0	finance	Trading Bots & Algo Trading	Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.	
+charliedream1/ai_quant_trade	6718	Apache-2.0	finance	Trading Bots & Algo Trading	Stock AI Trader: 1-stop platform for learning, sim & live trading. Covers: stock basics, strategies, LLMs, factor mining, ML/DL/RL, graph nets, HFT, C++ deploy & JoinQuant code. 股票AI操盘手：一站式学习、模拟、实盘平台。涵盖：股票基础、策略、大模型、因子挖掘、机器学习/深度学习/强化学习、图网络、高频交易、C++部署及聚宽代码。	
+Superalgos/Superalgos	5775	Apache-2.0	finance	Trading Bots & Algo Trading	Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server cr	
+CryptoSignal/Crypto-Signal	5658	MIT	finance	Trading Bots & Algo Trading	Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks	
+freqtrade/freqtrade-strategies	5634	GPL-3.0	finance	Trading Bots & Algo Trading	Free trading strategies for Freqtrade bot	
+chrisleekr/binance-trading-bot	5596	Apache-2.0	finance	Trading Bots & Algo Trading	Automated Binance trading bot with pluggable strategies, historical backtesting, and a live dashboard	
+zvtvz/zvt	4327	MIT	finance	Trading Bots & Algo Trading	modular quant framework.	
+Haehnchen/crypto-trading-bot	3547	MIT	finance	Trading Bots & Algo Trading	Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)	
+thrasher-corp/gocryptotrader	3465	MIT	finance	Trading Bots & Algo Trading	A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.	
+alsk1992/CloddsBot	3080	MIT	finance	Trading Bots & Algo Trading	Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-mach	
+marketcalls/openalgo	2975	AGPL-3.0	finance	Trading Bots & Algo Trading	The Open Source Trading Ecosystem for Everyone.	
+Open-Trader/opentrader	2919	Apache-2.0	finance	Trading Bots & Algo Trading	🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!	
+brndnmtthws/thetagang	2766	AGPL-3.0	finance	Trading Bots & Algo Trading	ThetaGang is an IBKR bot for collecting money	
+wquguru/nof0	2753	NONE	finance	Trading Bots & Algo Trading	Open-source AI trading arena. A full reproduction of NOF1 Alpha Arena for running and comparing LLM agents.	
+blankly-finance/blankly	2485	LGPL-3.0	finance	Trading Bots & Algo Trading	🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.	
+vybenetwork/solana-swap-api	2479	NONE	finance	Trading Bots & Algo Trading	Solana Swap API & Router	
+TNT-Likely/PanWatch	2406	MIT	finance	Trading Bots & Algo Trading	PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。	
+barter-rs/barter-rs	2366	MIT	finance	Trading Bots & Algo Trading	Open-source Rust framework for building event-driven live-trading & backtesting systems	
+Lumiwealth/lumibot	2216	GPL-3.0	finance	Trading Bots & Algo Trading	Python trading framework with AI agents that actually place the trade. Backtest, paper and live trade on 12 brokers: stocks, options, futures, forex, crypto and prediction markets.	
+whittlem/pycryptobot	2059	Apache-2.0	finance	Trading Bots & Algo Trading	Python Crypto Bot (PyCryptoBot)	
+patrickfav/uber-apk-signer	2800	Apache-2.0	finance	Wallets & Custody	A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing scheme has an embedded debug keystore and auto verifies after si	
+square/certigo	1042	Apache-2.0	finance	Wallets & Custody	A utility to examine and validate certificates in a variety of formats	
+etherspot/skandha	612	MIT	finance	Wallets & Custody	A modular typescript implementation of ERC4337 (Account Abstraction) bundler client.	
+safe-global/safe-wallet-monorepo	598	GPL-3.0	finance	Wallets & Custody	Safe{Wallet} – smart account wallet	
+argentlabs/argent-contracts	598	GPL-3.0	finance	Wallets & Custody	Smart Contracts for Argent Wallet	
+Hakky54/ayza	580	Apache-2.0	finance	Wallets & Custody	🔐 An SSL library for configuring http client or server. Rich with features such as hot reloading ssl and trusting additional certificates during runtime, combining multiple keystores, loading pem files and os/jdk certificates, logging certificate information d	
+pcaversaccio/safe-tx-hashes-util	415	AGPL-3.0	finance	Wallets & Custody	This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard.	
+etherspot/etherspot-sdk	367	MIT	finance	Wallets & Custody	Etherspot - Account Abstraction SDK	
+ithacaxyz/account	327	MIT	finance	Wallets & Custody	All you need account for authentication and payments on the web.	
+gitmachtl/scripts	283	MIT	finance	Wallets & Custody	StakePool Operator Scripts. Learn how to create and manage your StakePool / manage your DRep stuff / do Governance Actions with these simple scripts. Hardware-Ledger/Trezor Support, Token/Asset Sending, Offline-Mode and much more...	
+silius-rs/silius	273	Apache-2.0	finance	Wallets & Custody	ERC-4337 (Account Abstraction) - modular and efficient bundler implementation in Rust.	
+pimlicolabs/permissionless.js	258	MIT	finance	Wallets & Custody	TypeScript utilities built on viem for ERC-4337: Account Abstraction	
+safe-global/safe-transaction-service	238	NOASSERTION	finance	Wallets & Custody	Keeps track of transactions sent via Safe contacts and confirmed transactions. It also keeps track of Ether and ERC20 token transfers to Safe contracts.	
+MetaMask/delegation-framework	230	Apache-2.0	finance	Wallets & Custody	The contracts that power the Delegation Framework	
+cioccarellia/ksprefs	226	Apache-2.0	finance	Wallets & Custody	Kotlin SharedPreferences wrapper & cryptographic android library.	
+manthan89-py/Plant-Disease-Detection	379	NONE	science	Agriculture Science & Precision Ag	Bases on Leaf images we are trying to predict plant disease using convolutional neural network. PyTorch implementation	
+DSSAT/dssat-csm-os	240	BSD-3-Clause	science	Agriculture Science & Precision Ag	DSSAT Cropping System Model	
+PlantSimulationLab/Helios	112	LGPL-2.1	science	Agriculture Science & Precision Ag	Open-source 3D simulator of plants and their environment: functional-structural plant modeling (FSPM), dynamic plant models, ray-traced radiation, photosynthesis, stomatal conductance, energy balance/ET, synthetic auto-annotated LiDAR and camera imagery, and p	
+daquinterop/Py_DSSATTools	94	GPL-3.0	science	Agriculture Science & Precision Ag	A Python library for crop modeling using DSSAT	
+DevilStudio27/Plant-Disease-Detection-and-Solution	90	MIT	science	Agriculture Science & Precision Ag	Plant disease detection and Solution using Image Classification	
+kashish-ag/Detection-of-Plant-Disease	82	MIT	science	Agriculture Science & Precision Ag	A plant disease detector (classifier) based on the PlantVillage dataset	
+zawrabh/Plant-Disease-Detection	67	NONE	science	Agriculture Science & Precision Ag	A comprehensive project utilizing CNN and Deep Learning to detect and classify diseases in plants, enabling farmers and experts to prevent outbreaks and protect crop yield.	
+jiezhou87/HANTS-GEE	53	NONE	science	Agriculture Science & Precision Ag	A scalable implimentation of HANTS for time sereis reconstruction in remote sensing on Google Earth Engine platform	
+Gregor-Mendel-Institute/aradeepopsis	52	GPL-3.0	science	Agriculture Science & Precision Ag	A versatile, fully open-source pipeline to extract phenotypic measurements from plant images	
+JasonYangCode/AppleLeaf9	50	CC-BY-4.0	science	Agriculture Science & Precision Ag	Dataset used in "Efficient Identification of Apple Leaf Diseases in the Wild Using Convolutional Neural Networks".	
+Digdgeo/Ndvi2Gif	47	MIT	science	Agriculture Science & Precision Ag	Multi-seasonal remote sensing analysis suite: composites, land cover classification, phenology, hydroperiod and SAR processing with Google Earth Engine	
+muqadasejaz/Plant-Detection-using-YOLOv8	34	MIT	science	Agriculture Science & Precision Ag	A computer vision-based project that uses YOLOv8 to detect and classify plant leaves in real time, helping identify healthy and diseased plants efficiently to support smart agriculture solutions.	
+SticsRPacks/CroptimizR	32	LGPL-3.0	science	Agriculture Science & Precision Ag	Estimate Crop Models' parameters	
+openlandmap/SoilSamples	31	NOASSERTION	science	Agriculture Science & Precision Ag	Soil Sample and Soil Profile Datasets: an Open Compilation	
+rufernan/RicePAL	31	NONE	science	Agriculture Science & Precision Ag	codes for RS paper: Rice-Yield Prediction with Multi-Temporal Sentinel-2 Data and 3D CNN: A Case Study in Nepal	
+Stellarium/stellarium	10152	GPL-2.0	science	Astronomy & Space Science	Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows, macOS and Haiku. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.	
+astropy/astropy	5412	BSD-3-Clause	science	Astronomy & Space Science	Astronomy and astrophysics core library	
+CelestiaProject/Celestia	2399	GPL-2.0	science	Astronomy & Space Science	Real-time 3D visualization of space.	
+AllskyTeam/allsky	1644	MIT	science	Astronomy & Space Science	A Raspberry Pi operated allsky camera	
+OpenSpace/OpenSpace	1297	NOASSERTION	science	Astronomy & Space Science	This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.	
+nasa/apod-api	1097	Apache-2.0	science	Astronomy & Space Science	Astronomy Picture of the Day API service	
+ad-si/Woxi	960	AGPL-3.0	science	Astronomy & Space Science	Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)	
+vedika-io/xalen-ephemeris	878	Apache-2.0	science	Astronomy & Space Science	Pure-Rust astronomical ephemeris for astrology — Vedic, Western, Chinese, and 9 world traditions	
+astropy/astroquery	801	BSD-3-Clause	science	Astronomy & Space Science	Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz	
+hyqzz/Solar-Wanderer	766	MIT	science	Astronomy & Space Science	Solar Wanderer / 遨游太阳系 - 1:1 Real-Time Solar System Explorer in the Browser. NASA JPL ephemeris, WebGL2, Three.js. From solar surface to 100,000 AU Oort Cloud.	
+spacetelescope/jwst	667	NOASSERTION	science	Astronomy & Space Science	processing pipeline for James Webb Space Telescope imagery and spectroscopy	
+jagi/meteor-astronomy	601	MIT	science	Astronomy & Space Science	Model layer for Meteor	
+asdf-format/asdf	568	BSD-3-Clause	science	Astronomy & Space Science	ASDF (Advanced Scientific Data Format) is a next generation interchange format for scientific data	
+yt-project/yt	560	NOASSERTION	science	Astronomy & Space Science	Main yt repository	
+trehn/termtrack	552	GPL-3.0	science	Astronomy & Space Science	Track satellites in your terminal	
+K-Dense-AI/scientific-agent-skills	56379	MIT	science	Bioinformatics & Genomics	Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with 	
+biopython/biopython	5267	NOASSERTION	science	Bioinformatics & Genomics	Official git repository for Biopython (originally converted from CVS)	
+google/deepvariant	3827	BSD-3-Clause	science	Bioinformatics & Genomics	DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.	
+nextflow-io/nextflow	3524	Apache-2.0	science	Bioinformatics & Genomics	A workflow language for data-driven computational pipelines	
+sokrypton/ColabFold	2980	MIT	science	Bioinformatics & Genomics	Making Protein folding accessible to all!	
+scverse/scanpy	2610	BSD-3-Clause	science	Bioinformatics & Genomics	Single-cell analysis in Python. Scales to >100M cells.	
+lh3/minimap2	2267	NOASSERTION	science	Bioinformatics & Genomics	A versatile pairwise aligner for genomic and spliced nucleotide sequences	
+soedinglab/MMseqs2	2166	MIT	science	Bioinformatics & Genomics	MMseqs2: ultra fast and sensitive search and clustering suite	
+aipoch/medical-research-skills	2025	MIT	science	Bioinformatics & Genomics	Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.	
+broadinstitute/gatk	2010	NOASSERTION	science	Bioinformatics & Genomics	Official code repository for GATK versions 4 and up	
+allenai/scispacy	2001	Apache-2.0	science	Bioinformatics & Genomics	A full spaCy pipeline and models for scientific/biomedical documents.	
+galaxyproject/galaxy	1895	NOASSERTION	science	Bioinformatics & Genomics	Data intensive science for everyone.	
+bioconda/bioconda-recipes	1883	MIT	science	Bioinformatics & Genomics	Conda recipes for the bioconda channel.	
+lh3/bwa	1774	GPL-3.0	science	Bioinformatics & Genomics	Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment)	
+shenwei356/seqkit	1606	MIT	science	Bioinformatics & Genomics	A cross-platform and ultrafast toolkit for FASTA/Q file manipulation	
+tangency-labs/solidcraft	14691	Apache-2.0	science	CAD & Mechanical Design	SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.	
+solvespace/solvespace	4239	GPL-3.0	science	CAD & Mechanical Design	Parametric 2d/3d CAD	
+atopile/atopile	4044	MIT	science	CAD & Mechanical Design	Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️	
+HakanSeven12/OpenCADStudio	3855	GPL-3.0	science	CAD & Mechanical Design	A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering	
+tscircuit/tscircuit	2950	MIT	science	CAD & Mechanical Design	Create real electronics with Typescript and React	
+leozide/leocad	2898	NONE	science	CAD & Mechanical Design	A CAD application for creating virtual LEGO models	
+Nate711/StanfordDoggoProject	2577	MIT	science	CAD & Mechanical Design	Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!	
+fougue/mayo	2342	BSD-2-Clause	science	CAD & Mechanical Design	3D CAD viewer and converter based on Qt + OpenCascade	
+mkeeter/antimony	2214	NONE	science	CAD & Mechanical Design	CAD from a parallel universe	
+tpaviot/pythonocc-core	1996	LGPL-3.0	science	CAD & Mechanical Design	Python package for 3D geometry CAD/BIM/CAM	
+qcad/qcad	1926	NOASSERTION	science	CAD & Mechanical Design	QCAD - The Open Source 2D CAD. QCAD is a cross-platform CAD solution for Windows, macOS and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).	
+wzyn20051216/solidworks-automation-skill	1843	MIT	science	CAD & Mechanical Design	Reliable AI Skill + MCP toolkit for agent-driven desktop CAD automation.	
+xibyte/jsketcher	1751	NOASSERTION	science	CAD & Mechanical Design	Parametric 2D and 3D modeler written in pure javascript	
+ricosjp/truck	1684	Apache-2.0	science	CAD & Mechanical Design	truck - Truck is a RUst Cad Kernel	
+libfive/libfive	1677	NONE	science	CAD & Mechanical Design	Infrastructure for solid modeling	
+rdkit/rdkit	3672	BSD-3-Clause	science	Chemistry & Materials	The official sources for the RDKit library	
+openbabel/openbabel	1405	GPL-2.0	science	Chemistry & Materials	Open Babel is a chemical toolbox designed to speak the many languages of chemical data.	
+gnina/gnina	1019	Apache-2.0	science	Chemistry & Materials	A deep learning framework for molecular docking	
+epam/ketcher	930	Apache-2.0	science	Chemistry & Materials	Web-based molecule sketcher	
+MolecularAI/aizynthfinder	913	MIT	science	Chemistry & Materials	A tool for retrosynthetic planning	
+MolecularAI/REINVENT4	898	Apache-2.0	science	Chemistry & Materials	AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization.	
+CalebBell/thermo	796	MIT	science	Chemistry & Materials	Thermodynamics and Phase Equilibrium component of Chemical Engineering Design Library (ChEDL)	
+datamol-io/datamol	557	Apache-2.0	science	Chemistry & Materials	Molecular Processing Made Easy.	
+chemosim-lab/ProLIF	554	Apache-2.0	science	Chemistry & Materials	Interaction Fingerprints for protein-ligand complexes and more	
+mcs07/PubChemPy	518	MIT	science	Chemistry & Materials	Python wrapper for the PubChem PUG REST API.	
+oddt/oddt	476	BSD-3-Clause	science	Chemistry & Materials	Open Drug Discovery Toolkit	
+chembl/chembl_webresource_client	453	NOASSERTION	science	Chemistry & Materials	Official Python client for accessing ChEMBL API	
+experimental-design/bofire	424	BSD-3-Clause	science	Chemistry & Materials	Experimental design and (multi-objective) bayesian optimization.	
+dewberryants/asciiMol	420	BSD-2-Clause	science	Chemistry & Materials	Curses based ASCII molecule viewer for terminals.	
+epam/Indigo	415	Apache-2.0	science	Chemistry & Materials	Universal cheminformatics toolkit, utilities and database search tools	
+make-all/tuya-local	3675	MIT	science	Climate, Weather & Environment	Local support for Tuya devices in Home Assistant	
+CliMA/Oceananigans.jl	1448	MIT	science	Climate, Weather & Environment	🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs	
+warifp/FacebookToolkit	1247	MIT	science	Climate, Weather & Environment	a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.	
+cloud-carbon-footprint/cloud-carbon-footprint	1053	Apache-2.0	science	Climate, Weather & Environment	Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage	
+RobHofmann/HomeAssistant-GreeClimateComponent	531	GPL-3.0	science	Climate, Weather & Environment	Custom Gree climate component written in Python3 for Home Assistant. Controls AC's supporting the Gree protocol.	
+ESCOMP/CESM	496	NOASSERTION	science	Climate, Weather & Environment	The Community Earth System Model	
+team-ocean/veros	401	GPL-3.0	science	Climate, Weather & Environment	The versatile ocean simulator, in pure Python, powered by JAX.	
+DAB-LABS/HAIR	350	MIT	science	Climate, Weather & Environment	Infrared (IR) device admin panel for Home Assistant. Learn signals, assign to devices, create triggers, all from the GUI. Built on HA 2026.6+ infrared platform.	
+ropensci/rnoaa	342	NOASSERTION	science	Climate, Weather & Environment	R interface to many NOAA data APIs	
+artem-sedykh/mini-climate-card	326	MIT	science	Climate, Weather & Environment	Minimalistic climate card for Home Assistant Lovelace UI	
+UW-Hydro/VIC	307	MIT	science	Climate, Weather & Environment	The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model	
+jcwillox/hass-template-climate	284	MIT	science	Climate, Weather & Environment	❄️Templatable Climate Device for Home Assistant, Supports Running Actions On Service Calls.	
+OGGM/oggm	270	BSD-3-Clause	science	Climate, Weather & Environment	Open Global Glacier Model	
+geoschem/geos-chem	242	NOASSERTION	science	Climate, Weather & Environment	GEOS-Chem "Science Codebase" repository.  Contains GEOS-Chem science routines, run directory generation scripts, and interface code.  This repository is used as a submodule within the GCClassic and GCHP wrappers, as well as in other modeling contexts (external	
+gwittebolle/claude-carbon	237	MIT	science	Climate, Weather & Environment	Track the carbon footprint of your Claude Code sessions, in the terminal and the Claude desktop app	

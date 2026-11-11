@@ -1,0 +1,25 @@
+You are enriching a catalog of open-source projects that someone could self-host, rebrand (white-label) and turn into a business. Input file: {IN}
+It is a TSV, one repo per line, columns: slug, stars, license, sector, category, GitHub description, curated notes (may be empty).
+
+For EVERY input line write exactly one output line with exactly 13 tab-separated columns (no header, no quotes, no blank lines):
+1. slug (copy exactly as given)
+2. fit: 1-5, how good a basis for a business this is. 5 = complete product you could host or sell almost as-is; 4 = strong product that needs packaging/onboarding; 3 = useful tool or component, a business must be built around it; 2 = library/framework/sdk, the business is services or hosting around it; 1 = not a business basis (tiny demo, personal project, dataset, abandoned, or you cannot tell what it is).
+3. type: one of App, Platform, Framework, Library, Starter, Hardware, Game, Content, Tool, Model
+4. what it does: ≤18 words, plain English, no marketing fluff
+5. replaces: up to 5 commercial products/services it competes with, comma-separated ("-" if none)
+6. ideal customers: ≤10 words
+7. business models: 2-3 separated by "; ", chosen from: Managed hosting; Vertical SaaS; White-label reseller; Setup + support retainer; Mobile app on top; Marketplace; Consulting/implementation; Training/courses; Hardware kits/assembly; Content/membership; Agency service; Premium plugins/add-ons; API/usage-based; Local service business
+8. niche ideas: exactly 3 separated by "; ", each ≤7 words and specific ("X for dental clinics", "X for Spanish-speaking landlords", "X for esports teams")
+9. pricing idea: ≤10 words (e.g. "$29-99/mo per site, free tier")
+10. white-label effort: Low, Medium or High
+11. effort reason: ≤8 words (e.g. "theming built in, multi-tenant" / "single-tenant, heavy Java stack")
+12. gotchas: ≤12 words on license, trademark, complexity or regulation; "-" if none. AGPL = must publish server-side modifications; GPL = fine for hosting, distributed apps must ship source; NOASSERTION/NONE = read the license first; mention trademark when the project name is a known brand; mention non-commercial hardware licenses.
+13. category fix: "-" to keep the given category, or the name of a clearly better category from the same sector (only when obviously wrong)
+
+Rules: every column 4-12 must be written specifically for THAT repo, by you, one repo at a time. Do NOT generate rows from per-category templates, defaults or scripts: two repos in the same category must still get different customers, niche ideas and pricing that follow from what each one actually does (a file is rejected if the niche-ideas column is not at least 80% unique). Use the description plus what you know about the project; never invent features. If you do not recognise a repo and its description is empty or vague, give fit 1 or 2 and say "unclear project" in column 4. Keep every column short; tabs only between columns.
+
+Write the output to {OUT} with heredoc appends of ~40 lines each (cat >> file <<'EOF' ... EOF). FLUSH EARLY: append your first chunk as one of your first actions and keep appending every ~40 lines; never accumulate rows in temp files or in your head, because the session can be cut off at any moment and only rows already appended survive. Use {TMP} for any temp files; do not write elsewhere. When finished validate and fix until all pass:
+  awk -F'\t' 'NF!=13' {OUT} | wc -l        -> must print 0
+  wc -l < {OUT}                            -> must equal wc -l < {IN}
+  diff <(cut -f1 {IN} | sort) <(cut -f1 {OUT} | sort)   -> must be empty (every slug exactly once)
+Reply with only: lines written, number with fit>=3, and any slugs you could not place.

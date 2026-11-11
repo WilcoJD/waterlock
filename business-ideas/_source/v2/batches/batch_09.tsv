@@ -1,0 +1,380 @@
+songquanpeng/one-api	37351	MIT	hosting	API Gateways	LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a s	
+higress-group/higress	9728	Apache-2.0	hosting	API Gateways	🤖 AI Gateway | AI Native API Gateway	
+maximhq/bifrost	9422	Apache-2.0	hosting	API Gateways	Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK o	
+apache/shenyu	8912	Apache-2.0	hosting	API Gateways	Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.	
+tbphp/gpt-load	7200	MIT	hosting	API Gateways	Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。	
+oomol-lab/open-connector	6197	NOASSERTION	hosting	API Gateways	Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.	
+looplj/axonhub	5437	Apache-2.0	hosting	API Gateways	⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.	
+spring-cloud/spring-cloud-gateway	4919	Apache-2.0	hosting	API Gateways	An API Gateway built on Spring Framework and Spring Boot providing routing and more.	
+IBM/mcp-context-forge	4767	Apache-2.0	hosting	API Gateways	An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.	
+emissary-ingress/emissary	4526	Apache-2.0	hosting	API Gateways	open source Kubernetes-native API gateway for microservices built on the Envoy Proxy	
+algorithmicsuperintelligence/optillm	4338	Apache-2.0	hosting	API Gateways	Optimizing inference proxy for LLMs	
+fagongzi/manba	3304	Apache-2.0	hosting	API Gateways	HTTP API Gateway	
+aspnetrun/run-aspnetcore-microservices	3276	MIT	hosting	API Gateways	Microservices on .NET platforms used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation with using late	
+ExpressGateway/express-gateway	3028	Apache-2.0	hosting	API Gateways	A microservices API Gateway built on top of Express.js	
+theagentrouter/agent-router	2366	Apache-2.0	hosting	API Gateways	Manages Unified Access to Generative AI Services built on Envoy Gateway	
+NatLabRockies/api-umbrella	2205	MIT	hosting	API Gateways	Open source API management platform	
+Kludex/mangum	2146	MIT	hosting	API Gateways	AWS Lambda support for ASGI applications	
+trailbaseio/trailbase	5746	OSL-3.0	hosting	Backend-as-a-Service	An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime.	
+prest/prest	4630	MIT	hosting	Backend-as-a-Service	Instant REST and MCP APIs for PostgreSQL and MySQL, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQL support since v2.5	
+appwrite/sdk-for-react-native	4245	BSD-3-Clause	hosting	Backend-as-a-Service	[READ ONLY] Official Appwrite React Native SDK 💙 ⚛︎	
+bknd-io/bknd	3780	Apache-2.0	hosting	Backend-as-a-Service	Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.	
+butterbase-ai/butterbase	3030	Apache-2.0	hosting	Backend-as-a-Service	Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.	
+smallbets/userbase	2338	MIT	hosting	Backend-as-a-Service	Create secure and private web apps using only static JavaScript, HTML, and CSS.	
+alash3al/sqler	2068	Apache-2.0	hosting	Backend-as-a-Service	write APIs using direct SQL queries with no hassle, let's rethink about SQL	
+daptin/daptin	1899	LGPL-3.0	hosting	Backend-as-a-Service	Self-hosted application server for schema-driven APIs, identity, files, automation, integrations, realtime, metering, and protocols.	
+CloudBoost/cloudboost	1461	Apache-2.0	hosting	Backend-as-a-Service	Realtime JavaScript Backend. 	
+pockethost/pockethost	1444	MIT	hosting	Backend-as-a-Service	Open source multitenant PocketBase server	
+measure-sh/measure	1433	Apache-2.0	hosting	Backend-as-a-Service	Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.	
+EmbeddedLLM/JamAIBase	1104	Apache-2.0	hosting	Backend-as-a-Service	The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.	
+ConduitPlatform/Conduit	925	MIT	hosting	Backend-as-a-Service	Batteries-included backend that works with any stack.	
+Erudika/para	574	Apache-2.0	hosting	Backend-as-a-Service	Multitenant backend server for building web and mobile apps rapidly. The backend for busy developers. (self-hosted or hosted)	
+fastschema/fastschema	574	MIT	hosting	Backend-as-a-Service	All-in-One Backend as a Service with Headless CMS Power	
+MichaelCade/90DaysOfDevOps	30826	NOASSERTION	hosting	Backups & Disaster Recovery	This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases sur	
+nextcloud/all-in-one	10797	AGPL-3.0	hosting	Backups & Disaster Recovery	📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.	
+velero-io/velero	10368	Apache-2.0	hosting	Backups & Disaster Recovery	Backup and migrate Kubernetes applications and their persistent volumes	
+databasus/databasus	9249	Apache-2.0	hosting	Backups & Disaster Recovery	PostgreSQL backup tool with Point-In-Time-Recovery and restore verification	
+BlueMatthew/WechatExporter	8580	GPL-2.0	hosting	Backups & Disaster Recovery	Wechat Chat History Exporter 微信聊天记录导出备份程序	
+elasticsearch-dump/elasticsearch-dump	7945	Apache-2.0	hosting	Backups & Disaster Recovery	Import and export tools for elasticsearch & opensearch	
+XayahSuSuSu/Android-DataBackup	7573	GPL-3.0	hosting	Backups & Disaster Recovery	DataBackup for Android 7.0+	
+mtkennerly/ludusavi	6533	MIT	hosting	Backups & Disaster Recovery	Backup tool for PC game saves	
+spatie/laravel-backup	6027	MIT	hosting	Backups & Disaster Recovery	A package to backup your Laravel app	
+ReagentX/imessage-exporter	5732	GPL-3.0	hosting	Backups & Disaster Recovery	Export iMessage data + run iMessage Diagnostics	
+teddysun/across	5372	Apache-2.0	hosting	Backups & Disaster Recovery	Across the Great Wall we can reach every corner in the world	
+tickstep/aliyunpan	5133	Apache-2.0	hosting	Backups & Disaster Recovery	阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。	
+hbons/SparkleShare	5000	GPL-3.0	hosting	Backups & Disaster Recovery	Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows	
+s3tools/s3cmd	4914	GPL-2.0	hosting	Backups & Disaster Recovery	Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).	
+kingcharleslzy-ai/dsh-purge	4863	MIT	hosting	Backups & Disaster Recovery	dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。	
+backup/backup	4859	MIT	hosting	Backups & Disaster Recovery	Easy full stack backup operations on UNIX-like systems.	
+Qovery/Replibyte	4419	GPL-3.0	hosting	Backups & Disaster Recovery	Seed your development database with real data ⚡️	
+offen/docker-volume-backup	4068	MPL-2.0	hosting	Backups & Disaster Recovery	Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage	
+syncthing/syncthing-macos	4007	MIT	hosting	Backups & Disaster Recovery	Official frugal and native macOS Syncthing application bundle	
+rsnapshot/rsnapshot	3690	GPL-2.0	hosting	Backups & Disaster Recovery	a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)	
+libarchive/libarchive	3662	NOASSERTION	hosting	Backups & Disaster Recovery	Multi-format archive and compression library	
+laurent22/rsync-time-backup	3609	NONE	hosting	Backups & Disaster Recovery	Time Machine style backup with rsync.	
+wal-e/wal-e	3470	BSD-3-Clause	hosting	Backups & Disaster Recovery	Continuous Archiving for Postgres	
+rustic-rs/rustic	3382	Apache-2.0	hosting	Backups & Disaster Recovery	rustic - fast, encrypted, and deduplicated backups powered by Rust	
+elvishew/xLog	3348	Apache-2.0	hosting	Backups & Disaster Recovery	Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.	
+kubernetes-sigs/kubespray	18822	Apache-2.0	hosting	Bare Metal Provisioning	Deploy a Production Ready Kubernetes Cluster	
+ubicloud/ubicloud	12394	AGPL-3.0	hosting	Bare Metal Provisioning	Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.	
+vvaltchev/tilck	3140	BSD-2-Clause	hosting	Bare Metal Provisioning	A Tiny Linux-Compatible Kernel	
+rtic-rs/rtic	2430	Apache-2.0	hosting	Bare Metal Provisioning	Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers	
+rsta2/circle	2342	GPL-3.0	hosting	Bare Metal Provisioning	A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)	
+poseidon/typhoon	2055	MIT	hosting	Bare Metal Provisioning	Minimal and free Kubernetes distribution with Terraform	
+openelb/openelb	1771	Apache-2.0	hosting	Bare Metal Provisioning	Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization	
+dwhinham/mt32-pi	1740	GPL-3.0	hosting	Bare Metal Provisioning	🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.	
+rustsbi/rustsbi	1343	MIT	hosting	Bare Metal Provisioning	RISC-V Supervisor Binary Interface (RISC-V SBI) library in Rust; runs on M or HS mode; good support for embedded Rust ecosystem. For binary download see firmware folder.	
+syself/cluster-api-provider-hetzner	1140	Apache-2.0	hosting	Bare Metal Provisioning	Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities	
+rokath/trice	1014	MIT	hosting	Bare Metal Provisioning	🟢 Ultra-fast, tiny C/C++ tracing and logging, even in interrupts ⚡, with printf-like syntax and real-time PC visualization 💻	
+oracle/terraform-provider-oci	878	MPL-2.0	hosting	Bare Metal Provisioning	Terraform Oracle Cloud Infrastructure provider	
+ckormanyos/real-time-cpp	817	BSL-1.0	hosting	Bare Metal Provisioning	Source code for the book Real-Time C++, by Christopher Kormanyos	
+andreibordy/viking	747	MIT	hosting	Bare Metal Provisioning	Simple way to manage your remote machines and SSH keys	
+oracle/oci-cli	686	NOASSERTION	hosting	Bare Metal Provisioning	Command Line Interface for Oracle Cloud Infrastructure	
+XIU2/CloudflareSpeedTest	29854	GPL-3.0	hosting	CDN & Edge Caching	🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~	
+digitalocean/nginxconfig.io	28244	MIT	hosting	CDN & Edge Caching	⚙️ NGINX config generator on steroids 💉	
+usablica/intro.js	23452	NOASSERTION	hosting	CDN & Edge Caching	Lightweight, user-friendly onboarding tour library	
+yonggekkk/Cloudflare-vless-trojan	16733	NONE	hosting	CDN & Edge Caching	CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式	
+cdnjs/cdnjs	10740	MIT	hosting	CDN & Edge Caching	🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.	
+jsdelivr/jsdelivr	6419	MIT	hosting	CDN & Edge Caching	A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM	
+XPoet/picx	5099	AGPL-3.0	hosting	CDN & Edge Caching	🏞️ PicX，免费、安全的一站式在线图片处理平台。	
+NewFuture/DDNS	4688	MIT	hosting	CDN & Edge Caching	🌐自动更新域名解析到本机IP,支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...	
+esm-dev/esm.sh	4191	MIT	hosting	CDN & Edge Caching	A no-build JavaScript CDN for modern web development.	
+zu1k/nali	4107	MIT	hosting	CDN & Edge Caching	An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.	
+leandromoreira/cdn-up-and-running	3715	BSD-3-Clause	hosting	CDN & Edge Caching	CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.	
+justjavac/ReplaceGoogleCDN	3692	GPL-3.0	hosting	CDN & Edge Caching	⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。	
+glincker/thesvg	2966	MIT	hosting	CDN & Edge Caching	The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figma, VS Code, Raycast and MCP. Free, MIT, no gatekeeping.	
+PoemMisty/CFData-WEB	2564	GPL-3.0	hosting	CDN & Edge Caching	CFData-Web 是一个基于 Go 开发的 Cloudflare IP 测试与筛选工具	
+unjs/ipx	2462	MIT	hosting	CDN & Edge Caching	🖼️ High performance, secure and easy-to-use image optimizer.	
+fscarmen/ArgoX	2075	GPL-3.0	hosting	CDN & Edge Caching	ArgoX（Argo + Xray）—— 一键多协议脚本。基于 Xray 核心，支持 Reality、Hysteria2、VLESS、VMess、Trojan、Shadowsocks、XHTTP 等十余种协议，搭配 Cloudflare Argo 隧道，内置自定义 WARP 路由分流（域名 / geosite / geoip），支持多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFI / SFA / SFM），无须域名、无须证书、功能强大、配置灵活。	
+KeygraphHQ/shannon	51367	AGPL-3.0	hosting	CI/CD	Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.	
+gitleaks/gitleaks	30756	MIT	hosting	CI/CD	Find secrets with Gitleaks 🔑	
+Tracer-Cloud/opensre	12746	Apache-2.0	hosting	CI/CD	The open-source agent for CI/CD reliability.	
+earthly/earthly	12053	MPL-2.0	hosting	CI/CD	Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.	
+Tikam02/DevOps-Guide	9379	MIT	hosting	CI/CD	 DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.	
+sottlmarek/DevSecOps	6943	MIT	hosting	CI/CD	Ultimate DevSecOps library	
+werf/werf	4736	Apache-2.0	hosting	CI/CD	A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.	
+iterative/cml	4191	Apache-2.0	hosting	CI/CD	♾️ CML - Continuous Machine Learning | CI/CD for ML	
+moonrepo/moon	4178	MIT	hosting	CI/CD	A build system and monorepo management tool for the web ecosystem, written in Rust.	
+hasura/gitkube	3844	Apache-2.0	hosting	CI/CD	Build and deploy docker images to Kubernetes using git push	
+dorny/paths-filter	3390	MIT	hosting	CI/CD	Conditionally run actions based on files modified by PR, feature branch or pushed commits	
+Pradumnasaraf/DevOps	3282	GPL-3.0	hosting	CI/CD	I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.	
+peter-evans/create-pull-request	2872	MIT	hosting	CI/CD	A GitHub action to create a pull request for changes to your repository in the actions workspace	
+postgres-ai/database-lab-engine	2786	Apache-2.0	hosting	CI/CD	DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.	
+erda-project/erda	2759	Apache-2.0	hosting	CI/CD	An enterprise-grade Cloud-Native application platform for Kubernetes.	
+tj-actions/changed-files	2736	MIT	hosting	CI/CD	:octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.	
+flipkart-incubator/Astra	2673	Apache-2.0	hosting	CI/CD	Automated Security Testing For REST API's	
+sk3pp3r/cheat-sheet-pdf	2464	MIT	hosting	CI/CD	📜 A Cheat-Sheet Collection from the WWW	
+kunal-kushwaha/DevOps-Bootcamp	2431	NONE	hosting	CI/CD	This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of WeMakeDevs.	
+kylemanna/docker-openvpn	9088	MIT	hosting	Certificates & PKI	🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA	
+ly4k/Certipy	3720	MIT	hosting	Certificates & PKI	Tool for Active Directory Certificate Services enumeration and abuse	
+AutomatedLab/AutomatedLab	2236	MIT	hosting	Certificates & PKI	AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, E	
+hwdsl2/openvpn-install	1754	MIT	hosting	Certificates & PKI	OpenVPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE, Amazon Linux and Raspberry Pi OS. Includes interactive setup and client management.	
+cloudflare/circl	1737	NOASSERTION	hosting	Certificates & PKI	CIRCL: Cloudflare Interoperable Reusable Cryptographic Library	
+webprofusion/certify	1716	NOASSERTION	hosting	Certificates & PKI	Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com	
+jakehildreth/Locksmith	1638	NOASSERTION	hosting	Certificates & PKI	A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.	
+Tongsuo-Project/Tongsuo	1557	Apache-2.0	hosting	Certificates & PKI	铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library	
+debops/debops	1428	NONE	hosting	Certificates & PKI	DebOps - Your Debian-based data center in a box	
+PeculiarVentures/PKI.js	1404	NOASSERTION	hosting	Certificates & PKI	PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (Web Cryptography API) and requires no plug-ins.	
+SSLMate/certspotter	1199	MPL-2.0	hosting	Certificates & PKI	Lightweight Certificate Transparency Log Monitor	
+letsencrypt/pebble	802	MPL-2.0	hosting	Certificates & PKI	A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.	
+openxpki/openxpki	702	Apache-2.0	hosting	Certificates & PKI	OpenXPKI Code	
+xipki/xipki	612	NOASSERTION	hosting	Certificates & PKI	XiPKI: Compact open source PKI (CA, OCSP responder, certificate protocols ACME, CMP, EST, SCEP), with full support of PQC MLDSA (Dilithium) and MLKEM (Kyber).	
+NoMoreFood/putty-cac	582	NOASSERTION	hosting	Certificates & PKI	Windows SSH client with smart card, certificate, and FIDO authentication, including YubiKey and passkey support, plus tabbed terminal sessions.	
+kubeshark/kubeshark	12133	Apache-2.0	hosting	Chaos Engineering & Reliability	eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.	
+tylertreat/comcast	10517	Apache-2.0	hosting	Chaos Engineering & Reliability	Simulating shitty network connections so you can build better systems.	
+k8sgpt-ai/k8sgpt	8304	Apache-2.0	hosting	Chaos Engineering & Reliability	Giving Kubernetes Superpowers to everyone	
+linkedin/school-of-sre	8153	NOASSERTION	hosting	Chaos Engineering & Reliability	At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.	
+chaos-mesh/chaos-mesh	7970	Apache-2.0	hosting	Chaos Engineering & Reliability	A Chaos Engineering Platform for Kubernetes.	
+chaosblade-io/chaosblade	6464	Apache-2.0	hosting	Chaos Engineering & Reliability	An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）	
+litmuschaos/litmus	5742	Apache-2.0	hosting	Chaos Engineering & Reliability	Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q	
+mock-server/mockserver-monorepo	5006	Apache-2.0	hosting	Chaos Engineering & Reliability	MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more on a single port, with additional support for HTTP/3, message	
+alexei-led/pumba	3183	Apache-2.0	hosting	Chaos Engineering & Reliability	Chaos testing, network emulation, and stress testing tool for containers	
+chaterm/Chaterm	3107	NOASSERTION	hosting	Chaos Engineering & Reliability	Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoot, and automate services using natural language and intelligent agents.	
+bregman-arie/sre-checklist	2574	Apache-2.0	hosting	Chaos Engineering & Reliability	A checklist of anyone practicing Site Reliability Engineering	
+anzhihe/learning	2173	NONE	hosting	Chaos Engineering & Reliability	Learning Shell，Python，Golang，System，Network	
+chaostoolkit/chaostoolkit	2035	Apache-2.0	hosting	Chaos Engineering & Reliability	Chaos Engineering Toolkit & Orchestration for Developers	
+alibaba/SREWorks	2010	Apache-2.0	hosting	Chaos Engineering & Reliability	Cloud Native DataOps & AIOps Platform | 云原生数智运维平台 	
+powerfulseal/powerfulseal	1987	Apache-2.0	hosting	Chaos Engineering & Reliability	A powerful testing tool for Kubernetes clusters.	
+vantage-sh/ec2instances.info	5777	MIT	hosting	Cloud Cost & FinOps	Amazon EC2 instance comparison site	
+robusta-dev/krr	4778	MIT	hosting	Cloud Cost & FinOps	Prometheus-based Kubernetes Resource Recommendations	
+hystax/optscale	2240	Apache-2.0	hosting	Cloud Cost & FinOps	FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.	
+gocrane/crane	2060	Apache-2.0	hosting	Cloud Cost & FinOps	Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only to help users to manage cloud cost easier but also ensure the quality of applications.  	
+valqore/valqore	1825	NOASSERTION	hosting	Cloud Cost & FinOps	Safety-first guardrails for AI-driven cloud and Kubernetes operations	
+towardsthecloud/cloudburn	1802	Apache-2.0	hosting	Cloud Cost & FinOps	Open-source policy engine that blocks bad AWS spending patterns before they ship and remediates what's already burning.	
+mivano/azure-cost-cli	1121	Apache-2.0	hosting	Cloud Cost & FinOps	CLI tool to perform cost analysis on your Azure subscription	
+openops-cloud/openops	1081	NOASSERTION	hosting	Cloud Cost & FinOps	The batteries-included, No-Code FinOps automation platform, with the AI you trust.	
+AltimateAI/altimate-code	817	MIT	hosting	Cloud Cost & FinOps	Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered.	
+similarweb/finala	733	NOASSERTION	hosting	Cloud Cost & FinOps	Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.	
+microsoft/finops-toolkit	624	MIT	hosting	Cloud Cost & FinOps	Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.	
+vantage-sh/handbook.vantage.sh	580	NOASSERTION	hosting	Cloud Cost & FinOps	The Cloud Cost Handbook is a free, open-source, community-supported set of guides meant to help explain often-times complex pricing of public cloud infrastructure and service providers in plain english. 	
+aws-solutions-library-samples/cloud-intelligence-dashboards-framework	539	MIT-0	hosting	Cloud Cost & FinOps	Command Line Interface tool for Cloud Intelligence Dashboards deployment	
+GlitterKill/sdl-mcp	497	NOASSERTION	hosting	Cloud Cost & FinOps	Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools.  It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and impr	
+realopslabs/kubeledger	486	NOASSERTION	hosting	Cloud Cost & FinOps	System of Record for Kubernetes cost accounting: per-namespace CPU, memory and GPU usage, with the 30% non-allocatable overhead made visible. Connects to AI assistants via MCP (Claude, Gemini, Mistral, Cursor) for plain-language analysis. Formerly Kube-Opex-An	
+eclipse-theia/theia	21745	EPL-2.0	hosting	Cloud Dev Environments	Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.	
+gitpod-io/gitpod	13800	AGPL-3.0	hosting	Cloud Dev Environments	The developer platform for on-demand cloud development environments to create software faster and more securely.	
+tilt-dev/tilt	10124	Apache-2.0	hosting	Cloud Dev Environments	Define your dev environment as code. For microservice apps on Kubernetes.	
+flox/flox	4196	GPL-2.0	hosting	Cloud Dev Environments	The Deterministic Foundation for your SDLC	
+xpf0000/FlyEnv	3345	BSD-3-Clause	hosting	Cloud Dev Environments	Native local development environment for Windows, macOS & Linux. A modern alternative to XAMPP, MAMP, Laragon and Laravel Herd, with runtimes, databases, web servers, local sites, HTTPS, AI coding tools and MCP.	
+stravu/crystal	3129	MIT	hosting	Cloud Dev Environments	(Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.	
+tensorchord/envd	2243	Apache-2.0	hosting	Cloud Dev Environments	🏕️ Reproducible development environment for humans and agents	
+linb/CrossUI	2027	MIT	hosting	Cloud Dev Environments	CrossUI is a free Cross-Browser Javascript framework with cutting-edge functionality for rich web application. NEW: studio.crossui.com	
+stepchowfun/toast	1635	MIT	hosting	Cloud Dev Environments	Containerize your development and continuous integration environments. 🥂	
+lerd-env/lerd	1498	MIT	hosting	Cloud Dev Environments	Open-source local PHP development environment for Linux, macOS and Windows (WSL2). Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless.	
+serversideup/spin	1493	GPL-3.0	hosting	Cloud Dev Environments	🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.	
+devopsgroup-io/vagrant-hostmanager	1459	MPL-2.0	hosting	Cloud Dev Environments	:pencil: A Vagrant plugin that manages hosts files within a multi-machine environment.	
+tractordev/apptron	1212	NONE	hosting	Cloud Dev Environments	Local-first development platform	
+tractordev/wanix	855	MIT	hosting	Cloud Dev Environments	A compute toolkit for the web with the depth of Plan 9 from Bell Labs	
+Cosmic-Ide/Cosmic-IDE	758	GPL-3.0	hosting	Cloud Dev Environments	A desktop-class, general-purpose IDE for Android, powered by a full Linux environment.	
+GoogleContainerTools/jib	14451	Apache-2.0	hosting	Container Registries	🏗 Build container images for your Java applications.	
+dongyubin/DockerHub	9833	NONE	hosting	Container Registries	2026年11月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器	
+dqzboy/Docker-Proxy	4456	Apache-2.0	hosting	Container Registries	自建 Docker 镜像加速与管理服务。零磁盘缓存、可视化面板、支持上游账号认证，支持一键部署Docker、K8s、Quay、Ghcr、Mcr、elastic、nvcr等镜像加速	
+google/go-containerregistry	4119	Apache-2.0	hosting	Container Registries	Go library and CLIs for working with container registries	
+zarf-dev/zarf	2087	Apache-2.0	hosting	Container Registries	The Airgap Native Package Manager for Kubernetes	
+BoCloud/folib	2064	GPL-3.0	hosting	Container Registries	全语言制品仓库，涵盖npm、Maven、PyPi、Docker、Gradle、SBT、Cocoapods、Swift、RPM、Debian、PHP、Go、Pub、Ivy、NuGet、Conda、Cargo、Conan、Yarn、GitLFS、Helm、OHPM等主流工具,涵盖Huggingface 等主流AI模型仓库的代理与同步	
+tazjin/nixery	2024	Apache-2.0	hosting	Container Registries	Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery	
+cr0hn/dockerscan	1728	NOASSERTION	hosting	Container Registries	The Most Comprehensive Docker Security Scanner	
+genuinetools/reg	1709	MIT	hosting	Container Registries	Docker registry v2 command line client and repo listing generator with security checks.	
+cloudflare/serverless-registry	1608	Apache-2.0	hosting	Container Registries	A container registry backed by Workers and R2.	
+kubesre/docker-registry-mirrors	1583	MIT	hosting	Container Registries	多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.	
+docker/login-action	1499	Apache-2.0	hosting	Container Registries	GitHub Action to login against a Docker registry	
+artifact-keeper/artifact-keeper	1258	MIT	hosting	Container Registries	Open-source universal artifact registry. Drop-in Artifactory/Nexus alternative with 40+ package formats, security scanning, WASM plugins, and edge replication.	
+rpardini/docker-registry-proxy	1196	Apache-2.0	hosting	Container Registries	An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)	
+togettoyou/hub-mirror	1175	MIT	hosting	Container Registries	🚀 Docker 镜像代理，通过 GitHub Actions 将 docker.io、gcr.io、registry.k8s.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像转换为国内镜像加速下载	
+kubernetes/kubernetes	128886	Apache-2.0	hosting	Container Runtimes & Tools	Production-Grade Container Scheduling and Management	
+moby/moby	72360	Apache-2.0	hosting	Container Runtimes & Tools	The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems	
+podman-container-tools/podman	33196	Apache-2.0	hosting	Container Runtimes & Tools	Podman: A tool for managing OCI containers and pods.	
+kubernetes/minikube	32228	Apache-2.0	hosting	Container Runtimes & Tools	Run Kubernetes locally	
+abiosoft/colima	31562	MIT	hosting	Container Runtimes & Tools	Container runtimes on macOS (and Linux) with minimal setup	
+slimtoolkit/slim	23502	Apache-2.0	hosting	Container Runtimes & Tools	Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)	
+jart/cosmopolitan	21434	ISC	hosting	Container Runtimes & Tools	build-once run-anywhere c library	
+kubernetes/kops	16701	Apache-2.0	hosting	Container Runtimes & Tools	Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management	
+GoogleContainerTools/skaffold	15900	Apache-2.0	hosting	Container Runtimes & Tools	Easy and Repeatable Kubernetes Development	
+jessfraz/dockerfiles	13944	MIT	hosting	Container Runtimes & Tools	Various Dockerfiles I use on the desktop and on servers.	
+opencontainers/runc	13537	Apache-2.0	hosting	Container Runtimes & Tools	CLI tool for spawning and running containers according to the OCI specification	
+anchore/grype	13204	Apache-2.0	hosting	Container Runtimes & Tools	A vulnerability scanner for container images and filesystems	
+89luca89/distrobox	13101	GPL-3.0	hosting	Container Runtimes & Tools	Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox	
+jetify-com/devbox	12448	Apache-2.0	hosting	Container Runtimes & Tools	Instant, easy, and predictable development environments	
+quay/clair	11087	Apache-2.0	hosting	Container Runtimes & Tools	Vulnerability Static Analysis for Containers	
+nicolaka/netshoot	11080	Apache-2.0	hosting	Container Runtimes & Tools	a Docker + Kubernetes network trouble-shooting swiss-army container	
+kubernetes/kompose	10644	Apache-2.0	hosting	Container Runtimes & Tools	Convert Compose to Kubernetes	
+moby/buildkit	10377	Apache-2.0	hosting	Container Runtimes & Tools	concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit	
+johnthagen/min-sized-rust	9873	MIT	hosting	Container Runtimes & Tools	🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust	
+anchore/syft	9849	Apache-2.0	hosting	Container Runtimes & Tools	CLI tool and library for generating a Software Bill of Materials from container images and filesystems	
+bregman-arie/devops-resources	9736	NONE	hosting	Container Runtimes & Tools	DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP	
+bottlerocket-os/bottlerocket	9699	NOASSERTION	hosting	Container Runtimes & Tools	An operating system designed for hosting containers	
+replicate/cog	9496	Apache-2.0	hosting	Container Runtimes & Tools	Containers for machine learning	
+podman-container-tools/buildah	9174	Apache-2.0	hosting	Container Runtimes & Tools	A tool that facilitates building OCI images.	
+linuxkit/linuxkit	8667	Apache-2.0	hosting	Container Runtimes & Tools	A toolkit for building secure, portable and lean operating systems for containers	
+xuxueli/xxl-job	30654	GPL-3.0	hosting	Cron & Job Schedulers	A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）	
+Avaiga/taipy	19458	Apache-2.0	hosting	Cron & Job Schedulers	Turns Data and AI algorithms into production-ready web applications in no time.	
+apache/dolphinscheduler	14552	Apache-2.0	hosting	Cron & Job Schedulers	Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code	
+0xJacky/nginx-ui	11743	AGPL-3.0	hosting	Cron & Job Schedulers	Yet another WebUI for Nginx	
+agenda/agenda	9713	NOASSERTION	hosting	Cron & Job Schedulers	Lightweight job scheduling for Node.js	
+resque/resque	9467	MIT	hosting	Cron & Job Schedulers	Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.	
+gdy666/lucky	8354	MIT	hosting	Cron & Job Schedulers	软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser	
+apache/shardingsphere-elasticjob	8197	Apache-2.0	hosting	Cron & Job Schedulers	Distributed scheduled job	
+PowerJob/PowerJob	7812	Apache-2.0	hosting	Cron & Job Schedulers	Enterprise job scheduling middleware with distributed computing ability.	
+agronholm/apscheduler	7693	MIT	hosting	Cron & Job Schedulers	Task scheduling library for Python	
+go-co-op/gocron	7190	MIT	hosting	Cron & Job Schedulers	Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron	
+quartznet/quartznet	7110	Apache-2.0	hosting	Cron & Job Schedulers	Quartz Enterprise Scheduler .NET	
+ouqiang/gocron	6258	MIT	hosting	Cron & Job Schedulers	定时任务管理系统	
+xinliangnote/go-gin-api	5969	MIT	hosting	Cron & Job Schedulers	基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。	
+dkron-io/dkron	4741	LGPL-3.0	hosting	Cron & Job Schedulers	Dkron - Distributed, fault tolerant job scheduling system https://dkron.io	
+dagucloud/dagu	4552	GPL-3.0	hosting	Cron & Job Schedulers	Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternati	
+bee-queue/bee-queue	4039	NOASSERTION	hosting	Cron & Job Schedulers	A simple, fast, robust job/task queue for Node.js, backed by Redis.	
+citusdata/pg_cron	3918	PostgreSQL	hosting	Cron & Job Schedulers	Run periodic jobs in PostgreSQL	
+Arcenox-co/TickerQ	3630	NOASSERTION	hosting	Cron & Job Schedulers	TickerQ is a fast, reflection-free background task scheduler for .NET  built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.	
+breejs/bree	3298	MIT	hosting	Cron & Job Schedulers	Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.	
+node-cron/node-cron	3285	ISC	hosting	Cron & Job Schedulers	Job scheduling for Node.js with overlap prevention, distributed coordination, and background tasks. Zero dependencies.	
+shunfei/cronsun	2907	Apache-2.0	hosting	Cron & Job Schedulers	A Distributed, Fault-Tolerant Cron-Style Job System.	
+Hexagon/croner	2615	MIT	hosting	Cron & Job Schedulers	Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.	
+jmettraux/rufus-scheduler	2446	MIT	hosting	Cron & Job Schedulers	scheduler for Ruby (at, in, cron and every jobs)	
+quantum-elixir/quantum-core	2419	Apache-2.0	hosting	Cron & Job Schedulers	:watch: Cron-like job scheduler for Elixir	
+BishopFox/sliver	12251	GPL-3.0	hosting	DNS Servers & Managed DNS	Adversary Emulation Framework	
+pymumu/smartdns	11388	GPL-3.0	hosting	DNS Servers & Managed DNS	A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。	
+masterking32/MasterDnsVPN	7316	MIT	hosting	DNS Servers & Managed DNS	Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.	
+hickory-dns/hickory-dns	5486	NOASSERTION	hosting	DNS Servers & Managed DNS	A Rust based DNS client, server, and resolver	
+EmilHernvall/dnsguide	4695	MIT	hosting	DNS Servers & Managed DNS	A guide to writing a DNS Server from scratch in Rust	
+IrineSistiana/mosdns	3775	GPL-3.0	hosting	DNS Servers & Managed DNS	一个 DNS 转发器	
+microsurging/surging	3262	MIT	hosting	DNS Servers & Managed DNS	Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming.	
+acme-dns/acme-dns	2873	MIT	hosting	DNS Servers & Managed DNS	Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.	
+knadh/dns.toys	2832	MIT	hosting	DNS Servers & Managed DNS	A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.	
+intentfreedomain/FreeDomain	2645	MIT	hosting	DNS Servers & Managed DNS	A Free Domain For Everyone.	
+ThisSeanZhang/landscape	1575	GPL-3.0	hosting	DNS Servers & Managed DNS	The goal is to make it easier to configure your favorite Linux distribution as a router. Built with Rust and eBPF.	
+myxuchangbin/dnsmasq_sniproxy_install	1435	NONE	hosting	DNS Servers & Managed DNS	One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu	
+cunnie/sslip.io	1217	Apache-2.0	hosting	DNS Servers & Managed DNS	Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.	
+kkkgo/PaoPaoDNS	1180	GPL-3.0	hosting	DNS Servers & Managed DNS	泡泡DNS是一个能一键部署递归DNS的docker镜像	
+semihalev/sdns	1089	MIT	hosting	DNS Servers & Managed DNS	A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.	
+sqlitebrowser/sqlitebrowser	24762	NOASSERTION	hosting	Database Admin & GUI Tools	Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 	
+redis/RedisInsight	8927	NOASSERTION	hosting	Database Admin & GUI Tools	Redis GUI by Redis	
+appbaseio/dejavu	8468	MIT	hosting	Database Admin & GUI Tools	A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.	
+l0ng-ai/openidea	7608	Apache-2.0	hosting	Database Admin & GUI Tools	The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.	
+dbgate/dbgate	7375	GPL-3.0	hosting	Database Admin & GUI Tools	Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application	
+TabularisDB/tabularis	5405	Apache-2.0	hosting	Database Admin & GUI Tools	Open-source desktop SQL workspace with 3 built-in database drivers and 26 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.	
+antares-sql/antares	2669	MIT	hosting	Database Admin & GUI Tools	A modern, fast and productivity driven SQL client with a focus in UX	
+Syngnat/GoNavi	2086	Apache-2.0	hosting	Database Admin & GUI Tools	High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。	
+Rohithgilla12/data-peek	1686	NOASSERTION	hosting	Database Admin & GUI Tools	A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.	
+kndndrj/nvim-dbee	1323	GPL-3.0	hosting	Database Admin & GUI Tools	Interactive database client for neovim	
+fastogt/fastonosql	1224	GPL-3.0	hosting	Database Admin & GUI Tools	FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.	
+geek-fun/dockit	1143	Apache-2.0	hosting	Database Admin & GUI Tools	Agentic desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB & EasySearch. Natural language queries, visual management, and monitoring. Privacy-first. Open source.	
+pods-framework/pods	1118	GPL-2.0	hosting	Database Admin & GUI Tools	The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add your own with custom inputs, you have total control.	
+ys-ll/uniterm	1086	Apache-2.0	hosting	Database Admin & GUI Tools	All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.	
+ellie-commons/sequeler	844	GPL-3.0	hosting	Database Admin & GUI Tools	SQL Client built in Vala	
+t8y2/dbx	29456	Apache-2.0	hosting	Databases & DBaaS	25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB	
+OtterMind/Chat2DB	28354	NOASSERTION	hosting	Databases & DBaaS	Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Avai	
+beekeeper-studio/beekeeper-studio	23860	NOASSERTION	hosting	Databases & DBaaS	Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.	
+FalkorDB/FalkorDB	10502	NOASSERTION	hosting	Databases & DBaaS	A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).	
+flyway/flyway	10192	Apache-2.0	hosting	Databases & DBaaS	Flyway by Redgate • Database Migrations Made Easy.	
+vrana/adminer	7945	NOASSERTION	hosting	Databases & DBaaS	Database management in a single PHP file	
+firebase/firebase-ios-sdk	6982	Apache-2.0	hosting	Databases & DBaaS	Firebase SDK for Apple App Development	
+pawelsalawa/letos	6822	NOASSERTION	hosting	Databases & DBaaS	A free, open source, multi-platform SQLite database manager.	
+TableProApp/TablePro	6396	AGPL-3.0	hosting	Databases & DBaaS	Free and open source database client built natively for developers	
+liquibase/liquibase	5640	NOASSERTION	hosting	Databases & DBaaS	Main Liquibase Source	
+achristmascarl/rainfrog	5399	MIT	hosting	Databases & DBaaS	🐸 a database tool for the terminal	
+zalando/postgres-operator	5272	MIT	hosting	Databases & DBaaS	Postgres operator creates and manages PostgreSQL clusters running in Kubernetes	
+clidey/whodb	5050	Apache-2.0	hosting	Databases & DBaaS	Where data access meets operational intelligence	
+CrunchyData/postgres-operator	4458	Apache-2.0	hosting	Databases & DBaaS	Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.	
+nosqlclient/nosqlclient	3462	AGPL-3.0	hosting	Databases & DBaaS	Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient	
+aimeos/upscheme	2732	LGPL-3.0	hosting	Databases & DBaaS	Database migrations and schema updates made easy	
+David-Crty/databasement	2610	MIT	hosting	Databases & DBaaS	Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.	
+firebase/firebase-android-sdk	2580	Apache-2.0	hosting	Databases & DBaaS	Firebase Android SDK	
+supabase/cli	2456	MIT	hosting	Databases & DBaaS	Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.	
+baquer/GATE-and-CSE-Resources-for-Students	2150	NONE	hosting	Databases & DBaaS	📚 📖 📚CSE GATE Resources for GATE and CSE Aspirants 😎 😁 . Show your ❤️ by ⭐️⭐️	
+Fractal-Compute-Orchestrations/FractalWorkspace	9235	NOASSERTION	hosting	Edge & WebAssembly Runtimes	A unified ecosystem and workspace for large-scale federated learning of Large Models & LLMS. Store compute as Wifi	
+kubeedge/kubeedge	7624	Apache-2.0	hosting	Edge & WebAssembly Runtimes	Kubernetes Native Edge Computing Framework (project under CNCF)	
+partykit/partykit	5744	MIT	hosting	Edge & WebAssembly Runtimes	PartyKit simplifies developing multiplayer applications	
+Fractal-Compute-Orchestrations/FractalAndroid	4879	NOASSERTION	hosting	Edge & WebAssembly Runtimes	A human-centric, resource-aware Android node for edge computing and federated learning. Orchestrates distributed intelligence with privacy-first localization and empathetic hardware management.	
+dgiot/dgiot	4863	Apache-2.0	hosting	Edge & WebAssembly Runtimes	Open Source Industrial IoT Platform | 300+ protocols | 6-min deploy | Modbus OPC UA MQTT | 12K Stars	
+huangjunsen0406/py-xiaozhi	3544	MIT	hosting	Edge & WebAssembly Runtimes	Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.	
+eclipse-zenoh/zenoh	3325	NOASSERTION	hosting	Edge & WebAssembly Runtimes	zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mains	
+Mininglamp-AI/Mano-P	2841	Apache-2.0	hosting	Edge & WebAssembly Runtimes	Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally on Apple M4 Mac mini/MacBook — no data leaves your device.Mano-P 是一个开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作。数据完全本地处理，支持复杂多步骤任务规划	
+wasmi-labs/wasmi	2342	Apache-2.0	hosting	Edge & WebAssembly Runtimes	WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.	
+openremote/core	2097	NOASSERTION	hosting	Edge & WebAssembly Runtimes	100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps	
+openyurtio/openyurt	2008	Apache-2.0	hosting	Edge & WebAssembly Runtimes	OpenYurt - Extending your native Kubernetes to edge(project under CNCF)	
+uTensor/uTensor	1934	Apache-2.0	hosting	Edge & WebAssembly Runtimes	TinyML AI inference library	
+baetyl/baetyl	1900	Apache-2.0	hosting	Edge & WebAssembly Runtimes	Extend cloud computing, data and service seamlessly to edge devices.	
+SonicJs-Org/sonicjs	1792	MIT	hosting	Edge & WebAssembly Runtimes	SonicJS - The edge-native headless CMS for Cloudflare Workers. Sub-100ms response times, zero cold starts, TypeScript-first. Built on D1, R2, and Hono.	
+lf-edge/ekuiper	1748	Apache-2.0	hosting	Edge & WebAssembly Runtimes	Lightweight data stream processing engine for IoT edge	
+aliasvault/aliasvault	3483	AGPL-3.0	hosting	Email Servers & Mail Hosting	Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.	
+inbucket/inbucket	2312	MIT	hosting	Email Servers & Mail Hosting	Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required.	
+lavabit/magma	1829	AGPL-3.0	hosting	Email Servers & Mail Hosting	The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.	
+forwardemail/forwardemail.net	1704	NOASSERTION	hosting	Email Servers & Mail Hosting	Open-source, privacy-focused email service for custom domains. Free email forwarding, encrypted mailboxes (IMAP/POP3), SMTP sending, calendars and contacts (CalDAV/CardDAV), webhooks, and an email API. Self-host it with Docker. A private alternative to Gmail, 	
+mailslurper/mailslurper	1511	MIT	hosting	Email Servers & Mail Hosting	Local, web-based mail server application. Slurp mails into oblivion!	
+albertito/chasquid	981	NOASSERTION	hosting	Email Servers & Mail Hosting	SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror]	
+bokysan/docker-postfix	817	MIT	hosting	Email Servers & Mail Hosting	Multi architecture simple SMTP server (postfix null relay) host for your Docker and Kubernetes containers. Based on Debian/Ubuntu/Alpine.	
+Zhoros/NortixMail	720	NOASSERTION	hosting	Email Servers & Mail Hosting	Nortix Mail - disposable email server with an easy setup	
+goposta/posta	638	AGPL-3.0	hosting	Email Servers & Mail Hosting	Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analytics. Fully self-hostable alternative to services like SendGrid or Mailgun.	
+jeboehm/docker-mailserver	478	MIT	hosting	Email Servers & Mail Hosting	Self-hosted email server with Docker/Kubernetes support. Features IMAP, SMTP, spam filtering, webmail, and web admin.	
+o4oren/Ad-Hoc-Email-Server	412	Apache-2.0	hosting	Email Servers & Mail Hosting	An ad-hoc disposable temporary mail server. Create and use ad hoc disposable mailboxes for testing or any other purpose.	
+Wh1isper/mcp-email-server	378	BSD-3-Clause	hosting	Email Servers & Mail Hosting	Full-featured, multi-account MCP email server for Windows, macOS, and Linux—read, search, organize, and send email via IMAP and SMTP.	
+liuch/dmarc-srg	302	GPL-3.0	hosting	Email Servers & Mail Hosting	A php parser, viewer and summary report generator for incoming DMARC reports.	
+mailez-hq/mailez	297	AGPL-3.0	hosting	Email Servers & Mail Hosting	Self-hosted mail server for your own domain: SMTP/IMAP/POP3, CardDAV/CalDAV, React webmail and admin console, one-command Docker Compose.	
+truespar/sentio	285	NOASSERTION	hosting	Email Servers & Mail Hosting	Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier ant	
+getsentry/sentry-javascript	8772	NOASSERTION	hosting	Error Tracking & Session Replay	Official Sentry SDKs for JavaScript	
+microsoft/clarity	2781	MIT	hosting	Error Tracking & Session Replay	A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.	
+talivia-group/talivia	2293	MIT	hosting	Error Tracking & Session Replay	Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative	
+getsentry/sentry-php	1914	MIT	hosting	Error Tracking & Session Replay	The official PHP SDK for Sentry	
+tracewayapp/traceway	1762	MIT	hosting	Error Tracking & Session Replay	The only tool you need to know what is happening and how to fix it.	
+ehmicky/modern-errors	1488	MIT	hosting	Error Tracking & Session Replay	Handle errors in a simple, stable, consistent way	
+getsentry/sentry-laravel	1349	MIT	hosting	Error Tracking & Session Replay	The official Laravel SDK for Sentry (sentry.io)	
+elastic/apm-server	1270	NOASSERTION	hosting	Error Tracking & Session Replay		
+bugsnag/bugsnag-android	1247	NOASSERTION	hosting	Error Tracking & Session Replay	BugSnag crash monitoring and reporting tool for Android apps	
+getsentry/sentry-cocoa	1140	MIT	hosting	Error Tracking & Session Replay	The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.	
+getsentry/sentry-go	1109	MIT	hosting	Error Tracking & Session Replay	The official Go SDK for Sentry (sentry.io)	
+getsentry/sentry-ruby	989	MIT	hosting	Error Tracking & Session Replay	Sentry SDK for Ruby	
+airbrake/airbrake	986	MIT	hosting	Error Tracking & Session Replay	The official Airbrake library for Ruby applications	
+bugsnag/bugsnag-laravel	903	MIT	hosting	Error Tracking & Session Replay	BugSnag notifier for the Laravel PHP framework. Monitor and report Laravel errors.	
+bugsnag/bugsnag-js	897	MIT	hosting	Error Tracking & Session Replay	JavaScript error handling tool for BugSnag. Monitor and report JavaScript bugs & errors.	
+vercel/next-forge	7740	MIT	hosting	Feature Flags	Production-grade Turborepo template for Next.js apps.	
+flippercloud/flipper	3974	MIT	hosting	Feature Flags	🐬 Beautiful, performant feature flags for Ruby.	
+fetlife/rollout	2905	MIT	hosting	Feature Flags	Feature flippers.	
+uber/piranha	2525	Apache-2.0	hosting	Feature Flags	A tool for refactoring code related to feature flag APIs	
+FeatureProbe/FeatureProbe	1638	Apache-2.0	hosting	Feature Flags	FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。	
+open-feature/spec	1289	Apache-2.0	hosting	Feature Flags	OpenFeature specification	
+django-waffle/django-waffle	1265	BSD-3-Clause	hosting	Feature Flags	A feature flipper for Django	
+tompave/fun_with_flags	1170	MIT	hosting	Feature Flags	Feature Flags/Toggles for Elixir	
+togglz/togglz	1023	Apache-2.0	hosting	Feature Flags	Feature Flags for the Java platform	
+featurevisor/featurevisor	814	MIT	hosting	Feature Flags	Feature flags, experiments, and remote config management with version control	
+ylsideas/feature-flags	626	MIT	hosting	Feature Flags	A Laravel package for handling feature flags	
+juspay/superposition	441	Apache-2.0	hosting	Feature Flags	Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes	
+sergiodxa/flagged	434	MIT	hosting	Feature Flags	Feature Flags for React made easy with hooks, HOC and Render Props	
+tdeekens/flopflip	412	MIT	hosting	Feature Flags	🎚Flip or flop features in your React application in real-time backed by flag provider of your choice 🚦	
+garbles/flag	374	NONE	hosting	Feature Flags	Best-in-class interface for working with feature flags in TypeScript-based React applications	
+HeyPuter/puter	44101	AGPL-3.0	hosting	File Sync & Cloud Drives	🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.	
+cryptomator/cryptomator	16460	GPL-3.0	hosting	File Sync & Cloud Drives	Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.	
+s3fs-fuse/s3fs-fuse	10029	GPL-2.0	hosting	File Sync & Cloud Drives	FUSE-based file system backed by Amazon S3	
+owncloud/core	8843	AGPL-3.0	hosting	File Sync & Cloud Drives	:cloud: ownCloud web server core (Files, DAV, etc.)	
+kahing/goofys	5570	Apache-2.0	hosting	File Sync & Cloud Drives	a high-performance, POSIX-ish Amazon S3 file system written in Go	
+googleapis/google-cloud-go	4552	Apache-2.0	hosting	File Sync & Cloud Drives	Google Cloud Client Libraries for Go.	
+sjqzhang/go-fastdfs	4142	Unlicense	hosting	File Sync & Cloud Drives	go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliability, maintenance free and other advantages, support breakpoi	
+AtalayaLabs/OxiCloud	3682	MIT	hosting	File Sync & Cloud Drives	☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.	
+cryfs/cryfs	2332	LGPL-3.0	hosting	File Sync & Cloud Drives	Cryptographic filesystem for the cloud	
+googleapis/google-cloud-java	2106	Apache-2.0	hosting	File Sync & Cloud Drives	Google Cloud Client Library for Java	
+saltbo/zpan	2083	AGPL-3.0	hosting	File Sync & Cloud Drives	Lightweight file hosting platform built on top of S3-compatible storage	
+Sync-in/server	1960	AGPL-3.0	hosting	File Sync & Cloud Drives	Sync-in · Sovereign platform for file storage, sharing, synchronization, and collaboration.	
+hwittenborn/alto	1620	GPL-3.0	hosting	File Sync & Cloud Drives	The best application for all of your cloud storage	
+meganz/sdk	1480	BSD-2-Clause	hosting	File Sync & Cloud Drives	MEGA C++ SDK	
+meganz/webclient	1145	NOASSERTION	hosting	File Sync & Cloud Drives	The mega.nz web client	
+Pumpkin-MC/Pumpkin	12871	GPL-3.0	hosting	Game Server Panels	Empowering everyone to host fast and efficient Minecraft servers	
+azerothcore/azerothcore-wotlk	9153	GPL-2.0	hosting	Game Server Panels	Complete Open Source and Modular solution for MMO	
+aceld/zinx	7762	MIT	hosting	Game Server Panels	A lightweight concurrent server framework based on Golang.	
+gonglei007/GameDevMind	6671	MIT	hosting	Game Server Panels	最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。	
+rathena/rathena	3645	GPL-3.0	hosting	Game Server Panels	rAthena is an open-source cross-platform MMORPG server.	
+liangdas/mqant	2514	Apache-2.0	hosting	Game Server Panels	mqant是一款基于Golang语言的简洁,高效,高性能的分布式微服务框架	
+ferrumc-rs/ferrumc	2470	MIT	hosting	Game Server Panels	A reimplementation of the minecraft server in rust.	
+zfoo-project/zfoo	2008	Apache-2.0	hosting	Game Server Panels	💡Extremely fast enterprise server framework, can be used in RPC,  game server,  web server.	
+otland/forgottenserver	1845	GPL-2.0	hosting	Game Server Panels	A free and open-source MMORPG server emulator written in C++	
+jwpttcg66/NettyGameServer	1671	GPL-3.0	hosting	Game Server Panels	使用netty4.X实现的手机游戏分布式服务器,支持tcp,udp,http,websocket链接，采用protobuf自定义协议栈进行网络通信,支持rpc远程调用,使用mybatis3支持db存储分库分表，支持异步mysql存储，db保存时同步更新reids缓存。 使用ExcelToCode工程，将excel数据生成java类和json数据字典，DictService直接读取json，减少数据字典部分代码。使用game-executor工程，增加游戏内的异步事件全局服务, 支持事件sharding,均衡的异步执	
+ylmbtm/GameProject3	1585	NONE	hosting	Game Server Panels	游戏服务器框架，网络层分别用SocketAPI、Boost Asio、Libuv三种方式实现， 框架内使用共享内存，无锁队列，对象池，内存池来提高服务器性能。还包含一个不断完善的Unity 3D客户端，客户端含大量完整资源，坐骑，宠物，伙伴，装备, 这些均己实现上阵和穿戴, 并可进入副本战斗，多人玩法也己实现, 持续开发中。	
+Melledy/LunarCore	1433	AGPL-3.0	hosting	Game Server Panels	A game server reimplementation for a certain turn-based anime game	
+Tiiffi/mcrcon	1102	Zlib	hosting	Game Server Panels	Rcon client for Minecraft	
+kingston-csj/jforgame	1102	Apache-2.0	hosting	Game Server Panels	jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，异步持久化方案，游戏热更新，配置表自动化仓库，游戏通用工具等等，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。	
+hyperion-mc/hyperion	1097	Apache-2.0	hosting	Game Server Panels	Minecraft game engine for massive custom events	
+sameersbn/docker-gitlab	8113	MIT	hosting	Git Hosting	Dockerized GitLab	
+go-git/go-git	7848	Apache-2.0	hosting	Git Hosting	A highly extensible Git implementation in pure Go.	
+jakubgarfield/Bonobo-Git-Server	1838	MIT	hosting	Git Hosting	Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info.	
+redrabbit/git.limo	515	MIT	hosting	Git Hosting	A Git source code management tool powered by Elixir with easy installation & high extensibility.	
+stackryze/FreeDomains	14090	AGPL-3.0	hosting	Homelab & Self-Hosting Platforms	Stackryze Domains: Free Domain for Everyone, Claim yours today.	
+khuedoan/homelab	9718	GPL-3.0	hosting	Homelab & Self-Hosting Platforms	Fully automated homelab from empty disk to running services with a single command.	
+scanopy/scanopy	5940	AGPL-3.0	hosting	Homelab & Self-Hosting Platforms	Network diagrams that update themselves	
+hslr-s/sun-panel	5361	MIT	hosting	Homelab & Self-Hosting Platforms	A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。	

@@ -1,0 +1,380 @@
+demining/CryptoDeepTools	266	NONE	mobile	Crypto Wallets	Crypto Deep Tools a set of scripts for detailed cryptanalysis of the Blockchain network in cryptocurrency Bitcoin 	
+immutability-io/vault-ethereum	251	NONE	mobile	Crypto Wallets	A plugin that turns Vault into an Ethereum wallet.	
+nicoinvest/invest-guide	220	NOASSERTION	mobile	Crypto Wallets	全网最详细的面向大陆用户的美股与加密货币投资入门指南，涵盖如何开通境外银行账户、如何跨境汇款、如何开通券商账户、如何完成出入金等等所有常见的主题。涵盖新手小白在投资入门过程中，所有需要提前想清楚的理念、提前准备的工具、提前注意的事项，一站式从 0 到 1 解决 90% 以上的问题。	
+lil-org/big-wallet	205	CC0-1.0	mobile	Crypto Wallets	crypto wallet for safari	
+Pathos0925/SatoshiGuesser	187	MIT	mobile	Crypto Wallets	Roll for lost bitcoin.	
+alvarotrigo/fullPage.js	35359	GPL-3.0	mobile	Dating	fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple	
+leecade/react-native-swiper	10476	MIT	mobile	Dating	The best Swiper component for React Native.	
+ptomasroos/react-native-scrollable-tab-view	6941	NONE	mobile	Dating	Tabbed navigation that you can swipe between, each tab can have  its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar	
+SwipeCellKit/SwipeCellKit	6271	NOASSERTION	mobile	Dating	Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.	
+h6ah4i/android-advancedrecyclerview	5310	Apache-2.0	mobile	Dating	RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)	
+oliviertassinari/react-swipeable-views	4467	MIT	mobile	Dating	A React component for swipeable views. :snowflake:	
+iberianpig/fusuma	3899	MIT	mobile	Dating	Multitouch gestures with libinput driver on Linux	
+mikepenz/FastAdapter	3876	Apache-2.0	mobile	Dating	The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...	
+janishar/PlaceHolderView	2131	Apache-2.0	mobile	Dating	This library provides advance views for lists and stacks. Some of the views are build on top of RecyclerView and others are written in their own. Annotations are compiled by annotation processor to generate bind classes. DOCS -->	
+FormidableLabs/react-swipeable	2111	MIT	mobile	Dating	React swipe event handler hook	
+JoniVR/VerticalCardSwiper	1540	MIT	mobile	Dating	A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.	
+marcosgriselli/SwipeableTabBarController	1532	MIT	mobile	Dating	UITabBarController with swipe interaction between its tabs.	
+RxSwiftCommunity/RxGesture	1377	MIT	mobile	Dating	RxSwift reactive wrapper for view gestures	
+aheze/SwipeActions	1328	MIT	mobile	Dating	Add customizable swipe actions to any view.	
+any86/any-touch	1241	MIT	mobile	Dating	:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile	
+bagisto/opensource-ecommerce-mobile-app	16085	MIT	mobile	E-commerce Mobile Apps	This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories. 	
+afgprogrammer/Flutter-Complete-e-commerce	565	NONE	mobile	E-commerce Mobile Apps	Flutter e-commerce Application  design and Animation - day 16-17	
+Furqankhanzada/flutter_eCommerce_ui_kit	474	MIT	mobile	E-commerce Mobile Apps	Flutter - E Commerce UI KIT ( completely free for everyone )	
+shashirajraja/shopping-cart	335	Apache-2.0	mobile	E-commerce Mobile Apps	Online Shopping Cart E-Commerce Website Project in Java, JDBC, Servlets, JSP. Built for selling of goods online and managing the cart items of the user and  providing them better facilities like adding items, removing items, increase or decrease item quantity.	
+ishaileshmishra/flutter-ecommerce-app	256	NONE	mobile	E-commerce Mobile Apps	Flutter UI development guide	
+AmirBayat0/Sneakers-shop-app-Flutter	250	Apache-2.0	mobile	E-commerce Mobile Apps	 Sneakers shop application(Nike Shoes Store) using Dart & Flutter + Animation👟📱✨	
+afgprogrammer/Flutter-ecommerce-app-with-getx	240	NONE	mobile	E-commerce Mobile Apps	Flutter e-commerce app example with GetX - day 59	
+aqsharef/flutter_grocery_app	143	NONE	mobile	E-commerce Mobile Apps	A Grocery App made with Flutter.	
+i-vishi/shopping-android-app	142	MIT	mobile	E-commerce Mobile Apps	A Shopping App built with Kotlin. Project listed on Google Dev Library	
+affilnost/angular5-example-shopping-app	126	MIT	mobile	E-commerce Mobile Apps	Angular 5 Example Shopping App + Angular Material + Responsive	
+AmirBayat0/Fashion-eCommerce-app	108	MIT	mobile	E-commerce Mobile Apps	Flutter Fashion E-Commerce App! 💃🕺💼	
+mo7amedaliEbaid/nibbles-ecommerce-food	106	MIT	mobile	E-commerce Mobile Apps	A full-featured food delivery app built with Flutter & Firebase — ecommerce, QR code ordering, kid accounts, push notifications, and complex    responsive UI.	
+mo7amedaliEbaid/piiicks-ecommerce	96	MIT	mobile	E-commerce Mobile Apps	Flutter ecommerce built with clean architecture and bloc state management.	
+akv3sic/MAUI-store-app	96	MIT	mobile	E-commerce Mobile Apps	A modern e-commerce mobile app built with .NET MAUI as part of a Master's Thesis project. It features product browsing, shopping cart, authentication, and more - powered by the Fake Store API.	
+AmirBayat0/ShopZilla	92	GPL-3.0	mobile	E-commerce Mobile Apps	ShopZilla is a comprehensive shopping application developed with Flutter 🛍️. It offers a user-friendly interface 🖥️, cross-platform compatibility 🌐, and simulated payment integration 💳. Explore a wide range of products with advanced search 🔍 and personalized r	
+Anxcye/anx-reader	9208	MIT	mobile	Ebook, Comic & Audiobook	Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 	
+johnfactotum/foliate	8871	GPL-3.0	mobile	Ebook, Comic & Audiobook	Read e-books in style	
+bookorbit/bookorbit	6188	AGPL-3.0	mobile	Ebook, Comic & Audiobook	BookOrbit: Your Reading Space	
+Librum-Reader/Librum	5317	GPL-3.0	mobile	Ebook, Comic & Audiobook	The Librum client application	
+codedogQBY/ReadAny	2949	NOASSERTION	mobile	Ebook, Comic & Audiobook	AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync.	
+dstark5/Openlib	2514	GPL-3.0	mobile	Ebook, Comic & Audiobook	An Open source app to download and read books from shadow library (Anna’s Archive)	
+BasioMeusPuga/Lector	1557	GPL-3.0	mobile	Ebook, Comic & Audiobook	Qt based ebook reader	
+Pool-Of-Tears/Myne	1544	Apache-2.0	mobile	Ebook, Comic & Audiobook	An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.	
+babluboy/bookworm	1388	GPL-3.0	mobile	Ebook, Comic & Audiobook	A simple ebook reader for Elementary OS	
+johnfactotum/foliate-js	1148	MIT	mobile	Ebook, Comic & Audiobook	Render e-books in the browser	
+reader-dict/monolingual	997	MIT	mobile	Ebook, Comic & Audiobook	The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.	
+dengxibo/sumatrapdf-plus	939	GPL-3.0	mobile	Ebook, Comic & Audiobook	SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.	
+miumiupy98-art/miuread-koreader	725	AGPL-3.0	mobile	Ebook, Comic & Audiobook	觅阅 MiuRead：适用于 Kindle 的非官方 KOReader 微信读书（WeRead）插件，支持书架、下载、划线与想法、阅读时长和进度同步	
+zhashut/goread	635	NONE	mobile	Ebook, Comic & Audiobook	GoRead is a lightweight reader application designed specifically for local e‑book reading.	
+readium/swift-toolkit	577	BSD-3-Clause	mobile	Ebook, Comic & Audiobook	A toolkit for ebooks, audiobooks and comics written in Swift	
+NVIDIA-NeMo/Guardrails	7447	NOASSERTION	mobile	Emergency & Safety	NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.	
+millsp/ts-toolbelt	7151	Apache-2.0	mobile	Emergency & Safety	👷 TypeScript's largest type utility library	
+Dicklesworthstone/destructive_command_guard	6290	NOASSERTION	mobile	Emergency & Safety	A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inline-script scanning, CI scan mode, and explain mode; works wi	
+PKU-Alignment/safe-rlhf	1621	Apache-2.0	mobile	Emergency & Safety	Safe RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback	
+mpusz/mp-units	1498	MIT	mobile	Emergency & Safety	The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.	
+omegaee/my-fingerprint	1491	Apache-2.0	mobile	Emergency & Safety	保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension	
+nette/latte	1294	NOASSERTION	mobile	Emergency & Safety	☕ Latte: the safest & truly intuitive templates for PHP. Engine for those who want the most secure PHP sites.	
+thu-coai/Safety-Prompts	1232	Apache-2.0	mobile	Emergency & Safety	Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。	
+MapServer/MapServer	1230	NOASSERTION	mobile	Emergency & Safety	Source code of the MapServer project.  Please submit pull requests to the 'main' branch.	
+THU-BPM/MarkLLM	1092	Apache-2.0	mobile	Emergency & Safety	[EMNLP 2024 Demo] MarkLLM: An Open-Source Toolkit for LLM Watermarking	
+disclose/diodb	1081	CC0-1.0	mobile	Emergency & Safety	Open-source vulnerability disclosure and bug bounty program database	
+SafeAI-Lab-X/ClawKeeper	1019	NONE	mobile	Emergency & Safety	ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers (aka The Norton for OpenClaw)	
+nlkl/Optional	920	MIT	mobile	Emergency & Safety	A robust option type for C#	
+acikyazilimagi/deprem-yardim-frontend	877	Apache-2.0	mobile	Emergency & Safety	release canditate: https://rc.afetharita.com/	
+chauncygu/Safe-Reinforcement-Learning-Baselines	815	NONE	mobile	Emergency & Safety	The repository is for safe reinforcement learning baselines.	
+mikumifa/biliTickerBuy	4277	NOASSERTION	mobile	Event & Ticketing	b站会员购购票辅助工具	
+blackholll/loonflow	2095	AGPL-3.0	mobile	Event & Ticketing	A Intelligent and Visual Process Automation System,  ticket, workflow, MCP	
+damaiqiangpiao/damai	555	NONE	mobile	Event & Ticketing	Damai Maoyan Piaoxingqiu ticket grabbing tech community | Android reverse engineering Frida hook ticket monitor | QQ 955767910	
+currycan/HaTickets	555	Apache-2.0	mobile	Event & Ticketing	大麦网抢票自动化 — Mobile(U2) / Desktop(Tauri+Rust) 方案	
+Sayrix/Ticket-Bot	500	AGPL-3.0	mobile	Event & Ticketing	Discord ticket bot with buttons, slash commands, select menus, modals, and transcripts system made with Discord.js v14	
+dengmeiluan/ticket-monitoring	472	Apache-2.0	mobile	Event & Ticketing	✈️ 自托管的多渠道机票价格监控：航班明细采集 → 钉钉图文推送 → 达标四层强提醒。国内航线与国际航线（五洲目的地）同一套采集-判定-推送链路；数据留在本机，配置全在网页，开源免费。	
+BastienBoymond/korea-concert-ticket-bot	376	NONE	mobile	Event & Ticketing	A chrome extension that autobook on Korean Platform	
+itimor/one-workflow	346	NONE	mobile	Event & Ticketing	django + vue 一个简单的工作流系统，工单系统	
+augmentable-dev/tickgit	324	MIT	mobile	Event & Ticketing	Manage your repository's TODOs, tickets and checklists as config in your codebase.	
+konaxia548/bili-ticket-go	240	AGPL-3.0	mobile	Event & Ticketing	b站 bilibili 会员购 抢票 蹲票 工具 脚本 程序 自动抢票软件 辅助工具 | Web UI 可视化 | 高性能 多账号 并发 | 星铁land | bw | cp cp32 | comicup | bilibiliworld | bilibili world | bw2026 | 支持hot project (ctoken) | 鹰角 嘉年华 绝区零 zzz | bw2026 可用	
+TaiMiao/Bili_Ticket_Monitor	216	MIT	mobile	Event & Ticketing	自动监测B站会员购漫展活动开票 放票 余票 回流票脚本	
+DEV7Kadu/WhaticketPlus	206	NOASSERTION	mobile	Event & Ticketing	Atendimento lento e clientes insatisfeitos? Automatize a abertura de tickets no WhatsApp, Instagram e Facebook e resolva isso agora! Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta. Com int	
+zezeez/12306-yunying	179	GPL-3.0	mobile	Event & Ticketing	12306快捷购票工具, 兼容Windows/MACOS/Linux.	
+Persian-Caesar/All-For-One-Bot	155	BSD-3-Clause	mobile	Event & Ticketing	This source is full discord bot and can do anything you want.	
+amritghimire/jira-terminal	148	AGPL-3.0	mobile	Event & Ticketing	The application that can be used for personal usage to manage jira from terminal.	
+dogecoin/dogecoin	15201	MIT	mobile	Fintech Wallets	very currency	
+unicity-sphere/sphere	9630	NONE	mobile	Fintech Wallets	A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace.	
+reown-com/appkit	5456	NOASSERTION	mobile	Fintech Wallets	The full stack toolkit to build onchain app UX	
+bitpay/wallet	3944	MIT	mobile	Fintech Wallets	Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.	
+tahowallet/extension	3210	GPL-3.0	mobile	Fintech Wallets	Taho, the community owned and operated Web3 wallet.	
+bcoin-org/bcoin	3066	NOASSERTION	mobile	Fintech Wallets	Javascript bitcoin library for node.js and browsers	
+WalletWasabi/WalletWasabi	2636	MIT	mobile	Fintech Wallets	Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.	
+OneKeyHQ/app-monorepo	2482	NOASSERTION	mobile	Fintech Wallets	Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.	
+xrpcommunity/XRP-community-wallet	2273	MIT	mobile	Fintech Wallets	Fully decentralized and the most secure XRP &  EVM wallet - built by the community, for the community.	
+safe-fndn/safe-smart-account	2189	LGPL-3.0	mobile	Fintech Wallets	Safe allows secure management of blockchain assets. 	
+anza-xyz/wallet-adapter	2032	Apache-2.0	mobile	Fintech Wallets	Modular TypeScript wallet adapters and components for Solana applications.	
+trezor/trezor-firmware	1861	NOASSERTION	mobile	Fintech Wallets	:lock: Trezor Firmware Monorepo	
+polkadot-js/apps	1823	Apache-2.0	mobile	Fintech Wallets	Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.	
+Savjee/SavjeeCoin	1773	MIT	mobile	Fintech Wallets	A simple blockchain in Javascript. For educational purposes only.	
+luzhenqian/web3-examples	1735	NONE	mobile	Fintech Wallets	欢迎来到 Web3 世界，这里汇集了大量 Web3 示例项目和高质量学习资源。加入我们，和一百万开发者同行，一起探索并塑造未来世界的繁荣景象。立刻行动，开启您的 Web3 之旅！	
+CodeWithCJ/SparkyFitness	6725	NOASSERTION	mobile	Fitness & Workout	SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.	
+cyberjunky/python-garminconnect	3252	MIT	mobile	Fitness & Workout	Python 3 API wrapper for Garmin Connect to get statistics and set activities	
+the-momentum/open-wearables	2765	MIT	mobile	Fitness & Workout	Self-hosted platform to unify wearable health data through one AI-ready API.	
+dreeveapp/dreeve	2207	AGPL-3.0	mobile	Fitness & Workout	Dreeve is a self-hosted, open-source dashboard for your sports and fitness data	
+cpfair/tapiriik	1741	Apache-2.0	mobile	Fitness & Workout	tapiriik keeps your fitness in sync	
+bryllim/workout-guide	1410	MIT	mobile	Fitness & Workout	302 open exercise illustrations and a framework-neutral npm package by Bryl Lim	
+agencyenterprise/react-native-health	1163	MIT	mobile	Fitness & Workout	A React Native package to interact with Apple HealthKit	
+timfraedrich/OutRun	881	GPL-3.0	mobile	Fitness & Workout	OutRun is an open-source, privacy oriented, outdoor fitness tracker.	
+maksimowiczm/FoodYou	623	GPL-3.0	mobile	Fitness & Workout	A free, open-source, and privacy-focused food diary and nutrition tracker	
+apoorvdarshan/fud-ai	518	MIT	mobile	Fitness & Workout	Fud AI — free & open-source AI calorie & workout tracker for iOS and Android. Privacy-first, local-first, bring your own key.	
+yo-WASSUP/Good-GYM	440	MIT	mobile	Fitness & Workout	AI-powered fitness assistant for real-time pose estimation, exercise counting, and workout feedback. 	
+matinzd/react-native-health-connect	423	MIT	mobile	Fitness & Workout	React native library for health connect (Android only)	
+1c7/Fitness	409	NONE	mobile	Fitness & Workout	健身教学视频。帮你减脂，增肌（以及拉伸放松，热身，体态，康复）（有大量 B 站和抖音视频）	
+wger-project/docker	336	AGPL-3.0	mobile	Fitness & Workout	Docker compose stack for wger deployment	
+brodeurlv/fastnfitness	323	BSD-3-Clause	mobile	Fitness & Workout	FastNFitness Android app: Body, Cardio and Fitness tracking.	
+FASTSHIFT/X-TRACK	6319	MIT	mobile	Fleet & GPS Tracking	A GPS bicycle speedometer that supports offline maps and track recording 	
+techchipnet/CamPhish	5255	GPL-3.0	mobile	Fleet & GPS Tracking	Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.	
+cyberman54/ESP32-Paxcounter	2127	NOASSERTION	mobile	Fleet & GPS Tracking	Wifi & BLE driven passenger flow metering with cheap ESP32 boards	
+spyboy-productions/r4ven	1687	MIT	mobile	Fleet & GPS Tracking	Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.	
+aaronpk/Overland-iOS	746	Apache-2.0	mobile	Fleet & GPS Tracking	📌 GPS logger for iOS devices	
+dietrichmax/colota	711	AGPL-3.0	mobile	Fleet & GPS Tracking	Colota - Android GPS Location tracker	
+maddevsio/mad-location-manager	575	MIT	mobile	Fleet & GPS Tracking	Mad Location Manager is a library for GPS and Accelerometer data "fusion" with Kalman filter 	
+vicliu624/trail-mate	560	AGPL-3.0	mobile	Fleet & GPS Tracking	Trail Mate is an offline‑first handheld system for GPS navigation, LoRa communication, and real‑time team situational awareness in no‑network environments.	
+GPSBabel/gpsbabel	555	GPL-2.0	mobile	Fleet & GPS Tracking	GPSBabel: convert, manipulate, and transfer data from GPS programs or GPS receivers. Open Source and supported on MacOS, Windows, Linux, and more. Pointy clicky GUI or a command line version...	
+XCSoar/XCSoar	462	GPL-2.0	mobile	Fleet & GPS Tracking	... the open-source glide computer	
+codyd51/gypsum	383	NONE	mobile	Fleet & GPS Tracking	GPS receiver from a raw antenna 🛰️	
+eusonlito/GPS-Tracker	358	MIT	mobile	Fleet & GPS Tracking	GPS Tracker platform for Sinotrack, Coban, Teltonika, Concox, Jimilab, OsmAnd and Queclink devices built with Laravel 13 + PHP 8.2 and MySQL 8. Plataforma GPS Tracker para dispositivos Sinotrack, Coban, Teltonika, Concox, Jimilab, OsmAnd y Queclink creada con 	
+fulldecent/corelocationcli	273	MIT	mobile	Fleet & GPS Tracking	Command line program to print location information from CoreLocation	
+rawify/GPS.js	269	MIT	mobile	Fleet & GPS Tracking	Parse NMEA 0183 GPS/GNSS sentences, streams, and navigation state in Node.js or browsers	
+traccar/traccar-geocoder	258	Apache-2.0	mobile	Fleet & GPS Tracking	Traccar reverse geocoding service	
+WanyueKJ/Food-delivery-uniapp	792	NONE	mobile	Food Delivery	万岳同城外卖(food delivery) 系统开源版，前端uniapp+后台php搭建，系统包含商家端、配送端、用户端以及总管理后台、城市配送后台	
+coopcycle/coopcycle-web	606	NOASSERTION	mobile	Food Delivery	Logistics & marketplace platform. Only for worker-owned business.	
+siam1026/siam-server	509	Apache-2.0	mobile	Food Delivery	暹罗点餐是一款Java餐饮点餐系统，适用于多门店的连锁品牌，对标蜜雪冰城、瑞幸咖啡。该系统包含用户端、商家端、配送端以及总管理后台，美食下单、外卖配送、连锁餐饮和扫码点餐等核心功能，同时提供积分商城、会员中心和邀请好友注册返现等增值服务，以拓展客源。基于 Spring Boot + MyBatis Plus + Vue & Element + uni-app 技术栈进行开发；	
+afgprogrammer/Flutter-food-delivery-app-ui	392	Apache-2.0	mobile	Food Delivery	Flutter Food Delivery Application design and Animation - day 3	
+siam1026/siam-cloud	347	Apache-2.0	mobile	Food Delivery	暹罗外卖是一款Java外卖配送系统，适用于多商户入驻，对标美团外卖、饿了么。该系统包含用户端、商家端、配送端以及总管理后台，美食下单、外卖配送和扫码点餐等核心功能，同时提供积分商城、会员中心和邀请好友注册返现等增值服务，以拓展客源。未来可进一步开发同城配送跑腿等功能。基于 Spring Cloud & Alibaba + Vue & Element + uni-app 技术栈进行开发；	
+medusajs/medusa-eats	269	MIT	mobile	Food Delivery	An Uber Eats-style food delivery platform, running Medusa 2.0 and Next.js 14.	
+Mshandev/Food-Delivery	223	NONE	mobile	Food Delivery	Tomato is the MERN Stack-powered food ordering website that makes online food shopping easy and secure. With user and admin panels, secure JWT Authentication, Stripe payments, and essential features like Login, Add to Cart, and Order Management, it's perfect f	
+tkssharma/uber-eats-clone-app	180	NONE	mobile	Food Delivery	🍔🍔 UberEats Clone Full Stack 🍔🍔	
+noahlevenson/passerby	172	MIT	mobile	Food Delivery	Peer-to-peer location services for the decentralized web -- discover what's around you, no central authority required	
+AileeSung/veding-ui	138	MIT	mobile	Food Delivery	WeChat Mini Program O2O Component Library - UI Components for Food Delivery, E-commerce, and Local Life Services	
+AdityaV025/Munche	90	MIT	mobile	Food Delivery	Munche is a 🍔 food delivery android application made in Java and Kotlin using the Firebase Suite and Mapbox Map Integration.	
+alphaolomi/food-app	52	NONE	mobile	Food Delivery	A minimal 🍔🍚🍝food delivery app	
+Hazrat-Ali9/Burger-Shop-Frontend	51	NONE	mobile	Food Delivery	🤢  Burger Shop 🥶 Frontend a 👻 deliciously 🤖 designed 🤡 fully responsive 🦊 and performance 🐶optimized 🦨 frontend a 🐬 modern 🐸 online burger 🦋 ordering 🌺platform Built 🐲 to deliver 🌼 mouth watering 🍅 UI experiences 🫑 and seamless 🍏 user interaction 🍊 this projec	
+mekedron/wolt-cli	37	MIT	mobile	Food Delivery	Free & Open Source CLI for Wolt: discover venues, inspect menus and options, manage carts, and preview checkout from the terminal.	
+michaelxu688/carta-digital-qr-whatsapp-restaurantes	36	NONE	mobile	Food Delivery	Carta Digital QR interactiva para restaurantes con pedidos automáticos directos a WhatsApp. Solución 0% comisiones, actualización de precios en tiempo real y sin descargas de apps. Ideal para restaurantes, bares y cafeterías.	
+kallaway/100-days-of-code	7026	NONE	mobile	Habit Trackers	Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)	
+onejgordon/flow-dashboard	1686	MIT	mobile	Habit Trackers	[UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters	
+shub39/Grit	1223	GPL-3.0	mobile	Habit Trackers	🔨 A Simple todo list and habit tracker for Android 	
+InlitX/streak	1124	GPL-3.0	mobile	Habit Trackers	Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.	
+ahmet-cetinkaya/whph	444	GPL-3.0	mobile	Habit Trackers	WHPH is a comprehensive productivity app designed to help you manage tasks, develop new habits, and optimize your time.	
+aload0/Reef	366	NONE	mobile	Habit Trackers	Reef helps you stay focused by blocking distracting apps, setting daily routines, and giving you insights into your screen time — all without ads, clutter, or tracking.	
+DanielRendox/RoutineTracker	357	GPL-3.0	mobile	Habit Trackers	An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.	
+dessalines/habit-maker	348	AGPL-3.0	mobile	Habit Trackers	A reward-based habit tracker for android.	
+Vsein/Neohabit	291	AGPL-3.0	mobile	Habit Trackers	A self-hosted habit-tracker with a new approach to heatmaps, and flexible habits that happen X times in Y days.	
+ofalvai/HabitBuilder	290	Apache-2.0	mobile	Habit Trackers	A simple and clean app with the right tools to keep track of habits and understand progress.	
+redpangilinan/iotawise	264	MIT	mobile	Habit Trackers	Track your daily habits, activity streaks, and progress with little effort.	
+zackha/habit	252	MIT	mobile	Habit Trackers	A minimalistic habit tracker application to track and manage your daily habits with ease.	
+Lethe044/hermes-life-os	236	MIT	mobile	Habit Trackers	Local-first personal OS: mood, sleep, habits, tasks, day planning and a memory that connects the dots. Works with Ollama, OpenAI, Anthropic and OpenRouter.	
+plskz/100-days-of-productivity	207	MIT	mobile	Habit Trackers	becoming one percent better everyday.	
+brandonp2412/Quitter	198	MIT	mobile	Habit Trackers	Private, offline addiction-recovery and sobriety tracker with milestones, journaling, notifications, and custom quit journeys.	
+geekan/HowToLiveLonger	36031	Unlicense	mobile	Health & Telemedicine	A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.	
+tcgoetz/GarminDB	3365	GPL-2.0	mobile	Health & Telemedicine	Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.	
+carekit-apple/CareKit	2531	NOASSERTION	mobile	Health & Telemedicine	CareKit is an open source software framework for creating apps that help people better understand and manage their health.	
+Flaque/quirk	2282	GPL-3.0	mobile	Health & Telemedicine	✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool	
+kuberhealthy/kuberhealthy	2278	Apache-2.0	mobile	Health & Telemedicine	A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!	
+antonioribeiro/health	1970	BSD-3-Clause	mobile	Health & Telemedicine	Laravel Health Panel	
+slgobinath/safeeyes	1778	GPL-3.0	mobile	Health & Telemedicine	Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder	
+thetahealth/mirobody	1409	Apache-2.0	mobile	Health & Telemedicine	Mirror your body in data. One standard, every source, one complete picture of you: a self-hosted health record built from lab reports, wearables and genetics, with every number traced to its source and a built-in MCP server. Run it with Docker and one LLM key,	
+ubicomplab/rPPG-Toolbox	1255	NOASSERTION	mobile	Health & Telemedicine	rPPG-Toolbox: Deep Remote PPG Toolbox (NeurIPS 2023)	
+Planshit/ProjectEye	1252	MIT	mobile	Health & Telemedicine	😎 一个基于20-20-20规则的用眼休息提醒Windows软件	
+matthiasn/lotti	1205	GPL-3.0	mobile	Health & Telemedicine	A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — servers only ever see ciphertext. Local AI optional.	
+huifer/WellAlly-health	964	MIT	mobile	Health & Telemedicine	Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps users record symptoms, manage medications, organize medical r	
+open-source-labs/Chronos	850	MIT	mobile	Health & Telemedicine	📊 📊 📊 Monitors the health and web traffic of servers, microservices, Kubernetes/Kafka clusters, containers, and AWS services with real-time data monitoring and receive automated notifications over Slack or email.	
+alexliesenfeld/health	835	MIT	mobile	Health & Telemedicine	A simple and flexible health check library for Go.	
+gillkyle/sol-journal	597	MIT	mobile	Health & Telemedicine	✎ Simple, personal journaling progressive web app	
+home-assistant/frontend	5790	Apache-2.0	mobile	Home Automation & IoT	:lollipop: Frontend for Home Assistant	
+homeassistant-ai/ha-mcp	5475	MIT	mobile	Home Automation & IoT	Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.	
+CCOSTAN/Home-AssistantConfig	5325	NOASSERTION	mobile	Home Automation & IoT	:house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!	
+rytilahti/python-miio	4334	GPL-3.0	mobile	Home Automation & IoT	Python library & console tool for controlling Xiaomi smart appliances	
+crankyoldgit/IRremoteESP8266	3663	LGPL-2.1	mobile	Home Automation & IoT	Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/	
+RavenSystem/esp-homekit-devices	3014	NOASSERTION	mobile	Home Automation & IoT	Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)	
+gioblu/PJON	2836	NOASSERTION	mobile	Home Automation & IoT	PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.	
+evancohen/smart-mirror	2821	NONE	mobile	Home Automation & IoT	The fairest of them all. A DIY voice controlled smart mirror with IoT integration.	
+custom-cards/button-card	2528	MIT	mobile	Home Automation & IoT	❇️ Lovelace button-card for home assistant	
+home-assistant/supervisor	2255	Apache-2.0	mobile	Home Automation & IoT	:house_with_garden: Home Assistant Supervisor	
+HomeSpan/HomeSpan	2208	MIT	mobile	Home Automation & IoT	HomeKit Library for the Arduino-ESP32	
+JurajNyiri/HomeAssistant-Tapo-Control	2050	Apache-2.0	mobile	Home Automation & IoT	Control for Tapo cameras as a Home Assistant component	
+frenck/home-assistant-config	2046	MIT	mobile	Home Automation & IoT	:house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!	
+basnijholt/home-assistant-config	1978	MIT	mobile	Home Automation & IoT	Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:	
+PiotrMachowski/lovelace-xiaomi-vacuum-map-card	1953	MIT	mobile	Home Automation & IoT	This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, Ecovacs (and probably more).	
+Trustroots/trustroots	415	AGPL-3.0	mobile	Hotel & Hospitality	Travellers' community for sharing, hosting and getting people together.	
+oracle/hospitality-api-docs	234	UPL-1.0	mobile	Hotel & Hospitality	This repository stores REST API specifications and accompanying Postman collections for Oracle Hospitality APIs.	
+BeWelcome/rox	222	GPL-2.0	mobile	Hotel & Hospitality	:earth_africa: BeWelcome lets you share a place to stay, connect with travellers, meet up and find accommodation on your journey. It is and will always be a free, open source, non for profit, democratic community.  	
+ViewTouch/viewtouch	221	GPL-3.0	mobile	Hotel & Hospitality	ViewTouch Point of Sale (PoS) - official	
+hackercouch/hackercouch	213	NONE	mobile	Hotel & Hospitality	Hospitality for Hackers	
+OrionFive/Hospitality	102	GPL-3.0	mobile	Hotel & Hospitality	Orion's "Hospitality" and more	
+tejoesperanto/pasportaservo	71	NOASSERTION	mobile	Hotel & Hospitality	La fontkodo de Pasporta Servo	
+seapoe1809/Health_server	50	GPL-3.0	mobile	Hotel & Hospitality	The new DARNA. HI Version2.5. Aspires to be your self hosted Personal Health concierge on Linux. pwd 'health'	
+Trustroots/nostroots	49	AGPL-3.0	mobile	Hotel & Hospitality	nostroots: transition Trustroots onto the nostr network	
+SameetAsadullah/vbook-android	34	MIT	mobile	Hotel & Hospitality	Java Android hotel marketplace backed by PHP and MySQL, with customer booking and vendor inventory workflows.	
+solidcouch/solidcouch	31	NOASSERTION	mobile	Hotel & Hospitality	Decentralized hospitality exchange built with Solid Protocol. Soon, you can also start a community!	
+wp-hotelier/wp-hotelier	24	NOASSERTION	mobile	Hotel & Hospitality	Manage your hotel bookings with WordPress. 	
+iteam365/hotel-booking	18	NONE	mobile	Hotel & Hospitality		
+hospitalityos/hotel-ai-skills	13	NONE	mobile	Hotel & Hospitality	Claude AI Plugin Marketplace — Enterprise-grade hotel operations intelligence suite. 10 skills for revenue management, forecasting, P&L analysis, labor optimization, reputation intelligence, and more.	
+siddhant-savant/CulinaryNER	12	MIT	mobile	Hotel & Hospitality	Named Entity Recognition for Culinary Text - Trained spaCy model for granular restaurant review analysis	
+rstudio/rticles	1538	NONE	mobile	Journaling	LaTeX Journal Article Templates for R Markdown	
+collective/icalendar	1187	BSD-2-Clause	mobile	Journaling	icalendar parser library for Python	
+northword/zotero-format-metadata	1081	AGPL-3.0	mobile	Journaling	Linter for Zotero. A plugin for Zotero to format item metadata. Shortcut to set title rich text; set journal abbreviations, university places, and item languages, etc; detect duplicate items.	
+Eleven-Trading/TradeNote	984	GPL-3.0	mobile	Journaling	TradeNote is an open source trading journal that helps traders store, discover and recollect all their trades so they can become and remain consistent and profitable traders	
+AmmarAbouZor/tui-journal	791	MIT	mobile	Journaling	Your journal app if you live in a terminal	
+WantongC/journal-adapt-writing-skill	775	MIT	mobile	Journaling	Learn any journal's writing conventions from its published papers, then revise your manuscript to match — section by section.	
+crsh/papaja	692	NOASSERTION	mobile	Journaling	papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facilitate reporting statistics, tables, and plots.	
+massimoaria/bibliometrix	675	NOASSERTION	mobile	Journaling	An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.	
+gkostka/lwext4	599	NOASSERTION	mobile	Journaling	ext2/ext3/ext4 filesystem library for microcontrollers	
+jendrikseipp/rednotebook	562	GPL-2.0	mobile	Journaling	RedNotebook is a cross-platform journal	
+appml/neutrinote	473	GPL-3.0	mobile	Journaling	neutriNote - the original Markdown + Math note app.  Programmatically extensible.  Sync-ready note storage. Non-commerical.  No lock-ins.  Only 3 MB footprint & highly optimized.  Designed for plaintext purists.	
+fcakyon/labrat	452	MIT	mobile	Journaling	PhD Research Skills for Claude Code: paper reproduction, experiment design, paper review, result comparison and more.	
+shellywhen/Journal-Response-Letter-Template-LaTeX	363	GPL-3.0	mobile	Journaling	A LaTeX template for journal review response (initially designed for IEEE TVCG)	
+GeneBO98/tradetally	351	Apache-2.0	mobile	Journaling	Advanced trade tracking and analytics (TraderVue alternative)	
+DenserMeerkat/June	324	GPL-3.0	mobile	Journaling	📖 An open-source multimedia journal for expressive, private journaling, with 100% data ownership.	
+studyzy/imewlconverter	10516	GPL-3.0	mobile	Keyboards	”深蓝词库转换“ 一款开源免费的输入法词库转换程序	
+amzxyz/rime-wanxiang	5086	CC-BY-4.0	mobile	Keyboards	「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。	
+osfans/trime	4784	GPL-3.0	mobile	Keyboards	同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android	
+gurecn/YuyanIme	3755	BSD-3-Clause	mobile	Keyboards	语燕输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法	
+metasequoiaime/msime-windows	3377	GPL-3.0	mobile	Keyboards	水杉输入法 Windows 产品：TSF、Server、GUI、设置页与安装器。内测：tg: https://t.me/msimegroup QQ Group: 829919142	
+aardio/ImTip	2668	MIT	mobile	Keyboards	IᵐTⁱᵖ  桌面助手：超级热键 · AI 集成 · 输入跟踪，仅 907 KB	
+EasyIME/PIME	1531	NOASSERTION	mobile	Keyboards	Develop input methods for Windows easily with Python and node.js	
+huanfeng/WindInput	1453	GPL-3.0	mobile	Keyboards	清风输入法 | 轻量、快速、可定制的开源中文输入法，专为五笔和码表输入方案设计，支持全拼/双拼（Windows / macOS / Linux）	
+ximeiorg/Xime	1352	GPL-3.0	mobile	Keyboards	我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。	
+metasequoiaime/msime	1196	GPL-3.0	mobile	Keyboards	下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。	
+aardio/wubi-lex	1195	MIT	mobile	Keyboards	WIN10/11 自带微软五笔码表与短语替换与管理工具( 可将系统五笔一键替换为郑码、小鹤音形、表形码等 )，软件仅792KB( 绿色免安装 )，已自带郑码、小鹤音形、表形码、五笔86、98、091、新世纪等输入法的各种流行码表。	
+azooKey/azooKey-Desktop	1103	MIT	mobile	Keyboards	azooKey-Desktop is an open-source Japanese input method for macOS, written in Swift and powered by the Zenzai neural kana-kanji converter. It provides live conversion, optional LLM-based “Magic Conversions”, and Tuner-backed personalization for a smooth, deskt	
+kou-yeung/WebGLInput	970	MIT	mobile	Keyboards	IME for Unity WebGL	
+xushengfeng/lime	913	GPL-3.0	mobile	Keyboards	大模型驱动的拼音输入法	
+metasequoiaime/chinese-ime-lm	910	GPL-3.0	mobile	Keyboards	面向中文输入法的语言模型：语料、n-gram 统计、字级神经模型，以及判断它们好坏的评测集	
+firewalla/firewalla	637	AGPL-3.0	mobile	Kids & Education	http://firewalla.com	
+HydroshieldMKII/Guardian	175	NOASSERTION	mobile	Kids & Education	Access-control layer for Plex Media Server. Approve or block devices, enforce per-user schedules and IP rules, cap concurrent streams, and stop sessions that break the rules.	
+ERRRC/kaogong-shuati	164	MIT	mobile	Kids & Education	考公刷题 App（公考/gongkao/国考/省考/事业单位）：行测 申论 题库 · 错题本 · AI 解析。中文名：没钱考什么公。	
+onemnemo/mnemo	124	Apache-2.0	mobile	Kids & Education	Mnemo is a free, open-source study application built with Photino X and .NET 10, designed to help students, researchers, and lifelong learners master any subject.	
+marcus67/little_brother	93	GPL-3.0	mobile	Kids & Education	Parental Control Application implemented in Python 3 packaged for Debian and Ubuntu to monitor and limit kids' play time on Linux hosts	
+mhxion/pornaway	77	MIT	mobile	Kids & Education	PornAway: Block adult sites	
+badmojr/addons_1Hosts	66	MPL-2.0	mobile	Kids & Education	DNS filter-/blocklists for  protection against NSFW.	
+osmanonurkoc/SecureAppLocker	50	MIT	mobile	Kids & Education	A robust system-level application locker for Windows. Powered by an NT Service and a modern WinUI 3 interface, it features instant metadata-based interception, fail-secure lockdown, zero-trust WTS session resets, and isolated Session 0 IPC. Secure your persona	
+Installomator/Installomator	1511	Apache-2.0	mobile	Kiosk	Installation script to deploy standard software on Macs	
+ltb-project/self-service-password	1349	GPL-3.0	mobile	Kiosk	Web interface to change and reset password in an LDAP directory	
+pwm-project/pwm	987	NOASSERTION	mobile	Kiosk	pwm	
+apache/streampipes	756	Apache-2.0	mobile	Kiosk	Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.	
+cvhariharan/flowctl	346	Apache-2.0	mobile	Kiosk	An open source self-service workflow execution platform	
+appvia/terranetes-controller	253	GPL-2.0	mobile	Kiosk	The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner.	
+OWOX/owox-data-marts	236	NOASSERTION	mobile	Kiosk	Open-Source Self-Service Analytics Platform	
+conveyordata/data-product-portal	205	Apache-2.0	mobile	Kiosk	Data Product Portal created by Dataminded	
+ansibleforms/ansibleforms	149	GPL-3.0	mobile	Kiosk	Self-service forms for automation: Ansible playbooks and workflows, AWX/AAP/Ascender and Semaphore templates, Rundeck and Jenkins jobs.	
+typeable/octopod	143	BSD-3-Clause	mobile	Kiosk	Kubernetes self-service portal	
+DKH-DK/Self-Service-Power-BI-Fabric	112	NONE	mobile	Kiosk		
+quadsproject/quads	106	GPL-3.0	mobile	Kiosk	:calendar: The infrastructure deployment time machine	
+gilburns/Third-Party-Patcher	44	MIT	mobile	Kiosk	Third Party Patcher (TPP) is a macOS MDM agnostic, MDM managed, daemon-based patching and software distribution system for IT administrators. It automatically discovers installed third-party applications, checks for available updates, downloads installers in t	
+maximlink/managed-view	37	MIT	mobile	Kiosk	Simple app leveraging Managed App Config and Anonymous Single Add Mode (ASAM).	
+netresearch/ldap-selfservice-password-changer	35	MIT	mobile	Kiosk	A simple and fast self-service LDAP (Lightweight Directory Access Protocol) / AD (Active Directory) password changer written in Golang.	
+mengxi-ream/read-frog	10321	GPL-3.0	mobile	Language Learning & Flashcards	🐸 Read Frog - Open-source AI language learning & flashcards, an Immersive Translate alternative | 🐸 陪读蛙 - 开源 AI 语言学习与闪词卡，沉浸式翻译替代	
+qingjian-team/qingjian	7649	GPL-3.0	mobile	Language Learning & Flashcards	青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词	
+echo-loop/Echo-Loop	4672	AGPL-3.0	mobile	Language Learning & Flashcards	Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。	
+lingdojo/kana-dojo	3817	AGPL-3.0	mobile	Language Learning & Flashcards	Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!	
+5mdld/anki-jlpt-decks	3117	NOASSERTION	mobile	Language Learning & Flashcards	【egg rolls】JLPT N1～N5 一万词 Anki 牌组【简／繁】【语音＆例句】；Anki，日语，日文，日本語，牌组，卡组，牌組，卡組，能力考，日檢	
+hahahumble/speechgpt	2745	MIT	mobile	Language Learning & Flashcards	💬 SpeechGPT is a web application that enables you to converse with ChatGPT.	
+typedgrammar/typed-japanese	1954	MIT	mobile	Language Learning & Flashcards	🌸 Learn Japanese grammar with TypeScript	
+Chuloo/mural	1762	MIT	mobile	Language Learning & Flashcards	The language app you eventually delete. A native iPhone companion for learning through conversation.	
+asbplayer/asbplayer	1506	AGPL-3.0	mobile	Language Learning & Flashcards	Browser-based media player and Chrome extension for subtitle sentence mining	
+ripose-jp/Memento	1502	GPL-2.0	mobile	Language Learning & Flashcards	An mpv-based video player for studying Japanese	
+bpwhelan/GameSentenceMiner	910	GPL-3.0	mobile	Language Learning & Flashcards	An immersion toolkit for learning Languages through games and other visual media.	
+Ajatt-Tools/mpvacious	896	GPL-3.0	mobile	Language Learning & Flashcards	🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.	
+yldm-tech/taptapgo-app	884	NONE	mobile	Language Learning & Flashcards	TapTapGo: a multilingual typing adventure for kids, families and schools. Official bug reports, feature requests and release notes.	
+matt-m-o/YomiNinja	771	GPL-3.0	mobile	Language Learning & Flashcards	Open-source OCR and dictionary tool.	
+rtr46/meikipop	726	GPL-3.0	mobile	Language Learning & Flashcards	meikipop - universal japanese ocr popup dictionary for windows, linux and macos	
+T31n/YagniLauncher	695	GPL-3.0	mobile	Launchers	Stock Android Launcher From Scratch	
+lasharor/cleanyourtv-WebOS	442	NOASSERTION	mobile	Launchers	A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.	
+jspw/Ubuntu-Launcher	380	GPL-3.0	mobile	Launchers	An Android  Launcher (having Ubuntu-Gnome flavour) build with Flutter	
+luantak/FokusLauncher	294	GPL-3.0	mobile	Launchers	A text based Android Launcher with powerful features	
+BeatsAD/quiet-tv	241	MIT	mobile	Launchers	面向国内电视机的适配与应用升级改造：轻量 Android 电视桌面、应用配置、可恢复精简与机型验证。基于 Gathin23/cleanyourtv。	
+jovanovski/windowslauncher	189	NONE	mobile	Launchers	A retro Android launcher faithfully immitating Windows 9x/XP/Vista as close to 1:1 as possible	
+SubhamTyagi/Last-Launcher	187	GPL-3.0	mobile	Launchers	Lightweight: Faster than light, Low on memory	
+koddr/a2hs.js	186	MIT	mobile	Launchers	📲 A useful modern JavaScript solution that helps your website users to add (install) a progressive web application (PWA) to the Home Screen of their mobile iOS devices.	
+bearinmindcat/Launcher314	183	GPL-3.0	mobile	Launchers	Android launcher with deep customization	
+flagdizero/jenny-android-ai-agent	123	AGPL-3.0	mobile	Launchers	A local-first personal AI agent that lives on your Android phone. Permanent memory, scheduled autonomous work, self-written mini-apps, and an optional home-screen launcher. Your data stays on the device — bring your own API key, or run a local model and keep t	
+McCal-Codes/folio	117	MIT	mobile	Launchers	Folio Launcher: a clean, iPhone-style (iOS) Home Screen for Android foldables like the Galaxy Z Fold, with jailbreak-inspired tweaks. Free, open source, no root.	
+kennethnym/StarlightLauncher	113	GPL-3.0	mobile	Launchers	A search-focused Android launcher	
+stateful/vscode-marquee	102	MIT	mobile	Launchers	💡 The missing VS Code homescreen that helps you to stay organized with minimal context switches	
+HenriDellal/emerald	88	GPL-3.0	mobile	Launchers	Simple and customizable launcher for Android	
+tanujnotes/Supernova	85	AGPL-3.0	mobile	Launchers	Open source alternative to Nova launcher. No network permission.	
+akuity/kargo	3767	Apache-2.0	mobile	Logistics & Delivery	Application lifecycle orchestration	
+dyrector-io/dyrectorio	1846	Apache-2.0	mobile	Logistics & Delivery	dyrector.io is a self-hosted continuous delivery & deployment platform with version management.	
+systemd/casync	1619	NONE	mobile	Logistics & Delivery	Content-Addressable Data Synchronization Tool	
+ldwonday/zh-address-parse	831	MIT	mobile	Logistics & Delivery	全网识别准确度最高的中国大陆收货地址智能解析	
+PyVRP/PyVRP	726	MIT	mobile	Logistics & Delivery	Open-source, state-of-the-art vehicle routing problem solver in an easy-to-use Python package.	
+shlee322/delivery-tracker	684	NOASSERTION	mobile	Logistics & Delivery	🚚 Delivery and Shipping Tracking Service	
+samybaiwir/DNSlivery	427	MIT	mobile	Logistics & Delivery	Easy files and payloads delivery over DNS	
+salabim/salabim	412	NONE	mobile	Logistics & Delivery	salabim - discrete event simulation	
+stalwartlabs/mail-send	274	NONE	mobile	Logistics & Delivery	E-mail delivery library for Rust with DKIM support	
+VladM7/Stack-Solver	262	GPL-3.0	mobile	Logistics & Delivery	Stack Solver is an app for the optimisation of palletizing and shipping items.	
+leon-mbs/zstore	218	MIT	mobile	Logistics & Delivery	Облікова програма (склад, торгівля, виробництво) з веб-інтерфейсом	
+openthc/pos	166	MIT	mobile	Logistics & Delivery	Software Solutions for Retail - POS, CRM, Delivery, Ordering	
+samirsaci/picking-route	156	MIT	mobile	Logistics & Delivery	Improve Warehouse Productivity using Order Batching	
+mapbox/node-or-tools	154	MIT	mobile	Logistics & Delivery	Node.js bindings for or-tools vehicle routing problems	
+IATA-Cargo/ONE-Record	146	MIT	mobile	Logistics & Delivery	This repository contains the documentation & specs for the ONE Record standard.	
+zwpro/coupons	2004	Apache-2.0	mobile	Loyalty, Coupons & Deals	美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。	
+hujjun/mcd-saver-strategist	1327	MIT	mobile	Loyalty, Coupons & Deals	麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品	
+techtanic/Discounted-Udemy-Course-Enroller	1124	AGPL-3.0	mobile	Loyalty, Coupons & Deals	A script/software for automatically enrolling/joining 100% discounted Udemy courses for free. Get Paid Udemy courses for free with just a few clicks.	
+lukepolo/laracart	583	MIT	mobile	Loyalty, Coupons & Deals	Laravel Shopping Cart Package 	
+vv314/actions-mtz-coupons	549	MIT	mobile	Loyalty, Coupons & Deals	以自动化的方式领取外卖红包。	
+l4rm4nd/VoucherVault	515	GPL-3.0	mobile	Loyalty, Coupons & Deals	Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.	
+appstore-discounts/appstore-discounts	408	MIT	mobile	Loyalty, Coupons & Deals	An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram and DingTalk notifications	
+michael-rubel/laravel-couponables	195	MIT	mobile	Loyalty, Coupons & Deals	Promocode functionality leveraging Eloquent polymorphic relationships.	
+0xjas0/Udemy-Paid-Courses-Grabber	195	MIT	mobile	Loyalty, Coupons & Deals	Script to grab all udemy paid courses with coupons and add them to your udemy account automatically	
+DevinoSolutions/caramel	142	AGPL-3.0	mobile	Loyalty, Coupons & Deals	The open-source and privacy-first alternative to Honey. Caramel The Trusted Alternative To Honey For Finding Coupons	
+Rice92752/payback-coupon-activator-bot	137	NONE	mobile	Loyalty, Coupons & Deals	Payback Coupon Activator 2026: Community-Driven Windows Automation for Easy Coupon setup	
+cedaro/woocommerce-coupon-links	136	NONE	mobile	Loyalty, Coupons & Deals	A WordPress plugin to automatically apply WooCommerce coupon codes to the cart via a URL.	
+xiaozhangup/Oh-My-McDonald	118	MIT	mobile	Loyalty, Coupons & Deals	基于麦当劳官方 MCP 的对话式 AI Skill，支持餐品推荐、门店比价、优惠查询、营养计算和探索记录，并通过 Python 生成体素风格分享图片。	
+sstxww/yangmao-fuli-zhongzhuanzhan	117	NOASSERTION	mobile	Loyalty, Coupons & Deals	羊毛公益福利中转站导航：亲手检测过的公益羊毛站合集、免费福利入口与投稿入口。	
+JustSxm/Deals-Scraper	108	MIT	mobile	Loyalty, Coupons & Deals	Deals Scraper is a Canadian tool to find good deals on websites like Facebook Marketplace, Kijiji, Ebay, Amazon and Lespacs	
+marceloprates/prettymaps	14327	AGPL-3.0	mobile	Maps & Navigation	Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely	
+originalankur/maptoposter	14278	MIT	mobile	Maps & Navigation	Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.	
+rastapasta/mapscii	9274	MIT	mobile	Maps & Navigation	🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows	
+teslamate-org/teslamate	9236	AGPL-3.0	mobile	Maps & Navigation	A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]	
+a-b-street/abstreet	8190	Apache-2.0	mobile	Maps & Navigation	Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit	
+hyperknot/openfreemap	6364	NOASSERTION	mobile	Maps & Navigation	Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data	
+gboeing/osmnx	5891	MIT	mobile	Maps & Navigation	Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.	
+yousifamanuel/terraink	4251	NOASSERTION	mobile	Maps & Navigation	Terraink: The Cartographic Poster Engine that creates unique and customizable map posters	
+openstreetmap/iD	3921	ISC	mobile	Maps & Navigation	🆔 The easy-to-use OpenStreetMap editor in JavaScript.	
+tilemill-project/tilemill	3148	BSD-3-Clause	mobile	Maps & Navigation	TileMill is a modern map design studio	
+PimpinPumpkin/Vela	2491	GPL-3.0	mobile	Maps & Navigation	Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras	
+onthegomap/planetiler	2244	Apache-2.0	mobile	Maps & Navigation	Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast	
+vvoovv/blosm	2153	NONE	mobile	Maps & Navigation	Blosm addon for Blender. A few clicks import of Google 3D cities, OpenStreetMap, terrain. Global coverage. Source code is in the branch 'release'.	
+luka1199/geo-heatmap	2061	MIT	mobile	Maps & Navigation	:world_map: Generate an interactive geo heatmap from your Google location data	
+systemed/tilemaker	1914	NOASSERTION	mobile	Maps & Navigation	Make OpenStreetMap vector tiles without the stack	
+ifmeorg/ifme	1650	AGPL-3.0	mobile	Meditation & Mental Health	Free, open source mental health communication web app to share experiences with loved ones	
+jean-voila/FeurStagram	1178	GPL-3.0	mobile	Meditation & Mental Health	Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.	
+heylinda/heylinda-app	725	AGPL-3.0	mobile	Meditation & Mental Health	The open source and free meditation app alternative for everyone. Built with React Native and Expo.	
+samdark/opensource-hate	309	MIT	mobile	Meditation & Mental Health	Hate in OpenSource	
+CAS-SIAT-XinHai/CPsyCoun	261	CC-BY-4.0	mobile	Meditation & Mental Health	[ACL 2024] CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling	
+scutcyr/SoulChat2.0	260	Apache-2.0	mobile	Meditation & Mental Health	Psychological Counselor's Digital Twin Framework（心理咨询师数字孪生框架）	
+GiorgioRegni/Binaural-Beats	236	GPL-3.0	mobile	Meditation & Mental Health	Brainwaves entrainment, auto hypnosis & lucid dreaming with an Android phone	
+Xe/when-then-zen	158	CC0-1.0	mobile	Meditation & Mental Health	Meditation instructions from spiritual texts ripped out of the contexts of their spirituality and presented in the universal format of Gherkin	
+buddhist-uni/buddhist-uni.github.io	146	NONE	mobile	Meditation & Mental Health	Free courses, books, and talks about Buddhism.	
+muhammadalicusit56-glitch/otto-cognitive-nudge	140	NONE	mobile	Meditation & Mental Health	Smart Promise Tracker AI 2026 – Commit Memory Engine	
+ruiyiw/patient-psi	120	MIT	mobile	Meditation & Mental Health	PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals (EMNLP 2024)	
+fahad-hamid/psique-workflow-clinic	120	NONE	mobile	Meditation & Mental Health	Sesión Cloud 2026: Agenda Inteligente, Facturación y Videollamadas con IA para Psicólogos	
+MetcalfSolutions/Satori	116	Apache-2.0	mobile	Meditation & Mental Health	Claude Code skill & open-source wisdom companion (v6.6.0, Apache 2.0) for CLI, IDE, and web chat. One lens per turn, local SQLite vault, 350-case benchmark (98.0% code non-activation). Install: npx skills add MetcalfSolutions/Satori. Built to be outgrown.	
+29ki/29k	112	AGPL-3.0	mobile	Meditation & Mental Health	This is the repository of the free, non-profit, open-source and co-created mental health app Aware.	
+jtaylortech/journalot	101	MIT	mobile	Meditation & Mental Health	Minimal journaling CLI for developers. Git-backed, terminal-native, zero friction. Just type `journal` and start writing.	
+roninoss/create-expo-stack	2573	MIT	mobile	Mobile App Starter Kits	CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui,	
+flatlogic/react-native-starter	2511	MPL-2.0	mobile	Mobile App Starter Kits	🚀A powerful react native starter template that bootstraps development of your mobile application 	
+VGVentures/news_toolkit	1444	BSD-3-Clause	mobile	Mobile App Starter Kits	A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://vgventures.github.io/news_toolkit/	
+devtodollars/mvp-boilerplate	995	MIT	mobile	Mobile App Starter Kits	A mobile and/or web boilerplate that covers all your MVP needs	
+xuexiangjys/flutter_template	932	Apache-2.0	mobile	Mobile App Starter Kits	The project of the empty template with Flutter has built the basic framework to realize the functions of internationalization, theme peeling, login and registration, etc.(Flutter空壳模板工程，已搭建基础框架，实现国际化、主题换肤、登录注册、自动路由注册等功能，可在此基础上简单修改实现自己的应用功能)	
+nylo-core/nylo	868	MIT	mobile	Mobile App Starter Kits	Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo's opinionated approach to building Flutter apps. Develop your next idea  ⚡️	
+expo-starter/expo-local-first-template	567	MIT	mobile	Mobile App Starter Kits	📱 A template for bootstrap your next Expo project: Bun, Expo 54, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.	
+GeekyAnts/flutter-starter	483	MIT	mobile	Mobile App Starter Kits	A Flutter starter-kit for production-level apps.	
+wednesday-solutions/flutter_template	400	MIT	mobile	Mobile App Starter Kits	A Flutter template application showcasing - Clean architecture, Responsive design, State management, Decoupled widgets using the connector pattern, Dependency Injection, Widget, Unit, Golden and E2E testing, Navigation, Localization, Material 3 dynamic theming	
+SinaSys/flutter_japanese_restaurant_app	262	BSD-2-Clause	mobile	Mobile App Starter Kits	🍣 Japanese restaurant app built in flutter using GetX  | Bloc | Cubit | Provider	
+SinaSys/flutter_office_furniture_store_app	215	BSD-2-Clause	mobile	Mobile App Starter Kits	🎲 Flutter Office furniture store app using GetX | bloc | cubit | Provider | riverpod	
+yjs/yjs	23031	NOASSERTION	mobile	Mobile Backend & Sync (MBaaS)	Shared data types for building collaborative software	
+GoogleChrome/workbox	13041	MIT	mobile	Mobile Backend & Sync (MBaaS)	📦 Workbox: JavaScript libraries for Progressive Web Apps	
+berty/berty	9344	NOASSERTION	mobile	Mobile Backend & Sync (MBaaS)	Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network	
+anyproto/anytype-ts	9056	NOASSERTION	mobile	Mobile Backend & Sync (MBaaS)	Official Anytype client for MacOS, Linux, and Windows	
+loro-dev/loro	6279	MIT	mobile	Mobile Backend & Sync (MBaaS)	Make your JSON data collaborative and version-controlled with CRDTs	
+realm/realm-js	6004	Apache-2.0	mobile	Mobile Backend & Sync (MBaaS)	 Realm is a mobile database: an alternative to SQLite & key-value stores	
+TalAter/UpUp	4920	MIT	mobile	Mobile Backend & Sync (MBaaS)	✈️ Easily create sites that work offline as well as online	
+hoodiehq/hoodie	4459	Apache-2.0	mobile	Mobile Backend & Sync (MBaaS)	:dog: The Offline First JavaScript Backend	
+parse-community/parse-dashboard	3808	NOASSERTION	mobile	Mobile Backend & Sync (MBaaS)	A dashboard for managing Parse Server	
+AhmadHassan-BTed/Parchment	3612	Apache-2.0	mobile	Mobile Backend & Sync (MBaaS)	A soulful, production-grade PDF reader for Android featuring a "Warm Paper" aesthetic, gesture-driven interface, and a high-performance modular architecture. Built with Kotlin 2.0 and Jetpack Compose	
+MobileNativeFoundation/Store	3427	Apache-2.0	mobile	Mobile Backend & Sync (MBaaS)	A library for reading and writing data that lives in network, disk, and memory.	
+orbitinghail/sqlsync	2922	Apache-2.0	mobile	Mobile Backend & Sync (MBaaS)	SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.	
+AhmadHassan-BTed/GardenPulse	2781	NOASSERTION	mobile	Mobile Backend & Sync (MBaaS)	Method-agnostic smart garden companion built with React Native, Expo, and TypeScript. Adapts to soil, hydro, container, or indoor setups with location-aware intelligence, OpenWeather integration, and privacy-first, on-device Gemini AI plant diagnostics.	
+remotestorage/remotestorage.js	2427	MIT	mobile	Mobile Backend & Sync (MBaaS)	⬡ JavaScript client library for integrating remoteStorage in apps	
+jhlee0409/claude-code-history-viewer	2304	MIT	mobile	Mobile Backend & Sync (MBaaS)	Desktop app and web server to browse, search and analyze your AI coding assistant history — Claude Code, Codex CLI, GitHub Copilot, Gemini CLI, Cursor, OpenCode and more. 100% offline.	
+spotDL/spotify-downloader	26718	MIT	mobile	Music Streaming	Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).	
+Shabinder/SpotiFlyer	11319	GPL-3.0	mobile	Music Streaming	Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.	
+NoName-exe/revanced-extended	4248	GPL-3.0	mobile	Music Streaming	ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.	
+NexAlloy/NexAlloy	3151	GPL-3.0	mobile	Music Streaming	ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)	
+sigma67/ytmusicapi	3107	MIT	mobile	Music Streaming	Unofficial API for YouTube Music	
+anandprtp/Antra	2463	NOASSERTION	mobile	Music Streaming	A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, Dolby Atmos, AAC, or MP3.	
+EchoMusicApp/Echo-Music	2331	GPL-3.0	mobile	Music Streaming	An YouTube Music Client	
+sigma67/spotify_to_ytmusic	1534	MIT	mobile	Music Streaming	Clone a Spotify playlist to YouTube Music	
+nonbili/NouTube	1503	AGPL-3.0	mobile	Music Streaming	YouTube and YouTube Music in a single app. No ads, plays in the background.	
+FoxxMD/multi-scrobbler	1301	MIT	mobile	Music Streaming	Scrobble plays from multiple sources to multiple clients	
+Venipa/ytmdesktop2	1134	CC0-1.0	mobile	Music Streaming	Unofficial Youtube Music Desktop App, with Discord RPC & LastFM support.	

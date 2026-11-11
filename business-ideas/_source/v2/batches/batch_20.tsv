@@ -1,0 +1,380 @@
+0xsline/OpenChatCut	2970	AGPL-3.0	media_ai	Video Editing	Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.	
+CristianOlivera1/openvid	2820	NOASSERTION	media_ai	Video Editing	Create professional demos and 3D mockups in seconds, directly in your browser	
+walterlow/freecut	2312	MIT	media_ai	Video Editing	FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports.	
+trykimu/videoeditor	2289	NOASSERTION	media_ai	Video Editing	Your Creative Copilot for Video Editing	
+visomaster/VisoMaster	2115	GPL-3.0	media_ai	Video Editing	Powerful & Easy-to-Use Video Face Swapping and Editing Software	
+ozmartian/vidcutter	1998	GPL-3.0	media_ai	Video Editing	A modern yet simple multi-platform video cutter and joiner.	
+openvideodev/react-video-editor	1829	NOASSERTION	media_ai	Video Editing	Online react video editor using remotion. Capcut and canva clone.	
+pireel/pireel	1357	AGPL-3.0	media_ai	Video Editing	The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.	
+b-editor/beutl	1246	MIT	media_ai	Video Editing	Cross-platform video editing (compositing) software.	
+iknow4x/Android-Video-Trimmer	1182	Apache-2.0	media_ai	Video Editing	The Android-Video-Trimmer project implements the selection of clips for long and short videos. It uses MediaMetadataRetriever to obtain video frames, and uses ffmpeg for video cropping and video compression.	
+VisoMasterFusion/VisoMaster-Fusion	1003	GPL-3.0	media_ai	Video Editing	Powerful & Easy-to-Use Video Face Swapping and Editing Software	
+video-dev/hls.js	17035	NOASSERTION	media_ai	Video Hosting	HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.	
+maxrave-dev/SimpMusic	12956	GPL-3.0	media_ai	Video Hosting	A cross-platform music app using YouTube Music for backend	
+recloudstream/cloudstream	11173	GPL-3.0	media_ai	Video Hosting	Android app for streaming and downloading media.	
+DonutWare/Fladder	2722	GPL-3.0	media_ai	Video Hosting	Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.	
+MayaPosch/NymphCast	2573	BSD-3-Clause	media_ai	Video Hosting	Audio and video casting system with support for custom applications.	
+v-modal/vmodal_sdk_flutter	2155	MIT	media_ai	Video Hosting	V- Modal AI: Visual Video / Image Search - Flutter Video SDK	
+kaltura/nginx-vod-module	2121	AGPL-3.0	media_ai	Video Hosting	NGINX-based MP4 Repackager	
+vega-org/vega-app	1688	NOASSERTION	media_ai	Video Hosting	A app to Play, Stream or Cast Media for andorid.	
+mikeroyal/PipeWire-Guide	1529	NONE	media_ai	Video Hosting	PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.	
+fireshare-app/fireshare	1518	GPL-3.0	media_ai	Video Hosting	Self host your media and share with unique links	
+Stremio/stremio-addon-sdk	1434	MIT	media_ai	Video Hosting	🧙 A Node.js SDK for creating and publishing Stremio add-ons	
+alfg/ffmpeg-commander	1129	MIT	media_ai	Video Hosting	A web-based GUI for quickly generating common FFmpeg command-line operations.	
+pageauc/speed-camera	1113	Apache-2.0	media_ai	Video Hosting	A Unix, Windows, Raspberry Pi Object Speed Camera using python3, opencv, video streaming, motion tracking.  Includes a Standalone Web Server , Image Search using opencv template match and a whiptail Admin Menu Interface  Includes picam and webcam Plugins for m	
+CasparCG/server	1105	GPL-3.0	media_ai	Video Hosting	CasparCG Server is a Windows and Linux software used to play out professional graphics, audio and video to multiple outputs. It has been in 24/7 broadcast production since 2006. Ready-to-use downloads are available under the Releases tab https://casparcg.com.	
+jhomlala/betterplayer	1052	Apache-2.0	media_ai	Video Hosting	Production-grade video player for Flutter (Android, iOS, Web, macOS, Windows, Linux) - HLS, DASH, DRM (Widevine & FairPlay), caching, PiP, VAST ads, and vertical video feeds.	
+Streamedian/html5_rtsp_player	2733	Apache-2.0	media_ai	Video Surveillance	Play RTSP stream from IP camera in browser in this HTML5 player without plugins	
+hjdhjd/homebridge-unifi-protect	1797	NOASSERTION	media_ai	Video Surveillance	:video_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io	
+secluso/core	1693	GPL-3.0	media_ai	Video Surveillance	A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.	
+zapdos-labs/unblink	1518	AGPL-3.0	media_ai	Video Surveillance	Camera monitoring with VLM	
+blakeblackshear/frigate-hass-integration	1301	MIT	media_ai	Video Surveillance	Frigate integration for Home Assistant	
+spyboy-productions/CamXploit	1209	AGPL-3.0	media_ai	Video Surveillance	Security reconnaissance and assessment tool for identifying potentially exposed IP cameras by analyzing open ports, service configurations, and common misconfigurations.	
+dermotduffy/advanced-camera-card	1207	MIT	media_ai	Video Surveillance	A comprehensive camera card for Home Assistant	
+cameraui/camera.ui	1146	MIT	media_ai	Video Surveillance	The modern, local-first platform for professional video surveillance.	
+kerberos-io/agent	1131	MIT	media_ai	Video Surveillance	An open and scalable video surveillance system for anyone making this world a better and more peaceful place.	
+SvenVD/rpisurv	657	GPL-2.0	media_ai	Video Surveillance	Raspberry Pi surveillance	
+saimj7/People-Counting-in-Real-Time	612	MIT	media_ai	Video Surveillance	People Counting in Real-Time with an IP camera.	
+DigitallyRefined/android-ip-camera	505	MIT	media_ai	Video Surveillance	An Android H.264 / MJPEG IP Camera app	
+linkingvision/rapidvms	484	NOASSERTION	media_ai	Video Surveillance	rapidvms(open source VMS/NVR Video Management System/ Network Video Recorder) ==> project closed, use https://linkingvision.com/hproainvr instead 	
+lmk123568/StreamUI	464	MIT	media_ai	Video Surveillance	A minimal and lightweight video streaming management platform 一个极简轻量的视频流媒体管理平台	
+spupuz/VibeNVR	422	MIT	media_ai	Video Surveillance	Simple, privacy-respecting local NVR — fast setup, flexible recording, no cloud required	
+wildfirechat/im-server	8574	NOASSERTION	media_ai	VoIP & PBX	即时通讯(IM)系统	
+mumble-voip/mumble	8401	NOASSERTION	media_ai	VoIP & PBX	Mumble is an open-source, low-latency, high quality voice chat software.	
+processone/ejabberd	6750	NOASSERTION	media_ai	VoIP & PBX	Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)	
+danog/MadelineProto	3552	AGPL-3.0	media_ai	VoIP & PBX	Async PHP client API for the telegram MTProto protocol	
+wildfirechat/android-chat	2738	NOASSERTION	media_ai	VoIP & PBX	即时通讯，聊天，野火IM Android客户端，支持Android 4.x —— 最新	
+pjsip/pjproject	2706	GPL-2.0	media_ai	VoIP & PBX	PJSIP project	
+dino/dino	2506	GPL-3.0	media_ai	VoIP & PBX	Modern XMPP ("Jabber") Chat Client using GTK/Vala	
+teamspeak/teamspeak6-server	1938	NOASSERTION	media_ai	VoIP & PBX	This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch.	
+BelledonneCommunications/linphone-android	1337	GPL-3.0	media_ai	VoIP & PBX	Linphone.org mirror for linphone-android (https://gitlab.linphone.org/BC/public/linphone-android)	
+wildfirechat/ios-chat	1223	NOASSERTION	media_ai	VoIP & PBX	即时通讯，聊天，野火IM iOS客户端	
+64characters/Telephone	1178	GPL-3.0	media_ai	VoIP & PBX	SIP softphone for Mac	
+EnableSecurity/sipvicious	1113	NOASSERTION	media_ai	VoIP & PBX	SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks against PBX systems especially through identification, scannin	
+react-native-webrtc/react-native-callkeep	1065	ISC	media_ai	VoIP & PBX	iOS CallKit framework and Android ConnectionService for React Native	
+element-hq/element-call	1024	AGPL-3.0	media_ai	VoIP & PBX	Group calls powered by Matrix	
+element-hq/ess-helm	999	AGPL-3.0	media_ai	VoIP & PBX	Element Server Suite Community Edition	
+D4Vinci/Scrapling	99141	BSD-3-Clause	media_ai	Web Scraping	🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev	
+jo-inc/camofox-browser	12196	MIT	media_ai	Web Scraping	Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.	
+jhy/jsoup	11412	MIT	media_ai	Web Scraping	jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.	
+NopeCHALLC/nopecha-extension	11096	MIT	media_ai	Web Scraping	Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.	
+apify/crawlee-python	9656	Apache-2.0	media_ai	Web Scraping	Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Parsel, BeautifulSoup, Playwright, and raw HTTP. Both 	
+mherrmann/helium	8321	MIT	media_ai	Web Scraping	Lighter web automation with Python	
+alirezamika/autoscraper	8076	MIT	media_ai	Web Scraping	A Smart, Automatic, Fast and Lightweight Web Scraper for Python	
+firecrawl/firecrawl-mcp-server	7771	MIT	media_ai	Web Scraping	Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client.	
+gosom/google-maps-scraper	7438	MIT	media_ai	Web Scraping	scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place	
+lexiforest/curl_cffi	6825	MIT	media_ai	Web Scraping	Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.	
+browser-act/skills	6332	MIT	media_ai	Web Scraping	Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.	
+MontFerret/ferret	6025	Apache-2.0	media_ai	Web Scraping	Declarative data automation language and Go runtime for structured extraction workflows.	
+Kaliiiiiiiiii-Vinyzu/patchright	5113	Apache-2.0	media_ai	Web Scraping	Undetected version of the Playwright testing and automation library.	
+AhmadHassan-BTed/Noria	4636	MIT	media_ai	Web Scraping	An agentic extractor for messaging platforms. Noria receives messages & URLs via chat; scrapes web data to evaluate the content against custom scoring matrices (e.g., jobs, scholarships); and sends a structured summary with a calculated match score directly to	
+IonicaBizau/scrape-it	4069	MIT	media_ai	Web Scraping	🔮 A Node.js scraper for humans.	
+snooppr/snoop	4063	NOASSERTION	media_ai	Web Scraping	Snoop — инструмент разведки на основе открытых данных (OSINT world)	
+Anakin-Inc/anakin	3862	AGPL-3.0	media_ai	Web Scraping	Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted. One command: make up	
+oxylabs/amazon-scraper	3418	NONE	media_ai	Web Scraping	Free Trial Amazon Scraper API for extracting search, product, offer listing, reviews, question and answers, best sellers and sellers data.	
+vibheksoni/stealth-browser-mcp	3344	MIT	media_ai	Web Scraping	Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate UI cloning.	
+php-curl-class/php-curl-class	3299	Unlicense	media_ai	Web Scraping	PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs	
+oxylabs/how-to-scrape-amazon-product-data	3258	NONE	media_ai	Web Scraping	The process of extracting product data from Amazon using Python, including titles, ratings, prices, images, and descriptions. 	
+Virtual-Browser/VirtualBrowser	3255	BSD-3-Clause	media_ai	Web Scraping	Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github	
+vladkens/twscrape	2940	MIT	media_ai	Web Scraping	Python library and CLI for X/Twitter scraping with multi-account rotation and built-in rate-limit handling.	
+3441293738/creatorhub	2925	NONE	media_ai	Web Scraping	多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok	
+oxylabs/how-to-scrape-google-trends	2914	NONE	media_ai	Web Scraping	Learn step-by-step how to scrape Google Trends data and make a result comparison using Python and Oxylabs SERP API. Extract keywords, their popularity, breakdown by region, related queries, and more.	
+Foundry376/Mailspring	17997	GPL-3.0	media_ai	Webmail & Email Servers	:love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.	
+pimalaya/himalaya	7601	Apache-2.0	media_ai	Webmail & Email Servers	CLI to manage emails	
+jstedfast/MailKit	6872	MIT	media_ai	Webmail & Email Servers	A cross-platform .NET library for IMAP, POP3, and SMTP.	
+twisted/twisted	6002	NOASSERTION	media_ai	Webmail & Email Servers	Event-driven networking engine written in Python.	
+ProtonMail/WebClients	5681	GPL-3.0	media_ai	Webmail & Email Servers	Monorepo hosting the proton web clients	
+imapsync/imapsync	4201	NOASSERTION	media_ai	Webmail & Email Servers	Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied	
+neomutt/neomutt	3860	GPL-2.0	media_ai	Webmail & Email Servers	✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat	
+emersion/go-imap	2360	MIT	media_ai	Webmail & Email Servers	📥 An IMAP library for Go clients and servers	
+OfflineIMAP/offlineimap	1858	NOASSERTION	media_ai	Webmail & Email Servers	Read/sync your IMAP mailboxes (python2) [LEGACY: move to offlineimap3]	
+bkaankose/Wino-Mail	1656	GPL-3.0	media_ai	Webmail & Email Servers	Built-in Mail & Calendars app clone for Windows.	
+deltachat/deltachat-desktop	1640	GPL-3.0	media_ai	Webmail & Email Servers	Decentralized private messenger with chat-shared tools and games for Desktop	
+fofapro/fapro	1614	NONE	media_ai	Webmail & Email Servers	Fake Protocol Server	
+simonrob/email-oauth2-proxy	1498	Apache-2.0	media_ai	Webmail & Email Servers	An IMAP/POP/SMTP proxy that transparently adds OAuth 2.0 authentication for email clients that don't support this method. Keep legacy email clients working with Exchange Online, Gmail and other providers.	
+dovecot/core	1280	NOASSERTION	media_ai	Webmail & Email Servers	Dovecot mail server	
+martinrusev/imbox	1218	MIT	media_ai	Webmail & Email Servers	Python IMAP for Agentic Workflows	
+szimek/signature_pad	12076	MIT	media_ai	Whiteboards	HTML5 canvas based smooth signature drawing	
+flxzt/rnote	11843	GPL-3.0	media_ai	Whiteboards	Sketch and take handwritten notes.	
+LibreCAD/LibreCAD	6566	NOASSERTION	media_ai	Whiteboards	LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.	
+exyte/Macaw	6044	MIT	media_ai	Whiteboards	Powerful and easy-to-use vector graphics Swift library with SVG support	
+steveruizok/perfect-freehand	5804	MIT	media_ai	Whiteboards	Draw perfect pressure-sensitive freehand lines.	
+alexlenail/NN-SVG	5695	MIT	media_ai	Whiteboards	Publication-ready NN-architecture schematics. 	
+wonderunit/storyboarder	3935	NONE	media_ai	Whiteboards	✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.	
+mypaint/mypaint	2998	GPL-2.0	media_ai	Whiteboards	MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.	
+geoman-io/leaflet-geoman	2439	MIT	media_ai	Whiteboards	🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry layers	
+microsoft/maker.js	2047	Apache-2.0	media_ai	Whiteboards	📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.	
+merri-ment/lazy-line-painter	1980	MIT	media_ai	Whiteboards	Lazy Line Painter - A Modern JS library for SVG path animation	
+pencil2d/pencil	1865	GPL-2.0	media_ai	Whiteboards	Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.	
+durdraw/durdraw	1859	BSD-3-Clause	media_ai	Whiteboards	Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes	
+kkoomen/pointless	1830	GPL-3.0	media_ai	Whiteboards	An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️	
+jakubfiala/atrament	1795	MIT	media_ai	Whiteboards	A small JS library for beautiful drawing and handwriting on the HTML Canvas.	
+alicevision/Meshroom	13066	NOASSERTION	media_ai	Workflow Automation	Node-based Visual Programming Toolbox	
+cadence-workflow/cadence	9541	Apache-2.0	media_ai	Workflow Automation	Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.	
+bytedance/flowgram.ai	8566	MIT	media_ai	Workflow Automation	FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.	
+czlonkowski/n8n-skills	6602	MIT	media_ai	Workflow Automation	n8n skillset for Claude Code to build flawless n8n workflows	
+ScrapeCreators/social-media-research-skills	5920	MIT	media_ai	Workflow Automation	AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.	
+breaking-brake/cc-wf-studio	5452	NOASSERTION	media_ai	Workflow Automation	CC Workflow Studio	
+Agenta-AI/agenta	4889	NOASSERTION	media_ai	Workflow Automation	Agenta is a workspace where you and your team build agents and automations.	
+composio-community/open-claude-cowork	4311	MIT	media_ai	Workflow Automation	Open Source version of Claude Cowork with 500+ SaaS app integrations	
+foryourhealth111-pixel/Vibe-Skills	3805	Apache-2.0	media_ai	Workflow Automation	Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.	
+MaxMiksa/Autonomous-Company	3191	MIT	media_ai	Workflow Automation	An autonomous company working 24/7 on your own PC - Windows/Linux/macOS.	
+yaojingang/yao-meta-skill	2720	MIT	media_ai	Workflow Automation	YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.	
+wanikua/danghuangshang	2716	MIT	media_ai	Workflow Automation	Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw.	
+argoproj/argo-events	2714	Apache-2.0	media_ai	Workflow Automation	Event-driven Automation Framework for Kubernetes	
+moazbuilds/CodeMachine-CLI	2513	Apache-2.0	media_ai	Workflow Automation	CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️	
+shepherd-agents/shepherd	2504	MIT	media_ai	Workflow Automation	A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse 	
+pydoit/doit	2099	MIT	media_ai	Workflow Automation	CLI task management & automation tool	
+KaijuEngine/kaiju	4739	NOASSERTION	games	2D Game Engines	General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor	
+nicolasgramlich/AndEngine	3191	Apache-2.0	games	2D Game Engines	Free Android 2D OpenGL Game Engine	
+layabox/LayaAir	2233	MIT	games	2D Game Engines	LayaAir is a fully platform rendering engine with rich 2D/3D rendering capabilities and a mature integrated development platform	
+JohnSundell/ImagineEngine	1831	NOASSERTION	games	2D Game Engines	A project to create a blazingly fast Swift game engine that is a joy to use 🚀	
+nCine/nCine	1345	MIT	games	2D Game Engines	A cross-platform 2D game engine	
+castle-engine/castle-engine	1263	NOASSERTION	games	2D Game Engines	Cross-platform (desktop, mobile, console, web) 3D and 2D game engine. Powerful visual editor. Support for glTF, X3D, IFC and more. Fast clean code using modern Pascal. Free and open-source.	
+hecrj/coffee	1150	MIT	games	2D Game Engines	An opinionated 2D game engine for Rust	
+lethal-guitar/RigelEngine	1015	GPL-2.0	games	2D Game Engines	A modern re-implementation of the classic DOS game Duke Nukem II	
+timi-liuliang/echo	994	MIT	games	2D Game Engines	A New Cross-Platform 2D 3D Game Engine	
+esengine/esengine	931	MIT	games	2D Game Engines	ESEngine - High-performance TypeScript ECS Framework for Game Development	
+brettchalupa/usagi	879	Unlicense	games	2D Game Engines	A simple 2D game engine for rapid prototyping with Lua, featuring live reload and cross-platform export; this repo is a mirror and development happens at: https://codeberg.org/brettchalupa/usagi	
+ObEngine/ObEngine	868	MIT	games	2D Game Engines	2D Game Engine with Lua Scripting made on top of SFML !	
+gurkenlabs/litiengine	841	MIT	games	2D Game Engines	LITIENGINE 🕹 The Java 2D game engine.	
+elliegoldstein/quicksilver	778	NOASSERTION	games	2D Game Engines	A simple framework for 2D games on desktop and web	
+lfkdsk/JustWeEngine	766	NONE	games	2D Game Engines	An easy open source Android Native Game FrameWork.	
+SFTtech/openage	14587	NOASSERTION	games	3D Game Engines	Clone of the Age of Empires II engine 🚀 	
+flame-engine/flame	10810	MIT	games	3D Game Engines	A Flutter based game engine.	
+sschmid/Entitas	7681	MIT	games	3D Game Engines	Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity	
+horizon-rust/horizon	7643	MIT	games	3D Game Engines	Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.	
+FlaxEngine/FlaxEngine	7105	NOASSERTION	games	3D Game Engines	Flax Engine – multi-platform 3D game engine	
+BoomingTech/Piccolo	6748	MIT	games	3D Game Engines	Piccolo (formerly Pilot) – mini game engine for games104	
+Redot-Engine/redot-engine	6188	MIT	games	3D Game Engines	Redot Engine – Multi-platform 2D and 3D game engine	
+hexops/mach	4861	NOASSERTION	games	3D Game Engines	zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach	
+ggez/ggez	4722	MIT	games	3D Game Engines	Rust library to create a Good Game Easily	
+faiface/pixel	4528	MIT	games	3D Game Engines	A hand-crafted 2D game library in Go	
+ketoo/NoahGameFrame	4165	Apache-2.0	games	3D Game Engines	A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.	
+spring/spring	4032	NOASSERTION	games	3D Game Engines	A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/	
+egret-labs/egret-core	4028	NOASSERTION	games	3D Game Engines	Egret is a brand new open mobile game and application engine which allows you to quickly build mobile games and apps on Android,iOS and Windows.	
+AmbientRun/Ambient	3909	Apache-2.0	games	3D Game Engines	The multiplayer game engine	
+MovingBlocks/Terasology	3905	Apache-2.0	games	3D Game Engines	Terasology - open source voxel world	
+nem0/LumixEngine	3901	MIT	games	3D Game Engines	3D C++ Game Engine - yet another open source game engine	
+passivestar/godot-minimal-theme	3764	MIT	games	3D Game Engines	Godot Minimal Theme	
+ihhub/fheroes2	3717	GPL-2.0	games	3D Game Engines	fheroes2 is a recreation of Heroes of Might and Magic II game engine	
+OpenXRay/xray-16	3606	NOASSERTION	games	3D Game Engines	Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)	
+opentk/opentk	3547	NOASSERTION	games	3D Game Engines	The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. O	
+isadorasophia/murder	3352	MIT	games	3D Game Engines	Murder is a pixel art ECS game engine.	
+PanosK92/SpartanEngine	3199	NOASSERTION	games	3D Game Engines	A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz, built over 12+ years of R&D	
+g3n/engine	3121	BSD-2-Clause	games	3D Game Engines	Go 3D Game Engine (http://g3n.rocks)	
+bberak/react-native-game-engine	3103	MIT	games	3D Game Engines	A lightweight Game Engine for React Native 🕹⚡🎮	
+korlibs/korge	3065	NOASSERTION	games	3D Game Engines	Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.	
+AhmadHassan-BTed/CursedTomorrow	4945	MIT	games	Adventure & Narrative Games	A 2D horror-survival and escape game built from scratch in C++. Navigate unsettling levels, survive the glitches, and escape the nightmare. Features a custom C++ game core, robust asset management, and comprehensive system architecture documentation.	
+devshane/zork	650	NONE	games	Adventure & Narrative Games	The DUNGEON (Zork I) source	
+nathanhoad/godot_puzzle_dependencies	203	MIT	games	Adventure & Narrative Games	A tool for making puzzle dependency charts in Godot	
+LittleBitUA/DPRecomp	187	MIT	games	Adventure & Narrative Games	Deadly Premonition (Xbox 360) native PC port by static recompilation - v2.0.14: native DirectX 12 renderer ready for testing (up to 4x internal resolution); 60 FPS, mouse look, keyboard driving, FSR 3, ISO installer, PAL + USA	
+historicalsource/leisuresuitlarry	180	NONE	games	Adventure & Narrative Games	Leisure Suit Larry Script and Definition Files, by Al Lowe for Sierra (1987)	
+souwell/Five-Nights-at-Freddys-Web	169	NONE	games	Adventure & Narrative Games	Five Nights at Freddy's - Web: https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/	
+h8man/RedHotSweetPepper	100	MIT	games	Adventure & Narrative Games	2D Navigation Click-To-Move Top Down Run and Chase Game "RedHotSweetPeper"	
+sinequa/ngx-ui-builder	93	MIT	games	Adventure & Narrative Games	An Angular library for creating no code tools & applications	
+pinguin999/ALPACA	93	Zlib	games	Adventure & Narrative Games	A Library for Point And Click Adventures	
+ankushKun/sh23ds	76	GPL-3.0	games	Adventure & Narrative Games	Silent Hill 2 for Nintendo 3DS: a native homebrew port of the PC Director's Cut for the New 3DS and original 3DS, with the Enhanced Edition's fixes. Runs on your own copy of the game.	
+larpon/DeadAscend	68	MIT	games	Adventure & Narrative Games	A 2D point'n'click-like adventure game written in Qt/QML and Javascript	
+dung-huynh/office-unity3D	59	NONE	games	Adventure & Narrative Games	Horror Game Development	
+miguel2004-cd/Big-Walk-Enhancer-Speed-Phantom-Suite	56	NONE	games	Adventure & Narrative Games	Big Walk Trainer Speed Hack and Ghost Mode Guide 2026 for Windows 10/11	
+paglajoker809-prog/Big-Walk-Performance-Tuner-Pro-Motion-Overrides	55	NONE	games	Adventure & Narrative Games	Best Big Walk Speed Trainer & Ghost Mode Tool 2026: 10+ Pro Gameplay Enhancements	
+Nathi071/big-walk-motion-studio	55	NONE	games	Adventure & Narrative Games	Big Walk Trainer Pro Menus & Noclip Mods 2026: 40+ Tools	
+jpardogo/GoogleProgressBar	1304	Apache-2.0	games	Bingo, Dice & Casino-Style Games	Android library to display progress like google does in some of his services.	
+xori/gamblers-dice	916	ISC	games	Bingo, Dice & Casino-Style Games	A terrible idea, now real.	
+FaronBracy/RogueSharp	638	MIT	games	Bingo, Dice & Casino-Style Games	A .NET Standard class library providing map generation, path-finding, and field-of-view utilities frequently used in roguelikes or 2D tile based games. Inspired by libtcod	
+MasterGroosha/telegram-casino-bot	225	MIT	games	Bingo, Dice & Casino-Style Games	Demo bot to show slot machine dice 🎰 on Telegram	
+m-i-n-a-r/randomix	219	MIT	games	Bingo, Dice & Casino-Style Games	🎲 An open source app to choose randomly between numbers, answers, options and so on	
+Jingnan-Jia/segmentation_metrics	194	MIT	games	Bingo, Dice & Casino-Style Games	A package to compute medical segmentation metrics.	
+ctsrc/Pgen	144	ISC	games	Bingo, Dice & Casino-Style Games	Command-line passphrase generator	
+charmaur/PolyDiceGenerator	117	NOASSERTION	games	Bingo, Dice & Casino-Style Games	A customizable Polyhedral Dice Generator for OpenSCAD.	
+abhi1kumar/SeaBird	106	MIT	games	Bingo, Dice & Casino-Style Games	[CVPR 2024] Official PyTorch Code of SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects	
+LaChance-Lab/solana-casino-games-evm-web3	104	MIT	games	Bingo, Dice & Casino-Style Games	Solana Casino Game & EVM Casino Platform | 10 Provably Fair Casino Games | Multi-Chain Casino | Crash, Plinko, Dice, Blackjack, Roulette, Poker, Coinflip | ORAO + Chainlink VRF	
+Casino-Scripts-com/ViperPro-Casino	96	NONE	games	Bingo, Dice & Casino-Style Games	Viper Pro Casino Script is an all-in-one online casino software with customizable games, perfect for launching your own casino for Free. | https://www.casino-scripts.com/contact/	
+eiriksgata/mirai-rulateday-dice	92	AGPL-3.0	games	Bingo, Dice & Casino-Style Games	利用Mirai框架的Mirai-Console开发TRPG骰子插件模板。目前集成了大部分的常用指令，并在此基础上实现更多的跑团体系优化指令。例如COC7技能详细查询、DND5e技能列表查询、DND5e怪物图鉴等。目前处于测试阶段。	
+borntyping/python-dice	88	MIT	games	Bingo, Dice & Casino-Style Games	Dice parsing and evaluation library	
+DiceTechJobs/SolrPlugins	88	Apache-2.0	games	Bingo, Dice & Casino-Style Games	Dice Solr Plugins from Simon Hughes Dice.com	
+AdamTyler/react-dice-complete	84	ISC	games	Bingo, Dice & Casino-Style Games	Complete dice rolling functionality and animations	
+datamllab/rlcard	3587	MIT	games	Card & Board Game Engines	Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.	
+db0/godot-card-game-framework	1413	AGPL-3.0	games	Card & Board Game Engines	A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.	
+Qsgs-Fans/FreeKill	1040	GPL-3.0	games	Card & Board Game Engines	An open source board game engine, written in Qt and Lua.	
+ycarowr/UiCard	576	MIT	games	Card & Board Game Engines	Generic UI for card games like Hearthstone, Magic Arena and Slay the Spire...	
+mtgjson/mtgjson	483	MIT	games	Card & Board Game Engines	MTGJSON build scripts for Magic: the Gathering	
+finol-digital/Card-Game-Simulator	441	MPL-2.0	games	Card & Board Game Engines	Create, Share, and Play	
+WagicProject/wagic	411	NOASSERTION	games	Card & Board Game Engines	Wagic the Homebrew	
+BraindeadBZH/godot_card_engine	364	MIT	games	Card & Board Game Engines	A plugin for Godot to create card based games	
+Gusabary/UNO	319	MIT	games	Card & Board Game Engines	Hooray! Card Game UNO!	
+oskarrough/slaytheweb	319	AGPL-3.0	games	Card & Board Game Engines	Slay the Web is a singleplayer, deck builder, roguelike card crawl game for the web based on Slay the Spire	
+Sisyphe42/ReignsAgent	293	MIT	games	Card & Board Game Engines	Creator, simulation reviewer, and portable player toolchain for binary-choice card narratives.	
+nicho92/MtgDesktopCompanion	249	Apache-2.0	games	Card & Board Game Engines	Cards manager for magic the gathering	
+oatear/cider	247	AGPL-3.0	games	Card & Board Game Engines	Card IDE (CIDEr) - Design game cards using HTML/Handlebars, CSS, and tabular data	
+krukah/robopoker	229	MIT	games	Card & Board Game Engines	Everything you could wish for in a library called RoboPoker. Full suite of data structures, algorithms, solvers, ML models, and more.	
+Alan-Cha/silhouette-card-maker	227	MIT	games	Card & Board Game Engines	DIY card games and proxies with Silhouette cutting machines	
+Kyubyong/sudoku	869	GPL-3.0	games	Casual & Puzzle Games	Can Neural Networks Crack Sudoku?	
+lucasnlm/antimine-android	808	GPL-3.0	games	Casual & Puzzle Games	Antimine is an open source minesweeper-like puzzle game.	
+Strophox/tetro-tui	766	MIT	games	Casual & Puzzle Games	Terminal-based but modern tetromino-stacking game that is customizable and cross-platform	
+gruhn/typescript-sudoku	517	NONE	games	Casual & Puzzle Games	Playing Sudoku in TypeScript while the type checker highlights mistakes.	
+tetrio/issues	499	NONE	games	Casual & Puzzle Games	Report issues and discuss improvements / feature requests around TETR.IO	
+robatron/sudoku.js	498	MIT	games	Casual & Puzzle Games	A Sudoku puzzle generator and solver JavaScript library	
+daltonbr/Match3	471	NONE	games	Casual & Puzzle Games	✨🐠The most original game on Earth: Match3 - in Unity!✨🐟	
+JJoriping/KKuTu	362	GPL-3.0	games	Casual & Puzzle Games	글자로 놀자! 끄투 온라인	
+HarmonyHoney/ROTA	338	MIT	games	Casual & Puzzle Games	Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game	
+abakh/nbsdgames	317	NOASSERTION	games	Casual & Puzzle Games	A package of 21 new, improved, text-based games. Some are entirely original ideas. Best and lightest! Years of free, fun and endless brain exercise for everyone. You might want to star the repo if you like it.	
+divVerent/aaaaxy	305	Apache-2.0	games	Casual & Puzzle Games	A nonlinear 2D puzzle platformer taking place in impossible spaces.	
+danaugrs/gokoban	293	BSD-2-Clause	games	Casual & Puzzle Games	3D Puzzle Game written in Go	
+t-dillon/tdoku	284	BSD-2-Clause	games	Casual & Puzzle Games	A fast Sudoku solver and generator with a benchmark suite for comparing the fastest known solvers.	
+HarmonyHoney/tiny_crate	240	Unlicense	games	Casual & Puzzle Games	Godot 3.6 / Tiny Crate / Crate Chucking Puzzle Platformer Game	
+pocketjoso/sudokuJS	227	NONE	games	Casual & Puzzle Games	JavaScript step-by-step Sudoku solver and board generator	
+thomasahle/sunfish	3308	NOASSERTION	games	Chess & Go	Sunfish: a Python Chess Engine in 111 lines of code	
+niklasf/python-chess	2903	GPL-3.0	games	Chess & Go	A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication	
+lichess-org/mobile	2650	GPL-3.0	games	Chess & Go	Lichess mobile app	
+Zeta36/chess-alpha-zero	2226	MIT	games	Chess & Go	Chess reinforcement learning by AlphaGo Zero methods.	
+franciscoBSalgueiro/en-croissant	2011	GPL-3.0	games	Chess & Go	The Ultimate Chess Toolkit	
+CSSLab/maia-chess	1265	GPL-3.0	games	Chess & Go	Maia is a human-like neural network chess engine trained on millions of human games.	
+thomas-mauran/chess-tui	1217	MIT	games	Chess & Go	Play chess in any terminal. Rust TUI, Stockfish, Lichess.	
+lichess-bot-devs/lichess-bot	1107	AGPL-3.0	games	Chess & Go	A bridge between Lichess bots and chess engines	
+lichess-org/fishnet	937	GPL-3.0	games	Chess & Go	Distributed Stockfish analysis for lichess.org	
+maaslalani/gambit	913	MIT	games	Chess & Go	Play chess in your terminal	
+WintrCat/freechess	840	NOASSERTION	games	Chess & Go	WintrCat's Game Report ♟️	
+pychess/pychess	816	GPL-3.0	games	Chess & Go	PyChess - desktop chess client for Linux/Windows/macOS	
+lichess-org/scalachess	786	MIT	games	Chess & Go	Chess API written in scala. Immutable and free of side effects.	
+rooklift/nibbler	759	GPL-3.0	games	Chess & Go	Chess analysis GUI for UCI engines, with extra features for Leela (Lc0) in particular.	
+codedeliveryservice/Reckless	682	AGPL-3.0	games	Chess & Go	Competitive chess engine written in Rust	
+css-doodle/css-doodle	6079	MIT	games	Creative Coding	A web component for visual art and creative coding	
+williamngan/pts	5363	Apache-2.0	games	Creative Coding	A library for visualization and creative-coding	
+DavidHDev/canvas-ui	5354	NOASSERTION	games	Creative Coding	A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.	
+cocopon/tweakpane	4660	MIT	games	Creative Coding	:control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes	
+vijishmadhavan/ArtLine	3632	MIT	games	Creative Coding	A Deep Learning based project for creating line art portraits.	
+nolangz/pixel2motion	2606	MIT	games	Creative Coding	AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.	
+ossia/score	2091	NOASSERTION	games	Creative Coding	ossia score, an interactive sequencer for the intermedia arts	
+nature-of-code/noc-book-2	1961	NONE	games	Creative Coding	The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.	
+MengTo/kage	1783	NONE	games	Creative Coding	An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.	
+georgealways/lil-gui	1654	MIT	games	Creative Coding	Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.	
+alexgreensh/anidoodle	1431	Apache-2.0	games	Creative Coding	Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.	
+pthom/imgui_bundle	1390	MIT	games	Creative Coding	Interactive Python & C++ apps for desktop, mobile, and web - powered by Dear ImGui. Stop fighting GUI frameworks. Start building.	
+blixvip/NullMotion	1350	MIT	games	Creative Coding	Play a finished motion-graphics ad in sync with the rough drafts it grew from, and export the breakdown as MP4.	
+juliobsz/skills	1199	MIT	games	Creative Coding	An agent skill that builds award-caliber websites from one line	
+baku89/glisp	1196	MIT	games	Creative Coding	A small Lisp as an interaction substrate for creative software: one program, edited as code, as blocks, or by hand on a canvas. Glisp Canvas is the vector drawing app built on it.	
+LAION-AI/Open-Assistant	37345	Apache-2.0	games	Discord & Twitch Bots	OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.	
+Rapptz/discord.py	16202	MIT	games	Discord & Twitch Bots	An API wrapper for Discord written in Python.	
+codebymitch/TitanBot	9428	MIT	games	Discord & Twitch Bots	A powerful, all-in-one Discord assistant built for every server. 	
+ayn2op/discordo	5867	GPL-3.0	games	Discord & Twitch Bots	A lightweight, secure, and feature-rich Discord terminal (TUI) client.	
+nextlevelbuilder/goclaw	3708	NOASSERTION	games	Discord & Twitch Bots	GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.	
+xmanrui/dsh-im	3328	MIT	games	Discord & Twitch Bots	通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).	
+heshengtao/super-agent-party	2817	AGPL-3.0	games	Discord & Twitch Bots	⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!	
+Zero6992/chatGPT-discord-bot	2731	GPL-2.0	games	Discord & Twitch Bots	Integrate ChatGPT into your own discord bot	
+V4NSH4J/discord-mass-DM-GO	2195	AGPL-3.0	games	Discord & Twitch Bots	The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages to Discord users!	
+AnswerOverflow/AnswerOverflow	2024	MIT	games	Discord & Twitch Bots	Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.	
+Discord4J/Discord4J	1927	LGPL-3.0	games	Discord & Twitch Bots	Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.	
+modmail-dev/Modmail	1697	AGPL-3.0	games	Discord & Twitch Bots	A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.	
+python-discord/bot	1619	MIT	games	Discord & Twitch Bots	The community bot for the Python Discord community	
+stegripe/rawon	1533	NOASSERTION	games	Discord & Twitch Bots	A simple powerful Discord music (multi-)bot built to fulfill your production desires. Easy to use, with no coding required.	
+discord-tickets/bot	1495	GPL-3.0	games	Discord & Twitch Bots	The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.	
+Jakeschincariol/arena-skill	1310	MIT	games	Esports & Tournaments	When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill.	
+LeagueOfPoro/CapsuleFarmerEvolved	760	NOASSERTION	games	Esports & Tournaments	Automatically drops from lolesports.com and farm Esports Capsules	
+LaihoE/demoparser	741	MIT	games	Esports & Tournaments	Counter-Strike 2 replay parser for Python and JavaScript	
+shobhit-pathak/MatchZy	511	MIT	games	Esports & Tournaments	MatchZy is a plugin for CS2 (Counter Strike 2) for running and managing practice/pugs/scrims/matches with easy configuration and Get5 (G5API/G5V) support as well!	
+sendou-ink/sendou.ink	303	AGPL-3.0	games	Esports & Tournaments	Competitive Splatoon Platform	
+inker/draw	257	NONE	games	Esports & Tournaments	⚽ Champions League draw simulator	
+xoco70/laravel-tournaments	229	GPL-3.0	games	Esports & Tournaments	Laravel Package that allows you to generate customizable tournaments trees. - This project repo is no longer being maintained	
+Contentify/Contentify	215	MIT	games	Esports & Tournaments	Contentify is an esports CMS based on the PHP framework Laravel	
+Yudaotor/EsportsHelper	193	MIT	games	Esports & Tournaments	通过selenium模拟浏览器来自动观看电竞比赛获取电竞典藏罐,当没有比赛时智能休眠.（Automatically watch e-sports games through undetected_chromedriver to farm esports capsule, when there is no match intelligent sleep.）	
+alfg/overwatch-api	150	MIT	games	Esports & Tournaments	:earth_americas: An Unofficial Overwatch HTTP API	
+rocketseat-education/nlw-esports-ignite	142	NONE	games	Esports & Tournaments	Projeto construído durante o Next Level Week eSports, na trilha Ignite.	
+NeoFrag/NeoFrag	109	LGPL-3.0	games	Esports & Tournaments	Your turnkey gaming website, 100% free, 100% eSport!	
+arunabhverma/expo-tournament-bracket	106	NONE	games	Esports & Tournaments	Animated Tournament Brackets built with Expo, Reanimated	
+Zettersten/jquery.gracket.js	104	MIT	games	Esports & Tournaments	Experience interactive tournament brackets with real-time updates. Hover over teams to see them highlighted across all rounds. Use the controls below to interact with the bracket.	
+Rodeoclash/vodon-pro	87	GPL-3.0	games	Esports & Tournaments	Vodon Pro is a video player designed for esports coaches to review footage of players.	
+JohnEarnest/Decker	1667	MIT	games	Fantasy Consoles	A multimedia sketchpad	
+Gigoteur/UnicornConsole	900	MIT	games	Fantasy Consoles	Unicorn Console: create quick fantasy game in Rust/Python/Lua/Rhai/Wasm !	
+picolove/picolove	891	Zlib	games	Fantasy Consoles	PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM	
+jtothebell/fake-08	887	NOASSERTION	games	Fantasy Consoles	A Pico-8 player/emulator for console homebrew	
+JohnEarnest/Octo	877	MIT	games	Fantasy Consoles	A Chip8 IDE	
+JohnEarnest/Mako	599	NOASSERTION	games	Fantasy Consoles	A simple virtual game console	
+dansanderson/picotool	409	MIT	games	Fantasy Consoles	Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php	
+Liquidream/scumm-8	362	MIT	games	Fantasy Consoles	A PICO-8 demake of the SCUMM engine that powered most of the classic LucasArts adventure games, such as Monkey Island and Maniac Mansion.	
+paladin-t/bitty	352	BSD-3-Clause	games	Fantasy Consoles	Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.	
+kesiev/rewtro	340	MIT	games	Fantasy Consoles	Papercraft videogame cartridges you can print and pirate with a copy machine.	
+Jakz/retro8	298	GPL-3.0	games	Fantasy Consoles	PICO-8 implementation with SDL2/SDL1.2 and RetroArch back-ends	
+jjant/runty8	269	MIT	games	Fantasy Consoles	A Pico8 clone in Rust.	
+paladin-t/b8	249	NONE	games	Fantasy Consoles	BASIC8 - The Fantasy Computer/Console!	
+0xcafed00d/tac08	230	MIT	games	Fantasy Consoles	tac08 is an an emulation of the runtime part of the Pico-8 fantasy console. It takes a .p8 (text format) pico-8 cart file and runs it as closely posible	
+gamercade-io/gamercade_console	188	Apache-2.0	games	Fantasy Consoles	A Neo-Retro Fantasy Console. Make WASM-powered, networked multiplayer games.	
+mkreiser/ESPN-Fantasy-Football-API	355	LGPL-3.0	games	Fantasy Sports	Connect to ESPN's fantasy football API via this JS API client for web and NodeJS. Available as an npm package.	
+amosbastian/fpl	332	MIT	games	Fantasy Sports	An asynchronous Python wrapper for the Fantasy Premier League API.	
+uberfastman/yfpy	270	GPL-3.0	games	Fantasy Sports	Python API wrapper for the Yahoo Fantasy Sports public API (supports NFL, NHL, MLB, and NBA).	
+FantasyFootballAnalytics/ffanalytics	192	NONE	games	Fantasy Sports	ffanalytics R package 	
+spinach/FantasyPremierLeague.py	134	NONE	games	Fantasy Sports	⚽  Statistics for your mini leagues.	
+dynastyprocess/data	114	GPL-3.0	games	Fantasy Sports	An open-data fantasy football repository, maintained by DynastyProcess.com	
+ffverse/ffscrapr	97	NOASSERTION	games	Fantasy Sports	R API Client for Fantasy Football League Platforms	
+derekrbreese/fantasy-football-mcp-public	94	MIT	games	Fantasy Sports	Yahoo Fantasy Football MCP server for Claude Desktop - Advanced lineup optimization, draft assistance, and league management. Built using Claude Code.	
+joeyagreco/leeger	87	MIT	games	Fantasy Sports	Instant stats for any fantasy football league.	
+krmisystems/fantasy-football-manager	85	MIT	games	Fantasy Sports	ESPN draft and lineup tools for Codex and other MCP clients, with browser sign-in, approval modes, per-team limits, and server monitoring.	
+SwapnikKatkoori/sleeper-api-wrapper	83	MIT	games	Fantasy Sports	A Python wrapper for the Sleeper Fantasy Football API.	
+jjti/ff	78	NONE	games	Fantasy Sports	fantasy football draft assistant with projections from ESPN, CBS, and NFL	
+philipfong/free-agent-sleeper	72	NONE	games	Fantasy Sports	Automate adding of free agents in fantasy football leagues 	
+amosbastian/FPLbot	69	MIT	games	Fantasy Sports	A bot made for /r/FantasyPL	
+piopy/fantacalcio-py	68	GPL-3.0	games	Fantasy Sports	Piccolo tool per guidarci all'asta spendendo poco	
+DCurrent/openbor	1286	BSD-3-Clause	games	Fighting & Sports Games	OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more! 	
+ZOXEXIVO/open-football	262	Apache-2.0	games	Fighting & Sports Games	Open Football football simulation engine (like Football Manager) written in pure Rust	
+NoisyChain/Sakuga-Engine	256	MIT	games	Fighting & Sports Games	A fighting game engine made for Godot 4 written in C#	
+Delta3-Studio/Backdash	178	MIT	games	Fighting & Sports Games	C# Rollback network SDK	
+tmcleroy/cps2recomp	164	GPL-3.0	games	Fighting & Sports Games	CPS-2 Recomp: unofficial native PC ports of Capcom CPS-2 arcade games (Street Fighter Alpha 2, Super Puzzle Fighter II Turbo, Vampire Savior) via static recompilation, with training modes, in one launcher: macOS, Linux, Steam Deck, Windows. Requires your own R	
+omarma/tekken3-expanded	134	NOASSERTION	games	Fighting & Sports Games	The 18 Tekken Tag Tournament characters in Tekken 3: playable in every mode and fought by the CPU. Tekken 3's cast can use their TTT movesets. Built from your own Tekken 3 disc and arcade ROMs.	
+CableDorado2/Ikemen-Plus-Ultra	109	NOASSERTION	games	Fighting & Sports Games	Updated branch of the classic S-SIZE IKEMEN. (An Open Source 2D Fighting Game Engine that contains New Features and improvements for MUGEN resources).	
+mr-finster/vf2-recomp	95	NOASSERTION	games	Fighting & Sports Games	Virtua Fighter 2 (Sega Model 2, 1994) for Mac, Windows and Steam Deck: the arcade's i960 program recompiled to native code, up to 6x, widescreen, smooth 120 fps. Bring your own vf2.zip.	
+stanislawfortonski/StickMan-3D	93	BSD-3-Clause	games	Fighting & Sports Games	StickMan 3D: First Round | indie fighting game | C++ OpenGL 	
+mr-finster/vf3-recomp	86	NOASSERTION	games	Fighting & Sports Games	Virtua Fighter 3 (Sega Model 3, 1996) for Mac, Windows and Steam Deck: the arcade's PowerPC program recompiled to native code, up to 6x, widescreen, smooth 120 fps. Bring your own vf3.zip.	
+mr-finster/vf1-recomp	84	NOASSERTION	games	Fighting & Sports Games	Virtua Fighter (Sega Model 1, 1993) statically recompiled for Mac, Windows and Steam Deck: up to 6x, widescreen, smooth 120 fps. Bring your own vf.zip.	
+homemech/unity-pattern-combo	68	MIT	games	Fighting & Sports Games	An action/fighting game combo system utilizing the command pattern. For Unity/C#, created as a supplement for Unity e-book "Level up your code with game programming patterns"	
+whitedragon0000/OpenBOR_PLUS	65	BSD-3-Clause	games	Fighting & Sports Games	OpenBOR PLUS is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more! This version has all official features plus new features!	
+weed99/ea-fc-27-pc-setup-gameplay-hub	59	NONE	games	Fighting & Sports Games	EA FC 27 PC Setup Hub: Gameplay, Graphics, Controllers, Stats	
+swallow000/ea-sports-fc-27-trainer-toolkit	58	NONE	games	Fighting & Sports Games	EA SPORTS FC 27 Trainer: Reusable Profiles, Configurable Hotkeys, Game-Specific Dashboard	
+kwai/DouZero	4697	Apache-2.0	games	Game AI & Bots	[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI	
+Tencent/behaviac	3051	NOASSERTION	games	Game AI & Bots	behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)	
+sturdyspoon/unity-movement-ai	2135	MIT	games	Game AI & Bots	A Unity library for common movement AI	
+Equim-chan/Mortal	1607	AGPL-3.0	games	Game AI & Bots	🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.	
+Mugen87/yuka	1464	MIT	games	Game AI & Bots	JavaScript library for developing Game AI.	
+Yuan-ManX/ai-game-devtools	1385	MIT	games	Game AI & Bots	Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥	
+shinkuan/Akagi	1132	Apache-2.0	games	Game AI & Bots	支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example.	
+Kautenja/gym-super-mario-bros	906	MIT	games	Game AI & Bots	Gymnasium environments for NES Mario games, with task metadata, reward instrumentation, and reproducible evaluation interfaces.	
+Calix-L/DanKS	832	Apache-2.0	games	Game AI & Bots	RL‑Empowered Small‑Scale Competitive Guandan Agent	
+AIScientists-Dev/WorldSeed	823	MIT	games	Game AI & Bots	More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.	
+THUSI-Lab/GameScaling	500	Apache-2.0	games	Game AI & Bots	Scaling in Games: Continued Pre-Training for Embodied Agents in Diverse Virtual Worlds. Weights on Hugging Face.	
+esrrhs/mahjong_ai	483	MIT	games	Game AI & Bots	High-performance Mahjong win detection, waiting-hand calculation and AI discard algorithm based on lookup tables, with behavior-identical Java / Go / C++ implementations and a live web demo.	
+igiagkiozis/CrystalAI	475	MIT	games	Game AI & Bots	A Utility AI for C# and Unity	
+Cryolite/kanachan	346	NONE	games	Game AI & Bots	A Japanese (Riichi) Mahjong AI Framework	
+learnbyexample/practice_python_projects	339	MIT	games	Game AI & Bots	Book on basic to intermediate level Python projects	
+rehan-remade/universal-modder	9492	MIT	games	Game Asset Pipelines	Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.	
+gdquest-demos/godot-shaders	4197	NOASSERTION	games	Game Asset Pipelines	A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.	
+Bingeljell/image-to-3dlab	1120	Apache-2.0	games	Game Asset Pipelines	AssetFurnace: the most complete open-source image-to-3D pipeline (Oct 2026). Prompt or picture → textured, rigged, animated game character, locally on Apple Silicon or NVIDIA. Pixal3D, TRELLIS.2, Hunyuan3D, SF3D, auto-rig and 21 moves. For indie game devs and 	
+envygeeks/jekyll-assets	1120	ISC	games	Game Asset Pipelines	:art: Asset pipelines for Jekyll.	
+scenario-labs/blender-plugin	962	GPL-3.0	games	Game Asset Pipelines	Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GPL-3.0-or-later.	
+EL4CTEO/blender-skills	753	MIT	games	Game Asset Pipelines	Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.	
+HotpotDesign/Game-Assets-And-Resources	724	NONE	games	Game Asset Pipelines	Free and paid game assets and game resources for 2D games, 3D games,  mobile games, Steam games, Unity games, and other games.	
+Nieobie/game-icon-pack	722	CC0-1.0	games	Game Asset Pipelines	800+ rounded style icons	
+raysan5/rres	567	MIT	games	Game Asset Pipelines	A simple and easy-to-use file-format to package resources	
+czyzby/gdx-skins	537	NONE	games	Game Asset Pipelines	Free libGDX Scene2D GUI themes	
+markstory/asset_compress	368	MIT	games	Game Asset Pipelines	An asset compression plugin for CakePHP.  Provides file concatenation and a flexible filter system for preprocessing and minification.	
+OpenAssetIO/OpenAssetIO	352	Apache-2.0	games	Game Asset Pipelines	An open-source interoperability standard for tools and content management systems used in media production.	
+wellingfeng/UltraGameStudio	336	MIT	games	Game Asset Pipelines	UltraGameStudio - AI coding agent for game development: engine workflows, gameplay code, and asset generation.	
+instruktlabs/kiln	317	MIT	games	Game Asset Pipelines	Build and revise procedural 3D assets with your coding agent. Local MCP server, CLI and TypeScript engine with rendered review, editable source and GLB export.	
+TrevorS/bootstrap3-datetimepicker-rails	289	MIT	games	Game Asset Pipelines	This gem packages the bootstrap-datetimepicker for the Rails 3.1+ asset pipeline.	
+ahmadrosid/nakama	784	MIT	games	Game Backends	The AI workspace where teams share agents, skills and automations that the whole company builds on.	
+heroiclabs/nakama-godot	783	Apache-2.0	games	Game Backends	Nakama Godot Client SDK	
+heroiclabs/nakama-unity	496	NOASSERTION	games	Game Backends	Nakama Unity Client SDK	
+aaron5670/PokeMMO-Online-Realtime-Multiplayer-Game	339	WTFPL	games	Game Backends	🕹️ A simple realtime Pokémon MMO game build with Phaser 3, Colyseus.io & Webpack 4	
+nicolasparada/nakama	286	ISC	games	Game Backends	The next social network for anime fans uwu	
+ecsx-framework/ECSx	270	GPL-3.0	games	Game Backends	An Entity-Component-System framework for Elixir	
+heroiclabs/nakama-unreal	264	Apache-2.0	games	Game Backends	Nakama Unreal Client SDK	
+TBye101/MagicalLife	257	MIT	games	Game Backends	A 2d game that aspires to be similar to Rimworld, with more depth, magic, and RPG concepts.	
+heroiclabs/nakama-dart	248	NONE	games	Game Backends	Nakama Dart Client SDK	
+GregHib/void	193	BSD-3-Clause	games	Game Backends	Lightweight 2011 RuneScape multiplayer server	
+needmorecode/carmelo	170	NONE	games	Game Backends	Carmelo is a fast, scalable Java server framework designed for online games. It uses Netty and Fastjson for highly efficient network transmission and supports both TCP/HTTP protocols.	
+heroiclabs/nakama-dotnet	167	Apache-2.0	games	Game Backends	.NET client for Nakama server written in C#.	
+heroiclabs/nakama-project-template	154	Apache-2.0	games	Game Backends	An example project on how to set up and write custom server code in Nakama server.	
+Allan-Nava/nakama-flutter	125	MIT	games	Game Backends	Dart / Flutter client for Nakama server.	
+heroiclabs/nakama-defold	106	Apache-2.0	games	Game Backends	Nakama Defold Client SDK	
+dfranx/SHADERed	4809	MIT	games	Game Dev Tools & Editors	Lightweight, cross-platform & full-featured shader IDE	
+markusfisch/ShaderEditor	1099	MIT	games	Game Dev Tools & Editors	Android app to create GLSL shaders and use them as live wallpaper	
+GenielabsOpenSource/spine-animation-ai	649	NOASSERTION	games	Game Dev Tools & Editors	AI-powered Claude skill for Spine 2D skeletal animation — auto-rig, animate, and preview characters	

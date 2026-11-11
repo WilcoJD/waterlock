@@ -1,0 +1,380 @@
+ory/fosite	2632	Apache-2.0	devtools	Auth & User Management SDKs	Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.	
+supabase/supabase-py	2632	MIT	devtools	Auth & User Management SDKs	Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming.	
+supabase/auth	2595	MIT	devtools	Auth & User Management SDKs	A JWT based API for managing users and issuing JWT tokens	
+kubernetes-sigs/aws-iam-authenticator	2337	Apache-2.0	devtools	Auth & User Management SDKs	A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster	
+sergiodxa/remix-auth	2199	MIT	devtools	Auth & User Management SDKs	Simple Authentication for Remix	
+panique/huge	2152	NONE	devtools	Auth & User Management SDKs	Simple user-authentication solution, embedded into a small framework.	
+FoalTS/foal	1937	MIT	devtools	Auth & User Management SDKs	Full-featured Node.js framework 🚀	
+statelyai/xstate	30421	MIT	devtools	Background Jobs & Workflow Engines	State machines, statecharts, and actors for complex logic	
+hibiken/asynq	13817	MIT	devtools	Background Jobs & Workflow Engines	Simple, reliable, and efficient distributed task queue in Go	
+sidekiq/sidekiq	13569	NOASSERTION	devtools	Background Jobs & Workflow Engines	Simple, efficient background processing for Ruby	
+rq/rq	10703	NOASSERTION	devtools	Background Jobs & Workflow Engines	Simple job queues for Python	
+HangfireIO/Hangfire	10156	NOASSERTION	devtools	Background Jobs & Workflow Engines	An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required	
+taskforcesh/bullmq	9578	MIT	devtools	Background Jobs & Workflow Engines	BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL	
+riverqueue/river	5868	MPL-2.0	devtools	Background Jobs & Workflow Engines	The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.	
+jamesmh/coravel	4284	MIT	devtools	Background Jobs & Workflow Engines	Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!	
+rq/django-rq	1952	MIT	devtools	Background Jobs & Workflow Engines	A simple app that provides django integration for RQ (Redis Queue)	
+resque/resque-scheduler	1746	MIT	devtools	Background Jobs & Workflow Engines	A light-weight job scheduling system built on top of Resque	
+janbjorge/pgqueuer	1547	MIT	devtools	Background Jobs & Workflow Engines	PostgreSQL-backed background job and task queue for Python.	
+actionhero/node-resque	1415	Apache-2.0	devtools	Background Jobs & Workflow Engines	Node.js Background jobs backed by redis. 	
+openworkflowdev/openworkflow	1347	Apache-2.0	devtools	Background Jobs & Workflow Engines	Open-source TypeScript framework for building durable, resumable workflows. Supports Node.js and Bun.	
+fluttercommunity/flutter_workmanager	1033	NONE	devtools	Background Jobs & Workflow Engines	A Flutter plugin which allows you to execute code in the background on Android and iOS.	
+runabol/tork	824	MIT	devtools	Background Jobs & Workflow Engines	Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.	
+gorhill/uBlock	69145	GPL-3.0	devtools	Browser Extensions & Toolkits	uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.	
+refined-github/refined-github	32454	MIT	devtools	Browser Extensions & Toolkits	:octocat: Browser extension that simplifies the GitHub interface and adds useful features	
+quasarframework/quasar	27203	MIT	devtools	Browser Extensions & Toolkits	Quasar Framework - Build high-performance VueJS user interfaces in record time	
+nextai-translator/nextai-translator	25028	AGPL-3.0	devtools	Browser Extensions & Toolkits	基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.	
+AutomaApp/automa	21712	NOASSERTION	devtools	Browser Extensions & Toolkits	A browser extension for automating your browser by connecting blocks	
+voyager-crew/voyager	20558	GPL-3.0	devtools	Browser Extensions & Toolkits	Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。	
+dailydotdev/daily	20132	AGPL-3.0	devtools	Browser Extensions & Toolkits	daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.	
+bitwarden/clients	14170	NOASSERTION	devtools	Browser Extensions & Toolkits	Bitwarden client apps (web, browser extension, desktop, and cli).	
+PlasmoHQ/plasmo	13174	MIT	devtools	Browser Extensions & Toolkits	🧩 The Browser Extension Framework	
+wong2/chatgpt-google-extension	13015	GPL-3.0	devtools	Browser Extensions & Toolkits	This project is deprecated. Check my new project ChatHub:	
+ChatGPTBox-dev/chatGPTBox	10771	MIT	devtools	Browser Extensions & Toolkits	Integrating ChatGPT into your browser deeply, everything you need is here	
+chathub-dev/chathub	10655	GPL-3.0	devtools	Browser Extensions & Toolkits		
+dessant/buster	9367	GPL-3.0	devtools	Browser Extensions & Toolkits	Captcha solver extension for humans, available for Chrome, Edge and Firefox	
+subhra74/xdm	8340	GPL-3.0	devtools	Browser Extensions & Toolkits	Fast, reliable download accelerator and video downloader since 2013	
+DIYgod/RSSHub-Radar	7400	AGPL-3.0	devtools	Browser Extensions & Toolkits	🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub	
+BrowserMCP/mcp	7305	Apache-2.0	devtools	Browser Extensions & Toolkits	Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser	
+victornpb/undiscord	6671	NOASSERTION	devtools	Browser Extensions & Toolkits	Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete	
+interstellard/chatgpt-advanced	6422	MIT	devtools	Browser Extensions & Toolkits	WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.	
+hanydd/BilibiliSponsorBlock	6328	GPL-3.0	devtools	Browser Extensions & Toolkits	一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock	
+obsidianmd/obsidian-clipper	5484	MIT	devtools	Browser Extensions & Toolkits	Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.	
+OctoLinker/OctoLinker	5392	MIT	devtools	Browser Extensions & Toolkits	OctoLinker — Links together, what belongs together	
+extension-js/extension.js	5207	MIT	devtools	Browser Extensions & Toolkits	The cross-browser extension framework.	
+OhMyGuus/I-Still-Dont-Care-About-Cookies	4277	GPL-3.0	devtools	Browser Extensions & Toolkits	Debloated fork of the extension "I don't care about cookies"	
+AhmadHassan-BTed/JinaClip	4177	MIT	devtools	Browser Extensions & Toolkits	Professional-grade, local-first browser extension that transforms any webpage into high-fidelity, LLM-friendly Markdown entirely within the browser's runtime. Zero-cloud, privacy-centric, and designed specifically for AI workflows.	
+AhmadHassan-BTed/Darkument	4034	MIT	devtools	Browser Extensions & Toolkits	A sleek, privacy-focused browser extension that brings a native dark mode experience to online documents. Built with clean UI/UX principles for Chromium and Opera browsers to reduce eye strain and improve readability.	
+morluto/rea	440031	MIT	devtools	CLI & Terminal Tools	Reverse engineer anything with agents, from app behavior down to native binaries.	
+ohmyzsh/ohmyzsh	190346	MIT	devtools	CLI & Terminal Tools	🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-upd	
+sherlock-project/sherlock	99795	MIT	devtools	CLI & Terminal Tools	Hunt down social media accounts by username across social networks	
+junegunn/fzf	84054	MIT	devtools	CLI & Terminal Tools	:cherry_blossom: A command-line fuzzy finder	
+jesseduffield/lazygit	83709	MIT	devtools	CLI & Terminal Tools	simple terminal UI for git commands	
+tw93/Pake	62873	GPL-3.0	devtools	CLI & Terminal Tools	Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.	
+Raphire/Win11Debloat	61984	MIT	devtools	CLI & Terminal Tools	A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.	
+sharkdp/bat	61216	Apache-2.0	devtools	CLI & Terminal Tools	A cat(1) clone with wings.	
+wagoodman/dive	54706	MIT	devtools	CLI & Terminal Tools	A tool for exploring each layer in a docker image	
+kepano/obsidian-skills	50951	MIT	devtools	CLI & Terminal Tools	Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.	
+cli/cli	46905	MIT	devtools	CLI & Terminal Tools	GitHub’s official command line tool	
+google/zx	45834	Apache-2.0	devtools	CLI & Terminal Tools	A tool for writing better scripts	
+charmbracelet/bubbletea	45639	MIT	devtools	CLI & Terminal Tools	A powerful little TUI framework 🏗	
+spf13/cobra	44845	Apache-2.0	devtools	CLI & Terminal Tools	A Commander for modern Go CLI interactions	
+codewhale-hq/Codewhale	41160	MIT	devtools	CLI & Terminal Tools	Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome	
+ajeetdsouza/zoxide	40489	MIT	devtools	CLI & Terminal Tools	A smarter cd command. Supports all major shells.	
+vadimdemedes/ink	40238	MIT	devtools	CLI & Terminal Tools	🌈 React for interactive command-line apps	
+soxoj/maigret	39787	MIT	devtools	CLI & Terminal Tools	🕵️‍♂️ Collect a dossier on a person by username from 6K websites	
+can1357/oh-my-pi	38125	MIT	devtools	CLI & Terminal Tools	⌥ Coding agent with the IDE wired in. Built by Stencil Labs.	
+Textualize/textual	37606	MIT	devtools	CLI & Terminal Tools	The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.	
+Twigpine/openclaude	34299	NOASSERTION	devtools	CLI & Terminal Tools	runs anywhere. uses anything	
+FujiwaraChoki/MoneyPrinterV2	32345	AGPL-3.0	devtools	CLI & Terminal Tools	Automate the process of making money online.	
+googleworkspace/cli	32162	Apache-2.0	devtools	CLI & Terminal Tools	Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.	
+nrwl/nx	29454	MIT	devtools	CLI & Terminal Tools	The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.	
+sharkdp/hyperfine	29223	Apache-2.0	devtools	CLI & Terminal Tools	A command-line benchmarking tool	
+Hammerspoon/hammerspoon	16387	MIT	devtools	Chat & Messaging SDKs	Staggeringly powerful macOS desktop automation with Lua	
+spantaleev/matrix-docker-ansible-deploy	6518	AGPL-3.0	devtools	Chat & Messaging SDKs	🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker	
+thelounge/thelounge	6366	MIT	devtools	Chat & Messaging SDKs	💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client	
+squidowl/halloy	4596	GPL-3.0	devtools	Chat & Messaging SDKs	IRC application written in Rust	
+jitsi/jitsi	4354	Apache-2.0	devtools	Chat & Messaging SDKs	Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.	
+juggleim/im-server	3540	Apache-2.0	devtools	Chat & Messaging SDKs	IM Chat, High-performance, scalable, self-hosted instant messaging server in Go — private chat, groups, chatrooms, WebSocket and REST APIs.	
+weechat/weechat	3420	GPL-3.0	devtools	Chat & Messaging SDKs	The extensible chat client.	
+ergochat/ergo	3357	MIT	devtools	Chat & Messaging SDKs	A modern IRC server (daemon/ircd) written in Go.	
+autobrr/autobrr	3195	GPL-2.0	devtools	Chat & Messaging SDKs	Modern, easy to use download automation for torrents and usenet.	
+irssi/irssi	3169	NOASSERTION	devtools	Chat & Messaging SDKs	The client of the future	
+igniterealtime/Openfire	3074	Apache-2.0	devtools	Chat & Messaging SDKs	An XMPP server licensed under the Open Source Apache License.	
+evan-buss/openbooks	2428	MIT	devtools	Chat & Messaging SDKs	Search and Download eBooks	
+znc/znc	2129	Apache-2.0	devtools	Chat & Messaging SDKs	Official repository for the ZNC IRC bouncer	
+blendbyte/Textual	1926	NOASSERTION	devtools	Chat & Messaging SDKs	Textual is a native IRC client for macOS	
+GetStream/stream-chat-android	1665	NOASSERTION	devtools	Chat & Messaging SDKs	:speech_balloon: Android Chat SDK ➜ Stream Chat API. UI component libraries for chat apps. Kotlin & Jetpack Compose messaging SDK for Android chat	
+dotansimha/graphql-code-generator	11265	MIT	devtools	Code Generators & Scaffolding	A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins. 	
+go-swagger/go-swagger	10010	Apache-2.0	devtools	Code Generators & Scaffolding	Swagger 2.0 implementation for go	
+javaparser/javaparser	6175	NOASSERTION	devtools	Code Generators & Scaffolding	Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.	
+cweill/gotests	5339	Apache-2.0	devtools	Code Generators & Scaffolding	Automatically generate Go test boilerplate from your source code.	
+mybatis/generator	5305	Apache-2.0	devtools	Code Generators & Scaffolding	A code generator for MyBatis.	
+go-jet/jet	3829	Apache-2.0	devtools	Code Generators & Scaffolding	Type safe SQL builder with code generation and automatic query result data mapping	
+nullptrlabs/pgmodeler	3638	GPL-3.0	devtools	Code Generators & Scaffolding	Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!	
+dave/jennifer	3638	MIT	devtools	Code Generators & Scaffolding	Jennifer is a code generator for Go	
+bashly-framework/bashly	2459	MIT	devtools	Code Generators & Scaffolding	Bash command line framework and CLI generator	
+nette/php-generator	2258	NOASSERTION	devtools	Code Generators & Scaffolding	🐘 Generates neat PHP code for you. Supports new PHP 8.5 features.	
+moshowgame/SpringBootCodeGenerator	2202	MIT	devtools	Code Generators & Scaffolding	又名大狼狗代码生成器，基于SpringBoot2+Freemarker的JAVA代码生成器，以释放双手为目的，支持mysql/oracle/pgsql三大数据库， 用DDL-SQL语句生成JPA/JdbcTemplate/Mybatis/MybatisPlus/BeetlSQL等相关代码.	
+rrousselGit/freezed	2201	NONE	devtools	Code Generators & Scaffolding	Code generation for immutable classes that has a simple syntax/API without compromising on the features.	
+jeecgboot/jeecg	2186	Apache-2.0	devtools	Code Generators & Scaffolding	JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - > 代码生成器模式 - > 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配置能力、工作流配置能力、报表配置能力（支持移动端）、插件开发能力（可插拔）	
+danielgtaylor/python-betterproto	1768	MIT	devtools	Code Generators & Scaffolding	Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC	
+ballcat-projects/ballcat	1728	Apache-2.0	devtools	Code Generators & Scaffolding	😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能	
+alibaba/open-code-review	49609	Apache-2.0	devtools	Code Review & Quality	Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic comp	
+ovity/octotree	23304	AGPL-3.0	devtools	Code Review & Quality	GitHub on steroids	
+The-PR-Agent/pr-agent	15390	MIT	devtools	Code Review & Quality	🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.	
+millionco/react-doctor	15103	NOASSERTION	devtools	Code Review & Quality	Your agent writes bad React. This catches it	
+backnotprop/plannotator	9881	Apache-2.0	devtools	Code Review & Quality	The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. 	
+modem-dev/hunk	9789	MIT	devtools	Code Review & Quality	Review-first terminal diff viewer for agentic coders	
+danger/danger	5696	MIT	devtools	Code Review & Quality	🚫 Stop saying "you forgot to …" in code review (in Ruby)	
+danger/danger-js	5519	MIT	devtools	Code Review & Quality	⚠️ Stop saying "you forgot to …" in code review	
+michael-denyer/pstack-claude	4124	MIT	devtools	Code Review & Quality	Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.	
+twinnydotdev/twinny	3693	MIT	devtools	Code Review & Quality	Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.	
+agavra/tuicr	3544	MIT	devtools	Code Review & Quality	a code review TUI with vim keybindings	
+microsoft/vscode-pull-request-github	2639	MIT	devtools	Code Review & Quality	GitHub Pull Requests for Visual Studio Code	
+redhat-et/ripwire	2530	Apache-2.0	devtools	Code Review & Quality	The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, quality deltas. Signatures at 74.7% fewer bytes than bodies; e	
+mattzcarey/shippie	2521	MIT	devtools	Code Review & Quality	extendable code review and QA agent 🚢	
+crev-dev/cargo-crev	2343	Apache-2.0	devtools	Code Review & Quality	A cryptographically verifiable code review system for the cargo (Rust) package manager.	
+the-open-engine/zeroshot	2118	MIT	devtools	Code Review & Quality	Multi-agent graph orchestration engine for autonomous software development. Independent, adversarial review with mechanically enforced execution.	
+django/django	91676	BSD-3-Clause	devtools	Database Tools & Migrations	The Web framework for perfectionists with deadlines.	
+prisma/orm	47658	Apache-2.0	devtools	Database Tools & Migrations	The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.	
+go-gorm/gorm	39988	MIT	devtools	Database Tools & Migrations	The fantastic ORM library for Golang, aims to be developer friendly	
+typeorm/typeorm	36674	MIT	devtools	Database Tools & Migrations	TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.	
+drizzle-team/drizzle-orm	36227	Apache-2.0	devtools	Database Tools & Migrations	ORM	
+sequelize/sequelize	30346	MIT	devtools	Database Tools & Migrations	Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.	
+chinabugotech/hutool	30226	MulanPSL-2.0	devtools	Database Tools & Migrations	🍬A set of tools that keep Java sweet.	
+Automattic/mongoose	27450	MIT	devtools	Database Tools & Migrations	MongoDB object modeling designed to work in an asynchronous environment.	
+sqlc-dev/sqlc	18437	MIT	devtools	Database Tools & Migrations	Generate type-safe code from SQL	
+baomidou/mybatis-plus	17486	Apache-2.0	devtools	Database Tools & Migrations	An powerful enhanced toolkit of MyBatis for simplify development	
+ent/ent	17221	Apache-2.0	devtools	Database Tools & Migrations	An entity framework for Go	
+dotnet/efcore	14814	MIT	devtools	Database Tools & Migrations	EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.	
+diesel-rs/diesel	14225	Apache-2.0	devtools	Database Tools & Migrations	A safe, extensible ORM and Query Builder for Rust	
+SeaQL/sea-orm	9951	Apache-2.0	devtools	Database Tools & Migrations	🐚 A powerful relational ORM for Rust	
+JetBrains/Exposed	9301	Apache-2.0	devtools	Database Tools & Migrations	Kotlin SQL Framework	
+mikro-orm/mikro-orm	9270	MIT	devtools	Database Tools & Migrations	TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.	
+spacejam/sled	9105	Apache-2.0	devtools	Database Tools & Migrations	the champagne of beta embedded databases	
+kennethreitz/records	7215	ISC	devtools	Database Tools & Migrations	SQL for Humans™	
+mongodb/laravel-mongodb	7059	MIT	devtools	Database Tools & Migrations	A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)	
+aarondl/sqlboiler	6980	NOASSERTION	devtools	Database Tools & Migrations	Generate a Go ORM tailored to your database schema.	
+jOOQ/jOOQ	6806	NOASSERTION	devtools	Database Tools & Migrations	jOOQ is the best way to write SQL in Java	
+hibernate/hibernate-orm	6485	Apache-2.0	devtools	Database Tools & Migrations	Idiomatic persistence for Java and relational databases	
+bookshelf/bookshelf	6343	MIT	devtools	Database Tools & Migrations	A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js	
+DotNetNext/SqlSugar	5843	MIT	devtools	Database Tools & Migrations	.Net aot ORM   SqlServer ORM Mongodb ORM MySql  瀚高 Postgresql ORM  DB2 Hana 高斯 Duckdb C# VB.NET Sqlite  ORM Oracle ORM Mysql Orm 虚谷数据库 达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET9 ORM .NET8 ORM ClickHouse ORM QuestDb ,TDengine ORM,OceanBase ORM,GaussDB	
+go-pg/pg	5779	BSD-2-Clause	devtools	Database Tools & Migrations	Golang ORM with focus on PostgreSQL features and performance	
+ant-design/ant-design	100099	MIT	devtools	Design Systems & UI Kits	An enterprise-class UI design language and React UI library	
+ElemeFE/element	53975	MIT	devtools	Design Systems & UI Kits	A Vue.js 2.0 UI Toolkit for Web	
+saadeghi/daisyui	42763	MIT	devtools	Design Systems & UI Kits	🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library	
+vuetifyjs/vuetify	41030	NOASSERTION	devtools	Design Systems & UI Kits	🐉 Vue Component Framework	
+layui/layui	30579	MIT	devtools	Design Systems & UI Kits	一套遵循浏览器原生态开发模式的 Web UI 组件库。	
+youzan/vant	24413	MIT	devtools	Design Systems & UI Kits	A lightweight, customizable Vue UI library for mobile web apps.	
+iview/iview	23742	NOASSERTION	devtools	Design Systems & UI Kits	A high quality UI Toolkit built on Vue.js 2.0	
+callstack/react-native-paper	14499	MIT	devtools	Design Systems & UI Kits	Material Design for React Native (Android & iOS)	
+unovue/shadcn-vue	10785	MIT	devtools	Design Systems & UI Kits	Vue port of shadcn-ui	
+akveo/react-native-ui-kitten	10665	MIT	devtools	Design Systems & UI Kits	React Native UI library built on the Eva Design System: 30+ themeable, accessible components for iOS, Android and web. TypeScript, React 19 / RN 0.81, Eva and Material themes with runtime light/dark switching, on-demand style compilation.	
+mdbootstrap/material-design-for-bootstrap	9240	MIT	devtools	Design Systems & UI Kits	Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.	
+rsuite/rsuite	8694	MIT	devtools	Design Systems & UI Kits	🧱 A suite of React components .  	
+akveo/nebular	8120	MIT	devtools	Design Systems & UI Kits	:boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode	
+react95-io/React95	7292	MIT	devtools	Design Systems & UI Kits	🌈🕹  Windows 95 style UI component library for React	
+creativetimofficial/material-kit	5920	MIT	devtools	Design Systems & UI Kits	 Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design	
+varletjs/varlet	5343	MIT	devtools	Design Systems & UI Kits	A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.	
+jd-opensource/taro-ui	4732	MIT	devtools	Design Systems & UI Kits	一款基于 Taro 框架开发的多端 UI 组件库	
+tombenner/nui	3726	MIT	devtools	Design Systems & UI Kits	Style iOS apps with a stylesheet, similar to CSS	
+view-design/ViewUI	2623	NOASSERTION	devtools	Design Systems & UI Kits	A high quality UI Toolkit built on Vue.js 2.0	
+OnedocLabs/react-print-pdf	2558	Apache-2.0	devtools	Design Systems & UI Kits	Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF.	
+lobehub/lobe-ui	2258	MIT	devtools	Design Systems & UI Kits	🍭  Lobe UI - an open-source UI component library for building AIGC web apps	
+FE-Driver/vue-beauty	2097	MIT	devtools	Design Systems & UI Kits	Beautiful  UI components build with vue and ant design	
+dcloudio/uni-ui	2090	MIT	devtools	Design Systems & UI Kits	基于uni-app的、全端兼容的、高性能UI框架	
+microsoft/vscode	195128	MIT	devtools	Desktop App Frameworks & Templates	Visual Studio Code	
+marktext/marktext	63700	MIT	devtools	Desktop App Frameworks & Templates	📝A simple and elegant markdown editor, available for Linux, macOS and Windows.	
+agalwood/Motrix	57922	NOASSERTION	devtools	Desktop App Frameworks & Templates	A full-featured download manager.	
+DayuanJiang/next-ai-draw-io	36768	Apache-2.0	devtools	Desktop App Frameworks & Templates	Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.	
+oldj/SwitchHosts	27366	Apache-2.0	devtools	Desktop App Frameworks & Templates	Switch hosts quickly!	
+mihomo-party-org/clash-party	27157	GPL-3.0	devtools	Desktop App Frameworks & Templates	:electron: Another Mihomo GUI. 	
+responsively-org/responsively-app	25528	AGPL-3.0	devtools	Desktop App Frameworks & Templates	A modified web browser that helps in responsive web development. A web developer's must have dev-tool.	
+docmirror/dev-sidecar	24976	MPL-2.0	devtools	Desktop App Frameworks & Templates	开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速	
+electron-react-boilerplate/electron-react-boilerplate	24252	MIT	devtools	Desktop App Frameworks & Templates	A Foundation for Scalable Cross-Platform Apps	
+typicode/lowdb	22581	MIT	devtools	Desktop App Frameworks & Templates	Simple and fast JSON database	
+desktop/desktop	22062	MIT	devtools	Desktop App Frameworks & Templates	Focus on what matters instead of fighting with Git.	
+milind-soni/OpenMausBot	16512	Apache-2.0	devtools	Desktop App Frameworks & Templates	Open-source Grok Bot alternative with a virtual machine that bots can use	
+electerm/electerm	15564	MIT	devtools	Desktop App Frameworks & Templates	📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)	
+NanmiCoder/cc-haha	15346	NOASSERTION	devtools	Desktop App Frameworks & Templates	本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Us	
+electron-userland/electron-builder	14704	MIT	devtools	Desktop App Frameworks & Templates	A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box	
+luin/medis	11714	MIT	devtools	Desktop App Frameworks & Templates	💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.	
+holaboss-ai/holaOS	11433	NOASSERTION	devtools	Desktop App Frameworks & Templates	Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not m	
+jhen0409/react-native-debugger	10433	MIT	devtools	Desktop App Frameworks & Templates	The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools	
+connors/photon	10114	MIT	devtools	Desktop App Frameworks & Templates	The fastest way to build beautiful Electron apps using simple HTML and CSS	
+yang991178/fluent-reader	9780	BSD-3-Clause	devtools	Desktop App Frameworks & Templates	Modern desktop RSS reader built with Electron, React, and Fluent UI	
+makecindy/cindy	9453	Apache-2.0	devtools	Desktop App Frameworks & Templates	Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。	
+HarnessMD/munder-difflin	9415	MIT	devtools	Desktop App Frameworks & Templates	an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions	
+mediago-dev/mediago	9363	MIT	devtools	Desktop App Frameworks & Templates	Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.	
+OutlineFoundation/outline-apps	9273	Apache-2.0	devtools	Desktop App Frameworks & Templates	Outline Client and Manager. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.	
+Hiram-Wong/zyfun	9120	AGPL-3.0	devtools	Desktop App Frameworks & Templates	跨平台桌面端视频资源播放器,免费高颜值.	
+cyclops-ui/cyclops	3322	Apache-2.0	devtools	Developer Portals & Service Catalogs	Developer Friendly Kubernetes 👁️	
+KusionStack/kusion	1323	Apache-2.0	devtools	Developer Portals & Service Catalogs	Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).	
+next-hat/nanocl	1004	Apache-2.0	devtools	Developer Portals & Service Catalogs	Work in progress distributed system that simplifies the orchestration of containers and virtual machines.	
+cloud-ark/kubeplus	753	Apache-2.0	devtools	Developer Portals & Service Catalogs	Kubernetes Operator for delivering SaaS-style, namespace-isolated multi-tenant application instances on Kubernetes	
+kbst/terraform-kubestack	714	Apache-2.0	devtools	Developer Portals & Service Catalogs	Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.	
+projectsveltos/addon-controller	594	Apache-2.0	devtools	Developer Portals & Service Catalogs	Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy.	
+score-spec/score-compose	456	Apache-2.0	devtools	Developer Portals & Service Catalogs	Reference implementation for docker-compose target platform support	
+kubara-io/kubara	438	Apache-2.0	devtools	Developer Portals & Service Catalogs	A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps.	
+caipe-io/ai-platform-engineering	438	Apache-2.0	devtools	Developer Portals & Service Catalogs	CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.	
+backstage/community-plugins	427	Apache-2.0	devtools	Developer Portals & Service Catalogs	Community plugins for Backstage	
+hybridops-tech/hybridops-core	419	MIT-0	devtools	Developer Portals & Service Catalogs	Community edition of HybridOps. A platform exploring contract-driven automation for hybrid infrastructure.	
+gruntwork-io/boilerplate	352	NONE	devtools	Developer Portals & Service Catalogs	A tool for generating files and folders ("boilerplate") from a set of templates	
+backstage/community	347	NONE	devtools	Developer Portals & Service Catalogs	All about the Backstage community (Meetups, Sessions etc.)	
+RoadieHQ/roadie-backstage-plugins	344	Apache-2.0	devtools	Developer Portals & Service Catalogs	All Backstage plugins created by Roadie.	
+one-step-console/basic	320	NONE	devtools	Developer Portals & Service Catalogs	⚡⚡⚡一步控制台，像导播一样编排你的工作现场。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统	
+rahuldkjain/github-profile-readme-generator	24468	Apache-2.0	devtools	Documentation & Changelog Tools	🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.	
+vuejs/vitepress	18469	MIT	devtools	Documentation & Changelog Tools	Vite & Vue powered static site generator.	
+lowlighter/metrics	17369	MIT	devtools	Documentation & Changelog Tools	📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!	
+AkashSingh3031/The-Complete-FAANG-Preparation	12307	MIT	devtools	Documentation & Changelog Tools	Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We've got Technical Subjects like Operating Systems, DBMS, SQL, 	
+DenverCoder1/github-readme-streak-stats	7190	MIT	devtools	Documentation & Changelog Tools	🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README	
+guodongxiaren/README	7065	Unlicense	devtools	Documentation & Changelog Tools	README文件语法解读，即Github Flavored Markdown语法介绍	
+joeyespo/grip	6850	MIT	devtools	Documentation & Changelog Tools	Preview GitHub README.md files locally before committing them.	
+ryo-ma/github-profile-trophy	6681	MIT	devtools	Documentation & Changelog Tools	🏆 Add dynamically generated GitHub Stat Trophies  on your readme	
+github/markup	6055	MIT	devtools	Documentation & Changelog Tools	Determines which markup library to use to render a content file (e.g. README) on GitHub	
+iuricode/readme-template	5258	MIT	devtools	Documentation & Changelog Tools	Modelos readmes	
+maurodesouza/profile-readme-generator	4612	MIT	devtools	Documentation & Changelog Tools	🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀	
+anmol098/waka-readme-stats	4005	MIT	devtools	Documentation & Changelog Tools	This GitHub action helps to add cool dev metrics to your github profile Readme	
+fern-api/fern	3835	Apache-2.0	devtools	Documentation & Changelog Tools	Input OpenAPI. Output SDKs and Docs.	
+rafaballerini/rafaballerini	2701	NONE	devtools	Documentation & Changelog Tools		
+Ashutosh00710/github-readme-activity-graph	2359	MIT	devtools	Documentation & Changelog Tools	A dynamically generated activity graph to show your GitHub activities of last 31 days.	
+arikchakma/maily.to	3995	MIT	devtools	Email Templates & Builders	Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.	
+zalify/easy-email-editor	2989	MIT	devtools	Email Templates & Builders	Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML.	
+moinulmoin/chadnext	1320	MIT	devtools	Email Templates & Builders	ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.	
+KolbySisk/next-supabase-stripe-starter	818	MIT	devtools	Email Templates & Builders	The highest quality SaaS starter with Next.js, Supabase, Stripe, and shadcn/ui	
+templatical/sdk	543	NOASSERTION	devtools	Email Templates & Builders	Drag-and-drop email editor. JSON templates, MJML rendering, framework-agnostic. Vue + TipTap inside. Source-available under FSL-1.1-MIT — free commercially, MIT after 2 years.	
+saasykits/nextjs-sessionauth-template	536	MIT	devtools	Email Templates & Builders	Next.js starter template featuring session-based auth, drizzle-orm, tailwind, shadcn ui, stripe, react-email etc.	
+jdrouet/mrml	513	MIT	devtools	Email Templates & Builders	Implementation of mjml in rust	
+kovrichard/catalyst	470	NONE	devtools	Email Templates & Builders	Agentic Next.js Boilerplate	
+hiretimsf/Next.js-Blog-App	469	NONE	devtools	Email Templates & Builders	⚡ Multi-User, Full-stack blogging application - Next.js, TailwindCSS, Supabase, Shadcn	
+subhamBharadwaz/scribbly	450	MIT	devtools	Email Templates & Builders	Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, Scribbly makes journaling a breeze. It includes features such	
+mickasmt/next-auth-roles-template	333	MIT	devtools	Email Templates & Builders	Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.	
+muneebhashone/typescript-backend-toolkit	325	MIT	devtools	Email Templates & Builders	Production-ready Express.js/TypeScript framework with auto-generated OpenAPI, Artisan-style CLI, plugin system, JWT/sessions, BullMQ, React Email, Socket.io, Django-style admin, multi-provider storage/cache/email, Zod validation	
+spatie/mjml-php	282	MIT	devtools	Email Templates & Builders	Convert MJML to HTML using PHP	
+SebastianStehle/mjml-net	273	MIT	devtools	Email Templates & Builders	.NET Fork of MJML library with 10x performance and 100% feature parity	
+wzc520pyfm/mail-studio	249	NONE	devtools	Email Templates & Builders	A modern email editor, easily create beautiful and responsive email.	
+transloadit/uppy	31061	MIT	devtools	File Upload & Media APIs	The next open source file uploader for web browsers :dog: 	
+kartik-v/bootstrap-fileinput	5333	NOASSERTION	devtools	File Upload & Media APIs	An enhanced HTML 5 file input for Bootstrap 5.x/4.x./3.x with file preview, multiple selection, and more features.	
+lian-yue/vue-upload-component	2684	Apache-2.0	devtools	File Upload & Media APIs	Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter	
+tus/tus-js-client	2638	MIT	devtools	File Upload & Media APIs	A pure JavaScript client for the tus resumable upload protocol	
+tus/tus-resumable-upload-protocol	1738	MIT	devtools	File Upload & Media APIs	Open Protocol for Resumable File Uploads	
+ankitpokhrel/tus-php	1469	MIT	devtools	File Upload & Media APIs	🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0	
+rpldy/react-uploady	1253	MIT	devtools	File Upload & Media APIs	Modern file uploading - components & hooks for React	
+tus/tus-node-server	1105	MIT	devtools	File Upload & Media APIs	Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores.	
+spotify/klio	879	Apache-2.0	devtools	File Upload & Media APIs	Smarter data pipelines for audio.	
+tusdotnet/tusdotnet	772	MIT	devtools	File Upload & Media APIs	.NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io	
+omeryusufyagci/fast-music-remover	730	MIT	devtools	File Upload & Media APIs	A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement.	
+bradleyg/django-s3direct	665	MIT	devtools	File Upload & Media APIs	Directly upload files to S3 compatible services with Django.	
+DannyBen/victor	397	MIT	devtools	File Upload & Media APIs	Ruby SVG Image Builder	
+spatie/livewire-filepond	311	MIT	devtools	File Upload & Media APIs	Upload files using Filepond in Livewire components	
+NextLevel/NextLevelSessionExporter	279	MIT	devtools	File Upload & Media APIs	🔄 Export and transcode media in Swift	
+svecosystem/formsnap	806	MIT	devtools	Form & Survey Backends	Functional, accessible, and powerful form components for Svelte. 🫰 	
+craftcms/contact-form	295	MIT	devtools	Form & Survey Backends	Add a simple contact form to your Craft CMS site.	
+AlexandroMtzG/remix-blocks	184	MIT	devtools	Form & Survey Backends	Ready-to-use Remix + Tailwind CSS routes and components.	
+Luigigreco/gitforms	165	NOASSERTION	devtools	Form & Survey Backends	🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.	
+ubernostrum/django-contact-form	131	BSD-3-Clause	devtools	Form & Survey Backends	A configurable contact-form application for Django.	
+kdevo/osprey-delight	127	Apache-2.0	devtools	Form & Survey Backends	Osprey Delight is the free-minded artist's choice for a clutter-free and blazingly fast single-page portfolio.	
+miguelsimoni/hugo-initio	90	MIT	devtools	Form & Survey Backends	Hugo Theme port of Initio bootstrap template by GetTemplate	
+BohdanPetryshyn/formzero	89	MIT	devtools	Form & Survey Backends	Form backend with zero paid features. One-click deploy to your free Cloudflare account.	
+hugo-apero/hugo-apero-docs	89	CC-BY-4.0	devtools	Form & Survey Backends	Apéro is a Hugo theme for personal websites. This is the documentation site, made with the theme :lemon:	
+formspree/formspree-js	79	MIT	devtools	Form & Survey Backends	The fastest way to hook up a React form	
+FormBold/html-form-examples-templates	77	MIT	devtools	Form & Survey Backends	Free HTML Form Templates and Coded Examples	
+getgrav/grav-plugin-form	63	MIT	devtools	Form & Survey Backends	Grav Form Plugin	
+mwakidenis/Interactive-Portfolio-2026	58	MIT	devtools	Form & Survey Backends	My TypeScript-driven portfolio system that emphasizes performance and scalability through the use of hash maps and dictionary-based indexing. By combining strong typing with optimized data structures, it enables constant-time (O(1)) data access, efficient stat	
+sethumadhavan505/ODRS-BOOKING-PAGE	54	MIT	devtools	Form & Survey Backends	A modern ODRS Booking Portal built with HTML, CSS, and JavaScript, featuring user registration, service selection, payment QR integration, form validation, EmailJS-powered notifications, automatic confirmation emails, and a responsive user-friendly design for 	
+argoproj/argo-helm	2390	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	ArgoProj Helm Charts	
+grafana/helm-charts	2013	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)		
+mkubaczyk/helmsman	1495	MIT	devtools	Infra Templates (Docker, Helm, Terraform)	Helm Charts as Code	
+zopdev/helm-charts	1059	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	charts used for kubernetes deployment	
+helm/helm-mapkubeapis	1038	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs	
+vardius/go-api-boilerplate	967	MIT	devtools	Infra Templates (Docker, Helm, Terraform)	Go Server/API boilerplate using best practices DDD CQRS ES gRPC	
+stakater/IngressMonitorController	749	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!	
+airflow-helm/charts	708	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2017, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.	
+jenkinsci/helm-charts	662	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Jenkins helm charts	
+raids-lab/crater	574	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Crater is a cloud-native AI training & inference platform.	
+VictoriaMetrics/helm-charts	571	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 	
+k8tz/k8tz	529	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs	
+fluent/helm-charts	474	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Helm Charts for Fluent Bit, Fluentd & related projects.	
+SlinkyProject/slurm-operator	383	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Run Slurm on Kubernetes. A Slinky project.	
+ory/k8s	379	Apache-2.0	devtools	Infra Templates (Docker, Helm, Terraform)	Kubernetes Helm Charts for the ORY ecosystem.	
+bmad-code-org/BMAD-METHOD	55104	NOASSERTION	devtools	Issue Tracking & Agile	Breakthrough Method for Agile Ai Driven Development	
+nilbuild/git-standup	7854	MIT	devtools	Issue Tracking & Agile	Recall what you or your team did on the last working day	
+Dicklesworthstone/beads_viewer	1727	NOASSERTION	devtools	Issue Tracking & Agile	Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API	
+jasperapp/jasper	1330	MIT	devtools	Issue Tracking & Agile	Jasper - A flexible and powerful issue reader for GitHub	
+deanpeters/product-manager-prompts	1192	NOASSERTION	devtools	Issue Tracking & Agile	A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini	
+Dicklesworthstone/beads_rust	1146	NOASSERTION	devtools	Issue Tracking & Agile	Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration	
+binkley/modern-java-practices	975	NOASSERTION	devtools	Issue Tracking & Agile	Modern Java/JVM Build Practices	
+hmans/beans	961	Apache-2.0	devtools	Issue Tracking & Agile	A CLI-based, flat-file issue tracker for humans and robots. 🤖	
+cheese10yun/github-project-management	955	NONE	devtools	Issue Tracking & Agile	:octocat:  Github로 프로젝트 관리하기	
+ForgeCAD/forgecad-public-kit	948	MIT	devtools	Issue Tracking & Agile	Agentic CAD for the physical world. Use it at forgecad.io.	
+dspinellis/git-issue	887	GPL-3.0	devtools	Issue Tracking & Agile	Git-based decentralized issue management	
+antoinejaussoin/retro-board	816	GPL-3.0	devtools	Issue Tracking & Agile	Agile Retrospective Board	
+mantoni/beads-ui	767	MIT	devtools	Issue Tracking & Agile	Local UI for Beads — Collaborate on issues with your coding agent.	
+dec0dOS/amazing-github-template	723	MIT	devtools	Issue Tracking & Agile	🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 	
+Azure/azure-devops-cli-extension	692	MIT	devtools	Issue Tracking & Agile	Azure DevOps Extension for Azure CLI	
+PanJiaChen/vue-element-admin	90115	MIT	devtools	Localization & i18n Tools	:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin	
+flipped-aurora/gin-vue-admin	25119	Apache-2.0	devtools	Localization & i18n Tools	🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。	
+i18next/react-i18next	10064	MIT	devtools	Localization & i18n Tools	Internationalization for react done right. Using the i18next i18n ecosystem.	
+i18next/i18next	8662	MIT	devtools	Localization & i18n Tools	 i18next: learn once - translate everywhere	
+lingodotdev/lingo.dev	5405	Apache-2.0	devtools	Localization & i18n Tools	Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.	
+hustcc/timeago.js	5368	MIT	devtools	Localization & i18n Tools	:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.	
+lokalise/i18n-ally	4901	MIT	devtools	Localization & i18n Tools	🌍 All in one i18n extension for VS Code	
+globalizejs/globalize	4835	MIT	devtools	Localization & i18n Tools	A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data	
+ngx-translate/core	4660	MIT	devtools	Localization & i18n Tools	The internationalization (i18n) library for Angular	
+amannn/next-intl	4393	MIT	devtools	Localization & i18n Tools	🌐 Internationalization (i18n) for Next.js 	
+mirai-mamori/Sakurairo	4077	GPL-2.0	devtools	Localization & i18n Tools	A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主	
+unicode-org/icu	3637	NOASSERTION	devtools	Localization & i18n Tools	The home of the ICU project source code.	
+nicksnyder/go-i18n	3552	MIT	devtools	Localization & i18n Tools	Translate your Go program into multiple languages.	
+jiwoochris/artex-global	2860	AGPL-3.0	devtools	Localization & i18n Tools	Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English default, switchable to Korean/Chinese/Spanish/Japanese. For authorized, defensive and detection use only. (upstream: Autumn-27/ARTEX, AGPL-3.0)	
+intlify/vue-i18n	2712	MIT	devtools	Localization & i18n Tools	Vue I18n for Vue 3	
+alibaba/kiwi	2623	NONE	devtools	Localization & i18n Tools	🐤 Kiwi-国际化翻译全流程解决方案	
+heyui/heyui	2535	MIT	devtools	Localization & i18n Tools	🎉UI Toolkit for Web, Vue3.0	
+spatie/laravel-translatable	2459	MIT	devtools	Localization & i18n Tools	Making Eloquent models translatable	
+cool-team-official/cool-admin-vue	2449	NOASSERTION	devtools	Localization & i18n Tools	🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建	
+zoontek/react-native-localize	2442	MIT	devtools	Localization & i18n Tools	🌍 A toolbox for your React Native app localization	
+jsverse/transloco	2285	MIT	devtools	Localization & i18n Tools	🚀 😍 The internationalization (i18n) library for Angular	
+NathanWalker/angular-seed-advanced	2239	MIT	devtools	Localization & i18n Tools	Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.	
+nuxt-modules/i18n	2092	MIT	devtools	Localization & i18n Tools	I18n module for Nuxt	
+ryfineZ/carrier-ims-for-pixel	2041	Apache-2.0	devtools	Localization & i18n Tools	Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte / vowifi / 5G+ toolkit for Google Pixel.	
+NSRingo/iRingo	10649	Apache-2.0	devtools	Maps & Location APIs	解锁完整的 Apple功能和集成服务	
+thewhiteh4t/seeker	10267	MIT	devtools	Maps & Location APIs	Accurately Locate Smartphones using Social Engineering 	
+P3TERX/GeoLite.mmdb	5405	NONE	devtools	Maps & Location APIs	MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases	
+Lucksi/Mr.Holmes	4388	GPL-3.0	devtools	Maps & Location APIs	 A Complete Osint Tool :mag:	
+tegal1337/CiLocks	3321	GPL-3.0	devtools	Maps & Location APIs	Crack Interface lockscreen, Metasploit and More Android/IOS Hacking	
+dedicatedcode/reitti	2703	AGPL-3.0	devtools	Maps & Location APIs	Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name "Reitti" comes from Finnish, meaning "route" or "path".	
+oschwald/geoip2-golang	2346	ISC	devtools	Maps & Location APIs	Unofficial MaxMind GeoIP2 Reader for Go	
+nitefood/asn	1949	MIT	devtools	Maps & Location APIs	ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server	
+zengzhan/qqzeng-ip	1864	MIT	devtools	Maps & Location APIs	👑 qqzeng-ip/QZDB 极速IP解析引擎 | Next-gen High-Performance IP Lookup Engine (IPv4 & IPv6). Supports LPM, zero-allocation SDKs (C/Rust/Go/Java/C#/NodeJS/Python/PHP) & DBMS scripts.	
+thanglequoc/vietnamese-provinces-database	1857	MIT	devtools	Maps & Location APIs	Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, postal codes, and geospatial boundaries.	
+Agontuk/react-native-geolocation-service	1668	MIT	devtools	Maps & Location APIs	React native geolocation service for iOS and android	
+olalie/tapmap	1601	MIT	devtools	Maps & Location APIs	Watch your computer connect across the internet in real time. Discover the world behind your apps.	
+monosans/proxy-list	1562	MIT	devtools	Maps & Location APIs	Free HTTP, SOCKS4 and SOCKS5 proxy lists, re-checked every hour. Plain text and JSON, sorted fastest first, with response time, exit IP, ASN and geolocation. No signup and no API key.	
+GONZOsint/geowifi	1516	NONE	devtools	Maps & Location APIs	Search WiFi geolocation data by BSSID and SSID on different public databases.	
+lance0/ttl	1492	Apache-2.0	devtools	Maps & Location APIs	Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.	
+vitejs/vite	83856	MIT	devtools	Monorepo, Build & Dev Productivity	Next generation frontend tooling. It's fast!	
+webpack/webpack	65994	MIT	devtools	Monorepo, Build & Dev Productivity	A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... a	
+parcel-bundler/parcel	44012	MIT	devtools	Monorepo, Build & Dev Productivity	The zero configuration build tool for the web. 📦🚀	
+vercel/turborepo	31311	MIT	devtools	Monorepo, Build & Dev Productivity	The build system for coding agents.	
+gradle/gradle	18917	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	Adaptable, fast automation for all	
+go-task/task	16326	MIT	devtools	Monorepo, Build & Dev Productivity	A fast, cross-platform build tool inspired by Make, designed for modern workflows.	
+web-infra-dev/rspack	12969	MIT	devtools	Monorepo, Build & Dev Productivity	Fast Rust-based bundler for the web with a modernized webpack API 🦀	
+wxt-dev/wxt	10710	MIT	devtools	Monorepo, Build & Dev Productivity	⚡ Next-gen Web Extension Framework	
+uncss/uncss	9388	MIT	devtools	Monorepo, Build & Dev Productivity	Remove unused styles from CSS	
+dependency-check/DependencyCheck	7762	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.	
+parcel-bundler/lightningcss	7728	MPL-2.0	devtools	Monorepo, Build & Dev Productivity	An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.	
+rizsotto/Bear	6531	GPL-3.0	devtools	Monorepo, Build & Dev Productivity	Generate compile_commands.json for any C or C++ build	
+farm-fe/farm	5595	MIT	devtools	Monorepo, Build & Dev Productivity	Extremely fast Vite-compatible web build tool written in Rust	
+web-infra-dev/modern.js	5049	MIT	devtools	Monorepo, Build & Dev Productivity	A progressive web framework based on React and Rsbuild.	
+sbt/sbt	4955	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	sbt, the interactive build tool	
+preactjs/wmr	4906	MIT	devtools	Monorepo, Build & Dev Productivity	👩‍🚀 The tiny all-in-one development tool for modern web apps.	
+style-dictionary/style-dictionary	4879	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	A build system for creating cross-platform styles.	
+trunk-rs/trunk	4423	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	Build, bundle & ship your Rust WASM application to the web.	
+cake-build/cake	4201	MIT	devtools	Monorepo, Build & Dev Productivity	:cake: Cake (C# Make) is a cross platform build automation system.	
+pantsbuild/pants	3856	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	The Pants Build System	
+Guardsquare/proguard	3691	GPL-2.0	devtools	Monorepo, Build & Dev Productivity	ProGuard, Java optimizer and obfuscator	
+web-infra-dev/rsbuild	3416	MIT	devtools	Monorepo, Build & Dev Productivity	Fast, extensible build tool for modern web development	
+Prism-Shadow/penguin-harness	3174	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	🐧 Unified and Stable RSI Platform	
+sagiegurari/cargo-make	2955	Apache-2.0	devtools	Monorepo, Build & Dev Productivity	Rust task runner and build tool.	
+com-lihaoyi/mill	2798	MIT	devtools	Monorepo, Build & Dev Productivity	A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools	
+anubhavanonymous/XLR8_BOMBER	1184	Apache-2.0	devtools	Notification & Messaging Infrastructure	A Superfast SMS & Call bomber for Linux And Termux !	
+sendbird/sendbird-uikit-react	240	MIT	devtools	Notification & Messaging Infrastructure	Build chat in minutes with Sendbird UIKit open source code.	
+team-telnyx/telnyx-node	198	MIT	devtools	Notification & Messaging Infrastructure	AI call assistant & voice API SDK for Node.js: official Telnyx library for AI voice agents, calls, SMS and phone numbers.	
+RaspbianFrance/raspisms	180	GPL-3.0	devtools	Notification & Messaging Infrastructure	RaspiSMS est un système de gestion et d'envoi de SMS par ordinateur, initialement conçu pour les Raspberry Pi	
+emailjs-com/emailjs-sdk	144	BSD-3-Clause	devtools	Notification & Messaging Infrastructure	EmailJS helps sending emails using client side technologies only. No server is required.	
+vwh/temp-mail	142	MIT	devtools	Notification & Messaging Infrastructure	Cloudflare Worker that acts as a temporary email inbox	
+sendbird/sendbird-uikit-ios	126	NOASSERTION	devtools	Notification & Messaging Infrastructure	Sendbird UIKit for iOS is a development kit with a user interface, offering a simplified integration into chat.	
+talkjs/talkjs-examples	123	NONE	devtools	Notification & Messaging Infrastructure	TalkJS (https://talkjs.com) examples	
+AfricasTalkingLtd/africastalking-php	121	MIT	devtools	Notification & Messaging Infrastructure	Official PHP SDK	
+Xcreen/RestSMS	113	MIT	devtools	Notification & Messaging Infrastructure	RestSMS starting a Rest-API-Service on your Android-Device for sending SMS	
+Vonage/vonage-java-sdk	104	Apache-2.0	devtools	Notification & Messaging Infrastructure	Vonage Server SDK for Java. API support for SMS, Messages, Voice, Text-to-Speech, Numbers, Verify (2FA), Video and more.	
+T-Dynamos/WAFA	102	NONE	devtools	Notification & Messaging Infrastructure	Reverse engineered OTP Apis.	
+gr8shivam/laravel-sms-api	101	MIT	devtools	Notification & Messaging Infrastructure	Laravel package to provide SMS API integration.	
+bgreenwell/doxx	3781	MIT	devtools	PDF, Document & Report Generation	Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!	
+ArtifexSoftware/pdf2docx	3550	MIT	devtools	PDF, Document & Report Generation	Open source Python library for converting PDF to DOCX.	
+pdfkit/pdfkit	2938	MIT	devtools	PDF, Document & Report Generation	A Ruby gem to transform HTML + CSS into PDFs using the command-line utility wkhtmltopdf	
+flyfish-dev/file-viewer	2818	Apache-2.0	devtools	PDF, Document & Report Generation	Preview 275+ file formats in the browser: Office, PDF, OFD, CAD, 3D, archives. Pure frontend, no server conversion. Vue / React / Svelte / Web Components.	
+hydropix/TranslateBooksWithLLMs	2579	AGPL-3.0	devtools	PDF, Document & Report Generation	Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.	
+rstudio/gt	2161	NOASSERTION	devtools	PDF, Document & Report Generation	Easily generate information-rich, publication-quality tables from R	
+VolodymyrBaydalka/docxjs	2141	Apache-2.0	devtools	PDF, Document & Report Generation	Docx rendering library	
+ranuts/document	2019	AGPL-3.0	devtools	PDF, Document & Report Generation	Local-first browser editor for Word, Excel, PowerPoint and PDF, with an experimental AI assistant. No Office installation or account required.	

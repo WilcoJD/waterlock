@@ -1,0 +1,380 @@
+NVIDIA/framework-reproducibility	431	Apache-2.0	hardware	Agriculture Machinery	Providing reproducibility in deep learning frameworks	
+silverqx/TinyORM	353	MIT	hardware	Agriculture Machinery	Modern C++ ORM library	
+tada5hi/typeorm-extension	269	MIT	hardware	Agriculture Machinery	This library provides utitlites to create & drop the database, seed the database and apply URL query parameter(s).	
+RedShyGuy/Vapecord-ACNL-Plugin	183	NOASSERTION	hardware	Agriculture Machinery	An Animal Crossing New Leaf Modding Menu Overlay to use while playing the game.	
+rbtying/shengji	102	MIT	hardware	Agriculture Machinery	An online version of shengji (a.k.a. tractor) and zhaopengyou (a.k.a. Finding Friends)	
+tyghaykal/laravel-seeder-generator	83	MIT	hardware	Agriculture Machinery	Laravel seeder generator based on your real data from your database	
+Atkinson-Lab/Tractor	59	MIT	hardware	Agriculture Machinery	Scripts for implementing the Tractor pipeline	
+TimoKoerber/laravel-json-seeder	48	MIT	hardware	Agriculture Machinery	Create and use JSON files to seed your database in your Laravel applications	
+kristijorgji/goseeder	48	MIT	hardware	Agriculture Machinery	Go database seeder inspired from Laravel/Lumen seeder and more	
+hodfords-solutions/nestjs-seeder	45	NONE	hardware	Agriculture Machinery	Nestjs-seeder streamlines the process of populating your NestJS application with mock data. It makes it easy to generate and manage seed data, ideal for testing and simulating API responses.	
+Coffeetrac/AG_NTRIP_ESP	43	GPL-3.0	hardware	Agriculture Machinery	AG Rooftop controller with NTRIP client and IMU (ESP32 Controller)	
+Coffeetrac/Autosteer_ESP	38	GPL-3.0	hardware	Agriculture Machinery	Advanced Autosteer Sketch for ESP32 - WiFi Version 	
+run-as-root/magento-2-seeder	38	MIT	hardware	Agriculture Machinery	Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.	
+team-exor/generic-seeder	38	NONE	hardware	Agriculture Machinery	Generic altcoin DNS seeder. Compatible with virtually any cryptocurrency cloned from bitcoin. Built-in lightweight DNS server ~ Cloudflare DNS support ~ Block explorer integration (with failover support) ~ Easy configuration options ~ Step-by-step setup guide 	
+elegantdevelopment/aws-cdk-dynamodb-seeder	38	Apache-2.0	hardware	Agriculture Machinery	A simple CDK seeder for DynamoDB	
+romquenin/home-assistant-config-fr	392	Apache-2.0	hardware	Air Quality Sensors	🏠Configuration de Home Assistant en français. 👨🏻‍💻 N'hésitez pas à ⭐ mon repo et à copier les bonnes idées ! 🇨🇵 	
+openair-project/openair	368	NOASSERTION	hardware	Air Quality Sensors	🧭 Open source tools for air quality data analysis	
+renemarc/home-assistant-config	367	Apache-2.0	hardware	Air Quality Sensors	🏠 Fully documented Home Assistant configuration for a smart-looking place. 😎 Be sure to ⭐️ my repo and copy ideas!	
+rgerganov/py-air-control	288	MIT	hardware	Air Quality Sensors	Command line app for controlling Philips air purifiers	
+pimoroni/bme680-python	286	MIT	hardware	Air Quality Sensors	Python library for the BME680 gas, temperature, humidity and pressure sensor.	
+senyo888/humidity-intelligence	251	MIT	hardware	Air Quality Sensors	Deterministic environmental stabilisation engine for Home Assistant. Stabilises humidity, dew point, air quality, and seasonal comfort with explainable runtime decisions.	
+tenderlove/esp8266aq	220	NOASSERTION	hardware	Air Quality Sensors	ESP8266 and Plantower AQ sensor	
+geerlingguy/airgradient-prometheus	191	MIT	hardware	Air Quality Sensors	AirGradient Prometheus exporter.	
+GIS4WRF/gis4wrf	188	MIT	hardware	Air Quality Sensors	QGIS toolkit 🧰 for pre- and post-processing 🔨, visualizing 🔍, and running simulations 💻 in the Weather Research and Forecasting (WRF) model 🌀	
+fu-hsi/PMS	155	MIT	hardware	Air Quality Sensors	Arduino library for Plantower PMS x003 family sensors.	
+minhe51805/UrbanReflex	133	GPL-3.0	hardware	Air Quality Sensors	UrbanReflex is an open-source smart city platform that transforms road segments into linked data nodes, integrating environmental monitoring, infrastructure status, and citizen reports. AI-powered classification and prioritization help city teams manage issues	
+Limych/ha-iaquk	129	MIT	hardware	Air Quality Sensors	Indoor Air Quality Sensor Component for Home Assistant	
+hackerspace-silesia/Smogomierz	127	Apache-2.0	hardware	Air Quality Sensors	Smogly(formerly: Smogomierz) - simple and cheap PM 2.5 and PM10 sensor based on NodeMCU (ESP8266) or ESP32	
+mash2k3/qingping_cgs1	122	MIT	hardware	Air Quality Sensors	Home Assistant Integration for Qingping Devices	
+KadenThomp36/air-quality-card	118	MIT	hardware	Air Quality Sensors	A custom Home Assistant Lovelace card for air quality monitoring with WHO-based thresholds and gradient graphs	
+trzy/Supermodel	682	NONE	hardware	Arcade & Pinball	Official repository of the Sega Model 3 arcade emulator.	
+freezy/dmd-extensions	168	GPL-2.0	hardware	Arcade & Pinball	A toolbox for virtual pinball dot matrix displays.	
+freezy/pinball-construction-kit	115	MIT	hardware	Arcade & Pinball	A pinball simulator based on Unreal Engine 4	
+vbousquet/flexdmd	73	Apache-2.0	hardware	Arcade & Pinball	A DMD renderer for Visual Pinball original tables.	
+PPUC/ZeDMD	72	GPL-2.0	hardware	Arcade & Pinball	A real DMD for virtual pinball machines and PPUC driven real pinball machines	
+diva-eng/sega-nu	65	MIT	hardware	Arcade & Pinball	Sega Nu restoration notes and discoveries	
+vpdb/vpx-js	60	GPL-2.0	hardware	Arcade & Pinball	:video_game: Visual Pinball in the Browser	
+gdsports/NSGadget_Pi	59	MIT	hardware	Arcade & Pinball	Raspberry Pi impersonates Nintendo Switch controller	
+vicboma1/loaderDumpsArcade	58	MIT	hardware	Arcade & Pinball	 Loader Dumps Arcade run Taito Type X | NESICAxLive arcade machines games in your PC 	
+missionpinball/mpf-docs	53	MIT	hardware	Arcade & Pinball	missionpinball.org website content & all MPF docs	
+jonaskello/wpc-cabinet	51	NONE	hardware	Arcade & Pinball	WPC Pinball Standard Body Cabinet Plans	
+PPUC/ppuc	38	GPL-3.0	hardware	Arcade & Pinball	The PPUC "binary" that acts as CPU	
+adoptware/pinball	36	GPL-2.0	hardware	Arcade & Pinball	Emilia Pinball : A Libre pinball simulator for GNU Linux	
+HVR88/Monochrome-Gaming-Logos	35	NONE	hardware	Arcade & Pinball	Monochrome SVG and transparent PNG gaming logos:   consoles, arcade systems, home computers, hardware manufacturers, game publishers, playlists and emulation categories.	
+10yard/dkafe	35	GPL-3.0	hardware	Arcade & Pinball	DKAFE - Donkey Kong Arcade Front End.    An arcade game launcher based on Donkey Kong with incentives to play and unlock arcade games. It comes bundled with features and ready to go.	
+wzpan/wukong-robot	7131	MIT	hardware	Audio Speakers & Hi-Fi	🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。	
+WeirdTreeThing/chromebook-linux-audio	570	BSD-3-Clause	hardware	Audio Speakers & Hi-Fi	Script that enables audio support on many Chrome devices running various Linux distros	
+bosefirmware/ced	463	NONE	hardware	Audio Speakers & Hi-Fi	Bose Firmware / Software - ced (AE2, Frames, Noise Cancelling Headphones 700, OE, On-Ear Wireless, QuietComfort 35 II / QC35 / QC35II, QuietControl 30 / QC30, SoundLink Color II, Micro, SL Mini Special Edition, Mini II, Revolve, SoundSport Free, Pulse, Wireles	
+QiangChunyu/SecoustiCodec	361	NONE	hardware	Audio Speakers & Hi-Fi	Ultra-low bitrate speech codec (0.27-1 kbps) with cross-modal alignment and real-time capabilities	
+seanwood/gcc-nmf	330	MIT	hardware	Audio Speakers & Hi-Fi	Real-time GCC-NMF Blind Speech Separation and Enhancement	
+balena-io-experimental/boombeastic	227	Apache-2.0	hardware	Audio Speakers & Hi-Fi	A Raspberry Pi based smart connected speaker with support for airplay, spotify, mpd and local playback 	
+0xbitx/DEDSEC_BLUEJACKER	222	NONE	hardware	Audio Speakers & Hi-Fi	Bluetooth jamming device. long-range version is under testing	
+SuperKogito/Voice-based-gender-recognition	219	MIT	hardware	Audio Speakers & Hi-Fi	:sound: :boy: :girl:Voice based gender recognition using Mel-frequency cepstrum coefficients (MFCC)  and Gaussian mixture models (GMM)	
+keonlee9420/StyleSpeech	198	MIT	hardware	Audio Speakers & Hi-Fi	PyTorch Implementation of Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation	
+elizabethsiegle/Bay_Area_tech_meetups	191	NOASSERTION	hardware	Audio Speakers & Hi-Fi	iOS, Android, web, hardware, bots...you name it, there's a meetup for you!	
+albertaparicio/tfg-voice-conversion	121	GPL-3.0	hardware	Audio Speakers & Hi-Fi	Deep Learning-based Voice Conversion system	
+redchenjs/bluetooth_visual_speaker_esp32	116	NONE	hardware	Audio Speakers & Hi-Fi	Bluetooth Visual Speaker | 藍牙視效音響 | 基於ESP32的音樂全彩光立方視覺效果控制器	
+LydByDissing/stroem	111	CC-BY-SA-4.0	hardware	Audio Speakers & Hi-Fi	The Strøm open source speaker project have been started with the main goal of creating a fully functional "wifi speaker", but as an open sourced product.	
+audiojs/speaker	106	NONE	hardware	Audio Speakers & Hi-Fi	Output audio to speaker, browser/node	
+Labmem-Zhouyx/CDFSE_FastSpeech2	86	MIT	hardware	Audio Speakers & Hi-Fi	The Official Implementation of “Content-Dependent Fine-Grained Speaker Embedding for Zero-Shot Speaker Adaptation in Text-to-Speech Synthesis”	
+stuartpittaway/diyBMSv4	1145	NOASSERTION	hardware	Batteries & Storage	Version 4 of the diyBMS	
+stuartpittaway/diyBMS	676	GPL-3.0	hardware	Batteries & Storage	Do it yourself battery management system for Lithium ion battery packs/cells	
+Lin-Chai49/pack-bms	359	MIT	hardware	Batteries & Storage	C99 firmware core for a 16-series LFP pack. Independent charge and discharge FETs, cell protection, coulomb SOC, and the current and voltage limits an inverter follows. Passive balance runs for 1.0 s, then 200 ms off, so the fault wait finishes on an unloaded 	
+EnnoidMe/ENNOID-BMS	336	GPL-3.0	hardware	Batteries & Storage	Open-Source: Modular BMS based on LTC68XX & STM32 MCU for up to 400V EV battery pack 	
+LibreSolar/bms-c1	278	NOASSERTION	hardware	Batteries & Storage	16s / 100A Battery Management System	
+MichaelBosello/battery-rul-estimation	199	Apache-2.0	hardware	Batteries & Storage	Remaining Useful Life (RUL) estimation of Lithium-ion batteries using deep LSTMs	
+stuartpittaway/diyBMSv4Code	154	NOASSERTION	hardware	Batteries & Storage	Software for diyBMS v4	
+wcko87/beatoraja-english-guide	146	NONE	hardware	Batteries & Storage	Detailed guide for how to get started with beatoraja or BMS in general. -- For example: What is BMS, How do I set it up, Where do I download songs, How does the community work, How does the difficulty system work	
+omarKmekkawy/Reverse_Engineering_BQ20z70_Laptop_BMS	134	NONE	hardware	Batteries & Storage	Reverse engineering BQ20z70 Laptop BMS	
+ArminJo/JK-BMSToPylontechCAN	110	GPL-3.0	hardware	Batteries & Storage	Converts the JK-BMS RS485 data to Pylontech CAN data	
+dexterbg/Twizy-Virtual-BMS	95	NOASSERTION	hardware	Batteries & Storage	This is an Arduino library providing an emulation of the CAN communication protocol of the BMS (battery management system) on a Renault Twizy.	
+rick51231/node-dmr-lib	80	MIT	hardware	Batteries & Storage	Motorola MotoTRBO DMR protocols research project.	
+ChristianTremblay/pyhaystack	79	Apache-2.0	hardware	Batteries & Storage	Pyhaystack is a module that allow python programs to connect to a haystack server project-haystack.org. Connection can be established with Niagara Platform running the nhaystack, Skyspark and Widesky. For this to work with Anaconda IPython Notebook in Windows,	
+wcko87/lr2oraja	65	NONE	hardware	Batteries & Storage	Unofficial fork of beatoraja using LR2 gauges and judge. Please check releases ↓↓↓↓↓	
+ks-santosh/MiniBMS	61	MIT	hardware	Batteries & Storage	Simulink model of a battery management system for electric vehicles, featuring SoC calculation, fault detection, voltage and temperature monitoring, and state management.	
+rancher/ui	624	Apache-2.0	hardware	Beekeeping & Livestock	Rancher UI	
+talmolab/sleap	622	BSD-3-Clause-Clear	hardware	Beekeeping & Livestock	A deep learning framework for multi-animal pose tracking.	
+16EAGLE/moveVis	140	GPL-3.0	hardware	Beekeeping & Livestock	An R package for visualizing movement data (e.g. from GPS tracking) and synchronous environmental data (e.g. from remote sensing) as video animations.	
+gwjensen/SnakeStrike	114	GPL-3.0	hardware	Beekeeping & Livestock	A Low-cost Open-source High-speed Multi-camera Motion Capture System.	
+bahanonu/ciatah	104	MIT	hardware	Beekeeping & Livestock	CIAtah (pronounced cheetah): a software package for calcium imaging analysis of one- and two-photon imaging datasets. Documentation: https://git.io/ciatah_docs. Formerly known as calciumImagingAnalysis (ciapkg).	
+pengovbr/sei-docker	81	NONE	hardware	Beekeeping & Livestock	Projeto de Infraestrutura sob Código para o SEI	
+Clivern/Cattle	71	Apache-2.0	hardware	Beekeeping & Livestock	🐺 Platform to Run and Share Code. It Supports PHP, Python, Ruby, Elixir, Java, Go, Rust, C and C++.	
+ianjonsen/aniMotum	50	NOASSERTION	hardware	Beekeeping & Livestock	fit latent variable movement models to animal tracking data	
+hiveeyes/arduino	48	GPL-3.0	hardware	Beekeeping & Livestock	Arduino-compatible MCU firmware code for sensor-, telemetry-, and gateway-appliances.	
+rjdmoore/fictrac	36	NOASSERTION	hardware	Beekeeping & Livestock	FicTrac: A webcam-based method for tracking spherical motion and generating fictive animal paths.	
+swarm-lab/trackR	34	GPL-3.0	hardware	Beekeeping & Livestock	trackR - A simple video tracking software for R	
+jpmyrmecol/AMADEUS	33	AGPL-3.0	hardware	Beekeeping & Livestock	Annotation-free multi-animal direction estimation using self-supervised learning	
+inbo/bird-tracking	26	MIT	hardware	Beekeeping & Livestock	🛰🐦 Bird tracking - GPS tracking and colour-ringing data	
+sollan/alma	21	GPL-3.0	hardware	Beekeeping & Livestock	Fully automated (rodent) limb motion analysis toolbox for behavioral analysis with bodypart coordinate data, building upon markerless pose estimation.	
+Honey-Pi/rpi-scripts	17	NOASSERTION	hardware	Beekeeping & Livestock	Python scripts that are executed on the hive scale for data acquisition in measurement mode. 	
+ptx2/gymnasticon	329	MIT	hardware	Bicycles & Cargo Bikes	Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more.	
+criticalmaps/criticalmaps-ios	322	MIT	hardware	Bicycles & Cargo Bikes	Critical Maps iOS App 🚲✊	
+Kirilbt/bike-demo-threejs	187	NONE	hardware	Bicycles & Cargo Bikes	This fictive project was created to showcase my current skills using Three.js and GSAP.	
+mmmago/cowboyunleashed	155	NONE	hardware	Bicycles & Cargo Bikes	An iOS app to lift the speed limit of your Cowboy bike (and more).	
+paixaop/zwack	130	MIT	hardware	Bicycles & Cargo Bikes	BLE (Bluetooth Low Energy) Sensor to simulate an indoor bike trainer or runner	
+breath103/seoul-bike	85	NONE	hardware	Bicycles & Cargo Bikes	서울시 자전거 따릉이를 위한 대여소 찾기 서비스 입니다.	
+cagnulein/QZCompanionNordictrackTreadmill	84	AGPL-3.0	hardware	Bicycles & Cargo Bikes	Companion App of QZ for Nordictrack Treadmills and Bikes	
+Geonhee-LEE/mpc_ros_description	70	NONE	hardware	Bicycles & Cargo Bikes	Supports the various URDF and GAZEBO mobile robot model 	
+bikedeboa/bikedeboa	70	MIT	hardware	Bicycles & Cargo Bikes	A (Progressive) Web App to find, map and review bike parkings in the cities of Brazil.	
+knrdl/bicimon	64	MIT	hardware	Bicycles & Cargo Bikes	Bike Speedometer	
+awslabs/bike-kem	54	Apache-2.0	hardware	Bicycles & Cargo Bikes	Additional implementation of BIKE (Bit Flipping Key Encapsulation)	
+Cherubinio/bike-to-game-bridge-firmware	53	NONE	hardware	Bicycles & Cargo Bikes	TrainerCraft 2026: BLE Bike Trainer to Game Bridge for Immersive Indoor Cycling	
+itsaditya3452-tech/post-cycla	53	NONE	hardware	Bicycles & Cargo Bikes	PostCycla 2026: Top Open-Source Cyclone Tracking and Weather Data Tool	
+Hazrat-Ali9/Bike-Sharing-Demand-Forecasting-Using-Time-Series-Analysis	52	NONE	hardware	Bicycles & Cargo Bikes	⚽ Bike ⚾ Sharing 🥎 Demand 🏀Forecasting 🏐 Time 🎮 Series 🥌 Analysis is 🎳 a data ⛸ science ✈ focused on 🚁 predicting 🚀 bike 🛸 demand 🚟 time 🚠 series 🚞 techniques ⛴ analyzing 🚢 historical 🚒 bike 🛺 weather 🚋 data 🚂 seasonal 🚃 trends this 🚅 helps 🏩 optimize 🏦 planni	
+kloppen/trainerpi	47	MIT	hardware	Bicycles & Cargo Bikes	A speed and cadence display for a bike trainer that uses Bluetooth sensors and a Raspberry Pi.	
+cybergalactic/MSS	772	MIT	hardware	Boats & Marine Electronics	The Marine Systems Simulator (MSS) is software that supplements the textbook "Handbook of Marine Craft Hydrodynamics and Motion Control," 3rd Edition, by T. I. Fossen, published in 2027 (in progress) by John Wiley & Sons Ltd.	
+Neumi/open_echo	530	NONE	hardware	Boats & Marine Electronics	Open Source echo sounder / depth sounder / SONAR for bathymetry and research. Arduino based and compatible.	
+disaster-robotics-proalertas/usv_sim_lsa	463	Apache-2.0	hardware	Boats & Marine Electronics	Unmanned Surface Vehicle simulation on Gazebo with water current and winds	
+AOF-Dev/Boat	454	GPL-2.0	hardware	Boats & Marine Electronics	Environment for running Minecraft Java Edition on Android	
+patrykcieslak/stonefish	332	GPL-3.0	hardware	Boats & Marine Electronics	Stonefish - an advanced C++ simulation library designed for (but not limited to) marine robotics.	
+ktuukkan/marine-api	276	LGPL-3.0	hardware	Boats & Marine Electronics	Java Marine API - NMEA 0183 library for Java	
+bareboat-necessities/my-bareboat	234	Apache-2.0	hardware	Boats & Marine Electronics	Opensource hardware and software solutions for sailing and sailboats	
+badlands-model/badlands	196	LGPL-3.0	hardware	Boats & Marine Electronics	Basin and Landscape Dynamics model	
+WaterScenes/WaterScenes	193	NONE	hardware	Boats & Marine Electronics	Official repository for WaterScenes dataset	
+jvde-github/AIS-catcher-for-Android	156	GPL-3.0	hardware	Boats & Marine Electronics	Android AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF+ and TCP (RTL-TCP and SpyServer). Output is send via UDP and visualized on the built-in map	
+ais-dotnet/Ais.Net	154	AGPL-3.0	hardware	Boats & Marine Electronics	.NET Standard, high performance, zero allocation AIS decoder, which can process millions of AIVDM/AIVDO sentences per second on a single core. Sponsored by endjin	
+Jay2645/BuoyancySystem	143	MIT	hardware	Boats & Marine Electronics	A system for buoyancy and boat physics in Unreal Engine 4.	
+bareboat-necessities/bbn-m5stack-tough	129	NOASSERTION	hardware	Boats & Marine Electronics	M5Stack Tough (ESP-32) Sailing Instruments Display and Autopilot Control	
+AlexAsplund/Vanchor	125	MIT	hardware	Boats & Marine Electronics	Turn a cheap trolling motor into a smart GPS autopilot - virtual anchor, routes, cruise and drift modes from your phone. Runs offline on a Raspberry Pi, with ML-assisted station keeping that outholds a classic PID.	
+sailingexodus/exodus-radar	124	NOASSERTION	hardware	Boats & Marine Electronics	Raspberry Pi radar display for the Raymarine Quantum: AIS, anchor watch, Signal K, OpenPlotter, mayara. Runs on the Pi screen or in any browser. Free for non-commercial use.	
+BioSTEAMDevelopmentGroup/biosteam	279	NOASSERTION	hardware	Brewing & Distilling	The Biorefinery Simulation and Techno-Economic Analysis Modules	
+andyb129/BeerProgressView	236	NONE	hardware	Brewing & Distilling	A library that lets you create a beer styled progress view with bubbles and all! (hic) :beer:	
+hirschmann/pid-autotune	171	MIT	hardware	Brewing & Distilling	PID-controller/brewing kettle simulation	
+Pioreactor/pioreactor	154	MIT	hardware	Brewing & Distilling	Hardware and software for accessible, extensible, and scalable bioreactors. Built on Raspberry Pi.	
+pauljblazek/deepdistilling	104	NOASSERTION	hardware	Brewing & Distilling	Mechanistically interpretable neurosymbolic AI (Nature Comput Sci 2024): losslessly compressing NNs to computer code and discovering new algorithms which generalize out-of-distribution and outperform human-designed algorithms	
+uncodead/BrewUNO	103	NOASSERTION	hardware	Brewing & Distilling	High precision and accuracy, open source, online, extensible and low cost homebrew automation on top of ESP8266 microchip.	
+BreweryTeam/BreweryX	103	GPL-3.0	hardware	Brewing & Distilling	An actively maintained, support given, and addon supported fork of Brewery with tons of extra features.	
+mp-se/gravitymon	100	NOASSERTION	hardware	Brewing & Distilling	iSpindel replacement firmware for beer brewing/fermenting	
+20n/act	92	GPL-3.0	hardware	Brewing & Distilling	Computational synthetic biology: Predicting DNA edits for bioengineering	
+BrewCenter/OpenBrews	78	GPL-3.0	hardware	Brewing & Distilling	A cross-platform open source app to help you brew beer.	
+deanhume/beer	74	Apache-2.0	hardware	Brewing & Distilling	The source code for the Progressive Beer app! 	
+scheb/beer-analytics	49	GPL-3.0	hardware	Brewing & Distilling	Analyzing the composition of beer recipes and visualize results in a human-friendly way 🕵️🍺	
+dukeduck1984/Hydrometer-Esp32-Micropython	41	NONE	hardware	Brewing & Distilling	Wireless hydrometer with an ESP32 powered by MicroPython	
+beerkit/beer.db	39	CC0-1.0	hardware	Brewing & Distilling	beerdb gems - open beer database (beer.db) command line tool and libraries 	
+jalexandre0/saci-temperature-controller	33	GPL-3.0	hardware	Brewing & Distilling	Temperature controller for homebrewers & hackers	
+cncjs/cncjs	2666	MIT	hardware	CNC & Laser Cutters	A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.	
+maxvfischer/DIY-CNC-machine	2052	NOASSERTION	hardware	CNC & Laser Cutters	How to build your own CNC machine from scratch 	
+bdring/Grbl_Esp32	1977	GPL-3.0	hardware	CNC & Laser Cutters	A port of Grbl CNC Firmware for ESP32	
+maduce/fosscad-repo	1874	GPL-3.0	hardware	CNC & Laser Cutters	Official FOSSCAD Library Repository	
+rene-dev/stmbl	990	GPL-3.0	hardware	CNC & Laser Cutters	AC Servo Driver for STM32F4	
+svenhb/GRBL-Plotter	908	GPL-3.0	hardware	CNC & Laser Cutters	A GCode sender (not only for lasers or plotters) for up to two GRBL controller. SVG, DXF, HPGL import. 6 axis DRO. 	
+LaserWeb/LaserWeb4	808	AGPL-3.0	hardware	CNC & Laser Cutters	Collaborative effort on the next version of LaserWeb / CNCWeb	
+Paciente8159/uCNC	461	GPL-3.0	hardware	CNC & Laser Cutters	µCNC - Universal CNC firmware for microcontrollers	
+JeroenGar/sparrow	435	MIT	hardware	CNC & Laser Cutters	State-of-the-art nesting for 2D irregular strip packing	
+kadirilkimen/Polar-Bear-Cnc-Machine	415	GPL-3.0	hardware	CNC & Laser Cutters	A multipurpose, 2 linear, 1 rotary axis cnc machine concept	
+sxcool1024/Machinery-Industry-Press	405	NONE	hardware	CNC & Laser Cutters	本项目预计分享数千册电子书，98%以上为机械工业出版社原版电子书，其余为其它出版社出版的一些经典外文读物的原版译本电子书，每本书都配有当当网一键搜索，可查看书价格和简介。目前共计更新2542册图书	
+kachurovskiy/nanoels	398	MIT	hardware	CNC & Laser Cutters	Electronic Lead Screw for metal lathe	
+Sienci-Labs/gsender	386	NOASSERTION	hardware	CNC & Laser Cutters	Connect to and control grbl and grblHAL-based CNCs with ease	
+tuanchris/dune-weaver	383	NOASSERTION	hardware	CNC & Laser Cutters	An open-source kinetic sand art table that creates mesmerizing patterns using a ball controlled by precision motors.	
+OpenBuilds/OpenBuilds-CAM	373	AGPL-3.0	hardware	CNC & Laser Cutters	Online CNC CAM System	
+nvim-telescope/telescope-fzf-native.nvim	1761	MIT	hardware	Cameras & Telescopes	FZF sorter for telescope written in c	
+thkruz/keeptrack.space	1627	AGPL-3.0	hardware	Cameras & Telescopes	🌎📡 TypeScript Astrodynamics Software for Non-Engineers. 3D Visualization of satellite data and the sensors that track them.	
+CosmicNvim/CosmicNvim	1165	GPL-3.0	hardware	Cameras & Telescopes	CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!	
+iamtelescope/telescope	716	MIT	hardware	Cameras & Telescopes	Web-based log viewer UI. Explore logs data stored in several sources: ClickHouse, Kubernetes or Docker	
+mrcjkb/haskell-tools.nvim	617	GPL-2.0	hardware	Cameras & Telescopes	 🦥 Supercharge your Haskell experience in neovim!	
+Shatur/neovim-session-manager	615	GPL-3.0	hardware	Cameras & Telescopes	A simple wrapper around :mksession.	
+olimorris/persisted.nvim	544	MIT	hardware	Cameras & Telescopes	💾 Simple session management for Neovim with git branching, autoloading and Telescope support	
+aznhe21/actions-preview.nvim	515	GPL-3.0	hardware	Cameras & Telescopes	Fully customizable previewer for LSP code actions.	
+2KAbhishek/nerdy.nvim	431	GPL-3.0	hardware	Cameras & Telescopes	Find Nerd Glyphs Easily 🤓🔭	
+axkirillov/easypick.nvim	410	MIT	hardware	Cameras & Telescopes	A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands	
+Yu-Yang-Li/StarWhisper	331	Apache-2.0	hardware	Cameras & Telescopes	Astronomy LLMs, StarWhisper Telescope, Virtual Sitian, and astronomy research skills	
+Avimitin/nvim	266	Apache-2.0	hardware	Cameras & Telescopes	Handy, maintainable, multi-languages supported neovim configuration.	
+zkwlx/DroidTelescope	264	GPL-3.0	hardware	Cameras & Telescopes	DroidTelescope（DT），Android端App性能监控框架	
+cljoly/telescope-repo.nvim	239	MIT	hardware	Cameras & Telescopes	🦘 Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim, without any setup	
+nvim-telescope/telescope-github.nvim	233	MIT	hardware	Cameras & Telescopes	Integration with github cli	
+voghDev/PdfViewPager	1716	Apache-2.0	hardware	Coffee & Espresso	Android widget that can render PDF documents stored on SD card, linked as assets, or downloaded from a remote URL.	
+AdevintaSpain/Barista	1690	NOASSERTION	hardware	Coffee & Espresso	:coffee: The one who serves a great Espresso	
+fabioCollini/DaggerMock	1153	Apache-2.0	hardware	Coffee & Espresso	A JUnit rule to easily override Dagger 2 objects	
+airbnb/okreplay	785	Apache-2.0	hardware	Coffee & Espresso	📼 Record and replay OkHttp network interaction in your tests.	
+ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff	752	NONE	hardware	Coffee & Espresso	Feature-first Clean Architecture Android Project	
+Flank/flank	701	Apache-2.0	hardware	Coffee & Espresso	:speedboat: Massively parallel Android and iOS test runner for Firebase Test Lab	
+Karumi/KataSuperHeroesAndroid	681	Apache-2.0	hardware	Coffee & Espresso	Super Heroes Kata for Android Developers. The main goal is to practice UI Testing.	
+odaridavid/Clean-MVVM-ArchComponents	680	Apache-2.0	hardware	Coffee & Espresso	👽 Built with MVVM pattern, Koin , Coroutines + Flows ,Architecture Components, Data Binding , Firebase , Unit/UI Tests ,Motion Layout	
+MarathonLabs/marathon	646	GPL-2.0	hardware	Coffee & Espresso	Cross-platform test runner	
+PhilippeBoisney/ArchApp	614	NONE	hardware	Coffee & Espresso	Simple Android app to show how to design a multi-modules MVVM Android app (fully tested)	
+androidstarters/kotlin-android-starter	595	NONE	hardware	Coffee & Espresso	[Kotlin Android] Kotlin Android starter based MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Kotlin Android project.	
+androidstarters/android-starter	509	NONE	hardware	Coffee & Espresso	[Android Architecture] Android starter based on MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Android template project.	
+jaredsburrows/android-gif-search	411	Apache-2.0	hardware	Coffee & Espresso	Gif LazyVerticalGrid MVVM using Dagger 2 + Hilt with Retrofit 2, Moshi, Kotlin Coroutines, JUnit, Compose and Robolectric tests!	
+KakaoCup/Kakao	370	Apache-2.0	hardware	Coffee & Espresso	 Nice and simple DSL for Espresso in Kotlin	
+blipinsk/cortado	329	Apache-2.0	hardware	Coffee & Espresso	Android Espresso made more fluent :coffee:	
+aalavandhaann/blueprint-js	591	MIT	hardware	Cooking & Sous-Vide	The Javascript es6 version of the original furnishup/blueprint3d. Need some royalty free low poly models for the inventory. Can someone help me with this?	
+Kindness-Kismet/UY-Scuti	300	NONE	hardware	Cooking & Sous-Vide	一个集成工具，旨在将提取、打包和修改 Android img 的功能集成到一个工具中。	
+CryptoNickSoft/MIK	163	NONE	hardware	Cooking & Sous-Vide	Repack Android partitions from Windows	
+ant-design/kitchen	130	NONE	hardware	Cooking & Sous-Vide	Powerful sketch plugin for design cooperation 🍳🍳🍳	
+dknowles2/ha-pitboss	69	MIT	hardware	Cooking & Sous-Vide	Home Assistant Custom Integration for PitBoss smokers and grills	
+bmedicke/anova.py	65	NONE	hardware	Cooking & Sous-Vide	Python 3.6+ module to interface with the Anova 👨🏽‍🍳 Sous-vide cooker ⏱️ private API.	
+1mckenna/esp32_iGrill	58	MIT	hardware	Cooking & Sous-Vide	ESP32 iGrill BLE Client	
+Danda420/RomTools	55	GPL-3.0	hardware	Cooking & Sous-Vide	A menu-based Linux CLI tool for Android ROM unpacking, repacking, conversion, and partition utilities	
+tonightpass/kitchn	55	MIT	hardware	Cooking & Sous-Vide	@tonightpass delicious React @styled-components	
+fuzzymannerz/Kitchen-Inventory	53	MIT	hardware	Cooking & Sous-Vide	A stock system for food and such.	
+ammarzuberi/pyanova-api	40	MIT	hardware	Cooking & Sous-Vide	A Python 3 library for programmatically accessing Anova WiFi-enabled sous vide cookers through the Anova API.	
+amathislab/EPFL-Smart-Kitchen	34	MIT	hardware	Cooking & Sous-Vide	EPFL-Smart-Kitchen-30 dataset is a multi-view action dataset with synchronized exocentric, egocentric, depth, IMUs, eye gaze, body and hand kinematics spanning 29.7 hours of 16 subjects cooking four different recipes.	
+G-Two/smoke-x-receiver	32	MIT	hardware	Cooking & Sous-Vide	An ESP32+LoRa application to bridge a ThermoWorks Smoke X remote thermometer to Home Assistant via MQTT	
+dknowles2/pytboss	29	Apache-2.0	hardware	Cooking & Sous-Vide	Python 3 library for interacting with Pitboss grills and smokers	
+1fish2/BBQTimer	28	MIT	hardware	Cooking & Sous-Vide	Android lock-screen interval timer/stopwatch. It reminds you periodically to check/flip the food while it tracks the total cooking time.	
+ServiceStack/ServiceStack	5500	NOASSERTION	hardware	Cosmetics & Soap	Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all	
+ardatan/graphql-mesh	3515	MIT	hardware	Cosmetics & Soap	🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...	
+savonrb/savon	2084	MIT	hardware	Cosmetics & Soap	Heavy metal SOAP client	
+mvantellingen/python-zeep	2010	NOASSERTION	hardware	Cosmetics & Soap	A Python SOAP client	
+arskom/spyne	1153	NOASSERTION	hardware	Cosmetics & Soap	A transport agnostic sync/async RPC library that focuses on exposing services with a well-defined API using popular protocols.	
+DigDes/SoapCore	1058	MIT	hardware	Cosmetics & Soap	SOAP extension for ASP.NET Core	
+HelpCode-ai/anythingmcp	757	AGPL-3.0	hardware	Cosmetics & Soap	Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy…) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI co	
+notfalsedev/laravel-soap	628	MIT	hardware	Cosmetics & Soap	A soap client wrapper for Laravel	
+tiaguinho/gosoap	542	MIT	hardware	Cosmetics & Soap	🦉SOAP package for Go	
+priore/SOAPEngine	484	NOASSERTION	hardware	Cosmetics & Soap	This generic SOAP client allows you to access web services using a your iOS app, Mac OS X app and AppleTV app.	
+tefra/xsdata	453	MIT	hardware	Cosmetics & Soap	Naive XML & JSON Bindings for python	
+WsdlToPhp/PackageGenerator	434	MIT	hardware	Cosmetics & Soap	Generates a PHP SDK based on a WSDL, simple and powerful, WSDL to PHP	
+imposter-project/imposter	414	NOASSERTION	hardware	Cosmetics & Soap	Scriptable, multipurpose mock server. Run standalone mock servers, or embed mocks within your tests or CI/CD pipeline.	
+loopbackio/strong-soap	411	NOASSERTION	hardware	Cosmetics & Soap	SOAP driver for Node.js (A complete rewrite of node-soap)	
+zengyunhua/Mestudy	408	Apache-2.0	hardware	Cosmetics & Soap	Reference implementation of a Chinese social-insurance / e-government backend: 5 Spring MVC + MyBatis modules, 358 HTTP endpoints, Oracle multi-schema, Axis SOAP.	
+hybridgroup/gobot	9493	NOASSERTION	hardware	Drones	Golang framework for robotics, drones, and the Internet of Things (IoT)	
+openMVG/openMVG	6590	MPL-2.0	hardware	Drones	open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.	
+OpenDroneMap/ODM	6589	AGPL-3.0	hardware	Drones	A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷	
+WebODM/WebODM	4259	AGPL-3.0	hardware	Drones	User-friendly, commercial-grade software for processing aerial imagery. ✈️ Download it for free!	
+okalachev/flix	2458	NONE	hardware	Drones	Making an ESP32-based quadcopter from scratch	
+espressif/esp-drone	2298	GPL-3.0	hardware	Drones	Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.	
+dronesploit/dronesploit	2203	GPL-3.0	hardware	Drones	Drone pentesting framework console	
+generalized-intelligence/GAAS	2096	BSD-3-Clause	hardware	Drones	GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System. 	
+arpanghosh8453/open-dronelog	1584	AGPL-3.0	hardware	Drones	Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built with Tauri v2, DuckDB, and React.	
+dRoninFlight/dRonin	1502	NOASSERTION	hardware	Drones	The dRonin flight controller software.	
+nickrehm/dRehmFlight	1475	GPL-3.0	hardware	Drones	Teensy/Arduino flight controller and stabilization for small-scale VTOL vehicles	
+mit-acl/faster	1262	BSD-3-Clause	hardware	Drones	3D Trajectory Planner in Unknown Environments	
+DroneBridge/ESP32	1143	Apache-2.0	hardware	Drones	DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol	
+yrlu/quadrotor	1131	NONE	hardware	Drones	Quadrotor control, path planning and trajectory optimization	
+louiszengCN/CarlaAir	1128	NOASSERTION	hardware	Drones	CarlaAir: Fly Drones Inside a CARLA World!! A Unified Infrastructure for Air-Ground Embodied Intelligence	
+ev-map/EVMap	283	MIT	hardware	E-Bikes & EV Conversion	Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.	
+andrey-pr/OpenBafangTool	257	MIT	hardware	E-Bikes & EV Conversion	Open-source e-bike service tool for Bafang (even with CAN!) - tune your bike (BBS01, BBS02, BBSHD, M500, M600 or any other)	
+hacf-fr/renault-api	205	MIT	hardware	E-Bikes & EV Conversion		
+Xunil99/ha-bosch-ebike	165	MIT	hardware	E-Bikes & EV Conversion	Bosch eBike Smart System integration for Home Assistant	
+SolidGeek/nRF24-Esk8-Remote	143	GPL-3.0	hardware	E-Bikes & EV Conversion	A remote used to control an electric skateboard	
+its-me-prash/vwgroup-connect-ha	139	AGPL-3.0	hardware	E-Bikes & EV Conversion	Home Assistant integration for the Volkswagen Group - Audi (incl US/Canada), VW (incl US/Canada), Škoda, SEAT, CUPRA, Porsche & Bentley. Multi-channel (brand-native + EU Data Act portal + passwordless login) with GPS, charging, climate & remote control where s	
+thankthemaker/rESCue	139	GPL-3.0	hardware	E-Bikes & EV Conversion	rESCue - add more safety and control to your VESC based vehicle	
+tmjo/charger-card	120	MIT	hardware	E-Bikes & EV Conversion	A lovelace card for electrical vehicle (EV) home chargers and charging robots.	
+mathworks/Simscape-Vehicle-Templates	96	NOASSERTION	hardware	E-Bikes & EV Conversion	Set of templates for creating custom vehicle models using Simscape for use within Simulink. 	
+LiamBindle/PyVESC	91	CC-BY-4.0	hardware	E-Bikes & EV Conversion	PyVESC is an easy to use and robust Python implementation of the VESC - Open Source ESC communication protocol	
+Phil-Barker/hass-bosch-ebike	86	MIT	hardware	E-Bikes & EV Conversion	A home assistant integration for Bosch Smart eBikes	
+ztakis/x3utils	80	MIT	hardware	E-Bikes & EV Conversion	Cross-platform OpenOCD flashing tools for 3rd gen Ninebot scooter controllers.	
+1zun4/vesc_scooter_support	79	GPL-3.0	hardware	E-Bikes & EV Conversion	M365/NineBot BLE support Lisp script for VESC 7.00	
+shamansystems/Cheap-FOCer	79	NONE	hardware	E-Bikes & EV Conversion	BLDC Motor Controller based on the VESC 4.12 hardware	
+janpom/davega	65	GPL-3.0	hardware	E-Bikes & EV Conversion	Firmware for DAVEga, a device for electronic skateboards that displays data read from VESC based speed controllers.	
+mobilityhouse/ocpp	1050	MIT	hardware	EV Charging	Python implementation of the Open Charge Point Protocol (OCPP).	
+matth-x/MicroOcpp	547	MIT	hardware	EV Charging	OCPP 1.6 / 2.0.1 client for microcontrollers	
+lbbrhzn/ocpp	413	MIT	hardware	EV Charging	Home Assistant integration for electric vehicle chargers that support the Open Charge Point Protocol (OCPP).	
+ChargeTimeEU/Java-OCA-OCPP	380	MIT	hardware	EV Charging	Open source client and server library of Open Charge-Point Protocol (OCPP) defined by openchargealliance.org (OCA)	
+lorenzodonini/ocpp-go	377	MIT	hardware	EV Charging	Open Charge Point Protocol implementation in Go	
+jonasbkarlsson/ev_smart_charging	333	MIT	hardware	EV Charging	Electric vehicle smart charging for Home Assistant.	
+dallmann-consulting/OCPP.Core	309	GPL-3.0	hardware	EV Charging	OCPP server and management UI written in .NET-Core	
+nordicopen/easee_hass	286	MIT	hardware	EV Charging	Custom component for Easee EV charger integration with Home Assistant	
+CJNE/ha-myenergi	219	MIT	hardware	EV Charging	Home Assistant integration for MyEnergi devices	
+monta-app/ocpp-emulator	182	Apache-2.0	hardware	EV Charging	An open source OCPP Charge Point Emulator built using Kotlin Multiplatform and Jetbrains Compose	
+c-jimenez/open-ocpp	174	LGPL-2.1	hardware	EV Charging	Open Source C++ implementation of the OCPP 1.6 and 2.0.1 protocols	
+mikuso/ocpp-rpc	136	MIT	hardware	EV Charging	A Node.js client & server implementation of the WAMP-like RPC-over-websocket system defined in the OCPP-J protocols.	
+mk-maddin/wattpilot-HA	124	Apache-2.0	hardware	EV Charging	This is a custom component to allow control of Fronius Wattpilot wallbox/electro vehicle charging devices in Homeassistant.	
+solidstudiosh/ocpp-virtual-charge-point	122	Apache-2.0	hardware	EV Charging	Simple, configurable, terminal-based OCPP Charging Station simulator written in Node.js with Schema validation	
+uhi22/ccs32clara	115	GPL-3.0	hardware	EV Charging	STM32 with QCA7005 as CCS charge controller	
+openscopeproject/InteractiveHtmlBom	4642	MIT	hardware	Electronics Manufacturing	Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer	
+KiCad/kicad-source-mirror	3118	GPL-3.0	hardware	Electronics Manufacturing	This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.	
+LibrePCB/LibrePCB	3044	GPL-3.0	hardware	Electronics Manufacturing	A powerful, innovative and intuitive EDA suite for everyone!	
+issus/altium-library	2535	NONE	hardware	Electronics Manufacturing	Open source Altium Database Library with over 200,000 high quality components and full 3d models.	
+freerouting/freerouting	2190	GPL-3.0	hardware	Electronics Manufacturing	Advanced PCB auto-router	
+GEIGEIGEIST/TOTEM	2077	NOASSERTION	hardware	Electronics Manufacturing	TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040	
+yaqwsx/KiKit	2063	MIT	hardware	Electronics Manufacturing	Automation tools for KiCAD	
+yaqwsx/PcbDraw	1452	MIT	hardware	Electronics Manufacturing	Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams	
+autonomous-ai/openharness	1436	MIT	hardware	Electronics Manufacturing	The ultimate harness for coding agents and beyond. All your agents. All your machines. One command center. Start with code, then follow your curiosity and build across disciplines: CAD, circuits, robots, games and music.	
+GEIGEIGEIST/KLOR	1208	GPL-3.0	hardware	Electronics Manufacturing	KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.	
+tompi/cheapino	1192	CC-BY-4.0	hardware	Electronics Manufacturing	An affordable split 36 keys keyboard	
+wagiminator/ATmega-Soldering-Station	1089	NOASSERTION	hardware	Electronics Manufacturing	T12 Quick Heating Soldering Station	
+zhoushoujianwork/easyeda-agent	957	NOASSERTION	hardware	Electronics Manufacturing	嘉立创 EDA 专业版（EasyEDA Pro）开源 AI 自动化：原理图、PCB 布局布线与工程检查，支持 CLI / Agent Skill / MCP。配套 EdaDesk Desktop 内测版可下载体验。Open-source AI schematic and PCB automation for EasyEDA Pro.	
+tracespace/tracespace	955	MIT	hardware	Electronics Manufacturing	⚡️generate beautiful and accurate SVG renders of printed circuit boards	
+badgeek/svg2shenzhen	873	GPL-3.0	hardware	Electronics Manufacturing	Convert Inkscape SVG drawings to KiCad PCB and footprint modules	
+FarmBot/farmbot-js	121	MIT	hardware	Farm Robots	Javascript wrapper for FarmBot's authentication and RPC instructions	
+FarmBot/farmbot-mqtt-py	45	MIT	hardware	Farm Robots	An MQTT wrapper for FarmBot written in Python	
+rahularepaka/Project-Cyclops	41	NONE	hardware	Farm Robots	Weed Detection and Laser Elimination on Farmbot Genesis.	
+marty-mcgee/threed-garden	41	MIT	hardware	Farm Robots	🥕 Interactive 3D design, characters, physic simulations, multimedia. Built with TypeScript, React, Next.js, Three.js, React-Three, Physics, Postgres, Drizzle ORM.	
+xebia/farmbot-py	11	NONE	hardware	Farm Robots	Python library to interact with FarmBot via MQTT	
+FarmBot-Docs/farmbot-genesis	11	MIT	hardware	Farm Robots	FarmBot Genesis hardware documentation	
+Vasile2k/SteamEventCardFarmer	10	Apache-2.0	hardware	Farm Robots	A little script for PhantomJS that explores your queue on Steam and gives you free cards	
+sustainable-computing-io/kepler	1601	Apache-2.0	hardware	Fitness & Sports Equipment	Kepler (CNCF Sandbox project) is a power meter interface for Kubernetes: it lets you monitor the energy use of workloads. Let's make every watt matter. ⚡	
+UtilitechAS/amsreader-firmware	469	NOASSERTION	hardware	Fitness & Sports Equipment	ESP8266 and ESP32 compatible firmware to read, interpret and publish data to MQTT from smart electrical meters, both DLMS and DSMR is supported	
+codersaur/SmartThings	318	Apache-2.0	hardware	Fitness & Sports Equipment	Samsung SmartThings SmartApps and Device Handlers	
+powerapi-ng/powerapi	255	BSD-3-Clause	hardware	Fitness & Sports Equipment	PowerAPI is a Python framework for building software-defined power meters.	
+tijmenvangulik/ErgometerJS	126	NOASSERTION	hardware	Fitness & Sports Equipment	Java script ergometer driver for concept2 performance monitor with BLE/USB .	
+jaminNZx/ESP8266-Power-Monitor	79	NONE	hardware	Fitness & Sports Equipment	An Arduino sketch to connect an INA-219 module to an ESP dev board and measure Voltage, Current, Power, Energy Consumption and Costs via the Blynk mobile app.	
+djselbeck/rapl-read-ryzen	74	NONE	hardware	Fitness & Sports Equipment	Quick & dirty hack to read AMD Ryzen rapl counters	
+remne/p1ib	72	NOASSERTION	hardware	Fitness & Sports Equipment	P1 Interface Bridge	
+lefty01/ESP32_TTGO_FTMS	66	MIT	hardware	Fitness & Sports Equipment	ESP32 based treadmill speed and incline sensor and BLE Server exposed as FTMS Service	
+lab11/powerblade	55	NONE	hardware	Fitness & Sports Equipment	1 in² AC power meter	
+RonanB96/Cycflix	49	NONE	hardware	Fitness & Sports Equipment	Cycflix: Exercise Powered Entertainment © Ronan Byrne July 2017	
+kralonur/kws-x1-standalone-rs	48	Apache-2.0	hardware	Fitness & Sports Equipment	Open source Rust firmware for the KWS-X1 and UT01C USB-C meters. Live power, Ah/Wh, graphs, ripple, USB PD (EPR included), fixed/PPS/AVS triggers up to 28/30 V, QC 2.0/3.0, AFC, SCP/FCP, cable e-markers, a 5 A test, PD sniffing and calibration. No vendor firmw	
+elduty/velomate	44	NOASSERTION	hardware	Fitness & Sports Equipment	Self-hosted cycling analytics platform — Strava ingestion, Grafana dashboards, intelligent route planning. No Strava Premium required.	
+samsonovss/ESPHome-Treadmill-FTMS	42	NONE	hardware	Fitness & Sports Equipment	ESP32-S3 and ESPHome treadmill controller with Bluetooth FTMS, native Zwift route-grade incline, Home Assistant, Nextion UI, and advanced training modes.	
+dudanov/python-pyftms	38	Apache-2.0	hardware	Fitness & Sports Equipment	Bluetooth Fitness Machine Service async client library.	
+YunYouJun/cook	6545	MIT	hardware	Food & Beverage Recipes	🍲 好的，今天我们来做菜！OK, Let's Cook!	
+hendricius/pizza-dough	3665	MIT	hardware	Food & Beverage Recipes	This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.	
+prefix-dev/rattler-build	382	BSD-3-Clause	hardware	Food & Beverage Recipes	rattler-build is a universal Conda package builder for Windows, macOS and Linux (like conda-build but faster)	
+conda/grayskull	381	Apache-2.0	hardware	Food & Beverage Recipes	Grayskull :skull: - Recipe generator for Conda	
+pale-shadow/1337-Noms-The-Hacker-Cookbook	250	NOASSERTION	hardware	Food & Beverage Recipes	food food food	
+microsoft/macos-cookbook	232	MIT	hardware	Food & Beverage Recipes	A Chef cookbook used to provision macOS	
+meta-debian/meta-debian	152	MIT	hardware	Food & Beverage Recipes	Meta-layer for Poky to build embedded Linux environments by Debian's source codes	
+feng4887/TopoData	151	NONE	hardware	Food & Beverage Recipes	TopoData is a C# application, provides PLC/DCS data acquisition , storage and python script capabilities , along with HTTP WebAPI、Mqtt interfaces for data read/write interfaces. Provides flexible recipe definition functionality, allowing users to select differ	
+moay/server-for-symfony-flex	134	MIT	hardware	Food & Beverage Recipes	A self hosted server for Symfony Flex allowing private and customized recipes, proxy and caching functionality for the official endpoints.	
+mrezkys/hungry	128	MIT	hardware	Food & Beverage Recipes	Hungry is a Free Flutter Recipe App Starter Template that can help you develop a Recipe application much faster.	
+ngryman/gulp-bro	123	MIT	hardware	Food & Beverage Recipes	:punch: gulp + browserify + incremental build, done right.	
+mearashadowfax/OpenStove	118	NOASSERTION	hardware	Food & Beverage Recipes	A free, community-driven platform for sharing and discovering recipes. No ads, just good food! 	
+dytlabs/Cook-It-Android-XML-Template	115	MIT	hardware	Food & Beverage Recipes	Android xml layout for Cooking/Recipe App.	
+benwilcock/spring-cloud-stream-demo	99	GPL-3.0	hardware	Food & Beverage Recipes	Simple Event Driven Microservices with Spring Cloud Stream	
+RecipeMD/RecipeMD	96	LGPL-3.0	hardware	Food & Beverage Recipes	Markdown recipe format and cli tool	
+nilbuild/design-patterns-for-humans	48935	NONE	hardware	Furniture & Housing	An ultra-simplified explanation to design patterns	
+karanpratapsingh/system-design	46823	NOASSERTION	hardware	Furniture & Housing	Learn how to design systems at scale and prepare for system design interviews	
+mingrammer/diagrams	42796	MIT	hardware	Furniture & Housing	:art: Diagram as Code for prototyping cloud system architectures	
+go-kratos/kratos	26016	MIT	hardware	Furniture & Housing	Your ultimate Go microservices framework for the cloud-native era.	
+davideuler/architecture.of.internet-product	20787	NONE	hardware	Furniture & Housing	互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充	
+ardalis/CleanArchitecture	18539	MIT	hardware	Furniture & Housing	Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10	
+Sairyss/domain-driven-hexagon	15012	MIT	hardware	Furniture & Housing	Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included	
+pointfreeco/swift-composable-architecture	15006	MIT	hardware	Furniture & Housing	A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.	
+abpframework/abp	14470	LGPL-3.0	hardware	Furniture & Housing	Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup te	
+kgrzybek/modular-monolith-with-ddd	14128	MIT	hardware	Furniture & Housing	Full Modular Monolith application with Domain-Driven Design approach.	
+alibaba/COLA	13088	LGPL-2.1	hardware	Furniture & Housing	🥤 COLA: Clean Object-oriented & Layered Architecture	
+aspnetboilerplate/aspnetboilerplate	11998	MIT	hardware	Furniture & Housing	ASP.NET Boilerplate - Web Application Framework	
+futurice/ios-good-practices	10980	NOASSERTION	hardware	Furniture & Housing	Good ideas for iOS development, by Futurice developers.	
+Agents365-ai/drawio-skill	10623	MIT	hardware	Furniture & Housing	Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard deras	
+JessYanCoding/MVPArms	10222	Apache-2.0	hardware	Furniture & Housing	⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架). 	
+bxcodec/go-clean-arch	10184	MIT	hardware	Furniture & Housing	Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture	
+shashank88/system_design	9291	NONE	hardware	Furniture & Housing	Preparation links and resources for system design questions	
+uber/RIBs	7951	Apache-2.0	hardware	Furniture & Housing	Uber's cross-platform mobile architecture framework - Android Repository	
+plantuml-stdlib/C4-PlantUML	7452	MIT	hardware	Furniture & Housing	C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures	
+doocs/technical-books	7025	CC-BY-SA-4.0	hardware	Furniture & Housing	😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...	
+igorwojda/android-showcase	6807	MIT	hardware	Furniture & Housing	💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...	
+EduardoPires/EquinoxProject	6784	MIT	hardware	Furniture & Housing	Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices	
+nWidart/laravel-modules	6222	MIT	hardware	Furniture & Housing	Module Management In Laravel	
+amitshekhariitbhu/go-backend-clean-architecture	6174	Apache-2.0	hardware	Furniture & Housing	A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.	
+likec4/likec4	6041	MIT	hardware	Furniture & Housing	Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code	
+sezanzeb/input-remapper	6037	GPL-3.0	hardware	Gaming Hardware & Controllers	🎮 ⌨ An easy to use tool to change the behaviour of your input devices.	
+AntiMicroX/antimicrox	4066	GPL-3.0	hardware	Gaming Hardware & Controllers	Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.	
+ndeadly/MissionControl	3609	GPL-2.0	hardware	Gaming Hardware & Controllers	Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.	
+atar-axis/xpadneo	2811	NOASSERTION	hardware	Gaming Hardware & Controllers	Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)	
+OpenStickCommunity/GP2040-CE	2590	MIT	hardware	Gaming Hardware & Controllers	Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards	
+LordOfMice/hidusbf	1403	NONE	hardware	Gaming Hardware & Controllers	USB Mice Overclocking Software (for Windows)	
+jurkovic-nikola/OpenLinkHub	1250	GPL-3.0	hardware	Gaming Hardware & Controllers	Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.	
+ricardoquesada/bluepad32	1174	NOASSERTION	hardware	Gaming Hardware & Controllers	Bluetooth gamepad, mouse and keyboard support for ESP32 and PicoW	
+FreeJoy-Team/FreeJoy	1051	GPL-3.0	hardware	Gaming Hardware & Controllers	STM32F103 USB HID game device controller with flexible configuration	
+shauleiz/vJoy	743	MIT	hardware	Gaming Hardware & Controllers	Virtual Joystick	
+daidr/dualsense-tester	593	MIT	hardware	Gaming Hardware & Controllers	🎮 Test your DualSense (and Edge) or DualShock 4 in your browser!	
+daemon3000/InputManager	593	NOASSERTION	hardware	Gaming Hardware & Controllers	Custom InputManager for Unity	
+vaneenige/unswitch	571	MIT	hardware	Gaming Hardware & Controllers	🕹 A tiny event handler for Switch controllers!	
+Ohjurot/DualSense-Windows	446	NOASSERTION	hardware	Gaming Hardware & Controllers	Windows API for the PS5 DualSense controller	
+briankendall/devreorder	417	NONE	hardware	Gaming Hardware & Controllers	A utility for reordering and hiding DirectInput controllers	
+PatrickHallek/automated-irrigation-system	781	NONE	hardware	Garden, Irrigation & Pool Controllers	This is the software of an open source automated irrigation system. The complete setup including hardware can be found in the README.	
+rgc99/irrigation_unlimited	469	MIT	hardware	Garden, Irrigation & Pool Controllers	♒Irrigation controller for Home Assistant	
+yunnet/gardens	349	NONE	hardware	Garden, Irrigation & Pool Controllers	:gem: IoT background management platform :heavy_plus_sign: 开源交流群：202196300	
+Jarzka/stylefy	321	MIT	hardware	Garden, Irrigation & Pool Controllers	Clojure(Script) library for styling user interface components.	
+morkro/happy-plants	296	BSD-3-Clause	hardware	Garden, Irrigation & Pool Controllers	🌵 Web application to manage plants	
+mudpi/mudpi-core	282	NONE	hardware	Garden, Irrigation & Pool Controllers	Configurable automation library for linux SBC boards including raspberry pi	
+vinteo/hass-opensprinkler	264	MIT	hardware	Garden, Irrigation & Pool Controllers	OpenSprinkler Integration for Home Assistant	
+green-coder/girouette	206	MIT	hardware	Garden, Irrigation & Pool Controllers	Grammar-based, generative approach to CSS.	
+Pragmatismo/Pigrow	167	GPL-3.0	hardware	Garden, Irrigation & Pool Controllers	Raspberry Pi Grow Box Control Software	
+waldoj/frostline	165	MIT	hardware	Garden, Irrigation & Pool Controllers	A dataset, API, and parser for USDA plant hardiness zones.	
+vrachieru/plant-database	125	NONE	hardware	Garden, Irrigation & Pool Controllers	Plant database with information regarding classification, features and maintenance.	
+laszlodaniel/ModularHydroponicTowerGarden	100	GPL-3.0	hardware	Garden, Irrigation & Pool Controllers	A modular 3D-printable hydroponic tower garden with Arduino based water pump controller.	
+Ecohackerfarm/powerplant	96	NOASSERTION	hardware	Garden, Irrigation & Pool Controllers	Optimize and assist planning your garden	
+MTry/homebridge-smart-irrigation	90	MIT	hardware	Garden, Irrigation & Pool Controllers	Turn any electrical irrigation valve into a smart-valve.. or run your pumps on a smart schedule based on your climate! This homebridge plugin exposes a multi-zone irrigation sprinkler dummy control system to Apple's HomeKit. Although a dummy, it brings smarts 	
+rianadon/opensprinkler-card	88	NOASSERTION	hardware	Garden, Irrigation & Pool Controllers	Home Assistant card for collecting OpenSprinkler status	
+snazzybean/roommind	425	MIT	hardware	HVAC & Heat Pumps	Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling	
+fredlcore/BSB-LAN	366	NONE	hardware	HVAC & Heat Pumps	Monitor and control heating systems with a Siemens® controller used by Elco®, Brötje®, Atlantic® and other heating systems with a Boiler-System-Bus (BSB), Local Process Bus (LPB) or Punkt-zu-Punkt Schnittstelle (PPS). Easy integration into your home automation	
+blues-sechseck/Mitsubishi-WF-RAC-Integration	311	MIT	hardware	HVAC & Heat Pumps	Home Assistant integration for Mitsubishi Heavy Industries air conditioners with the WF-RAC Wi-Fi module (Smart M-Air app). Local control, no cloud. Not for Mitsubishi Electric/MELCloud.	
+psychrometrics/psychrolib	310	MIT	hardware	HVAC & Heat Pumps	📚 Library of psychrometric functions to calculate 🌡️ thermodynamic properties  of air for Python, C, C#, Fortran, R, JavaScript and VBA/Excel	
+hiall-fyi/tado_ce	179	AGPL-3.0	hardware	HVAC & Heat Pumps	Tado integration for Home Assistant with local HomeKit control, multi-home support, Smart Valve Control and Weather Compensation. Community-maintained and independent of Tado.	
+bbartling/open-fdd	178	NOASSERTION	hardware	HVAC & Heat Pumps	Fault Detection Diagnostics (FDD) for HVAC datasets	
+arthurkrupa/gree-hvac-mqtt-bridge	167	GPL-3.0	hardware	HVAC & Heat Pumps	MQTT Bridge for controlling Gree smart air conditioners, e.g. with Home Assistant or OpenHAB	
+TomLXXVI/python-hvac	147	MIT	hardware	HVAC & Heat Pumps	A multi-package for HVAC engineering written in Python.	
+andrew-blake/melcloudhome	143	MIT	hardware	HVAC & Heat Pumps	MELCloudHome - Home Assistant Integration	
+bjrnptrsn/climate_group_helper	137	MIT	hardware	HVAC & Heat Pumps	Climate Group Helper for Home Assistant: Orchestrate single or multiple TRVs, ACs, and heaters. Features a built-in custom Dashboard card, native TRV calibration, window & presence control, schedules, virtual presets, and smart sync modes.	
+azogue/psychrochart	126	MIT	hardware	HVAC & Heat Pumps	A Python 3 library to make psychrometric charts and overlay information on them.	
+joshbenner/esphome-daikin-s21	113	GPL-3.0	hardware	HVAC & Heat Pumps	ESPHome Component for Daikin Mini-Splits using the S21 serial port.	
+gunkl/ClimateAdvisor	103	MIT	hardware	HVAC & Heat Pumps	Weather-aware HVAC automation with thermal learning	
+gcormier/esphome-pressure	102	NONE	hardware	HVAC & Heat Pumps	esphome board with a differential pressure sensor, supporting a variety of power sources	
+daniloc/ThermTerm	100	MIT	hardware	HVAC & Heat Pumps	Open source heat pump controller and home automation terminal, built on ESP32	
+wuwentao/midea_ac_lan	1940	MIT	hardware	Home Appliances & Repair	Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.	
+georgezhao2010/midea_ac_lan	1831	MIT	hardware	Home Appliances & Repair	Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.	
+nextcloud/vm	1569	GPL-3.0	hardware	Home Appliances & Repair	💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.	

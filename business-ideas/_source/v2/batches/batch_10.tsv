@@ -1,0 +1,380 @@
+beclab/Olares	5350	AGPL-3.0	hosting	Homelab & Self-Hosting Platforms	Open-Source Personal Cloud OS for Always-On Agents	
+Pouzor/homelable	4927	MIT	hosting	Homelab & Self-Hosting Platforms	Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring	
+geerlingguy/mini-rack	4074	GPL-3.0	hosting	Homelab & Self-Hosting Platforms	Miniature rack builds, for portable or compact Homelabs.	
+arnegiacomo/fugleramme	3998	MIT	hosting	Homelab & Self-Hosting Platforms	Bird frame for Raspberry Pi or your homelab - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.	
+davestephens/ansible-nas	3799	MIT	hosting	Homelab & Self-Hosting Platforms	Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.	
+av/harbor	3263	Apache-2.0	hosting	Homelab & Self-Hosting Platforms	Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.	
+snapotter-hq/SnapOtter	2950	AGPL-3.0	hosting	Homelab & Self-Hosting Platforms	Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network.	
+rtr7/router7	2774	Apache-2.0	hosting	Homelab & Self-Hosting Platforms	router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.	
+Dictionarry-Hub/profilarr	2769	AGPL-3.0	hosting	Homelab & Self-Hosting Platforms	Configuration Management Platform for Radarr/Sonarr	
+GhostWriters/DockSTARTer	2573	MIT	hosting	Homelab & Self-Hosting Platforms	DockSTARTer helps you get started with running apps in Docker.	
+mag37/dockcheck	2544	GPL-3.0	hosting	Homelab & Self-Hosting Platforms	CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more. 	
+tailscale-dev/ScaleTail	2219	MIT	hosting	Homelab & Self-Hosting Platforms	Ready-to-run Docker Compose stacks for 120+ self-hosted apps, each with a Tailscale sidecar and automatic HTTPS	
+ChristianLempa/homelab	2144	MIT	hosting	Homelab & Self-Hosting Platforms	This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.	
+fccview/jotty	2036	AGPL-3.0	hosting	Homelab & Self-Hosting Platforms	Lightweight but powerful alternative for managing your personal, file based, notes and checklists. 	
+billabear/billabear	761	NOASSERTION	hosting	Hosting Billing & Automation	Subscription Management and Billing System	
+Aetherinox/csf-firewall	389	NOASSERTION	hosting	Hosting Billing & Automation	ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.	
+MugglePay/MugglePay	241	BSD-2-Clause	hosting	Hosting Billing & Automation	Make Payments Crypto Native. MugglePay makes merchants and AI agents accept crypto and sell more with it.	
+MythicalLTD/PeltyCMS	232	NOASSERTION	hosting	Hosting Billing & Automation	Self-hosted billing and automation for hosting companies (Rust + React).	
+pterodactyl/whmcs	213	MIT	hosting	Hosting Billing & Automation	WHMCS Module for Pterodactyl (v0.7.3 and higher)	
+Rodots/WHMCS-zh-CN	201	MIT	hosting	Hosting Billing & Automation	WHMCS 简体中文语言包，适用于 v7.x-9.x	
+Panelica/pnlcs	119	MIT	hosting	Hosting Billing & Automation	🧾 Open-source WHMCS alternative — self-hosted hosting billing & client portal. Laravel 13 + MySQL. Invoicing, domains, SSL, tickets, reseller, multi-language (30 locales), 16 themes. Free & MIT-licensed. Docs: https://docs.pnlcs.com	
+wohahobg/pterosync	114	NONE	hosting	Hosting Billing & Automation	PteroSync new WHMCS Pterodactyl Module	
+PteroCA-Org/panel	108	MIT	hosting	Hosting Billing & Automation	Free, open-source client management panel for Pterodactyl servers with integrated credit-based billing for automated server management.	
+PhyreApps/PhyrePanel	99	GPL-3.0	hosting	Hosting Billing & Automation	PhyrePanel - Open source web hosting control panel based on linux. Control your websites easly with PHYRE Panel!	
+AlameerAshraf/tokentoll	78	NONE	hosting	Hosting Billing & Automation	🐾 TokenToll: is a self-hostable billing infrastructure for LLM APIs and SaaS products. Drop-in SDKs for Node.js and Python, YAML-defined pricing plans, Stripe adapter, and a real-time usage dashboard | The open-source alternative to Lago and Orb.	
+metallicgloss/WHMCS-Discord-Notifications	75	MPL-2.0	hosting	Hosting Billing & Automation	A hook to push a range of different WHMCS notifications instantly to a Discord channel.	
+getnamingo/registrar	68	MIT	hosting	Hosting Billing & Automation	Open source ICANN-accredited domain registrar management system.	
+moneo/WHMCS-SmsModule	67	MIT	hosting	Hosting Billing & Automation	SMS notification addon for WHMCS 8.x - 14 gateways, 28+ automated hooks, PHP 8.2 compatible	
+darthsoup/laravel-whmcs	64	MIT	hosting	Hosting Billing & Automation	WHMCS API for Laravel	
+glitternetwork/pinme	3753	MIT	hosting	Hosting Control Panels	Deploy Your Frontend in a Single Command. Claude Code Skills supported.	
+schollz/hostyoself	1849	MIT	hosting	Hosting Control Panels	Host yo' self from your browser, your phone, your toaster.	
+jhd3197/ServerKit	1825	MIT	hosting	Hosting Control Panels	ServerKit is a lightweight, modern server control panel for managing web applications, databases, and services on your VPS or dedicated server. Built with Python/Flask backend and React frontend.	
+Safe3/openresty-manager	1478	AGPL-3.0	hosting	Hosting Control Panels	Modern, secure, and elegant server control panel, alternative to OpenResty Edge and Nginx Proxy Manager.	
+zwave-js/zwave-js-ui	1252	MIT	hosting	Hosting Control Panels	Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify	
+cipi-sh/cipi	1151	MIT	hosting	Hosting Control Panels	Easy Laravel Deployments	
+ovexro/dockpanel	988	AGPL-3.0	hosting	Hosting Control Panels	Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel.	
+dropways/deskapp	941	MIT	hosting	Hosting Control Panels	DeskApp Admin is a free to use Bootstrap 4 admin template.	
+stefanpejcic/OpenPanel	768	NOASSERTION	hosting	Hosting Control Panels	Open source web hosting control panel built around containers ✌️	
+crivion/laranode	751	MIT	hosting	Hosting Control Panels	Free Hosting Panel - Easily manage your VPS/dedicated machine with Laranode (a cPanel/Plesk alternative) 	
+sentora/sentora-core	676	GPL-3.0	hosting	Hosting Control Panels	Sentora is a web hosting control panel written in PHP for *NIX	
+OSPanel/OpenServerPanel	518	NOASSERTION	hosting	Hosting Control Panels	Software environment for web development	
+jub0t/Mechon	292	MIT	hosting	Hosting Control Panels	A self-hosted web-based dashboard panel to deploy, host, and manage Discord Bots.	
+rathena/FluxCP	225	LGPL-3.0	hosting	Hosting Control Panels	A web-based Control Panel for rAthena servers written in PHP. Manage player accounts, databases, support tickets, etc via your browser.	
+i-MSCP/imscp	222	NOASSERTION	hosting	Hosting Control Panels	i-MSCP - internet Multi-Server Control Panel	
+apache/casbin	20482	Apache-2.0	hosting	Identity, SSO & Auth	Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.	
+dromara/Sa-Token	19111	Apache-2.0	hosting	Identity, SSO & Auth	✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名	
+apereo/cas	11393	Apache-2.0	hosting	Identity, SSO & Auth	Apereo CAS - Identity & Single Sign On for all earthlings and beyond.	
+tinyauthapp/tinyauth	8484	AGPL-3.0	hosting	Identity, SSO & Auth	The tiniest OpenID Certified™ authorization and authentication server you have ever seen.	
+smallstep/cli	4366	Apache-2.0	hosting	Identity, SSO & Auth	🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.	
+Smaug6739/Alexandrie	3880	MIT	hosting	Identity, SSO & Auth	📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.	
+thephpleague/oauth2-client	3819	MIT	hosting	Identity, SSO & Auth	Easy integration with OAuth 2.0 service providers.	
+pgrok/pgrok	3646	MIT	hosting	Identity, SSO & Auth	Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding	
+vouch/vouch-proxy	3285	MIT	hosting	Identity, SSO & Auth	an SSO and OAuth / OIDC login solution for Nginx using the auth_request module	
+java-aodeng/hope-boot	3228	GPL-3.0	hosting	Identity, SSO & Auth	🌱 一款现代化的脚手架项目	
+voidauth/voidauth	2905	AGPL-3.0	hosting	Identity, SSO & Auth	Single Sign-On for Your Self-Hosted Universe	
+pac4j/pac4j	2538	Apache-2.0	hosting	Identity, SSO & Auth	Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...	
+jwadow/kiro-gateway	2352	AGPL-3.0	hosting	Identity, SSO & Auth	👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.	
+a466350665/smart-sso	2300	MIT	hosting	Identity, SSO & Auth	SpringBoot single sign-on authentication and authorization, implemented with OAuth 2.0, supporting cross-domain and distributed deployment.	
+greenpau/caddy-security	2277	Apache-2.0	hosting	Identity, SSO & Auth	🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎	
+ory/polis	2272	Apache-2.0	hosting	Identity, SSO & Auth	Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisionin	
+authgear/authgear-server	2146	Apache-2.0	hosting	Identity, SSO & Auth	Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps	
+xuxueli/xxl-sso	2009	GPL-3.0	hosting	Identity, SSO & Auth	A distributed single-sign-on framework.（单点登录框架XXL-SSO）	
+Tapadoo/Alerter	5501	MIT	hosting	Incident Management & Alerting	An Android Alerting Library	
+HolmesGPT/holmesgpt	3812	Apache-2.0	hosting	Incident Management & Alerting	SRE Agent - CNCF Sandbox Project	
+mikeroyal/Digital-Forensics-Guide	3222	NONE	hosting	Incident Management & Alerting	Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.	
+prymitive/karma	2691	Apache-2.0	hosting	Incident Management & Alerting	Alert dashboard for Prometheus Alertmanager	
+slok/sloth	2568	Apache-2.0	hosting	Incident Management & Alerting	🦥 Easy and simple Prometheus SLO (service level objectives) generator	
+megaease/easeprobe	2297	Apache-2.0	hosting	Incident Management & Alerting	A simple, standalone, and lightweight tool that can do health/status checking, written in Go.	
+austinsonger/Incident-Playbook	1608	MIT	hosting	Incident Management & Alerting	GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]	
+monzo/response	1556	MIT	hosting	Incident Management & Alerting	Monzo's real-time incident response and reporting tool ⚡️	
+opendatadiscovery/odd-platform	1441	Apache-2.0	hosting	Incident Management & Alerting	First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.	
+sentinl/sentinl	1319	Apache-2.0	hosting	Incident Management & Alerting	Kibana Alert & Report App for Elasticsearch	
+ongridio/ongrid	1266	AGPL-3.0	hosting	Incident Management & Alerting	An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.	
+OpenNMS/opennms	1180	NOASSERTION	hosting	Incident Management & Alerting	Enterprise-Grade Open-Source Network Management Platform	
+mikeroyal/Open-Source-Security-Guide	1118	NONE	hosting	Incident Management & Alerting	Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks. 	
+sensu/sensu-go	1114	MIT	hosting	Incident Management & Alerting	Simple. Scalable. Multi-cloud monitoring.	
+cyb3rfox/Aurora-Incident-Response	1089	Apache-2.0	hosting	Incident Management & Alerting	Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders	
+aws/aws-cdk	12969	Apache-2.0	hosting	Infrastructure as Code & Config	The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code	
+infracost/infracost	12613	Apache-2.0	hosting	Infrastructure as Code & Config	Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!	
+meshery/meshery	12147	Apache-2.0	hosting	Infrastructure as Code & Config	Meshery, the cloud native manager	
+bridgecrewio/checkov	9141	Apache-2.0	hosting	Infrastructure as Code & Config	Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.	
+Orange-Cyberdefense/GOAD	8590	GPL-3.0	hosting	Infrastructure as Code & Config	game of active directory	
+aquasecurity/tfsec	7060	MIT	hosting	Infrastructure as Code & Config	Tfsec is now part of Trivy	
+goss-org/goss	6002	Apache-2.0	hosting	Infrastructure as Code & Config	Quick and Easy server testing/validation	
+decodingai-magazine/llm-twin-course	4408	MIT	hosting	Infrastructure as Code & Config	🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴	
+DNSControl/dnscontrol	3996	MIT	hosting	Infrastructure as Code & Config	Infrastructure as code for DNS!	
+octodns/octodns	3776	MIT	hosting	Infrastructure as Code & Config	Tools for managing DNS across multiple providers	
+fabio-rovai/open-ontologies	2838	MIT	hosting	Infrastructure as Code & Config	Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.	
+Checkmarx/kics	2730	Apache-2.0	hosting	Infrastructure as Code & Config	Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.	
+snyk/driftctl	2665	Apache-2.0	hosting	Infrastructure as Code & Config	Detect, track and alert on infrastructure drift	
+architect/architect	2629	Apache-2.0	hosting	Infrastructure as Code & Config	The simplest, most powerful way to build a functional web app (fwa)	
+pytest-dev/pytest-testinfra	2479	Apache-2.0	hosting	Infrastructure as Code & Config	Testinfra test your infrastructures	
+antonbabenko/terraform-skill	2451	NOASSERTION	hosting	Infrastructure as Code & Config	Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns	
+kcl-lang/kcl	2441	Apache-2.0	hosting	Infrastructure as Code & Config	KCL Language Core and API	
+cycloidio/terracognita	2397	MIT	hosting	Infrastructure as Code & Config	Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration	
+someengineering/fixinventory	2088	Apache-2.0	hosting	Infrastructure as Code & Config	Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.	
+nitrictech/nitric	2017	Apache-2.0	hosting	Infrastructure as Code & Config	Nitric is a multi-language framework for cloud applications with infrastructure from code.	
+camptocamp/terraboard	2011	Apache-2.0	hosting	Infrastructure as Code & Config	:earth_africa: :clipboard:  A web dashboard to inspect Terraform States 	
+lensapp/lens	23246	MIT	hosting	Kubernetes Platforms & Dashboards	Lens - The way the world runs Kubernetes	
+freelensapp/freelens	5797	MIT	hosting	Kubernetes Platforms & Dashboards	Free IDE for Kubernetes	
+devtron-labs/devtron	5634	Apache-2.0	hosting	Kubernetes Platforms & Dashboards	The only Kubernetes dashboard you need	
+skyhook-io/radar	4067	Apache-2.0	hosting	Kubernetes Platforms & Dashboards	The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.	
+robusta-dev/robusta	3136	MIT	hosting	Kubernetes Platforms & Dashboards	Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation	
+kubewall/kubewall	1949	Apache-2.0	hosting	Kubernetes Platforms & Dashboards	kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.	
+kubevious/kubevious	1794	Apache-2.0	hosting	Kubernetes Platforms & Dashboards	Kubevious - Kubernetes without disasters	
+KusionStack/karpor	1724	Apache-2.0	hosting	Kubernetes Platforms & Dashboards	Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams. 	
+deckhouse/deckhouse	1338	NOASSERTION	hosting	Kubernetes Platforms & Dashboards	Kubernetes platform from Flant	
+unxsist/jet-pilot	661	MIT	hosting	Kubernetes Platforms & Dashboards	A beautiful, native Kubernetes desktop client. Every cluster and cloud account in one place. Free and open source, no account, no telemetry.	
+atilladeniz/Kubeli	400	MIT	hosting	Kubernetes Platforms & Dashboards	A modern Kubernetes GUI management desktop app for macOS & Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more.	
+v5tech/vagrant-kubernetes-cluster	298	NONE	hosting	Kubernetes Platforms & Dashboards	Vagrant一键安装Kubernetes集群。安装 Metrics Server 、Kuboard 、Kubernetes Dashboard、KubePi、Kubernetes集群监控prometheus-operator	
+kbterm/kubeterm	231	NONE	hosting	Kubernetes Platforms & Dashboards	Graphical management tool for Kubernetes on desktop and mobile.	
+hatoo/oha	10661	MIT	hosting	Load Testing & Performance	Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.	
+karatelabs/karate	9005	MIT	hosting	Load Testing & Performance	Test Automation Made Simple	
+getanteon/anteon	8513	AGPL-3.0	hosting	Load Testing & Performance	Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing	
+codesenberg/bombardier	6855	MIT	hosting	Load Testing & Performance	Fast cross-platform HTTP benchmarking tool written in Go	
+baidu/dperf	5654	Apache-2.0	hosting	Load Testing & Performance	dperf: High-Performance Network Load Testing Tool Based on DPDK	
+session-replay-tools/tcpcopy	4687	NOASSERTION	hosting	Load Testing & Performance	An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.	
+six-ddc/plow	4515	Apache-2.0	hosting	Load Testing & Performance	A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display	
+nakabonne/ali	3939	MIT	hosting	Load Testing & Performance	Generate HTTP load and plot the results in real-time	
+yandex/yandex-tank	2600	NOASSERTION	hosting	Load Testing & Performance	Load and performance benchmark tool	
+PragmaticFlow/NBomber	2247	NONE	hosting	Load Testing & Performance	Distributed load-testing framework for .NET. Create distributed load test scenarios entirely using plain C# or F#. It is designed to test any system regardless of the protocol or a semantic model (Pull/Push).	
+Blazemeter/taurus	2119	Apache-2.0	hosting	Load Testing & Performance	Automation-friendly framework for Continuous Testing by	
+stepci/stepci	1875	MPL-2.0	hosting	Load Testing & Performance	Automated API Testing and Quality Assurance	
+kffl/speedbump	1556	Apache-2.0	hosting	Load Testing & Performance	TCP proxy for simulating variable, yet predictable network latency :globe_with_meridians::hourglass_flowing_sand:	
+redis/memtier_benchmark	1055	GPL-2.0	hosting	Load Testing & Performance	NoSQL Redis and Memcache traffic generation and benchmarking tool.	
+tag1consulting/goose	1015	Apache-2.0	hosting	Load Testing & Performance	Load testing framework, inspired by Locust	
+gabime/spdlog	29740	NOASSERTION	hosting	Logging & Log Management	Fast C++ logging library.	
+sirupsen/logrus	25763	MIT	hosting	Logging & Log Management	Structured, pluggable logging for Go.	
+apache/skywalking	24994	Apache-2.0	hosting	Logging & Log Management	APM, Application Performance Monitoring System	
+uber-go/zap	24690	MIT	hosting	Logging & Log Management	Blazing fast, structured, leveled logging in Go.	
+Delgan/loguru	24154	MIT	hosting	Logging & Log Management	Python logging made (stupidly) simple	
+Seldaek/monolog	21403	MIT	hosting	Logging & Log Management	Sends your logs to files, sockets, inboxes, databases and various web services	
+gofr-dev/gofr	20816	Apache-2.0	hosting	Logging & Log Management	An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.	
+cool-RR/PySnooper	16573	MIT	hosting	Logging & Log Management	Never use print for debugging again	
+CocoaLumberjack/CocoaLumberjack	13320	BSD-3-Clause	hosting	Logging & Log Management	A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS	
+gogf/gf	13300	MIT	hosting	Logging & Log Management	A powerful framework for faster, easier, and more efficient project development.	
+rs/zerolog	12530	MIT	hosting	Logging & Log Management	Zero Allocation JSON Logger	
+debug-js/debug	11457	MIT	hosting	Logging & Log Management	A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers	
+tstack/lnav	10786	BSD-2-Clause	hosting	Logging & Log Management	Log file navigator	
+pocoproject/poco	9495	NOASSERTION	hosting	Logging & Log Management	The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.	
+gaogaotiantian/viztracer	7775	Apache-2.0	hosting	Logging & Log Management	A debugging and profiling tool that can trace and visualize python code execution	
+kean/Pulse	7256	MIT	hosting	Logging & Log Management	Network logger for Apple platforms	
+tokio-rs/tracing	6958	MIT	hosting	Logging & Log Management	Application level tracing for Rust.	
+grpc-ecosystem/go-grpc-middleware	6761	Apache-2.0	hosting	Logging & Log Management	Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.	
+microsoft/FASTER	6635	MIT	hosting	Logging & Log Management	Fast persistent recoverable log and key-value store + cache, in C# and C++.	
+open-telemetry/opentelemetry-go	6601	Apache-2.0	hosting	Logging & Log Management	OpenTelemetry Go API and SDK	
+NLog/NLog	6545	BSD-3-Clause	hosting	Logging & Log Management	NLog - Flexible and Structured Logging for various .NET Platforms	
+SwiftyBeaver/SwiftyBeaver	6044	MIT	hosting	Logging & Log Management	Convenient & secure logging during development & release in Swift 4 & 5	
+itsgoingd/clockwork	5947	MIT	hosting	Logging & Log Management	Clockwork - php dev tools in your browser - server-side component	
+niieani/bash-oo-framework	5620	MIT	hosting	Logging & Log Management	Bash Infinity is a modern standard library / framework / boilerplate for Bash	
+hynek/structlog	4992	NOASSERTION	hosting	Logging & Log Management	Simple, powerful, and fast logging for Python.	
+bloc97/Anime4K	21609	MIT	hosting	Media Transcoding Infrastructure	A High-Quality Real Time Upscaler for Anime Video	
+storytold/filmcraft	17736	Apache-2.0	hosting	Media Transcoding Infrastructure	FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust	
+memvid/memvid	17383	Apache-2.0	hosting	Media Transcoding Infrastructure	Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.	
+AaronFeng753/Waifu2x-Extension-GUI	17194	NOASSERTION	hosting	Media Transcoding Infrastructure	Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.	
+Zulko/moviepy	15118	MIT	hosting	Media Transcoding Infrastructure	Video editing with Python	
+gyroflow/gyroflow	9690	GPL-3.0	hosting	Media Transcoding Infrastructure	Video stabilization using gyroscope data	
+Lake1059/FFmpegFreeUI	8495	MIT	hosting	Media Transcoding Infrastructure	3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。	
+modelscope/FunClip	6506	MIT	hosting	Media Transcoding Infrastructure	FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.	
+wiltodelta/remove-ai-watermarks	6305	Apache-2.0	hosting	Media Transcoding Infrastructure	Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.	
+Breakthrough/PySceneDetect	5403	BSD-3-Clause	hosting	Media Transcoding Infrastructure	:movie_camera: Python and OpenCV-based scene cut/transition detection program & library.	
+kajisho5/ffmpeg-skill	4713	MIT	hosting	Media Transcoding Infrastructure	Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.	
+abhiTronix/vidgear	3734	Apache-2.0	hosting	Media Transcoding Infrastructure	A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:	
+tvheadend/tvheadend	3578	GPL-3.0	hosting	Media Transcoding Infrastructure	Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources	
+towhee-io/towhee	3452	Apache-2.0	hosting	Media Transcoding Infrastructure	Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.	
+Djdefrag/QualityScaler	3238	MIT	hosting	Media Transcoding Infrastructure	QualityScaler - image/video AI upscaler app	
+tnfe/FFCreator	3164	MIT	hosting	Media Transcoding Infrastructure	A fast video processing library based on node.js (一个基于node.js的高速视频制作库)	
+staxrip/staxrip	3028	MIT	hosting	Media Transcoding Infrastructure	🎞 Video encoding GUI for Windows.	
+williamyang1991/Rerender_A_Video	2997	NOASSERTION	hosting	Media Transcoding Infrastructure	[SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation	
+numz/ComfyUI-SeedVR2_VideoUpscaler	2971	Apache-2.0	hosting	Media Transcoding Infrastructure	Official SeedVR2 Video Upscaler for ComfyUI	
+chengyi-ai/native-subtitle-quote-image	2860	MIT	hosting	Media Transcoding Infrastructure	保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill	
+GyanD/codexffmpeg	2603	NONE	hosting	Media Transcoding Infrastructure	Support for https://www.gyan.dev/ffmpeg	
+ErickWendel/semana-javascript-expert08	2435	NONE	hosting	Media Transcoding Infrastructure	JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏	
+MetalPetal/MetalPetal	2199	MIT	hosting	Media Transcoding Infrastructure	A GPU accelerated image and video processing framework built on Metal.	
+TianZerL/Anime4KCPP	2042	GPL-3.0	hosting	Media Transcoding Infrastructure	A high performance anime upscaler	
+simdutf/simdutf	2018	Apache-2.0	hosting	Media Transcoding Infrastructure	Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybird, Chromium, Cloudflare Workers,  Ghostty and Bun.	
+redis/redis	77277	NOASSERTION	hosting	Message Queues & Streaming	For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.	
+nsqio/nsq	25774	MIT	hosting	Message Queues & Streaming	A realtime distributed messaging platform	
+OptimalBits/bull	16263	NOASSERTION	hosting	Message Queues & Streaming	Premium Queue package for handling distributed jobs and messages in NodeJS.	
+pgmq/pgmq	5390	PostgreSQL	hosting	Message Queues & Streaming	A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.	
+goldbergyoni/nodejs-testing-best-practices	4402	NONE	hosting	Message Queues & Streaming	Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)	
+vernemq/vernemq	3649	Apache-2.0	hosting	Message Queues & Streaming	A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!	
+superstreamlabs/memphis	3442	NOASSERTION	hosting	Message Queues & Streaming	Memphis.dev is a highly scalable and effortless data streaming platform	
+bloomberg/blazingmq	3221	Apache-2.0	hosting	Message Queues & Streaming	A modern high-performance open source message queuing system	
+celery/kombu	3152	BSD-3-Clause	hosting	Message Queues & Streaming	Messaging library for Python.	
+qunarcorp/qmq	2820	Apache-2.0	hosting	Message Queues & Streaming	 QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。	
+liftbridge-io/liftbridge	2804	Apache-2.0	hosting	Message Queues & Streaming	Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.	
+rebus-org/Rebus	2676	NOASSERTION	hosting	Message Queues & Streaming	:bus: Simple and lean service bus implementation for .NET	
+poundifdef/smoothmq	2289	AGPL-3.0	hosting	Message Queues & Streaming	An improved drop-in replacement for SQS	
+php-enqueue/enqueue-dev	2221	MIT	hosting	Message Queues & Streaming	Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro	
+streamdal/plumber	2154	MIT	hosting	Message Queues & Streaming	A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.	
+ruvnet/RuView	102807	MIT	hosting	Monitoring & Observability	π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.	
+koala73/worldmonitor	90307	AGPL-3.0	hosting	Monitoring & Observability	Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface	
+Unitech/pm2	43323	NOASSERTION	hosting	Monitoring & Observability	Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.	
+glanceapp/glance	38069	AGPL-3.0	hosting	Monitoring & Observability	A self-hosted dashboard that puts all your feeds in one place	
+nicolargo/glances	33907	NOASSERTION	hosting	Monitoring & Observability	Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.	
+taosdata/TDengine	25187	AGPL-3.0	hosting	Monitoring & Observability	High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios	
+osquery/osquery	23742	NOASSERTION	hosting	Monitoring & Observability	SQL powered operating system instrumentation, monitoring, and analytics.	
+pranshuparmar/witr	22953	Apache-2.0	hosting	Monitoring & Observability	Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 	
+didi/DoKit	20414	Apache-2.0	hosting	Monitoring & Observability	一款面向泛前端产品研发全生命周期的效率平台。	
+bettercap/bettercap	20242	NOASSERTION	hosting	Monitoring & Observability	The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.	
+dianping/cat	18935	Apache-2.0	hosting	Monitoring & Observability	CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。	
+influxdata/telegraf	17897	MIT	hosting	Monitoring & Observability	Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.	
+bcicen/ctop	17848	MIT	hosting	Monitoring & Observability	Top-like interface for container metrics	
+winsiderss/systeminformer	16437	MIT	hosting	Monitoring & Observability	A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com	
+sqshq/sampler	14813	GPL-3.0	hosting	Monitoring & Observability	Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.	
+ClementTsang/bottom	14166	MIT	hosting	Monitoring & Observability	Yet another cross-platform graphical process/system monitor.	
+pinpoint-apm/pinpoint	13870	Apache-2.0	hosting	Monitoring & Observability	APM, (Application Performance Management) tool for large-scale distributed systems. 	
+ccfos/nightingale	13462	Apache-2.0	hosting	Monitoring & Observability	Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.	
+SigmaHQ/sigma	11424	NOASSERTION	hosting	Monitoring & Observability	Main Sigma Rule Repository	
+giampaolo/psutil	11317	BSD-3-Clause	hosting	Monitoring & Observability	Cross-platform lib for process and system monitoring in Python	
+Syllo/nvtop	11127	NOASSERTION	hosting	Monitoring & Observability	GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm	
+tariqbuilds/linux-dash	10578	MIT	hosting	Monitoring & Observability	A beautiful web dashboard for Linux	
+nezhahq/nezha	10392	WTFPL	hosting	Monitoring & Observability	:trollface: Self-hosted, lightweight server and website monitoring and O&M tool	
+ClickHouse/ClickStack	9996	MIT	hosting	Monitoring & Observability	Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.	
+prometheus-operator/prometheus-operator	9993	Apache-2.0	hosting	Monitoring & Observability	Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes	
+GyulyVGC/sniffnet	41954	Apache-2.0	hosting	Network Management & IPAM	Comfortably monitor your network traffic 🕵️‍♂️	
+orf/gping	12733	MIT	hosting	Network Management & IPAM	Ping, but with a graph	
+stamparm/maltrail	8653	MIT	hosting	Network Management & IPAM	Malicious traffic detection system	
+arkime/arkime	7564	Apache-2.0	hosting	Network Management & IPAM	Arkime is an open source, large scale, full packet capturing, indexing, and database system.	
+3proxy/3proxy	5578	NOASSERTION	hosting	Network Management & IPAM	3proxy - tiny free proxy server	
+domcyrus/rustnet	5215	Apache-2.0	hosting	Network Management & IPAM	Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.	
+ChuckerTeam/chucker	4588	Apache-2.0	hosting	Network Management & IPAM	🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)	
+openspeedtest/Speed-Test	3845	MIT	hosting	Network Management & IPAM	SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. 	
+kasketis/netfox	3752	MIT	hosting	Network Management & IPAM	A lightweight, one line setup, iOS / OSX network debugging library! 🦊	
+matthart1983/netwatch	3580	MIT	hosting	Network Management & IPAM	Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.	
+unpoller/unpoller	2738	MIT	hosting	Network Management & IPAM	Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus	
+pwittchen/ReactiveNetwork	2522	Apache-2.0	hosting	Network Management & IPAM	 Android library listening network connection state and Internet connectivity with RxJava Observables	
+veops/cmdb	2277	AGPL-3.0	hosting	Network Management & IPAM	CMDB: configuration and management of IT resources	
+whataa/pandora	1490	Apache-2.0	hosting	Network Management & IPAM	an android library for debugging what we care about directly in app.	
+dotpcap/sharppcap	1485	NONE	hosting	Network Management & IPAM	Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets	
+awslabs/mountpoint-s3	5797	Apache-2.0	hosting	Object Storage	A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.	
+cubefs/cubefs	5691	Apache-2.0	hosting	Object Storage	cloud-native distributed storage	
+treeverse/lakeFS	5578	NOASSERTION	hosting	Object Storage	lakeFS - Data version control for your data lake | Git for data	
+slatedb/slatedb	3624	Apache-2.0	hosting	Object Storage	A cloud native embedded storage engine built on object storage.	
+storj/storj	3284	AGPL-3.0	hosting	Object Storage	Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.	
+Barre/ZeroFS	3175	AGPL-3.0	hosting	Object Storage	ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. 	
+versity/versitygw	3106	Apache-2.0	hosting	Object Storage	A simple to deploy but feature rich S3 object storage server for your filesystem	
+NVIDIA/aistore	1958	MIT	hosting	Object Storage	AIStore: scalable storage for AI applications	
+supabase/storage	1352	Apache-2.0	hosting	Object Storage	S3 compatible object storage service that stores metadata in Postgres	
+nitrite/nitrite-java	920	Apache-2.0	hosting	Object Storage	NoSQL embedded document store for Java	
+scality/Zenko	672	Apache-2.0	hosting	Object Storage	Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.	
+Just-Moh-it/Mockoops	596	MIT	hosting	Object Storage	Create 💎 beautiful animations from boring screen recordings within ⏳ seconds	
+achtungsoftware/alarik	580	Apache-2.0	hosting	Object Storage	High performance distributed S3 compatible object storage focused on speed and designed to be an open alternative to MinIO and RustFS.	
+NoKV-Lab/NoKV	510	Apache-2.0	hosting	Object Storage	The State Layer of Agent Sandbox	
+rootprint/rootprint	441	Apache-2.0	hosting	Object Storage	Open-source, self-hosted logs and traces with full-text search directly on S3-compatible object storage.	
+openshift/origin	8691	Apache-2.0	hosting	PaaS & Self-Hosted Heroku Alternatives	Conformance test suite for OpenShift	
+kubevela/kubevela	7920	Apache-2.0	hosting	PaaS & Self-Hosted Heroku Alternatives	The Modern Application Platform.	
+goodrain/rainbond	6295	NOASSERTION	hosting	PaaS & Self-Hosted Heroku Alternatives	Rainbond is an open-source container platform that requires no Kubernetes expertise. Its core capabilities are 100% open source.  It abstracts away infrastructure complexity and provides a unified way to deploy and manage business applications, AI-generated pr	
+ben1234560/k8s_PaaS	5469	MIT	hosting	PaaS & Self-Hosted Heroku Alternatives	如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。	
+tsuru/tsuru	5326	BSD-3-Clause	hosting	PaaS & Self-Hosted Heroku Alternatives	Open source and extensible Platform as a Service (PaaS).	
+taubyte/tau	5165	BSD-3-Clause	hosting	PaaS & Self-Hosted Heroku Alternatives	Fullstack Workspace for Humans & Machines	
+knative/docs	5109	NOASSERTION	hosting	PaaS & Self-Hosted Heroku Alternatives	User documentation for Knative components.	
+octelium/octelium	4157	AGPL-3.0	hosting	PaaS & Self-Hosted Heroku Alternatives	A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.	
+spacecloud-io/space-cloud	4001	Apache-2.0	hosting	PaaS & Self-Hosted Heroku Alternatives	Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes	
+remind101/empire	2676	BSD-2-Clause	hosting	PaaS & Self-Hosted Heroku Alternatives	A PaaS built on top of Amazon EC2 Container Service (ECS)	
+open-hand/choerodon	2395	Apache-2.0	hosting	PaaS & Self-Hosted Heroku Alternatives	Open Source Multi-Cloud Integrated Platform	
+1backend/1backend	2355	AGPL-3.0	hosting	PaaS & Self-Hosted Heroku Alternatives	Build AI (or any) apps with scalable microservices & microfrontends.	
+Websoft9/websoft9	2131	NOASSERTION	hosting	PaaS & Self-Hosted Heroku Alternatives	Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS	
+convox/rack	1888	NOASSERTION	hosting	PaaS & Self-Hosted Heroku Alternatives	Private PaaS built on native AWS services for maximum privacy and minimum upkeep	
+beam-cloud/beta9	1846	AGPL-3.0	hosting	PaaS & Self-Hosted Heroku Alternatives	Ultrafast serverless GPU inference, sandboxes, and background jobs	
+adnanh/webhook	12208	MIT	hosting	Realtime & Webhooks	webhook is a lightweight incoming webhook server to run shell commands	
+frappe/frappe	11063	MIT	hosting	Realtime & Webhooks	Low code web framework for real world applications, in Python and Javascript	
+textbee/textbee	3287	AGPL-3.0	hosting	Realtime & Webhooks	Open-source SMS gateway. Turn your Android phone into an SMS API: send and receive SMS from your apps over REST and webhooks. Self-hostable, with a free hosted plan.	
+Anil-matcha/open-agent-email	2129	Apache-2.0	hosting	Realtime & Webhooks	Open-source email infrastructure for AI agents: secure inboxes, REST and MCP APIs, SMTP, human approval workflows, signed webhooks, and Python and TypeScript SDKs. Self-host with Docker and PostgreSQL.	
+fabston/TradingView-Webhook-Bot	1898	MIT	hosting	Realtime & Webhooks	📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. 	
+standard-webhooks/standard-webhooks	1794	Apache-2.0	hosting	Realtime & Webhooks	The Standard Webhooks specification	
+Unpackerr/unpackerr	1525	MIT	hosting	Realtime & Webhooks	Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import	
+xataio/pgstream	1208	Apache-2.0	hosting	Realtime & Webhooks	PostgreSQL replication with DDL changes	
+spatie/laravel-webhook-client	1207	MIT	hosting	Realtime & Webhooks	Receive webhooks in Laravel apps	
+spatie/laravel-webhook-server	1083	MIT	hosting	Realtime & Webhooks	Send webhooks from Laravel apps	
+hookdeck/outpost	1079	Apache-2.0	hosting	Realtime & Webhooks	Open Source Outbound Webhooks and Event Destinations Infrastructure	
+wppconnect-team/wppconnect-server	1064	Apache-2.0	hosting	Realtime & Webhooks	Self-hosted WhatsApp REST API built on WPPConnect. Manage sessions, messages, media, contacts, groups and webhooks, with Docker deployment and the WPPConnect Manager UI.	
+go-playground/webhooks	1030	MIT	hosting	Realtime & Webhooks	:fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs	
+777genius/agent-notifications	827	NOASSERTION	hosting	Realtime & Webhooks	🔔 Cross-platform smart notifications for Claude/Codex/OpenCode/Cursor/Gemini/Qoder/Pi. Desktop alerts, sounds, click-to-focus, and webhooks. macOS, Linux, and Windows.	
+robswc/tradingview-webhooks-bot	778	GPL-3.0	hosting	Realtime & Webhooks	a framework 🏗 for trading with tradingview webhooks!	
+Termix-SSH/Termix	15875	Apache-2.0	hosting	Remote Desktop & VDI	Self-hosted, plugin-based server management.	
+FreeRDP/FreeRDP	13988	Apache-2.0	hosting	Remote Desktop & VDI	FreeRDP is a free remote desktop protocol library and clients	
+ClassicOldSong/Apollo	11473	GPL-3.0	hosting	Remote Desktop & VDI	Sunshine fork - The easiest way to stream with the native resolution of your client device	
+mRemoteNG/mRemoteNG	11191	GPL-2.0	hosting	Remote Desktop & VDI	mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.	
+H-M-H/Weylus	9756	NOASSERTION	hosting	Remote Desktop & VDI	Use your tablet as graphic tablet/touch screen on your computer.	
+galaxy-s10/billd-desk	9182	MIT	hosting	Remote Desktop & VDI	基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流	
+BornToBeRoot/NETworkManager	8881	GPL-3.0	hosting	Remote Desktop & VDI	A powerful open-source tool for managing networks and troubleshooting network problems!	
+AlkaidLab/foundation-sunshine	7820	GPL-3.0	hosting	Remote Desktop & VDI	Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.	
+1Remote/1Remote	6137	GPL-3.0	hosting	Remote Desktop & VDI	One Remote Access Manager to Rule Them All	
+kunkundi/crossdesk	4713	NOASSERTION	hosting	Remote Desktop & VDI	A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。	
+Saffsanity/sill	4668	Apache-2.0	hosting	Remote Desktop & VDI	Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.	
+miroslavpejic85/p2p	4087	MIT	hosting	Remote Desktop & VDI	🖥️ P2P Remote Desktop - Portable peer-to-peer remote desktop with no installation required.	
+kimmknight/remoteapptool	4031	NOASSERTION	hosting	Remote Desktop & VDI	Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.	
+Xpra-org/xpra	3049	GPL-2.0	hosting	Remote Desktop & VDI	Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.	
+jephersonRD/Maquina-V5	2481	NONE	hosting	Remote Desktop & VDI	Virtual Gaming PC v5 – Free Cloud Gaming with GPU (No Lag, Instant Access)	
+bk138/droidVNC-NG	2433	GPL-2.0	hosting	Remote Desktop & VDI	Android VNC remote desktop server for local networks	
+DarkCoderSc/PowerRemoteDesktop	2247	Apache-2.0	hosting	Remote Desktop & VDI	Remote Desktop entirely coded in PowerShell.	
+DigitalRuby/IPBan	2224	MIT	hosting	Remote Desktop & VDI	Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓	
+mikeroyal/Self-Hosting-Guide	23485	NONE	hosting	Reverse Proxy & Load Balancers	Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.	
+nginx-proxy/nginx-proxy	19935	MIT	hosting	Reverse Proxy & Load Balancers	Automated Nginx Reverse Proxy for Docker	
+snail007/goproxy	17146	GPL-3.0	hosting	Reverse Proxy & Load Balancers	🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,web	
+cloudflare/cloudflared	16467	Apache-2.0	hosting	Reverse Proxy & Load Balancers	Cloudflare Tunnel client	
+alibaba/tengine	13422	BSD-2-Clause	hosting	Reverse Proxy & Load Balancers	A high-performance web server and reverse proxy, 100% compatible with nginx.	
+ThreeMammals/Ocelot	8713	MIT	hosting	Reverse Proxy & Load Balancers	.NET API Gateway	
+go-gost/gost	7812	MIT	hosting	Reverse Proxy & Load Balancers	GO Simple Tunnel - a simple tunnel written in golang	
+bfenetworks/bfe	6272	Apache-2.0	hosting	Reverse Proxy & Load Balancers	A modern layer 7 load balancer from baidu	
+agentgateway/agentgateway	6018	Apache-2.0	hosting	Reverse Proxy & Load Balancers	Next Generation Agentic Proxy for AI Agents and MCP servers	
+easegress-io/easegress	5874	Apache-2.0	hosting	Reverse Proxy & Load Balancers	A Cloud Native traffic orchestration system. (CNCF Project)	
+ffay/lanproxy	5846	NONE	hosting	Reverse Proxy & Load Balancers	lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209	
+drk1wi/Modlishka	5441	GPL-3.0	hosting	Reverse Proxy & Load Balancers	Modlishka. Reverse Proxy.  	
+linguo2625469/workbuddy2api-panel	4738	MIT	hosting	Reverse Proxy & Load Balancers	把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支	
+yusing/godoxy	4178	NOASSERTION	hosting	Reverse Proxy & Load Balancers	High-performance reverse proxy and container orchestrator for self-hosters	
+BrowserBox/BrowserBox	3931	NOASSERTION	hosting	Reverse Proxy & Load Balancers	💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.	
+ardeyouxipianyi/workbuddy2api-hub	3652	MIT	hosting	Reverse Proxy & Load Balancers	WorkBuddy 国际国内多账号反代网关，支持 Codex / Claude Code / DSH与标准 OpenAI 客户端。	
+ory/oathkeeper	3611	Apache-2.0	hosting	Reverse Proxy & Load Balancers	A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.	
+dunglas/vulcain	3595	AGPL-3.0	hosting	Reverse Proxy & Load Balancers	🔨 Fast and idiomatic client-driven REST APIs.	
+abhinavsingh/proxy.py	3558	BSD-3-Clause	hosting	Reverse Proxy & Load Balancers	💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" 	
+dwgx/WindsurfAPI	3128	MIT	hosting	Reverse Proxy & Load Balancers	Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。	
+motiful/cc-gateway	3086	MIT	hosting	Reverse Proxy & Load Balancers	AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying	
+motiv-labs/janus	2836	MIT	hosting	Reverse Proxy & Load Balancers	An API Gateway written in Go	
+CJackHwang/AIstudioProxyAPI	2523	AGPL-3.0	hosting	Reverse Proxy & Load Balancers	FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。	
+ithtelab/workbuddy-manager	2508	NOASSERTION	hosting	Reverse Proxy & Load Balancers	腾讯 CodeBuddy 账号池管理控制台，内置 OpenAI 兼容反代网关：扫码批量纳管账号、定时签到与保活、密钥分组分发、IP 与模型白名单、调用日志与用量统计；支持带签名校验的一键更新。	
+ChrispyBacon-dev/DockFlare	2496	NOASSERTION	hosting	Reverse Proxy & Load Balancers	DockFlare: Automate Cloudflare Tunnels with Docker Labels	
+ItzCrazyKns/Vane	38057	MIT	hosting	Search Engines	Vane is an AI-powered answering engine.	
+xerj-org/xerj	18539	Apache-2.0	hosting	Search Engines	AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hund	
+alibaba/zvec	16213	Apache-2.0	hosting	Search Engines	A lightweight, lightning-fast, in-process vector database	
+nextapps-de/flexsearch	13818	Apache-2.0	hosting	Search Engines	Next-generation full-text search library for Browser and Node.js	
+searx/searx	13560	AGPL-3.0	hosting	Search Engines	Privacy-respecting metasearch engine	
+neuml/txtai	13080	Apache-2.0	hosting	Search Engines	💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows	
+zaidmukaddam/scira	11923	AGPL-3.0	hosting	Search Engines	Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!	
+mailpile/Mailpile	8806	NOASSERTION	hosting	Search Engines	A free & open modern, fast email client with user-friendly encryption and privacy features	
+qbittorrent/search-plugins	7228	GPL-2.0	hosting	Search Engines	Search plugins for qBittorrent search feature	
+iorate/ublacklist	6677	MIT	hosting	Search Engines	Blocks specific sites from appearing in Google search results	
+asciimoo/hister	6259	AGPL-3.0	hosting	Search Engines	Your own search engine	
+RediSearch/RediSearch	6245	NOASSERTION	hosting	Search Engines	A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.	
+lucaong/minisearch	6193	MIT	hosting	Search Engines	Tiny and powerful JavaScript full-text search engine for browser and Node	
+vcaesar/riot	6064	Apache-2.0	hosting	Search Engines	Go Open Source, Distributed, Simple and fastest efficient text/vector Search Engine	
+KnockOutEZ/wigolo	5532	NOASSERTION	hosting	Search Engines	The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.	
+soruly/trace.moe	5044	MIT	hosting	Search Engines	Timestamp Retrieval for Anime Clips Everywhere	
+infiniflow/infinity	4762	Apache-2.0	hosting	Search Engines	The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.	
+ssrajadh/sentrysearch	4580	Apache-2.0	hosting	Search Engines	Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.	
+cboxdoerfer/fsearch	4542	GPL-2.0	hosting	Search Engines	A fast file search utility for Unix-like systems based on GTK3	
+unum-cloud/USearch	4372	Apache-2.0	hosting	Search Engines	Fast Open-Source Search & Clustering engine × for Vectors & Arbitrary Objects × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍	
+apache/lucene-solr	4363	Apache-2.0	hosting	Search Engines	Apache Lucene and Solr open-source search software	
+toshi-search/Toshi	4258	MIT	hosting	Search Engines	A full-text search engine in rust	
+yacy/yacy_search_server	4103	NOASSERTION	hosting	Search Engines	Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance	
+ravendb/ravendb	4016	NOASSERTION	hosting	Search Engines	ACID Document Database	
+DO-SAY-GO/tdf	3906	NOASSERTION	hosting	Search Engines	🌱 TDF - Tree Document Format - a universal file format for web collections	
+dotenvx/dotenvx	5875	BSD-3-Clause	hosting	Secrets Management	a secure dotenv—from the creator of `dotenv`	
+eth0izzle/shhgit	3993	MIT	hosting	Secrets Management	Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.	
+deepfence/SecretScanner	3395	MIT	hosting	Secrets Management	:unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:	
+betterleaks/betterleaks	2852	MIT	hosting	Secrets Management	Find leaked secrets everywhere.	
+Infisical/agent-vault	2484	NOASSERTION	hosting	Secrets Management	A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.	
+jkroepke/helm-secrets	2038	Apache-2.0	hosting	Secrets Management	A helm plugin that help manage secrets with Git workflow and store them anywhere	
+GitGuardian/ggshield	2012	MIT	hosting	Secrets Management	Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.	
+mprimi/portable-secret	1742	MIT	hosting	Secrets Management	Better privacy without special software	
+drduh/pwd.sh	1564	MIT	hosting	Secrets Management	Manage secrets with Bash and GnuPG symmetric encryption	
+OWASP/wrongsecrets	1474	AGPL-3.0	hosting	Secrets Management	Vulnerable app with examples showing how to not use secrets	
+GoogleCloudPlatform/berglas	1304	Apache-2.0	hosting	Secrets Management	A tool for managing secrets on Google Cloud	
+mongodb/kingfisher	1297	Apache-2.0	hosting	Secrets Management	Detect secrets + live validation. Map blast radius. Revoke fast. Use the CLI or embed in Rust and Python.	
+dotenvx/react-native-dotenv	858	MIT	hosting	Secrets Management	Load .env into React Native - with support for multiple .env files.	
+envkey/envkey	675	MIT	hosting	Secrets Management	Simple, end-to-end encrypted configuration and secrets management	
+drduh/Purse	616	MIT	hosting	Secrets Management	Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)	
+anuraghazra/github-readme-stats	79845	MIT	hosting	Serverless & FaaS	:zap: Dynamically generated stats for your github readmes	
+serverless/serverless	46932	NOASSERTION	hosting	Serverless & FaaS	⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.	
+dapr/dapr	26177	Apache-2.0	hosting	Serverless & FaaS	Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.	
+alibaba/ice	18602	MIT	hosting	Serverless & FaaS	🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）	
+APIJSON/APIJSON	18391	NOASSERTION	hosting	Serverless & FaaS	🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构	
+aws/chalice	11060	Apache-2.0	hosting	Serverless & FaaS	Python Serverless Microframework for AWS	
+kedacore/keda	10699	Apache-2.0	hosting	Serverless & FaaS	 KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 	
+cncf/landscape	10026	Apache-2.0	hosting	Serverless & FaaS	🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.	
+aws/serverless-application-model	9582	Apache-2.0	hosting	Serverless & FaaS	The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.	
+databendlabs/databend	9493	Apache-2.0	hosting	Serverless & FaaS	Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.	
+apex/up	8792	MIT	hosting	Serverless & FaaS	Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.	
+wasm3/wasm3	8078	MIT	hosting	Serverless & FaaS	🚀 A fast WebAssembly interpreter and the most universal WASM runtime	
+ggerganov/ggwave	7920	MIT	hosting	Serverless & FaaS	Tiny data-over-sound library	
+2FastLabs/agent-squad	7798	Apache-2.0	hosting	Serverless & FaaS	Flexible and powerful framework for managing multiple AI agents and handling complex conversations	
+midwayjs/midway	7755	MIT	hosting	Serverless & FaaS	🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈	
+labring/laf	7545	Apache-2.0	hosting	Serverless & FaaS	Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.	
+node-formidable/formidable	7176	MIT	hosting	Serverless & FaaS	The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.	
+MarSeventh/CloudFlare-ImgBed	6874	MIT	hosting	Serverless & FaaS	🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.	
+rivet-dev/rivet	6774	Apache-2.0	hosting	Serverless & FaaS	The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.	
+aws/aws-sam-cli	6741	Apache-2.0	hosting	Serverless & FaaS	CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM	
+ThreeDotsLabs/wild-workouts-go-ddd-example	6492	MIT	hosting	Serverless & FaaS	Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.	
