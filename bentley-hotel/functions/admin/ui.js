@@ -780,7 +780,16 @@ function clientApp(BOOT) {
       <form class="card" data-submit="settings-save"><div class="head"><h2>Site-wide SEO</h2><span class="dirty" data-dirty hidden>Unsaved changes</span></div><div class="grid2">
         ${fInput('Site name', 'name', site.name)}${fInput('Tagline', 'tagline', site.tagline, { cls: 'span2' })}${fInput('Site URL', 'site_url', site.site_url, { hint: 'Used for canonical links and the sitemap, e.g. https://www.thebentleyhotel.co.uk' })}
         ${fImage('Default social (OG) image', 'default_og_image', site.default_og_image)}${fInput('Default social image alt text', 'default_og_alt', site.default_og_alt, { cls: 'span2' })}
-        ${fText('Extra <head> HTML', 'head_html', site.head_html, { code: true, rows: 4, cls: 'span2', hint: 'Verification tags and the like, added to every page.' })}${fText('Analytics HTML', 'analytics_html', site.analytics_html, { code: true, rows: 4, cls: 'span2', hint: 'Your analytics snippet, added before the closing body tag.' })}
+        ${fInput('Google Search Console verification', 'google_site_verification', site.google_site_verification, { hint: 'The content value from the HTML-tag method (not the whole tag). Leave empty if the domain is verified by DNS.' })}${fInput('Bing Webmaster verification', 'bing_site_verification', site.bing_site_verification, { hint: 'Optional: the msvalidate.01 content value.' })}
+      </div></form>
+      <form class="card" data-submit="settings-save"><div class="head"><h2>Google Analytics 4</h2><span class="dirty" data-dirty hidden>Unsaved changes</span></div><div class="grid2">
+        ${fInput('GA4 Measurement ID', 'ga4_measurement_id', site.ga4_measurement_id, { hint: 'Looks like G-XXXXXXXXXX (GA4 → Admin → Data streams). Leave empty to run without analytics; nothing loads until a visitor accepts the cookie banner.' })}
+        ${fSelect('Booking conversion event', 'ga4_booking_event', site.ga4_booking_event || 'purchase', [['purchase', 'purchase (standard e-commerce event, recommended)'], ['booking_confirmed', 'booking_confirmed (custom event: use if Cloudbeds already sends purchase)'], ['off', 'off: do not report bookings to GA4']], { hint: 'Sent from the server when Cloudbeds confirms a booking (see Bookings). Needs the GA4_API_SECRET secret.' })}
+        ${fInput('Cross-domain linker domains', 'ga4_linker_domains', site.ga4_linker_domains, { hint: 'Comma-separated. Keeps one session when visitors go to the Cloudbeds booking engine. Default us2.cloudbeds.com.' })}${fInput('Currency code', 'currency_code', site.currency_code || 'GBP', { hint: 'Three letters, used for booking values.' })}
+        ${fText('Cookie banner text', 'cookie_banner_text', site.cookie_banner_text, { rows: 2, cls: 'span2', hint: 'Shown with Accept and Reject buttons on the first visit when a Measurement ID is set.' })}
+      </div></form>
+      <form class="card" data-submit="settings-save"><div class="head"><h2>Custom code</h2><span class="dirty" data-dirty hidden>Unsaved changes</span></div><div class="grid2">
+        ${fText('Extra <head> HTML', 'head_html', site.head_html, { code: true, rows: 4, cls: 'span2', hint: 'Other verification tags and the like, added to every page.' })}${fText('Extra body HTML', 'analytics_html', site.analytics_html, { code: true, rows: 4, cls: 'span2', hint: 'Any other snippet, added before the closing body tag. Google Analytics is configured above instead; do not paste its tag here as well.' })}
       </div><button type="submit" class="btn btn--primary">Save</button></form>`, 'SEO');
   }
 

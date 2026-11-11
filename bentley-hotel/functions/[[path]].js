@@ -47,6 +47,7 @@ export async function onRequest(context) {
 
   if (!env.DB) return env.ASSETS.fetch(request);
   if (request.method !== "GET" && request.method !== "HEAD") return new Response("Method not allowed", { status: 405, headers: { Allow: "GET, HEAD" } });
+  await db.ensureSchema(env.DB).catch(() => {});
   if (STATIC_PREFIXES.some((p) => path.startsWith(p))) return env.ASSETS.fetch(request);
   if (path.startsWith("/media/")) return serveMedia(env, path.slice(7));
 

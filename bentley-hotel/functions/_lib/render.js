@@ -5,6 +5,7 @@
 import { ICONS, IMAGES, BRAND_MARK } from "./icons.js";
 import { getTheme, themeStyle } from "./themes.js";
 import { escapeHtml, markdownToHtml } from "./markdown.js";
+import { analyticsHead, analyticsBody } from "./analytics.js";
 
 const SIZES = {
   full: "100vw",
@@ -232,7 +233,7 @@ function head({ site, theme, title, description, path, ogImage, ogAlt, noindex, 
   ${themeStyle(theme)}
   <script src="/assets/js/main.js" defer></script>
   <script src="/assets/js/booking.js" defer></script>${ld}
-  ${site.head_html || ""}${extraHead || ""}
+  ${analyticsHead(site)}${site.head_html || ""}${extraHead || ""}
 </head>`;
 }
 
@@ -275,10 +276,10 @@ function footer({ site, footerNav, more }) {
         <div><h2>Get in touch</h2><ul><li><a href="tel:${attr(site.phone_tel)}">${escapeHtml(site.phone)}</a></li><li><a href="mailto:${attr(site.email)}">${escapeHtml(site.email)}</a></li><li><a href="${attr(hrefFor(site.booking_url))}">Book a room online</a></li>${moreItems}<li><a href="/contact">Send an enquiry</a></li></ul></div>
         <div><h2>Explore</h2><ul>${explore}</ul></div>
       </div>
-      <div class="footer-bottom"><span>&copy; <span data-year>${new Date().getFullYear()}</span> ${escapeHtml(site.name)}, ${escapeHtml(site.address.town)}.</span><span><a href="/accessibility">Accessibility</a> &middot; <a href="/privacy">Privacy &amp; cookies</a> &middot; <a href="/faq">FAQ</a></span></div>
+      <div class="footer-bottom"><span>&copy; <span data-year>${new Date().getFullYear()}</span> ${escapeHtml(site.name)}, ${escapeHtml(site.address.town)}.</span><span><a href="/accessibility">Accessibility</a> &middot; <a href="/privacy">Privacy &amp; cookies</a> &middot; <a href="/faq">FAQ</a><span data-cookie-settings-wrap hidden> &middot; <button type="button" class="link-button" data-cookie-settings>Cookie settings</button></span></span></div>
   </div></footer>
   <nav class="mobile-book" aria-label="Quick actions"><a href="tel:${attr(site.phone_tel)}">${icon("phone")}Call</a><a href="${attr(hrefFor(site.booking_url))}">${icon("calendar")}Book now</a></nav>
-  ${site.analytics_html || ""}
+  ${analyticsBody(site)}${site.analytics_html || ""}
 </body>
 </html>
 `;

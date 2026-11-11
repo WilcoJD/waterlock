@@ -104,6 +104,7 @@ export async function onRequest(context) {
   try {
     if (!env.DB) return err("The database is not configured. Add the D1 binding (DB) in wrangler.toml or the Pages settings.", 503);
     if (!authConfigured(env)) return err("Admin login is not configured. Set the ADMIN_PASSWORD (or ADMIN_PASSWORD_HASH) and SESSION_SECRET secrets.", 503);
+    await db.ensureSchema(env.DB);
 
     if (route === "login" && method === "POST") {
       const ip = request.headers.get("CF-Connecting-IP") || "local";
@@ -137,6 +138,17 @@ export async function onRequest(context) {
         if (!THEMES[site.theme]) return err("Unknown theme");
         if (site.homepage_slug && site.homepage_slug !== "index" && !(await db.getPage(env.DB, site.homepage_slug))) return err("Homepage page not found");
         for (const k of ["name", "phone", "phone_tel", "email", "site_url", "booking_url", "hosted_booking_url"]) if (typeof site[k] !== "string") return err(`${k} must be text`);
+        if (site.site_url && !/^https?:\/\/[a-z0-9.-]+(:\d+)?$/i.test(site.site_url.replace(/\/$/, ""))) return err("Site URL must be like https://www.thebentleyhotel.co.uk (no path)");
+        site.site_url = (site.site_url || "").replace(/\/$/, "");
+        for (const k of ["ga4_measurement_id", "ga4_booking_event", "ga4_linker_domains", "google_site_verification", "bing_site_verification", "cookie_banner_text", "currency_code"]) if (site[k] != null && typeof site[k] !== "string") return err(`${k} must be text`);
+        site.ga4_measurement_id = String(site.ga4_measurement_id || "").trim().toUpperCase();
+        if (site.ga4_measurement_id && !/^G-[A-Z0-9]{4,16}$/.test(site.ga4_measurement_id)) return err("GA4 Measurement ID must look like G-XXXXXXXXXX");
+        if (!["purchase", "booking_confirmed", "off"].includes(site.ga4_booking_event || "purchase")) return err("Booking event must be purchase, booking_confirmed or off");
+        site.ga4_booking_event = site.ga4_booking_event || "purchase";
+        site.ga4_linker_domains = String(site.ga4_linker_domains || "").split(/[\s,]+/).filter(Boolean).map((d) => d.toLowerCase()).join(",");
+        if (site.ga4_linker_domains && !/^[a-z0-9.-]+(,[a-z0-9.-]+)*$/.test(site.ga4_linker_domains)) return err("Linker domains must be host names separated by commas");
+        for (const k of ["google_site_verification", "bing_site_verification"]) { site[k] = String(site[k] || "").trim(); if (site[k] && !/^[A-Za-z0-9_=-]{8,128}$/.test(site[k])) return err(`${k.replace("_site_verification", "")} verification code looks wrong (paste only the content value, not the whole tag)`); }
+        site.currency_code = String(site.currency_code || "GBP").toUpperCase().slice(0, 3) || "GBP";
         site.address = { ...current.address, ...(site.address || {}) };
         site.social = Array.isArray(site.social) ? site.social.filter((s) => s && s.url).map((s) => ({ label: String(s.label || ""), url: String(s.url) })) : [];
         await db.setSetting(env.DB, "site", site);
@@ -211,9 +223,11 @@ export async function onRequest(context) {
           const bytes = new Uint8Array(await f.arrayBuffer());
           const safe = String(f.name || "upload").toLowerCase().replace(/\.[a-z0-9]+$/, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 60) || "upload";
           const key = `${Date.now().toString(36)}-${safe}.${ext}`;
-          await env.MEDIA.put(key, bytes, { httpMetadata: { contentType: f.type } });
+          const stored = await env.MEDIA.put(key, bytes, { httpMetadata: { contentType: f.type } });
           const dims = f.type.startsWith("image/") ? imageSize(bytes) : { width: null, height: null };
-          const rec = { key, filename: f.name, content_type: f.type, size: f.size, alt: String(form.get("alt") || ""), ...dims };
+          // Stores that keep files at their own address (Vercel Blob) return it; R2 does not, and /media/<key> serves the file.
+          const external = stored && typeof stored.url === "string" && /^https:\/\//.test(stored.url) ? stored.url : null;
+          const rec = { key, filename: f.name, content_type: f.type, size: f.size, alt: String(form.get("alt") || ""), ...dims, url: external };
           await db.addMedia(env.DB, rec);
           saved.push({ ...rec, url: `/media/${key}` });
         }

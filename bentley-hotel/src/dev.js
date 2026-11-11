@@ -94,6 +94,8 @@ export async function createApp({ dbPath = ":memory:", mediaDir = join(ROOT, ".d
   const { onRequest: site } = await import("../functions/[[path]].js");
   const { onRequest: admin } = await import("../functions/admin/[[path]].js");
   const { onRequest: availability } = await import("../functions/api/availability.js");
+  const { onRequest: webhook } = await import("../functions/api/cloudbeds/webhook.js");
+  const { onRequest: sync } = await import("../functions/api/cloudbeds/sync.js");
   if (seed) {
     const { loadSeed, isEmpty } = await import("../functions/_lib/db.js");
     const { default: SEED } = await import("../functions/_lib/seed-data.js");
@@ -105,6 +107,8 @@ export async function createApp({ dbPath = ":memory:", mediaDir = join(ROOT, ".d
     try {
       if (path === "/admin" || path.startsWith("/admin/")) return await admin(context);
       if (path === "/api/availability") return await availability(context);
+      if (path === "/api/cloudbeds/webhook") return await webhook(context);
+      if (path === "/api/cloudbeds/sync") return await sync(context);
       return await site(context);
     } catch (e) {
       console.error(e);

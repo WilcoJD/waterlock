@@ -30,7 +30,14 @@
   "head_html": "",
   "analytics_html": "",
   "default_og_image": "assets/img/exterior-700.jpg",
-  "default_og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall tower and a conservatory, in Motherwell"
+  "default_og_alt": "Bentley Hotel, a sandstone Victorian villa with a tall tower and a conservatory, in Motherwell",
+  "currency_code": "GBP",
+  "ga4_measurement_id": "",
+  "ga4_booking_event": "purchase",
+  "ga4_linker_domains": "us2.cloudbeds.com",
+  "google_site_verification": "",
+  "bing_site_verification": "",
+  "cookie_banner_text": "We use Google Analytics to understand how the site is used and to improve it. Analytics cookies are only set if you accept."
  },
  "version": 1
 }

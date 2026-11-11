@@ -3,12 +3,18 @@
   "private": true,
   "type": "module",
   "description": "Bentley Hotel, Motherwell: website with an admin area, blog, events and live Cloudbeds availability, on Cloudflare Pages",
-  "engines": { "node": ">=22.13" },
+  "engines": {
+    "node": ">=22.13"
+  },
   "scripts": {
     "dev": "node --disable-warning=ExperimentalWarning src/dev.js",
     "build": "node src/build.js",
     "check": "python3 -I src/check.py public",
     "test": "node --disable-warning=ExperimentalWarning --test tests/*.test.mjs",
     "hash-password": "node src/hash-password.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "@vercel/blob": "^0.27.3"
   }
 }
