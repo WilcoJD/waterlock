@@ -139,18 +139,18 @@ export async function deletePost(db, slug) {
 /* ---------- media ---------- */
 
 export async function listMedia(db) {
-  const { results } = await db.prepare("SELECT key, filename, content_type, size, alt, width, height, created_at FROM media ORDER BY created_at DESC").all();
+  const { results } = await db.prepare("SELECT key, filename, content_type, size, alt, width, height, url, created_at FROM media ORDER BY created_at DESC").all();
   return results || [];
 }
 export async function addMedia(db, m) {
-  await db.prepare("INSERT INTO media (key, filename, content_type, size, alt, width, height) VALUES (?1,?2,?3,?4,?5,?6,?7)")
-    .bind(m.key, m.filename, m.content_type, m.size || 0, m.alt || "", m.width || null, m.height || null).run();
+  await db.prepare("INSERT INTO media (key, filename, content_type, size, alt, width, height, url) VALUES (?1,?2,?3,?4,?5,?6,?7,?8)")
+    .bind(m.key, m.filename, m.content_type, m.size || 0, m.alt || "", m.width || null, m.height || null, m.url || null).run();
 }
 export async function updateMedia(db, key, { alt }) {
   await db.prepare("UPDATE media SET alt = ?2 WHERE key = ?1").bind(key, String(alt || "")).run();
 }
 export async function getMedia(db, key) {
-  return db.prepare("SELECT key, filename, content_type, size, alt, width, height, created_at FROM media WHERE key = ?1").bind(key).first();
+  return db.prepare("SELECT key, filename, content_type, size, alt, width, height, url, created_at FROM media WHERE key = ?1").bind(key).first();
 }
 export async function deleteMedia(db, key) {
   await db.prepare("DELETE FROM media WHERE key = ?1").bind(key).run();
@@ -253,4 +253,65 @@ export async function exportAll(db) {
     backlinks: await listBacklinks(db),
     redirects: await listRedirects(db),
   };
+}
+
+/* ---------- schema upkeep ---------- */
+
+let schemaChecked = false;
+/** Creates tables added after the first release and adds missing columns. Safe to call often. */
+export async function ensureSchema(db) {
+  if (schemaChecked) return;
+  schemaChecked = true;
+  await db.prepare(`CREATE TABLE IF NOT EXISTS bookings (reservation_id TEXT PRIMARY KEY, status TEXT NOT NULL DEFAULT '', source TEXT NOT NULL DEFAULT '', guest_name TEXT NOT NULL DEFAULT '',
+    checkin TEXT, checkout TEXT, nights INTEGER NOT NULL DEFAULT 0, adults INTEGER NOT NULL DEFAULT 0, children INTEGER NOT NULL DEFAULT 0, rooms TEXT NOT NULL DEFAULT '[]',
+    total REAL NOT NULL DEFAULT 0, currency TEXT NOT NULL DEFAULT 'GBP', booked_at TEXT, modified_at TEXT, cancelled_at TEXT, reported_at TEXT,
+    created_at TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')), updated_at TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')))`).run();
+  await db.prepare("CREATE TABLE IF NOT EXISTS integration_log (id INTEGER PRIMARY KEY AUTOINCREMENT, kind TEXT NOT NULL, ok INTEGER NOT NULL DEFAULT 1, message TEXT NOT NULL DEFAULT '', at TEXT NOT NULL DEFAULT (strftime('%Y-%m-%dT%H:%M:%fZ','now')))").run();
+  try { await db.prepare("ALTER TABLE media ADD COLUMN url TEXT").run(); } catch { /* column already there */ }
+}
+
+/* ---------- bookings ---------- */
+
+export function rowToBooking(r) {
+  if (!r) return null;
+  return { ...r, rooms: parse(r.rooms, []), total: Number(r.total) || 0, nights: Number(r.nights) || 0, adults: Number(r.adults) || 0, children: Number(r.children) || 0 };
+}
+export async function upsertBooking(db, b) {
+  await db.prepare(`INSERT INTO bookings (reservation_id, status, source, guest_name, checkin, checkout, nights, adults, children, rooms, total, currency, booked_at, modified_at, cancelled_at, updated_at)
+    VALUES (?1,?2,?3,?4,?5,?6,?7,?8,?9,?10,?11,?12,?13,?14,?15,?16)
+    ON CONFLICT(reservation_id) DO UPDATE SET status=excluded.status, source=excluded.source, guest_name=excluded.guest_name, checkin=excluded.checkin, checkout=excluded.checkout,
+    nights=excluded.nights, adults=excluded.adults, children=excluded.children, rooms=excluded.rooms, total=excluded.total, currency=excluded.currency, booked_at=COALESCE(excluded.booked_at, bookings.booked_at),
+    modified_at=excluded.modified_at, cancelled_at=excluded.cancelled_at, updated_at=excluded.updated_at`)
+    .bind(String(b.reservation_id), b.status || "", b.source || "", b.guest_name || "", b.checkin || null, b.checkout || null, Number(b.nights) || 0, Number(b.adults) || 0, Number(b.children) || 0,
+      JSON.stringify(b.rooms || []), Number(b.total) || 0, b.currency || "GBP", b.booked_at || null, b.modified_at || null, b.cancelled_at || null, now()).run();
+}
+export async function getBooking(db, id) {
+  return rowToBooking(await db.prepare("SELECT * FROM bookings WHERE reservation_id = ?1").bind(String(id)).first());
+}
+export async function markBookingReported(db, id) {
+  await db.prepare("UPDATE bookings SET reported_at = ?2 WHERE reservation_id = ?1").bind(String(id), now()).run();
+}
+export async function listBookings(db, { from, to, status, limit = 200 } = {}) {
+  const where = [], args = [];
+  if (from) { args.push(from); where.push(`COALESCE(booked_at, created_at) >= ?${args.length}`); }
+  if (to) { args.push(to); where.push(`COALESCE(booked_at, created_at) < ?${args.length}`); }
+  if (status) { args.push(status); where.push(`status = ?${args.length}`); }
+  const { results } = await db.prepare(`SELECT * FROM bookings${where.length ? " WHERE " + where.join(" AND ") : ""} ORDER BY COALESCE(booked_at, created_at) DESC LIMIT ${Math.min(Number(limit) || 200, 1000)}`).bind(...args).all();
+  return (results || []).map(rowToBooking);
+}
+/** Monthly counts and revenue for the last `months` months (by booking date), live bookings only. */
+export async function bookingStats(db, months = 12) {
+  const since = new Date(); since.setUTCMonth(since.getUTCMonth() - months + 1, 1); since.setUTCHours(0, 0, 0, 0);
+  const { results } = await db.prepare(`SELECT substr(COALESCE(booked_at, created_at), 1, 7) AS month, COUNT(*) AS bookings, SUM(CASE WHEN status IN ('canceled','no_show') THEN 0 ELSE total END) AS revenue,
+      SUM(CASE WHEN status IN ('canceled','no_show') THEN 1 ELSE 0 END) AS cancelled, SUM(CASE WHEN source LIKE '%Booking Engine%' OR source LIKE '%Website%' THEN 1 ELSE 0 END) AS direct
+    FROM bookings WHERE COALESCE(booked_at, created_at) >= ?1 GROUP BY month ORDER BY month`).bind(since.toISOString()).all();
+  return (results || []).map((r) => ({ month: r.month, bookings: Number(r.bookings), revenue: Math.round((Number(r.revenue) || 0) * 100) / 100, cancelled: Number(r.cancelled), direct: Number(r.direct) }));
+}
+export async function logIntegration(db, kind, ok, message) {
+  await db.prepare("INSERT INTO integration_log (kind, ok, message) VALUES (?1, ?2, ?3)").bind(kind, ok ? 1 : 0, String(message || "").slice(0, 2000)).run();
+  await db.prepare("DELETE FROM integration_log WHERE id NOT IN (SELECT id FROM integration_log ORDER BY id DESC LIMIT 500)").run();
+}
+export async function recentLog(db, limit = 50) {
+  const { results } = await db.prepare(`SELECT id, kind, ok, message, at FROM integration_log ORDER BY id DESC LIMIT ${Number(limit) || 50}`).all();
+  return results || [];
 }
